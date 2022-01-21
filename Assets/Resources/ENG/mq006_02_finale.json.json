@@ -1,0 +1,321 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1833009678875906052",
+            "femaleVariant": "Should be all set to go."
+          },
+          {
+            "stringId": "1833009992408518656",
+            "femaleVariant": "You come here often?"
+          },
+          {
+            "stringId": "1833010382512345088",
+            "femaleVariant": "Come by here often?"
+          },
+          {
+            "stringId": "1833011213538185216",
+            "femaleVariant": "Should be all set to go."
+          },
+          {
+            "stringId": "1833012131067351040",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Koumanman.\" b=\"\" a=\" You serious?\"/>"
+          },
+          {
+            "stringId": "1833013487354269696",
+            "femaleVariant": "Dumped the safety mechanisms and switched on the emergency power."
+          },
+          {
+            "stringId": "1833014203808501760",
+            "femaleVariant": "Hey, you hear dat? Who wanna go first?"
+          },
+          {
+            "stringId": "1833015529644773376",
+            "femaleVariant": "I think I drank too much."
+          },
+          {
+            "stringId": "1833020054896136192",
+            "femaleVariant": "All right, fine."
+          },
+          {
+            "stringId": "1833020773330079744",
+            "femaleVariant": "No thanks."
+          },
+          {
+            "stringId": "1833021274197086208",
+            "femaleVariant": "All right, fine."
+          },
+          {
+            "stringId": "1833021811420319744",
+            "femaleVariant": "'Ey! Dat de spirit! We sit back and watch."
+          },
+          {
+            "stringId": "1833022806443446272",
+            "femaleVariant": "Nuh-uh, no thanks."
+          },
+          {
+            "stringId": "1833023191849652224",
+            "femaleVariant": "Heh, all right. I go, den."
+          },
+          {
+            "stringId": "1833023483924205568",
+            "femaleVariant": "Bravo, Jean! At least one of us here is no pussy-ass chicken! Haha!"
+          },
+          {
+            "stringId": "1833024562380427264",
+            "femaleVariant": "Come on, what you waiting for?"
+          },
+          {
+            "stringId": "1833033761797722112",
+            "femaleVariant": "Jean! Jean!"
+          },
+          {
+            "stringId": "1833034166564835328",
+            "femaleVariant": "Jean! Jean!"
+          },
+          {
+            "stringId": "1833034310865670144",
+            "femaleVariant": "Go for it!"
+          },
+          {
+            "stringId": "1833034735178240004",
+            "femaleVariant": "Hey, she really gonna do it!",
+            "maleVariant": "Hey, he really gonna do it!"
+          },
+          {
+            "stringId": "1833048350744662016",
+            "femaleVariant": "Dat was...! I almost shit myself from watching you."
+          },
+          {
+            "stringId": "1833049637943005188",
+            "femaleVariant": "So, how was it?"
+          },
+          {
+            "stringId": "1833050409007075328",
+            "femaleVariant": "Oooh! Amazing! I almost shit myself!"
+          },
+          {
+            "stringId": "1873399965842165760",
+            "femaleVariant": "Bet you anything you're gonna scream like a little girl."
+          },
+          {
+            "stringId": "1873445699576680448",
+            "femaleVariant": "Ohhh, shiiiiiiiiiit!"
+          },
+          {
+            "stringId": "1873448938636333060",
+            "femaleVariant": "Whoa..."
+          },
+          {
+            "stringId": "1873453733111681028",
+            "femaleVariant": "Whooooah!"
+          },
+          {
+            "stringId": "1873454581199949828",
+            "femaleVariant": "Holy fuck..."
+          },
+          {
+            "stringId": "1873455661132566532",
+            "femaleVariant": "You seein' this?!"
+          },
+          {
+            "stringId": "1873511148368711684",
+            "femaleVariant": "Fuck yeah!"
+          },
+          {
+            "stringId": "1873532075076767748",
+            "femaleVariant": "Looks like you've got a pair, after all."
+          },
+          {
+            "stringId": "1873533832976683008",
+            "femaleVariant": "Animals on one side, juju wireheads on the other... But fuck it. Today we ride!"
+          },
+          {
+            "stringId": "1873536562478731268",
+            "femaleVariant": "Whoa..."
+          },
+          {
+            "stringId": "1917098048042586112",
+            "femaleVariant": "Hey-wood!"
+          },
+          {
+            "stringId": "1917098371524087808",
+            "femaleVariant": "Ba-by-lon! Ba-by-lon!"
+          },
+          {
+            "stringId": "1917098688277925888",
+            "femaleVariant": "Ba-kker! Ba-kker!"
+          },
+          {
+            "stringId": "1917100649953906688",
+            "femaleVariant": "Hey-wood! Hey-wood!"
+          },
+          {
+            "stringId": "1917101791995777024",
+            "femaleVariant": "Ba-by-lon! Ba-by-lon!"
+          },
+          {
+            "stringId": "1917102327742615552",
+            "femaleVariant": "Come on!"
+          },
+          {
+            "stringId": "1917103214586253312",
+            "femaleVariant": "Ba-kker! Ba-kker!"
+          },
+          {
+            "stringId": "1917114861480595456",
+            "femaleVariant": "Let her go first. She de one who fix it.",
+            "maleVariant": "Let him go first. He de one who fix it."
+          },
+          {
+            "stringId": "1917115167094362112",
+            "femaleVariant": "What if we stop in the middle?"
+          },
+          {
+            "stringId": "1917121582852755456",
+            "femaleVariant": "Hold my beer."
+          },
+          {
+            "stringId": "1917122274594148352",
+            "femaleVariant": "We're doing this, V."
+          },
+          {
+            "stringId": "1917126549311344640",
+            "femaleVariant": "But if it stop in the middle... you will come for me?"
+          },
+          {
+            "stringId": "1917126862827180032",
+            "femaleVariant": "Fuck partner, of course! You can count on us!"
+          },
+          {
+            "stringId": "1917128295215550464",
+            "femaleVariant": "Too bad you not go!"
+          },
+          {
+            "stringId": "1917138532756639744",
+            "femaleVariant": "Doooo it, doooo it!"
+          },
+          {
+            "stringId": "1917140553706524672",
+            "femaleVariant": "Jean! Jean!"
+          },
+          {
+            "stringId": "1917161416392724480",
+            "femaleVariant": "You're a crazy bitch, you know that?",
+            "maleVariant": "You're a crazy fuck, you know that?"
+          },
+          {
+            "stringId": "1917161419798499328",
+            "femaleVariant": "You wanted it."
+          },
+          {
+            "stringId": "1917161423422377984",
+            "femaleVariant": "Now you'll do whatever I want, huh? Heh! 'Bout fuckin' time."
+          },
+          {
+            "stringId": "1917165378281951232",
+            "femaleVariant": "Beer?"
+          },
+          {
+            "stringId": "1917168850897227776",
+            "femaleVariant": "When der is time."
+          },
+          {
+            "stringId": "1917171691162456064",
+            "femaleVariant": "As you know – de rest of de time we steal cars and bake sweet potato. As one does in Pacifica."
+          },
+          {
+            "stringId": "1927168464186527744",
+            "femaleVariant": "Dis was a good day."
+          },
+          {
+            "stringId": "1927169771584638980",
+            "femaleVariant": "[Talk]"
+          },
+          {
+            "stringId": "1927170061293604868",
+            "femaleVariant": "[Talk]"
+          },
+          {
+            "stringId": "1927170357864452096",
+            "femaleVariant": "So? Tomorrow we fire up the ferris wheel?"
+          },
+          {
+            "stringId": "1927180492829642752",
+            "femaleVariant": "Hey, anything possible now."
+          },
+          {
+            "stringId": "1927183042698039296",
+            "femaleVariant": "Tomorrow we were supposed to swim."
+          },
+          {
+            "stringId": "1927184292030205952",
+            "femaleVariant": "You can come wid us to da beach, if you want."
+          },
+          {
+            "stringId": "1940138545259761664",
+            "femaleVariant": "Ba-by-lon! Ba-by-lon!"
+          },
+          {
+            "stringId": "1940138873958977536",
+            "femaleVariant": "Ba-by-lon! Ba-by-lon!"
+          },
+          {
+            "stringId": "1940139378349199360",
+            "femaleVariant": "Ba-by-lon! Ba-by-lon!"
+          },
+          {
+            "stringId": "1940141232147681280",
+            "femaleVariant": "Ba-kker! Ba-kker!"
+          },
+          {
+            "stringId": "1940141570678345728",
+            "femaleVariant": "Ba-kker! Ba-kker!"
+          },
+          {
+            "stringId": "1940141743114571776",
+            "femaleVariant": "Ba-kker! Ba-kker!"
+          },
+          {
+            "stringId": "1940142866399514624",
+            "femaleVariant": "Hey-wood! Hey-wood!"
+          },
+          {
+            "stringId": "1940142963858362368",
+            "femaleVariant": "Hey-wood! Hey-wood!"
+          },
+          {
+            "stringId": "1940143156309807104",
+            "femaleVariant": "Hey-wood! Hey-wood!"
+          },
+          {
+            "stringId": "2074789858831781892",
+            "femaleVariant": "[Get in]"
+          },
+          {
+            "stringId": "2075001373287534596",
+            "femaleVariant": "[Get out]"
+          },
+          {
+            "stringId": "2076272792726163460",
+            "femaleVariant": "[Raise arms]"
+          }
+        ]
+      }
+
+
+

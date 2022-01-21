@@ -1,0 +1,193 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1876477122291703812",
+            "femaleVariant": "<mothertongue l=\"jpn\" m=\"Gomi-kuzu\" b=\"嘿！\" a=\"垃圾！看什么呢？\"/>"
+          },
+          {
+            "stringId": "1876477122325258244",
+            "femaleVariant": "我以前见过你吗…？哎等等，没有。因为你屁都不是。"
+          },
+          {
+            "stringId": "1876477122392367104",
+            "femaleVariant": "你把我当什么了？滚出去！",
+            "maleVariant": "听着狗杂种，你把我当什么了？滚出去！"
+          },
+          {
+            "stringId": "1876477122409144324",
+            "femaleVariant": "你往哪儿钻呢？"
+          },
+          {
+            "stringId": "1876477122459475972",
+            "femaleVariant": "拿上你那破玩意儿给我滚！"
+          },
+          {
+            "stringId": "1876477122493030404",
+            "femaleVariant": "收起来，不然我废了你。"
+          },
+          {
+            "stringId": "1876477122543362052",
+            "femaleVariant": "跟你说话呢！"
+          },
+          {
+            "stringId": "1876477122576916484",
+            "femaleVariant": "这是你自找的啊。"
+          },
+          {
+            "stringId": "1876477122627248132",
+            "femaleVariant": "滚蛋。"
+          },
+          {
+            "stringId": "1876477122644025348",
+            "femaleVariant": "滚吧。"
+          },
+          {
+            "stringId": "1876477122711134212",
+            "femaleVariant": "嗯？"
+          },
+          {
+            "stringId": "1876477122744688644",
+            "femaleVariant": "有人吗？喂？"
+          },
+          {
+            "stringId": "1876477122795020292",
+            "femaleVariant": "邪门儿了…"
+          },
+          {
+            "stringId": "1876477122828574724",
+            "femaleVariant": "总感觉哪里不对劲儿啊…"
+          },
+          {
+            "stringId": "1876477122895683588",
+            "femaleVariant": "她就在这儿！我能感觉到！",
+            "maleVariant": "他就在这儿！我能感觉到！"
+          },
+          {
+            "stringId": "1876477122912460804",
+            "femaleVariant": "我会找到你的。"
+          },
+          {
+            "stringId": "1876477122946015236",
+            "femaleVariant": "死人了！"
+          },
+          {
+            "stringId": "1876477122996346884",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"分かりました。\" t=\"明白。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1876477123080232964",
+            "femaleVariant": "我撕烂你的脸！"
+          },
+          {
+            "stringId": "1876477123147341828",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"このクソ野郎！\" t=\"狗屎不如的玩意！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1876477123197673476",
+            "femaleVariant": "兄弟们当心！"
+          },
+          {
+            "stringId": "1876477123264782340",
+            "femaleVariant": "给你点苦头尝尝！"
+          },
+          {
+            "stringId": "1876477123298336772",
+            "femaleVariant": "要活的，听到了吗？我还没玩儿够呢！"
+          },
+          {
+            "stringId": "1876477123348668420",
+            "femaleVariant": "不！不，不，不，不，不！"
+          },
+          {
+            "stringId": "1876477123365445636",
+            "femaleVariant": "我见红了！我好像见红了！"
+          },
+          {
+            "stringId": "1876477123432554496",
+            "femaleVariant": "滚！"
+          },
+          {
+            "stringId": "1876477123449331716",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"てめい、喧嘩売ってんの？\" t=\"想找麻烦是吗？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1876477123482886148",
+            "femaleVariant": "喂？"
+          },
+          {
+            "stringId": "1876477123549995012",
+            "femaleVariant": "这是谁干的…？我想想…"
+          },
+          {
+            "stringId": "1876477123566772228",
+            "femaleVariant": "我会还的，再匀我一点时间…"
+          },
+          {
+            "stringId": "1876477123617103876",
+            "femaleVariant": "靠！从侧面包抄！"
+          },
+          {
+            "stringId": "1876477123667435520",
+            "femaleVariant": "我尽量！"
+          },
+          {
+            "stringId": "1876477123700989956",
+            "femaleVariant": "手雷！隐蔽！"
+          },
+          {
+            "stringId": "1876477123717767172",
+            "femaleVariant": "挂了！"
+          },
+          {
+            "stringId": "1876477123751321604",
+            "femaleVariant": "真是怪了…"
+          },
+          {
+            "stringId": "1876477123801653252",
+            "femaleVariant": "喂——过来。"
+          },
+          {
+            "stringId": "1876477123835207684",
+            "femaleVariant": "来。跟紧我。"
+          },
+          {
+            "stringId": "1876477123885539332",
+            "femaleVariant": "来啊。快来！"
+          },
+          {
+            "stringId": "1876477123919093764",
+            "femaleVariant": "快杀了她！",
+            "maleVariant": "快杀了他！"
+          },
+          {
+            "stringId": "1876477123969425412",
+            "femaleVariant": "呃咳咳咳咳咳…呃…嗯嗯嗯…求你…"
+          },
+          {
+            "stringId": "1876514249582845952",
+            "femaleVariant": "呃…我早该想到的…"
+          },
+          {
+            "stringId": "1876514583986315264",
+            "femaleVariant": "那你就不该把粉放那儿…！你是算计好的吧…！靠！"
+          }
+        ]
+      }
+
+
+

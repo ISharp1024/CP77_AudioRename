@@ -1,0 +1,378 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1548705495168040960",
+            "femaleVariant": "Hop in."
+          },
+          {
+            "stringId": "1548705495184818176",
+            "femaleVariant": "Sure."
+          },
+          {
+            "stringId": "1548705495184818192",
+            "femaleVariant": "[Get out] We'll meet there."
+          },
+          {
+            "stringId": "1548705495604248576",
+            "femaleVariant": "Let's get going."
+          },
+          {
+            "stringId": "1548705495604248584",
+            "femaleVariant": "On our way."
+          },
+          {
+            "stringId": "1548705495621025792",
+            "femaleVariant": "We'll meet on site. Need to get a few things together first."
+          },
+          {
+            "stringId": "1548705495621025800",
+            "femaleVariant": "OK… Just not too long, all right?"
+          },
+          {
+            "stringId": "1548705495872684032",
+            "femaleVariant": "Lemme get everything prepped. You make sure the wreath's snug on you."
+          },
+          {
+            "stringId": "1548705495923015680",
+            "femaleVariant": "[Put on headset] Ready."
+          },
+          {
+            "stringId": "1548705496191451136",
+            "femaleVariant": "Ready when you are."
+          },
+          {
+            "stringId": "1548729004443287552",
+            "femaleVariant": "No time to lose. We gotta go there."
+          },
+          {
+            "stringId": "1622711600342278144",
+            "femaleVariant": "I let her go back to Clouds. Coulda stopped her but I didn't..."
+          },
+          {
+            "stringId": "1622712692304158720",
+            "femaleVariant": "Think I'll try calling Wakako. Fixer Fingers mentioned."
+          },
+          {
+            "stringId": "1622712692304158728",
+            "femaleVariant": "Thought of an angle to run on her?"
+          },
+          {
+            "stringId": "1622712692320935940",
+            "femaleVariant": "Why would I need one?"
+          },
+          {
+            "stringId": "1622778108330287104",
+            "femaleVariant": "Know where we can get our hands on an XBD. Might not be a Death's Head, but it'll be a start."
+          },
+          {
+            "stringId": "1622778210453200896",
+            "femaleVariant": "Saw a smut shop on Jig-Jig Street. All kinds of stuff there."
+          },
+          {
+            "stringId": "1622778697546113024",
+            "femaleVariant": "Saw a virtu pusher on Jig-Jig Street. Had a wide selection."
+          },
+          {
+            "stringId": "1622784977224507392",
+            "femaleVariant": "Was on a contract taken out on a guy named Jotaro Shobo."
+          },
+          {
+            "stringId": "1622786589514964992",
+            "femaleVariant": "Think you might find a Death's Head?"
+          },
+          {
+            "stringId": "1622787686476455936",
+            "femaleVariant": "Could have what we're looking for."
+          },
+          {
+            "stringId": "1622787999103098880",
+            "femaleVariant": "Even if she knows the studio's location, she's not gonna spill. Be putting her neck on the line."
+          },
+          {
+            "stringId": "1637473209511796736",
+            "femaleVariant": "Want to you describe what you see. Might catch something I'd miss."
+          },
+          {
+            "stringId": "1637506397697171456",
+            "femaleVariant": "You'll watch while I edit in real-time. The ol' one-two."
+          },
+          {
+            "stringId": "1637516534021316608",
+            "femaleVariant": "Hm. M'kay. I'm buyin' the braindance. We can analyze, play detective."
+          },
+          {
+            "stringId": "1637524562070167552",
+            "femaleVariant": "Need to find out where they scroll these things."
+          },
+          {
+            "stringId": "1637551909687222272",
+            "femaleVariant": "Mhm. The Mox put a bounty on his head. So you were the one to cut him down?"
+          },
+          {
+            "stringId": "1637552223790260224",
+            "femaleVariant": "Found out he was dealin' in XBDs, sourced from someone on Jig-Jig Street. Got the coordinates."
+          },
+          {
+            "stringId": "1637581584908115968",
+            "femaleVariant": "Can't hurt to try."
+          },
+          {
+            "stringId": "1639034783519170560",
+            "femaleVariant": "Definitely. Ride with me?"
+          },
+          {
+            "stringId": "1672395999352152064",
+            "femaleVariant": "Death's Head – heard the term used, ever?"
+          },
+          {
+            "stringId": "1672397642529464320",
+            "femaleVariant": "Death's Head symbol bring anything to mind? Anything, doesn't matter how small."
+          },
+          {
+            "stringId": "1672405477959098368",
+            "femaleVariant": "This industry... I mean, market's lookin' for every kind of fetish out there. It's cavernous. But an XBD outfit'd be on the move almost always."
+          },
+          {
+            "stringId": "1672410506342391808",
+            "femaleVariant": "Makes 'em harder to nab, harder to sting."
+          },
+          {
+            "stringId": "1711758081233989636",
+            "femaleVariant": "Can't afford to lose our nerve."
+          },
+          {
+            "stringId": "1711759120750292992",
+            "femaleVariant": "Don't worry, we'll find her."
+          },
+          {
+            "stringId": "1711768625076711424",
+            "femaleVariant": "Don't worry, we'll find her. I know it."
+          },
+          {
+            "stringId": "1712447394259087360",
+            "femaleVariant": "Losing our cool won't do us any favors. It's a waste of time."
+          },
+          {
+            "stringId": "1712447948276314112",
+            "femaleVariant": "Only lead we got's an XBD. Where's that get us?"
+          },
+          {
+            "stringId": "1712452884787572736",
+            "femaleVariant": "We'll fuckin' find what's left of her butchered corpse."
+          },
+          {
+            "stringId": "1712453618304233472",
+            "femaleVariant": "And you two... got along swimmingly, didn't ya? Exchange numbers, too?"
+          },
+          {
+            "stringId": "1712454665756160000",
+            "femaleVariant": "How I got the info shouldn't matter."
+          },
+          {
+            "stringId": "1712455194272018432",
+            "femaleVariant": "Fingers isn't that bad."
+          },
+          {
+            "stringId": "1712455649723101184",
+            "femaleVariant": "Can we not lose our cool? Said what I needed to learn what we now know."
+          },
+          {
+            "stringId": "1712455679200669696",
+            "femaleVariant": "Trust me, Judy – compared to the pieces of shit I scrape off my shoe every day…"
+          },
+          {
+            "stringId": "1734527195116429312",
+            "femaleVariant": "Two birds of a fucking feather."
+          },
+          {
+            "stringId": "1734554115166134272",
+            "femaleVariant": "We also know we're lookin' for something related to the Death's Head. Better than nothing."
+          },
+          {
+            "stringId": "1734555364280197120",
+            "femaleVariant": "Oh, I'm cool. Real fuckin' cool with the fact Ev's probably already dead!"
+          },
+          {
+            "stringId": "1734565083623415808",
+            "femaleVariant": "You don't know that. And I'm sure as hell not gonna squander precious minutes we could spend lookin'."
+          },
+          {
+            "stringId": "1734596784491814912",
+            "femaleVariant": "Dark net domain, that's our best bet. Let's stick to the plan."
+          },
+          {
+            "stringId": "1734596784508592132",
+            "femaleVariant": "Fine. Here's hoping you turn up something useful."
+          },
+          {
+            "stringId": "1734668607585738752",
+            "femaleVariant": "Meantime, see if I can't find something on the NCP domain."
+          },
+          {
+            "stringId": "1734670286515298304",
+            "femaleVariant": "Hm, took your sweet time getting to Fingers..."
+          },
+          {
+            "stringId": "1734670756025688064",
+            "femaleVariant": "Drop it, will ya?"
+          },
+          {
+            "stringId": "1734670941984350208",
+            "femaleVariant": "All right, the pusher – what about him?"
+          },
+          {
+            "stringId": "1734673276718505984",
+            "femaleVariant": "I'll wait in the van."
+          },
+          {
+            "stringId": "1734758315527462912",
+            "femaleVariant": "Really? Ya seemed forgiving to me, like you were letting him off easy."
+          },
+          {
+            "stringId": "1734760562617442304",
+            "femaleVariant": "Fingers doesn't come close to being half their brand of rotten."
+          },
+          {
+            "stringId": "1734760869674049536",
+            "femaleVariant": "Got no fucking words, V, none…"
+          },
+          {
+            "stringId": "1736059154569322496",
+            "femaleVariant": "Hey! Keep it together! Wanna give up, now?"
+          },
+          {
+            "stringId": "1736059517527613440",
+            "femaleVariant": "No..."
+          },
+          {
+            "stringId": "1753450567874994176",
+            "femaleVariant": "Need to figure out where they're scrollin' this stuff. Gotta be a rat-hole of some sort, doubt they do much shooting on location."
+          },
+          {
+            "stringId": "1753450567874994192",
+            "femaleVariant": "Yeah, gotta be somewhere quiet, out of the way."
+          },
+          {
+            "stringId": "1753450567874994208",
+            "femaleVariant": "Could be we'd see something to point us in their direction in one of their virtus."
+          },
+          {
+            "stringId": "1753450567891771392",
+            "femaleVariant": "Have to be real gonks to leave a clue…"
+          },
+          {
+            "stringId": "1753450567891771424",
+            "femaleVariant": "Lemme think for a sec."
+          },
+          {
+            "stringId": "1753465613749411844",
+            "femaleVariant": "I'll take a look around Jig-Jig Street."
+          },
+          {
+            "stringId": "1764715735219609600",
+            "femaleVariant": "Know a fixer in Westbrook. I'll drop her a line."
+          },
+          {
+            "stringId": "1766143482942676992",
+            "femaleVariant": "V, fixers don't hand out information right and left."
+          },
+          {
+            "stringId": "1766143940960673792",
+            "femaleVariant": "Done a couple of things for her, not that she owes me… But let's see what she has to say."
+          },
+          {
+            "stringId": "1774805440663347200",
+            "femaleVariant": "I don't get your optimism. Still sounds like a big fat nothing to me."
+          },
+          {
+            "stringId": "1774874681877946372",
+            "femaleVariant": "Got a better idea?"
+          },
+          {
+            "stringId": "1774875189606834176",
+            "femaleVariant": "Everyone, everything leaves a trace behind."
+          },
+          {
+            "stringId": "1774876612700626944",
+            "femaleVariant": "Got a better idea?"
+          },
+          {
+            "stringId": "1774879948598370304",
+            "femaleVariant": "Matter of fact, I do. A domain called \"Pleasures of Night City\" – there's a twin of it on the dark net."
+          },
+          {
+            "stringId": "1774888089775988736",
+            "femaleVariant": "Everyone, everything leaves something behind. Just need to know where to look."
+          },
+          {
+            "stringId": "1774888925264568320",
+            "femaleVariant": "Lucky for me, I'm runnin' around with the best BD specialist in town. That's an extra pair of expert eyes."
+          },
+          {
+            "stringId": "1774891549858684928",
+            "femaleVariant": "Well, your BD expert has a better idea. \"Pleasures of Night City,\" a domain with its twin on the dark net."
+          },
+          {
+            "stringId": "1774903670726156288",
+            "femaleVariant": "Let's give the dark net site a shot."
+          },
+          {
+            "stringId": "1774971646821228544",
+            "femaleVariant": "Think I've got a better idea."
+          },
+          {
+            "stringId": "1775035839301771264",
+            "femaleVariant": "Fine."
+          },
+          {
+            "stringId": "1824110474945060864",
+            "femaleVariant": "It's not her."
+          },
+          {
+            "stringId": "1824110942022754304",
+            "femaleVariant": "Would've been downright strange if the recording we found was hers…"
+          },
+          {
+            "stringId": "1824114159188140032",
+            "femaleVariant": "That supposed to make me feel better?"
+          },
+          {
+            "stringId": "1824129130370392064",
+            "femaleVariant": "Of course. Of all the freaks in Night City, it had to be fuckin' scavs?"
+          },
+          {
+            "stringId": "1824147003138596864",
+            "femaleVariant": "Building must've been abandoned for a while if they've annexed it."
+          },
+          {
+            "stringId": "1825884440336490496",
+            "femaleVariant": "Every kind of thing goes on there. Might stumble on something useful."
+          },
+          {
+            "stringId": "1958869473331945472",
+            "femaleVariant": "I know a local fixer."
+          },
+          {
+            "stringId": "2312681561123401732",
+            "femaleVariant": "[Get in]"
+          }
+        ]
+      }
+
+
+

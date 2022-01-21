@@ -1,0 +1,289 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1896863460278935556",
+            "femaleVariant": "你可不怎么招人喜欢。"
+          },
+          {
+            "stringId": "1896863460295712772",
+            "femaleVariant": "想干嘛？"
+          },
+          {
+            "stringId": "1896863460362821636",
+            "femaleVariant": "赶紧离开，快走！"
+          },
+          {
+            "stringId": "1896863460396376068",
+            "femaleVariant": "退后。"
+          },
+          {
+            "stringId": "1896863460463484932",
+            "femaleVariant": "靠，这些恐怖份子！"
+          },
+          {
+            "stringId": "1896863460497039364",
+            "femaleVariant": "奉命调查，我有武器！"
+          },
+          {
+            "stringId": "1896863460564148228",
+            "femaleVariant": "看我不弄烂你的屁股。"
+          },
+          {
+            "stringId": "1896863460580925444",
+            "femaleVariant": "说你呢，脑残！"
+          },
+          {
+            "stringId": "1896863460648034308",
+            "femaleVariant": "给我滚边儿上去！"
+          },
+          {
+            "stringId": "1896863460681588740",
+            "femaleVariant": "滚远点！"
+          },
+          {
+            "stringId": "1896863460748697600",
+            "femaleVariant": "嗯？"
+          },
+          {
+            "stringId": "1896863460765474820",
+            "femaleVariant": "我去查。"
+          },
+          {
+            "stringId": "1896863460832583684",
+            "femaleVariant": "干预完成。"
+          },
+          {
+            "stringId": "1896863460866138116",
+            "femaleVariant": "没发现异常。"
+          },
+          {
+            "stringId": "1896863460916469764",
+            "femaleVariant": "她是个恐怖份子！给我留点神！",
+            "maleVariant": "他是个恐怖份子！给我留点神！"
+          },
+          {
+            "stringId": "1896863460933246980",
+            "femaleVariant": "出来，举起手来！听明白了吗？"
+          },
+          {
+            "stringId": "1896863460983578628",
+            "femaleVariant": "有人倒下了！"
+          },
+          {
+            "stringId": "1896863461033910272",
+            "femaleVariant": "明白！"
+          },
+          {
+            "stringId": "1896863461084241924",
+            "femaleVariant": "别开枪！"
+          },
+          {
+            "stringId": "1896863461101019140",
+            "femaleVariant": "放下武器！"
+          },
+          {
+            "stringId": "1896863461134573572",
+            "femaleVariant": "手榴弹来了！"
+          },
+          {
+            "stringId": "1896863461201682436",
+            "femaleVariant": "等死吧！"
+          },
+          {
+            "stringId": "1896863461235236868",
+            "femaleVariant": "有敌人！"
+          },
+          {
+            "stringId": "1896863461285568516",
+            "femaleVariant": "我受伤了！大夫！"
+          },
+          {
+            "stringId": "1896863461302345732",
+            "femaleVariant": "杀你全家！"
+          },
+          {
+            "stringId": "1896863461369454592",
+            "femaleVariant": "知道我这身衣服多少钱吗？"
+          },
+          {
+            "stringId": "1896863461386231812",
+            "femaleVariant": "滚。"
+          },
+          {
+            "stringId": "1896863461436563460",
+            "femaleVariant": "有事吗？"
+          },
+          {
+            "stringId": "1896863461486895108",
+            "femaleVariant": "我们都处理好了……这脑残还以为自己是和流浪者有交情呢。"
+          },
+          {
+            "stringId": "1896863461503672324",
+            "femaleVariant": "不，她不会再惹麻烦了…人在黑牢里等死呢。"
+          },
+          {
+            "stringId": "1896863461587558404",
+            "femaleVariant": "打中了！"
+          },
+          {
+            "stringId": "1896863461621112836",
+            "femaleVariant": "我就来！"
+          },
+          {
+            "stringId": "1896863461654667268",
+            "femaleVariant": "卧倒！"
+          },
+          {
+            "stringId": "1896863461671444484",
+            "femaleVariant": "回头聊。"
+          },
+          {
+            "stringId": "1896863461704998916",
+            "femaleVariant": "感觉不妙。"
+          },
+          {
+            "stringId": "1896863461772107780",
+            "femaleVariant": "掩护我。"
+          },
+          {
+            "stringId": "1896863461788884996",
+            "femaleVariant": "来。"
+          },
+          {
+            "stringId": "1896863461822439428",
+            "femaleVariant": "你打头。"
+          },
+          {
+            "stringId": "1896863461855993860",
+            "femaleVariant": "打死他们！"
+          },
+          {
+            "stringId": "1896863461889548292",
+            "femaleVariant": "啊…啊…放开…我…"
+          },
+          {
+            "stringId": "1896879223865876480",
+            "femaleVariant": "自以为聪明，其实就是个脑残…没错。"
+          },
+          {
+            "stringId": "1896879548370788352",
+            "femaleVariant": "显然是一个人关着…嗯…该死的。"
+          },
+          {
+            "stringId": "2236498258661875716",
+            "femaleVariant": "见鬼！"
+          },
+          {
+            "stringId": "2236498258913533956",
+            "femaleVariant": "士兵受伤！安全警报！"
+          },
+          {
+            "stringId": "2236498259064528900",
+            "femaleVariant": "你逗我的吧…"
+          },
+          {
+            "stringId": "2236498259181969412",
+            "femaleVariant": "我没有呼叫。肯定是故障。"
+          },
+          {
+            "stringId": "2236498259232301060",
+            "femaleVariant": "我们需要重新同步！"
+          },
+          {
+            "stringId": "2236498259366518788",
+            "femaleVariant": "补上那个位置！保护侧翼！"
+          },
+          {
+            "stringId": "2236498259416850436",
+            "femaleVariant": "该死的赛博精神病！"
+          },
+          {
+            "stringId": "2236498259467182084",
+            "femaleVariant": "该结束了！"
+          },
+          {
+            "stringId": "2236498259534290948",
+            "femaleVariant": "原地防守，提供掩护！"
+          },
+          {
+            "stringId": "2236498259702063108",
+            "femaleVariant": "她受伤了！",
+            "maleVariant": "他受伤了！"
+          },
+          {
+            "stringId": "2236498259886612484",
+            "femaleVariant": "目标即将倒地！准备消灭！"
+          },
+          {
+            "stringId": "2236498259936944132",
+            "femaleVariant": "收到！"
+          },
+          {
+            "stringId": "2236498260004052992",
+            "femaleVariant": "她占了上风！",
+            "maleVariant": "他占了上风！"
+          },
+          {
+            "stringId": "2236498260104716292",
+            "femaleVariant": "掩护我！没子弹了！"
+          },
+          {
+            "stringId": "2236498260171825156",
+            "femaleVariant": "消灭威胁！快点儿，该死的！"
+          },
+          {
+            "stringId": "2236498260289265668",
+            "femaleVariant": "视野全黑！需要帮助！"
+          },
+          {
+            "stringId": "2236498260373151748",
+            "femaleVariant": "我们被人黑了！"
+          },
+          {
+            "stringId": "2236498260440260612",
+            "femaleVariant": "继续行动！"
+          },
+          {
+            "stringId": "2236498260507369476",
+            "femaleVariant": "援兵在哪儿？！"
+          },
+          {
+            "stringId": "2236498260557701124",
+            "femaleVariant": "近身肉搏！"
+          },
+          {
+            "stringId": "2236498260608032772",
+            "femaleVariant": "缩短距离！"
+          },
+          {
+            "stringId": "2236498260691918848",
+            "femaleVariant": "我掩护你！"
+          },
+          {
+            "stringId": "2236498260759027716",
+            "femaleVariant": "损失惨重！"
+          },
+          {
+            "stringId": "2236498261010685952",
+            "femaleVariant": "还是过去看看吧…"
+          }
+        ]
+      }
+
+
+

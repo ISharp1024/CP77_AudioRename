@@ -1,0 +1,305 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1834369264263372800",
+            "femaleVariant": "Uh, hey, V. 'Bout to start. You, uh, you gotta take a piss or somethin', now's the time."
+          },
+          {
+            "stringId": "1834369725099941888",
+            "femaleVariant": "Hey, V! Ya hear me?!"
+          },
+          {
+            "stringId": "1834376571646910464",
+            "femaleVariant": "Doin' a little competition. Shootin', prizes and all. Y'know over here, at the range."
+          },
+          {
+            "stringId": "1834377223039098884",
+            "femaleVariant": "Sure thing."
+          },
+          {
+            "stringId": "1834377459295854592",
+            "femaleVariant": "Don't shoot for fun."
+          },
+          {
+            "stringId": "1834377527293911040",
+            "femaleVariant": "A contest... Not really your style."
+          },
+          {
+            "stringId": "1834378085354446848",
+            "femaleVariant": "Sure, I'm in. When?"
+          },
+          {
+            "stringId": "1834378095286558720",
+            "femaleVariant": "Sorry, Wilson. Don't shoot for fun."
+          },
+          {
+            "stringId": "1834378107215159296",
+            "femaleVariant": "Didn't think big parties were your thing.",
+            "maleVariant": "I didn't think big parties were your thing."
+          },
+          {
+            "stringId": "1834379288532492288",
+            "femaleVariant": "Yeah, well it ain't a big one, but... Y'know, runnin low on eds. Gotta bring in the clients. Attract 'em an' shit."
+          },
+          {
+            "stringId": "1834379711955869696",
+            "femaleVariant": "Could try sellin' iron straight from factory. Skip the whole part where you tinker for hours on each little shooter."
+          },
+          {
+            "stringId": "1834386493323354112",
+            "femaleVariant": "I can respect that, V. Well, see ya... See ya 'round."
+          },
+          {
+            "stringId": "1834388512310304768",
+            "femaleVariant": "Well, uh, right now. We'll wait on ya. See ya."
+          },
+          {
+            "stringId": "1834452857966829568",
+            "femaleVariant": "All righty, how many we got? Just six? God damn. Welp, no point cryin' about it. Ahem."
+          },
+          {
+            "stringId": "1834454416670859264",
+            "femaleVariant": "Rules're simple, right? There's the target, shoot it. Don't matter which one, go on an' shoot your neighbor's. Most hits wins. Meanin' hits on the target, not your neighbor."
+          },
+          {
+            "stringId": "1834455618875826176",
+            "femaleVariant": "Oh, right, uh... small-caliber iron only. Don't go showin' off with your fuckin' assault bangers or no rocket pukers, got me?"
+          },
+          {
+            "stringId": "1851917792216883200",
+            "femaleVariant": "Three, two... 'Ey, 'ey! The hell's that? The hell you doin' with that double-barrel? Said small caliber only!"
+          },
+          {
+            "stringId": "1851919012407025664",
+            "femaleVariant": "Uhhh... Forgot my iron. Must be in my other jacket."
+          },
+          {
+            "stringId": "1851919341089464320",
+            "femaleVariant": "An' that's why you keep your gun in a holster! A HOL-STER! Get the fuck outta my sight! Now!"
+          },
+          {
+            "stringId": "1851928461150527488",
+            "femaleVariant": "Pearls before swine, for fuck's sake."
+          },
+          {
+            "stringId": "1851931453668990976",
+            "femaleVariant": "First prize is a pistol. But, um... a real nice one. Fuckin' nice, I'm tellin' ya."
+          },
+          {
+            "stringId": "1852035385737093120",
+            "femaleVariant": "First place – V! Second – Rudy! Rest of ya bush-league punks, learn to shoot! Outta my sight – now!"
+          },
+          {
+            "stringId": "1852035397011382272",
+            "femaleVariant": "First place – Rudy! Second – V! Rest of ya bush-league punks, learn to shoot! Get outta my sight!"
+          },
+          {
+            "stringId": "1852035406440177664",
+            "femaleVariant": "First place – Rudy! In second – Lisa! Rest of you hacks are a disgrace! Fer cryin' out loud!"
+          },
+          {
+            "stringId": "1852039430421880832",
+            "femaleVariant": "Stop! Everyone, stop! We're done!"
+          },
+          {
+            "stringId": "1852042579320774656",
+            "femaleVariant": "Sorry, V. Thought you'd cream the competition, but... Guess you're not as sharp as I thought."
+          },
+          {
+            "stringId": "1852045342779908100",
+            "femaleVariant": "[Take prize]"
+          },
+          {
+            "stringId": "1852046157112418304",
+            "femaleVariant": "Thanks, Wilson. Sure is pretty."
+          },
+          {
+            "stringId": "1852047285833179136",
+            "femaleVariant": "Mhm. Yep."
+          },
+          {
+            "stringId": "1853166584224292864",
+            "femaleVariant": "Fuck, choom, chill... I'm goin', I'm goin'..."
+          },
+          {
+            "stringId": "1861800824037974016",
+            "femaleVariant": "Nice, V! Real nice!"
+          },
+          {
+            "stringId": "1861800843449212928",
+            "femaleVariant": "Halfway there, V! Doin' good!"
+          },
+          {
+            "stringId": "1861800863632203776",
+            "femaleVariant": "Fifteen seconds! Lookin' good, V! Don't fuck it up!"
+          },
+          {
+            "stringId": "1861802716726042624",
+            "femaleVariant": "The target, V! Hit the target, not the wall!"
+          },
+          {
+            "stringId": "1861802889598476292",
+            "femaleVariant": "Halfway there, V! Get a grip, for fuck's sake!"
+          },
+          {
+            "stringId": "1861803088693698564",
+            "femaleVariant": "Fifteen seconds! Last chance, V!"
+          },
+          {
+            "stringId": "1905219335694372864",
+            "femaleVariant": "Loud and clear, you don't need to yell. What's up?"
+          },
+          {
+            "stringId": "1905220360849379328",
+            "femaleVariant": "Uh-huh. That'd make sense.",
+            "maleVariant": "Yeah, that'd make sense."
+          },
+          {
+            "stringId": "1905221268396101632",
+            "femaleVariant": "Well? You in?"
+          },
+          {
+            "stringId": "1905234222101352448",
+            "femaleVariant": "V – my dignity, please."
+          },
+          {
+            "stringId": "1905241674037383172",
+            "femaleVariant": "Let's start."
+          },
+          {
+            "stringId": "1905241947136905216",
+            "femaleVariant": "Thanks for your concern. Let's start this rodeo."
+          },
+          {
+            "stringId": "1905242242130694144",
+            "femaleVariant": "Just one sec."
+          },
+          {
+            "stringId": "1905242338062815232",
+            "femaleVariant": "Just a sec. Be right back."
+          },
+          {
+            "stringId": "1905248961959350272",
+            "femaleVariant": "Can't just yet. Not till you get in the range. Go on, set up, chop-chop."
+          },
+          {
+            "stringId": "1905254917116055552",
+            "femaleVariant": "Anyway, 'nough words. Gettin' worked up."
+          },
+          {
+            "stringId": "1905270481590996992",
+            "femaleVariant": "The hell was that, Lisa? Forget your glasses?!"
+          },
+          {
+            "stringId": "1905271401385086976",
+            "femaleVariant": "Lookin' good, Rudy! Go, go, go!"
+          },
+          {
+            "stringId": "1905272162986807296",
+            "femaleVariant": "Aaaah, nothin' like the smell of powder an' hot lead!"
+          },
+          {
+            "stringId": "1905278916789325828",
+            "femaleVariant": "Obviously not my day."
+          },
+          {
+            "stringId": "1905279084595040256",
+            "femaleVariant": "Kiss my ass, Wilson."
+          },
+          {
+            "stringId": "1905279604235751424",
+            "femaleVariant": "Clearly havin' an off day."
+          },
+          {
+            "stringId": "1905279792962654208",
+            "femaleVariant": "Know what, Wilson? Kiss my ass.",
+            "maleVariant": "You know what, Wilson? Kiss my ass."
+          },
+          {
+            "stringId": "1905280975739604992",
+            "femaleVariant": "Know the feelin'. Been havin' a bad day for a decade, now."
+          },
+          {
+            "stringId": "1905282579909890048",
+            "femaleVariant": "Should try not calling potential buyers \"bush-league.\""
+          },
+          {
+            "stringId": "1905282840929816576",
+            "femaleVariant": "Eh, maybe, but... Fuck! Gun's somethin' you gotta respect! You don't know how to shoot, don't do it!"
+          },
+          {
+            "stringId": "1905283397010640896",
+            "femaleVariant": "'Ey, 'ey, hold the sauce. I look like I'm havin' fun here?"
+          },
+          {
+            "stringId": "1905285106709614592",
+            "femaleVariant": "Contest didn't do shit! Didn't sell a goddamn thing! Nothin'!"
+          },
+          {
+            "stringId": "1905288470725971968",
+            "femaleVariant": "See ya 'round, Wilson. Till next time."
+          },
+          {
+            "stringId": "1905288811202793476",
+            "femaleVariant": "See ya."
+          },
+          {
+            "stringId": "1905289017914871808",
+            "femaleVariant": "Hey, everything OK?"
+          },
+          {
+            "stringId": "1905289387483385856",
+            "femaleVariant": "Hey, you OK? Somethin' wrong?"
+          },
+          {
+            "stringId": "1905291567632273408",
+            "femaleVariant": "Ain't a damn thing that's right."
+          },
+          {
+            "stringId": "1905292615738511360",
+            "femaleVariant": "Argh... ugh... Take care, V. See ya 'round."
+          },
+          {
+            "stringId": "1905554574502010880",
+            "femaleVariant": "Ready?"
+          },
+          {
+            "stringId": "1905563290802593792",
+            "femaleVariant": "All right. Three... two... one..."
+          },
+          {
+            "stringId": "2349149135758696452",
+            "femaleVariant": "[db_db]Normal Competition"
+          },
+          {
+            "stringId": "2349149522003763200",
+            "femaleVariant": "[db_db]Win - even if you fail."
+          },
+          {
+            "stringId": "2349149667361562624",
+            "femaleVariant": "[db_db]Lose - even if you are amazing."
+          },
+          {
+            "stringId": "2349160798071300096",
+            "femaleVariant": "[db_db]\"Second Place\" - Even if you win or lose"
+          }
+        ]
+      }
+
+
+

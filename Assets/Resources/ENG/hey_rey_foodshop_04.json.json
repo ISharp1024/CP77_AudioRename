@@ -1,0 +1,52 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1863299347169820672",
+            "femaleVariant": "What's cooking?"
+          },
+          {
+            "stringId": "1863299347169820688",
+            "femaleVariant": "Is there a risk of food poisoning?"
+          },
+          {
+            "stringId": "1863299347220152324",
+            "femaleVariant": "So, what's cooking?",
+            "maleVariant": "So what's cooking?"
+          },
+          {
+            "stringId": "1863299347220152332",
+            "femaleVariant": "Depends. What're you cravin'?"
+          },
+          {
+            "stringId": "1863299347270483972",
+            "femaleVariant": "There a risk of food poisonin' here?",
+            "maleVariant": "Is there a risk of food poisoning here?"
+          },
+          {
+            "stringId": "1863299347270483980",
+            "femaleVariant": "That depends. If you keep it up with those kinds of question... who knows?"
+          },
+          {
+            "stringId": "1974706148871557120",
+            "femaleVariant": "Only the good stuff. What can I get you?"
+          }
+        ]
+      }
+
+
+

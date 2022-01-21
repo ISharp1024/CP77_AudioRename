@@ -1,0 +1,47 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1783754628636889088",
+            "femaleVariant": "What're you selling?"
+          },
+          {
+            "stringId": "1783754628653666308",
+            "femaleVariant": "You peddling, or begging?"
+          },
+          {
+            "stringId": "1783754628670443524",
+            "femaleVariant": "What're you sellin'?"
+          },
+          {
+            "stringId": "1783754628670443532",
+            "femaleVariant": "Anything you can see."
+          },
+          {
+            "stringId": "1783754628703997956",
+            "femaleVariant": "You sellin' threads or collecting 'em? Hard to tell at a glance.",
+            "maleVariant": "You selling threads or collecting 'em? It's hard to tell at a glance."
+          },
+          {
+            "stringId": "1783754628703997964",
+            "femaleVariant": "You beg on the street, they tell you to get a job, you get a job, they make fun o' you. Make up your damn minds, people!"
+          }
+        ]
+      }
+
+
+

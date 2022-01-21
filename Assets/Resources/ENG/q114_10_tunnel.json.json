@@ -1,0 +1,278 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1457524143908995072",
+            "femaleVariant": "We'll need to split up."
+          },
+          {
+            "stringId": "1549142580350959616",
+            "femaleVariant": "OK, I'm putting it on autopilot and disconnecting."
+          },
+          {
+            "stringId": "1549145911265869828",
+            "femaleVariant": "Shoulda had a better plan."
+          },
+          {
+            "stringId": "1549146359318200320",
+            "femaleVariant": "Just worried. Not goin' how it was supposed to."
+          },
+          {
+            "stringId": "1549148276299677696",
+            "femaleVariant": "Bob and Teddy are dead."
+          },
+          {
+            "stringId": "1549149471424659456",
+            "femaleVariant": "This is not how it was supposed to go. Worried it's just gonna get worse."
+          },
+          {
+            "stringId": "1549150388148518912",
+            "femaleVariant": "Bob and Teddy are dead. It's my fault."
+          },
+          {
+            "stringId": "1549151462309773312",
+            "femaleVariant": "'Kay..."
+          },
+          {
+            "stringId": "1549152837236178944",
+            "femaleVariant": "This plan, all of this... it was never a good idea."
+          },
+          {
+            "stringId": "1708878631188320256",
+            "femaleVariant": "It wasn't your idea."
+          },
+          {
+            "stringId": "1801175986296639488",
+            "femaleVariant": "Saul's right. Carol, you and Cassidy keep us secure  here."
+          },
+          {
+            "stringId": "1801176137945894912",
+            "femaleVariant": "You got it."
+          },
+          {
+            "stringId": "1801176216329048064",
+            "femaleVariant": "Mitch, you're coming with us."
+          },
+          {
+            "stringId": "1801176374303313920",
+            "femaleVariant": "Ma'am, yes, ma'am."
+          },
+          {
+            "stringId": "1801176456025133056",
+            "femaleVariant": "No time to lose, then. Let's go."
+          },
+          {
+            "stringId": "1801251916453040128",
+            "femaleVariant": "And if you'd known how this'd turn out?"
+          },
+          {
+            "stringId": "1801252930165985280",
+            "femaleVariant": "Is everything all right? You seem quiet."
+          },
+          {
+            "stringId": "1801256149411745792",
+            "femaleVariant": "Whose, then?"
+          },
+          {
+            "stringId": "1801256182009876480",
+            "femaleVariant": "Mine. It was my damned idea. I'm responsible for it."
+          },
+          {
+            "stringId": "1801256588572151808",
+            "femaleVariant": "And it's my fault."
+          },
+          {
+            "stringId": "1801256761142595584",
+            "femaleVariant": "Teddy and Bob... they knew the risks, V. Everyone knows."
+          },
+          {
+            "stringId": "1801256908513660928",
+            "femaleVariant": "So do I."
+          },
+          {
+            "stringId": "1801257424446607360",
+            "femaleVariant": "Worrying won't get us anywhere."
+          },
+          {
+            "stringId": "1801257464326049792",
+            "femaleVariant": "Do you think this thing between us affects my decisions, is that it?"
+          },
+          {
+            "stringId": "1801257784569548800",
+            "femaleVariant": "A bit, yeah."
+          },
+          {
+            "stringId": "1801257811949965312",
+            "femaleVariant": "Do you have any idea how much that pisses me off?"
+          },
+          {
+            "stringId": "1801257929910571008",
+            "femaleVariant": "But this raid, these people – that's completely separate. I take full responsibility for this. Me – not you."
+          },
+          {
+            "stringId": "1801257953398673408",
+            "femaleVariant": "What's between us stays between us."
+          },
+          {
+            "stringId": "1801258337412370432",
+            "femaleVariant": "I'd do it all over again. For anyone in the clan."
+          },
+          {
+            "stringId": "1887891435360481280",
+            "femaleVariant": "Panam, if we... If you and I..."
+          },
+          {
+            "stringId": "2025706785119793152",
+            "femaleVariant": "Saul told me you brought in some help for Mikoshi. Someone from the outside."
+          },
+          {
+            "stringId": "2025708101258833920",
+            "femaleVariant": "Mhm, Alt."
+          },
+          {
+            "stringId": "2025708294817574912",
+            "femaleVariant": "And who is that?"
+          },
+          {
+            "stringId": "2025708823920635908",
+            "femaleVariant": "An AI."
+          },
+          {
+            "stringId": "2025709642095128576",
+            "femaleVariant": "Best 'runner in all Night City."
+          },
+          {
+            "stringId": "2025711607864750080",
+            "femaleVariant": "Johnny Silverhand's ex."
+          },
+          {
+            "stringId": "2025712307726315520",
+            "femaleVariant": "Alt's an AI, roguish."
+          },
+          {
+            "stringId": "2025712405386489856",
+            "femaleVariant": "If there's a netrunning queen of Night City, it's her."
+          },
+          {
+            "stringId": "2025712526702538752",
+            "femaleVariant": "Well, kinda funny story, actually. Alt is Johnny's ex."
+          },
+          {
+            "stringId": "2025713597827117056",
+            "femaleVariant": "You're getting help from an AI? Well, nothing can surprise me now."
+          },
+          {
+            "stringId": "2025717611474055168",
+            "femaleVariant": "Only one capable of breaking into Arasaka's systems."
+          },
+          {
+            "stringId": "2025718603376619520",
+            "femaleVariant": "And we wouldn't get into Mikoshi without her?"
+          },
+          {
+            "stringId": "2025718778648195072",
+            "femaleVariant": "Well, we sure as hell wouldn't get out."
+          },
+          {
+            "stringId": "2025719075789467648",
+            "femaleVariant": "You trust her – this Alt?"
+          },
+          {
+            "stringId": "2025719910338523140",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "2025720125674090496",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "2025722920070410240",
+            "femaleVariant": "Or rather, was."
+          },
+          {
+            "stringId": "2025724618746753024",
+            "femaleVariant": "Why, does she do something else now?"
+          },
+          {
+            "stringId": "2025724922666020864",
+            "femaleVariant": "So to speak. Lives elsewhere, too."
+          },
+          {
+            "stringId": "2025725542751924224",
+            "femaleVariant": "But she'll help us."
+          },
+          {
+            "stringId": "2025725708091387904",
+            "femaleVariant": "Mhm... and you trust her?"
+          },
+          {
+            "stringId": "2025726896455151616",
+            "femaleVariant": "You're joking..."
+          },
+          {
+            "stringId": "2025727061291298816",
+            "femaleVariant": "God's honest truth. But nobody moves through the net quite like she does."
+          },
+          {
+            "stringId": "2025727725652275200",
+            "femaleVariant": "She's our only way into Mikoshi proper."
+          },
+          {
+            "stringId": "2025728384409661440",
+            "femaleVariant": "Johnny, Alt... We're keeping it all in the family, I see."
+          },
+          {
+            "stringId": "2025728845028126720",
+            "femaleVariant": "Do you trust her?"
+          },
+          {
+            "stringId": "2025729693670043648",
+            "femaleVariant": "Yeah. She'll help us."
+          },
+          {
+            "stringId": "2025733030305984512",
+            "femaleVariant": "No. But it's not like I've got any other option. Just gotta hope Alt isn't hidin' anything, doesn't got other plans."
+          },
+          {
+            "stringId": "2025733367125372928",
+            "femaleVariant": "I trust you – that's all I'll say."
+          },
+          {
+            "stringId": "2025734068597551104",
+            "femaleVariant": "By extension, I trust this Alt won't pull any rugs out from under us."
+          },
+          {
+            "stringId": "2025734739652636672",
+            "femaleVariant": "Things'll work out. They gotta. Come too far for 'em not to."
+          },
+          {
+            "stringId": "2025737531196829696",
+            "femaleVariant": "Why, you worried?"
+          },
+          {
+            "stringId": "2025738035335393280",
+            "femaleVariant": "Why? Something got you worried?"
+          },
+          {
+            "stringId": "2237928257921765376",
+            "femaleVariant": "Please don't leave questions like that hanging."
+          }
+        ]
+      }
+
+
+

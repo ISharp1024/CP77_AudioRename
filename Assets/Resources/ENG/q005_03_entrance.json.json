@@ -1,0 +1,433 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1611407206705410048",
+            "femaleVariant": "The name on the reservation is…?"
+          },
+          {
+            "stringId": "1618360178349846528",
+            "femaleVariant": "We're out front, Bug."
+          },
+          {
+            "stringId": "1618361853001216000",
+            "femaleVariant": "'Member, reservation's in your name… Ramón."
+          },
+          {
+            "stringId": "1618383257205616640",
+            "femaleVariant": "Welcome to Konpeki Plaza. Please come through single file."
+          },
+          {
+            "stringId": "1618384330528010240",
+            "femaleVariant": "You got it, holm-- uh,ahem, sir."
+          },
+          {
+            "stringId": "1618389928464232452",
+            "femaleVariant": "We'd like to check in."
+          },
+          {
+            "stringId": "1622943069616615424",
+            "femaleVariant": "Gimme a sec, need to check somethin'."
+          },
+          {
+            "stringId": "1622943980921434112",
+            "femaleVariant": "All right, I'll be over by security."
+          },
+          {
+            "stringId": "1624367202455924736",
+            "femaleVariant": "Victorino."
+          },
+          {
+            "stringId": "1624368794278178816",
+            "femaleVariant": "Double room, two adults, one night. Correct?"
+          },
+          {
+            "stringId": "1624369099908722688",
+            "femaleVariant": "That's the one."
+          },
+          {
+            "stringId": "1624371770573074432",
+            "femaleVariant": "Perfect... I will go ahead and notify Taki-san of your arrival."
+          },
+          {
+            "stringId": "1624375881779523584",
+            "femaleVariant": "Shit, no good, not part of the plan. Talk her up, V, stall!"
+          },
+          {
+            "stringId": "1624380179984822276",
+            "femaleVariant": "That won't be necessary."
+          },
+          {
+            "stringId": "1624391902376636416",
+            "femaleVariant": "That won't be necessary."
+          },
+          {
+            "stringId": "1624394466388226048",
+            "femaleVariant": "You will be in the Lapis Lazuli Suite on level forty-two."
+          },
+          {
+            "stringId": "1624396421084884992",
+            "femaleVariant": "Oh, one more little formality... Please validate your SID chip."
+          },
+          {
+            "stringId": "1624421744111398912",
+            "femaleVariant": "Wait for you by the elevators. Ugh, this little bastard's heavier than I thought."
+          },
+          {
+            "stringId": "1631482970540658688",
+            "femaleVariant": "This should only take a moment, ma'am.",
+            "maleVariant": "This should only take a moment, sir."
+          },
+          {
+            "stringId": "1631483996450639872",
+            "femaleVariant": "Ahem. Hold on, got something."
+          },
+          {
+            "stringId": "1631489298352885760",
+            "femaleVariant": "Care to explain why you’re bringing military equipment onto the premises, into Konpeki Plaza?"
+          },
+          {
+            "stringId": "1631490872911384576",
+            "femaleVariant": "Go ahead."
+          },
+          {
+            "stringId": "1631546040910663680",
+            "femaleVariant": "We'd like to check in."
+          },
+          {
+            "stringId": "1631557606032855040",
+            "femaleVariant": "Of course, just a moment, please."
+          },
+          {
+            "stringId": "1631562400743084032",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Señorita\" b=\"\" a=\", do you know how long we been traveling? Eighteen hours from New Barcelona.\"/>"
+          },
+          {
+            "stringId": "1631562523367755776",
+            "femaleVariant": "With a delay on MetaKey 'cause some cyberpsycho blew himself into bits inside the terminal…"
+          },
+          {
+            "stringId": "1631562979775139840",
+            "femaleVariant": "Ugh, a nightmare…"
+          },
+          {
+            "stringId": "1631563135031496704",
+            "femaleVariant": "Of course, I understand."
+          },
+          {
+            "stringId": "1631565204819857408",
+            "femaleVariant": "What the hell, V?! I said stall!"
+          },
+          {
+            "stringId": "1631565693959589888",
+            "femaleVariant": "Hello, this is the reception desk. Apologies for any disturbance."
+          },
+          {
+            "stringId": "1631565865942831104",
+            "femaleVariant": "Stevie Shaviro – assistant to Taki-san. How can I help you?"
+          },
+          {
+            "stringId": "1631566215680675840",
+            "femaleVariant": "I'm in the process of checking in a Mr. …"
+          },
+          {
+            "stringId": "1631566362800082944",
+            "femaleVariant": "Victorino. Good, he's arrived. Please send him upstairs immediately."
+          },
+          {
+            "stringId": "1631566514919100416",
+            "femaleVariant": "Of course, right away."
+          },
+          {
+            "stringId": "1631567084656578560",
+            "femaleVariant": "Taki-san is expecting you, he awaits."
+          },
+          {
+            "stringId": "1631569380786360320",
+            "femaleVariant": "What the hell, V?! I said stall! Do I gotta do everything?!"
+          },
+          {
+            "stringId": "1631570805473988608",
+            "femaleVariant": "Sorry. I just... blanked."
+          },
+          {
+            "stringId": "1661751726453870592",
+            "femaleVariant": "You're there to meet Hajime Taki – military tech department rep. Papers are for the Flathead."
+          },
+          {
+            "stringId": "1661776630234533888",
+            "femaleVariant": "New Barcelona? Really?"
+          },
+          {
+            "stringId": "1661780865743376384",
+            "femaleVariant": "It's called improvisin' – you should try it."
+          },
+          {
+            "stringId": "1673436984802856964",
+            "femaleVariant": "Not bad."
+          },
+          {
+            "stringId": "1673437062632361984",
+            "femaleVariant": "We nail the part or what? Heheheh. How do I look?"
+          },
+          {
+            "stringId": "1673437169369010176",
+            "femaleVariant": "Can't believe I'm sayin' this, but... not bad at all."
+          },
+          {
+            "stringId": "1673437230454853632",
+            "femaleVariant": "Like somebody put clothes on a dog."
+          },
+          {
+            "stringId": "1673437334641364992",
+            "femaleVariant": "Like a solo cosplaying a suit."
+          },
+          {
+            "stringId": "1673441381087760384",
+            "femaleVariant": "Yeah, I look good in everything."
+          },
+          {
+            "stringId": "1673441825230999552",
+            "femaleVariant": "Oh, yeah, 'cause you look so much better."
+          },
+          {
+            "stringId": "1677620275231641600",
+            "femaleVariant": "I just feel weird…"
+          },
+          {
+            "stringId": "1677623386734120960",
+            "femaleVariant": "You can kick the rat outta the corp, but you'll never kick the corp outta the rat."
+          },
+          {
+            "stringId": "1689436367934451712",
+            "femaleVariant": "Other gate, please."
+          },
+          {
+            "stringId": "1711240145806438400",
+            "femaleVariant": "Have I asked you to do that?"
+          },
+          {
+            "stringId": "1711240912726536192",
+            "femaleVariant": "Have I asked you to do that?"
+          },
+          {
+            "stringId": "1711244395945013248",
+            "femaleVariant": "Um, no... I just thought that since..."
+          },
+          {
+            "stringId": "1711244993465561088",
+            "femaleVariant": "Who asked you to think?"
+          },
+          {
+            "stringId": "1711245840547196928",
+            "femaleVariant": "Excuse me?"
+          },
+          {
+            "stringId": "1712779485304991744",
+            "femaleVariant": "Welcome to Konpeki Plaza."
+          },
+          {
+            "stringId": "1714207462123253760",
+            "femaleVariant": "Welcome to Konpeki Plaza."
+          },
+          {
+            "stringId": "1714210353139560448",
+            "femaleVariant": "Or a couple of stools at the bar, if you prefer?"
+          },
+          {
+            "stringId": "1725480866495123456",
+            "femaleVariant": "Don't worry, got this."
+          },
+          {
+            "stringId": "1725480943770980352",
+            "femaleVariant": "No sweat."
+          },
+          {
+            "stringId": "1725540639689199616",
+            "femaleVariant": "I know damn well it wasn't me. Who was it?"
+          },
+          {
+            "stringId": "1725541959888326656",
+            "femaleVariant": "A word of advice, if I may. Do only what you're told to do."
+          },
+          {
+            "stringId": "1725544998997118976",
+            "femaleVariant": "Now, what was that room number?"
+          },
+          {
+            "stringId": "1756320354372734976",
+            "femaleVariant": "We don't do reservations weekdays, so feel free to grab any available table."
+          },
+          {
+            "stringId": "1771994452703571968",
+            "femaleVariant": "Ah! You are here to see Taki-san, am I right?"
+          },
+          {
+            "stringId": "1772053325800009728",
+            "femaleVariant": "<mothertongue l=\"jpn\" m=\"Youkoso.\" b=\"\" a=\" Greetings and welcome to Konpeki Plaza.\"/>"
+          },
+          {
+            "stringId": "1785054331002474496",
+            "femaleVariant": "Please accept my apologies for the confusion."
+          },
+          {
+            "stringId": "1785060877992251392",
+            "femaleVariant": "Didn't come on too strong?"
+          },
+          {
+            "stringId": "1785202272895905792",
+            "femaleVariant": "Whaddaya think, \"Hannah\"?",
+            "maleVariant": "Whaddaya think, \"Harry\"?"
+          },
+          {
+            "stringId": "1785204494501294080",
+            "femaleVariant": "Don't need that, Jack. Enough."
+          },
+          {
+            "stringId": "1785207824325685248",
+            "femaleVariant": "Bar don't look too shabby."
+          },
+          {
+            "stringId": "1785211297393946624",
+            "femaleVariant": "Sheeit, look like some fuckin' travelin' salesman with this case."
+          },
+          {
+            "stringId": "1785216124198989824",
+            "femaleVariant": "Already? That was fast. Not your style?"
+          },
+          {
+            "stringId": "1789937192904945668",
+            "femaleVariant": "We're arms dealers."
+          },
+          {
+            "stringId": "1789939079737765888",
+            "femaleVariant": "We're arms dealers."
+          },
+          {
+            "stringId": "1789939668316057600",
+            "femaleVariant": "Excuse me?"
+          },
+          {
+            "stringId": "1790835882881503232",
+            "femaleVariant": "I don't intend to explain myself."
+          },
+          {
+            "stringId": "1790836806635016192",
+            "femaleVariant": "I don't intend to explain myself, to you or anyone else."
+          },
+          {
+            "stringId": "1790837470660448256",
+            "femaleVariant": "Actually, we have rules, see, and they say you have to."
+          },
+          {
+            "stringId": "1790882350032015360",
+            "femaleVariant": "Could bring Misty here one day. When we, uh... close this deal."
+          },
+          {
+            "stringId": "1790917708467720192",
+            "femaleVariant": "Goin' upstairs."
+          },
+          {
+            "stringId": "1867942095602053124",
+            "femaleVariant": "[Place hand]"
+          },
+          {
+            "stringId": "1867943081817141248",
+            "femaleVariant": "Everything seems to be in order. We wish you a pleasant stay."
+          },
+          {
+            "stringId": "1902663343964737536",
+            "femaleVariant": "Thank you."
+          },
+          {
+            "stringId": "1902663716486041600",
+            "femaleVariant": "Honor's all yours, Hannah.",
+            "maleVariant": "Honor's all yours, Harry."
+          },
+          {
+            "stringId": "1934254376646365184",
+            "femaleVariant": "Apologies, but only hotel staff are authorized to be here."
+          },
+          {
+            "stringId": "1934361222363238400",
+            "femaleVariant": "About time."
+          },
+          {
+            "stringId": "1934424656631058432",
+            "femaleVariant": "Welp, here we are. Lapis Lazuli."
+          },
+          {
+            "stringId": "1967553783536623616",
+            "femaleVariant": "Better get goin'."
+          },
+          {
+            "stringId": "1983646104539701248",
+            "femaleVariant": "Like to stop by our room first."
+          },
+          {
+            "stringId": "1983681542298083328",
+            "femaleVariant": "Hmm?"
+          },
+          {
+            "stringId": "1983681780903649280",
+            "femaleVariant": "Quaint, cozy. Not like the hotel we had in Zurich for that convention."
+          },
+          {
+            "stringId": "1983703276896198656",
+            "femaleVariant": "Suited up again? Right."
+          },
+          {
+            "stringId": "1987927328410116096",
+            "femaleVariant": "We'll go freshen up first, notify him ourselves."
+          },
+          {
+            "stringId": "1987936720899612672",
+            "femaleVariant": "But Taki-san is expecting you, no…?"
+          },
+          {
+            "stringId": "1987952445127204864",
+            "femaleVariant": "Trust me – places like this, you're either strong or you're nobody."
+          },
+          {
+            "stringId": "1989691410058387456",
+            "femaleVariant": "What? I'm takin' this seriously!"
+          },
+          {
+            "stringId": "1995491546781069316",
+            "femaleVariant": "Gonna have a look around."
+          },
+          {
+            "stringId": "1995491857813876736",
+            "femaleVariant": "Wouldn't hurt to take a peek inside…"
+          },
+          {
+            "stringId": "1995492648758947840",
+            "femaleVariant": "Room – let's go."
+          },
+          {
+            "stringId": "1995493594289287168",
+            "femaleVariant": "You will, I'm sure. Now let's go check out our digs."
+          },
+          {
+            "stringId": "2433612114325393408",
+            "femaleVariant": "Pff..."
+          }
+        ]
+      }
+
+
+

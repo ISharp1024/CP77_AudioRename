@@ -1,0 +1,814 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1509557457228816384",
+            "femaleVariant": "[Sit] Where's Fingers?"
+          },
+          {
+            "stringId": "1509557457228816400",
+            "femaleVariant": "[Sit] Fingers helps working folk?"
+          },
+          {
+            "stringId": "1509557457446920192",
+            "femaleVariant": "Fingers a friend to the workin' guys and girls 'round here?"
+          },
+          {
+            "stringId": "1509557457480474624",
+            "femaleVariant": "Fingers – where'll I find him?"
+          },
+          {
+            "stringId": "1509671269365866496",
+            "femaleVariant": "Well, well, whadda we got here?"
+          },
+          {
+            "stringId": "1509897616239517696",
+            "femaleVariant": "Nah, nah. I'd rather live here."
+          },
+          {
+            "stringId": "1509898589989134340",
+            "femaleVariant": "Is Fingers around?"
+          },
+          {
+            "stringId": "1509899227355570176",
+            "femaleVariant": "Fingers – know where I can find him?"
+          },
+          {
+            "stringId": "1509899634219835392",
+            "femaleVariant": "If I could I'd swap, y'know."
+          },
+          {
+            "stringId": "1509902939801149440",
+            "femaleVariant": "He's operatin' on somebody right now."
+          },
+          {
+            "stringId": "1603703431393878016",
+            "femaleVariant": "Helped me."
+          },
+          {
+            "stringId": "1604048691886202884",
+            "femaleVariant": "What're you doing here?"
+          },
+          {
+            "stringId": "1604050476092792832",
+            "femaleVariant": "Glad you came."
+          },
+          {
+            "stringId": "1604051509485412352",
+            "femaleVariant": "Glad to see a familiar face."
+          },
+          {
+            "stringId": "1604057333326848000",
+            "femaleVariant": "I'm worried sick about her, V. Had no idea anything'd happened."
+          },
+          {
+            "stringId": "1613931561790382080",
+            "femaleVariant": "Fine... let her through, Sludge.",
+            "maleVariant": "Fine... let him through, Sludge."
+          },
+          {
+            "stringId": "1614065596143411200",
+            "femaleVariant": "Helloooooo? There's a line...?"
+          },
+          {
+            "stringId": "1614246535716839424",
+            "femaleVariant": "Been in there for ages… Shouldn't be much longer."
+          },
+          {
+            "stringId": "1614249226731954176",
+            "femaleVariant": "He chipped you some chrome with RealSkinn that had peeled off. What he replaced it with looks like a bathroom floor from a senior home."
+          },
+          {
+            "stringId": "1614254810961190912",
+            "femaleVariant": "Don't hold your breath. I've spent hours waitin' for him to come out."
+          },
+          {
+            "stringId": "1615566112342056960",
+            "femaleVariant": "[Sit] Seen a girl with blue hair here?"
+          },
+          {
+            "stringId": "1615566587036606464",
+            "femaleVariant": "You seen a woman with blue hair around here? Had a doll chip."
+          },
+          {
+            "stringId": "1615670448975945728",
+            "femaleVariant": "Think Evelyn's being kept here somewhere?"
+          },
+          {
+            "stringId": "1615733503407595520",
+            "femaleVariant": "Think I know who you're talkin' about... Fingers worked on 'er, sure."
+          },
+          {
+            "stringId": "1622855250423644160",
+            "femaleVariant": "Ey, not one step closer."
+          },
+          {
+            "stringId": "1622855250440421376",
+            "femaleVariant": "Don't start."
+          },
+          {
+            "stringId": "1622855250440421392",
+            "femaleVariant": "I don't want any trouble."
+          },
+          {
+            "stringId": "1622855250440421408",
+            "femaleVariant": "Looking for Fingers."
+          },
+          {
+            "stringId": "1622855250490753024",
+            "femaleVariant": "Look, I don't want any trouble."
+          },
+          {
+            "stringId": "1622855250507530240",
+            "femaleVariant": "Looking for a ripperdoc – goes by Fingers."
+          },
+          {
+            "stringId": "1622864890830061568",
+            "femaleVariant": "Just let me through, pretty please."
+          },
+          {
+            "stringId": "1622878279383973888",
+            "femaleVariant": "Who's askin'? And why?"
+          },
+          {
+            "stringId": "1622880904766619672",
+            "femaleVariant": "Got a busted implant."
+          },
+          {
+            "stringId": "1622883654552322048",
+            "femaleVariant": "Not your biz."
+          },
+          {
+            "stringId": "1622899168544620544",
+            "femaleVariant": "My biz not yours. Lookin' for him 'cause I feel like it. Now get outta my way."
+          },
+          {
+            "stringId": "1622903037722951680",
+            "femaleVariant": "Got a problem with an implant."
+          },
+          {
+            "stringId": "1622921814766321664",
+            "femaleVariant": "Fuck off."
+          },
+          {
+            "stringId": "1622923023933833216",
+            "femaleVariant": "Yo, you hear what this bitch said to me? Best watch your tongue!",
+            "maleVariant": "Yo, you hear what this motherfucker said to me? Best watch your tongue!"
+          },
+          {
+            "stringId": "1634577505634181120",
+            "femaleVariant": "Ain't you just the cutest thing.",
+            "maleVariant": "Ain't you a stylish thing."
+          },
+          {
+            "stringId": "1634582906924654592",
+            "femaleVariant": "If you're lookin' for a release, I just might be your man…",
+            "maleVariant": "If you're lookin' for a release, I just might be your match…"
+          },
+          {
+            "stringId": "1634588886659981312",
+            "femaleVariant": "Best apologize for that, bitch!",
+            "maleVariant": "Best apologize for that, asshole!"
+          },
+          {
+            "stringId": "1634602745579921408",
+            "femaleVariant": "Here to see who?"
+          },
+          {
+            "stringId": "1634606567463280640",
+            "femaleVariant": "Got an issue needs sortin' out. Here to do that."
+          },
+          {
+            "stringId": "1634607256855863296",
+            "femaleVariant": "So how about you fuck off, let me through and no one will be the wiser?"
+          },
+          {
+            "stringId": "1634617601452367872",
+            "femaleVariant": "How 'bout you pretty please me, hehe?"
+          },
+          {
+            "stringId": "1634617983150809088",
+            "femaleVariant": "All riiiiight, all right, go on."
+          },
+          {
+            "stringId": "1634624743764877312",
+            "femaleVariant": "Know where I can find him?"
+          },
+          {
+            "stringId": "1634626661719433216",
+            "femaleVariant": "I'd say it again. But what for? Your little skull sponge can't possibly get its grey cells around it."
+          },
+          {
+            "stringId": "1634632694101663744",
+            "femaleVariant": "Not from around here. Couldn't find another ripper in the city to patch you up?"
+          },
+          {
+            "stringId": "1634633241475112960",
+            "femaleVariant": "Heard Fingers was the best."
+          },
+          {
+            "stringId": "1634638834797600768",
+            "femaleVariant": "Yeah, the best for joygirls. Are you a whore?"
+          },
+          {
+            "stringId": "1634639622856990724",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "1634640391958126592",
+            "femaleVariant": "No, but you are."
+          },
+          {
+            "stringId": "1634642273455792128",
+            "femaleVariant": "Kindly get the fuck outta my way."
+          },
+          {
+            "stringId": "1634647223690813440",
+            "femaleVariant": "An escort. For special tastes."
+          },
+          {
+            "stringId": "1634647935229321216",
+            "femaleVariant": "No, but you are – from the look of things."
+          },
+          {
+            "stringId": "1634653820257263616",
+            "femaleVariant": "Lookin' for a ripper who can cater to my special needs."
+          },
+          {
+            "stringId": "1634656079896600576",
+            "femaleVariant": "Good... Fingers'll like you. Let her through!",
+            "maleVariant": "Good... Fingers'll like you. Let him through!"
+          },
+          {
+            "stringId": "1634682347765587968",
+            "femaleVariant": "Just don't turn off the lights."
+          },
+          {
+            "stringId": "1634682650627891200",
+            "femaleVariant": "Summer means rain, means I have to sit in the basement the whole time."
+          },
+          {
+            "stringId": "1634687586887491584",
+            "femaleVariant": "Why does everythin' have to be so damn... convoluted."
+          },
+          {
+            "stringId": "1634688015176261632",
+            "femaleVariant": "In the end, all you got left are shredded cables and empty bottles."
+          },
+          {
+            "stringId": "1634694904622571520",
+            "femaleVariant": "Nuh-uh, you ain't cuttin'!"
+          },
+          {
+            "stringId": "1634695232617144320",
+            "femaleVariant": "Sit your ass down and wait your turn!"
+          },
+          {
+            "stringId": "1635818714742611968",
+            "femaleVariant": "How'd you know where to find her?"
+          },
+          {
+            "stringId": "1635818714742611984",
+            "femaleVariant": "You knew she wasn't at Clouds?"
+          },
+          {
+            "stringId": "1635818714910384128",
+            "femaleVariant": "Mean to say, this whole time you knew Evelyn wasn't at Clouds?"
+          },
+          {
+            "stringId": "1635818714910384144",
+            "femaleVariant": "Who do you take me for? Why would I lie about something like that?"
+          },
+          {
+            "stringId": "1635818714910384156",
+            "femaleVariant": "Because you don't trust me?"
+          },
+          {
+            "stringId": "1635820348524683264",
+            "femaleVariant": "What're you even doing here, Judy?"
+          },
+          {
+            "stringId": "1635820348541460480",
+            "femaleVariant": "Same thing as you. Looking for Evelyn."
+          },
+          {
+            "stringId": "1635832009696436224",
+            "femaleVariant": "How'd you know to look for Evelyn here?"
+          },
+          {
+            "stringId": "1635832009696436236",
+            "femaleVariant": "Got friends at Clouds. Word spreads out of there quicker than the clap."
+          },
+          {
+            "stringId": "1635832009696436248",
+            "femaleVariant": "Meaning?"
+          },
+          {
+            "stringId": "1635832009713213444",
+            "femaleVariant": "Friend told me what you dug up, so here I am."
+          },
+          {
+            "stringId": "1635872315296931840",
+            "femaleVariant": "You're right, I don't. But that doesn't make me a liar."
+          },
+          {
+            "stringId": "1635875247132205056",
+            "femaleVariant": "You talk to Fingers yet?"
+          },
+          {
+            "stringId": "1635877817368141824",
+            "femaleVariant": "You talk to Fingers yet?"
+          },
+          {
+            "stringId": "1635878446631182336",
+            "femaleVariant": "This friend of yours – who is it?"
+          },
+          {
+            "stringId": "1635892654802427904",
+            "femaleVariant": "If only. He's harder to get in to see than the best docs in town."
+          },
+          {
+            "stringId": "1635895058474164224",
+            "femaleVariant": "Tom Caldera. Works as a doll there."
+          },
+          {
+            "stringId": "1635900156684230656",
+            "femaleVariant": "Never bothered to mention Evelyn had disappeared when we talked. Then you came around asking questions. Got him scratching his head."
+          },
+          {
+            "stringId": "1635917024664969216",
+            "femaleVariant": "Mhm... Didn't strike me as the brightest bulb of the batch."
+          },
+          {
+            "stringId": "1635917279494103040",
+            "femaleVariant": "Sorry, but right now I could give a shit about what does or does not strike you."
+          },
+          {
+            "stringId": "1635924067119489024",
+            "femaleVariant": "Let's just concentrate on finding Evelyn? I'm starting to get worried, seriuosly."
+          },
+          {
+            "stringId": "1635934450001600512",
+            "femaleVariant": "We'll find her, I know we will."
+          },
+          {
+            "stringId": "1635956032648470528",
+            "femaleVariant": "Specially when he collects \"payment\" right after the procedure! Hehehe."
+          },
+          {
+            "stringId": "1635968493103570944",
+            "femaleVariant": "She still here?"
+          },
+          {
+            "stringId": "1635968625828126720",
+            "femaleVariant": "No idea. Gotta ask him."
+          },
+          {
+            "stringId": "1635976708486815744",
+            "femaleVariant": "I'd be in a wheelchair if it wasn’t for him."
+          },
+          {
+            "stringId": "1635987535847710720",
+            "femaleVariant": "Better than bein' a cripple."
+          },
+          {
+            "stringId": "1637456809481166848",
+            "femaleVariant": "On the one hand hope she is, 'cause I want her back fast."
+          },
+          {
+            "stringId": "1637457535515189248",
+            "femaleVariant": "But on the other, hope to God no, because who knows what that sick fuck could've done to her."
+          },
+          {
+            "stringId": "1637459390857175040",
+            "femaleVariant": "She means a lot to you, doesn't she?"
+          },
+          {
+            "stringId": "1637459390873952264",
+            "femaleVariant": "And you've arrived at that conclusion how, exactly?"
+          },
+          {
+            "stringId": "1637459390873952276",
+            "femaleVariant": "Moment you knew where she was, you sprang into action."
+          },
+          {
+            "stringId": "1637462464745136128",
+            "femaleVariant": "Once you get close to Evelyn, you never wanna let her go."
+          },
+          {
+            "stringId": "1650570773101871104",
+            "femaleVariant": "Fuck off and leave me be!"
+          },
+          {
+            "stringId": "1663625762825109504",
+            "femaleVariant": "Think I'm scared of your skinny ass?"
+          },
+          {
+            "stringId": "1670947775235973120",
+            "femaleVariant": "Tsk-tsk-tsk, so serious from the get-go? I was only joking, sheesh."
+          },
+          {
+            "stringId": "1670962796565323776",
+            "femaleVariant": "V, hey."
+          },
+          {
+            "stringId": "1670967002479157248",
+            "femaleVariant": "Made it all the way here, huh? Must really wanna talk to Evelyn…"
+          },
+          {
+            "stringId": "1671041256306466816",
+            "femaleVariant": "You worked at Clouds?"
+          },
+          {
+            "stringId": "1671047296053895168",
+            "femaleVariant": "Not as a doll. Tuned their virtus."
+          },
+          {
+            "stringId": "1671047835793711104",
+            "femaleVariant": "That's where I met Ev, Tom and the rest of the crew."
+          },
+          {
+            "stringId": "1691352363495546880",
+            "femaleVariant": "Look in the mirror. Who paid for all that? Think Fingers woulda fixed a cracked faceplate for free? You want out, you gotta pay me back."
+          },
+          {
+            "stringId": "1691378420407820288",
+            "femaleVariant": "You will be when every Mox in town descends on this shithole."
+          },
+          {
+            "stringId": "1691378916224884736",
+            "femaleVariant": "You got a financial claim, take it to court, you pussy."
+          },
+          {
+            "stringId": "1715812685718814744",
+            "femaleVariant": "Fine, I get it. Everyone's got their breakin' point. Just pay me what you owe me and you can fuck off to greener pastures."
+          },
+          {
+            "stringId": "1715812685718814756",
+            "femaleVariant": "I don't owe you shit."
+          },
+          {
+            "stringId": "1715812685735591944",
+            "femaleVariant": "Oh, but you do. And that shit has a name – something around twenty thou."
+          },
+          {
+            "stringId": "1715812685735591956",
+            "femaleVariant": "What?! Come on, you pulled that number out of your ass!"
+          },
+          {
+            "stringId": "1715812685735591968",
+            "femaleVariant": "Watch that tone with me, ya skank."
+          },
+          {
+            "stringId": "1717323197111664640",
+            "femaleVariant": "All right, might've overdone it a smidge. Sorry."
+          },
+          {
+            "stringId": "1717324899395108864",
+            "femaleVariant": "Gotta be worth a damn to get an apology from me."
+          },
+          {
+            "stringId": "1717325129813393408",
+            "femaleVariant": "Nobody talks that way to Lil' Loco!"
+          },
+          {
+            "stringId": "1717331004942778368",
+            "femaleVariant": "Nobody talks that way to us!"
+          },
+          {
+            "stringId": "1717355368429977600",
+            "femaleVariant": "Too fucking late now! Can't unsay words you've said!"
+          },
+          {
+            "stringId": "1734395413322752004",
+            "femaleVariant": "Fine. I overdid it."
+          },
+          {
+            "stringId": "1734396474750099456",
+            "femaleVariant": "I never apologize. To trash."
+          },
+          {
+            "stringId": "1734401456626950144",
+            "femaleVariant": "And you're trash, not worth shit."
+          },
+          {
+            "stringId": "1734404800711974912",
+            "femaleVariant": "Lil Loco'll just stuff 'em back down your throat till you choke!"
+          },
+          {
+            "stringId": "1759077729399693312",
+            "femaleVariant": "You all right?"
+          },
+          {
+            "stringId": "1759100403521904640",
+            "femaleVariant": "Hey, you all right?"
+          },
+          {
+            "stringId": "1759100995707297792",
+            "femaleVariant": "No way I'm 'onna swim. Hate water."
+          },
+          {
+            "stringId": "1759104233542213632",
+            "femaleVariant": "Can't you see nobody cares?!"
+          },
+          {
+            "stringId": "1759132717077454848",
+            "femaleVariant": "You know Fingers?"
+          },
+          {
+            "stringId": "1759133270792691712",
+            "femaleVariant": "Fingers guy – you know 'im?"
+          },
+          {
+            "stringId": "1759133631184068608",
+            "femaleVariant": "Heard some things, yeah…"
+          },
+          {
+            "stringId": "1759134445197811712",
+            "femaleVariant": "Like...?"
+          },
+          {
+            "stringId": "1759138312446763008",
+            "femaleVariant": "His hand sometimes slips."
+          },
+          {
+            "stringId": "1759152886948519936",
+            "femaleVariant": "Why'd Evelyn go back to Clouds?"
+          },
+          {
+            "stringId": "1759155304394350592",
+            "femaleVariant": "After the heist, Evelyn holed up with the Mox for a while, right?"
+          },
+          {
+            "stringId": "1759156226839240704",
+            "femaleVariant": "That's right."
+          },
+          {
+            "stringId": "1759156774061694976",
+            "femaleVariant": "So why the hell'd she go back to Clouds?"
+          },
+          {
+            "stringId": "1759157529371959296",
+            "femaleVariant": "Thought she'd be safer there. God knows why."
+          },
+          {
+            "stringId": "1759157971418046464",
+            "femaleVariant": "Tried to get her to see straight, but she just wouldn't listen."
+          },
+          {
+            "stringId": "1761811900798820352",
+            "femaleVariant": "Hey, hands off her!"
+          },
+          {
+            "stringId": "1786738172360638464",
+            "femaleVariant": "Fine, fine. I'll wait."
+          },
+          {
+            "stringId": "1786740338081120256",
+            "femaleVariant": "Everyone gotta wait their turn, that's the rule."
+          },
+          {
+            "stringId": "1786741271531864064",
+            "femaleVariant": "C'mon, let's go."
+          },
+          {
+            "stringId": "1786742180068442116",
+            "femaleVariant": "Need to talk to Fingers. It's important."
+          },
+          {
+            "stringId": "1786742982220693504",
+            "femaleVariant": "My friend here's in really bad shape. Could we cut in front?"
+          },
+          {
+            "stringId": "1786743054413053952",
+            "femaleVariant": "Don't have time for this bullshit."
+          },
+          {
+            "stringId": "1786744034940665856",
+            "femaleVariant": "My friend here? She's in really sorry shape. Couldn't let us cut in front, just this once?"
+          },
+          {
+            "stringId": "1786744036819714048",
+            "femaleVariant": "Aaaaarghh..."
+          },
+          {
+            "stringId": "1786744086446718980",
+            "femaleVariant": "Sorry, don't have time to sit around."
+          },
+          {
+            "stringId": "1786744088325767168",
+            "femaleVariant": "Uh, that makes three of us."
+          },
+          {
+            "stringId": "1790883957544673280",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1791138094966857728",
+            "femaleVariant": "I need to talk to him. It's important."
+          },
+          {
+            "stringId": "1791138095134629888",
+            "femaleVariant": "You think we're just here to polish our nails, hm?"
+          },
+          {
+            "stringId": "1791138095252070400",
+            "femaleVariant": "I'll let you cut in front of me."
+          },
+          {
+            "stringId": "1791138095386288128",
+            "femaleVariant": "You're a real pain in my clit, Mitzy, know that? And you... might as well knock and find out when he's moppin' up."
+          },
+          {
+            "stringId": "1791138095520505856",
+            "femaleVariant": "S'posed to be a goddamn clinic, not an enny-op launderette."
+          },
+          {
+            "stringId": "1791246711468548096",
+            "femaleVariant": "'Course, honey, be my guest."
+          },
+          {
+            "stringId": "1791247010656641024",
+            "femaleVariant": "Well now, hold on, hold on a sec. Didn't seem so bad just a minute ago."
+          },
+          {
+            "stringId": "1791248828803538944",
+            "femaleVariant": "She's a toughie. Keeps it inside, mostly."
+          },
+          {
+            "stringId": "1791249396192206848",
+            "femaleVariant": "Go on, now, don't you worry about her."
+          },
+          {
+            "stringId": "1791254202461937664",
+            "femaleVariant": "Tell you what makes three. Number of seconds it'll take me to turn this place upside down, inside out."
+          },
+          {
+            "stringId": "1791256488156291072",
+            "femaleVariant": "Jeeeez, all right! You got nerve. Don't let me stop you if you're in such a goddamn hurry…"
+          },
+          {
+            "stringId": "1793807168586866688",
+            "femaleVariant": "We're gonna be here forever, I just know it. Maybe you could talk to those girls, see if we can't cut in front?"
+          },
+          {
+            "stringId": "1793817828276264960",
+            "femaleVariant": "Why me?"
+          },
+          {
+            "stringId": "1793818723625951232",
+            "femaleVariant": "I don't think they like me. Just give it a shot. That or come up with something better."
+          },
+          {
+            "stringId": "1822684954076340224",
+            "femaleVariant": "The Mox got Fingers in their crosshairs?"
+          },
+          {
+            "stringId": "1822685872746356736",
+            "femaleVariant": "Mox don't happen to have Fingers in their crosshairs?"
+          },
+          {
+            "stringId": "1822736149197316096",
+            "femaleVariant": "Got a message from the Tyger Claws."
+          },
+          {
+            "stringId": "1822740061425983488",
+            "femaleVariant": "Got a message for Fingers. Comes from the Tyger Claws."
+          },
+          {
+            "stringId": "1822752470760906752",
+            "femaleVariant": "And that message would be...?"
+          },
+          {
+            "stringId": "1822754608580878336",
+            "femaleVariant": "Two things – urgent and confidential."
+          },
+          {
+            "stringId": "1822822253292380160",
+            "femaleVariant": "Meaning?"
+          },
+          {
+            "stringId": "1822824906307100672",
+            "femaleVariant": "Meaning you've got a choice."
+          },
+          {
+            "stringId": "1822827470738120704",
+            "femaleVariant": "You either get your shit kicked in for being slow or for being a nosy prick."
+          },
+          {
+            "stringId": "1822838430471249920",
+            "femaleVariant": "Oh yeah?"
+          },
+          {
+            "stringId": "1822871728681607168",
+            "femaleVariant": "No. Why?"
+          },
+          {
+            "stringId": "1822871998509572096",
+            "femaleVariant": "Heard joytoys come out of his clinic in worse shape than they come in."
+          },
+          {
+            "stringId": "1822880636242452480",
+            "femaleVariant": "Yeah, well... can't solve all the world's problems at once."
+          },
+          {
+            "stringId": "1886765472373710848",
+            "femaleVariant": "Woooo! Thass' right! You get 'em, girl!",
+            "maleVariant": "Woooo! Thass' right! You get 'em, boy!"
+          },
+          {
+            "stringId": "1886766604651241476",
+            "femaleVariant": "Hope that teaches those candy-ass scopsuckers not to come 'round here no more."
+          },
+          {
+            "stringId": "1928885673853517824",
+            "femaleVariant": "Here. This oughta cover you for some real chrome. From a real ripper."
+          },
+          {
+            "stringId": "1928888166511607808",
+            "femaleVariant": "If you're flush enough to afford a \"real ripper,\" then what're you doing here?"
+          },
+          {
+            "stringId": "1975100139809497088",
+            "femaleVariant": "[Pay] Find yourselves a better ripperdoc."
+          },
+          {
+            "stringId": "1975109440208855040",
+            "femaleVariant": "Hell do you care? She's here 'cause she feel like it. Now thank the lady and le'ss you an' me delta.",
+            "maleVariant": "Hell do you care? He here 'cuz he feel like it. Now thank the man and le'ss you an' me delta."
+          },
+          {
+            "stringId": "1996821937952718848",
+            "femaleVariant": "Think Evelyn's here?"
+          },
+          {
+            "stringId": "1996821937969496068",
+            "femaleVariant": "Evelyn – she means a lot to you."
+          },
+          {
+            "stringId": "1996821937969496084",
+            "femaleVariant": "You used to work at Clouds?"
+          },
+          {
+            "stringId": "1998319243877900288",
+            "femaleVariant": "Who's this friend of yours?"
+          },
+          {
+            "stringId": "2005566294604185600",
+            "femaleVariant": "[Wait] Fine, I'll wait."
+          },
+          {
+            "stringId": "2005590618379714564",
+            "femaleVariant": "[Sit] Fine, I'll wait."
+          },
+          {
+            "stringId": "2243389845305778176",
+            "femaleVariant": "Tha'ss just a straight circus act. Fuckin' a-cro-ba-tics, flyin' in an' shit?"
+          },
+          {
+            "stringId": "2243390283543437316",
+            "femaleVariant": "Jus' watch you don't break your legs, honey? Gonna be beggin' Fingers for a new pair."
+          },
+          {
+            "stringId": "2243400858155573248",
+            "femaleVariant": "Yeh, yeh, twitty bird… heheh."
+          },
+          {
+            "stringId": "2247305332108517376",
+            "femaleVariant": "What's this? Lost your thunder?"
+          },
+          {
+            "stringId": "2247315370772488200",
+            "femaleVariant": "Nuh-uh. Not gettin' anywhere that way."
+          },
+          {
+            "stringId": "2247324320091824128",
+            "femaleVariant": "Lost your way?"
+          },
+          {
+            "stringId": "2247339897200009216",
+            "femaleVariant": "This way, that way… this a fuckin' a dance floor?"
+          },
+          {
+            "stringId": "2247341115930533888",
+            "femaleVariant": "Pff. Nothing special."
+          }
+        ]
+      }
+
+
+

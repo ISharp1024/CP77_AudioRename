@@ -1,0 +1,463 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1633184049081098240",
+            "femaleVariant": "Thanks for the help."
+          },
+          {
+            "stringId": "1633243827341893636",
+            "femaleVariant": "[Activate fog emitters] Let it fog!"
+          },
+          {
+            "stringId": "1633244053112889344",
+            "femaleVariant": "[Change light cycle to night] Say goodnight."
+          },
+          {
+            "stringId": "1633244164127727616",
+            "femaleVariant": "[Activate ambient jungle sounds]"
+          },
+          {
+            "stringId": "1633244623538233344",
+            "femaleVariant": "[Blast own music on sound emitters]"
+          },
+          {
+            "stringId": "1663478517184991232",
+            "femaleVariant": "You were supposed to jump with us."
+          },
+          {
+            "stringId": "1663478853467508736",
+            "femaleVariant": "Don't like all enemies in one big puddle – decided to ripple 'em out."
+          },
+          {
+            "stringId": "1663480778065842180",
+            "femaleVariant": "Missed all the fun."
+          },
+          {
+            "stringId": "1663481962671509504",
+            "femaleVariant": "Seems you jumped the puddle entirely."
+          },
+          {
+            "stringId": "1663482036172492800",
+            "femaleVariant": "Remind me a lot of your old man."
+          },
+          {
+            "stringId": "1663482431208820736",
+            "femaleVariant": "What? But you're too young to--"
+          },
+          {
+            "stringId": "1663484082640523264",
+            "femaleVariant": "Not now!"
+          },
+          {
+            "stringId": "1663489952535416832",
+            "femaleVariant": "Let's get outta here."
+          },
+          {
+            "stringId": "1663493636426174464",
+            "femaleVariant": "Who is this chick?",
+            "maleVariant": "Who is this mon?"
+          },
+          {
+            "stringId": "1672148747281108992",
+            "femaleVariant": "Not now!"
+          },
+          {
+            "stringId": "1672150034009690112",
+            "femaleVariant": "So, you're Johnny Silverhand some which way, huh?"
+          },
+          {
+            "stringId": "1672155359366483968",
+            "femaleVariant": "That's right."
+          },
+          {
+            "stringId": "1672155422515924992",
+            "femaleVariant": "Nova... Nice to meet you."
+          },
+          {
+            "stringId": "1672311634989551616",
+            "femaleVariant": "Look..."
+          },
+          {
+            "stringId": "1672312015530364928",
+            "femaleVariant": "Mhm. More of 'em."
+          },
+          {
+            "stringId": "1672312651856613376",
+            "femaleVariant": "Uh-huh… Always did prefer night ops."
+          },
+          {
+            "stringId": "1672312811189833728",
+            "femaleVariant": "Little cover oughta help..."
+          },
+          {
+            "stringId": "1672313124403679232",
+            "femaleVariant": "Always had a thing for birds, didn't ya?"
+          },
+          {
+            "stringId": "1672313238958510080",
+            "femaleVariant": "Time to liven up this party."
+          },
+          {
+            "stringId": "1672319767896002560",
+            "femaleVariant": "Mh. What's this?"
+          },
+          {
+            "stringId": "1672319828562415616",
+            "femaleVariant": "El Salvador."
+          },
+          {
+            "stringId": "1672321830856036352",
+            "femaleVariant": "Beautiful. Too bad they're not real."
+          },
+          {
+            "stringId": "1672323038345826304",
+            "femaleVariant": "Is that--?"
+          },
+          {
+            "stringId": "1672347785293074432",
+            "femaleVariant": "We take 'em out quietly, won't have a chance to set off the alarm."
+          },
+          {
+            "stringId": "1672347940213886976",
+            "femaleVariant": "Not even to shit their pants."
+          },
+          {
+            "stringId": "1672348063559979008",
+            "femaleVariant": "Let's move."
+          },
+          {
+            "stringId": "1672348386420723712",
+            "femaleVariant": "One for you, one for me."
+          },
+          {
+            "stringId": "1672348871299043328",
+            "femaleVariant": "Ahh. Ooh, that felt good."
+          },
+          {
+            "stringId": "1693694557121650688",
+            "femaleVariant": "Weyland...? You read me?"
+          },
+          {
+            "stringId": "1693704318105919488",
+            "femaleVariant": "How many pieces you in?"
+          },
+          {
+            "stringId": "1693705724674154496",
+            "femaleVariant": "We're goin' after Weyland."
+          },
+          {
+            "stringId": "1693996028006473728",
+            "femaleVariant": "OK, Weyland. You ready?"
+          },
+          {
+            "stringId": "1693996730485284864",
+            "femaleVariant": "Was that a real question?"
+          },
+          {
+            "stringId": "1694008751343771648",
+            "femaleVariant": "Nice. Remind me of your dad."
+          },
+          {
+            "stringId": "1697012564665278464",
+            "femaleVariant": "Move!"
+          },
+          {
+            "stringId": "1698512071982817280",
+            "femaleVariant": "Better late than never, I suppose..."
+          },
+          {
+            "stringId": "1700114673346519040",
+            "femaleVariant": "In position."
+          },
+          {
+            "stringId": "1702699546247565312",
+            "femaleVariant": "Still one, I hope. An' I think the local tribe's taken an interest in me."
+          },
+          {
+            "stringId": "1702699795087233024",
+            "femaleVariant": "We'll get you outta there. Don't move."
+          },
+          {
+            "stringId": "1702701049972658176",
+            "femaleVariant": "As if I could."
+          },
+          {
+            "stringId": "1702718791996018688",
+            "femaleVariant": "You're alive, aren't you? Plus, now we got elevator access."
+          },
+          {
+            "stringId": "1702721891033026560",
+            "femaleVariant": "C'mon."
+          },
+          {
+            "stringId": "1702725490953818112",
+            "femaleVariant": "Prolly everything else in the building, too."
+          },
+          {
+            "stringId": "1702726079381114880",
+            "femaleVariant": "There's gotta be a way. Need to look around."
+          },
+          {
+            "stringId": "1703815839989342208",
+            "femaleVariant": "Might wanna turn the ambient jungle sounds back on. Maybe see what else is on there, too."
+          },
+          {
+            "stringId": "1703817008723763200",
+            "femaleVariant": "Weyland, let's find him."
+          },
+          {
+            "stringId": "1703817841075003392",
+            "femaleVariant": "Gotta find Weyland. Time's tight."
+          },
+          {
+            "stringId": "1703824645595045888",
+            "femaleVariant": "Agreed."
+          },
+          {
+            "stringId": "1830157220754096128",
+            "femaleVariant": "Shit, great! They jammed the elevators."
+          },
+          {
+            "stringId": "1830160637769678848",
+            "femaleVariant": "You and your fucking ego."
+          },
+          {
+            "stringId": "1883848372864950272",
+            "femaleVariant": "Hey… you still breathin'?"
+          },
+          {
+            "stringId": "1883849389379690496",
+            "femaleVariant": "Weyland never jumped. Crashed by the waterfall."
+          },
+          {
+            "stringId": "1883850914395070468",
+            "femaleVariant": "Let's go get him."
+          },
+          {
+            "stringId": "1883853045755813888",
+            "femaleVariant": "He'll manage on his own."
+          },
+          {
+            "stringId": "1883853183362539520",
+            "femaleVariant": "Got it."
+          },
+          {
+            "stringId": "1883853194804600832",
+            "femaleVariant": "Don't have the time to waste. He'll be fine."
+          },
+          {
+            "stringId": "1883853660087132160",
+            "femaleVariant": "Almost forgot what an asshole you are. Fine, do what you want, but I'm helpin' Weyland."
+          },
+          {
+            "stringId": "1883860371392962560",
+            "femaleVariant": "I'll try to reestablish contact with him, then find someone who's got access for the elevator going down."
+          },
+          {
+            "stringId": "1883892735666036736",
+            "femaleVariant": "I've reached Weyland."
+          },
+          {
+            "stringId": "1883895866982408192",
+            "femaleVariant": "Finally, let's get to work. Hey, Weyland, you hear me?"
+          },
+          {
+            "stringId": "1883895893540741120",
+            "femaleVariant": "Head for the waterfall. Waiting for you there."
+          },
+          {
+            "stringId": "1883896993622794240",
+            "femaleVariant": "Loud an' clear. Door's all mine."
+          },
+          {
+            "stringId": "1883897453872160768",
+            "femaleVariant": "We each get one. Johnny, choice is yours."
+          },
+          {
+            "stringId": "1883923455016968192",
+            "femaleVariant": "Let's find an ace among all these suits, grab the access shard from his cold, dead hands, and get outta this fucking jungle."
+          },
+          {
+            "stringId": "1883923478421184512",
+            "femaleVariant": "Need an access token to get outta here. We'll find one on an officer."
+          },
+          {
+            "stringId": "1883924048594870272",
+            "femaleVariant": "Way ahead of ya."
+          },
+          {
+            "stringId": "1883924540637061120",
+            "femaleVariant": "Oh goddamn it, knew I forgot somethin'. Well, I know where we can find one, already stiff."
+          },
+          {
+            "stringId": "1884002335950118912",
+            "femaleVariant": "See that one? A high-ranker, holding the access we need."
+          },
+          {
+            "stringId": "1884003087468732416",
+            "femaleVariant": "All yours, Johnny."
+          },
+          {
+            "stringId": "1884005626801037312",
+            "femaleVariant": "Good to go. Johnny, do the honors."
+          },
+          {
+            "stringId": "1884896731734220800",
+            "femaleVariant": "As Spider Murphy loved to say… \"Look what the cat dragged in.\""
+          },
+          {
+            "stringId": "1884899799112622080",
+            "femaleVariant": "Let's grab the access token and make for the elevator."
+          },
+          {
+            "stringId": "1885344966399500288",
+            "femaleVariant": "Move your asses! I need backup!"
+          },
+          {
+            "stringId": "1885344974200905728",
+            "femaleVariant": "You piece of shit – Weyland's dead!"
+          },
+          {
+            "stringId": "1885350755243663360",
+            "femaleVariant": "Found a way through by the elevator. Come find me."
+          },
+          {
+            "stringId": "1885350763699380224",
+            "femaleVariant": "Found a way through by the elevator. Waitin' on you two."
+          },
+          {
+            "stringId": "1885371675677040640",
+            "femaleVariant": "Go. But keep your eyes lookin' three-sixty."
+          },
+          {
+            "stringId": "1885404138432372736",
+            "femaleVariant": "I'm downstairs. C'mon."
+          },
+          {
+            "stringId": "1886379122415902720",
+            "femaleVariant": "Guards."
+          },
+          {
+            "stringId": "1886398579590832128",
+            "femaleVariant": "Gonna take the cover route. Meet up at the AV."
+          },
+          {
+            "stringId": "1886398803902210048",
+            "femaleVariant": "Slippin' by's an option, and so is takin' 'em out all at once. I'll follow your lead."
+          },
+          {
+            "stringId": "1886424714617823232",
+            "femaleVariant": "OK, to the bird."
+          },
+          {
+            "stringId": "1886428196057915392",
+            "femaleVariant": "Just keep scoutin' around, asshole. Me – I'm getting Weyland back."
+          },
+          {
+            "stringId": "1893706234298638336",
+            "femaleVariant": "Yo, slick skin."
+          },
+          {
+            "stringId": "1893706699597946880",
+            "femaleVariant": "From a half-reptile, I'll take that as a compliment."
+          },
+          {
+            "stringId": "1902225504179593216",
+            "femaleVariant": "Occupied at the term…"
+          },
+          {
+            "stringId": "1907072280166408192",
+            "femaleVariant": "They spotted us!"
+          },
+          {
+            "stringId": "1907073202175090692",
+            "femaleVariant": "Well, was good while it lasted…"
+          },
+          {
+            "stringId": "1907073221972205572",
+            "femaleVariant": "We've been made!"
+          },
+          {
+            "stringId": "1912861464823078912",
+            "femaleVariant": "Over here."
+          },
+          {
+            "stringId": "1912861662743896064",
+            "femaleVariant": "Hey, boy scout…"
+          },
+          {
+            "stringId": "1914431701460721664",
+            "femaleVariant": "See if we can't use this term somehow."
+          },
+          {
+            "stringId": "1914432136376492032",
+            "femaleVariant": "Time for a classic."
+          },
+          {
+            "stringId": "1914433962039582724",
+            "femaleVariant": "Nighty night."
+          },
+          {
+            "stringId": "1914433985309581316",
+            "femaleVariant": "Let there be fog."
+          },
+          {
+            "stringId": "1949049036028780544",
+            "femaleVariant": "Got the access token. Now, the elevator."
+          },
+          {
+            "stringId": "1988081562063740928",
+            "femaleVariant": "Initiating \"Hayabusa\" protocol."
+          },
+          {
+            "stringId": "1988083559961731072",
+            "femaleVariant": "The facility is in lockdown."
+          },
+          {
+            "stringId": "1988083780498235392",
+            "femaleVariant": "Security personnel must report to designated zones."
+          },
+          {
+            "stringId": "1988192750797856768",
+            "femaleVariant": "Intruder detected."
+          },
+          {
+            "stringId": "2056082450839789568",
+            "femaleVariant": "Ugh… Fuck me..."
+          },
+          {
+            "stringId": "2056215078725246976",
+            "femaleVariant": "Yeah? Nice work. Let's go."
+          },
+          {
+            "stringId": "2056220515147210752",
+            "femaleVariant": "Let's go pay our respects."
+          },
+          {
+            "stringId": "2056236177550761984",
+            "femaleVariant": "Meet me in the atrium NOW, or you'll regret it!"
+          },
+          {
+            "stringId": "2401210881093066756",
+            "femaleVariant": "[Sit]"
+          }
+        ]
+      }
+
+
+

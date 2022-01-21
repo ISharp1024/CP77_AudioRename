@@ -1,0 +1,204 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1789969747397677060",
+            "femaleVariant": "Lookin' pretty lost, punk."
+          },
+          {
+            "stringId": "1789969747431231492",
+            "femaleVariant": "City's going to the dogs."
+          },
+          {
+            "stringId": "1789969747481563140",
+            "femaleVariant": "You ain't welcome here."
+          },
+          {
+            "stringId": "1789969747498340356",
+            "femaleVariant": "Get lost!"
+          },
+          {
+            "stringId": "1789969747548672004",
+            "femaleVariant": "Holster that. Right fuckin' now!"
+          },
+          {
+            "stringId": "1789969747565449220",
+            "femaleVariant": "The hell you doin' with that?"
+          },
+          {
+            "stringId": "1789969747615780868",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"You're on real fuckin' thin ice, \" a=\".\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"You're on real fuckin' thin ice, \" a=\".\"/>"
+          },
+          {
+            "stringId": "1789969747632558084",
+            "femaleVariant": "'Bout to let my iron do my talkin' for me."
+          },
+          {
+            "stringId": "1789969747682889732",
+            "femaleVariant": "Let's be good, now."
+          },
+          {
+            "stringId": "1789969747699666948",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Good \" a=\".\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"chico\" b=\"Good \" a=\".\"/>"
+          },
+          {
+            "stringId": "1789969747749998596",
+            "femaleVariant": "Hmm..."
+          },
+          {
+            "stringId": "1789969747766775812",
+            "femaleVariant": "Got possible enemy contact..."
+          },
+          {
+            "stringId": "1789969747817107460",
+            "femaleVariant": "All under control."
+          },
+          {
+            "stringId": "1789969747833884676",
+            "femaleVariant": "All clear."
+          },
+          {
+            "stringId": "1789969747884216324",
+            "femaleVariant": "Enough with the fuckin' games! Come out!"
+          },
+          {
+            "stringId": "1789969747900993540",
+            "femaleVariant": "C'mon out, I won't hurt you. Here, kitty kitty."
+          },
+          {
+            "stringId": "1789969747934547972",
+            "femaleVariant": "Got one of ours down! Shit!"
+          },
+          {
+            "stringId": "1789969747968102404",
+            "femaleVariant": "Mhm. On it."
+          },
+          {
+            "stringId": "1789969748018434052",
+            "femaleVariant": "Mmm, got that adrenaline pumpin'!"
+          },
+          {
+            "stringId": "1789969748035211268",
+            "femaleVariant": "Ah, let the games begin!"
+          },
+          {
+            "stringId": "1789969748068765700",
+            "femaleVariant": "Hope it tears your guts out!"
+          },
+          {
+            "stringId": "1789969748119097348",
+            "femaleVariant": "Hit to kill!"
+          },
+          {
+            "stringId": "1789969748135874564",
+            "femaleVariant": "Oooooo-rah!"
+          },
+          {
+            "stringId": "1789969748186206212",
+            "femaleVariant": "Do something! Anything, dammit!"
+          },
+          {
+            "stringId": "1789969748202983428",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"cabrón!\" b=\"You fucking \" a=\"\"/>"
+          },
+          {
+            "stringId": "1789969748270092292",
+            "femaleVariant": "What?!"
+          },
+          {
+            "stringId": "1789969748286869508",
+            "femaleVariant": "You cruisin' for a fuckin' bruisin'?"
+          },
+          {
+            "stringId": "1789969748337201156",
+            "femaleVariant": "What's up?"
+          },
+          {
+            "stringId": "1789969748404310020",
+            "femaleVariant": "So what...? So deal with him..."
+          },
+          {
+            "stringId": "1789969748421087236",
+            "femaleVariant": "Mhm.. How's she feelin'...?"
+          },
+          {
+            "stringId": "1789969748471418884",
+            "femaleVariant": "Check the bitch's six!"
+          },
+          {
+            "stringId": "1789969748504973316",
+            "femaleVariant": "Comin' from the right!"
+          },
+          {
+            "stringId": "1789969748538527748",
+            "femaleVariant": "She's 'bout to blow!"
+          },
+          {
+            "stringId": "1789969748572082180",
+            "femaleVariant": "Great. Gotta go."
+          },
+          {
+            "stringId": "1789969748605636612",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chingados\" b=\"What the \" a=\" is going on…\"/>"
+          },
+          {
+            "stringId": "1789969748672745476",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Mierda!\" t=\"Shit!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1789969748706299908",
+            "femaleVariant": "'ey! Hear that? C'mon!"
+          },
+          {
+            "stringId": "1789969748756631556",
+            "femaleVariant": "Don't shoot! Check an' see what it is."
+          },
+          {
+            "stringId": "1789969748773408772",
+            "femaleVariant": "Oorah! Motherfuckers!"
+          },
+          {
+            "stringId": "1789969748840517632",
+            "femaleVariant": "Echhh... Owww... Get off... Augh..."
+          },
+          {
+            "stringId": "1790045516677353472",
+            "femaleVariant": "No. Ain't got time now..."
+          },
+          {
+            "stringId": "1790045833431191552",
+            "femaleVariant": "Tell 'er I said hi, too... Mmhm. Mhm... Sure..."
+          },
+          {
+            "stringId": "1958892970177503236",
+            "femaleVariant": "Something happen? You can't talk?"
+          },
+          {
+            "stringId": "1958892970227834884",
+            "femaleVariant": "We good now?"
+          },
+          {
+            "stringId": "1958892970261389316",
+            "femaleVariant": "Hurry up."
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,604 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1305314683049234432",
+            "femaleVariant": "What can I do for you?"
+          },
+          {
+            "stringId": "1305314734790168576",
+            "femaleVariant": "Lookin' to buy a guitar."
+          },
+          {
+            "stringId": "1305318430508863488",
+            "femaleVariant": "Seen Kerry Eurodyne in here?"
+          },
+          {
+            "stringId": "1305318598868226048",
+            "femaleVariant": "Lookin' for a six-string. Electric."
+          },
+          {
+            "stringId": "1305318647253716992",
+            "femaleVariant": "Heard Kerry Eurodyne pops by once in a while."
+          },
+          {
+            "stringId": "1305322227209621504",
+            "femaleVariant": "Feast your eyes."
+          },
+          {
+            "stringId": "1305322673483567104",
+            "femaleVariant": "I want somethin' solid and true."
+          },
+          {
+            "stringId": "1305347331008253952",
+            "femaleVariant": "[Take guitar] Let's see."
+          },
+          {
+            "stringId": "1305347331008253968",
+            "femaleVariant": "This a fake?"
+          },
+          {
+            "stringId": "1305347526462820352",
+            "femaleVariant": "[Take guitar] May I?"
+          },
+          {
+            "stringId": "1305347526462820368",
+            "femaleVariant": "This a replica?"
+          },
+          {
+            "stringId": "1305350640616099840",
+            "femaleVariant": "Tensor Paradize... This a replica?"
+          },
+          {
+            "stringId": "1305350759734333440",
+            "femaleVariant": "DeLuze Orphean... Not a fake?"
+          },
+          {
+            "stringId": "1305351605608009728",
+            "femaleVariant": "Wanna try this one."
+          },
+          {
+            "stringId": "1305351693671616512",
+            "femaleVariant": "May I?"
+          },
+          {
+            "stringId": "1305368942126059520",
+            "femaleVariant": "Excellent choice."
+          },
+          {
+            "stringId": "1315671961181577216",
+            "femaleVariant": "Best music store in Night City. Everybody pops by occasionally."
+          },
+          {
+            "stringId": "1315673975991001088",
+            "femaleVariant": "Know why else they come?"
+          },
+          {
+            "stringId": "1315682840904163328",
+            "femaleVariant": "Glad to see she'll be in... in good hands. Help you with anything else?"
+          },
+          {
+            "stringId": "1315689901796843520",
+            "femaleVariant": "Be my guest."
+          },
+          {
+            "stringId": "1315691442280816640",
+            "femaleVariant": "'Course, strum away."
+          },
+          {
+            "stringId": "1315695018294075392",
+            "femaleVariant": "Real as you or me."
+          },
+          {
+            "stringId": "1315717604621115392",
+            "femaleVariant": "Double humbucker, neck's screwed in, not glued... A beauty, classic."
+          },
+          {
+            "stringId": "1315720375160233984",
+            "femaleVariant": "Take a good look."
+          },
+          {
+            "stringId": "1315721261097902080",
+            "femaleVariant": "Relax, just makin' sure. Looks authentic. Well maintained. Must be around... shit, seventy?"
+          },
+          {
+            "stringId": "1315722551198703616",
+            "femaleVariant": "Perfectly balanced, too. Barely needs holding."
+          },
+          {
+            "stringId": "1315723220710285312",
+            "femaleVariant": "Ninety and still going strong. Fretboard's pure, 'ganic ebony."
+          },
+          {
+            "stringId": "1316927838425407536",
+            "femaleVariant": "I don't snoop on customers, don't keep no record…"
+          },
+          {
+            "stringId": "1316927838442184712",
+            "femaleVariant": "So – how can I help you?"
+          },
+          {
+            "stringId": "1316932020012277800",
+            "femaleVariant": "No, but... got a feeling I'm about to find out.",
+            "maleVariant": "No, but... got a feelin' I'm about to find out."
+          },
+          {
+            "stringId": "1316936483154386944",
+            "femaleVariant": "Pretty sure I'm about to find out."
+          },
+          {
+            "stringId": "1426975004930625536",
+            "femaleVariant": "Night City Strippers shouldn't be on the same shelf as Neon Haze..."
+          },
+          {
+            "stringId": "1426981600222007296",
+            "femaleVariant": "Never, ever heard anyone play Silverhand like that."
+          },
+          {
+            "stringId": "1426982745501880320",
+            "femaleVariant": "I am Johnny."
+          },
+          {
+            "stringId": "1426983767737651200",
+            "femaleVariant": "Practice, and you will too."
+          },
+          {
+            "stringId": "1426984732159135744",
+            "femaleVariant": "Good ear, kid. No one can imitate Silverhand's style."
+          },
+          {
+            "stringId": "1426984795056918528",
+            "femaleVariant": "Practice every day an' you'll play like that, maybe better. You can learn anything, I promise."
+          },
+          {
+            "stringId": "1426986864006418432",
+            "femaleVariant": "Uhh... I dunno. I can learn a few riffs by heart... but it'll only ever be performin', never nextgen."
+          },
+          {
+            "stringId": "1426988079515717632",
+            "femaleVariant": "Let's delta. Still got some biz to take care of."
+          },
+          {
+            "stringId": "1426991725355749376",
+            "femaleVariant": "All right."
+          },
+          {
+            "stringId": "1427079070344040448",
+            "femaleVariant": "Prolly nothin' new... but we'll see."
+          },
+          {
+            "stringId": "1467754661014102016",
+            "femaleVariant": "Y'know, I read he never took any lessons. Choom was totally self-taught. Made up his own style."
+          },
+          {
+            "stringId": "1467767656779833344",
+            "femaleVariant": "How do you do that? I mean, sound just like him?"
+          },
+          {
+            "stringId": "1467793436649938944",
+            "femaleVariant": "But... how? Johnny'd be, like, eighty million years old, and you're, like, way too young... Plus, you're a girl.",
+            "maleVariant": "But... how? Johnny'd be, like, eighty million years old, and you're, like, way too young."
+          },
+          {
+            "stringId": "1467803735008436224",
+            "femaleVariant": "But you did. I just heard you."
+          },
+          {
+            "stringId": "1467811931064328192",
+            "femaleVariant": "This? Just a body. I am who I am."
+          },
+          {
+            "stringId": "1467811931064328208",
+            "femaleVariant": "It's tough to explain…"
+          },
+          {
+            "stringId": "1476245672308727808",
+            "femaleVariant": "Good point. That's why it's better to invent your own jam. That's what practice is for."
+          },
+          {
+            "stringId": "1476269761521999872",
+            "femaleVariant": "Y'know... this is just a body. How the dice landed for me."
+          },
+          {
+            "stringId": "1476349744131039232",
+            "femaleVariant": "Ultimately, I am who I am."
+          },
+          {
+            "stringId": "1476616577463574528",
+            "femaleVariant": "Yeah, it's hard to explain..."
+          },
+          {
+            "stringId": "1476642692475346944",
+            "femaleVariant": "Hah! Yeah, right, choom! Better try a little harder next time!"
+          },
+          {
+            "stringId": "1477699771537514496",
+            "femaleVariant": "What, an' they're not?"
+          },
+          {
+            "stringId": "1477716491459321856",
+            "femaleVariant": "I'd rearrange all this."
+          },
+          {
+            "stringId": "1477720298394181632",
+            "femaleVariant": "Point Break Candy's new single...?"
+          },
+          {
+            "stringId": "1477722076862963712",
+            "femaleVariant": "Who even listens to this scop, that's what I wanna know…"
+          },
+          {
+            "stringId": "1486624414407286784",
+            "femaleVariant": "And I don't run my mouth."
+          },
+          {
+            "stringId": "1492525316800471040",
+            "femaleVariant": "Haha! Yeah, right! Choom, you're a bigger psychofan than I am!"
+          },
+          {
+            "stringId": "1695547226881482752",
+            "femaleVariant": "Gotta be over a hundred years old."
+          },
+          {
+            "stringId": "1695551565603758080",
+            "femaleVariant": "Fuck, my hands're shakin'!"
+          },
+          {
+            "stringId": "1695551922958458880",
+            "femaleVariant": "Best. Day. Ever."
+          },
+          {
+            "stringId": "1695555811749355520",
+            "femaleVariant": "No, thanks."
+          },
+          {
+            "stringId": "1699407496276041728",
+            "femaleVariant": "In time, you'll learn who you really are, what you really want from the world."
+          },
+          {
+            "stringId": "1699407496276041752",
+            "femaleVariant": "I don't understand."
+          },
+          {
+            "stringId": "1699408145990508544",
+            "femaleVariant": "Wanna be a real rebel? Gotta be yourself first. Be authentic."
+          },
+          {
+            "stringId": "1699409246978531328",
+            "femaleVariant": "Rockers're rebels. They always speak their minds."
+          },
+          {
+            "stringId": "1699411095039205380",
+            "femaleVariant": "Real rebellion means being authentic."
+          },
+          {
+            "stringId": "1699426162203910144",
+            "femaleVariant": "Tried once on my dad, y'know…"
+          },
+          {
+            "stringId": "1699431965426147328",
+            "femaleVariant": "Didn't go so well."
+          },
+          {
+            "stringId": "1699433339798904832",
+            "femaleVariant": "Rebels are made, not born. Made from the punches life throws at 'em, the punches they take."
+          },
+          {
+            "stringId": "1699445646088167424",
+            "femaleVariant": "A real rockerboy – doubt that'll be me, ever."
+          },
+          {
+            "stringId": "1699446189720297472",
+            "femaleVariant": "Real rebellion takes time to develop."
+          },
+          {
+            "stringId": "1699448009108709376",
+            "femaleVariant": "Look, real rebellion needs time to grow."
+          },
+          {
+            "stringId": "1699451698233958400",
+            "femaleVariant": "Not really sure how to put it. Gotta experience it yourself."
+          },
+          {
+            "stringId": "1699470969903210496",
+            "femaleVariant": "A little self-criticism is useful. But believin' in what you got – that's much more important."
+          },
+          {
+            "stringId": "1712634443571290116",
+            "femaleVariant": "Rare specimen."
+          },
+          {
+            "stringId": "1712635753402097664",
+            "femaleVariant": "Even Kerry's here."
+          },
+          {
+            "stringId": "1712635917231611904",
+            "femaleVariant": "Still on the shelves..."
+          },
+          {
+            "stringId": "1712636119229292544",
+            "femaleVariant": "Made it big."
+          },
+          {
+            "stringId": "1712636876687040512",
+            "femaleVariant": "Lyridon Chrome... rare edition."
+          },
+          {
+            "stringId": "1712636944349552640",
+            "femaleVariant": "Done pretty well for themselves... one of 'em's even moderately talented."
+          },
+          {
+            "stringId": "1712636992416276480",
+            "femaleVariant": "Still sellin'... Nice."
+          },
+          {
+            "stringId": "1712637043351904256",
+            "femaleVariant": "Then we have the guy who transcends labels…"
+          },
+          {
+            "stringId": "1712638910605713408",
+            "femaleVariant": "The hell's this?"
+          },
+          {
+            "stringId": "1721495004673433600",
+            "femaleVariant": "Obviously got a bit of him in me. Or a lot. Maybe I AM Johnny?"
+          },
+          {
+            "stringId": "1721514350833524736",
+            "femaleVariant": "Y'now, you're weird. But I like you anyway."
+          },
+          {
+            "stringId": "1721516027095506944",
+            "femaleVariant": "I like you too."
+          },
+          {
+            "stringId": "1721517395747233792",
+            "femaleVariant": "Heh. You're all right, kid."
+          },
+          {
+            "stringId": "1721517395747233808",
+            "femaleVariant": "Gonna play some more?"
+          },
+          {
+            "stringId": "1721618035135700992",
+            "femaleVariant": "Nah. Short on time."
+          },
+          {
+            "stringId": "1725867462557917184",
+            "femaleVariant": "Looks like shit, sounds like shit, feels like shit."
+          },
+          {
+            "stringId": "1730441264767918080",
+            "femaleVariant": "[Pay] Here you are."
+          },
+          {
+            "stringId": "1730441692637257756",
+            "femaleVariant": "Here you go."
+          },
+          {
+            "stringId": "1730441692637257772",
+            "femaleVariant": "See ya."
+          },
+          {
+            "stringId": "1730444392309415936",
+            "femaleVariant": "[Hand Steve money] Here."
+          },
+          {
+            "stringId": "1730450149696299008",
+            "femaleVariant": "Here. This's yours."
+          },
+          {
+            "stringId": "1730450149696299024",
+            "femaleVariant": "I said you didn't--"
+          },
+          {
+            "stringId": "1730451120761561088",
+            "femaleVariant": "Take it. Before I spend it on another ax."
+          },
+          {
+            "stringId": "1760727997082198016",
+            "femaleVariant": "Most important thing's the pickups. Guitar's gotta have somethin' decent there."
+          },
+          {
+            "stringId": "1760729039836504064",
+            "femaleVariant": "Cheap clunkers made outta shit plywood that itself was made out of unseasoned veneers."
+          },
+          {
+            "stringId": "1760729595397234688",
+            "femaleVariant": "Rattle on the low E 'cause the neck's bowed..."
+          },
+          {
+            "stringId": "1760733165588799504",
+            "femaleVariant": "No offense, but I'm lookin' for a real instrument."
+          },
+          {
+            "stringId": "1760733165588799520",
+            "femaleVariant": "And willin' to pay real money."
+          },
+          {
+            "stringId": "1760733165605576716",
+            "femaleVariant": "Ah, shoulda said so! C'mon, let's go out back."
+          },
+          {
+            "stringId": "1760733165605576732",
+            "femaleVariant": "I'm comin' too!"
+          },
+          {
+            "stringId": "1760748503084785664",
+            "femaleVariant": "Nothin' a screwdriver won't fix."
+          },
+          {
+            "stringId": "1760751695067570176",
+            "femaleVariant": "Still playable. Just gotta know how."
+          },
+          {
+            "stringId": "1760753237262819328",
+            "femaleVariant": "Don't give half a fuck how it looks."
+          },
+          {
+            "stringId": "1760753585390051328",
+            "femaleVariant": "OK..."
+          },
+          {
+            "stringId": "1761957743124242432",
+            "femaleVariant": "I'll take it."
+          },
+          {
+            "stringId": "1774941672414552064",
+            "femaleVariant": "I'll take this one."
+          },
+          {
+            "stringId": "1774952114151137280",
+            "femaleVariant": "I'ma let you two play around in here alone. Else those savages out front'll clean out half the store."
+          },
+          {
+            "stringId": "1774954338709315584",
+            "femaleVariant": "Let's pay, delta outta here."
+          },
+          {
+            "stringId": "1774979598569611264",
+            "femaleVariant": "How's this?"
+          },
+          {
+            "stringId": "1774985347114901504",
+            "femaleVariant": "Whoa... Fuckin' awesome!"
+          },
+          {
+            "stringId": "1792604027136335872",
+            "femaleVariant": "I got the eddies for somethin' real."
+          },
+          {
+            "stringId": "1792609521255145476",
+            "femaleVariant": "Rattle on the low tones."
+          },
+          {
+            "stringId": "1792609643074510864",
+            "femaleVariant": "Cheap plywood bodies."
+          },
+          {
+            "stringId": "1792610247272390676",
+            "femaleVariant": "Weak pickups."
+          },
+          {
+            "stringId": "1798344749109805056",
+            "femaleVariant": "Sure. You might learn something."
+          },
+          {
+            "stringId": "1798581068092211200",
+            "femaleVariant": "What, don't think you're any good?"
+          },
+          {
+            "stringId": "1798596135391133712",
+            "femaleVariant": "You don't think so?"
+          },
+          {
+            "stringId": "1798596598073196544",
+            "femaleVariant": "[Hand Steve guitar] Wouldn't say it if I didn't believe it."
+          },
+          {
+            "stringId": "1799700144805969920",
+            "femaleVariant": "And?"
+          },
+          {
+            "stringId": "1799755755472093188",
+            "femaleVariant": "What do you think? She all right?"
+          },
+          {
+            "stringId": "1800938376763867136",
+            "femaleVariant": "To the right an' left, the latest Chromatix and Hendersons."
+          },
+          {
+            "stringId": "1800943537703944192",
+            "femaleVariant": "Vintage axes in the back."
+          },
+          {
+            "stringId": "1801262718500536320",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1804124887374168064",
+            "femaleVariant": "Let's go."
+          },
+          {
+            "stringId": "1807104300177645568",
+            "femaleVariant": "Still haven't explained how you do it."
+          },
+          {
+            "stringId": "1807109274269868032",
+            "femaleVariant": "Don't worry about that. Just come up with your own style. And all you need for that is practice."
+          },
+          {
+            "stringId": "1807116104324833280",
+            "femaleVariant": "And talent..."
+          },
+          {
+            "stringId": "1807116104425496576",
+            "femaleVariant": "Talent you got."
+          },
+          {
+            "stringId": "1807116104610045952",
+            "femaleVariant": "Really? You think so?"
+          },
+          {
+            "stringId": "1807126311281057792",
+            "femaleVariant": "I just don't say things I don't think are true. Not anymore."
+          },
+          {
+            "stringId": "1807139216466599936",
+            "femaleVariant": "C'mon. Have faith."
+          },
+          {
+            "stringId": "1824539786538934272",
+            "femaleVariant": "I don't understand."
+          },
+          {
+            "stringId": "2006944323012878340",
+            "femaleVariant": "Y'know... this is just a body. How the dice landed for me."
+          },
+          {
+            "stringId": "2006944323029655552",
+            "femaleVariant": "Not gonna be a girl much longer, though."
+          },
+          {
+            "stringId": "2006944323029655568",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "2006944323029655584",
+            "femaleVariant": "Hah! Yeah, right, choom! Better try a little harder next time!"
+          },
+          {
+            "stringId": "2157527940312506372",
+            "femaleVariant": "Wanna see what you got here."
+          },
+          {
+            "stringId": "2299631483415863296",
+            "femaleVariant": "Rare specimen."
+          },
+          {
+            "stringId": "2353297980534095876",
+            "femaleVariant": "[Play guitar]"
+          },
+          {
+            "stringId": "2353298231756128256",
+            "femaleVariant": "[Tune guitar]"
+          }
+        ]
+      }
+
+
+

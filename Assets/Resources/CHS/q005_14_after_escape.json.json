@@ -1,0 +1,515 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1617455705634856960",
+            "femaleVariant": "电梯…！快，V！快走啊！"
+          },
+          {
+            "stringId": "1617458827841200128",
+            "femaleVariant": "电梯…到底在哪儿呢？"
+          },
+          {
+            "stringId": "1617478803935420416",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Vamos, vamos vamos!\" t=\"走，走，走！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1617478855844126720",
+            "femaleVariant": "别杵这儿当靶子了，进去，赶紧！"
+          },
+          {
+            "stringId": "1617478886663872512",
+            "femaleVariant": "别磨蹭了，快啊！"
+          },
+          {
+            "stringId": "1621978276015333376",
+            "femaleVariant": "我建议二位不要耽误时间，请即刻上车。"
+          },
+          {
+            "stringId": "1626517897181093888",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Oy, mis huevos!\" b=\"\" a=\"啊，我靠！\"/>"
+          },
+          {
+            "stringId": "1638689384933675008",
+            "femaleVariant": "呵…。呵，呵…"
+          },
+          {
+            "stringId": "1638691848214859776",
+            "femaleVariant": "快送我们去找义体医生！"
+          },
+          {
+            "stringId": "1638691848214859792",
+            "femaleVariant": "情况有多糟？"
+          },
+          {
+            "stringId": "1638691848265191424",
+            "femaleVariant": "送我们找义体医生，快！"
+          },
+          {
+            "stringId": "1638691848332300288",
+            "femaleVariant": "你说“危急”是什么意思？"
+          },
+          {
+            "stringId": "1638691848332300304",
+            "femaleVariant": "威尔斯先生的髂外动脉已经断裂。内出血情况非常严重。"
+          },
+          {
+            "stringId": "1638691848466518016",
+            "femaleVariant": "以后的活儿就任我们挑了。"
+          },
+          {
+            "stringId": "1638691848483295244",
+            "femaleVariant": "想想米斯蒂！你很快就能见到她了！"
+          },
+          {
+            "stringId": "1638691848583958528",
+            "femaleVariant": "来生…咱们那儿见。"
+          },
+          {
+            "stringId": "1638691848634290176",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"mija\" b=\"是啊，你要发大财了，\" a=\"（妹子），我有预感…\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mijo\" b=\"是啊，你要发大财了，\" a=\"（兄弟），我有预感…\"/>"
+          },
+          {
+            "stringId": "1638691848634290184",
+            "femaleVariant": "不，杰克，是我们要发财了——是你和我。"
+          },
+          {
+            "stringId": "1638691848667844608",
+            "femaleVariant": "不会有事的！米斯蒂、你老妈…所有你爱的人，都在等你。"
+          },
+          {
+            "stringId": "1638691848818839552",
+            "femaleVariant": "想想啊，以后咱们就只干大买卖了。"
+          },
+          {
+            "stringId": "1638691848869171208",
+            "femaleVariant": "呃…呃…米斯蒂…她早就知道…她什么都知道…"
+          },
+          {
+            "stringId": "1638799470851051520",
+            "femaleVariant": "干得好…开出租的…"
+          },
+          {
+            "stringId": "1640032845687476224",
+            "femaleVariant": "杰克，我们成功了！"
+          },
+          {
+            "stringId": "1640032845687476240",
+            "femaleVariant": "你的脸色怎么这么白。"
+          },
+          {
+            "stringId": "1640033733973954560",
+            "femaleVariant": "成功了，杰克！我们成功了！"
+          },
+          {
+            "stringId": "1640033811199479808",
+            "femaleVariant": "你的脸煞白煞白的，杰克…"
+          },
+          {
+            "stringId": "1640035749437689856",
+            "femaleVariant": "呵呵…是啊。"
+          },
+          {
+            "stringId": "1640037481987231744",
+            "femaleVariant": "根据医疗诊断显示，威尔斯先生的情况很危急。"
+          },
+          {
+            "stringId": "1640039882001534976",
+            "femaleVariant": "很抱歉，但这是不可能的。"
+          },
+          {
+            "stringId": "1640141035091578892",
+            "femaleVariant": "德肖恩先生在二零四房间等您。"
+          },
+          {
+            "stringId": "1667627971087487004",
+            "femaleVariant": "把它拿好了。为了我。"
+          },
+          {
+            "stringId": "1675204966449205248",
+            "femaleVariant": "带他回家，送他去见他家人。"
+          },
+          {
+            "stringId": "1675204966449205264",
+            "femaleVariant": "送他去维克多·威克托那里。"
+          },
+          {
+            "stringId": "1675204966516314112",
+            "femaleVariant": "他应该想和他家人在一起。"
+          },
+          {
+            "stringId": "1675204966633754624",
+            "femaleVariant": "老维会料理他的后事的。"
+          },
+          {
+            "stringId": "1675205667082522624",
+            "femaleVariant": "离威尔斯先生最近的亲属是瓜达卢佩·阿拉汉德拉·威尔斯，这位女士是野狼酒吧的店主。"
+          },
+          {
+            "stringId": "1675205667082522636",
+            "femaleVariant": "我会确保把他安全送到那里。"
+          },
+          {
+            "stringId": "1675270431833903104",
+            "femaleVariant": "威尔斯先生不幸离世，我应该如何处理他的遗体？"
+          },
+          {
+            "stringId": "1675271191606906880",
+            "femaleVariant": "什——什么？"
+          },
+          {
+            "stringId": "1675271244438360064",
+            "femaleVariant": "精益求精套餐将免费为所有逝者提供遗体处理服务。您只需要告诉我目的地是哪里。"
+          },
+          {
+            "stringId": "1675280795120226304",
+            "femaleVariant": "当然，这我明白。"
+          },
+          {
+            "stringId": "1675280936854147072",
+            "femaleVariant": "不能让他家人看到他这样。"
+          },
+          {
+            "stringId": "1770722129959858176",
+            "femaleVariant": "来得正好！"
+          },
+          {
+            "stringId": "1770723209741479936",
+            "femaleVariant": "很好。不过嘛，的确有人在追我们。"
+          },
+          {
+            "stringId": "1773758967721111552",
+            "femaleVariant": "德拉曼，开车！"
+          },
+          {
+            "stringId": "1773760225207005184",
+            "femaleVariant": "有人追上来了。"
+          },
+          {
+            "stringId": "1773765277111955456",
+            "femaleVariant": "摆脱追击者前，我暂时无法将您安全送达目的地。"
+          },
+          {
+            "stringId": "1773766615917015040",
+            "femaleVariant": "等着，我来搞定这帮杂碎。"
+          },
+          {
+            "stringId": "1773769999948591104",
+            "femaleVariant": "吃枪子吧，王八蛋！"
+          },
+          {
+            "stringId": "1773771703221891072",
+            "femaleVariant": "正在改回原目的地路线。"
+          },
+          {
+            "stringId": "1773773401713684480",
+            "femaleVariant": "敌方飞行载具已摧毁。"
+          },
+          {
+            "stringId": "1773776291119378432",
+            "femaleVariant": "敌方已被摧毁。"
+          },
+          {
+            "stringId": "1786588997274619904",
+            "femaleVariant": "欢迎回来。选择德拉曼，烦恼留门外。"
+          },
+          {
+            "stringId": "1786601169128050688",
+            "femaleVariant": "我们的车没事吧？"
+          },
+          {
+            "stringId": "1786601767873335296",
+            "femaleVariant": "客户反馈已记录。"
+          },
+          {
+            "stringId": "1786604632549412880",
+            "femaleVariant": "呼！"
+          },
+          {
+            "stringId": "1893809114449850368",
+            "femaleVariant": "完全没事。不过，的确有人在追我们。"
+          },
+          {
+            "stringId": "1893857609730895872",
+            "femaleVariant": "交给我了！"
+          },
+          {
+            "stringId": "1918494174641725440",
+            "femaleVariant": "杰克！把眼睛给我睁开！"
+          },
+          {
+            "stringId": "1918497680878542848",
+            "femaleVariant": "听到了吗，杰克？"
+          },
+          {
+            "stringId": "1922951648685924352",
+            "femaleVariant": "再不开车你就留着上坟吧！"
+          },
+          {
+            "stringId": "1922986956102115328",
+            "femaleVariant": "这个生物芯片…"
+          },
+          {
+            "stringId": "1923004811220688896",
+            "femaleVariant": "那就快点啊！"
+          },
+          {
+            "stringId": "1923007246366482432",
+            "femaleVariant": "你必须给我撑住了，杰克。听到没有？！"
+          },
+          {
+            "stringId": "1927066866617753600",
+            "femaleVariant": "我们的行程已经确定，付款也已经提前完成。我无权随意改动。"
+          },
+          {
+            "stringId": "1927092416790994944",
+            "femaleVariant": "无权什么无权！照我说的做！"
+          },
+          {
+            "stringId": "1927092583623630848",
+            "femaleVariant": "没事的，V…我挺得住…"
+          },
+          {
+            "stringId": "1927094031782584320",
+            "femaleVariant": "再开快一点啊！"
+          },
+          {
+            "stringId": "1927094457504440320",
+            "femaleVariant": "我这里已经尽力了。"
+          },
+          {
+            "stringId": "1927096385458216960",
+            "femaleVariant": "我建议您让威尔斯先生保持清醒。"
+          },
+          {
+            "stringId": "1927488246261817344",
+            "femaleVariant": "等…等我一下。"
+          },
+          {
+            "stringId": "1927488622021124096",
+            "femaleVariant": "让…让我缓一下，行吗？！"
+          },
+          {
+            "stringId": "1927490519960461312",
+            "femaleVariant": "[抚肩] 你才是真正的大人物。"
+          },
+          {
+            "stringId": "1927493329942814720",
+            "femaleVariant": "威尔斯先生的遗体…我应该送到哪里？"
+          },
+          {
+            "stringId": "1927494175984263168",
+            "femaleVariant": "你才是真正的大人物，杰克。"
+          },
+          {
+            "stringId": "1943147587552956416",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Madreees...ya!\" t=\"我靠我靠！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1943207263908941824",
+            "femaleVariant": "哎我靠！"
+          },
+          {
+            "stringId": "1943208209103736832",
+            "femaleVariant": "已启动战斗模式。请各位保持冷静。"
+          },
+          {
+            "stringId": "1954790943060152320",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Órale\" b=\"\" a=\"（走啊）！我们必须要杀出去！\"/>"
+          },
+          {
+            "stringId": "1954791182773014532",
+            "femaleVariant": "还挺顺利的…就差几步了…"
+          },
+          {
+            "stringId": "1954794988499914752",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Los hijos de la chingada también están aquí!\" t=\"这儿也有他们的人，狗娘养的！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1954795386774245380",
+            "femaleVariant": "靠…到处都是他们的人…"
+          },
+          {
+            "stringId": "1954869280998707200",
+            "femaleVariant": "靠！被他们发现了！"
+          },
+          {
+            "stringId": "1954877966898974720",
+            "femaleVariant": "啊…他们知道我们在这儿！"
+          },
+          {
+            "stringId": "1954878069223215108",
+            "femaleVariant": "他们好像不知道我们…太好了。"
+          },
+          {
+            "stringId": "1954879315283824640",
+            "femaleVariant": "那可不能慢待了他们！"
+          },
+          {
+            "stringId": "1954880577249234944",
+            "femaleVariant": "别出声，杰克。现在还不安全。"
+          },
+          {
+            "stringId": "1959232021200916484",
+            "femaleVariant": "前方道路封禁。"
+          },
+          {
+            "stringId": "1959232327653543940",
+            "femaleVariant": "友情提示，请您做好冲击准备。"
+          },
+          {
+            "stringId": "1964916904890802176",
+            "femaleVariant": "德拉曼…！"
+          },
+          {
+            "stringId": "1964921146959536128",
+            "femaleVariant": "冷静？！"
+          },
+          {
+            "stringId": "1967672038130733056",
+            "femaleVariant": "嘿，找到个有安保权限的芯片！"
+          },
+          {
+            "stringId": "1967672190165864448",
+            "femaleVariant": "这玩意应该可以帮我们开门。"
+          },
+          {
+            "stringId": "1976292676805210112",
+            "femaleVariant": "哪儿都不去。在这儿等我。"
+          },
+          {
+            "stringId": "1976295768376356864",
+            "femaleVariant": "哪儿都不去。"
+          },
+          {
+            "stringId": "1976396943696142336",
+            "femaleVariant": "你待在这儿别动。我很快就回来。"
+          },
+          {
+            "stringId": "1976397176228356096",
+            "femaleVariant": "明白。"
+          },
+          {
+            "stringId": "1982310279247896576",
+            "femaleVariant": "一台敌方浮空车已经锁定我们。"
+          },
+          {
+            "stringId": "1982310642709504000",
+            "femaleVariant": "啊…他们就不能放过我们吗…"
+          },
+          {
+            "stringId": "1982321398431686656",
+            "femaleVariant": "你看…嗯？我就说我们…死不了…"
+          },
+          {
+            "stringId": "1986411795143532544",
+            "femaleVariant": "笑什么？"
+          },
+          {
+            "stringId": "1986412078997250048",
+            "femaleVariant": "荒坂三郎…呃…呵呵。"
+          },
+          {
+            "stringId": "1986413167905677312",
+            "femaleVariant": "活了一百五十岁…可今天…偏偏是今天…"
+          },
+          {
+            "stringId": "1986413864646680576",
+            "femaleVariant": "不拿去拍大片真是可惜了…呵呵呵呵…"
+          },
+          {
+            "stringId": "1986415070207090688",
+            "femaleVariant": "你觉得这很好笑吗？！"
+          },
+          {
+            "stringId": "1986415469085401088",
+            "femaleVariant": "省着点力气吧。"
+          },
+          {
+            "stringId": "1986415921315258368",
+            "femaleVariant": "这很好笑吗？！"
+          },
+          {
+            "stringId": "1986416454226747392",
+            "femaleVariant": "当然…好笑。"
+          },
+          {
+            "stringId": "1986416684024274944",
+            "femaleVariant": "你的肝可能已经废了！"
+          },
+          {
+            "stringId": "1986417331826139136",
+            "femaleVariant": "省点力气吧，杰克。"
+          },
+          {
+            "stringId": "1986419278385848320",
+            "femaleVariant": "我喝酒，早晚的，呵呵…咳咳。"
+          },
+          {
+            "stringId": "1986507409940357120",
+            "femaleVariant": "你以为我在干什么？"
+          },
+          {
+            "stringId": "1986555321374285824",
+            "femaleVariant": "呃…听到了…"
+          },
+          {
+            "stringId": "1993721768110268416",
+            "femaleVariant": "客户反馈已记录。"
+          },
+          {
+            "stringId": "2011692169528418304",
+            "femaleVariant": "不过…别慌，V。我们会活着出去的。"
+          },
+          {
+            "stringId": "2011693767205920768",
+            "femaleVariant": "就凭你一句话吗？！"
+          },
+          {
+            "stringId": "2011693767205920784",
+            "femaleVariant": "跟 T-Bug 说去吧。"
+          },
+          {
+            "stringId": "2011695755322794004",
+            "femaleVariant": "怎么出去？就凭你一句话吗？！"
+          },
+          {
+            "stringId": "2011695755389902860",
+            "femaleVariant": "有话还是留着跟Bug讲吧，要不是我们搞砸了，她也不用死！"
+          },
+          {
+            "stringId": "2011695755440234504",
+            "femaleVariant": "别…拿我…撒气…你看…芯片又不行了…"
+          },
+          {
+            "stringId": "2014500975731875864",
+            "femaleVariant": "啊…我有点遭不住了…"
+          },
+          {
+            "stringId": "2033045176898547716",
+            "femaleVariant": "[下车]"
+          },
+          {
+            "stringId": "2248837877357867012",
+            "femaleVariant": "[进去]"
+          }
+        ]
+      }
+
+
+

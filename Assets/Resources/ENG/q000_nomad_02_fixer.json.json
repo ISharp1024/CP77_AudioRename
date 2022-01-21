@@ -1,0 +1,153 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1660181490404708352",
+            "femaleVariant": "Come in, come in! Ah, raised you, finally."
+          },
+          {
+            "stringId": "1660184273073754116",
+            "femaleVariant": "I need your help."
+          },
+          {
+            "stringId": "1660184978924785664",
+            "femaleVariant": "Then why don't you?"
+          },
+          {
+            "stringId": "1660185210450366464",
+            "femaleVariant": "Why can't you?"
+          },
+          {
+            "stringId": "1660185810588160000",
+            "femaleVariant": "I need your help. One last time."
+          },
+          {
+            "stringId": "1660187335687426048",
+            "femaleVariant": "Hm. Right place, right time – you were there?"
+          },
+          {
+            "stringId": "1660189879465693184",
+            "femaleVariant": "Huh, actually left a message. He's waiting on a farm. Flickin' you the geoloc data."
+          },
+          {
+            "stringId": "1724481400795492352",
+            "femaleVariant": "Willie McCoy. It's good to hear your voice."
+          },
+          {
+            "stringId": "1724481817440874496",
+            "femaleVariant": "V. Wish I could say the same."
+          },
+          {
+            "stringId": "1724484226196107264",
+            "femaleVariant": "You abandoned the clan, I can't help you anymore."
+          },
+          {
+            "stringId": "1724484972060798976",
+            "femaleVariant": "Nomads get the work in these parts because it's nomad turf. Wouldn't be a problem if you were still a Bakker."
+          },
+          {
+            "stringId": "1724524392512155648",
+            "femaleVariant": "Thanks, Willie. I owe ya one."
+          },
+          {
+            "stringId": "1724524780283949056",
+            "femaleVariant": "You do. Just don't get yourself killed. And don't call again."
+          },
+          {
+            "stringId": "1724525246589890560",
+            "femaleVariant": "\"One last time\" – again?"
+          },
+          {
+            "stringId": "1724527191505432576",
+            "femaleVariant": "I have to find the client with my payload, but I-I don't know where he is.",
+            "maleVariant": "I have to find the client with my payload, but I don't know where he is."
+          },
+          {
+            "stringId": "1866531651072225280",
+            "femaleVariant": "You shoulda stuck with 'em, and joined up with the Snake Nation like the rest."
+          },
+          {
+            "stringId": "1866531844630966272",
+            "femaleVariant": "The Snake Nation can kiss my ass."
+          },
+          {
+            "stringId": "1866541904434229248",
+            "femaleVariant": "Of course."
+          },
+          {
+            "stringId": "1866541918006996992",
+            "femaleVariant": "'Course I was.",
+            "maleVariant": "Of course I was."
+          },
+          {
+            "stringId": "1866541920422916096",
+            "femaleVariant": "My car gave out. The electric coupling – it's a miracle I made it here."
+          },
+          {
+            "stringId": "1866542194512293888",
+            "femaleVariant": "My car broke down."
+          },
+          {
+            "stringId": "1866543409031737344",
+            "femaleVariant": "Maybe the client left a message. Could you check for me?"
+          },
+          {
+            "stringId": "1866544138756747264",
+            "femaleVariant": "Hmm..."
+          },
+          {
+            "stringId": "1866544210630340608",
+            "femaleVariant": "Sure. Last time, though. I mean it. Client's name?"
+          },
+          {
+            "stringId": "1866544430713860096",
+            "femaleVariant": "Jackie Welles."
+          },
+          {
+            "stringId": "1867959073169756164",
+            "femaleVariant": "[Connect to radio station]"
+          },
+          {
+            "stringId": "2018693902054125568",
+            "femaleVariant": "Never knew you to be so cautious.",
+            "maleVariant": "I never knew you to be so cautious."
+          },
+          {
+            "stringId": "2018694172955832320",
+            "femaleVariant": "Try loyal. Rules are rules, the system won't work without 'em. It can't."
+          },
+          {
+            "stringId": "2022800567014891524",
+            "femaleVariant": "[Open]"
+          },
+          {
+            "stringId": "2030222077312737284",
+            "femaleVariant": "[Open]"
+          },
+          {
+            "stringId": "2030226930843885568",
+            "femaleVariant": "[Kick]"
+          },
+          {
+            "stringId": "2034227073180082180",
+            "femaleVariant": "[Stop leaning]"
+          }
+        ]
+      }
+
+
+

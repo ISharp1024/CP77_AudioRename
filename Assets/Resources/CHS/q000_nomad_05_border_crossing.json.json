@@ -1,0 +1,350 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1660532849951920128",
+            "femaleVariant": "请将你的交通工具行驶至检查区。"
+          },
+          {
+            "stringId": "1660629253579886592",
+            "femaleVariant": "请留在交通工具内。安全检查很快就会开始。"
+          },
+          {
+            "stringId": "1660629844339216384",
+            "femaleVariant": "我怎么觉得要歇菜了呢…"
+          },
+          {
+            "stringId": "1660633705565147140",
+            "femaleVariant": "别慌。"
+          },
+          {
+            "stringId": "1660635662140854272",
+            "femaleVariant": "[拿文件] 把清单给我。"
+          },
+          {
+            "stringId": "1660637394170302464",
+            "femaleVariant": "喏，给你。"
+          },
+          {
+            "stringId": "1725817784919584768",
+            "femaleVariant": "你紧张他们会看出来的，你知道吧？"
+          },
+          {
+            "stringId": "1725820610974511104",
+            "femaleVariant": "深呼吸，冷静下来。"
+          },
+          {
+            "stringId": "1725820906085740544",
+            "femaleVariant": "OK，OK…"
+          },
+          {
+            "stringId": "1725823397435207680",
+            "femaleVariant": "把报关单给我。他们到时候要看的。"
+          },
+          {
+            "stringId": "1725823727342383104",
+            "femaleVariant": "我看看…上面标着 LOA。太好了。"
+          },
+          {
+            "stringId": "1745908337402204160",
+            "femaleVariant": "检查区内的交通工具所有者，需要接受进一步询问。"
+          },
+          {
+            "stringId": "1745914294672838656",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Chingada madre…\" b=\"啊...\" a=\"（现在怎么办？）\"/>"
+          },
+          {
+            "stringId": "1745916599476441088",
+            "femaleVariant": "我这先不熄火了啊…万一出事了好跑路。"
+          },
+          {
+            "stringId": "1745918865474342912",
+            "femaleVariant": "请你去二号房间接受询问。"
+          },
+          {
+            "stringId": "1745920106719891456",
+            "femaleVariant": "你请坐。"
+          },
+          {
+            "stringId": "1745920676658696196",
+            "femaleVariant": "[坐下]"
+          },
+          {
+            "stringId": "1745923202887995392",
+            "femaleVariant": "文件。"
+          },
+          {
+            "stringId": "1745924676816752640",
+            "femaleVariant": "[递过文件] 这是常规检查吗？"
+          },
+          {
+            "stringId": "1745925350623301632",
+            "femaleVariant": "[递过文件] 规矩我熟。"
+          },
+          {
+            "stringId": "1745926609971466240",
+            "femaleVariant": "这是常规检查吗？"
+          },
+          {
+            "stringId": "1745927387343769600",
+            "femaleVariant": "规矩我都懂。全都在这儿了。"
+          },
+          {
+            "stringId": "1745927602696114176",
+            "femaleVariant": "嗯…"
+          },
+          {
+            "stringId": "1745927602696114184",
+            "femaleVariant": "你们运的是什么？"
+          },
+          {
+            "stringId": "1745927602712891392",
+            "femaleVariant": "[递过贿赂金] 我好像忘了这个。"
+          },
+          {
+            "stringId": "1745927602712891408",
+            "femaleVariant": "有什么问题吗？"
+          },
+          {
+            "stringId": "1745927602746445824",
+            "femaleVariant": "报单上还有一个额外的增项。"
+          },
+          {
+            "stringId": "1745927602763223040",
+            "femaleVariant": "有什么问题尽管说。大家肯定有办法能解决。"
+          },
+          {
+            "stringId": "1745929126134435840",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1745935402272837632",
+            "femaleVariant": "你可以走了，你助手还在车里等着你呢。"
+          },
+          {
+            "stringId": "1745936319500013572",
+            "femaleVariant": "[起身]"
+          },
+          {
+            "stringId": "1745939096162816000",
+            "femaleVariant": "里面什么个情况？"
+          },
+          {
+            "stringId": "1745939473700507648",
+            "femaleVariant": "一会儿告诉你。我们得快点儿走了。"
+          },
+          {
+            "stringId": "1815731105973596160",
+            "femaleVariant": "那是什么意思？"
+          },
+          {
+            "stringId": "1815731169089482752",
+            "femaleVariant": "抵达时丢失。意思也就是说，货物一过边境时，就会“被丢失”。"
+          },
+          {
+            "stringId": "1815731644086022144",
+            "femaleVariant": "哎呦，那他们知道我们在走私了。"
+          },
+          {
+            "stringId": "1815731911196078080",
+            "femaleVariant": "他们待会儿就会知道了。"
+          },
+          {
+            "stringId": "1815734083241570304",
+            "femaleVariant": "想让关卡对我们那些可疑的文件睁一只眼闭一只眼，就得上点贡。装钱的芯片呢？"
+          },
+          {
+            "stringId": "1815734803906883584",
+            "femaleVariant": "哦…对哦。哦——我差点儿忘了。"
+          },
+          {
+            "stringId": "1815734872307593216",
+            "femaleVariant": "是啊。你忘了。"
+          },
+          {
+            "stringId": "1817126272429387776",
+            "femaleVariant": "可能是，看看就知道了。"
+          },
+          {
+            "stringId": "1817126712445431808",
+            "femaleVariant": "可能全，也可能不全，一会就知道了。"
+          },
+          {
+            "stringId": "1817163208846143488",
+            "femaleVariant": "都写在上头了。"
+          },
+          {
+            "stringId": "1817163285685792768",
+            "femaleVariant": "是吗？"
+          },
+          {
+            "stringId": "1817164322115088384",
+            "femaleVariant": "你看我问你话了吗？"
+          },
+          {
+            "stringId": "1817164673530654720",
+            "femaleVariant": "你觉得，我有可能查出任何违禁物品吗？"
+          },
+          {
+            "stringId": "1817166927851614208",
+            "femaleVariant": "啊对了…你是跟哪个流浪者家族跑线的？"
+          },
+          {
+            "stringId": "1817188737410330628",
+            "femaleVariant": "我也有同感。"
+          },
+          {
+            "stringId": "1817188753382240256",
+            "femaleVariant": "彼此彼此。"
+          },
+          {
+            "stringId": "1883809499365437440",
+            "femaleVariant": "就这么办。"
+          },
+          {
+            "stringId": "1883858553243889664",
+            "femaleVariant": "对，赶紧。"
+          },
+          {
+            "stringId": "1908331701848018944",
+            "femaleVariant": "你带行贿的钱了吗？"
+          },
+          {
+            "stringId": "1908332506785288192",
+            "femaleVariant": "这里就是这样。"
+          },
+          {
+            "stringId": "1908333198677676032",
+            "femaleVariant": "别紧张。这都是常规程序。一切都在计划之中。"
+          },
+          {
+            "stringId": "1914000072512565248",
+            "femaleVariant": "嘿，看来你很懂这一套啊，嗯？"
+          },
+          {
+            "stringId": "1915576214748155904",
+            "femaleVariant": "如果你敢越过边境，我们会无条件开火。"
+          },
+          {
+            "stringId": "1915579325864759296",
+            "femaleVariant": "请前往办公区接受问话。禁止进入其他区域。"
+          },
+          {
+            "stringId": "1915619282633379844",
+            "femaleVariant": "请立刻返回你的车辆。"
+          },
+          {
+            "stringId": "1967515890164363264",
+            "femaleVariant": "任何非法越境的行为都将受到武力制裁。"
+          },
+          {
+            "stringId": "1979090529668845568",
+            "femaleVariant": "如果你携带了武器，请放在这里。"
+          },
+          {
+            "stringId": "1979094424616980484",
+            "femaleVariant": "[放置武器]"
+          },
+          {
+            "stringId": "1979168689332703232",
+            "femaleVariant": "别忘了拿上你的个人物品。"
+          },
+          {
+            "stringId": "1979180039974965248",
+            "femaleVariant": "[拿起枪]"
+          },
+          {
+            "stringId": "1985307043203928068",
+            "femaleVariant": "[拿过钱然后下车] 对，你忘了…"
+          },
+          {
+            "stringId": "1996740732432347140",
+            "femaleVariant": "这不关你的事。"
+          },
+          {
+            "stringId": "1996740741710147584",
+            "femaleVariant": "我觉得这不关你的事。"
+          },
+          {
+            "stringId": "1996740745401135104",
+            "femaleVariant": "不，没有部族，我自己跑。"
+          },
+          {
+            "stringId": "1996741285275168768",
+            "femaleVariant": "我不给任何部族开车。"
+          },
+          {
+            "stringId": "1996743954798669824",
+            "femaleVariant": "哦，你真这么觉得吗？"
+          },
+          {
+            "stringId": "1996745404484349952",
+            "femaleVariant": "鲁莽，可以说有点傻…"
+          },
+          {
+            "stringId": "1996746100453601280",
+            "femaleVariant": "知道吗，每次看到你这种人，我都庆幸桌子那边的不是自己。"
+          },
+          {
+            "stringId": "2239109368962531328",
+            "femaleVariant": "快点，别让我干等着啊，朋友…"
+          },
+          {
+            "stringId": "2253228609118584832",
+            "femaleVariant": "二号房间。"
+          },
+          {
+            "stringId": "2253305459622723596",
+            "femaleVariant": "手上的家伙可要看好了。"
+          },
+          {
+            "stringId": "2253305459622723608",
+            "femaleVariant": "欢迎来到夜之城。"
+          },
+          {
+            "stringId": "2253309757106601984",
+            "femaleVariant": "你坐下。"
+          },
+          {
+            "stringId": "2253319572096729096",
+            "femaleVariant": "文件呢，拿出来给我。"
+          },
+          {
+            "stringId": "2253320904224456712",
+            "femaleVariant": "你就带了这些过来吗？"
+          },
+          {
+            "stringId": "2253374931842809864",
+            "femaleVariant": "你现在可以走了。"
+          },
+          {
+            "stringId": "2253377278472011784",
+            "femaleVariant": "赶紧滚，别等我改主意。"
+          },
+          {
+            "stringId": "2253392234890313728",
+            "femaleVariant": "请立即前去办理出关手续。"
+          },
+          {
+            "stringId": "2289348898572402688",
+            "femaleVariant": "[上车] 我一会跟你说。"
+          }
+        ]
+      }
+
+
+

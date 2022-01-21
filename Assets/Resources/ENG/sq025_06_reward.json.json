@@ -1,0 +1,76 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1729851202988056576",
+            "femaleVariant": "You've accounted for all my lost items."
+          },
+          {
+            "stringId": "1730283129746399236",
+            "femaleVariant": "Thanks, Del."
+          },
+          {
+            "stringId": "1740126323413786624",
+            "femaleVariant": "Why'd your personality split, why'd they run?"
+          },
+          {
+            "stringId": "1740127855240716288",
+            "femaleVariant": "How did your personality fracture, anyway? And why?",
+            "maleVariant": "How'd your personality fracture, anyway? And why?"
+          },
+          {
+            "stringId": "1740127907887620096",
+            "femaleVariant": "Thanks, pleasure to work with you."
+          },
+          {
+            "stringId": "1740129606933061632",
+            "femaleVariant": "Ah, that is the question! I'm looking into it, but still know little more than you do, I fear."
+          },
+          {
+            "stringId": "1934372546077548544",
+            "femaleVariant": "Allow me to express my gratitude for your assistance."
+          },
+          {
+            "stringId": "1934373207267631104",
+            "femaleVariant": "Felt like a scavenger hunt for a range of your mood swings. You're more complex than I thought."
+          },
+          {
+            "stringId": "1934376764591071232",
+            "femaleVariant": "Yes, well... I've sent the final installment of your fee. Truly, I thank you once again."
+          },
+          {
+            "stringId": "1934380960556015616",
+            "femaleVariant": "Likewise. I look forward to doing so again in the future. A pleasant day to you."
+          },
+          {
+            "stringId": "1945775179374436352",
+            "femaleVariant": "Hello, miss!",
+            "maleVariant": "Hello, sir!"
+          },
+          {
+            "stringId": "1945828576253353988",
+            "femaleVariant": "[Return scanner]"
+          },
+          {
+            "stringId": "1999790065613037568",
+            "femaleVariant": "I forgot to remind you to return the scanner. If you happen to have it on your person, I'd ask you, please, place it back."
+          }
+        ]
+      }
+
+
+

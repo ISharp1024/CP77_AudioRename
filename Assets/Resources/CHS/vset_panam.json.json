@@ -1,0 +1,406 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1796536125912760324",
+            "femaleVariant": "他们会后悔的。"
+          },
+          {
+            "stringId": "1796536125946314752",
+            "femaleVariant": "咱们废了他们！"
+          },
+          {
+            "stringId": "1796536125996646404",
+            "femaleVariant": "手雷！快趴下！"
+          },
+          {
+            "stringId": "1796536126063755268",
+            "femaleVariant": "来啊！怂货们！"
+          },
+          {
+            "stringId": "1796536126114086916",
+            "femaleVariant": "这就对了！"
+          },
+          {
+            "stringId": "1796536126164418564",
+            "femaleVariant": "靠，这帮狗杂碎！"
+          },
+          {
+            "stringId": "1796536126197972996",
+            "femaleVariant": "靠！"
+          },
+          {
+            "stringId": "1796536126248304640",
+            "femaleVariant": "送你下地狱！"
+          },
+          {
+            "stringId": "1796536126265081860",
+            "femaleVariant": "他们没咒念了！"
+          },
+          {
+            "stringId": "1796536126332190724",
+            "femaleVariant": "啊啊啊…你死定了，王八蛋…咳咳…"
+          },
+          {
+            "stringId": "1796536126583848960",
+            "femaleVariant": "哎，我可还没说完呢。"
+          },
+          {
+            "stringId": "1796536126600626180",
+            "femaleVariant": "那先说到这儿吧。"
+          },
+          {
+            "stringId": "1796536126684512260",
+            "femaleVariant": "你回来了。"
+          },
+          {
+            "stringId": "1796536126718066692",
+            "femaleVariant": "OK，之前说到…"
+          },
+          {
+            "stringId": "1796536126734843908",
+            "femaleVariant": "V？"
+          },
+          {
+            "stringId": "1796536126785175556",
+            "femaleVariant": "你发什么楞呢？"
+          },
+          {
+            "stringId": "1796536127053611012",
+            "femaleVariant": "嗨，V。"
+          },
+          {
+            "stringId": "1796536127070388228",
+            "femaleVariant": "你好呀。"
+          },
+          {
+            "stringId": "1796536127238160388",
+            "femaleVariant": "看着点儿，行吗？"
+          },
+          {
+            "stringId": "1796536127254937604",
+            "femaleVariant": "这么没礼貌呢你。"
+          },
+          {
+            "stringId": "1966125830024077312",
+            "femaleVariant": "V？"
+          },
+          {
+            "stringId": "1966125830040854532",
+            "femaleVariant": "喂？你在不在啊？"
+          },
+          {
+            "stringId": "2247558759960473600",
+            "femaleVariant": "这边走，V。"
+          },
+          {
+            "stringId": "2248159129817489416",
+            "femaleVariant": "节目要开始了。"
+          },
+          {
+            "stringId": "2248159129901375496",
+            "femaleVariant": "干了他们！"
+          },
+          {
+            "stringId": "2248159130169810952",
+            "femaleVariant": "我这儿开打了！来啊，V！"
+          },
+          {
+            "stringId": "2248159130236919816",
+            "femaleVariant": "没那么容易！"
+          },
+          {
+            "stringId": "2248159130421469192",
+            "femaleVariant": "都干掉了。"
+          },
+          {
+            "stringId": "2248159130455023624",
+            "femaleVariant": "好了，搞定。"
+          },
+          {
+            "stringId": "2248159130488578056",
+            "femaleVariant": "厉害啊，V！干得漂亮。"
+          },
+          {
+            "stringId": "2248159130522132488",
+            "femaleVariant": "跟上我，V！"
+          },
+          {
+            "stringId": "2248159130555686920",
+            "femaleVariant": "你伤的不轻啊。"
+          },
+          {
+            "stringId": "2248159130589241352",
+            "femaleVariant": "V！注意别受伤！"
+          },
+          {
+            "stringId": "2248159133206487048",
+            "femaleVariant": "V，这边！快来帮忙！"
+          },
+          {
+            "stringId": "2248159133273595912",
+            "femaleVariant": "靠…帮我一把，V！"
+          },
+          {
+            "stringId": "2248159133323927560",
+            "femaleVariant": "情况不妙啊！"
+          },
+          {
+            "stringId": "2248159133357481992",
+            "femaleVariant": "需要装弹！"
+          },
+          {
+            "stringId": "2248159133407813640",
+            "femaleVariant": "当心，我要装弹。"
+          },
+          {
+            "stringId": "2248159133458145288",
+            "femaleVariant": "正在装弹。掩护我。"
+          },
+          {
+            "stringId": "2248159133575585800",
+            "femaleVariant": "当心！手雷！"
+          },
+          {
+            "stringId": "2248159133609140232",
+            "femaleVariant": "有手雷！"
+          },
+          {
+            "stringId": "2248159133793689608",
+            "femaleVariant": "知道我的厉害了吧！"
+          },
+          {
+            "stringId": "2248159133827244040",
+            "femaleVariant": "吃完枪子，就去吃土。"
+          },
+          {
+            "stringId": "2248159133877575688",
+            "femaleVariant": "土好吃吗？！"
+          },
+          {
+            "stringId": "2248159133995016200",
+            "femaleVariant": "干得好，V！"
+          },
+          {
+            "stringId": "2248159134045347848",
+            "femaleVariant": "哈哈！这就对了！"
+          },
+          {
+            "stringId": "2248159134078902280",
+            "femaleVariant": "太牛了！好吧，我承认了。"
+          },
+          {
+            "stringId": "2248159134129233928",
+            "femaleVariant": "没错！真是精彩！"
+          },
+          {
+            "stringId": "2248159134213120008",
+            "femaleVariant": "V，打起精神，别让他们得手！"
+          },
+          {
+            "stringId": "2248159134246674440",
+            "femaleVariant": "靠！你是在打空气吗？！"
+          },
+          {
+            "stringId": "2248159134280228872",
+            "femaleVariant": "V！我们快挡不住了！"
+          },
+          {
+            "stringId": "2248159134330560520",
+            "femaleVariant": "他们要压过来了！"
+          },
+          {
+            "stringId": "2248159134397669384",
+            "femaleVariant": "有狙击手！"
+          },
+          {
+            "stringId": "2248159134431223816",
+            "femaleVariant": "发现狙击手！当心！"
+          },
+          {
+            "stringId": "2248159134498332680",
+            "femaleVariant": "小心炮塔！"
+          },
+          {
+            "stringId": "2248159134548664328",
+            "femaleVariant": "炮塔！"
+          },
+          {
+            "stringId": "2248159134598995976",
+            "femaleVariant": "黑客盯上我们了！"
+          },
+          {
+            "stringId": "2248159134649327624",
+            "femaleVariant": "黑客！不要放松警惕！"
+          },
+          {
+            "stringId": "2248159134749990920",
+            "femaleVariant": "无人机！"
+          },
+          {
+            "stringId": "2248159134800322568",
+            "femaleVariant": "该死的无人机！快打下来！"
+          },
+          {
+            "stringId": "2248159134917763080",
+            "femaleVariant": "当心那个会飞的大蛤蟆！"
+          },
+          {
+            "stringId": "2248159134951317512",
+            "femaleVariant": "哦，我靠，有架八分仪！"
+          },
+          {
+            "stringId": "2248159135018426376",
+            "femaleVariant": "有机器人，V！别小看它！"
+          },
+          {
+            "stringId": "2248159135051980808",
+            "femaleVariant": "当心机器人！"
+          },
+          {
+            "stringId": "2248159135152644096",
+            "femaleVariant": "他们的援兵到了。"
+          },
+          {
+            "stringId": "2248159135186198536",
+            "femaleVariant": "真是太好了…"
+          },
+          {
+            "stringId": "2248159135253307400",
+            "femaleVariant": "天呐，这口径还能再大点儿吗？"
+          },
+          {
+            "stringId": "2248159135303639044",
+            "femaleVariant": "V！当心那杆大枪！"
+          },
+          {
+            "stringId": "2248159135387525128",
+            "femaleVariant": "V，趁现在！他们在装弹！"
+          },
+          {
+            "stringId": "2248159135421079560",
+            "femaleVariant": "他们停下装弹了！"
+          },
+          {
+            "stringId": "2248159135504965640",
+            "femaleVariant": "动作快点儿，来啊。"
+          },
+          {
+            "stringId": "2248159135555297284",
+            "femaleVariant": "V？"
+          },
+          {
+            "stringId": "2248159135588851720",
+            "femaleVariant": "快点儿，V，咱们有事要做呢。"
+          },
+          {
+            "stringId": "2248159135622406152",
+            "femaleVariant": "这么干等着可干不完活儿。"
+          },
+          {
+            "stringId": "2248159135672737800",
+            "femaleVariant": "我们干活去吧。"
+          },
+          {
+            "stringId": "2248159135706292232",
+            "femaleVariant": "好的。我们在视觉死角里。"
+          },
+          {
+            "stringId": "2248159135756623880",
+            "femaleVariant": "OK，这次最好小声点儿。"
+          },
+          {
+            "stringId": "2248159135857287176",
+            "femaleVariant": "前面。看到了吗？"
+          },
+          {
+            "stringId": "2248159135890841608",
+            "femaleVariant": "当心别被他们发现。"
+          },
+          {
+            "stringId": "2248159135941173248",
+            "femaleVariant": "慢着点儿。不要引人注意。"
+          },
+          {
+            "stringId": "2248159135974727688",
+            "femaleVariant": "当心，V。"
+          },
+          {
+            "stringId": "2248159136008282120",
+            "femaleVariant": "上帝啊！当心点儿！"
+          },
+          {
+            "stringId": "2248159136041836552",
+            "femaleVariant": "怎么，你想交几个新朋友吗？"
+          },
+          {
+            "stringId": "2248159136092168200",
+            "femaleVariant": "当心点儿，有摄像头。"
+          },
+          {
+            "stringId": "2248159136125722632",
+            "femaleVariant": "注意上面，小心脚下。"
+          },
+          {
+            "stringId": "2248159136192831496",
+            "femaleVariant": "你就打算把人扔这儿？"
+          },
+          {
+            "stringId": "2248159136243163144",
+            "femaleVariant": "最好是把这个悲剧挪走。"
+          },
+          {
+            "stringId": "2248159136343826432",
+            "femaleVariant": "你逃不掉了！"
+          },
+          {
+            "stringId": "2248159136377380872",
+            "femaleVariant": "就这点儿本事吗？！"
+          },
+          {
+            "stringId": "2248159136427712520",
+            "femaleVariant": "小点声。"
+          },
+          {
+            "stringId": "2248159136478044168",
+            "femaleVariant": "当心…"
+          },
+          {
+            "stringId": "2259521759030386688",
+            "femaleVariant": "咻…这下好多了。"
+          },
+          {
+            "stringId": "2259535803757993992",
+            "femaleVariant": "看来我们正好赶上风暴。"
+          },
+          {
+            "stringId": "2259535982519230472",
+            "femaleVariant": "还好找到了这个农场。希望明早前不要断电。"
+          },
+          {
+            "stringId": "2259536137020612616",
+            "femaleVariant": "哈...这一天过得…"
+          },
+          {
+            "stringId": "2259536241056129032",
+            "femaleVariant": "呃…！简直就是喝汽油。"
+          }
+        ]
+      }
+
+
+

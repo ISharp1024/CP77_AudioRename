@@ -1,0 +1,728 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1355659239742423040",
+            "femaleVariant": "[Open]"
+          },
+          {
+            "stringId": "1355664257052753920",
+            "femaleVariant": "H-he's here! Randy!"
+          },
+          {
+            "stringId": "1355667742301274112",
+            "femaleVariant": "He's hangin' in there! We made it! V, shut down the machine. Can't unlink Randy otherwise."
+          },
+          {
+            "stringId": "1355671021592690688",
+            "femaleVariant": "Hurry! Gotta shut it off!"
+          },
+          {
+            "stringId": "1355676265563209728",
+            "femaleVariant": "[Turn off]"
+          },
+          {
+            "stringId": "1355724114518786048",
+            "femaleVariant": "[Remove]"
+          },
+          {
+            "stringId": "1355725032819703808",
+            "femaleVariant": "It's OK, don't-don't be scared. We're here to help. A bit dehydrated, but you are gonna be fine.",
+            "maleVariant": "It's OK, don't be scared. We're here to help. You're a bit dehydrated, but you're gonna be fine."
+          },
+          {
+            "stringId": "1355732336445145088",
+            "femaleVariant": "Been dead a few days already..."
+          },
+          {
+            "stringId": "1355732426236805120",
+            "femaleVariant": "[Remove]"
+          },
+          {
+            "stringId": "1355740529128816640",
+            "femaleVariant": "[Remove]"
+          },
+          {
+            "stringId": "1355742092379471872",
+            "femaleVariant": "Alive... Whoa, whoa, whoa, whoa, easy there, you're all right now.",
+            "maleVariant": "Alive... Whoa, whoa, easy there, easy now. Hey, you're all right now."
+          },
+          {
+            "stringId": "1358727528139898880",
+            "femaleVariant": "No, no, kid, please... Shit, he's not breathing!"
+          },
+          {
+            "stringId": "1358728970191945728",
+            "femaleVariant": "Get that fucking computer off!"
+          },
+          {
+            "stringId": "1358742821411143680",
+            "femaleVariant": "Poor kid…"
+          },
+          {
+            "stringId": "1358749205527707648",
+            "femaleVariant": "Must've died a few days back…"
+          },
+          {
+            "stringId": "1358752378283802624",
+            "femaleVariant": "Got a pulse, but it's weak. Need to get him to a hospital, quick.",
+            "maleVariant": "I got a pulse, but it's weak. We need to get him to a hospital, quick."
+          },
+          {
+            "stringId": "1360107280880812032",
+            "femaleVariant": "[Teleport to farm]"
+          },
+          {
+            "stringId": "1567561205312307200",
+            "femaleVariant": "The horror that bastard inflicted... Can't let it go."
+          },
+          {
+            "stringId": "1567566319829827588",
+            "femaleVariant": "Do whatcha gotta do, but count me out."
+          },
+          {
+            "stringId": "1567566836651966464",
+            "femaleVariant": "Don't do it, River."
+          },
+          {
+            "stringId": "1567567587331719168",
+            "femaleVariant": "I'll help you."
+          },
+          {
+            "stringId": "1567568347876474880",
+            "femaleVariant": "Do whatcha gotta do. Kill him, spare him... Just one request, River..."
+          },
+          {
+            "stringId": "1567569076376748032",
+            "femaleVariant": "Not willin' to see this through with me?"
+          },
+          {
+            "stringId": "1567569746022547456",
+            "femaleVariant": "Too bad. Thought we'd take this to the end together. But it's all right, I'll handle it."
+          },
+          {
+            "stringId": "1567570585537658880",
+            "femaleVariant": "River, come on, man... It won't change anything.",
+            "maleVariant": "River, c'mon, man... It won't change anything."
+          },
+          {
+            "stringId": "1567580382190288896",
+            "femaleVariant": "Anthony Harris is a sad sack of meat hooked up to a respirator now.",
+            "maleVariant": "Anthony Harris is a sad sack of meat, hooked up to a respirator now."
+          },
+          {
+            "stringId": "1567581730910683136",
+            "femaleVariant": "Ugh, I dunno. Maybe you're right. But it's drivin' me crazy not doin' anything."
+          },
+          {
+            "stringId": "1567584243701432320",
+            "femaleVariant": "No, River. Want that fucker's blood on my hands, too."
+          },
+          {
+            "stringId": "1567585557256781824",
+            "femaleVariant": "Gonna take him out in my own way, amidst all this confusion."
+          },
+          {
+            "stringId": "1598003832943722496",
+            "femaleVariant": "You alive? C'mon, eyes open. Help's on the way.",
+            "maleVariant": "You alive? C'mon, c'mon, eyes open. Help's on the way."
+          },
+          {
+            "stringId": "1598003994843856896",
+            "femaleVariant": "Too late for this one…"
+          },
+          {
+            "stringId": "1598004226386214912",
+            "femaleVariant": "Breathin', good. Hey, just hold on a bit longer.",
+            "maleVariant": "Breathin', good. Just hold on a bit longer."
+          },
+          {
+            "stringId": "1598004346628521984",
+            "femaleVariant": "Randy? Hey, you got this, buddy. Here with your uncle. It's gonna be all right.",
+            "maleVariant": "Randy? Hey, you got this, buddy. I'm here with your uncle. It's gonna be all right."
+          },
+          {
+            "stringId": "1598048235439702020",
+            "femaleVariant": "You alive?"
+          },
+          {
+            "stringId": "1598048296491991044",
+            "femaleVariant": "Randy?"
+          },
+          {
+            "stringId": "1598048338871238660",
+            "femaleVariant": "Hope it isn't too late..."
+          },
+          {
+            "stringId": "1598048383733514244",
+            "femaleVariant": "Hey, kid..."
+          },
+          {
+            "stringId": "1679484051362123776",
+            "femaleVariant": "River, this is the farm! We got it!",
+            "maleVariant": "River, this is the farm! We got it."
+          },
+          {
+            "stringId": "1679485354414936064",
+            "femaleVariant": "The barn! Quick!"
+          },
+          {
+            "stringId": "1679486120009633792",
+            "femaleVariant": "I know. Let's get to the barn, quick."
+          },
+          {
+            "stringId": "1679533881841127424",
+            "femaleVariant": "Leave me out of it. Had my fill of this case."
+          },
+          {
+            "stringId": "1679535846453121024",
+            "femaleVariant": "Appreciate your dedication, V... but this is between me and Harris."
+          },
+          {
+            "stringId": "1680551616654053376",
+            "femaleVariant": "Randy! Don't you do this to me, kid."
+          },
+          {
+            "stringId": "1680564792674193408",
+            "femaleVariant": "Yep, we sure did. But I'm not about leave it like this."
+          },
+          {
+            "stringId": "1680576853563117568",
+            "femaleVariant": "Do whatcha gotta do, but count me out."
+          },
+          {
+            "stringId": "1680576853563117584",
+            "femaleVariant": "Don't do it, River."
+          },
+          {
+            "stringId": "1680576853563117600",
+            "femaleVariant": "We both will."
+          },
+          {
+            "stringId": "1680579354324602880",
+            "femaleVariant": "We fucked up, River..."
+          },
+          {
+            "stringId": "1680580559482359808",
+            "femaleVariant": "Yep, we sure did. But it is far from over."
+          },
+          {
+            "stringId": "1680582941662482500",
+            "femaleVariant": "Besides, I shouldn't've asked for your help to begin with. It was a dumb call."
+          },
+          {
+            "stringId": "1680609407234183168",
+            "femaleVariant": "Knew from the start I shoulda hired a professional. Not you."
+          },
+          {
+            "stringId": "1709998400568528896",
+            "femaleVariant": "Grab something!"
+          },
+          {
+            "stringId": "1719861939697324032",
+            "femaleVariant": "Hey, are you alive?",
+            "maleVariant": "Hey, you alive?"
+          },
+          {
+            "stringId": "1719862821524574208",
+            "femaleVariant": "Hey, kid…"
+          },
+          {
+            "stringId": "1719863599182090240",
+            "femaleVariant": "I'm sorry, buddy…"
+          },
+          {
+            "stringId": "1719864523489251328",
+            "femaleVariant": "Shit, too late…?"
+          },
+          {
+            "stringId": "1719865753124966400",
+            "femaleVariant": "We fucked up…"
+          },
+          {
+            "stringId": "1719896877796659200",
+            "femaleVariant": "[Turn off]"
+          },
+          {
+            "stringId": "1719896877914099712",
+            "femaleVariant": "Security systems neutralized!"
+          },
+          {
+            "stringId": "1719896877914099728",
+            "femaleVariant": "Nice work!"
+          },
+          {
+            "stringId": "1719903318704099328",
+            "femaleVariant": "10-52, I repeat, I've got a 10-52 at a farm south of the city."
+          },
+          {
+            "stringId": "1719907058026778624",
+            "femaleVariant": "Oh, and watch for automated defenses on site. They're substantial."
+          },
+          {
+            "stringId": "1722843281213067264",
+            "femaleVariant": "See that coyote?"
+          },
+          {
+            "stringId": "1785348595354046464",
+            "femaleVariant": "Yes, send the fucking squad!"
+          },
+          {
+            "stringId": "1785349011026350080",
+            "femaleVariant": "Yeah, relaying coordinates now... No, several, at least... Do it quick, dammit."
+          },
+          {
+            "stringId": "1785354870049607680",
+            "femaleVariant": "Not good..."
+          },
+          {
+            "stringId": "1785374523199197184",
+            "femaleVariant": "We did it, River."
+          },
+          {
+            "stringId": "1785379104452907008",
+            "femaleVariant": "What's that?"
+          },
+          {
+            "stringId": "1785380512782749696",
+            "femaleVariant": "Helped you 'cause it was about your nephew. That's over, so enough."
+          },
+          {
+            "stringId": "1785386943841964032",
+            "femaleVariant": "For how long? He has to die. It's the only way I'll be sure."
+          },
+          {
+            "stringId": "1785387359346495488",
+            "femaleVariant": "Stop. Gonna throw your life away gettin' revenge on a braindead vegetable?"
+          },
+          {
+            "stringId": "1785417127295062016",
+            "femaleVariant": "Like dodgy takeout…"
+          },
+          {
+            "stringId": "1785417829102784512",
+            "femaleVariant": "Grenade or anti-personnel mine. Gotta be careful."
+          },
+          {
+            "stringId": "1841490807670050820",
+            "femaleVariant": "What's your plan?"
+          },
+          {
+            "stringId": "1841491072196415488",
+            "femaleVariant": "They nabbed him already. He's not goin' anywhere."
+          },
+          {
+            "stringId": "1841491620341616640",
+            "femaleVariant": "Whaddaya wanna do? Zero him?"
+          },
+          {
+            "stringId": "1841491650859372544",
+            "femaleVariant": "He's in a coma, in police custody. He's not gettin' away with anything."
+          },
+          {
+            "stringId": "1841492461853216768",
+            "femaleVariant": "Exactly. Squeeze the life out of him with my bare hands."
+          },
+          {
+            "stringId": "1841492996878635008",
+            "femaleVariant": "Sick fuck has to die."
+          },
+          {
+            "stringId": "1841494736172617728",
+            "femaleVariant": "He's still alive. So in a sense, he is gettin' away with it... Not for long, though."
+          },
+          {
+            "stringId": "1841496536854433792",
+            "femaleVariant": "Gonna squeeze the life outta him with my bare hands."
+          },
+          {
+            "stringId": "1841500597376913412",
+            "femaleVariant": "Best of luck."
+          },
+          {
+            "stringId": "1841500925371486208",
+            "femaleVariant": "Really aim to do this?"
+          },
+          {
+            "stringId": "1841502571199598592",
+            "femaleVariant": "Best of luck, then."
+          },
+          {
+            "stringId": "1841502593462964224",
+            "femaleVariant": "Really aim to do it? They'll catch you."
+          },
+          {
+            "stringId": "1841503612007747584",
+            "femaleVariant": "No they won't."
+          },
+          {
+            "stringId": "1841503837627748352",
+            "femaleVariant": "I'm... Well… That is, I was a detective, remember? I know how to cover my tracks."
+          },
+          {
+            "stringId": "1841505032970833920",
+            "femaleVariant": "See each other around?"
+          },
+          {
+            "stringId": "1841505276727005184",
+            "femaleVariant": "Probably, eventually. Need a little time to myself for now."
+          },
+          {
+            "stringId": "1841506006854668288",
+            "femaleVariant": "Really, V, thanks. Couldn't've done it without you."
+          },
+          {
+            "stringId": "1841506602915598336",
+            "femaleVariant": "Don't mention it. And holo if you need anything."
+          },
+          {
+            "stringId": "1841529338677301252",
+            "femaleVariant": "Forget about Harris and go on with your life."
+          },
+          {
+            "stringId": "1841529487373766656",
+            "femaleVariant": "Forget about Harris. Take one day at a time. But rest first."
+          },
+          {
+            "stringId": "1841529513395228672",
+            "femaleVariant": "Actually, got quite a bit you can do, River."
+          },
+          {
+            "stringId": "1841529580084662272",
+            "femaleVariant": "Joss and Randy'll need you now."
+          },
+          {
+            "stringId": "1841531855880458240",
+            "femaleVariant": "Joss, Randy, the kids... They're gonna need you now more than ever.",
+            "maleVariant": "Joss, Randy, the kids... They're gonna need you now, more than ever."
+          },
+          {
+            "stringId": "1841532918599651328",
+            "femaleVariant": "Yeah... No, you're right…"
+          },
+          {
+            "stringId": "1841536038742396928",
+            "femaleVariant": "Once your head's on straight again, gimme a holo. We'll talk."
+          },
+          {
+            "stringId": "1841536676427599872",
+            "femaleVariant": "No problem. Don't be a stranger.",
+            "maleVariant": "No problem. Hey, don't be a stranger."
+          },
+          {
+            "stringId": "1841539812760358916",
+            "femaleVariant": "Just remember you can count on me."
+          },
+          {
+            "stringId": "1841539944528613376",
+            "femaleVariant": "Just remember – say the word, I'm there. You can count on me."
+          },
+          {
+            "stringId": "1841539971506376704",
+            "femaleVariant": "Sure you don't want help? They'll catch you."
+          },
+          {
+            "stringId": "1841540028129480704",
+            "femaleVariant": "Sure you wanna do this alone?"
+          },
+          {
+            "stringId": "1841541223606784000",
+            "femaleVariant": "No they won't. I'm... Well... That is, I was a detective, remember?"
+          },
+          {
+            "stringId": "1841541551232258048",
+            "femaleVariant": "I know how to cover my tracks."
+          },
+          {
+            "stringId": "1841543462073274368",
+            "femaleVariant": "Need a little time to myself now… But I'll remember."
+          },
+          {
+            "stringId": "1841544311134621696",
+            "femaleVariant": "Don't mention it. And holler if you change your mind. Or, if you're just in the mood to holler."
+          },
+          {
+            "stringId": "1841551128724115456",
+            "femaleVariant": "Psychoscum's gonna pay for it."
+          },
+          {
+            "stringId": "1841552176276705280",
+            "femaleVariant": "What's your plan?"
+          },
+          {
+            "stringId": "1841552176276705296",
+            "femaleVariant": "They nabbed him already. He's not goin' anywhere."
+          },
+          {
+            "stringId": "1841556924497268736",
+            "femaleVariant": "Don't get caught."
+          },
+          {
+            "stringId": "1841556924497268752",
+            "femaleVariant": "You blame me?"
+          },
+          {
+            "stringId": "1841556924530823172",
+            "femaleVariant": "Whatever you decide... don't get caught."
+          },
+          {
+            "stringId": "1841556924547600396",
+            "femaleVariant": "Like it matters."
+          },
+          {
+            "stringId": "1841556924547600420",
+            "femaleVariant": "Still, thanks. For tryin' to help."
+          },
+          {
+            "stringId": "1841556924547600432",
+            "femaleVariant": "Yeah, for tryin'..."
+          },
+          {
+            "stringId": "1841556924581154820",
+            "femaleVariant": "Hang on, you tryna to blame for me for the fuck-up?"
+          },
+          {
+            "stringId": "1841556924581154832",
+            "femaleVariant": "You're grieving, so I'll forget you said that."
+          },
+          {
+            "stringId": "1841556924581154844",
+            "femaleVariant": "Yeah, forget it. Forget everything."
+          },
+          {
+            "stringId": "1841580473165418496",
+            "femaleVariant": "It was my mistake. Thought you could help me, that we'd fare better together."
+          },
+          {
+            "stringId": "1841589546418049024",
+            "femaleVariant": "Joss will need you now."
+          },
+          {
+            "stringId": "1841589546418049040",
+            "femaleVariant": "You blame me?"
+          },
+          {
+            "stringId": "1841589550612353028",
+            "femaleVariant": "Just... take it one day at a time. Y'still got Joss."
+          },
+          {
+            "stringId": "1841589554806657024",
+            "femaleVariant": "Her and the kiddos'll need Uncle River more than ever.",
+            "maleVariant": "Her and the kiddos will need Uncle River more than ever."
+          },
+          {
+            "stringId": "1841589562759057408",
+            "femaleVariant": "Yeah, got a point... Anyway, thanks for tryin' to help."
+          },
+          {
+            "stringId": "1841589567003693056",
+            "femaleVariant": "Yeah, for tryin'..."
+          },
+          {
+            "stringId": "1841598290770137088",
+            "femaleVariant": "So kill him yourself, then."
+          },
+          {
+            "stringId": "1841598290770137104",
+            "femaleVariant": "You blame me?"
+          },
+          {
+            "stringId": "1841598295216099328",
+            "femaleVariant": "So please, zero the fucker yourself then. Enjoy kickin' it in prison after.",
+            "maleVariant": "So please, zero the fucker yourself then. And enjoy kickin' it in prison after."
+          },
+          {
+            "stringId": "1841598299292962816",
+            "femaleVariant": "Like I care."
+          },
+          {
+            "stringId": "1841598307681570816",
+            "femaleVariant": "But despite all this... thanks for tryin' to help."
+          },
+          {
+            "stringId": "1841598311674548224",
+            "femaleVariant": "Yeah, for tryin'..."
+          },
+          {
+            "stringId": "1857553750124630020",
+            "femaleVariant": "Cameras and turrets're linked... It's a goddamn shooting range."
+          },
+          {
+            "stringId": "1857557531256131588",
+            "femaleVariant": "Sure are a lotta cameras here…"
+          },
+          {
+            "stringId": "1857576449546883072",
+            "femaleVariant": "Breathe a bit. Got the last stretch to the barn left."
+          },
+          {
+            "stringId": "1857597482085617668",
+            "femaleVariant": "V! Get down!"
+          },
+          {
+            "stringId": "1857636124309032960",
+            "femaleVariant": "Careful, River! Watch the mines!"
+          },
+          {
+            "stringId": "1861803155149262852",
+            "femaleVariant": "OK, all disconnected!"
+          },
+          {
+            "stringId": "1861803155166040076",
+            "femaleVariant": "Check the others! Could still be alive."
+          },
+          {
+            "stringId": "1861803155166040092",
+            "femaleVariant": "Right!"
+          },
+          {
+            "stringId": "1861803155216371716",
+            "femaleVariant": "OK, all disconnected!"
+          },
+          {
+            "stringId": "1861803155216371732",
+            "femaleVariant": "Check the others! We gotta try to help, even if it means just saving one."
+          },
+          {
+            "stringId": "1861803155216371748",
+            "femaleVariant": "On it."
+          },
+          {
+            "stringId": "1861873311242227712",
+            "femaleVariant": "V! V, he's not responding! H-help him, please!"
+          },
+          {
+            "stringId": "1861876096662736900",
+            "femaleVariant": "V! H-help me with Randy!"
+          },
+          {
+            "stringId": "1886746269776482304",
+            "femaleVariant": "Dammit! Right behind you!"
+          },
+          {
+            "stringId": "1926067691199795200",
+            "femaleVariant": "Yeah, need a little time to myself now. But then I'll call ya. I will."
+          },
+          {
+            "stringId": "1933132212020940804",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1943063193309908992",
+            "femaleVariant": "River! C'mere, quick!"
+          },
+          {
+            "stringId": "1943189432179855360",
+            "femaleVariant": "Oh fuck..."
+          },
+          {
+            "stringId": "1950322098729345028",
+            "femaleVariant": "[Release]"
+          },
+          {
+            "stringId": "1954837610917335044",
+            "femaleVariant": "Heads up! Turrets are live! The system controlling them must be in the house."
+          },
+          {
+            "stringId": "1954859119610236932",
+            "femaleVariant": "By the barn, two more turrets. That front gate's a death trap."
+          },
+          {
+            "stringId": "1955013739624075268",
+            "femaleVariant": "Got cables comin' outta this wall. Should be a switch somewhere."
+          },
+          {
+            "stringId": "1955039413395066884",
+            "femaleVariant": "It's gotta be here! Have a look around."
+          },
+          {
+            "stringId": "1955068971058008068",
+            "femaleVariant": "Try disabling the defense system then haul ass to the barn!"
+          },
+          {
+            "stringId": "1956454142806134788",
+            "femaleVariant": "Dammit. Locked up tight. Need to find another way..."
+          },
+          {
+            "stringId": "1957856993077071872",
+            "femaleVariant": "V, wrong way! Randy needs us NOW, you forget that?!"
+          },
+          {
+            "stringId": "1957858852747579392",
+            "femaleVariant": "There we go..."
+          },
+          {
+            "stringId": "1977970262663106560",
+            "femaleVariant": "Poor bastard... You just left him."
+          },
+          {
+            "stringId": "1977974270521905152",
+            "femaleVariant": "Yeah. Yeah, I did."
+          },
+          {
+            "stringId": "2014452056023240704",
+            "femaleVariant": "Hey, we're ready for evac. Are you riding along or not?"
+          },
+          {
+            "stringId": "2014452100466085888",
+            "femaleVariant": "Poor boys… All your years, ever seen anything like this?"
+          },
+          {
+            "stringId": "2014452128500813824",
+            "femaleVariant": "Area is secure, all witnesses questioned, and victims are en route."
+          },
+          {
+            "stringId": "2014457242078810112",
+            "femaleVariant": "Eight years on the force, nothin' comes close... Beyond twisted."
+          },
+          {
+            "stringId": "2014472689230680064",
+            "femaleVariant": "Have Ramirez debrief with her boys here. They'll be gathering evidence till morning."
+          },
+          {
+            "stringId": "2078257841316782080",
+            "femaleVariant": "[Release]"
+          },
+          {
+            "stringId": "2078264344971010048",
+            "femaleVariant": "[Release]"
+          },
+          {
+            "stringId": "2172324552881704960",
+            "femaleVariant": "Shut down that damned contraption, V!"
+          },
+          {
+            "stringId": "2172326975931125760",
+            "femaleVariant": "Help me!"
+          },
+          {
+            "stringId": "2172327615965138944",
+            "femaleVariant": "Need to loosen this, help me!"
+          },
+          {
+            "stringId": "2329201790322171904",
+            "femaleVariant": "[Get out]"
+          },
+          {
+            "stringId": "2329202642067873792",
+            "femaleVariant": "[Get out]"
+          }
+        ]
+      }
+
+
+

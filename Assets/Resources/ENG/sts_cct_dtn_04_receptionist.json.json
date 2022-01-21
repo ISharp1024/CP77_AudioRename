@@ -1,0 +1,63 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1408088290545135616",
+            "femaleVariant": "I have a meeting with Koch."
+          },
+          {
+            "stringId": "1408091328093646848",
+            "femaleVariant": "Hi, I have an appointment with Mrs. Koch."
+          },
+          {
+            "stringId": "1408092557276377088",
+            "femaleVariant": "Very well. Just give me moment to check..."
+          },
+          {
+            "stringId": "1419935019515015168",
+            "femaleVariant": "I'd like to rent a room."
+          },
+          {
+            "stringId": "1935891931595067392",
+            "femaleVariant": "Hello. How can I help you?"
+          },
+          {
+            "stringId": "1935892937053622272",
+            "femaleVariant": "I'd like to rent a room for the night. Single bed's fine."
+          },
+          {
+            "stringId": "1935899340698865664",
+            "femaleVariant": "You don't say."
+          },
+          {
+            "stringId": "1935899944544423936",
+            "femaleVariant": "I'm afraid that won't be possible. We are a corporate hotel available only to Biotechnica personnel."
+          },
+          {
+            "stringId": "1946250435674607616",
+            "femaleVariant": "Ah, that's a shame. Nice place.",
+            "maleVariant": "Oh, that's a shame. Nice place."
+          },
+          {
+            "stringId": "2523106879086055424",
+            "femaleVariant": "No, I'm afraid not. There must be a misunderstanding."
+          }
+        ]
+      }
+
+
+

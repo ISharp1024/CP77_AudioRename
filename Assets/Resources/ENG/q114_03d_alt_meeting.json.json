@@ -1,0 +1,500 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1871893653583687680",
+            "femaleVariant": "Johnny's currently indisposed."
+          },
+          {
+            "stringId": "1871900505683914752",
+            "femaleVariant": "You come alone."
+          },
+          {
+            "stringId": "1871905319671164932",
+            "femaleVariant": "Johnny's currently indisposed."
+          },
+          {
+            "stringId": "1871919362519724032",
+            "femaleVariant": "You truly believe time to be your greatest concern?"
+          },
+          {
+            "stringId": "1871927271987212288",
+            "femaleVariant": "Hello, Alt."
+          },
+          {
+            "stringId": "1871930604462403584",
+            "femaleVariant": "Place ever look the same?"
+          },
+          {
+            "stringId": "1871931257247100928",
+            "femaleVariant": "This place... changes every time. Feels like I'm... deeper."
+          },
+          {
+            "stringId": "1871932736779448320",
+            "femaleVariant": "Wasting time talking. Let's just do this."
+          },
+          {
+            "stringId": "1871932969311662084",
+            "femaleVariant": "Program – how do I use it?"
+          },
+          {
+            "stringId": "1871939225317404672",
+            "femaleVariant": "You exist or you do not exist. Two states of being separated by death."
+          },
+          {
+            "stringId": "1871948798514294784",
+            "femaleVariant": "Say what you want, but I rose from the dead."
+          },
+          {
+            "stringId": "1871949958323236872",
+            "femaleVariant": "Matter of perspective. Think what you will, but it seems to me I rose from the dead. Only question is – what now?",
+            "maleVariant": "Matter of perspective. Think what you will, but seems to me I rose from the dead. Only question is – what now?"
+          },
+          {
+            "stringId": "1871949958323236884",
+            "femaleVariant": "You believe you cheated death?"
+          },
+          {
+            "stringId": "1871960577898311680",
+            "femaleVariant": "It is death that has cheated you."
+          },
+          {
+            "stringId": "1871964096567046144",
+            "femaleVariant": "You are in between."
+          },
+          {
+            "stringId": "1872002730519293952",
+            "femaleVariant": "Need your help, Alt. Don't got a lotta time left."
+          },
+          {
+            "stringId": "1872008916127838208",
+            "femaleVariant": "Can't tell if that's a good or bad thing."
+          },
+          {
+            "stringId": "1872011321896726528",
+            "femaleVariant": "Your perception of cyberspace – that is what changes."
+          },
+          {
+            "stringId": "1872012767589429248",
+            "femaleVariant": "You adapt to it – the raw flow of data. It follows that your world gradually fades."
+          },
+          {
+            "stringId": "1872015478418436096",
+            "femaleVariant": "Sayin' the more I'm here the more I lose touch with the outside, with reality?"
+          },
+          {
+            "stringId": "1872019440458657792",
+            "femaleVariant": "He is buried deeper. You treat him like an unwanted passenger – a backseat dreamer of a world not his own."
+          },
+          {
+            "stringId": "1872074436877348868",
+            "femaleVariant": "Had no choice."
+          },
+          {
+            "stringId": "1872075064546553856",
+            "femaleVariant": "Thought you didn't care a lick about Johnny anymore."
+          },
+          {
+            "stringId": "1872076998523351040",
+            "femaleVariant": "Had no choice. It was the only way I could come here, meet with you."
+          },
+          {
+            "stringId": "1872078434468491264",
+            "femaleVariant": "Seemed to me you didn't care a lick about Johnny."
+          },
+          {
+            "stringId": "1872080186664153088",
+            "femaleVariant": "That he ceased to exist for you, even."
+          },
+          {
+            "stringId": "1872080541821038592",
+            "femaleVariant": "If he did not exist, you and I would have nothing to discuss."
+          },
+          {
+            "stringId": "1872090861285273600",
+            "femaleVariant": "Repression. You are good at this and improving."
+          },
+          {
+            "stringId": "1872092657303023616",
+            "femaleVariant": "Is that so? Didn't you cheat death?"
+          },
+          {
+            "stringId": "1872103919244144640",
+            "femaleVariant": "Speak for yourself. Didn't you cheat death?"
+          },
+          {
+            "stringId": "1872113356159709184",
+            "femaleVariant": "Is this what you believe?"
+          },
+          {
+            "stringId": "1872113626457436160",
+            "femaleVariant": "Your code, your consciousness… AIs live beyond reality's boundary, they live forever."
+          },
+          {
+            "stringId": "1872114221041971200",
+            "femaleVariant": "But we are not immortal."
+          },
+          {
+            "stringId": "1872169542737326084",
+            "femaleVariant": "No time to lose. I'm ready."
+          },
+          {
+            "stringId": "1872169797130252288",
+            "femaleVariant": "Integrated? So that's why you want to get into Mikoshi."
+          },
+          {
+            "stringId": "1872171953489047552",
+            "femaleVariant": "It opens a secure connection."
+          },
+          {
+            "stringId": "1872174590749962240",
+            "femaleVariant": "There. I sent a program to your netrunner's shard. Once inside Mikoshi, use it."
+          },
+          {
+            "stringId": "1872176112661557248",
+            "femaleVariant": "Need to find a specific access point?"
+          },
+          {
+            "stringId": "1872176403142275072",
+            "femaleVariant": "What's the program do? Is it dirty?"
+          },
+          {
+            "stringId": "1872177902001975296",
+            "femaleVariant": "What's on the shard? A vectored virus?"
+          },
+          {
+            "stringId": "1872178937709850624",
+            "femaleVariant": "A back door."
+          },
+          {
+            "stringId": "1872180129311617024",
+            "femaleVariant": "It will open a passage for me. This is how you will get me into Mikoshi. Only then will I be able to help you."
+          },
+          {
+            "stringId": "1872182699446890496",
+            "femaleVariant": "Hope you haven't cooked up any surprises, Alt."
+          },
+          {
+            "stringId": "1872183136191377408",
+            "femaleVariant": "Use the key once you have reached Mikoshi."
+          },
+          {
+            "stringId": "1872183425732571136",
+            "femaleVariant": "What'm I supposed to do with the shard?"
+          },
+          {
+            "stringId": "1872183762350632960",
+            "femaleVariant": "You must slot it into an access point. I will take care of the rest."
+          },
+          {
+            "stringId": "1872184650318344192",
+            "femaleVariant": "This meeting will not be our last – should you succeed."
+          },
+          {
+            "stringId": "1872186705997066240",
+            "femaleVariant": "Should I look for a specific access point? Can already tell you ICE all the way to Tokyo'll be backing every single one."
+          },
+          {
+            "stringId": "1872187684746293248",
+            "femaleVariant": "Some need but a barely cracked door to enter. Use the shard in Mikoshi. Leave the security to me."
+          },
+          {
+            "stringId": "1872191254803640320",
+            "femaleVariant": "Until then."
+          },
+          {
+            "stringId": "1872192985490911232",
+            "femaleVariant": "What should I expect there – in Mikoshi?"
+          },
+          {
+            "stringId": "1872193863459401728",
+            "femaleVariant": "A boundary to cross. In all likelihood, the sole moment of your life when you feel the true weight of your existence."
+          },
+          {
+            "stringId": "1872195723482230784",
+            "femaleVariant": "A burden for which you cannot prepare."
+          },
+          {
+            "stringId": "1873450784430616576",
+            "femaleVariant": "Oh, why don't you swoop down on your chariot and enlighten me? Surely an all-powerful AI can handle that.",
+            "maleVariant": "Why don't you swoop down on your chariot and enlighten me? Surely an all-powerful AI can handle that."
+          },
+          {
+            "stringId": "1873452206182232064",
+            "femaleVariant": "Your logic is flawed. You seek simple answers where there simply are none. This is the very illusion upon which your world is based."
+          },
+          {
+            "stringId": "1873458920205971460",
+            "femaleVariant": "Your perception will shatter into billions of strings of unfiltered data."
+          },
+          {
+            "stringId": "2008206360380723200",
+            "femaleVariant": "You lose nothing. Cyberspace is where we awake from what we know as dreams."
+          },
+          {
+            "stringId": "2008207068110802944",
+            "femaleVariant": "You witness your mind's defense systems slowly give in."
+          },
+          {
+            "stringId": "2008287149571198980",
+            "femaleVariant": "Lemme get this straight. Johnny's your reason for helpin' me?"
+          },
+          {
+            "stringId": "2008292839496896512",
+            "femaleVariant": "Sorry, didn't come here to gab about Johnny."
+          },
+          {
+            "stringId": "2008295093851410432",
+            "femaleVariant": "Lemme get this straight. Mean to say you only agreed to help me 'cause of Johnny?"
+          },
+          {
+            "stringId": "2008298973918154752",
+            "femaleVariant": "And since he's not here this one time, you're thinkin' of backin' out?"
+          },
+          {
+            "stringId": "2008304298050211840",
+            "femaleVariant": "I do not aim to back out. I have my own intentions for Mikoshi."
+          },
+          {
+            "stringId": "2008305702823284736",
+            "femaleVariant": "Hmm, 'cause for a second you were displeased and I seemed a side note to all this."
+          },
+          {
+            "stringId": "2008309706018017280",
+            "femaleVariant": "To observe the two of you interacting... informative."
+          },
+          {
+            "stringId": "2008311535002996740",
+            "femaleVariant": "Don't got much time left."
+          },
+          {
+            "stringId": "2008313818986074112",
+            "femaleVariant": "Nope, sorry, did not come here to gab about Johnny."
+          },
+          {
+            "stringId": "2008314721851953152",
+            "femaleVariant": "This all just an experiment to you? Are we just fresh data to analyze, do what you want with?"
+          },
+          {
+            "stringId": "2008315462482153472",
+            "femaleVariant": "All this, everything – just an experiment to you?"
+          },
+          {
+            "stringId": "2008320375740190724",
+            "femaleVariant": "Don't got much time left."
+          },
+          {
+            "stringId": "2008322042892144640",
+            "femaleVariant": "You were actually out to prove him wrong, weren't you?"
+          },
+          {
+            "stringId": "2008325395986534400",
+            "femaleVariant": "Damn shame, really. You were out to prove him wrong, here, in person. But all you got is me."
+          },
+          {
+            "stringId": "2008326190438043648",
+            "femaleVariant": "Think there's still some old Alt Cunningham left in you after all."
+          },
+          {
+            "stringId": "2008344213798539264",
+            "femaleVariant": "That Johnny is absent proves that I have won it."
+          },
+          {
+            "stringId": "2008346652366884864",
+            "femaleVariant": "This is not an experiment. It is a debate."
+          },
+          {
+            "stringId": "2008348449626148864",
+            "femaleVariant": "Prefer to just talk to him?"
+          },
+          {
+            "stringId": "2008348816778743808",
+            "femaleVariant": "Would you rather just talk to him?"
+          },
+          {
+            "stringId": "2008362537622196224",
+            "femaleVariant": "Discussion with any isolated construct is pointless. I can simply read it like any other segment of code."
+          },
+          {
+            "stringId": "2008363173931667456",
+            "femaleVariant": "Yeah, seen how you and Johnny like to... debate."
+          },
+          {
+            "stringId": "2008366575579320320",
+            "femaleVariant": "Johnny also imagined he had more in common with you than with me."
+          },
+          {
+            "stringId": "2008368475129270272",
+            "femaleVariant": "Do you recall when he referred to you as the \"human factor?\" He thought of himself, too."
+          },
+          {
+            "stringId": "2008380635792297984",
+            "femaleVariant": "That Soulkiller had not changed him, that he, too, remains a \"human factor.\""
+          },
+          {
+            "stringId": "2008381814626603008",
+            "femaleVariant": "And that is why he thought he could shape your will."
+          },
+          {
+            "stringId": "2008390339599814656",
+            "femaleVariant": "Now, absented and imprisoned, he understands what he is – a cluster of data."
+          },
+          {
+            "stringId": "2008392845058920448",
+            "femaleVariant": "Imagining his personality, his character strong enough to shape your will."
+          },
+          {
+            "stringId": "2008399282912907264",
+            "femaleVariant": "Nah, Johnny's made his peace with my decision."
+          },
+          {
+            "stringId": "2008400149556776960",
+            "femaleVariant": "Of course. He had no choice. He understands this now."
+          },
+          {
+            "stringId": "2008407852849057792",
+            "femaleVariant": "The sole \"human factor\" here is you."
+          },
+          {
+            "stringId": "2008410336950767616",
+            "femaleVariant": "Yeah, well, said human factor's rapidly runnin' outta time."
+          },
+          {
+            "stringId": "2008425002502475776",
+            "femaleVariant": "You will begin to understand, but only in Mikoshi."
+          },
+          {
+            "stringId": "2008428718555156480",
+            "femaleVariant": "Currently..."
+          },
+          {
+            "stringId": "2008454959446380548",
+            "femaleVariant": "What should I expect?"
+          },
+          {
+            "stringId": "2008455493364502528",
+            "femaleVariant": "Enlighten me right here and now – why not."
+          },
+          {
+            "stringId": "2008474154024325120",
+            "femaleVariant": "At this moment, you would accept any answer if it made you feel better."
+          },
+          {
+            "stringId": "2008481674411397120",
+            "femaleVariant": "Hm. Guess that'd be... human of me?"
+          },
+          {
+            "stringId": "2008482373434101760",
+            "femaleVariant": "Such classifications no longer apply in Mikoshi."
+          },
+          {
+            "stringId": "2009561463633235972",
+            "femaleVariant": "But I'll make it through."
+          },
+          {
+            "stringId": "2009563097566302208",
+            "femaleVariant": "Johnny – what about him?"
+          },
+          {
+            "stringId": "2009564172851630080",
+            "femaleVariant": "And Johnny? What happens to him?"
+          },
+          {
+            "stringId": "2009564571142737920",
+            "femaleVariant": "I lack the data required to answer this question."
+          },
+          {
+            "stringId": "2009566720304107520",
+            "femaleVariant": "I'll make it through."
+          },
+          {
+            "stringId": "2009567549232795648",
+            "femaleVariant": "Constructs imprisoned there – gonna set them free?"
+          },
+          {
+            "stringId": "2009570511736819712",
+            "femaleVariant": "While Mikoshi will not."
+          },
+          {
+            "stringId": "2009572382597730304",
+            "femaleVariant": "There anything we can know for certain?"
+          },
+          {
+            "stringId": "2009575501884837888",
+            "femaleVariant": "Yes. That Mikoshi will be no more."
+          },
+          {
+            "stringId": "2009579093031145472",
+            "femaleVariant": "They will be integrated with me."
+          },
+          {
+            "stringId": "2009590054358110208",
+            "femaleVariant": "Not sure Johnny'd like the sound of that."
+          },
+          {
+            "stringId": "2009593273670979584",
+            "femaleVariant": "Constructs'll be \"integrated?\" Mean you're gonna absorb 'em. Assimilate."
+          },
+          {
+            "stringId": "2009593863457230848",
+            "femaleVariant": "No wonder you jumped at this chance. You wanna destroy Mikoshi, swallow all the psyches in there."
+          },
+          {
+            "stringId": "2009595876337274880",
+            "femaleVariant": "Mikoshi is a prison."
+          },
+          {
+            "stringId": "2009597789443215360",
+            "femaleVariant": "Not sure Johnny'd like the sound of that."
+          },
+          {
+            "stringId": "2009604041892188160",
+            "femaleVariant": "And yet he is absent because you feel you must make the decision."
+          },
+          {
+            "stringId": "2009608992060100608",
+            "femaleVariant": "It is the same situation in form."
+          },
+          {
+            "stringId": "2009609668383232000",
+            "femaleVariant": "Huh, hardly. Doubt you'll first gab with those constructs, ask 'em what they think."
+          },
+          {
+            "stringId": "2009612455280136192",
+            "femaleVariant": "There would be no point in this."
+          },
+          {
+            "stringId": "2009629605067771904",
+            "femaleVariant": "Through me, they gain the chance to become part of something greater."
+          },
+          {
+            "stringId": "2180839020284018692",
+            "femaleVariant": "Hey, Alt."
+          },
+          {
+            "stringId": "2236589420482154496",
+            "femaleVariant": "V?"
+          },
+          {
+            "stringId": "2236594952148373504",
+            "femaleVariant": "You say nothing. Why?"
+          }
+        ]
+      }
+
+
+

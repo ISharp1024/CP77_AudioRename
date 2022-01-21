@@ -1,0 +1,799 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1905126991447220224",
+            "femaleVariant": "Johnny..."
+          },
+          {
+            "stringId": "1905127307865513984",
+            "femaleVariant": "That smell's the sea breeze."
+          },
+          {
+            "stringId": "1905128076379447296",
+            "femaleVariant": "Get up. Pacific's beautiful this time of day."
+          },
+          {
+            "stringId": "1905129545509920772",
+            "femaleVariant": "[Stand] Almost got flatlined."
+          },
+          {
+            "stringId": "1905129714070609920",
+            "femaleVariant": "Almost flatlined by that attack."
+          },
+          {
+            "stringId": "1905130373901737984",
+            "femaleVariant": "Almost."
+          },
+          {
+            "stringId": "1905131018079723524",
+            "femaleVariant": "Where are we?"
+          },
+          {
+            "stringId": "1905131192361443328",
+            "femaleVariant": "The ocean is beautiful."
+          },
+          {
+            "stringId": "1905131520188243968",
+            "femaleVariant": "You're right, hard to take my eyes off it."
+          },
+          {
+            "stringId": "1905131796727095296",
+            "femaleVariant": "We in... Pacifica?",
+            "maleVariant": "We in, uh... Pacifica?"
+          },
+          {
+            "stringId": "1905132280883994624",
+            "femaleVariant": "What's this building?"
+          },
+          {
+            "stringId": "1905132670903934976",
+            "femaleVariant": "Old hotel – the Pistis Sophia. We're her sole guests right now."
+          },
+          {
+            "stringId": "1905149533499187204",
+            "femaleVariant": "[Step away] Why bring me here?"
+          },
+          {
+            "stringId": "1905149715431317504",
+            "femaleVariant": "Why… why bring me here of all places?"
+          },
+          {
+            "stringId": "1905152542593540096",
+            "femaleVariant": "[Step away] Saw Misty's meds in your hand."
+          },
+          {
+            "stringId": "1905155167086993408",
+            "femaleVariant": "Saw the pseudoendotrizine in your hand."
+          },
+          {
+            "stringId": "1905156366641160192",
+            "femaleVariant": "Think I'm not long for this world."
+          },
+          {
+            "stringId": "1905163910650552320",
+            "femaleVariant": "Can't very well function in this body without it, right?"
+          },
+          {
+            "stringId": "1905471416283193348",
+            "femaleVariant": "You seriously considerin' Hanako's offer?"
+          },
+          {
+            "stringId": "1905471416316747776",
+            "femaleVariant": "Got a better idea?"
+          },
+          {
+            "stringId": "1905471416316747792",
+            "femaleVariant": "We share the same goals."
+          },
+          {
+            "stringId": "1905471416333524992",
+            "femaleVariant": "Don't start."
+          },
+          {
+            "stringId": "1905471416333525008",
+            "femaleVariant": "I'll do what I need to do to survive."
+          },
+          {
+            "stringId": "1905471416350302212",
+            "femaleVariant": "Don't start again."
+          },
+          {
+            "stringId": "1905471416383856644",
+            "femaleVariant": "I'll do what I need to survive. Even if I have to get my hands dirty."
+          },
+          {
+            "stringId": "1905471416400633860",
+            "femaleVariant": "Well?"
+          },
+          {
+            "stringId": "1905471416417411072",
+            "femaleVariant": "Adam Smasher – fucker who got the better of me…"
+          },
+          {
+            "stringId": "1905471416417411084",
+            "femaleVariant": "Whatever happens to me, I want him zero'd, gone, tossed into the wind as mulch."
+          },
+          {
+            "stringId": "1905471416450965508",
+            "femaleVariant": "Got a better idea?"
+          },
+          {
+            "stringId": "1905471416450965520",
+            "femaleVariant": "Not yet, but I got a request."
+          },
+          {
+            "stringId": "1905471416484519936",
+            "femaleVariant": "Hanako and I want the same thing."
+          },
+          {
+            "stringId": "1905471416484519948",
+            "femaleVariant": "Heh, yeah…"
+          },
+          {
+            "stringId": "1905471416501297156",
+            "femaleVariant": "Listen, you'll do you what ya think's right. You're in charge here. Just got one request."
+          },
+          {
+            "stringId": "1905471416534851584",
+            "femaleVariant": "That your last wish – revenge?"
+          },
+          {
+            "stringId": "1905471416534851600",
+            "femaleVariant": "Not about to risk my life for this."
+          },
+          {
+            "stringId": "1905471416534851616",
+            "femaleVariant": "Understood."
+          },
+          {
+            "stringId": "1905471416568406020",
+            "femaleVariant": "That your dyin' wish – revenge?"
+          },
+          {
+            "stringId": "1905471416568406032",
+            "femaleVariant": "It's more than that. And I'll need you to take Rogue with you."
+          },
+          {
+            "stringId": "1905471416601960452",
+            "femaleVariant": "Not about to risk my skin to satisfy some revenge fantasy."
+          },
+          {
+            "stringId": "1905471416601960464",
+            "femaleVariant": "No risk involved. Rogue'll have your back."
+          },
+          {
+            "stringId": "1905471416635514884",
+            "femaleVariant": "Right. Understood."
+          },
+          {
+            "stringId": "1905471416652292096",
+            "femaleVariant": "And I want Rogue to be there with you."
+          },
+          {
+            "stringId": "1905471416669069316",
+            "femaleVariant": "It's important to me, and it's just as important for her."
+          },
+          {
+            "stringId": "1905471416702623744",
+            "femaleVariant": "Not sure Rogue's so sentimental."
+          },
+          {
+            "stringId": "1905471416719400960",
+            "femaleVariant": "Not how Rogue operates anymore."
+          },
+          {
+            "stringId": "1905471416719400976",
+            "femaleVariant": "So I tell Rogue everything?"
+          },
+          {
+            "stringId": "1905471416752955396",
+            "femaleVariant": "Not sure Rogue's the sentimental type."
+          },
+          {
+            "stringId": "1905471416752955408",
+            "femaleVariant": "Hm, bitter bitch these days, said it yourself. And it has been a while…"
+          },
+          {
+            "stringId": "1905471416752955420",
+            "femaleVariant": "So I'll jog her memory myself."
+          },
+          {
+            "stringId": "1905471416786509828",
+            "femaleVariant": "Not sure it's somethin' Rogue would bother with these days. She delegates."
+          },
+          {
+            "stringId": "1905471416786509840",
+            "femaleVariant": "Why stick her neck out for this, or at all?"
+          },
+          {
+            "stringId": "1905471416803287048",
+            "femaleVariant": "'Cause I'll ask her to. Personally."
+          },
+          {
+            "stringId": "1905471416820064260",
+            "femaleVariant": "So I gotta tell Rogue... everything?"
+          },
+          {
+            "stringId": "1905471416820064272",
+            "femaleVariant": "Think I'd better do that, handle it personally."
+          },
+          {
+            "stringId": "1905471416853618692",
+            "femaleVariant": "You'll drop the pills from Misty, and I'll steer the ship for a bit."
+          },
+          {
+            "stringId": "1905471416853618704",
+            "femaleVariant": "I'm not at all excited about this plan – realize that, right?"
+          },
+          {
+            "stringId": "1905471416903950340",
+            "femaleVariant": "Just gonna have a quick chat with Rogue about Smasher, then I'm out. I promise."
+          },
+          {
+            "stringId": "1905471416954281984",
+            "femaleVariant": "Tell me what you're planning."
+          },
+          {
+            "stringId": "1905471416971059204",
+            "femaleVariant": "No deal."
+          },
+          {
+            "stringId": "1905471416971059220",
+            "femaleVariant": "Don't know if I trust you."
+          },
+          {
+            "stringId": "1905471416971059236",
+            "femaleVariant": "I can see what you're up to."
+          },
+          {
+            "stringId": "1905471416987836424",
+            "femaleVariant": "So, Hellman was right."
+          },
+          {
+            "stringId": "1905471417021390852",
+            "femaleVariant": "Need to know exactly what you plan to do."
+          },
+          {
+            "stringId": "1905471417021390864",
+            "femaleVariant": "I'll tell Rogue the truth, see if she's willin' to help."
+          },
+          {
+            "stringId": "1905471417038168080",
+            "femaleVariant": "All I gotta do is mention Smasher, serve him up on a platter, muse over the old days. Easy."
+          },
+          {
+            "stringId": "1905471417071722500",
+            "femaleVariant": "No. Askin' too much."
+          },
+          {
+            "stringId": "1905471417071722512",
+            "femaleVariant": "Sooner or later, you'll have to find your way to Mikoshi."
+          },
+          {
+            "stringId": "1905471417088499720",
+            "femaleVariant": "Rogue could be the ace you need."
+          },
+          {
+            "stringId": "1905471417155608576",
+            "femaleVariant": "Hellman said you'd do this – make a power grab or pitch for control."
+          },
+          {
+            "stringId": "1905471417155608588",
+            "femaleVariant": "Anders Hellman? And just what has he ever done to help you?"
+          },
+          {
+            "stringId": "1905471417155608600",
+            "femaleVariant": "May not help, but he doesn't hurt me."
+          },
+          {
+            "stringId": "1905471417222717444",
+            "femaleVariant": "Not sure you've earned my trust."
+          },
+          {
+            "stringId": "1905471417222717456",
+            "femaleVariant": "This needs to work both ways, V."
+          },
+          {
+            "stringId": "1905471417222717468",
+            "femaleVariant": "You enjoy complete control over me at all times."
+          },
+          {
+            "stringId": "1905471417239494656",
+            "femaleVariant": "Don't even enjoy control over myself."
+          },
+          {
+            "stringId": "1905471417239494672",
+            "femaleVariant": "You're the one who makes the bad calls. All I can do is advise."
+          },
+          {
+            "stringId": "1905471417239494684",
+            "femaleVariant": "And ask for favors. Like I'm doin' now."
+          },
+          {
+            "stringId": "1905471417289826304",
+            "femaleVariant": "OK, I'll give you control."
+          },
+          {
+            "stringId": "1905471417289826320",
+            "femaleVariant": "Not gonna happen."
+          },
+          {
+            "stringId": "1905471417306603528",
+            "femaleVariant": "Need to think about it."
+          },
+          {
+            "stringId": "1905471417356935168",
+            "femaleVariant": "Might be you're right, might be a good idea."
+          },
+          {
+            "stringId": "1905471417356935184",
+            "femaleVariant": "End of discussion."
+          },
+          {
+            "stringId": "1905471417356935200",
+            "femaleVariant": "Need to think about it."
+          },
+          {
+            "stringId": "1905471417407266820",
+            "femaleVariant": "Fine. I'll do this... for you."
+          },
+          {
+            "stringId": "1905471417407266832",
+            "femaleVariant": "'Preciate it, thanks."
+          },
+          {
+            "stringId": "1905471417407266844",
+            "femaleVariant": "Take me to the Afterlife. Promise you won't regret this."
+          },
+          {
+            "stringId": "1905471417491152900",
+            "femaleVariant": "Rogue's convenient cover."
+          },
+          {
+            "stringId": "1905471417491152912",
+            "femaleVariant": "For what? Me seizing control of your body at long last?"
+          },
+          {
+            "stringId": "1905471417491152924",
+            "femaleVariant": "Or some gonk-ass suicide plan to attack Arasaka again. Know you pretty damn well at this point, Johnny."
+          },
+          {
+            "stringId": "1905471417491152940",
+            "femaleVariant": "For the last time... No. Secret. Plan."
+          },
+          {
+            "stringId": "1905471417524707332",
+            "femaleVariant": "No, refuse to let you manipulate me again."
+          },
+          {
+            "stringId": "1905471417524707344",
+            "femaleVariant": "Huh. Not workin', is it?"
+          },
+          {
+            "stringId": "1905471417541484548",
+            "femaleVariant": "'Fraid not. This discussion's over."
+          },
+          {
+            "stringId": "1905471417558261780",
+            "femaleVariant": "Fine, I get it. Should you change your mind, gimme a lift to the Afterlife."
+          },
+          {
+            "stringId": "1905471417608593412",
+            "femaleVariant": "Need to think it over."
+          },
+          {
+            "stringId": "1905471417608593424",
+            "femaleVariant": "Sure, thanks."
+          },
+          {
+            "stringId": "1905471417625370624",
+            "femaleVariant": "This is important to me, V. Just get me to the Afterlife and hop in the backseat for a bit, that's all."
+          },
+          {
+            "stringId": "1905508894117486592",
+            "femaleVariant": "Gimme a minute, you'll see."
+          },
+          {
+            "stringId": "1905519912688312320",
+            "femaleVariant": "You took over…"
+          },
+          {
+            "stringId": "1905529335578124288",
+            "femaleVariant": "Yeah, lookin' that way..."
+          },
+          {
+            "stringId": "1905580754658156544",
+            "femaleVariant": "Couldn't just leave you there, could I?"
+          },
+          {
+            "stringId": "1905582449811283968",
+            "femaleVariant": "Nice to be behind the wheel again?"
+          },
+          {
+            "stringId": "1905582898652143616",
+            "femaleVariant": "Honestly, never felt better – like, in my life."
+          },
+          {
+            "stringId": "1905586734074716164",
+            "femaleVariant": "Seriously consider taking the meds from Misty?"
+          },
+          {
+            "stringId": "1905587155719708672",
+            "femaleVariant": "Thanks for helping."
+          },
+          {
+            "stringId": "1905587320455192576",
+            "femaleVariant": "Thanks for helpin'."
+          },
+          {
+            "stringId": "1905591141348696064",
+            "femaleVariant": "Return the favor first chance I get."
+          },
+          {
+            "stringId": "1905742358808911872",
+            "femaleVariant": "Got this strange impression your comatose self wanted to get rid of me. Actually put up a good fight."
+          },
+          {
+            "stringId": "1905759417328492548",
+            "femaleVariant": "Did you want to take the pill?"
+          },
+          {
+            "stringId": "1905761846971359232",
+            "femaleVariant": "Caught you red-handed."
+          },
+          {
+            "stringId": "1905762272038903808",
+            "femaleVariant": "I gotcha – no talkin' your way outta this one. You wanted to pop the pill."
+          },
+          {
+            "stringId": "1905762325910544384",
+            "femaleVariant": "Did you wanna pop the pill?"
+          },
+          {
+            "stringId": "1905763793161969664",
+            "femaleVariant": "Cool your chrome. If I'd wanted full control, I'd have taken it already, lots earlier."
+          },
+          {
+            "stringId": "1905765737943293952",
+            "femaleVariant": "Gonna pretend you didn't say that."
+          },
+          {
+            "stringId": "1905766976521265152",
+            "femaleVariant": "Oh fuck off, I know what you are."
+          },
+          {
+            "stringId": "1905767696750370816",
+            "femaleVariant": "Hey! I saved your ass, got you outta harm's way, and you're still gonna doubt my intentions?"
+          },
+          {
+            "stringId": "1905768607149219844",
+            "femaleVariant": "Stopped you in the nick of time."
+          },
+          {
+            "stringId": "1905769277684211712",
+            "femaleVariant": "Think doubts crept in."
+          },
+          {
+            "stringId": "1905769514041630720",
+            "femaleVariant": "I believe you."
+          },
+          {
+            "stringId": "1905769773467721728",
+            "femaleVariant": "Think I woke up, derailed your plan in the nick of time."
+          },
+          {
+            "stringId": "1905769901612097536",
+            "femaleVariant": "Had doubts. Just when you were gonna drop 'em, your conscience poked you in the gut.",
+            "maleVariant": "Had doubts. Just when you were gonna drop them, your conscience poked you in the gut."
+          },
+          {
+            "stringId": "1905779147384840192",
+            "femaleVariant": "And I think fear of death's got you spewin' misdirected anger."
+          },
+          {
+            "stringId": "1905782146362531840",
+            "femaleVariant": "So Johnny Silverhand's got a conscience after all."
+          },
+          {
+            "stringId": "1905783793784479744",
+            "femaleVariant": "Christ, can we just drop it?"
+          },
+          {
+            "stringId": "1905785153946935296",
+            "femaleVariant": "OK, I believe you."
+          },
+          {
+            "stringId": "1905785752574779392",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1905787725088841732",
+            "femaleVariant": "Why you givin' them to me?"
+          },
+          {
+            "stringId": "1905789492635656192",
+            "femaleVariant": "Wanted to show you somethin', c'mon."
+          },
+          {
+            "stringId": "1905795529480626176",
+            "femaleVariant": "Did you really want to take the meds from Misty?"
+          },
+          {
+            "stringId": "1905796694775717888",
+            "femaleVariant": "What are imaginary friends for?"
+          },
+          {
+            "stringId": "1905798773355339780",
+            "femaleVariant": "Think I'm gonna die soon."
+          },
+          {
+            "stringId": "1905799204647231488",
+            "femaleVariant": "They from the Mexican conflict?"
+          },
+          {
+            "stringId": "1905805044208918528",
+            "femaleVariant": "I'll, uh, get you back someday."
+          },
+          {
+            "stringId": "1905805974874644480",
+            "femaleVariant": "Hold you to that."
+          },
+          {
+            "stringId": "1905806375917215748",
+            "femaleVariant": "Think I'm gonna die soon."
+          },
+          {
+            "stringId": "1905806633095159808",
+            "femaleVariant": "Thinking of sex, aren't you?"
+          },
+          {
+            "stringId": "1905807778458918912",
+            "femaleVariant": "Your first thought was sex, wasn't it?"
+          },
+          {
+            "stringId": "1905808404735614976",
+            "femaleVariant": "Well, technically, we'd be jackin' off. But, nah, you're not my type."
+          },
+          {
+            "stringId": "1905811364051968000",
+            "femaleVariant": "There's a hidey-hole where I'm standin'. Open it. Empty it."
+          },
+          {
+            "stringId": "1905812496983810052",
+            "femaleVariant": "[Open compartment]"
+          },
+          {
+            "stringId": "1905812780183216128",
+            "femaleVariant": "These yours?"
+          },
+          {
+            "stringId": "1905813054339702784",
+            "femaleVariant": "They were – belong to you now."
+          },
+          {
+            "stringId": "1905815453196378112",
+            "femaleVariant": "Huh, fifty years back... uh, Mexican conflict?",
+            "maleVariant": "Huh, fifty years back... Mexican conflict?"
+          },
+          {
+            "stringId": "1905816495665471488",
+            "femaleVariant": "When I was a young pissbrain like you, I enlisted with a corp army."
+          },
+          {
+            "stringId": "1905816971349876736",
+            "femaleVariant": "Was in Mexico when I realized that no matter the conflict, corps always win. Ordinary people always lose."
+          },
+          {
+            "stringId": "1905817266343665664",
+            "femaleVariant": "So, that the truth you decided to reveal in song?"
+          },
+          {
+            "stringId": "1905817350145859584",
+            "femaleVariant": "Well, deserted first. Wound up here, locked in this room. Laid in bed staring at the ceiling fan for a good month."
+          },
+          {
+            "stringId": "1905854141607469056",
+            "femaleVariant": "Egh, I wouldn't mind lyin' down right now, watchin' a fan until the end of time…",
+            "maleVariant": "Egh, I wouldn't mind lyin' down right now, watchin' a fan till the end of time…"
+          },
+          {
+            "stringId": "1905854950957146112",
+            "femaleVariant": "Wastin' days, weeks – that's the step I want you to skip."
+          },
+          {
+            "stringId": "1905856009012273152",
+            "femaleVariant": "Why you givin' me these?"
+          },
+          {
+            "stringId": "1905856704075554820",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "1905856921541828608",
+            "femaleVariant": "Imagine we're deployed together, fightin' in a war side by side…"
+          },
+          {
+            "stringId": "1905858466639536128",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "1905858575121014784",
+            "femaleVariant": "Dunno."
+          },
+          {
+            "stringId": "1905859151015731200",
+            "femaleVariant": "I would, yeah."
+          },
+          {
+            "stringId": "1905859248810123264",
+            "femaleVariant": "No... I wouldn't."
+          },
+          {
+            "stringId": "1905859326236975104",
+            "femaleVariant": "I... I dunno."
+          },
+          {
+            "stringId": "1905859458525323264",
+            "femaleVariant": "Dumb question."
+          },
+          {
+            "stringId": "1905859650137907200",
+            "femaleVariant": "Dumbass question…"
+          },
+          {
+            "stringId": "1905861055347187712",
+            "femaleVariant": "Tags belonged to a man who sacrificed his life for mine in Mexico."
+          },
+          {
+            "stringId": "1905863214205788160",
+            "femaleVariant": "Been thinkin' about our predicament…"
+          },
+          {
+            "stringId": "1905864164869955584",
+            "femaleVariant": "Wanna be clear – I will do you no wrong. When the time comes, it'll be my life for yours, I'll agree to get wiped."
+          },
+          {
+            "stringId": "1905865422389403648",
+            "femaleVariant": "Tags are proof of my promise."
+          },
+          {
+            "stringId": "1905865876951293952",
+            "femaleVariant": "I'd do the same for you."
+          },
+          {
+            "stringId": "1905868585364381696",
+            "femaleVariant": "I... I'd do the same for you."
+          },
+          {
+            "stringId": "1905868679618781184",
+            "femaleVariant": "Kind gesture, I guess, but you can't really give me something I already have."
+          },
+          {
+            "stringId": "1905879287953121280",
+            "femaleVariant": "Body's always been mine."
+          },
+          {
+            "stringId": "1911095734761447424",
+            "femaleVariant": "Would you take a bullet for me?"
+          },
+          {
+            "stringId": "1911097118814658560",
+            "femaleVariant": "Yes or no?"
+          },
+          {
+            "stringId": "1911181482625884160",
+            "femaleVariant": "It's why I brought you here."
+          },
+          {
+            "stringId": "1911245960671420416",
+            "femaleVariant": "Body's mine, always has been. It is my decision, not an intruder's.",
+            "maleVariant": "Body's mine, always has been. It's my decision, not an intruder's."
+          },
+          {
+            "stringId": "1911303970160664576",
+            "femaleVariant": "Not true."
+          },
+          {
+            "stringId": "1911304362311311360",
+            "femaleVariant": "That ain't true."
+          },
+          {
+            "stringId": "1911343588230848512",
+            "femaleVariant": "Feelin' better. Should get goin'."
+          },
+          {
+            "stringId": "1911345390472945664",
+            "femaleVariant": "Still feel a sharp somethin' near your heart."
+          },
+          {
+            "stringId": "1911346624739172352",
+            "femaleVariant": "Doubt that's ever goin' away."
+          },
+          {
+            "stringId": "1911347338794262528",
+            "femaleVariant": "The Hotel Pistis Sophia – that right?"
+          },
+          {
+            "stringId": "1911348527174803456",
+            "femaleVariant": "Just not today."
+          },
+          {
+            "stringId": "1911348865671913472",
+            "femaleVariant": "Mhm. Good place to die."
+          },
+          {
+            "stringId": "1955066068768718848",
+            "femaleVariant": "\"Hey, Satan kicked me outta hell, thought I'd swing by.\""
+          },
+          {
+            "stringId": "1955066210301313024",
+            "femaleVariant": "\"Hey, just busted out of soul prison. Check out my new ass.\""
+          },
+          {
+            "stringId": "1956059203080052736",
+            "femaleVariant": "Answer me."
+          },
+          {
+            "stringId": "1969065519484710912",
+            "femaleVariant": "[Enter through window]"
+          },
+          {
+            "stringId": "2014060381025624064",
+            "femaleVariant": "Climb through the window. Can manage that, I think."
+          },
+          {
+            "stringId": "2014079717001945088",
+            "femaleVariant": "Let's not talk on it anymore for now, 'kay?"
+          },
+          {
+            "stringId": "2014080431610683392",
+            "femaleVariant": "Yeah, thanks."
+          },
+          {
+            "stringId": "2014088402868658176",
+            "femaleVariant": "You wanted to know why I brought you here."
+          },
+          {
+            "stringId": "2018587550526754816",
+            "femaleVariant": "Suddenly remember Smasher, huh?"
+          },
+          {
+            "stringId": "2018588018258759680",
+            "femaleVariant": "Seriously? Smasher? He suddenly comes to mind?"
+          },
+          {
+            "stringId": "2018588756221382656",
+            "femaleVariant": "Last time we saw him, we--"
+          },
+          {
+            "stringId": "2018589496969023488",
+            "femaleVariant": "Didn't have a chance to say hello. That's why we gotta find him. Finally end this."
+          },
+          {
+            "stringId": "2061785429834412036",
+            "femaleVariant": "Musta been nice… to have control of your faculties again?"
+          },
+          {
+            "stringId": "2061866634848186372",
+            "femaleVariant": "Ugh, stop fakin' it."
+          }
+        ]
+      }
+
+
+

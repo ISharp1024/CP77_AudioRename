@@ -1,0 +1,506 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1530133159572402176",
+            "femaleVariant": "The cavalry has arrived. Mitch gathered together a few Aldecaldos."
+          },
+          {
+            "stringId": "1530151565738635264",
+            "femaleVariant": "The road was clear. I don't think we were spotted. We would still do better not hang around too long."
+          },
+          {
+            "stringId": "1560376755230875652",
+            "femaleVariant": "[Lean Hellman against bike]"
+          },
+          {
+            "stringId": "1641948515690893316",
+            "femaleVariant": "Just need to ask him a few questions."
+          },
+          {
+            "stringId": "1641953883494043648",
+            "femaleVariant": "Just gotta ask him a few important questions."
+          },
+          {
+            "stringId": "1641954543341948928",
+            "femaleVariant": "The less you know, the better."
+          },
+          {
+            "stringId": "1641954791141429248",
+            "femaleVariant": "Saul."
+          },
+          {
+            "stringId": "1641956783150616576",
+            "femaleVariant": "It's a long story."
+          },
+          {
+            "stringId": "1641957218620035072",
+            "femaleVariant": "Trust me – the less you know, the better."
+          },
+          {
+            "stringId": "1641957680463237120",
+            "femaleVariant": "Sheesh, long story. Not sure I'd even know where to start."
+          },
+          {
+            "stringId": "1641960289068666880",
+            "femaleVariant": "I sure hope you get some important answers."
+          },
+          {
+            "stringId": "1641961300181143552",
+            "femaleVariant": "Tell me next time, then."
+          },
+          {
+            "stringId": "1641968681384431616",
+            "femaleVariant": "Everything's done here. All clear."
+          },
+          {
+            "stringId": "1641969249276416000",
+            "femaleVariant": "I heard Mitch is alive thanks to you."
+          },
+          {
+            "stringId": "1641969529204264960",
+            "femaleVariant": "I just hope he was worth it."
+          },
+          {
+            "stringId": "1641970360548872196",
+            "femaleVariant": "Thanks for your help."
+          },
+          {
+            "stringId": "1641970686832168960",
+            "femaleVariant": "Saul, I tried to raise Scorpion, but he…"
+          },
+          {
+            "stringId": "1641971489638731776",
+            "femaleVariant": "It really wasn't Panam's fault."
+          },
+          {
+            "stringId": "1641971930929844224",
+            "femaleVariant": "Look, Saul, it really wasn't Panam's fault."
+          },
+          {
+            "stringId": "1641972056507305984",
+            "femaleVariant": "Thanks for the support."
+          },
+          {
+            "stringId": "1641973953171574784",
+            "femaleVariant": "You helped us, we help you."
+          },
+          {
+            "stringId": "1641974972337115136",
+            "femaleVariant": "Careful, you and me are not buddy-buddy. Besides, nobody's blamed anyone for anything – yet."
+          },
+          {
+            "stringId": "1672053616975564800",
+            "femaleVariant": "Is that him?"
+          },
+          {
+            "stringId": "1672065560642080768",
+            "femaleVariant": "What do you plan to do with him?"
+          },
+          {
+            "stringId": "1699343313190645760",
+            "femaleVariant": "Sure is."
+          },
+          {
+            "stringId": "1699343616086503424",
+            "femaleVariant": "Take him outside, toss him on the bike."
+          },
+          {
+            "stringId": "1699441584290525184",
+            "femaleVariant": "Thanks to V and Panam. They both saved my ass."
+          },
+          {
+            "stringId": "1699455307650560000",
+            "femaleVariant": "I think you've helped enough."
+          },
+          {
+            "stringId": "1699456676704940032",
+            "femaleVariant": "Maybe I could help out somehow?"
+          },
+          {
+            "stringId": "1699463914748243968",
+            "femaleVariant": "I tried to stop him!"
+          },
+          {
+            "stringId": "1699469142461640704",
+            "femaleVariant": "Sure. Just turn around now, let it all be damned! You're good at that, aren't you?!"
+          },
+          {
+            "stringId": "1699476316986404864",
+            "femaleVariant": "Have a safe return."
+          },
+          {
+            "stringId": "1699480277248241664",
+            "femaleVariant": "Sure, right!"
+          },
+          {
+            "stringId": "1699480576134344704",
+            "femaleVariant": "Panam was just helpin' me. It was my doin', my fault that AV got hit. Without me, Scorpion and his people wouldn't have gone out to grab it. That's the truth."
+          },
+          {
+            "stringId": "1699482743649988608",
+            "femaleVariant": "When you are an Aldecaldo, you are always responsible for yourself and your people. The circumstances change nothing."
+          },
+          {
+            "stringId": "1699485095127805952",
+            "femaleVariant": "Perhaps Panam should ask herself if she's still an Aldecaldo."
+          },
+          {
+            "stringId": "1699501212428791812",
+            "femaleVariant": "See you, Panam."
+          },
+          {
+            "stringId": "1699501915629023232",
+            "femaleVariant": "What'll you do now?"
+          },
+          {
+            "stringId": "1699503221299081216",
+            "femaleVariant": "Think that's it. Until next time?"
+          },
+          {
+            "stringId": "1699503332481691648",
+            "femaleVariant": "So, what now? Back to Night City?"
+          },
+          {
+            "stringId": "1699504372115435520",
+            "femaleVariant": "Yeah. I mean, I think so."
+          },
+          {
+            "stringId": "1699507374683451392",
+            "femaleVariant": "Maybe you should talk to Saul."
+          },
+          {
+            "stringId": "1699509146877554688",
+            "femaleVariant": "Saul, Mitch – they really treat you like family."
+          },
+          {
+            "stringId": "1699514487048630272",
+            "femaleVariant": "Maybe you should give them a chance?"
+          },
+          {
+            "stringId": "1699515196674535424",
+            "femaleVariant": "It is not that simple."
+          },
+          {
+            "stringId": "1699578414096838656",
+            "femaleVariant": "I have to sit and think... about everything."
+          },
+          {
+            "stringId": "1699580646691303424",
+            "femaleVariant": "Like any family."
+          },
+          {
+            "stringId": "1699719625675763712",
+            "femaleVariant": "I'm also headed out. Take care of Scorpion's bike – it's yours."
+          },
+          {
+            "stringId": "1730146699619987456",
+            "femaleVariant": "They're coming! You have about a minute to get out of there."
+          },
+          {
+            "stringId": "1730148615594831872",
+            "femaleVariant": "They're coming! You got a minute."
+          },
+          {
+            "stringId": "1730149146610495488",
+            "femaleVariant": "Until next time. Take care of Scorpion's bike! It's yours now."
+          },
+          {
+            "stringId": "1730150361935245312",
+            "femaleVariant": "Let's move!"
+          },
+          {
+            "stringId": "1730151544426983424",
+            "femaleVariant": "Let's move!"
+          },
+          {
+            "stringId": "1761829411262951428",
+            "femaleVariant": "What are you doing here?"
+          },
+          {
+            "stringId": "1761830911229947908",
+            "femaleVariant": "Don't worry about Saul."
+          },
+          {
+            "stringId": "1761831662178136076",
+            "femaleVariant": "Glad to see you, Mitch, but... why'd you even come?"
+          },
+          {
+            "stringId": "1761831662178136088",
+            "femaleVariant": "Saul. He came with our people. We took care of the bodies, I told him what happened."
+          },
+          {
+            "stringId": "1761831662178136100",
+            "femaleVariant": "Aaand he told us to up and follow you. He was worried something would happen to you. To Panam."
+          },
+          {
+            "stringId": "1761831662178136112",
+            "femaleVariant": "Saul?"
+          },
+          {
+            "stringId": "1761831662194913280",
+            "femaleVariant": "Look, maybe you two don't see eye-to-eye at the moment, but you're family. And Saul will do anything for family."
+          },
+          {
+            "stringId": "1761831662194913292",
+            "femaleVariant": "The thing is, am I even part of the family anymore…?"
+          },
+          {
+            "stringId": "1761831662194913304",
+            "femaleVariant": "You know you are."
+          },
+          {
+            "stringId": "1761831662194913316",
+            "femaleVariant": "Come back to us."
+          },
+          {
+            "stringId": "1761831662211690512",
+            "femaleVariant": "I understand."
+          },
+          {
+            "stringId": "1761834655837450240",
+            "femaleVariant": "Hey, don't worry about Saul. He'll get over it."
+          },
+          {
+            "stringId": "1761834655837450252",
+            "femaleVariant": "I don't give a damn."
+          },
+          {
+            "stringId": "1761834655854227476",
+            "femaleVariant": "But he gives a damn about you, Panam."
+          },
+          {
+            "stringId": "1761834655854227488",
+            "femaleVariant": "As soon as he heard what had happened, he ordered us to follow you. He was worried something would happen to you."
+          },
+          {
+            "stringId": "1761834655854227500",
+            "femaleVariant": "Saul? That was his...?"
+          },
+          {
+            "stringId": "1761834655854227512",
+            "femaleVariant": "Look, maybe you two don't see eye-to-eye at the moment, but you're family. And Saul will do anything for family."
+          },
+          {
+            "stringId": "1761834655871004676",
+            "femaleVariant": "The thing is, am I even part of the family anymore..."
+          },
+          {
+            "stringId": "1761834655871004688",
+            "femaleVariant": "You know you are."
+          },
+          {
+            "stringId": "1761834655871004700",
+            "femaleVariant": "Come back to us."
+          },
+          {
+            "stringId": "1761834655871004712",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1761834655871004724",
+            "femaleVariant": "I understand."
+          },
+          {
+            "stringId": "1770694735939743744",
+            "femaleVariant": "Stay right there."
+          },
+          {
+            "stringId": "1915491918382260224",
+            "femaleVariant": "Why are you so surprised? Did the sun bake your brain? Unlike you, I don't bail – especially if I've already given my word."
+          },
+          {
+            "stringId": "1915494027446083584",
+            "femaleVariant": "I managed to help Mitch at the wreck, but Scorpion... we didn't make it."
+          },
+          {
+            "stringId": "1955868560841400320",
+            "femaleVariant": "Thanks for the support."
+          },
+          {
+            "stringId": "1955873013095096320",
+            "femaleVariant": "It's a good thing you're here, but... why?"
+          },
+          {
+            "stringId": "1985053416122609664",
+            "femaleVariant": "And everything's all right?"
+          },
+          {
+            "stringId": "1985054071943983104",
+            "femaleVariant": "I took care of it."
+          },
+          {
+            "stringId": "1985057030824128512",
+            "femaleVariant": "You have a safe trip back."
+          },
+          {
+            "stringId": "1985066796355022848",
+            "femaleVariant": "We came with Panam. She didn't want to leave you to fend for yourself, but Saul worried you two would fall into a Kang Tao ambush."
+          },
+          {
+            "stringId": "1985069677154004992",
+            "femaleVariant": "Saul?"
+          },
+          {
+            "stringId": "1985069973087318016",
+            "femaleVariant": "Look, maybe you two don't see eye-to-eye at the moment, but you're family. And Saul will do anything for family."
+          },
+          {
+            "stringId": "1985070380471676928",
+            "femaleVariant": "The thing is, am I even part of the family anymore…?"
+          },
+          {
+            "stringId": "1985070703466639360",
+            "femaleVariant": "You know you are."
+          },
+          {
+            "stringId": "1985071023324262400",
+            "femaleVariant": "Come back to us."
+          },
+          {
+            "stringId": "1985071582760529920",
+            "femaleVariant": "I understand."
+          },
+          {
+            "stringId": "1985076939205505024",
+            "femaleVariant": "As soon as Saul heard you had gone off alone after V, he had us follow you. He was worried something might happen."
+          },
+          {
+            "stringId": "1985085991872491520",
+            "femaleVariant": "Panam?"
+          },
+          {
+            "stringId": "1985088609671835648",
+            "femaleVariant": "I'm sorry."
+          },
+          {
+            "stringId": "1985088882653917184",
+            "femaleVariant": "Yeah, thanks."
+          },
+          {
+            "stringId": "1985088970717523968",
+            "femaleVariant": "That's your guy, right? Get him outside and toss him on a bike."
+          },
+          {
+            "stringId": "1985110388159148060",
+            "femaleVariant": "Think that's it. Until next time?"
+          },
+          {
+            "stringId": "1985110390524735488",
+            "femaleVariant": "They're coming! You have about a minute to get out of there."
+          },
+          {
+            "stringId": "1985110392756105216",
+            "femaleVariant": "Let's move!"
+          },
+          {
+            "stringId": "1985110395004252160",
+            "femaleVariant": "Until next time."
+          },
+          {
+            "stringId": "1985111307282149428",
+            "femaleVariant": "Saul, Mitch – they really treat you like family."
+          },
+          {
+            "stringId": "1985111309463187456",
+            "femaleVariant": "Maybe you should give them a chance?"
+          },
+          {
+            "stringId": "1985111311778443264",
+            "femaleVariant": "It is not that simple."
+          },
+          {
+            "stringId": "1985111314227916800",
+            "femaleVariant": "Like any family."
+          },
+          {
+            "stringId": "1985111316442509312",
+            "femaleVariant": "They're coming! You have about a minute to get out of there."
+          },
+          {
+            "stringId": "1985111318774542336",
+            "femaleVariant": "Let's move!"
+          },
+          {
+            "stringId": "1985111321257570304",
+            "femaleVariant": "Hey, that's my cue, too."
+          },
+          {
+            "stringId": "2150701112294309888",
+            "femaleVariant": "Damn it all."
+          },
+          {
+            "stringId": "2228731043811356672",
+            "femaleVariant": "We've got eyes all around."
+          },
+          {
+            "stringId": "2228732904555606016",
+            "femaleVariant": "Nothing just yet."
+          },
+          {
+            "stringId": "2228735767486853120",
+            "femaleVariant": "Mhm. We'll want to see them coming."
+          },
+          {
+            "stringId": "2230116999491678208",
+            "femaleVariant": "Sorry you had to witness that. Things just get complicated, dramatic sometimes."
+          },
+          {
+            "stringId": "2230121768163667968",
+            "femaleVariant": "But I will manage. And you, you look out for yourself, all right?"
+          },
+          {
+            "stringId": "2230286950475915264",
+            "femaleVariant": "We collected our people's bodies from the crash site. They need to go back to camp."
+          },
+          {
+            "stringId": "2230288155818221568",
+            "femaleVariant": "So the guy – Mitch and Panam came out to rescue him?"
+          },
+          {
+            "stringId": "2231361892591529984",
+            "femaleVariant": "We oughta ghost, too, know what I mean? 'Fore we step on all the local cats' tails, turn 'em all rabid-assed."
+          },
+          {
+            "stringId": "2231363429032194048",
+            "femaleVariant": "Hm, no. Perhaps we should step on tails."
+          },
+          {
+            "stringId": "2231364126259736576",
+            "femaleVariant": "Look who be wound a little tight…"
+          },
+          {
+            "stringId": "2231370699656851456",
+            "femaleVariant": "That is the word. The AV that came down, and Scorpion… it's all related."
+          },
+          {
+            "stringId": "2231372757365616640",
+            "femaleVariant": "I had no idea we had landed a contract. So… Saul's out to hit corporations, too?"
+          },
+          {
+            "stringId": "2231373791009894400",
+            "femaleVariant": "To me, all these things seem straight out of step."
+          },
+          {
+            "stringId": "2231374719544913920",
+            "femaleVariant": "Mitch. We should talk to Mitch."
+          }
+        ]
+      }
+
+
+

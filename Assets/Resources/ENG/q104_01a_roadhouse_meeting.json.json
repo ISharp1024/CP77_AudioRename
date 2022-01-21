@@ -1,0 +1,327 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1512452623816089600",
+            "femaleVariant": "Hey."
+          },
+          {
+            "stringId": "1512453644088926208",
+            "femaleVariant": "I'm just checking the suspension. The hydraulics have to be shipshape – we're in for a bumpy ride."
+          },
+          {
+            "stringId": "1512454231358595076",
+            "femaleVariant": "Given our plan any thought?"
+          },
+          {
+            "stringId": "1512455208597872640",
+            "femaleVariant": "And you? Rested?"
+          },
+          {
+            "stringId": "1512456170301448192",
+            "femaleVariant": "Can I help?"
+          },
+          {
+            "stringId": "1523163298707271680",
+            "femaleVariant": "No, you can't. I'll be done soon. The Raffens left her crooked as a bag of snakes."
+          },
+          {
+            "stringId": "1528477524086747136",
+            "femaleVariant": "Get in, V."
+          },
+          {
+            "stringId": "1528477996986134528",
+            "femaleVariant": "V. Get. In. The. Car. You've got to be freezing."
+          },
+          {
+            "stringId": "1528607397304332288",
+            "femaleVariant": "Great. Hop in, it's cold out here."
+          },
+          {
+            "stringId": "1539042075245015040",
+            "femaleVariant": "Did you sleep all right?"
+          },
+          {
+            "stringId": "1547526871483731968",
+            "femaleVariant": "Are you ready to go?"
+          },
+          {
+            "stringId": "1547604425691418624",
+            "femaleVariant": "Can't complain."
+          },
+          {
+            "stringId": "1547610121220706304",
+            "femaleVariant": "And you? Reasonably rested?"
+          },
+          {
+            "stringId": "1547610310450925568",
+            "femaleVariant": "I think you had nightmares. You screamed a few times."
+          },
+          {
+            "stringId": "1551827442671865856",
+            "femaleVariant": "Born that way."
+          },
+          {
+            "stringId": "1675126255519395840",
+            "femaleVariant": "'Member, need Hellman alive, unharmed. Gotta try not to blow the AV to bits, OK?"
+          },
+          {
+            "stringId": "1675126255519395852",
+            "femaleVariant": "I know. But I'd say your man had best be buckled in. This idea... if it works, he'll be in for a rough landing."
+          },
+          {
+            "stringId": "1689356933433782272",
+            "femaleVariant": "Satwave power station?"
+          },
+          {
+            "stringId": "1689356933433782288",
+            "femaleVariant": "Why's the AV gotta come down there?"
+          },
+          {
+            "stringId": "1689356933500891136",
+            "femaleVariant": "Why down the AV there, at that exact spot?"
+          },
+          {
+            "stringId": "1689356933517668356",
+            "femaleVariant": "Because once it's on the ground, we'll have to locate it and grab your target. As fast as we can."
+          },
+          {
+            "stringId": "1689356933718994944",
+            "femaleVariant": "Um, satwave power station?"
+          },
+          {
+            "stringId": "1689382094224617472",
+            "femaleVariant": "And the terrain there is typical California desert – flat, dry and empty. They'll be a big old sitting duck."
+          },
+          {
+            "stringId": "1689385219182424064",
+            "femaleVariant": "And then we strike. We hit the AV with an EMP."
+          },
+          {
+            "stringId": "1689387793629442048",
+            "femaleVariant": "As soon as the AV is in range, we cause an electromagnetic pulse. The on-board electronics should fail outright."
+          },
+          {
+            "stringId": "1689388127294713856",
+            "femaleVariant": "'Course we do."
+          },
+          {
+            "stringId": "1689389486098214912",
+            "femaleVariant": "Meaning what? Engines'll shut down?"
+          },
+          {
+            "stringId": "1689389879876251648",
+            "femaleVariant": "Everything will shut down, engines included. Drive, navigation, communication systems…"
+          },
+          {
+            "stringId": "1689393241157922820",
+            "femaleVariant": "[Step away] Well, let's get to work."
+          },
+          {
+            "stringId": "1689393641026088960",
+            "femaleVariant": "AV'll fly over the power station, we're sure of that?"
+          },
+          {
+            "stringId": "1689465749282353152",
+            "femaleVariant": "Hello."
+          },
+          {
+            "stringId": "1689473120704524288",
+            "femaleVariant": "Really?"
+          },
+          {
+            "stringId": "1689477779603189760",
+            "femaleVariant": "Don't worry, I'm accustomed to that sort of thing. When Mitch and Scorpion came back from the war, they tossed and turned night after night. For months this went on."
+          },
+          {
+            "stringId": "1689543672756563968",
+            "femaleVariant": "All right. Let's ride."
+          },
+          {
+            "stringId": "1689544924252991488",
+            "femaleVariant": "Aren't you, um, counting chickens? We can't actually know the AV'll fly over the station."
+          },
+          {
+            "stringId": "1689561976481116160",
+            "femaleVariant": "Yes. We need to break into it."
+          },
+          {
+            "stringId": "1689566232172949504",
+            "femaleVariant": "Mhm, so far so good. But then what?"
+          },
+          {
+            "stringId": "1689574763991265280",
+            "femaleVariant": "So we're taking the EMP route?"
+          },
+          {
+            "stringId": "1689575747354226688",
+            "femaleVariant": "Power station? Wait, you wanna use an EMP?"
+          },
+          {
+            "stringId": "1689576180458057728",
+            "femaleVariant": "Bullseye."
+          },
+          {
+            "stringId": "1689576671258734592",
+            "femaleVariant": "But... how? We can't generate that sort of pulse on command."
+          },
+          {
+            "stringId": "1689577557095739392",
+            "femaleVariant": "Would you like to bet me?"
+          },
+          {
+            "stringId": "1689578809330364416",
+            "femaleVariant": "We drive up to the power collection unit, break in and override the controls, lift any limiters."
+          },
+          {
+            "stringId": "1689580163251695616",
+            "femaleVariant": "As soon as the AV is in range, we set off the electromagnetic turbopulse. This should smoke the AV's systems."
+          },
+          {
+            "stringId": "1689580512234565632",
+            "femaleVariant": "So the drive, navsystems..."
+          },
+          {
+            "stringId": "1689581211609591808",
+            "femaleVariant": "...communications. Everything, out like a light. They won't stand a chance in hell!"
+          },
+          {
+            "stringId": "1692119039451197440",
+            "femaleVariant": "And you? Sleep well?"
+          },
+          {
+            "stringId": "1692119838952648704",
+            "femaleVariant": "Like a baby on a bumpy road."
+          },
+          {
+            "stringId": "1692129866157780992",
+            "femaleVariant": "That ol' HMG of yours?"
+          },
+          {
+            "stringId": "1692130243527700480",
+            "femaleVariant": "My gun will be useful elsewhere. This caliber would barely dent the armor of a heavy hitter like that."
+          },
+          {
+            "stringId": "1692130495437598720",
+            "femaleVariant": "There are other ways. Here – the clamp's our solution. A satwave power station."
+          },
+          {
+            "stringId": "1692173873382551552",
+            "femaleVariant": "It's bound to be quite a ride, but not one you'll regret. I've got everything planned out."
+          },
+          {
+            "stringId": "1719592578722689024",
+            "femaleVariant": "Of course, we can't. But we don't have to. You'll see."
+          },
+          {
+            "stringId": "1755958112958263300",
+            "femaleVariant": "Hey, Panam."
+          },
+          {
+            "stringId": "1755991070406586388",
+            "femaleVariant": "We're the wrench. The cutter is the AV. And the screwdriver is where the AV should bury its nose cone in the dust."
+          },
+          {
+            "stringId": "1755991070406586404",
+            "femaleVariant": "Now, you must be wondering how we get the AV to do that."
+          },
+          {
+            "stringId": "1755993001967464448",
+            "femaleVariant": "Look here."
+          },
+          {
+            "stringId": "1755993718203592704",
+            "femaleVariant": "Are you interested in hearing this?"
+          },
+          {
+            "stringId": "1755993769038557184",
+            "femaleVariant": "V? I thought we needed to do this quickly."
+          },
+          {
+            "stringId": "1756016306829111296",
+            "femaleVariant": "Need a hand?"
+          },
+          {
+            "stringId": "1761870150437040128",
+            "femaleVariant": "Come up with anything? For Hellman, I mean."
+          },
+          {
+            "stringId": "1761870667410173952",
+            "femaleVariant": "As a matter of fact, I did."
+          },
+          {
+            "stringId": "1764686089490657280",
+            "femaleVariant": "Whatever it is, it'll pass."
+          },
+          {
+            "stringId": "1764686362791505920",
+            "femaleVariant": "Uh-huh... let's hope so.",
+            "maleVariant": "Yeah... let's hope so."
+          },
+          {
+            "stringId": "1766037487967776772",
+            "femaleVariant": "[Lean in] OK, hit me with it."
+          },
+          {
+            "stringId": "1766040499511603200",
+            "femaleVariant": "OK, tell me."
+          },
+          {
+            "stringId": "1790747127449251840",
+            "femaleVariant": "Explain it to me again."
+          },
+          {
+            "stringId": "1790773519066984448",
+            "femaleVariant": "Hold up, one more time. Wrench is our car, right?"
+          },
+          {
+            "stringId": "1790774067178631168",
+            "femaleVariant": "Mhm. The cutter is the AV. The screwdriver is where the AV should hit the ground."
+          },
+          {
+            "stringId": "1790783562948669440",
+            "femaleVariant": "And the clamp is the satwave power station. That is, the net we use to bring the AV down."
+          },
+          {
+            "stringId": "1824162883682414592",
+            "femaleVariant": "V? Hello?"
+          },
+          {
+            "stringId": "1824162933980508160",
+            "femaleVariant": "Well, do you have any thoughts?"
+          },
+          {
+            "stringId": "1976311684333694976",
+            "femaleVariant": "'Member, need Hellman in one piece."
+          },
+          {
+            "stringId": "1986286032310104064",
+            "femaleVariant": "It's all settled then, right? You'll be back here at dark."
+          },
+          {
+            "stringId": "2019869092333117444",
+            "femaleVariant": "[Wait for Panam]"
+          },
+          {
+            "stringId": "2373619777174134788",
+            "femaleVariant": "[Get in]"
+          }
+        ]
+      }
+
+
+

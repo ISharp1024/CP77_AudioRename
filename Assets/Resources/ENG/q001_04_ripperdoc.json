@@ -1,0 +1,462 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1009718730310311936",
+            "femaleVariant": "Kiroshi optics. Best I've got and should be about right under the circumstances."
+          },
+          {
+            "stringId": "1009722100668456980",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1147127188256489472",
+            "femaleVariant": "Need some new kit – but tools, not toys, Vik. Time I bumped up my sights and got a grip."
+          },
+          {
+            "stringId": "1147663229031034880",
+            "femaleVariant": "Looking to upgrade."
+          },
+          {
+            "stringId": "1151561049559543808",
+            "femaleVariant": "Chair, please. Siddown, relax."
+          },
+          {
+            "stringId": "1163169593719197696",
+            "femaleVariant": "The Dexter DeShawn? Heheh, well, that is something. But lemme guess – hasn't paid you yet."
+          },
+          {
+            "stringId": "1163174058924904448",
+            "femaleVariant": "Pay you once the job's done."
+          },
+          {
+            "stringId": "1163174354791108608",
+            "femaleVariant": "Quit cryin', Vik, I'll bring you the eddies later, with interest. You know I will.",
+            "maleVariant": "Quit cryin', Vik. I'll bring you the eddies later. With interest. You know I will."
+          },
+          {
+            "stringId": "1174774624411668480",
+            "femaleVariant": "Vik, shit's gettin' real. Got a job from Dex DeShawn – hittin' the major leagues. Need tech that can perform."
+          },
+          {
+            "stringId": "1174777272057679872",
+            "femaleVariant": "Vik... this job's my golden ticket. I'm talkin' life changing. Without the right tech, I…",
+            "maleVariant": "Vik, this job's my golden ticket. I'm talkin' life changin'. Without gettin' the right tech, I…"
+          },
+          {
+            "stringId": "1174777680029241344",
+            "femaleVariant": "Take my car in exchange."
+          },
+          {
+            "stringId": "1174814694711709696",
+            "femaleVariant": "MK1, like I said. Decent enough scanner. Displays data on your cornea. Cherry on the top's a built-in external lens disruptor."
+          },
+          {
+            "stringId": "1174814808226353168",
+            "femaleVariant": "Hmm... This should do the trick. Talks to Kiroshi tech, too."
+          },
+          {
+            "stringId": "1174821476213411840",
+            "femaleVariant": "OK, let's test this, see the magic in action. Linking you in."
+          },
+          {
+            "stringId": "1174821619943821328",
+            "femaleVariant": "I'm ready. Carve away."
+          },
+          {
+            "stringId": "1174830077053194240",
+            "femaleVariant": "Better than ever."
+          },
+          {
+            "stringId": "1174830429408284672",
+            "femaleVariant": "Whoa, this is fantastic, Vik."
+          },
+          {
+            "stringId": "1174830470797676544",
+            "femaleVariant": "Now, a bit of anesthetic and I can start cutting."
+          },
+          {
+            "stringId": "1174831259645595648",
+            "femaleVariant": "Haha, beautiful. Time for the scanner."
+          },
+          {
+            "stringId": "1174832309697990656",
+            "femaleVariant": "Feels like I'm at the dentist's."
+          },
+          {
+            "stringId": "1174832779208380416",
+            "femaleVariant": "Play by play, though? Really, doc? Makes you sound like a dentist – always goin' on and on…"
+          },
+          {
+            "stringId": "1174833521902178304",
+            "femaleVariant": "Don't be mean, now. 'Member, I'm old. I got a shaky, 'ganic hand. Could slip."
+          },
+          {
+            "stringId": "1174833797635723264",
+            "femaleVariant": "Feel anything?"
+          },
+          {
+            "stringId": "1174835892422135808",
+            "femaleVariant": "Now draw your weapon. You should see your ammo count and a brand new sight."
+          },
+          {
+            "stringId": "1174836816628633600",
+            "femaleVariant": "Thanks, Vik."
+          },
+          {
+            "stringId": "1174837211765624832",
+            "femaleVariant": "Shit, Viktor, not bad. I dunno what to say."
+          },
+          {
+            "stringId": "1174837565764882432",
+            "femaleVariant": "Say you'll take this and remember the dosage. Two whiffs now and another two in an hour."
+          },
+          {
+            "stringId": "1174838562415398912",
+            "femaleVariant": "[Stand] Thanks, Vik. You're the best."
+          },
+          {
+            "stringId": "1174838871955034112",
+            "femaleVariant": "What's this?"
+          },
+          {
+            "stringId": "1174839369164607488",
+            "femaleVariant": "What'm I lookin' at?"
+          },
+          {
+            "stringId": "1174839691874357248",
+            "femaleVariant": "You're the best, Vik. I owe you."
+          },
+          {
+            "stringId": "1174839959168962560",
+            "femaleVariant": "A mild stim. Should boost neurotransmission in the short term and muffle some of the side effects while the implant takes."
+          },
+          {
+            "stringId": "1174840999440240640",
+            "femaleVariant": "Hahahaha… Go on, kid. Show 'em what you're made of."
+          },
+          {
+            "stringId": "1174905018360016896",
+            "femaleVariant": "Viky, spry as ever, you old ripper. Good to see you.",
+            "maleVariant": "Viky, spry as ever, you old ripper. It's good to see you."
+          },
+          {
+            "stringId": "1174906652108533760",
+            "femaleVariant": "Good to see you too, V. It's been a while. To what do I owe the pleasure today?"
+          },
+          {
+            "stringId": "1174912286149324800",
+            "femaleVariant": "Eeexcellent. Let's do this."
+          },
+          {
+            "stringId": "1174912586092392448",
+            "femaleVariant": "Heh. Lay that major league arm of yours right here."
+          },
+          {
+            "stringId": "1176795111177637888",
+            "femaleVariant": "It might take you a few seconds to adjust, but… first time's rarely the charm, with anything, really. Scanner should eventually sync with your thought processes an' read your intentions."
+          },
+          {
+            "stringId": "1176820016082374656",
+            "femaleVariant": "Heheheheh. Really? Now? Finally?"
+          },
+          {
+            "stringId": "1185138270639017984",
+            "femaleVariant": "And once you hit the big leagues, don't forget where you came from."
+          },
+          {
+            "stringId": "1193787957690273812",
+            "femaleVariant": "[Place arm]"
+          },
+          {
+            "stringId": "1193789324848828416",
+            "femaleVariant": "Just like that. Thanks."
+          },
+          {
+            "stringId": "1193858959724023808",
+            "femaleVariant": "Heheheheh. It oughta work like a charm…"
+          },
+          {
+            "stringId": "1193974764791336960",
+            "femaleVariant": "Lights out for a minute, all right?"
+          },
+          {
+            "stringId": "1193977745397977088",
+            "femaleVariant": "You might feel a little discomfort at first. Blurred vision, low contrast, glitches…"
+          },
+          {
+            "stringId": "1196688739576516608",
+            "femaleVariant": "Malone drops his guard. Hah – you can see the fatigue on him. It's-it's-it's really startin' to weigh him down, startin' to take over!"
+          },
+          {
+            "stringId": "1196692848501264384",
+            "femaleVariant": "Oh-ho-hoh! That musta hurt! Wow! Malone's in the corner, he's lookin' for a way out. Just-just lookin' for a breather, here! Tha-- That was the hardest punch of the round, no doubt!"
+          },
+          {
+            "stringId": "1196694834453876736",
+            "femaleVariant": "Malone is on the ropes! Malone is in trouble! And... there's the end of the round! Saved by the bell!"
+          },
+          {
+            "stringId": "1196695414710669312",
+            "femaleVariant": "Hernandez keepin' him cornered with excellent footwork, those Zetatech calves of his just shining!"
+          },
+          {
+            "stringId": "1196698551362195456",
+            "femaleVariant": "Hernandez pounces on the chance, comin' in with a couple of hooks! Gainin' the upper hand pretty darn quickly!"
+          },
+          {
+            "stringId": "1214187510669447168",
+            "femaleVariant": "Now jack in."
+          },
+          {
+            "stringId": "1215693690470338560",
+            "femaleVariant": "That's it?"
+          },
+          {
+            "stringId": "1215694098475454464",
+            "femaleVariant": "What about the virus?"
+          },
+          {
+            "stringId": "1218472226215727104",
+            "femaleVariant": "You peruse and choose while I scan. See what's goin' on inside."
+          },
+          {
+            "stringId": "1218475025678766080",
+            "femaleVariant": "[Jack in]"
+          },
+          {
+            "stringId": "1222464861620178944",
+            "femaleVariant": "Well, how's it look? Feel all right to you?"
+          },
+          {
+            "stringId": "1222787449716674560",
+            "femaleVariant": "Heard of Dexter DeShawn?"
+          },
+          {
+            "stringId": "1244449902516539392",
+            "femaleVariant": "[Draw weapon]"
+          },
+          {
+            "stringId": "1252936675483750400",
+            "femaleVariant": "Kiroshi! That's top-shelf tech."
+          },
+          {
+            "stringId": "1252941575622004736",
+            "femaleVariant": "What's new in the life of Viktor?"
+          },
+          {
+            "stringId": "1265975407413596160",
+            "femaleVariant": "Nothing."
+          },
+          {
+            "stringId": "1344252293627924480",
+            "femaleVariant": "OK, let's test this, see the magic in action. Linking you in."
+          },
+          {
+            "stringId": "1344252293644701704",
+            "femaleVariant": "You might feel a little discomfort at first. Blurred vision, low contrast, glitches…"
+          },
+          {
+            "stringId": "1344252293644701720",
+            "femaleVariant": "Well, how's it look? Feel all right to you?"
+          },
+          {
+            "stringId": "1379332848001757184",
+            "femaleVariant": "Just like that. Thanks."
+          },
+          {
+            "stringId": "1379332848001757200",
+            "femaleVariant": "Now, a bit of anesthetic and I can start cutting."
+          },
+          {
+            "stringId": "1379332848001757216",
+            "femaleVariant": "Feel anything?"
+          },
+          {
+            "stringId": "1379352138713149440",
+            "femaleVariant": "Thanks again, Vik, you're the best. I owe you."
+          },
+          {
+            "stringId": "1379352138729926672",
+            "femaleVariant": "Hahahaha… Go on, kid. Show 'em what you're made of."
+          },
+          {
+            "stringId": "1379352138729926688",
+            "femaleVariant": "And once you hit the big leagues, don't forget where you came from."
+          },
+          {
+            "stringId": "1631285549550465024",
+            "femaleVariant": "Last gig – had to jack into a client's neurosocket… Think I mighta gotten spiked."
+          },
+          {
+            "stringId": "1631286212502155264",
+            "femaleVariant": "Experiencing migraines, nausea, hypersensitivity to bright lights?"
+          },
+          {
+            "stringId": "1631286612957523968",
+            "femaleVariant": "Whole kit and kaboodle."
+          },
+          {
+            "stringId": "1631288185737637888",
+            "femaleVariant": "All right, kid. We'll sort you out in a flash. 'Sides that, how're things?"
+          },
+          {
+            "stringId": "1631294115644633088",
+            "femaleVariant": "Met a new fixer, gave me a job. Name's Dexter DeShawn.",
+            "maleVariant": "Met a new fixer, he gave me a job. Name's Dexter DeShawn."
+          },
+          {
+            "stringId": "1631295213931524096",
+            "femaleVariant": "Known quantity, from the Afterlife. No denying you're movin' up…"
+          },
+          {
+            "stringId": "1631296505978482688",
+            "femaleVariant": "But? Somethin' you're not tellin' me, Vik?",
+            "maleVariant": "But? Something you're not tellin' me, Vik?"
+          },
+          {
+            "stringId": "1631297470282526720",
+            "femaleVariant": "Keep your guard up, that's all. I've heard some things about Dex. He's not as \"chill\" as he makes himself out to be."
+          },
+          {
+            "stringId": "1631310607782178816",
+            "femaleVariant": "Hmm..."
+          },
+          {
+            "stringId": "1631310853568393216",
+            "femaleVariant": "Last time, you hear?"
+          },
+          {
+            "stringId": "1631311699475623936",
+            "femaleVariant": "My wheels – give 'em to you as collateral. Fifty-eight Quadra Turbo-R series."
+          },
+          {
+            "stringId": "1631314189701017600",
+            "femaleVariant": "Hmm... Fifty-eight, you say? Black?"
+          },
+          {
+            "stringId": "1631314577858686976",
+            "femaleVariant": "As a moonless night."
+          },
+          {
+            "stringId": "1631314805122854912",
+            "femaleVariant": "Don't have the heart to take your baby. Pay me when the job's done."
+          },
+          {
+            "stringId": "1631332891968335872",
+            "femaleVariant": "Same as always – don't feel a thing."
+          },
+          {
+            "stringId": "1631333382030815232",
+            "femaleVariant": "Y'ask me that every time, you know. Not as if things're gonna be any different today.",
+            "maleVariant": "Y'ask me that every time, you know? Not as if things're gonna be any different today."
+          },
+          {
+            "stringId": "1631333628236460032",
+            "femaleVariant": "Sure thing, kid, I mean… not like there's any risk of a stroke or paralysis. But... heh, what do I know? I'm just a doctor…"
+          },
+          {
+            "stringId": "1631334617823768576",
+            "femaleVariant": "That's what I thought."
+          },
+          {
+            "stringId": "1631336592334319616",
+            "femaleVariant": "Seen more dramatic improvements before…"
+          },
+          {
+            "stringId": "1631336592334319632",
+            "femaleVariant": "Patience, kid. Give it a minute. Time for the scanner."
+          },
+          {
+            "stringId": "1631340820847063040",
+            "femaleVariant": "How 'bout the neurovirus, from the last job? Can ya check it?"
+          },
+          {
+            "stringId": "1631359882700451840",
+            "femaleVariant": "Done and gone while we were puttin' in your implant. Ran a full sweep on your soft and circuits. Zapped the critter. You're certified bug-free."
+          },
+          {
+            "stringId": "1631362225118572544",
+            "femaleVariant": "In layman's terms, any surveillance cam'll capture your face as a blur. Now just remember, your body'll still show up as crystal clear."
+          },
+          {
+            "stringId": "1782279395901108224",
+            "femaleVariant": "So… what's new in the life of Viktor Vektor?"
+          },
+          {
+            "stringId": "1782283050683396096",
+            "femaleVariant": "Heh. Er, if I'm bein' honest? Not much. An' that's fine with me."
+          },
+          {
+            "stringId": "1782283673403322368",
+            "femaleVariant": "I used to live in a world where all that mattered was who's who, what's what and how's why."
+          },
+          {
+            "stringId": "1782286508014628864",
+            "femaleVariant": "And what happened?"
+          },
+          {
+            "stringId": "1782286793260855296",
+            "femaleVariant": "One day I just dropped it and never looked back. I'll never be a legend in this town... but been sleeping nights ever since."
+          },
+          {
+            "stringId": "1782294805472014336",
+            "femaleVariant": "Kiroshi? Whoa! Vik, nothing tops that on the market.",
+            "maleVariant": "Kiroshi? Whoa! Vik, nothin' tops that on the market."
+          },
+          {
+            "stringId": "1782295591518138368",
+            "femaleVariant": "Hm. Sounds like it could come in handy, then."
+          },
+          {
+            "stringId": "1782296264519380992",
+            "femaleVariant": "Gave you my word I'd pay you back, but this... might be too rich for my blood."
+          },
+          {
+            "stringId": "1782296587162021888",
+            "femaleVariant": "We'll work something out. Right now, I'm just out to make sure you get back in one piece – eddies in hand."
+          },
+          {
+            "stringId": "1993925586454507520",
+            "femaleVariant": "I also injected an NCPD file search."
+          },
+          {
+            "stringId": "1993925981423726592",
+            "femaleVariant": "Run into any ne'er-do-wells, heh, you'll know exactly what they ne'er-did-well."
+          },
+          {
+            "stringId": "2018698482083098624",
+            "femaleVariant": "Not yet, but I'm good for the eddies anyway. Gotta invest in not fuckin' up this gig.",
+            "maleVariant": "Not yet, but I'm good for the eddies anyway. I gotta invest in not fuckin' up this gig."
+          },
+          {
+            "stringId": "2018700263504670720",
+            "femaleVariant": "Got the money."
+          },
+          {
+            "stringId": "2044575130807132160",
+            "femaleVariant": "[Jack in]"
+          },
+          {
+            "stringId": "2105509637584019460",
+            "femaleVariant": "[Open] Hey, Viktor."
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,296 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1694212777909702656",
+            "femaleVariant": "Shit, we've been made."
+          },
+          {
+            "stringId": "1694213174120435712",
+            "femaleVariant": "All clear."
+          },
+          {
+            "stringId": "1694217290813034496",
+            "femaleVariant": "Way's clear. Wide open."
+          },
+          {
+            "stringId": "1694228032828231680",
+            "femaleVariant": "Anyone know where we are?"
+          },
+          {
+            "stringId": "1695537991092293632",
+            "femaleVariant": "If we look around, we'll find out."
+          },
+          {
+            "stringId": "1734104847813988352",
+            "femaleVariant": "I see something there."
+          },
+          {
+            "stringId": "1734142020990816256",
+            "femaleVariant": "The guards need our attention first."
+          },
+          {
+            "stringId": "1734594634526248960",
+            "femaleVariant": "That was simple."
+          },
+          {
+            "stringId": "1734595116770545664",
+            "femaleVariant": "Too bright. How'm I ever supposed to make it over there on the sly."
+          },
+          {
+            "stringId": "1734595948467474432",
+            "femaleVariant": "Now's our chance."
+          },
+          {
+            "stringId": "1734597141277200384",
+            "femaleVariant": "Leave the lights to me."
+          },
+          {
+            "stringId": "1744666257002352640",
+            "femaleVariant": "Calm and quiet and this might just work."
+          },
+          {
+            "stringId": "1752927916707827712",
+            "femaleVariant": "I wouldn't touch that door."
+          },
+          {
+            "stringId": "1802278602229469184",
+            "femaleVariant": "Quick, before they get their bearings!"
+          },
+          {
+            "stringId": "1802278775135457280",
+            "femaleVariant": "Do your thing, V."
+          },
+          {
+            "stringId": "1802289239403843584",
+            "femaleVariant": "There weren't that many left."
+          },
+          {
+            "stringId": "1913947962244460548",
+            "femaleVariant": "Need to get to an access point."
+          },
+          {
+            "stringId": "1913948107283492864",
+            "femaleVariant": "Where exactly are we?"
+          },
+          {
+            "stringId": "1913948212761849856",
+            "femaleVariant": "How far to Mikoshi?"
+          },
+          {
+            "stringId": "1913954523662643200",
+            "femaleVariant": "Mikoshi – a ways to go, still?"
+          },
+          {
+            "stringId": "1913955307980713984",
+            "femaleVariant": "No. The lab is in the next sector over, but we need to get there first."
+          },
+          {
+            "stringId": "1926210009268244480",
+            "femaleVariant": "V? V!"
+          },
+          {
+            "stringId": "1928418924674134016",
+            "femaleVariant": "Aaargh!"
+          },
+          {
+            "stringId": "1937264761687003136",
+            "femaleVariant": "Great, now everybody knows we've dropped in for a picnic."
+          },
+          {
+            "stringId": "1937266194880679940",
+            "femaleVariant": "Quick and quiet, Q and Q."
+          },
+          {
+            "stringId": "1937270601483571200",
+            "femaleVariant": "They have a whole unit there!"
+          },
+          {
+            "stringId": "1937271506396270592",
+            "femaleVariant": "The whole building's on high alert. Their systems must've picked up the vibrations from the drill."
+          },
+          {
+            "stringId": "1937275770057281536",
+            "femaleVariant": "Hurry up, Saul, they'll be here in no time!"
+          },
+          {
+            "stringId": "1937283578442043392",
+            "femaleVariant": "One second!"
+          },
+          {
+            "stringId": "1937283808726110208",
+            "femaleVariant": "Fuck!"
+          },
+          {
+            "stringId": "1937301141704167428",
+            "femaleVariant": "I'm looking. Give me a sec."
+          },
+          {
+            "stringId": "1937301141720944640",
+            "femaleVariant": "I found one. It's not far. You can jack in your personal there."
+          },
+          {
+            "stringId": "1937301141720944648",
+            "femaleVariant": "I'm sending you the shortest route. But we need to lift this goddamn lockdown first."
+          },
+          {
+            "stringId": "1937305895863865344",
+            "femaleVariant": "Just keep your heads down. Nobody needs to know about our little visit in here."
+          },
+          {
+            "stringId": "1937312875722592260",
+            "femaleVariant": "What now?"
+          },
+          {
+            "stringId": "1937313708291936256",
+            "femaleVariant": "Where exactly are we?"
+          },
+          {
+            "stringId": "1937315842588692480",
+            "femaleVariant": "Plant and services level. And it's where we'll stay if we don't disable security."
+          },
+          {
+            "stringId": "1937317657396924416",
+            "femaleVariant": "What now? Alt's shard – need a port to jack it into."
+          },
+          {
+            "stringId": "1937329849718558724",
+            "femaleVariant": "Where in the hell are we, even?",
+            "maleVariant": "Where in the hell are we even?"
+          },
+          {
+            "stringId": "1937330205932408832",
+            "femaleVariant": "Give me one more second."
+          },
+          {
+            "stringId": "1937330534715510784",
+            "femaleVariant": "We know where we are?"
+          },
+          {
+            "stringId": "1937331435618455552",
+            "femaleVariant": "Plant and services level. Their system's cut us off. We're sitting ducks here."
+          },
+          {
+            "stringId": "1937336646604967936",
+            "femaleVariant": "They have a whole squad there. Convoy security, maybe."
+          },
+          {
+            "stringId": "1937340504894885888",
+            "femaleVariant": "OK, things are a little trickier than we expected."
+          },
+          {
+            "stringId": "1937342255614152704",
+            "femaleVariant": "There any access points? Gotta get to one stat."
+          },
+          {
+            "stringId": "1937454283544612864",
+            "femaleVariant": "Unless you want a horde of Arasaka elites coming down on our heads."
+          },
+          {
+            "stringId": "1937455682915422208",
+            "femaleVariant": "OK, I'm here."
+          },
+          {
+            "stringId": "1937459040606769156",
+            "femaleVariant": "OK, found the shard port."
+          },
+          {
+            "stringId": "1937459042250936320",
+            "femaleVariant": "Get to it, standing by."
+          },
+          {
+            "stringId": "1937489894594859008",
+            "femaleVariant": "Easy does it."
+          },
+          {
+            "stringId": "1937490096089223172",
+            "femaleVariant": "Great. Now let's just try and stay alive!"
+          },
+          {
+            "stringId": "1938452398173974528",
+            "femaleVariant": "[Stand] I'm fine."
+          },
+          {
+            "stringId": "1938452491388186624",
+            "femaleVariant": "[Stand] I'm running out of time."
+          },
+          {
+            "stringId": "1938452566868881408",
+            "femaleVariant": "Got it... under control... Can't stop now."
+          },
+          {
+            "stringId": "1938452756753412096",
+            "femaleVariant": "Time's short... I can feel it. We gotta... hurry..."
+          },
+          {
+            "stringId": "1938454523981459456",
+            "femaleVariant": "She's having another seizure! V, are you OK? Hey!",
+            "maleVariant": "He's having another seizure! V, are you OK? Hey!"
+          },
+          {
+            "stringId": "1938459279852433408",
+            "femaleVariant": "V? You all right?"
+          },
+          {
+            "stringId": "1938469333280354304",
+            "femaleVariant": "V!"
+          },
+          {
+            "stringId": "1938487778201956352",
+            "femaleVariant": "What about an access point? See one nearby? Need a port I can jack Alt's shard into."
+          },
+          {
+            "stringId": "1938488036185206784",
+            "femaleVariant": "Checking…"
+          },
+          {
+            "stringId": "1938500113750683648",
+            "femaleVariant": "Their systems must've detected vibrations under the building when we drilled through. All units are on alert."
+          },
+          {
+            "stringId": "1938502000096964608",
+            "femaleVariant": "Which also means instant cut-off of all passages. We're like rats in a cage, here."
+          },
+          {
+            "stringId": "1938557947045605376",
+            "femaleVariant": "Careful now. It looks like they're clearing out."
+          },
+          {
+            "stringId": "2237983506283909120",
+            "femaleVariant": "V, take care of the sentries. Silently, if you can."
+          },
+          {
+            "stringId": "2238020335813021696",
+            "femaleVariant": "They're dead. All dead."
+          },
+          {
+            "stringId": "2238022268279869440",
+            "femaleVariant": "Alt... it was so simple for her…"
+          },
+          {
+            "stringId": "2238025886689153024",
+            "femaleVariant": "V – go, move. Time is short."
+          },
+          {
+            "stringId": "2238666219035226112",
+            "femaleVariant": "OK, better hope there's a port for Alt's shard, too."
+          }
+        ]
+      }
+
+
+

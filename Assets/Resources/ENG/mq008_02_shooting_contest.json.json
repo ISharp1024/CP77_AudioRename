@@ -1,0 +1,535 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1811060735789395968",
+            "femaleVariant": "Who else wants a shot at Holt? I can't hear you!"
+          },
+          {
+            "stringId": "1811067552674246656",
+            "femaleVariant": "Any more Second Amendment fans in the house? Huh?"
+          },
+          {
+            "stringId": "1811068328637263872",
+            "femaleVariant": "To Gunner!"
+          },
+          {
+            "stringId": "1811079667669692416",
+            "femaleVariant": "Listen up! Gunner wants you all to have a good time. A good fuckin' time!"
+          },
+          {
+            "stringId": "1811157344602714112",
+            "femaleVariant": "So we got a prize for the winner!"
+          },
+          {
+            "stringId": "1811157647683121152",
+            "femaleVariant": "Yeeeaahh! Woo-hooooo!"
+          },
+          {
+            "stringId": "1811168035799724032",
+            "femaleVariant": "Well? Who else wants to try their luck?"
+          },
+          {
+            "stringId": "1811177915247915008",
+            "femaleVariant": "The hell you want?"
+          },
+          {
+            "stringId": "1811179891369078788",
+            "femaleVariant": "What'd you say to me?"
+          },
+          {
+            "stringId": "1811180387404247040",
+            "femaleVariant": "What'd you say?"
+          },
+          {
+            "stringId": "1811182197682630656",
+            "femaleVariant": "Said to fuck off. But I see you didn't catch my drift. Yo, Joe!"
+          },
+          {
+            "stringId": "1811182472828973056",
+            "femaleVariant": "Huh?"
+          },
+          {
+            "stringId": "1811182684255449088",
+            "femaleVariant": "C'mere. We got a smartass punk here, can't seem to find her way out.",
+            "maleVariant": "C'mere. We got a smartass punk here, can't seem to find his way out."
+          },
+          {
+            "stringId": "1811185908601483264",
+            "femaleVariant": "Yeah, we all wanna good laugh, Walker."
+          },
+          {
+            "stringId": "1811222176395849732",
+            "femaleVariant": "I'm in."
+          },
+          {
+            "stringId": "1811222884193038336",
+            "femaleVariant": "What are the rules?"
+          },
+          {
+            "stringId": "1811223176938680320",
+            "femaleVariant": "And the rules of the game?"
+          },
+          {
+            "stringId": "1811225542375141376",
+            "femaleVariant": "Now, this ain't your average shootin' match. You gotta have a good eye... but an even stronger head."
+          },
+          {
+            "stringId": "1811228463925981184",
+            "femaleVariant": "'Cause we all drink a round before each shot. To Gunner, the new boss in town."
+          },
+          {
+            "stringId": "1811231728570888192",
+            "femaleVariant": "Like the sound of that. Anything else I should know?"
+          },
+          {
+            "stringId": "1811232112785911808",
+            "femaleVariant": "Four stations. You shoot at the targets with Holt's face in the time limit. The more bootlickers you pop, the better."
+          },
+          {
+            "stringId": "1811235876603326464",
+            "femaleVariant": "High score so far belongs to Walker – forty three points. You beat him... prize is yours."
+          },
+          {
+            "stringId": "1811248736406499328",
+            "femaleVariant": "Nah, not for me."
+          },
+          {
+            "stringId": "1812339069638832128",
+            "femaleVariant": "Let's shoot the shit outta Holt."
+          },
+          {
+            "stringId": "1812342785842507776",
+            "femaleVariant": "Take this revolver. Use it if you want your shots to count. We're testin' skill, not tech here."
+          },
+          {
+            "stringId": "1812429352669966340",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1812430419432468480",
+            "femaleVariant": "Aackhh..."
+          },
+          {
+            "stringId": "1812431652272631808",
+            "femaleVariant": "Twelve seconds! Go!"
+          },
+          {
+            "stringId": "1812466416409014272",
+            "femaleVariant": "Stop! Time's up! Next station!"
+          },
+          {
+            "stringId": "1812482393955790852",
+            "femaleVariant": "Hey, hey! Vodka first! Then you blast Holt a new one!"
+          },
+          {
+            "stringId": "1812482393972568064",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1812482394006122500",
+            "femaleVariant": "Ughh... The hell's this? Rubbing alcohol?"
+          },
+          {
+            "stringId": "1812482394006122508",
+            "femaleVariant": "Who cares! Shoot! You got twelve seconds!"
+          },
+          {
+            "stringId": "1812482394073231364",
+            "femaleVariant": "Aaaand... Stop! Next station!"
+          },
+          {
+            "stringId": "1813798969942372352",
+            "femaleVariant": "Down the hatch! To Gunner!"
+          },
+          {
+            "stringId": "1813798969959149568",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1813798970194030596",
+            "femaleVariant": "Ooof..."
+          },
+          {
+            "stringId": "1813798970194030604",
+            "femaleVariant": "You got twelve seconds! Go, go, go!"
+          },
+          {
+            "stringId": "1813798970244362244",
+            "femaleVariant": "Stop! Last station!"
+          },
+          {
+            "stringId": "1813803599514464260",
+            "femaleVariant": "One more round! Drink!"
+          },
+          {
+            "stringId": "1813803599531241472",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1813803599548018692",
+            "femaleVariant": "Ugh... So warm..."
+          },
+          {
+            "stringId": "1813803599564795904",
+            "femaleVariant": "What else would it be in this heat? Shoot! Twelve seconds!"
+          },
+          {
+            "stringId": "1813803599615127556",
+            "femaleVariant": "Time's up! That's it! Go check your stats!"
+          },
+          {
+            "stringId": "1813811612094722048",
+            "femaleVariant": "Now let's see..."
+          },
+          {
+            "stringId": "1813818641077137408",
+            "femaleVariant": "Last place. Choom, even Keebler did better."
+          },
+          {
+            "stringId": "1813819526645706752",
+            "femaleVariant": "Fourth place... out of five. Congrats, you beat Keebler."
+          },
+          {
+            "stringId": "1813820147234926592",
+            "femaleVariant": "Third place. Middle of the road."
+          },
+          {
+            "stringId": "1813820561783156736",
+            "femaleVariant": "Second place. Not bad, not bad."
+          },
+          {
+            "stringId": "1813821181818728448",
+            "femaleVariant": "First place. By a landslide. Here... Won it fair and square."
+          },
+          {
+            "stringId": "1813821730215587840",
+            "femaleVariant": "Hahahaha!"
+          },
+          {
+            "stringId": "1813823220669902848",
+            "femaleVariant": "And for the winner... With Gunner's congratulations."
+          },
+          {
+            "stringId": "1813823848657874944",
+            "femaleVariant": "Woo-hooo! N-U-S-A! N-U-S-A!"
+          },
+          {
+            "stringId": "1813823967826440192",
+            "femaleVariant": "And now – let's drink! 6th Street! 6th Street!"
+          },
+          {
+            "stringId": "1813824604840554496",
+            "femaleVariant": "Hahahahah!"
+          },
+          {
+            "stringId": "1813825864289382400",
+            "femaleVariant": "Not bad... For a no-name little punk."
+          },
+          {
+            "stringId": "1813827217422184448",
+            "femaleVariant": "Would ya look at that. The punk is good for something."
+          },
+          {
+            "stringId": "1813827929833107456",
+            "femaleVariant": "The hell?! Not fuckin' possible!"
+          },
+          {
+            "stringId": "1813828078613458944",
+            "femaleVariant": "Not gonna lie, I'm impressed."
+          },
+          {
+            "stringId": "1813828764415717376",
+            "femaleVariant": "Y'know – 6th Street could use a few more shooters like you. I'm sure Gunner'd like to meet ya. Take you under his wing, probably."
+          },
+          {
+            "stringId": "1814199674855387136",
+            "femaleVariant": "Hey! Hey, you! Where do I know you from, huh?"
+          },
+          {
+            "stringId": "1814201720065126400",
+            "femaleVariant": "Wait, I know! I know where I saw you before! You were shooting at us!"
+          },
+          {
+            "stringId": "1814203205167509504",
+            "femaleVariant": "Look, I dunno why you're here or what you want. But I know what you're gonna get! Zero her!",
+            "maleVariant": "Look, I dunno why you're here or what you want. But I know what you're gonna get! Zero him!"
+          },
+          {
+            "stringId": "1822749305994375168",
+            "femaleVariant": "I'm tellin' ya, man... The breeze... Whoosh! Th-threw it all off..."
+          },
+          {
+            "stringId": "1822784389636059136",
+            "femaleVariant": "'Ey! But, but I said, my finger slipped..."
+          },
+          {
+            "stringId": "1822785173182377984",
+            "femaleVariant": "You had your chance, Rudy."
+          },
+          {
+            "stringId": "1822785459200356352",
+            "femaleVariant": "No fuckin' fair..."
+          },
+          {
+            "stringId": "1822789663704903680",
+            "femaleVariant": "I'ma... I'ma throw up..."
+          },
+          {
+            "stringId": "1851869500946042880",
+            "femaleVariant": "That a trick question? This is a party, right?"
+          },
+          {
+            "stringId": "1851871297601327104",
+            "femaleVariant": "Invitation only. For those who bleed red, white and blue. So fuck off."
+          },
+          {
+            "stringId": "1851872227830845440",
+            "femaleVariant": "Chill. Just wanna have some fun."
+          },
+          {
+            "stringId": "1851878785977470976",
+            "femaleVariant": "Whatever. See you."
+          },
+          {
+            "stringId": "1851880163470790656",
+            "femaleVariant": "Chill. Just wanted to have a good time. Drink a beer, smoke."
+          },
+          {
+            "stringId": "1851881437901672448",
+            "femaleVariant": "Whatever. I'm out."
+          },
+          {
+            "stringId": "1851882792779304960",
+            "femaleVariant": "What, you deaf? Fuckin' scram!"
+          },
+          {
+            "stringId": "1851895887916486660",
+            "femaleVariant": "Sorry. I'll be off."
+          },
+          {
+            "stringId": "1851897956698214400",
+            "femaleVariant": "This look like a fuckin' neighborhood picnic to you?"
+          },
+          {
+            "stringId": "1851898662901567488",
+            "femaleVariant": "Choom, you are a little tense. Something wrong? Problems at home?",
+            "maleVariant": "Choom, you're a little tense. Something wrong? Problems at home?"
+          },
+          {
+            "stringId": "1851899460842737664",
+            "femaleVariant": "OK, here's what's gonna happen. You say \"I'm sorry,\" then you fuckin' delta."
+          },
+          {
+            "stringId": "1851900296348094464",
+            "femaleVariant": "Or else I delta you myself. Right to the bottom of the Del Coronado."
+          },
+          {
+            "stringId": "1851900999263113216",
+            "femaleVariant": "Or else what?"
+          },
+          {
+            "stringId": "1851904051776901120",
+            "femaleVariant": "[Draw weapon]"
+          },
+          {
+            "stringId": "1851904780092624896",
+            "femaleVariant": "My bad."
+          },
+          {
+            "stringId": "1851905054500769792",
+            "femaleVariant": "Very good. Now get out before I change my mind."
+          },
+          {
+            "stringId": "1851905524917129216",
+            "femaleVariant": "Sorry, really sorry..."
+          },
+          {
+            "stringId": "1851907812138209280",
+            "femaleVariant": "But I'm gonna have to shut this party down."
+          },
+          {
+            "stringId": "1851910027821240320",
+            "femaleVariant": "Oh, you're a jokester, huh? You lookin' for a good laugh?"
+          },
+          {
+            "stringId": "1851911361542803456",
+            "femaleVariant": "Such a nice day, everyone havin' a good time. Like a little 4th of July. Be a shame to tell Gunner someone fucked it up, y'know?"
+          },
+          {
+            "stringId": "1851912628172279808",
+            "femaleVariant": "Yeah, I know. Fine."
+          },
+          {
+            "stringId": "1851912858187911168",
+            "femaleVariant": "That's my choom. Go, drink, enjoy yourself. Celebrate that decent score of yours."
+          },
+          {
+            "stringId": "1851922052773367808",
+            "femaleVariant": "Just as I thought. You looked to me like a show-off. Let's see what ya got."
+          },
+          {
+            "stringId": "1851928675596161024",
+            "femaleVariant": "Because...?"
+          },
+          {
+            "stringId": "1851952375343140864",
+            "femaleVariant": "Enough talkin'. Let's shoot."
+          },
+          {
+            "stringId": "1851953600650334208",
+            "femaleVariant": "Go ahead to the first station. We'll start whenever you're ready. Break a leg."
+          },
+          {
+            "stringId": "1853002334221946884",
+            "femaleVariant": "Gunner can jump off a megabuilding."
+          },
+          {
+            "stringId": "1853002749290270720",
+            "femaleVariant": "Thanks, but no thanks."
+          },
+          {
+            "stringId": "1853003197057388544",
+            "femaleVariant": "Gunner can go jump off 'Saka Tower."
+          },
+          {
+            "stringId": "1853003670409760768",
+            "femaleVariant": "You come on our turf. Crash our party. Drink our booze. And now you wanna insult the host?"
+          },
+          {
+            "stringId": "1853004128075436032",
+            "femaleVariant": "This I don't like. How 'bout you, Walker?"
+          },
+          {
+            "stringId": "1853006273428377600",
+            "femaleVariant": "Me neither. Not one fuckin' bit."
+          },
+          {
+            "stringId": "1853006995771412480",
+            "femaleVariant": "I'm flattered, really, but... I gotta say no. Not for me.",
+            "maleVariant": "I'm flattered, really... But I gotta say no. It's not for me."
+          },
+          {
+            "stringId": "1853007563881500672",
+            "femaleVariant": "Understood."
+          },
+          {
+            "stringId": "1853007798628306944",
+            "femaleVariant": "We had a little fun today. Drank together."
+          },
+          {
+            "stringId": "1853008120633413632",
+            "femaleVariant": "But I see you on the street later, it won't make no difference. You're either with us, or against us."
+          },
+          {
+            "stringId": "1853009093292511232",
+            "femaleVariant": "I'll keep that in mind."
+          },
+          {
+            "stringId": "1853014883562737664",
+            "femaleVariant": "I told y'all not to trust that little shit!"
+          },
+          {
+            "stringId": "1902275450387091460",
+            "femaleVariant": "Having yourselves a competition? I want in."
+          },
+          {
+            "stringId": "1902276147178426368",
+            "femaleVariant": "I'm going."
+          },
+          {
+            "stringId": "1902276565870628864",
+            "femaleVariant": "Enjoy your little circle jerk. I'm outta here."
+          },
+          {
+            "stringId": "1902277516232806400",
+            "femaleVariant": "Heh. Don't let us stop ya."
+          },
+          {
+            "stringId": "1902277748647579648",
+            "femaleVariant": "Got some kinda competition goin' on?"
+          },
+          {
+            "stringId": "1902278231059648512",
+            "femaleVariant": "Yup. Lead-spittin' kind."
+          },
+          {
+            "stringId": "1902278622035890176",
+            "femaleVariant": "What? You scared I'd leave you all in the dust?"
+          },
+          {
+            "stringId": "1902279794897506304",
+            "femaleVariant": "I want in."
+          },
+          {
+            "stringId": "1902280437531987968",
+            "femaleVariant": "Shit outta luck. We were about to call it."
+          },
+          {
+            "stringId": "1902281862622269440",
+            "femaleVariant": "Do you know who you're fucking talking to? Hm? I been deployed three times! Three! I fought on the front lines!"
+          },
+          {
+            "stringId": "1902284697653006336",
+            "femaleVariant": "Easy, Walker. What did I say, huh? We're just here to have a good time. You got somethin' to prove, be our guest. Heh, it'll be fun."
+          },
+          {
+            "stringId": "2096676134591631388",
+            "femaleVariant": "Well, come on! Drink!"
+          },
+          {
+            "stringId": "2231852638439981056",
+            "femaleVariant": "Who you tryin' to impress, girl? You don't got the skills, fine. No need to make a damn fool of yourself, too.",
+            "maleVariant": "Who you tryin' to impress, choom? You don't got the skills, fine. No need to make a damn fool of yourself, too."
+          },
+          {
+            "stringId": "2232959424366624768",
+            "femaleVariant": "No no no, just don't go past the line when shooting. Automatic disqualification."
+          },
+          {
+            "stringId": "2232959525482905600",
+            "femaleVariant": "Over the line! Disqualified!"
+          },
+          {
+            "stringId": "2232960083644104708",
+            "femaleVariant": "You cross that line and shoot, you're outta the game!"
+          },
+          {
+            "stringId": "2232960083694436356",
+            "femaleVariant": "Well, bravo, champ! Fun's over for you."
+          },
+          {
+            "stringId": "2232960148269940740",
+            "femaleVariant": "'Ey, toe that line. We don't like cheaters here."
+          },
+          {
+            "stringId": "2232960148320272388",
+            "femaleVariant": "Hey hey, hold it! What, you thought I wouldn't notice?"
+          },
+          {
+            "stringId": "2232960214724493316",
+            "femaleVariant": "Don't forget the line! One toe over and you're gone!"
+          },
+          {
+            "stringId": "2232960214774824964",
+            "femaleVariant": "That's it, you're out! In the home stretch, too!"
+          }
+        ]
+      }
+
+
+

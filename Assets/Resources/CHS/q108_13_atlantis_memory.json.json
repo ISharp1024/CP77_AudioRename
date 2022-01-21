@@ -1,0 +1,386 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1697929369056354304",
+            "femaleVariant": "喂，银手！"
+          },
+          {
+            "stringId": "1697929754093461504",
+            "femaleVariant": "最近怎么样啊，恩格斯？"
+          },
+          {
+            "stringId": "1697930134651052032",
+            "femaleVariant": "你知道和他说话的人是谁。把名字告诉我就行了。"
+          },
+          {
+            "stringId": "1697930488079884288",
+            "femaleVariant": "J.伯西·浩克沃兹？真叫这个名吗？"
+          },
+          {
+            "stringId": "1697932290523308032",
+            "femaleVariant": "三分钟内撤离大楼，就这样。"
+          },
+          {
+            "stringId": "1697932943962316800",
+            "femaleVariant": "不不，那家伙已经不替普罗瑟罗干了。"
+          },
+          {
+            "stringId": "1715768918004375556",
+            "femaleVariant": "罗格也在？"
+          },
+          {
+            "stringId": "1715769593991962624",
+            "femaleVariant": "罗格也来了吗？"
+          },
+          {
+            "stringId": "1715773047615430656",
+            "femaleVariant": "你看见罗格了？"
+          },
+          {
+            "stringId": "1715773047648985088",
+            "femaleVariant": "你看见罗格了吗？"
+          },
+          {
+            "stringId": "1715773495751647232",
+            "femaleVariant": "[把钱付清] 算你走运。"
+          },
+          {
+            "stringId": "1715773800191008768",
+            "femaleVariant": "今儿个算你走运了。"
+          },
+          {
+            "stringId": "1715775770876354560",
+            "femaleVariant": "对，只是…"
+          },
+          {
+            "stringId": "1715776876176121856",
+            "femaleVariant": "她在楼上。"
+          },
+          {
+            "stringId": "1715778533664399360",
+            "femaleVariant": "哈，太客气了。要来一杯吗？"
+          },
+          {
+            "stringId": "1715804245855215616",
+            "femaleVariant": "看看这个，想起来了没有？"
+          },
+          {
+            "stringId": "1715806846474690560",
+            "femaleVariant": "你管什么名呢，能拿到钱不就结了。"
+          },
+          {
+            "stringId": "1715807633527447552",
+            "femaleVariant": "真的，这我真不记得了。"
+          },
+          {
+            "stringId": "1715809102792138752",
+            "femaleVariant": "那就跑快点呀。"
+          },
+          {
+            "stringId": "1715810064445382656",
+            "femaleVariant": "时间不够。冲击波会扫平半径五百码内的所有一切。"
+          },
+          {
+            "stringId": "1715813326892474368",
+            "femaleVariant": "你不用只是，都说私下聊事了，肯定是不想被看见。"
+          },
+          {
+            "stringId": "1715859540119822336",
+            "femaleVariant": "[喝酒]"
+          },
+          {
+            "stringId": "1715869724376473600",
+            "femaleVariant": "[喝酒]"
+          },
+          {
+            "stringId": "1715870036399136768",
+            "femaleVariant": "谁？"
+          },
+          {
+            "stringId": "1732749624989782016",
+            "femaleVariant": "迪·特纳都行，你为什么不行…"
+          },
+          {
+            "stringId": "1732750095842349056",
+            "femaleVariant": "你要请得起迪，就没必要在这儿跟我们费唾沫星子了。"
+          },
+          {
+            "stringId": "1732750727705858048",
+            "femaleVariant": "别扯那些没用的，你只管告诉希德，让他等我们信号，懂了吗？"
+          },
+          {
+            "stringId": "1732757446125228032",
+            "femaleVariant": "你是不是头一回来？我送你一句话吧？"
+          },
+          {
+            "stringId": "1732757867468230656",
+            "femaleVariant": "什么话？"
+          },
+          {
+            "stringId": "1732758116156903424",
+            "femaleVariant": "滚蛋。"
+          },
+          {
+            "stringId": "1732764368018673664",
+            "femaleVariant": "我这儿有张借据，签的是你的名儿。"
+          },
+          {
+            "stringId": "1732768204095557632",
+            "femaleVariant": "好啊，老样子。"
+          },
+          {
+            "stringId": "1732769698911948800",
+            "femaleVariant": "可我听说你俩不是，呃……"
+          },
+          {
+            "stringId": "1732770015917445120",
+            "femaleVariant": "不，你听错了。"
+          },
+          {
+            "stringId": "1732771321084186624",
+            "femaleVariant": "我们要找的…是一本书？"
+          },
+          {
+            "stringId": "1732771646780280832",
+            "femaleVariant": "看着像书。其实是某种最先进的纳米级交互原型机。"
+          },
+          {
+            "stringId": "1732772957181513728",
+            "femaleVariant": "纳米级、交互、原型机？"
+          },
+          {
+            "stringId": "1732773499958005760",
+            "femaleVariant": "去他的，我也不知道是啥玩意儿，他又没具体跟我说。"
+          },
+          {
+            "stringId": "1732774322846896128",
+            "femaleVariant": "看着像本儿童书，有城堡、骷髅钥匙、野狼王啥的。"
+          },
+          {
+            "stringId": "1732790930713677824",
+            "femaleVariant": "是啊，鬼知道出了什么事。"
+          },
+          {
+            "stringId": "1732791225808130048",
+            "femaleVariant": "可能吧。她叫什么来着？易笙？"
+          },
+          {
+            "stringId": "1732880375521546240",
+            "femaleVariant": "啊，是…是你啊。"
+          },
+          {
+            "stringId": "1732882265525260288",
+            "femaleVariant": "是银手。就他一个人，孤零零的。"
+          },
+          {
+            "stringId": "1732887087699791872",
+            "femaleVariant": "行了，行了，你喝吧。谁知道你那张嘴还碰过啥。"
+          },
+          {
+            "stringId": "1732890066779705344",
+            "femaleVariant": "嗨，强尼。"
+          },
+          {
+            "stringId": "1732890609338093568",
+            "femaleVariant": "别进去，有人在里面聊事呢。"
+          },
+          {
+            "stringId": "1753195817592594436",
+            "femaleVariant": "你看见罗格了吗？"
+          },
+          {
+            "stringId": "1753201532583452676",
+            "femaleVariant": "罗格在吗？"
+          },
+          {
+            "stringId": "1753206450237120512",
+            "femaleVariant": "看见罗格了吗？"
+          },
+          {
+            "stringId": "1753206814269153280",
+            "femaleVariant": "没，今天没看见。"
+          },
+          {
+            "stringId": "1753209435373608960",
+            "femaleVariant": "你们几个看见罗格了吗？"
+          },
+          {
+            "stringId": "1753209435373608968",
+            "femaleVariant": "你居然还敢来，强尼。"
+          },
+          {
+            "stringId": "1753333606585901056",
+            "femaleVariant": "哦~~银手，还想我嘛？"
+          },
+          {
+            "stringId": "1753336386235047940",
+            "femaleVariant": "看见罗格了吗？"
+          },
+          {
+            "stringId": "1753340458837123072",
+            "femaleVariant": "有新货？"
+          },
+          {
+            "stringId": "1753341215103688704",
+            "femaleVariant": "你看没看见罗格？"
+          },
+          {
+            "stringId": "1753341295466553344",
+            "femaleVariant": "怎么，上新货了吗？"
+          },
+          {
+            "stringId": "1753343955812917248",
+            "femaleVariant": "没有。"
+          },
+          {
+            "stringId": "1753344760850849792",
+            "femaleVariant": "有呀~宝贝儿。不过你得先答应人家一件事儿呢。"
+          },
+          {
+            "stringId": "1753346776029372416",
+            "femaleVariant": "千万千万别跟 CHOOH2 混一起喝。"
+          },
+          {
+            "stringId": "1753347368147656704",
+            "femaleVariant": "他娘的。"
+          },
+          {
+            "stringId": "1753350240591585284",
+            "femaleVariant": "还以为你不是在叫我呢。"
+          },
+          {
+            "stringId": "1753350892319318016",
+            "femaleVariant": "你刚才叫的是我吗？"
+          },
+          {
+            "stringId": "1753351312471138304",
+            "femaleVariant": "为什么不？你喝过了？"
+          },
+          {
+            "stringId": "1753352934676930560",
+            "femaleVariant": "你，居然一趟活安排两波人？"
+          },
+          {
+            "stringId": "1753356528021053440",
+            "femaleVariant": "兰迪和他的人效率更高，就这么简单。"
+          },
+          {
+            "stringId": "1764726412590518272",
+            "femaleVariant": "不过有人看见了，她跟别的男人来的。"
+          },
+          {
+            "stringId": "1764730903868018688",
+            "femaleVariant": "什么我都答应你。"
+          },
+          {
+            "stringId": "1764731148026843136",
+            "femaleVariant": "但今天就真的不行，我有急事。"
+          },
+          {
+            "stringId": "1764751028860030976",
+            "femaleVariant": "强尼！你过来帮我一下？"
+          },
+          {
+            "stringId": "1764752846704939008",
+            "femaleVariant": "要不然呢？不是叫你叫谁？"
+          },
+          {
+            "stringId": "1764753539100643328",
+            "femaleVariant": "现在怎么样？"
+          },
+          {
+            "stringId": "1764753886707781632",
+            "femaleVariant": "现在你可以滚了。"
+          },
+          {
+            "stringId": "1764763744244928512",
+            "femaleVariant": "这还比谁干得快吗？"
+          },
+          {
+            "stringId": "1764764172802134016",
+            "femaleVariant": "嗯，差不多吧。有个新客户说要是能加急，价钱就翻倍。"
+          },
+          {
+            "stringId": "1764885710947815424",
+            "femaleVariant": "靠，那你倒是早点儿招呼我声啊！"
+          },
+          {
+            "stringId": "1764886162053599232",
+            "femaleVariant": "喂，梅先把活给你了我们也不知道啊。"
+          },
+          {
+            "stringId": "1764887779092008960",
+            "femaleVariant": "行了。第一，时间上你占便宜了。"
+          },
+          {
+            "stringId": "1764901548455170048",
+            "femaleVariant": "第二，你们太水了，话糙了点别介意。"
+          },
+          {
+            "stringId": "1764906931005493248",
+            "femaleVariant": "是怕那个混蛋死得不够彻底，非得再毙一回吗？"
+          },
+          {
+            "stringId": "1764908371782471680",
+            "femaleVariant": "所以我就想求个保险。"
+          },
+          {
+            "stringId": "1772166288168521728",
+            "femaleVariant": "她会把你的老二扯下来。"
+          },
+          {
+            "stringId": "1772169633931268096",
+            "femaleVariant": "那走着瞧咯，她人呢？"
+          },
+          {
+            "stringId": "1772171401461305344",
+            "femaleVariant": "在后面屋子里。"
+          },
+          {
+            "stringId": "1772176025983455232",
+            "femaleVariant": "你们是不是有事啊？"
+          },
+          {
+            "stringId": "1772176328443105280",
+            "femaleVariant": "你们要干什么？"
+          },
+          {
+            "stringId": "1772177846160396288",
+            "femaleVariant": "对，是有事…"
+          },
+          {
+            "stringId": "1772178675206524928",
+            "femaleVariant": "柯莉斯，别说。他可没安什么好心。"
+          },
+          {
+            "stringId": "1772183644869562368",
+            "femaleVariant": "是吗？"
+          },
+          {
+            "stringId": "1989632722538135556",
+            "femaleVariant": "[出拳] 现在呢？"
+          },
+          {
+            "stringId": "1989686937356664836",
+            "femaleVariant": "恩格斯，怎么了？"
+          }
+        ]
+      }
+
+
+

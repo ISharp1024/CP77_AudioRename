@@ -1,0 +1,437 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1811438801777287168",
+            "femaleVariant": "Welcome back to our little oasis of elegance!"
+          },
+          {
+            "stringId": "1811441489604730880",
+            "femaleVariant": "Inspire me."
+          },
+          {
+            "stringId": "1811442145660985344",
+            "femaleVariant": "No sequins."
+          },
+          {
+            "stringId": "1811442913621270528",
+            "femaleVariant": "A little quiet in here."
+          },
+          {
+            "stringId": "1811443426936971264",
+            "femaleVariant": "Agh, dunno... surprise me, inspire me. Fresh jacket, maybe, some new pants...?",
+            "maleVariant": "I dunno, uh... surprise me, inspire me. Uh, fresh jacket, maybe, some new pants...?"
+          },
+          {
+            "stringId": "1811443957617090560",
+            "femaleVariant": "Or both? You are begging for a new do. Of course, nothing wrong with this look, but – fashion waits for no man!"
+          },
+          {
+            "stringId": "1811444263667064836",
+            "femaleVariant": "Me, sequins? Gotta be kiddin'.",
+            "maleVariant": "Me, sequins? You gotta be kiddin'."
+          },
+          {
+            "stringId": "1811444263667064844",
+            "femaleVariant": "Now, just between the two of us – a touch of elegance can go a long way."
+          },
+          {
+            "stringId": "1811444283212521476",
+            "femaleVariant": "Lookin' a little empty these days."
+          },
+          {
+            "stringId": "1811444283229298688",
+            "femaleVariant": "What can I say? Jinguji is about quality, not quantity."
+          },
+          {
+            "stringId": "1811445828914208768",
+            "femaleVariant": "I'm sounding the alarm! Hold on!"
+          },
+          {
+            "stringId": "1811456126769389572",
+            "femaleVariant": "Fuck, V! Get down! He's whacked!"
+          },
+          {
+            "stringId": "1811579334197731328",
+            "femaleVariant": "Aaaugh!"
+          },
+          {
+            "stringId": "1811582285410689028",
+            "femaleVariant": "Take 'im down! Now!"
+          },
+          {
+            "stringId": "1811629837946413056",
+            "femaleVariant": "MaxTac... Be here in a moment. Hold him! Hold him till they get here!"
+          },
+          {
+            "stringId": "1811630797317955584",
+            "femaleVariant": "Don't let him kill me!"
+          },
+          {
+            "stringId": "1811783547829837824",
+            "femaleVariant": "MaxTac! Thank god!"
+          },
+          {
+            "stringId": "1811798454252036096",
+            "femaleVariant": "Going in! Surround the target!"
+          },
+          {
+            "stringId": "1811799389128843268",
+            "femaleVariant": "Move! Keep it up!"
+          },
+          {
+            "stringId": "1811799576916221952",
+            "femaleVariant": "Eliminate him!"
+          },
+          {
+            "stringId": "1811802121332023300",
+            "femaleVariant": "Target neutralized. Secure the witnesses!"
+          },
+          {
+            "stringId": "1811812972332015616",
+            "femaleVariant": "You, over there! Statements, now!"
+          },
+          {
+            "stringId": "1812400529243594756",
+            "femaleVariant": "Refusing to give a statement to a MaxTac officer may result in imprisonment."
+          },
+          {
+            "stringId": "1812400529293926404",
+            "femaleVariant": "You trying my patience here?"
+          },
+          {
+            "stringId": "1812403706344988672",
+            "femaleVariant": "Sit. Hands where I can see 'em."
+          },
+          {
+            "stringId": "1812407724270116868",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1812415657393479684",
+            "femaleVariant": "I said, sit."
+          },
+          {
+            "stringId": "1812415657410256900",
+            "femaleVariant": "Please, let's get this over with. I have to call the cleaners."
+          },
+          {
+            "stringId": "1812455858874572800",
+            "femaleVariant": "Melissa Rory, MaxTac senior officer. Please state your name and occupation."
+          },
+          {
+            "stringId": "1812456786520399872",
+            "femaleVariant": "Zane Jagger. I work for Jinguji, an oasis of elegance in--"
+          },
+          {
+            "stringId": "1812457541646114816",
+            "femaleVariant": "V, merc. Occasional client of Zane's."
+          },
+          {
+            "stringId": "1812458108565020672",
+            "femaleVariant": "Checks out. Please describe what happened, starting from the moment of the attack."
+          },
+          {
+            "stringId": "1812458319538511872",
+            "femaleVariant": "I was just presenting V with a one-of-a-kind offer when I... I suddenly heard shouting from the street."
+          },
+          {
+            "stringId": "1812458886474194944",
+            "femaleVariant": "Then that... psychopath ran in. He killed... eh, fuck it – he slaughtered my guards!"
+          },
+          {
+            "stringId": "1812459153265483776",
+            "femaleVariant": "I hit the alarm, V pinned the crazy bastard. Weren't for her... Wouldn't be anything left to clean up.",
+            "maleVariant": "I hit the alarm, V pinned the crazy bastard. Weren't for him... Wouldn't be anything left to clean up."
+          },
+          {
+            "stringId": "1812459549744652288",
+            "femaleVariant": "Hey, no problem. Was savin' my own ass, too.",
+            "maleVariant": "Eh, no problem. Was savin' my own ass, too."
+          },
+          {
+            "stringId": "1812460242878554116",
+            "femaleVariant": "Those mantis blades... Higurashis?"
+          },
+          {
+            "stringId": "1812461372706611200",
+            "femaleVariant": "Situation resolved. Deactivate alarm."
+          },
+          {
+            "stringId": "1812479466531414016",
+            "femaleVariant": "Did you really have to kill him?"
+          },
+          {
+            "stringId": "1812480137435504640",
+            "femaleVariant": "Hold up a sec... Your mantis blades – Higurashi 20-13's. Weren't those pulled off the market in '69?"
+          },
+          {
+            "stringId": "1812480592651706368",
+            "femaleVariant": "Good eye. Had them installed years ago. They're very... precise."
+          },
+          {
+            "stringId": "1812480971397357568",
+            "femaleVariant": "They're my... reminder. When I see them, I see what they've sliced... Muscle, tendon, bone... even implants. Like a hot knife through butter."
+          },
+          {
+            "stringId": "1812481365242503168",
+            "femaleVariant": "You always just wipe 'em? Y'know, heard therapy can sometimes work--"
+          },
+          {
+            "stringId": "1812511302708060160",
+            "femaleVariant": "Apprehending the target alive carries additional risk for bystanders. Rarely done. Very rarely."
+          },
+          {
+            "stringId": "1812514633505529856",
+            "femaleVariant": "Coroner's been notified. Be here any minute."
+          },
+          {
+            "stringId": "1812515309644111872",
+            "femaleVariant": "Jagger – this store is closed until the investigation is complete."
+          },
+          {
+            "stringId": "1812515762779938816",
+            "femaleVariant": "Nice work. You feel that back there? Feel his life leave his body?"
+          },
+          {
+            "stringId": "1812522879238758400",
+            "femaleVariant": "Smith, report! How's it looking?"
+          },
+          {
+            "stringId": "1812523852535390208",
+            "femaleVariant": "Two killed, two wounded inside the store. Six bodies on the street outside."
+          },
+          {
+            "stringId": "1812524290605277184",
+            "femaleVariant": "Where's the coroner?"
+          },
+          {
+            "stringId": "1812524433815592960",
+            "femaleVariant": "Sitting in traffic. Be a little late."
+          },
+          {
+            "stringId": "1813265806692933632",
+            "femaleVariant": "Welcome to Jinguji."
+          },
+          {
+            "stringId": "1813272095229698048",
+            "femaleVariant": "Ah, look who it is! What a lovely surprise!"
+          },
+          {
+            "stringId": "1813312626148204548",
+            "femaleVariant": "Uh, heh, all right? Whaddaya lookin' at?",
+            "maleVariant": "Uh, all right? Whaddaya lookin' at?"
+          },
+          {
+            "stringId": "1876499120005038080",
+            "femaleVariant": "Now, what can I do for you today? Maybe a little upgrade, hm? Sequins are back, you know."
+          },
+          {
+            "stringId": "1876513924472094720",
+            "femaleVariant": "Well, on a more, ahem, generous frame, no – but with what you're working with, dear, they're perfect. You want to be shimra, you have to shine first."
+          },
+          {
+            "stringId": "1876521445077270528",
+            "femaleVariant": "If I can't convince you of that, I'll take it as a personal and professional failure. Someone like... like you..."
+          },
+          {
+            "stringId": "1876563634742345728",
+            "femaleVariant": "Guards! Get the door! Hold him there!"
+          },
+          {
+            "stringId": "1876576594135072768",
+            "femaleVariant": "I'd almost forgotten that pretty face. And what a pity that would be!"
+          },
+          {
+            "stringId": "1876600422496190464",
+            "femaleVariant": "Just had to go play dutiful consumer in a corpo suit shop, didn't we?"
+          },
+          {
+            "stringId": "1876624384722714624",
+            "femaleVariant": "Did you hear that...?"
+          },
+          {
+            "stringId": "1876640938852073472",
+            "femaleVariant": "Talkin' to me?"
+          },
+          {
+            "stringId": "1877664478715953152",
+            "femaleVariant": "Can hear you, remember?!"
+          },
+          {
+            "stringId": "1877664573758881792",
+            "femaleVariant": "How could I forget."
+          },
+          {
+            "stringId": "1877682696507604992",
+            "femaleVariant": "Finally... Just have to mop this gunk up – we'll be back in business."
+          },
+          {
+            "stringId": "1877685692230516736",
+            "femaleVariant": "Please, sit down. Let's get this over with."
+          },
+          {
+            "stringId": "1877713966738423808",
+            "femaleVariant": "In accordance with Article 105 of the Cyberpsychosis Procedure Code, your statements will be recorded and retained."
+          },
+          {
+            "stringId": "1877751644003483648",
+            "femaleVariant": "Sorry. Habit."
+          },
+          {
+            "stringId": "1877771288277925888",
+            "femaleVariant": "Johnny Silverhand. Rock legend, voice in V's head, and also..."
+          },
+          {
+            "stringId": "1877771456167526400",
+            "femaleVariant": "The fuck, Johnny..."
+          },
+          {
+            "stringId": "1877771572534296576",
+            "femaleVariant": "Lemme pretend I exist sometimes, OK?"
+          },
+          {
+            "stringId": "1877772509407592448",
+            "femaleVariant": "Was talking to Zane, when all of a sudden..."
+          },
+          {
+            "stringId": "1877772806548865024",
+            "femaleVariant": "Zane was tryna sweet-talk me into some sparkly sequin shit. Psycho storms in, wipes the huscle."
+          },
+          {
+            "stringId": "1877834586952286208",
+            "femaleVariant": "Zane hits the alarm, locks us in with the fucker. Thanks, Zane."
+          },
+          {
+            "stringId": "1877834779571503104",
+            "femaleVariant": "Mr. Jagger followed the correct security protocol. He significantly reduced the assailant's range of effectiveness."
+          },
+          {
+            "stringId": "1877834884529766400",
+            "femaleVariant": "Yeah, noted... Played cat-and-mouse 'round the whole range of effectiveness before you lot showed up."
+          },
+          {
+            "stringId": "1877872788505346048",
+            "femaleVariant": "Anything else? Unusual behavior?"
+          },
+          {
+            "stringId": "1877881403857420288",
+            "femaleVariant": "Don't drag this out!"
+          },
+          {
+            "stringId": "1877908632020697088",
+            "femaleVariant": "But you're with the good guys now, right?"
+          },
+          {
+            "stringId": "1877922675322241024",
+            "femaleVariant": "Rarely? More like never. How many psychos you save in your life?"
+          },
+          {
+            "stringId": "1877933966556381184",
+            "femaleVariant": "Join us. Could use a few more like you."
+          },
+          {
+            "stringId": "1877938078836572164",
+            "femaleVariant": "I'll think about it."
+          },
+          {
+            "stringId": "1877938135895883776",
+            "femaleVariant": "Thanks, but no thanks."
+          },
+          {
+            "stringId": "1877938247313375232",
+            "femaleVariant": "Me, a cop? Heh, last time I wanted that, was pushin' six, maybe. Yeah I'll, uh, heh – I'll think about it."
+          },
+          {
+            "stringId": "1877938375340310528",
+            "femaleVariant": "Ooh, nice compliment, but uh, I'd feel like, I dunno... a merc in fuckin' sequins. Still might give it a think.",
+            "maleVariant": "Ooh, nice compliment, but I'd feel like, uh, dunno... a merc in fuckin' sequins? Still might give it a think."
+          },
+          {
+            "stringId": "1877957115842904064",
+            "femaleVariant": "You do that. You certainly got a gift."
+          },
+          {
+            "stringId": "1898174020222435328",
+            "femaleVariant": "Hey, V. Once we clean this place up, come by whenever you like. I'll hand-pick something special, just for you."
+          },
+          {
+            "stringId": "1898174350112833536",
+            "femaleVariant": "Thanks. Later, Zane."
+          },
+          {
+            "stringId": "1905457797663539200",
+            "femaleVariant": "What? That's it? No more questions?"
+          },
+          {
+            "stringId": "1905464296318156800",
+            "femaleVariant": "Besides slicing and dicing my people and this store's reputation? No, nothing at all!"
+          },
+          {
+            "stringId": "1905465107513327616",
+            "femaleVariant": "Thank you for your cooperation. That is all."
+          },
+          {
+            "stringId": "2005472613429395456",
+            "femaleVariant": "Recall they don't play well with neural processors – poking at a part of the prefronal cortex that shouldn't be poked at. Prolly would've bought a pair myself weren't for that.",
+            "maleVariant": "Recall they don't play well with neural processors – poking a part of the prefronal cortex that shouldn't be poked at. Prolly would've bought a pair myself weren't for that."
+          },
+          {
+            "stringId": "2005473502420516864",
+            "femaleVariant": "Huh. Thought MaxTac preferred Arasaka blades as their standard issue. But, well... seein' how you handled these wrist razors..."
+          },
+          {
+            "stringId": "2114168369483497476",
+            "femaleVariant": "V, merc."
+          },
+          {
+            "stringId": "2114311593137160192",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2231422728571437060",
+            "femaleVariant": "Nope. I'm not you."
+          },
+          {
+            "stringId": "2231422870909337600",
+            "femaleVariant": "Don't change the subject. You felt him die. Did you... like it? That split second when the blood still flows... but his light's gone out."
+          },
+          {
+            "stringId": "2231423120386539520",
+            "femaleVariant": "Well, the adrenaline's all right, but... don't think I share your level of enthusiasm."
+          },
+          {
+            "stringId": "2231423201336606720",
+            "femaleVariant": "If you're lookin' for a psycho soulmate – it ain't me, babe."
+          },
+          {
+            "stringId": "2231424297140469760",
+            "femaleVariant": "Maybe a little..."
+          },
+          {
+            "stringId": "2231425449634545664",
+            "femaleVariant": "You love the hunt, love the kill. Don't matter if they're psychos or regular Joes."
+          },
+          {
+            "stringId": "2231425491946684416",
+            "femaleVariant": "Oh, we're not so different, you and I. Saw that look on your face right after. You can't hide it."
+          }
+        ]
+      }
+
+
+

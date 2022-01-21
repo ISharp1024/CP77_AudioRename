@@ -1,0 +1,247 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1677969236091953152",
+            "femaleVariant": "Agh! Militech dogs!"
+          },
+          {
+            "stringId": "1677970832276283392",
+            "femaleVariant": "That whackjob's got no chance. Maybe we give 'im a hand."
+          },
+          {
+            "stringId": "1677977764923924480",
+            "femaleVariant": "Bogies ahead. Fire at will."
+          },
+          {
+            "stringId": "1677977764923924488",
+            "femaleVariant": "Copy that."
+          },
+          {
+            "stringId": "1677979048951373824",
+            "femaleVariant": "You like that?!"
+          },
+          {
+            "stringId": "1677980313131376640",
+            "femaleVariant": "Thanks for the assist. Owe ya one."
+          },
+          {
+            "stringId": "1677981958372286464",
+            "femaleVariant": "Whatever. Just try not to die."
+          },
+          {
+            "stringId": "1677984396605087744",
+            "femaleVariant": "Ah shit, he ain't gonna make it..."
+          },
+          {
+            "stringId": "1677991577152872448",
+            "femaleVariant": "Target confirmed in the compound. Precise location unknown."
+          },
+          {
+            "stringId": "1677992809808486400",
+            "femaleVariant": "Split up. Sweep the area."
+          },
+          {
+            "stringId": "1677993076666884096",
+            "femaleVariant": "Copy that."
+          },
+          {
+            "stringId": "1677994600524636160",
+            "femaleVariant": "Here for their truck."
+          },
+          {
+            "stringId": "1677995159457587200",
+            "femaleVariant": "Really, Jack? You think so?"
+          },
+          {
+            "stringId": "1677996408001224712",
+            "femaleVariant": "Militech cunts... How'd they even find it?"
+          },
+          {
+            "stringId": "1677998274617499648",
+            "femaleVariant": "Target location confirmed in the garage."
+          },
+          {
+            "stringId": "1677998274617499656",
+            "femaleVariant": "Copy. Secure and hold position."
+          },
+          {
+            "stringId": "1677998274634276864",
+            "femaleVariant": "Trouble's brewin' in the garage. Gotta be careful."
+          },
+          {
+            "stringId": "1677998274701385728",
+            "femaleVariant": "Shit. Gonna have to get past 'em. Only way out."
+          },
+          {
+            "stringId": "1678031837270335488",
+            "femaleVariant": "He's fuckin' happy! That's almost contagious!"
+          },
+          {
+            "stringId": "1678031837421330432",
+            "femaleVariant": "We gotta help him!"
+          },
+          {
+            "stringId": "1678035821641031680",
+            "femaleVariant": "Agh, I dunno..."
+          },
+          {
+            "stringId": "1678035821641031688",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Your call, \" a=\".\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"carnal\" b=\"Your call, \" a=\".\"/>"
+          },
+          {
+            "stringId": "1678035821792026624",
+            "femaleVariant": "He's using Militech gear!"
+          },
+          {
+            "stringId": "1678038254102470656",
+            "femaleVariant": "Neutralize! Neutralize!"
+          },
+          {
+            "stringId": "1678044745207341056",
+            "femaleVariant": "They killed Royce!!! Motherfuckers!"
+          },
+          {
+            "stringId": "1678045967209422848",
+            "femaleVariant": "They got him! He's done!"
+          },
+          {
+            "stringId": "1678055058380120064",
+            "femaleVariant": "Khe. The hell're you still doin' here...?"
+          },
+          {
+            "stringId": "1678063021685694464",
+            "femaleVariant": "I'll walk 'em out."
+          },
+          {
+            "stringId": "1678063021719248896",
+            "femaleVariant": "We got what we came for. We're done here."
+          },
+          {
+            "stringId": "1707516226643386368",
+            "femaleVariant": "Enemy spotted!"
+          },
+          {
+            "stringId": "1707518560219914240",
+            "femaleVariant": "One less corpoprick in the world."
+          },
+          {
+            "stringId": "1708439628019359744",
+            "femaleVariant": "Corridors leading to the garage are secure."
+          },
+          {
+            "stringId": "1708439628019359752",
+            "femaleVariant": "Copy that."
+          },
+          {
+            "stringId": "1708481946650894336",
+            "femaleVariant": "Gonna melt your skin!"
+          },
+          {
+            "stringId": "1708499072212230144",
+            "femaleVariant": "Dum Dum's hit! No way he survived that."
+          },
+          {
+            "stringId": "1708579107686277120",
+            "femaleVariant": "Here to kick out our asses?"
+          },
+          {
+            "stringId": "1708579264200925184",
+            "femaleVariant": "Huh? No. Wanted to let you know I like your style."
+          },
+          {
+            "stringId": "1708591966180827136",
+            "femaleVariant": "Here ya go."
+          },
+          {
+            "stringId": "1708596423350247424",
+            "femaleVariant": "Can't fuckin' believe that guy..."
+          },
+          {
+            "stringId": "1718918422438043648",
+            "femaleVariant": "Hang a sec. Last thing. A little bonus for the road."
+          },
+          {
+            "stringId": "1718918422454820864",
+            "femaleVariant": "Your s-keef?"
+          },
+          {
+            "stringId": "1758967149477425152",
+            "femaleVariant": "Let's say I like that you got good taste. Go on, it's yours."
+          },
+          {
+            "stringId": "1769847350165725188",
+            "femaleVariant": "You're fucked."
+          },
+          {
+            "stringId": "1769848303598133248",
+            "femaleVariant": "Forgot to say \"thank you.\""
+          },
+          {
+            "stringId": "1769849170158116864",
+            "femaleVariant": "You're fucked, know that?"
+          },
+          {
+            "stringId": "1769849204282974208",
+            "femaleVariant": "Well? Got anythin' to say?"
+          },
+          {
+            "stringId": "1769849856782458880",
+            "femaleVariant": "For now, I'm alive, they're not."
+          },
+          {
+            "stringId": "1769850053830860800",
+            "femaleVariant": "But they'll be back. Militech's good at nurturing grudges. And at killing."
+          },
+          {
+            "stringId": "1769851236003831808",
+            "femaleVariant": "What...?"
+          },
+          {
+            "stringId": "1776531999732723712",
+            "femaleVariant": "Long as you know whose balls to grip, you decide who lives and dies. Wise words. Remember 'em."
+          },
+          {
+            "stringId": "1776537378206183424",
+            "femaleVariant": "For saving your sorry tin-can ass."
+          },
+          {
+            "stringId": "1776537512793010176",
+            "femaleVariant": "Hahahahaha...! Are you fuckin' high?"
+          },
+          {
+            "stringId": "1776552206748545024",
+            "femaleVariant": "\"Thanks, V\"?"
+          },
+          {
+            "stringId": "1776552545446981632",
+            "femaleVariant": "For fuckin' what?"
+          },
+          {
+            "stringId": "1968502949737807872",
+            "femaleVariant": "Let's get outta here!"
+          },
+          {
+            "stringId": "2185797594774388736",
+            "femaleVariant": "[Take inhaler]"
+          }
+        ]
+      }
+
+
+

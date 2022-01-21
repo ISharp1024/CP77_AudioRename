@@ -1,0 +1,292 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1944419146780286980",
+            "femaleVariant": "Sorry, wrong room."
+          },
+          {
+            "stringId": "1944419871019147264",
+            "femaleVariant": "Oh, sorry. Wrong room."
+          },
+          {
+            "stringId": "1944420030234927104",
+            "femaleVariant": "About that... Once you made the backup, can you tweak it to remove... undesirable traits?"
+          },
+          {
+            "stringId": "1944428403206561792",
+            "femaleVariant": "I know you don't often agree to use the Relic, but... well, you don't usually make an engram of a living person, either."
+          },
+          {
+            "stringId": "1944468764339642368",
+            "femaleVariant": "'Cause Lizzy... ever since her conversion, she... she hasn't been herself."
+          },
+          {
+            "stringId": "1944473740545794052",
+            "femaleVariant": "But... how significant would these edits be?"
+          },
+          {
+            "stringId": "1944473740545794060",
+            "femaleVariant": "Significant. Sometimes... Sometimes I don't even recognize her. Other times..."
+          },
+          {
+            "stringId": "1944476554605010944",
+            "femaleVariant": "'Ey! What the hell are you doing here?!"
+          },
+          {
+            "stringId": "1944485314845122560",
+            "femaleVariant": "Eh, never mind. Let's have a drink. To our partnership."
+          },
+          {
+            "stringId": "1944486753524948992",
+            "femaleVariant": "Champagne? Nice surprise."
+          },
+          {
+            "stringId": "1944490181043068928",
+            "femaleVariant": "Very wrong. Get lost, before I call security."
+          },
+          {
+            "stringId": "1944490583830470656",
+            "femaleVariant": "Snoopin' on you, Liam."
+          },
+          {
+            "stringId": "1944491022537891844",
+            "femaleVariant": "Lizzy sent me."
+          },
+          {
+            "stringId": "1944491606485671936",
+            "femaleVariant": "Argh, fucking hell... No privacy."
+          },
+          {
+            "stringId": "1944492200566890496",
+            "femaleVariant": "Get the hell out. Or I'm gonna call security."
+          },
+          {
+            "stringId": "1944493226661421056",
+            "femaleVariant": "Isn't it obvious, Liam? Listenin' in on you two.",
+            "maleVariant": "Oh, isn't it obvious, Liam? Listenin' in on you two."
+          },
+          {
+            "stringId": "1944495284487626752",
+            "femaleVariant": "Security! Intruder! Over here!"
+          },
+          {
+            "stringId": "1944501871222628352",
+            "femaleVariant": "Lizzy. Y'know, your output."
+          },
+          {
+            "stringId": "1944502047450505220",
+            "femaleVariant": "The one you wanna put on a shard... without her knowledge."
+          },
+          {
+            "stringId": "1944508089932619776",
+            "femaleVariant": "Oh, so that's how you make problems disappear, huh? Throw money at 'em... And poof – they're gone.",
+            "maleVariant": "Oh, so that's how you make your problems disappear, huh? Throw money at 'em... And poof – they're gone."
+          },
+          {
+            "stringId": "1944508147159703556",
+            "femaleVariant": "No way."
+          },
+          {
+            "stringId": "1944524667197759488",
+            "femaleVariant": "You ordered champagne?"
+          },
+          {
+            "stringId": "1944525214101446656",
+            "femaleVariant": "Uh... you ordered champagne?"
+          },
+          {
+            "stringId": "1944526277323956224",
+            "femaleVariant": "Yes. And we'd like to enjoy it in peace."
+          },
+          {
+            "stringId": "1944532327741693952",
+            "femaleVariant": "OK. Eddies, please."
+          },
+          {
+            "stringId": "1944532428925083648",
+            "femaleVariant": "Sure, send me cred. Better be a lot."
+          },
+          {
+            "stringId": "1944584332027797504",
+            "femaleVariant": "Sure, sure. I get it! Transferring now."
+          },
+          {
+            "stringId": "1945911819109715968",
+            "femaleVariant": "Uh, consider it a token of my gratitude."
+          },
+          {
+            "stringId": "1945914958646923264",
+            "femaleVariant": "Aw, come on... Arasaka's taken a keen interest in Lizzy's career."
+          },
+          {
+            "stringId": "1945929555613372416",
+            "femaleVariant": "Oh, OK. Sorry, system said the order was still open..."
+          },
+          {
+            "stringId": "1945930212072280064",
+            "femaleVariant": "I couldn't give two fucks about your system. Get out."
+          },
+          {
+            "stringId": "1945987248248115200",
+            "femaleVariant": "Huh? Who sent you? Tell me – now!"
+          },
+          {
+            "stringId": "1945994613093617664",
+            "femaleVariant": "Not here to talk to you."
+          },
+          {
+            "stringId": "1945995187981701120",
+            "femaleVariant": "Wouldn't you like to know? Well, chill. All in good time."
+          },
+          {
+            "stringId": "1945996179179622400",
+            "femaleVariant": "I'll tell whoever needs told about you two lovebirds... Expect things to heat up."
+          },
+          {
+            "stringId": "1945999597956812800",
+            "femaleVariant": "She'll be interested to hear about this chat of yours. Very interested."
+          },
+          {
+            "stringId": "1946000548704866304",
+            "femaleVariant": "Hey, hey! Wait! Wait one fucking second!"
+          },
+          {
+            "stringId": "1946003903661527040",
+            "femaleVariant": "Listen, I'll... I'll pay you, OK? Whatever you want. Just... forget everything you heard, all right?"
+          },
+          {
+            "stringId": "1946005083754123264",
+            "femaleVariant": "Oh, fuck... You heard what I just heard, right?"
+          },
+          {
+            "stringId": "1946007858336550912",
+            "femaleVariant": "Uh-huh. Guy's cheatin'. Bet my life.",
+            "maleVariant": "Huh. Guy's cheatin'. Bet my life."
+          },
+          {
+            "stringId": "1946008284276510720",
+            "femaleVariant": "Dunno... I mean, he's up to somethin', no doubt... But that back there? That was about somethin' else."
+          },
+          {
+            "stringId": "1946008939108028416",
+            "femaleVariant": "Yeah, minor detes. Either way, she'd better keep away from him.",
+            "maleVariant": "Minor detes. Either way, she'd better keep away from him."
+          },
+          {
+            "stringId": "1946009301227458560",
+            "femaleVariant": "Relic... They wanna do her like they did me..."
+          },
+          {
+            "stringId": "1946018749115322368",
+            "femaleVariant": "I'm afraid that's impossible. Engrams saved in the Secure Your Soul program cannot be edited."
+          },
+          {
+            "stringId": "1946021117370355712",
+            "femaleVariant": "Tell me why you're doing this."
+          },
+          {
+            "stringId": "1946021547991158784",
+            "femaleVariant": "Sure, maybe I'll say yes. But first, wanna hear your why."
+          },
+          {
+            "stringId": "1946025992124682240",
+            "femaleVariant": "Liam, no. Arasaka was very clear--"
+          },
+          {
+            "stringId": "1946026216285065216",
+            "femaleVariant": "Fuck Arasaka."
+          },
+          {
+            "stringId": "1946026503645220864",
+            "femaleVariant": "I'm afraid for her. Lizzy... she wanted to go full conversion, right? Change her whole body to chrome. She did it... but something went wrong."
+          },
+          {
+            "stringId": "1946027161345642496",
+            "femaleVariant": "At first, it was just little memory problems, concentration, but now... She's changed."
+          },
+          {
+            "stringId": "1946027928114745344",
+            "femaleVariant": "We all change, Liam. All the time. Usually for the worse."
+          },
+          {
+            "stringId": "1946028906058665984",
+            "femaleVariant": "You don't get it. When I talk to her, I'm scared. There's something... something in her. Shit, I can't describe it."
+          },
+          {
+            "stringId": "1946030217047101440",
+            "femaleVariant": "It's fine. I'm not the one you owe an explanation."
+          },
+          {
+            "stringId": "1946032626137878528",
+            "femaleVariant": "No, wait, wai--! I'll pay whatever you want, just don't tell anybody. I am begging you."
+          },
+          {
+            "stringId": "1946035058012114944",
+            "femaleVariant": "I'm out. Oh, and drink up. Bubbly's no good warm.",
+            "maleVariant": "I'm out. And drink up. Bubbly's no good warm."
+          },
+          {
+            "stringId": "1946035909002842112",
+            "femaleVariant": "'Fraid it won't work this time."
+          },
+          {
+            "stringId": "1963322144276664320",
+            "femaleVariant": "Be a shame if it ended prematurely. A backup copy seems to be the most sensible solution."
+          },
+          {
+            "stringId": "1963370484083249152",
+            "femaleVariant": "Not exactly. They wiped you. Here, they just wanna make a backup."
+          },
+          {
+            "stringId": "1963376035898904576",
+            "femaleVariant": "A backup! V... we're talkin' about a person, not your vacay snaps. Guy didn't even ask, he's just going behind her back."
+          },
+          {
+            "stringId": "1963377114707447808",
+            "femaleVariant": "He's got no right to do it. Nobody has that right."
+          },
+          {
+            "stringId": "1963384484653223936",
+            "femaleVariant": "She might not take you at your word."
+          },
+          {
+            "stringId": "1963385265380970496",
+            "femaleVariant": "Uh-huh. That's why I gotta klep the security cam footage."
+          },
+          {
+            "stringId": "1963385719456321536",
+            "femaleVariant": "Specially without her knowing. Ah shit... How do I even tell her?",
+            "maleVariant": "Specially without her knowing. Shit... How do I even tell her?"
+          },
+          {
+            "stringId": "1963386166535573504",
+            "femaleVariant": "Don't have to. Camera in there... Where there's a cam, there's footage."
+          },
+          {
+            "stringId": "1963390791208718336",
+            "femaleVariant": "Look, I don't know who you are, but I can assure you – you'll regret this."
+          },
+          {
+            "stringId": "1963391102107308032",
+            "femaleVariant": "Risk of regret must be why they're payin' me."
+          }
+        ]
+      }
+
+
+

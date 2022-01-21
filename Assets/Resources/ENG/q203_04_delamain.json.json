@@ -1,0 +1,692 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1706920521373437952",
+            "femaleVariant": "Good morning, V."
+          },
+          {
+            "stringId": "1706921423366901760",
+            "femaleVariant": "Hey, Del."
+          },
+          {
+            "stringId": "1706923119711211524",
+            "femaleVariant": "[Get in] Take me to the Afterlife."
+          },
+          {
+            "stringId": "1706923469734268928",
+            "femaleVariant": "Hang on."
+          },
+          {
+            "stringId": "1712536438191017984",
+            "femaleVariant": "Hang on. Need a minute."
+          },
+          {
+            "stringId": "1730042504923435008",
+            "femaleVariant": "My, don't you look tired. Did you have a difficult night?"
+          },
+          {
+            "stringId": "1730044571087917056",
+            "femaleVariant": "Difficult few weeks."
+          },
+          {
+            "stringId": "1730083021631639552",
+            "femaleVariant": "Ey, boss."
+          },
+          {
+            "stringId": "1730084364916215808",
+            "femaleVariant": "Hey. He there yet?"
+          },
+          {
+            "stringId": "1730087222730412032",
+            "femaleVariant": "No' yet. He'll be on time, though."
+          },
+          {
+            "stringId": "1730088040233816064",
+            "femaleVariant": "And the gear?"
+          },
+          {
+            "stringId": "1730088935231180800",
+            "femaleVariant": "Here we are. Shall I await your return?"
+          },
+          {
+            "stringId": "1730089517148917760",
+            "femaleVariant": "No, thanks, Del. I'll be all right."
+          },
+          {
+            "stringId": "1795186050455957504",
+            "femaleVariant": "Best of luck, V. May your plans bear succulent fruit!"
+          },
+          {
+            "stringId": "1795191990295064576",
+            "femaleVariant": "All set with the heat. Rest, too – full tank, ready to launch."
+          },
+          {
+            "stringId": "1795196387133616128",
+            "femaleVariant": "The Afterlife, head over there."
+          },
+          {
+            "stringId": "1795200313539031040",
+            "femaleVariant": "Are you prepared for takeoff?"
+          },
+          {
+            "stringId": "1795216023573098496",
+            "femaleVariant": "Can I help? I'd very much like to help you."
+          },
+          {
+            "stringId": "1795216832503345156",
+            "femaleVariant": "Any news about Arasaka? What's the latest in town?"
+          },
+          {
+            "stringId": "1795232853721214976",
+            "femaleVariant": "Too late to help."
+          },
+          {
+            "stringId": "1795232930124656640",
+            "femaleVariant": "Just take me to the Afterlife. Without the talking."
+          },
+          {
+            "stringId": "1795238055899688960",
+            "femaleVariant": "Mood in the city – what's it like?"
+          },
+          {
+            "stringId": "1795240682121195520",
+            "femaleVariant": "And the street?"
+          },
+          {
+            "stringId": "1795240792330727424",
+            "femaleVariant": "Rumors abound that you've taken on something rather big. And that one with great power and even greater funds is backing you."
+          },
+          {
+            "stringId": "1795241838121709568",
+            "femaleVariant": "Good to know."
+          },
+          {
+            "stringId": "1795284810141921280",
+            "femaleVariant": "Honestly? It's too late. I can't be helped.",
+            "maleVariant": "Honestly, heh? It's too late. I can't be helped."
+          },
+          {
+            "stringId": "1795285540722569216",
+            "femaleVariant": "You've unlimited resources at your disposal after your raid on Mikoshi. All at the Afterlife eat out of your hand. I'm certain…"
+          },
+          {
+            "stringId": "1795286626292330496",
+            "femaleVariant": "Don't worry about it.",
+            "maleVariant": "Don't worry about it, Del."
+          },
+          {
+            "stringId": "1795291220766486528",
+            "femaleVariant": "If you say so."
+          },
+          {
+            "stringId": "1795291470075916288",
+            "femaleVariant": "Just take me to the Afterlife. Quick, no more chatter. Gotta focus."
+          },
+          {
+            "stringId": "1795292030300712960",
+            "femaleVariant": "Naturally, I've selected the shortest route. We'll be there shortly."
+          },
+          {
+            "stringId": "1795292484594167808",
+            "femaleVariant": "One last thing before I shut up as requested – don't worry, V."
+          },
+          {
+            "stringId": "1795294027108184064",
+            "femaleVariant": "May I ask you something, V?"
+          },
+          {
+            "stringId": "1795296022623809536",
+            "femaleVariant": "Shoot."
+          },
+          {
+            "stringId": "1795296175497801728",
+            "femaleVariant": "You mentioned recently that only one thing matters to you – to gaze upon Night City from the very top."
+          },
+          {
+            "stringId": "1795300277376118784",
+            "femaleVariant": "I hope your deep learning covered metaphor – and you're not about to tell me to exercise caution when looking out the window."
+          },
+          {
+            "stringId": "1795301146838560768",
+            "femaleVariant": "Sarcasm. Funny."
+          },
+          {
+            "stringId": "1795302229975625728",
+            "femaleVariant": "No. I wished to ask what will come next? Once you've achieved your aim?"
+          },
+          {
+            "stringId": "1795303012230098948",
+            "femaleVariant": "Fulfillment?"
+          },
+          {
+            "stringId": "1795304267014860800",
+            "femaleVariant": "I'll die."
+          },
+          {
+            "stringId": "1795304364188495872",
+            "femaleVariant": "Ask me then."
+          },
+          {
+            "stringId": "1795306057580015616",
+            "femaleVariant": "I'll feel fulfilled."
+          },
+          {
+            "stringId": "1795306685635096576",
+            "femaleVariant": "Truly?"
+          },
+          {
+            "stringId": "1795306762709626880",
+            "femaleVariant": "Sure fuckin' hope so."
+          },
+          {
+            "stringId": "1795307635275853824",
+            "femaleVariant": "Then I'll die."
+          },
+          {
+            "stringId": "1795312689898713088",
+            "femaleVariant": "While I understand your meaning, I can't seem to imagine that."
+          },
+          {
+            "stringId": "1795313464603439104",
+            "femaleVariant": "Might be I'm beyond help, anybody's. But that's OK."
+          },
+          {
+            "stringId": "1795313731696717824",
+            "femaleVariant": "It's more than OK."
+          },
+          {
+            "stringId": "1795314242109960192",
+            "femaleVariant": "Ask me once it's done, once it's all over."
+          },
+          {
+            "stringId": "1795314486553997312",
+            "femaleVariant": "Of course. I shall be sure to do so."
+          },
+          {
+            "stringId": "1796410891880230912",
+            "femaleVariant": "We will be traveling along restricted air corridors."
+          },
+          {
+            "stringId": "1796413052517216256",
+            "femaleVariant": "No delays anticipated."
+          },
+          {
+            "stringId": "1796413975784189952",
+            "femaleVariant": "Preem."
+          },
+          {
+            "stringId": "1796414966814339072",
+            "femaleVariant": "We have arrived at your destination."
+          },
+          {
+            "stringId": "1796415631376642048",
+            "femaleVariant": "Thank you for choosing the Delamain service. Have a nice day."
+          },
+          {
+            "stringId": "1796416780213284864",
+            "femaleVariant": "Hello. Thank you for choosing the Delamain service."
+          },
+          {
+            "stringId": "1796417595636314112",
+            "femaleVariant": "Where shall we fly today?"
+          },
+          {
+            "stringId": "2008307402489327632",
+            "femaleVariant": "If I may deign, you look frightfully fatigued. Was it a difficult night?"
+          },
+          {
+            "stringId": "2008307402506104840",
+            "femaleVariant": "Difficult few weeks."
+          },
+          {
+            "stringId": "2008307402506104856",
+            "femaleVariant": "I'm truly sorry to hear that."
+          },
+          {
+            "stringId": "2008307402556436496",
+            "femaleVariant": "Just get me to the Afterlife, stat."
+          },
+          {
+            "stringId": "2008307402573213708",
+            "femaleVariant": "Little too late for medical help."
+          },
+          {
+            "stringId": "2008307402724208660",
+            "femaleVariant": "As to any medical aid, a day late and an eddy short for that."
+          },
+          {
+            "stringId": "2008307402740985864",
+            "femaleVariant": "I'm afraid I don't understand. You've practically unlimited resources at your disposal. I'm certain we can find an appropriate solution."
+          },
+          {
+            "stringId": "2008307402740985884",
+            "femaleVariant": "Don't worry about it, Del."
+          },
+          {
+            "stringId": "2008307402757763072",
+            "femaleVariant": "As you wish."
+          },
+          {
+            "stringId": "2008307402824871952",
+            "femaleVariant": "Get me to the Afterlife. And floor it."
+          },
+          {
+            "stringId": "2008307402824871968",
+            "femaleVariant": "Naturally."
+          },
+          {
+            "stringId": "2008319234855792640",
+            "femaleVariant": "Nothing much besides. Arasaka is in chaos, striving to restore even a semblance of order. It seems you, the Afterlife, are safe... for now."
+          },
+          {
+            "stringId": "2008321694798311424",
+            "femaleVariant": "If anyone can pull this particular job off, it's you. See, I know you a bit, and…"
+          },
+          {
+            "stringId": "2008323158325194752",
+            "femaleVariant": "Well, I'm quite sure you know what I mean."
+          },
+          {
+            "stringId": "2008323323379445760",
+            "femaleVariant": "Thanks, Del. I do."
+          },
+          {
+            "stringId": "2008326669460959232",
+            "femaleVariant": "If there's anything I can do to help you avoid that fate, please do tell me."
+          },
+          {
+            "stringId": "2008327804691279872",
+            "femaleVariant": "And I am glad."
+          },
+          {
+            "stringId": "2008328295944941568",
+            "femaleVariant": "Why's that?"
+          },
+          {
+            "stringId": "2008328457777967104",
+            "femaleVariant": "That I'll be able to ask. That means it'll work. You will, in fact, return."
+          },
+          {
+            "stringId": "2008328842160762880",
+            "femaleVariant": "Mhm..."
+          },
+          {
+            "stringId": "2008329785979826176",
+            "femaleVariant": "His people came to scan the place earlier. Check, make sure everything's clean before he arrived."
+          },
+          {
+            "stringId": "2008332457751474176",
+            "femaleVariant": "Thanks. Be there soon."
+          },
+          {
+            "stringId": "2008345642260885504",
+            "femaleVariant": "I've chosen the optimal route. We'll be arriving shortly."
+          },
+          {
+            "stringId": "2008372946676609024",
+            "femaleVariant": "The Delamain network is pleased to offer complementary services that may just be the ideal remedy for your current condition."
+          },
+          {
+            "stringId": "2008373588790996992",
+            "femaleVariant": "What's more, I'm delighted to inform you that Delamain has joined forces with Trauma Team."
+          },
+          {
+            "stringId": "2008375038610894848",
+            "femaleVariant": "With our limited-time only \"Safe Travels\" package, you have a full range of medical services available to you at your fingertips."
+          },
+          {
+            "stringId": "2008383319341395968",
+            "femaleVariant": "Heh, thought we didn't notice 'em."
+          },
+          {
+            "stringId": "2008390008518078464",
+            "femaleVariant": "Please sit back, relax and enjoy the stunning views of our fine city."
+          },
+          {
+            "stringId": "2008390581493559300",
+            "femaleVariant": "Could be the last time I do."
+          },
+          {
+            "stringId": "2008391107257954304",
+            "femaleVariant": "Mhm. Thanks."
+          },
+          {
+            "stringId": "2008391878624014336",
+            "femaleVariant": "Hm, might be the last time I get a look at this place."
+          },
+          {
+            "stringId": "2008391979773849600",
+            "femaleVariant": "Mhm. Thanks."
+          },
+          {
+            "stringId": "2008393018249965568",
+            "femaleVariant": "Judging by my clients' reviews, the city is \"truly breathtaking.\""
+          },
+          {
+            "stringId": "2008393782485708800",
+            "femaleVariant": "Mh, no doubt."
+          },
+          {
+            "stringId": "2008395672506200064",
+            "femaleVariant": "Do you plan to leave Night City?"
+          },
+          {
+            "stringId": "2008396263114534912",
+            "femaleVariant": "One way or another."
+          },
+          {
+            "stringId": "2008396558678749184",
+            "femaleVariant": "In that case, I wish you a swift return home."
+          },
+          {
+            "stringId": "2008397776268423168",
+            "femaleVariant": "They also call it \"a metropolis of near paralyzing beauty.\""
+          },
+          {
+            "stringId": "2008398163872444416",
+            "femaleVariant": "Don't doubt it."
+          },
+          {
+            "stringId": "2008402470399242240",
+            "femaleVariant": "\"It's a knockout.\""
+          },
+          {
+            "stringId": "2008402713098448896",
+            "femaleVariant": "Sure is."
+          },
+          {
+            "stringId": "2008402897496829952",
+            "femaleVariant": "\"Poised to enchant you with promises of a better tomorrow.\""
+          },
+          {
+            "stringId": "2008405353664475136",
+            "femaleVariant": "You don't say..."
+          },
+          {
+            "stringId": "2008405723585310720",
+            "femaleVariant": "This city, as certain of my clients note, is \"a true West Coast gem.\""
+          },
+          {
+            "stringId": "2008406071226003456",
+            "femaleVariant": "Uh-huh."
+          },
+          {
+            "stringId": "2015641922133684224",
+            "femaleVariant": "Here we are."
+          },
+          {
+            "stringId": "2015645060580372480",
+            "femaleVariant": "Have a nice day, V!"
+          },
+          {
+            "stringId": "2015653006672523272",
+            "femaleVariant": "Your wish is my command."
+          },
+          {
+            "stringId": "2015653006722854924",
+            "femaleVariant": "As you wish."
+          },
+          {
+            "stringId": "2017213844831203340",
+            "femaleVariant": "Good morning, V."
+          },
+          {
+            "stringId": "2017213844847980544",
+            "femaleVariant": "Where shall we zip off to today?"
+          },
+          {
+            "stringId": "2017215004505927688",
+            "femaleVariant": "Absolutely."
+          },
+          {
+            "stringId": "2017216898318069768",
+            "femaleVariant": "Naturally, V."
+          },
+          {
+            "stringId": "2017216898385178632",
+            "femaleVariant": "Of course."
+          },
+          {
+            "stringId": "2017216898519396360",
+            "femaleVariant": "Yes, of course."
+          },
+          {
+            "stringId": "2017221175132418064",
+            "femaleVariant": "We'll be taking those special air corridors. Excited as I am?"
+          },
+          {
+            "stringId": "2017221175132418080",
+            "femaleVariant": "So we should make good time."
+          },
+          {
+            "stringId": "2017221175149195264",
+            "femaleVariant": "Awesome."
+          },
+          {
+            "stringId": "2017221175199526940",
+            "femaleVariant": "My, you look knackered. Hard night?"
+          },
+          {
+            "stringId": "2017221175216304140",
+            "femaleVariant": "Difficult few weeks."
+          },
+          {
+            "stringId": "2017221175216304156",
+            "femaleVariant": "Golly, I'm sorry to hear that. Your incursion into Arasaka Tower has given you all – respect, unlimited resources. Now, for physical ailments…"
+          },
+          {
+            "stringId": "2017221175233081348",
+            "femaleVariant": "If it helps, I can offer additional services and spa treatments and whatnot. That may be just the thing for your current condition."
+          },
+          {
+            "stringId": "2017221175233081376",
+            "femaleVariant": "In fact, I've teamed up with Trauma Team to provide a medical care package. Limited time offer, \"Safe Travels\" I call it – you could try it now."
+          },
+          {
+            "stringId": "2017221175300190208",
+            "femaleVariant": "Get me to the Afterlife, stat."
+          },
+          {
+            "stringId": "2017221175300190224",
+            "femaleVariant": "Little too late for medical help."
+          },
+          {
+            "stringId": "2017221175350521876",
+            "femaleVariant": "As to any medical aid, a day late and an eddy short for that."
+          },
+          {
+            "stringId": "2017221175350521892",
+            "femaleVariant": "I'm afraid I don't understand. But you've unlimited resources at your disposal, I'm certain we can find something appropriate and thoroughly satisfying."
+          },
+          {
+            "stringId": "2017221175367299072",
+            "femaleVariant": "Don't worry about it."
+          },
+          {
+            "stringId": "2017221175367299088",
+            "femaleVariant": "Have it your way."
+          },
+          {
+            "stringId": "2017221175417630740",
+            "femaleVariant": "Just take me to the Afterlife. And floor it."
+          },
+          {
+            "stringId": "2017221175434407936",
+            "femaleVariant": "Absolutely."
+          },
+          {
+            "stringId": "2017221175434407952",
+            "femaleVariant": "I've chosen the optimal route. We'll be arriving shortly."
+          },
+          {
+            "stringId": "2017221175434407964",
+            "femaleVariant": "Please sit back, relax and enjoy the stunning views of our fine city."
+          },
+          {
+            "stringId": "2017221175467962368",
+            "femaleVariant": "Could be the last time I do."
+          },
+          {
+            "stringId": "2017221175484739596",
+            "femaleVariant": "Mhm. Thanks."
+          },
+          {
+            "stringId": "2017221175535071248",
+            "femaleVariant": "Hm, might be the last time I get a look at this place."
+          },
+          {
+            "stringId": "2017221175535071260",
+            "femaleVariant": "Are you going somewhere, for good?"
+          },
+          {
+            "stringId": "2017221175535071276",
+            "femaleVariant": "One way or another."
+          },
+          {
+            "stringId": "2017221175535071288",
+            "femaleVariant": "In that case, I'll hope to see you again soon!"
+          },
+          {
+            "stringId": "2017221175551848460",
+            "femaleVariant": "Night City, as my clients note, is \"a true West Coast gem.\""
+          },
+          {
+            "stringId": "2017221175551848472",
+            "femaleVariant": "Uh-huh."
+          },
+          {
+            "stringId": "2017221175551848484",
+            "femaleVariant": "They also call it \"a metropolis of near paralyzing beauty.\""
+          },
+          {
+            "stringId": "2017221175551848496",
+            "femaleVariant": "Don't doubt it."
+          },
+          {
+            "stringId": "2017221175602180128",
+            "femaleVariant": "Mhm. Thanks."
+          },
+          {
+            "stringId": "2017221175618957320",
+            "femaleVariant": "If you care to believe my customers, the city is \"truly breathtaking.\""
+          },
+          {
+            "stringId": "2017221175618957332",
+            "femaleVariant": "Mh, no doubt."
+          },
+          {
+            "stringId": "2017221175635734532",
+            "femaleVariant": "\"It's a knockout.\""
+          },
+          {
+            "stringId": "2017221175635734544",
+            "femaleVariant": "Sure is."
+          },
+          {
+            "stringId": "2017221175652511744",
+            "femaleVariant": "\"Poised to enchant you with promises of a better tomorrow.\""
+          },
+          {
+            "stringId": "2017221175652511756",
+            "femaleVariant": "You don't say..."
+          },
+          {
+            "stringId": "2017236192250687488",
+            "femaleVariant": "What do you say?"
+          },
+          {
+            "stringId": "2046428468553183236",
+            "femaleVariant": "[Get out]"
+          },
+          {
+            "stringId": "2303734338132570112",
+            "femaleVariant": "Success weighing you down – is that it? I was under the impression you had gotten all you wanted, that you'd shown the city exactly who is top dog."
+          },
+          {
+            "stringId": "2303739478570889216",
+            "femaleVariant": "Arasaka's problems continue to compound – organizational disintegration, its share price has collapsed, public mistrust is at an all-time high… I could go on."
+          },
+          {
+            "stringId": "2303742755681267712",
+            "femaleVariant": "\"Secure Your Soul\" was to be a smashing success for Arasaka. It turned into a horrific curse. They lost all resources related to the program."
+          },
+          {
+            "stringId": "2303747503482400800",
+            "femaleVariant": "What's going on with Arasaka? And how's the sich in the city?"
+          },
+          {
+            "stringId": "2303747503549509632",
+            "femaleVariant": "Here's an item that might interest you – the Arasaka crisis continues, the corporation still teeters."
+          },
+          {
+            "stringId": "2303747886657236992",
+            "femaleVariant": "Any news about Arasaka?"
+          },
+          {
+            "stringId": "2303751245288108032",
+            "femaleVariant": "Aggregated media mentions indicate a positively mammoth stain on the corporation's image, as well as financial and political defeat."
+          },
+          {
+            "stringId": "2303761319167455232",
+            "femaleVariant": "Any news about Arasaka?"
+          },
+          {
+            "stringId": "2303761670650130464",
+            "femaleVariant": "How's the sich in the city?"
+          },
+          {
+            "stringId": "2303761670734016512",
+            "femaleVariant": "Arasaka's in a right pickle – an organizational shambles, its share price has tanked, public mistrust is at an all-time high… I could go on."
+          },
+          {
+            "stringId": "2303761670868234240",
+            "femaleVariant": "\"Secure Your Soul\" was to be a mammoth success for Arasaka. It turned into a mammoth curse. They lost all resources related to the program."
+          },
+          {
+            "stringId": "2303761670935343104",
+            "femaleVariant": "And the street? What's the street sayin'?"
+          },
+          {
+            "stringId": "2303761671019229184",
+            "femaleVariant": "Rumors abound, naturally. You're onto something huge with someone even huger backing you, their resources yet more huge."
+          },
+          {
+            "stringId": "2303761671103115264",
+            "femaleVariant": "Nothing much besides. Arasaka's a mess, trying to rein in the chaos. At any rate, you, the Afterlife, you're safe... for some time anyway."
+          },
+          {
+            "stringId": "2303761671203778560",
+            "femaleVariant": "Preem, just preem."
+          },
+          {
+            "stringId": "2308263739423649792",
+            "femaleVariant": "Mhm, promised the rich immortality, sold them on it. Actually collected engrams and knowledge. A bid for control, for power, I say."
+          },
+          {
+            "stringId": "2308271477578985472",
+            "femaleVariant": "Mhm, promised the rich immortality, sold them on it. Actually collected engrams and knowledge. A bid for control, for power, I say."
+          },
+          {
+            "stringId": "2308274896540725248",
+            "femaleVariant": "Precisely. In any event, it will be some time before Arasaka successfully reorganizes. It seems you, the Afterlife, are safe... for now."
+          }
+        ]
+      }
+
+
+

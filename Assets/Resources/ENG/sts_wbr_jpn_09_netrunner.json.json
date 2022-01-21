@@ -1,0 +1,228 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1610055420243058688",
+            "femaleVariant": "They're already here!"
+          },
+          {
+            "stringId": "1610056278850641920",
+            "femaleVariant": "I literally just need one more minute!"
+          },
+          {
+            "stringId": "1610056998173777920",
+            "femaleVariant": "Ah, OK, I think it worked."
+          },
+          {
+            "stringId": "1610060807474225152",
+            "femaleVariant": "Impressive work, V. Thank you."
+          },
+          {
+            "stringId": "1612748491237859328",
+            "femaleVariant": "But Okada will arrange a safehouse for him – until everything settles down."
+          },
+          {
+            "stringId": "1734578835890688000",
+            "femaleVariant": "Hey, you must be V."
+          },
+          {
+            "stringId": "1734579230172041220",
+            "femaleVariant": "Where's the client?"
+          },
+          {
+            "stringId": "1734579284496666624",
+            "femaleVariant": "What else do you know about this virus?"
+          },
+          {
+            "stringId": "1734579393817006080",
+            "femaleVariant": "Where's the client?"
+          },
+          {
+            "stringId": "1734579421952397312",
+            "femaleVariant": "Know anything else about this virus?",
+            "maleVariant": "You know anything else about this virus?"
+          },
+          {
+            "stringId": "1734580252290371584",
+            "femaleVariant": "All right. Let's get moving."
+          },
+          {
+            "stringId": "1734580252290371600",
+            "femaleVariant": "How is this virus linked up to its coder?"
+          },
+          {
+            "stringId": "1734580252323926016",
+            "femaleVariant": "How's the virus linked up to its script-monkey?"
+          },
+          {
+            "stringId": "1734580898162855936",
+            "femaleVariant": "We can limit the virus's signal to the router."
+          },
+          {
+            "stringId": "1734580999849562112",
+            "femaleVariant": "We could somehow limit the signal to the network."
+          },
+          {
+            "stringId": "1734581680400551936",
+            "femaleVariant": "All right, let's burn rubber."
+          },
+          {
+            "stringId": "1737006367093084160",
+            "femaleVariant": "I've heard about you, y'know."
+          },
+          {
+            "stringId": "1737017640526598144",
+            "femaleVariant": "I'm Umbrage. I'll be handling the virus."
+          },
+          {
+            "stringId": "1737017780633128960",
+            "femaleVariant": "Pleasure's all yours."
+          },
+          {
+            "stringId": "1737022107326140416",
+            "femaleVariant": "That so?",
+            "maleVariant": "Is that so?"
+          },
+          {
+            "stringId": "1737022145292980224",
+            "femaleVariant": "Uh-huh. Quite the character."
+          },
+          {
+            "stringId": "1737031048491749376",
+            "femaleVariant": "In the back – asleep. We can go whenever you're ready."
+          },
+          {
+            "stringId": "1737031451782467584",
+            "femaleVariant": "You're gonna reset his implant on the road?"
+          },
+          {
+            "stringId": "1737031668829310976",
+            "femaleVariant": "We have to suppress the virus's connection to its owner. Besides, I've done more difficult procedures."
+          },
+          {
+            "stringId": "1737032643065466880",
+            "femaleVariant": "Bet you've never done that."
+          },
+          {
+            "stringId": "1737033155441643520",
+            "femaleVariant": "Anyway, it'll be harder for them to track us while we're on the move."
+          },
+          {
+            "stringId": "1737034963287330816",
+            "femaleVariant": "Judging by the level of coding, I'm thinking Militech – someone with skills."
+          },
+          {
+            "stringId": "1737035039791435776",
+            "femaleVariant": "Can you get it out?"
+          },
+          {
+            "stringId": "1737035094803927040",
+            "femaleVariant": "Since it looks like your average firmware – I can. But... I'll have to do a hard reset."
+          },
+          {
+            "stringId": "1737035222310768640",
+            "femaleVariant": "Which means whoever programmed the virus will be alerted."
+          },
+          {
+            "stringId": "1737035331849211904",
+            "femaleVariant": "You should count on a few unfriendly faces showing up here – and not the kind who like asking questions."
+          },
+          {
+            "stringId": "1737039624669024256",
+            "femaleVariant": "Heh. You drive, I'll do my thing."
+          },
+          {
+            "stringId": "1737040249200889856",
+            "femaleVariant": "The source code contains strings that-- Basically, once we restart the implant, it'll automatically relay his coordinates to the nearest router."
+          },
+          {
+            "stringId": "1737040581540761600",
+            "femaleVariant": "In other words, our coder will be able to triangulate our client's precise location."
+          },
+          {
+            "stringId": "1737040723945771008",
+            "femaleVariant": "The only thing we can do is keep moving and not get caught."
+          },
+          {
+            "stringId": "1737041110056620032",
+            "femaleVariant": "You mean choking the bandwidth?"
+          },
+          {
+            "stringId": "1737041228570873856",
+            "femaleVariant": "Exactly. It'd put some lag on the connection to the access point."
+          },
+          {
+            "stringId": "1737041348158869504",
+            "femaleVariant": "Well, well, we have an expert here! I mean, they'll still read our position..."
+          },
+          {
+            "stringId": "1737041585053159424",
+            "femaleVariant": "Just with a little delay."
+          },
+          {
+            "stringId": "1737041839915847680",
+            "femaleVariant": "Brilliant. I'll draft up a script right now."
+          },
+          {
+            "stringId": "1737047207198904320",
+            "femaleVariant": "Shit, they found us..."
+          },
+          {
+            "stringId": "1737051064935174144",
+            "femaleVariant": "What about the client?"
+          },
+          {
+            "stringId": "1737051143972638720",
+            "femaleVariant": "He'll be fine. I mean, it's not like his problems will magically disappear."
+          },
+          {
+            "stringId": "1737051671901294592",
+            "femaleVariant": "Ramming through those gates... Nice moves, V."
+          },
+          {
+            "stringId": "1737051745939148800",
+            "femaleVariant": "'Kay, then... Until next time. V."
+          },
+          {
+            "stringId": "1895399092352688128",
+            "femaleVariant": "Hey, careful! You want to get us killed?!"
+          },
+          {
+            "stringId": "1925862126262734852",
+            "femaleVariant": "No sweat."
+          },
+          {
+            "stringId": "1925862222731726848",
+            "femaleVariant": "What about the client?"
+          },
+          {
+            "stringId": "1925864270911033344",
+            "femaleVariant": "Impressive work back there, V. Thanks."
+          },
+          {
+            "stringId": "1925864646653562880",
+            "femaleVariant": "S'what they pay me for."
+          },
+          {
+            "stringId": "1925865128310657024",
+            "femaleVariant": "Don't sell yourself so short."
+          }
+        ]
+      }
+
+
+

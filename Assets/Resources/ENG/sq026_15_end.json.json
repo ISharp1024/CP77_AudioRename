@@ -1,0 +1,344 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1754881289358393348",
+            "femaleVariant": "She was right."
+          },
+          {
+            "stringId": "1754881759019778048",
+            "femaleVariant": "Fuck, V!"
+          },
+          {
+            "stringId": "1754888968457928704",
+            "femaleVariant": "You just stood there and watched her play us?"
+          },
+          {
+            "stringId": "1754889761382711296",
+            "femaleVariant": "Decided to give her a chance."
+          },
+          {
+            "stringId": "1754889816428756992",
+            "femaleVariant": "Change should come gradually."
+          },
+          {
+            "stringId": "1754890155697618944",
+            "femaleVariant": "She was right, Judy. Granted, didn't tell us what she was plannin', but she prolly knew you wouldn't agree to it."
+          },
+          {
+            "stringId": "1754892121282691072",
+            "femaleVariant": "Decided to give her a chance. Figured you had a reason to take this to her."
+          },
+          {
+            "stringId": "1754892204229246976",
+            "femaleVariant": "Changes this big need to come gradually. Revolution always sounds great in theory."
+          },
+          {
+            "stringId": "1754892626880872448",
+            "femaleVariant": "Fine... Augh, I'm sorry. Got carried away, I... Just, this ain't how I imagined things panning out."
+          },
+          {
+            "stringId": "1754894151862697988",
+            "femaleVariant": "It's OK, I get it."
+          },
+          {
+            "stringId": "1754894895663792128",
+            "femaleVariant": "Evelyn also wanted everything in one go."
+          },
+          {
+            "stringId": "1754895331804299264",
+            "femaleVariant": "Your frustration, I get it."
+          },
+          {
+            "stringId": "1754896129057603584",
+            "femaleVariant": "Don't take this personally, but I gotta cool down."
+          },
+          {
+            "stringId": "1754896322784116736",
+            "femaleVariant": "Evelyn wanted everything in one go too, and... heh, immediately.",
+            "maleVariant": "Evelyn wanted everything in one go too, and uh, heh... immediately."
+          },
+          {
+            "stringId": "1754896322800893952",
+            "femaleVariant": "That's true."
+          },
+          {
+            "stringId": "1754897013082669056",
+            "femaleVariant": "Gonna go."
+          },
+          {
+            "stringId": "1754897753259884544",
+            "femaleVariant": "Thanks for the help, V. Thank you, again."
+          },
+          {
+            "stringId": "1754901624552144896",
+            "femaleVariant": "I'm sorry."
+          },
+          {
+            "stringId": "1754901624568922112",
+            "femaleVariant": "Wasn't my fault."
+          },
+          {
+            "stringId": "1754901954341879808",
+            "femaleVariant": "Sorry, Judy. I-I didn't plan for it to happen.",
+            "maleVariant": "I'm sorry, Judy, I... I didn't plan for it to happen."
+          },
+          {
+            "stringId": "1754902467758243840",
+            "femaleVariant": "I know."
+          },
+          {
+            "stringId": "1754902813318561792",
+            "femaleVariant": "Wouldn't've happened if she hadn't come at me. Wasn't my fault."
+          },
+          {
+            "stringId": "1754902813318561800",
+            "femaleVariant": "Eh, sorry, but... I don't buy that. Could've found another way."
+          },
+          {
+            "stringId": "1775165119327617024",
+            "femaleVariant": "You... Y-you killed her?!"
+          },
+          {
+            "stringId": "1775165237657321476",
+            "femaleVariant": "Fuck... Should've seen that comin'."
+          },
+          {
+            "stringId": "1775167152491315200",
+            "femaleVariant": "Clouds is free, that's what's important."
+          },
+          {
+            "stringId": "1775167152491315216",
+            "femaleVariant": "There's a difference between being a gonk and having faith in people."
+          },
+          {
+            "stringId": "1775167152558424068",
+            "femaleVariant": "Who cares that she was schemin'? We did it, that's what matters. Clouds belongs to the dolls now.",
+            "maleVariant": "Who cares that she was schemin'? Heh, we did it, that's what matters. Clouds belongs to the dolls now."
+          },
+          {
+            "stringId": "1775167152575201280",
+            "femaleVariant": "You're right. That was the plan all along."
+          },
+          {
+            "stringId": "1775167152608755716",
+            "femaleVariant": "Don't be dramatic, Judy. There's a difference between bein' a gonk and believin' people wanna do good.",
+            "maleVariant": "Ah, don't be dramatic, Judy. There's a difference between bein' a gonk and believin' people wanna do good."
+          },
+          {
+            "stringId": "1775167152608755724",
+            "femaleVariant": "I know you do. Don't need to believe that. I just know it."
+          },
+          {
+            "stringId": "1775174024422211584",
+            "femaleVariant": "Least you had the decency not to take her eddies."
+          },
+          {
+            "stringId": "1775174225866244100",
+            "femaleVariant": "As if that wasn't enough, you took her eddies, too."
+          },
+          {
+            "stringId": "1775176021649113092",
+            "femaleVariant": "Bullshit! You're just spewing words now, V."
+          },
+          {
+            "stringId": "1775210963204554752",
+            "femaleVariant": "You took her eddies, so the sich is clear, cut and dried for me."
+          },
+          {
+            "stringId": "1775231205888737280",
+            "femaleVariant": "Thank you."
+          },
+          {
+            "stringId": "1775231376731127812",
+            "femaleVariant": "Thank you."
+          },
+          {
+            "stringId": "1782345598342512640",
+            "femaleVariant": "Didn't want a bloodbath."
+          },
+          {
+            "stringId": "1782345995912200196",
+            "femaleVariant": "If I hadn't settled it quietly, Hiromi wouldn't've been the last casualty."
+          },
+          {
+            "stringId": "1782349004838780928",
+            "femaleVariant": "She would've been worse than Hiromi."
+          },
+          {
+            "stringId": "1782349433580535808",
+            "femaleVariant": "Given what I saw, I knew she'd be a bigger jackbooted tyrant than Hiromi."
+          },
+          {
+            "stringId": "1782350665967714304",
+            "femaleVariant": "And that was reason enough to take her life?"
+          },
+          {
+            "stringId": "1892205587805724672",
+            "femaleVariant": "O-oh my fucking god... You killed her."
+          },
+          {
+            "stringId": "1892275977655640068",
+            "femaleVariant": "Maybe you're right. I'm sorry."
+          },
+          {
+            "stringId": "1892277587983163392",
+            "femaleVariant": "She should've been aware of the consequences."
+          },
+          {
+            "stringId": "1892282898525675520",
+            "femaleVariant": "Maybe you're right. I-I let her get to me. Sorry things ended this way.",
+            "maleVariant": "Yeah, maybe you're right. I let her get to me. I'm sorry things ended this way."
+          },
+          {
+            "stringId": "1892291141373222912",
+            "femaleVariant": "So am I."
+          },
+          {
+            "stringId": "1892293021595820032",
+            "femaleVariant": "Maiko knew what she was starting, what she was doing. She knew it could all come crashing down."
+          },
+          {
+            "stringId": "1892296319258288128",
+            "femaleVariant": "Thought she was untouchable all her life…"
+          },
+          {
+            "stringId": "1892296690605187072",
+            "femaleVariant": "Well... not my fault she was wrong.",
+            "maleVariant": "Well... it's not my fault she was wrong."
+          },
+          {
+            "stringId": "1892332694913376256",
+            "femaleVariant": "Probably had this planned from the start – same sec we walked into her office."
+          },
+          {
+            "stringId": "1892333729262297088",
+            "femaleVariant": "Jesus, am I a gonk."
+          },
+          {
+            "stringId": "1892344652135882752",
+            "femaleVariant": "And you made it happen."
+          },
+          {
+            "stringId": "1892422475668217856",
+            "femaleVariant": "Well fuck!"
+          },
+          {
+            "stringId": "1892422658254659584",
+            "femaleVariant": "Club as big as this, operating in such a niche, needs a strong hand at the helm.",
+            "maleVariant": "A club as big as this, operating in such a niche, needs a strong hand at the helm."
+          },
+          {
+            "stringId": "1892438285358948352",
+            "femaleVariant": "Seeing as you trusted her, why should I have doubted her?",
+            "maleVariant": "Seein' as you trusted her, why should I have doubted her?"
+          },
+          {
+            "stringId": "1892438861136224256",
+            "femaleVariant": "Don't pin this on me."
+          },
+          {
+            "stringId": "1892439077830746112",
+            "femaleVariant": "I'm not. She knows the harsh realities at Clouds better than I do... Better than you do, even.",
+            "maleVariant": "I'm not. She knows the harsh realities at Clouds better'n I do... Better'n you, even."
+          },
+          {
+            "stringId": "1892445515466629120",
+            "femaleVariant": "But Night City's about wheelin' and dealin'."
+          },
+          {
+            "stringId": "1892445781955928064",
+            "femaleVariant": "That's where you and I differ. For you, it's about profit. For me, it's about the people."
+          },
+          {
+            "stringId": "1892456948099145728",
+            "femaleVariant": "You're a merc. She's a soulless, conniving bitch, and I'm a sorry-ass gonk."
+          },
+          {
+            "stringId": "1892461376864739328",
+            "femaleVariant": "First casualties of revolution – revolutionaries. Bring anarchy to Clouds and it'd go to shit. Everybody'd wind up in the street.",
+            "maleVariant": "First casualties of revolution – revolutionaries. Bring anarchy to Clouds and it'd go to shit. Everybody'd wind up on the street."
+          },
+          {
+            "stringId": "1892464001190420480",
+            "femaleVariant": "How many lives would you be willin' to sacrifice for your pipe dream?"
+          },
+          {
+            "stringId": "1892499926679248896",
+            "femaleVariant": "But... guess I should get used to it... Heh, no matter what you do, life's always gonna throw you a curveball."
+          },
+          {
+            "stringId": "1892514551982415872",
+            "femaleVariant": "And a strong gang to back it up."
+          },
+          {
+            "stringId": "1892536555586412544",
+            "femaleVariant": "I'd always tell her that."
+          },
+          {
+            "stringId": "1904483304446058496",
+            "femaleVariant": "Just, gimme a sec. Gotta gather my wits."
+          },
+          {
+            "stringId": "1910142416004907008",
+            "femaleVariant": "I, uh... I gotta process all this. In peace. Alone."
+          },
+          {
+            "stringId": "1911209990960513024",
+            "femaleVariant": "Be seein' ya, V."
+          },
+          {
+            "stringId": "1912548097131610112",
+            "femaleVariant": "See you later, V."
+          },
+          {
+            "stringId": "1914240191504121860",
+            "femaleVariant": "[Step away] See ya, Judy."
+          },
+          {
+            "stringId": "1914240515069509632",
+            "femaleVariant": "Well, then... see ya, Judy."
+          },
+          {
+            "stringId": "1914271987885211648",
+            "femaleVariant": "[Step away] No problem. See ya."
+          },
+          {
+            "stringId": "1914271988975730692",
+            "femaleVariant": "Don't mention it. See ya around, Judy."
+          },
+          {
+            "stringId": "1914272426374529024",
+            "femaleVariant": "[Step away] See ya."
+          },
+          {
+            "stringId": "1914272427397939204",
+            "femaleVariant": "See ya, Judy."
+          },
+          {
+            "stringId": "1914272550123274240",
+            "femaleVariant": "[Step away] Take care, Judy."
+          },
+          {
+            "stringId": "1914272551163461636",
+            "femaleVariant": "See you around, Judy."
+          }
+        ]
+      }
+
+
+

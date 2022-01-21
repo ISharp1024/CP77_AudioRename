@@ -1,0 +1,226 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1247514123026681856",
+            "femaleVariant": "V. Do you have any news?"
+          },
+          {
+            "stringId": "1289526673412845568",
+            "femaleVariant": "They're messing with your heads."
+          },
+          {
+            "stringId": "1289527403204964352",
+            "femaleVariant": "Couldn't get through to Jefferson."
+          },
+          {
+            "stringId": "1289527809247145984",
+            "femaleVariant": "Couldn't get through to Jefferson, so…"
+          },
+          {
+            "stringId": "1289528815393566720",
+            "femaleVariant": "Jeff's in campaign HQ, he probably just didn't notice your call. Tell me what you know."
+          },
+          {
+            "stringId": "1289530682328608768",
+            "femaleVariant": "Gonna wanna sit down for this. It's… it's way bigger than we thought.",
+            "maleVariant": "OK, you're gonna wanna sit down for this. It's, um... it's way bigger than we thought."
+          },
+          {
+            "stringId": "1289531417472659456",
+            "femaleVariant": "What is?"
+          },
+          {
+            "stringId": "1289531826903838720",
+            "femaleVariant": "You're being brainwashed, literally. They've scanned your minds, a-and now using some kind of conditioning to…",
+            "maleVariant": "You're bein' brainwashed. Literally. They've scanned your minds, now using some kind of conditioning to…"
+          },
+          {
+            "stringId": "1289534482938458112",
+            "femaleVariant": "Wait! Not on the holo."
+          },
+          {
+            "stringId": "1289537401419067392",
+            "femaleVariant": "Right. I'll come by."
+          },
+          {
+            "stringId": "1289537651449917440",
+            "femaleVariant": "No. You and I – we need to speak alone."
+          },
+          {
+            "stringId": "1289553648173051904",
+            "femaleVariant": "Right. See you there."
+          },
+          {
+            "stringId": "1354482441200979968",
+            "femaleVariant": "V. Do you have any news?"
+          },
+          {
+            "stringId": "1355948288723513344",
+            "femaleVariant": "Perps got away."
+          },
+          {
+            "stringId": "1355948288723513360",
+            "femaleVariant": "Couldn't get through to Jefferson."
+          },
+          {
+            "stringId": "1355948288740290560",
+            "femaleVariant": "Jefferson's not pickin' up, so I'm callin' you."
+          },
+          {
+            "stringId": "1355948288757067780",
+            "femaleVariant": "Jeff's holed up in campaign HQ – probably just didn't notice your call. Did you manage to learn anything?"
+          },
+          {
+            "stringId": "1355948288773844992",
+            "femaleVariant": "They've been watching you, that's clear."
+          },
+          {
+            "stringId": "1355948288773845008",
+            "femaleVariant": "SSI? But whom for?"
+          },
+          {
+            "stringId": "1355948288790622208",
+            "femaleVariant": "That I don't know. They got away."
+          },
+          {
+            "stringId": "1355948288790622224",
+            "femaleVariant": "So you have no idea who's behind this nor why they've been spying on us?"
+          },
+          {
+            "stringId": "1638845685271482368",
+            "femaleVariant": "Yeah?"
+          },
+          {
+            "stringId": "1638846861303992320",
+            "femaleVariant": "It doesn't matter what you tell him. It doesn't matter what you think of doing or do – you can't change anything."
+          },
+          {
+            "stringId": "1638847204867821568",
+            "femaleVariant": "We know who you are. We know WHAT you are. We know what you want."
+          },
+          {
+            "stringId": "1641791748849143808",
+            "femaleVariant": "I know a little ramen place in Japantown. Sending you the coordinates."
+          },
+          {
+            "stringId": "1753070639982448640",
+            "femaleVariant": "Fuuuuck…"
+          },
+          {
+            "stringId": "1805280010472394756",
+            "femaleVariant": "Wasn't able to learn anything specific."
+          },
+          {
+            "stringId": "1805280059713523712",
+            "femaleVariant": "None whatsoever. Could be anyone.",
+            "maleVariant": "None whatsoever. It could be anyone."
+          },
+          {
+            "stringId": "1805280087077163008",
+            "femaleVariant": "It could be one of your husband's rivals, but – it's anybody's guess, really.",
+            "maleVariant": "Could be one of your husband's rivals, but... it's anybody's guess, really."
+          },
+          {
+            "stringId": "1805280189367848960",
+            "femaleVariant": "Could be journalists someone hired to dig up dirt, on your husband, you."
+          },
+          {
+            "stringId": "1805280722296115200",
+            "femaleVariant": "We can only guess if it's one of Jefferson's rivals."
+          },
+          {
+            "stringId": "1805281454890029056",
+            "femaleVariant": "Could be journalists someone hired to dig up dirt."
+          },
+          {
+            "stringId": "1805284954617286656",
+            "femaleVariant": "I see."
+          },
+          {
+            "stringId": "1805285074373054464",
+            "femaleVariant": "Sorry, Elizabeth."
+          },
+          {
+            "stringId": "1805286602559328256",
+            "femaleVariant": "I see."
+          },
+          {
+            "stringId": "1805286734243696640",
+            "femaleVariant": "Another politician, a corp, just... I can't say for certain.",
+            "maleVariant": "Another politician, a corp, uh... I just can't say for certain."
+          },
+          {
+            "stringId": "1805288302024200192",
+            "femaleVariant": "I see."
+          },
+          {
+            "stringId": "1805288457330888704",
+            "femaleVariant": "But that's pure guesswork. I got no hard evidence to back it up.",
+            "maleVariant": "But that's pure guesswork. Got no hard evidence to back it up."
+          },
+          {
+            "stringId": "1805289531223707648",
+            "femaleVariant": "Don't let this worry you, V. I'll let Jeff know."
+          },
+          {
+            "stringId": "1805290722808696832",
+            "femaleVariant": "See if I can't get him to talk to someone. He has contacts, he could see if Holt isn't somehow involved."
+          },
+          {
+            "stringId": "1805291046659297280",
+            "femaleVariant": "Holt?"
+          },
+          {
+            "stringId": "1805291098735775744",
+            "femaleVariant": "The man would do anything to be mayor. And the polls show him trailing Jeff, so…"
+          },
+          {
+            "stringId": "1805291591314837504",
+            "femaleVariant": "Do whatever you think's best."
+          },
+          {
+            "stringId": "1805291660722180096",
+            "femaleVariant": "You've helped us a lot, V. Thank you. Your fee will be in your account shortly. Bye now."
+          },
+          {
+            "stringId": "1805292408583360512",
+            "femaleVariant": "Thanks. Later."
+          },
+          {
+            "stringId": "1898380382361378816",
+            "femaleVariant": "You're playing with fire. Don't dare cross the line."
+          },
+          {
+            "stringId": "1898383454336737280",
+            "femaleVariant": "Uh, whaaa…?",
+            "maleVariant": "Augh, what...?"
+          },
+          {
+            "stringId": "1918430545810411520",
+            "femaleVariant": "Hi, you've reached my private line. I can't come to the holo right now. If it's important, please reach out to Liz. Thanks!"
+          },
+          {
+            "stringId": "1969242495708696576",
+            "femaleVariant": "Huh. All right then.",
+            "maleVariant": "Hmm. All right then."
+          }
+        ]
+      }
+
+
+

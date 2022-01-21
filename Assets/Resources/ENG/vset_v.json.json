@@ -1,0 +1,706 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1969017759361646596",
+            "femaleVariant": "I'ma fucking destroy you."
+          },
+          {
+            "stringId": "1969017759395201028",
+            "femaleVariant": "Will you die already?"
+          },
+          {
+            "stringId": "1969017759713968132",
+            "femaleVariant": "Right, I'm out."
+          },
+          {
+            "stringId": "1969017759730745348",
+            "femaleVariant": "We'll talk later."
+          },
+          {
+            "stringId": "1969017759797854212",
+            "femaleVariant": "Hey there... What were we talking about?"
+          },
+          {
+            "stringId": "1969017759831408644",
+            "femaleVariant": "So, where were we?"
+          },
+          {
+            "stringId": "1969022867604488196",
+            "femaleVariant": "I gotta go."
+          },
+          {
+            "stringId": "1969022868946665476",
+            "femaleVariant": "Call you back."
+          },
+          {
+            "stringId": "1969023968995164164",
+            "femaleVariant": "OK. Waiting."
+          },
+          {
+            "stringId": "1969023970253455364",
+            "femaleVariant": "Everything flows..."
+          },
+          {
+            "stringId": "1969131489089011716",
+            "femaleVariant": "'Scuse me, just a sec."
+          },
+          {
+            "stringId": "1969132448846430212",
+            "femaleVariant": "Gotta get going."
+          },
+          {
+            "stringId": "1969132492249088004",
+            "femaleVariant": "We'll come back to this."
+          },
+          {
+            "stringId": "1969132599992369156",
+            "femaleVariant": "Hang on... be right back."
+          },
+          {
+            "stringId": "1969132676714577924",
+            "femaleVariant": "Gotta run."
+          },
+          {
+            "stringId": "1969135385731645444",
+            "femaleVariant": "Nice talkin' to ya."
+          },
+          {
+            "stringId": "1969135387023491076",
+            "femaleVariant": "Got somewhere else to be."
+          },
+          {
+            "stringId": "1969135388315336708",
+            "femaleVariant": "Welp, duty calls."
+          },
+          {
+            "stringId": "1969137731253551108",
+            "femaleVariant": "Hang on... Gotta go."
+          },
+          {
+            "stringId": "1969137732612505604",
+            "femaleVariant": "Can't talk right now."
+          },
+          {
+            "stringId": "1969137810072911876",
+            "femaleVariant": "Sorry, really gotta go."
+          },
+          {
+            "stringId": "1969137811498975236",
+            "femaleVariant": "Finish this another time."
+          },
+          {
+            "stringId": "1969137940347994112",
+            "femaleVariant": "Gotta delta. Later."
+          },
+          {
+            "stringId": "1969144122617872384",
+            "femaleVariant": "Back to our chat."
+          },
+          {
+            "stringId": "1969144123960049668",
+            "femaleVariant": "OK, I'm back. Talk."
+          },
+          {
+            "stringId": "1969144232743518212",
+            "femaleVariant": "Right, go ahead."
+          },
+          {
+            "stringId": "1969144234102472708",
+            "femaleVariant": "As you were saying."
+          },
+          {
+            "stringId": "1969144397093126144",
+            "femaleVariant": "OK, you were sayin'?"
+          },
+          {
+            "stringId": "1969145749957492740",
+            "femaleVariant": "We were talking about..."
+          },
+          {
+            "stringId": "1969145751299670016",
+            "femaleVariant": "Right, so then what?"
+          },
+          {
+            "stringId": "1969145752759287808",
+            "femaleVariant": "Now we can talk. Go ahead."
+          },
+          {
+            "stringId": "1969316958644977668",
+            "femaleVariant": "Gonna regret this."
+          },
+          {
+            "stringId": "1969316958678532100",
+            "femaleVariant": "Wanna play rough? Gonna get rough."
+          },
+          {
+            "stringId": "1969317898588504064",
+            "femaleVariant": "No more nice V."
+          },
+          {
+            "stringId": "1969317898622058500",
+            "femaleVariant": "Any last words?"
+          },
+          {
+            "stringId": "1969317898739499012",
+            "femaleVariant": "Not gonna let this go, hear me?!"
+          },
+          {
+            "stringId": "1969317898789830660",
+            "femaleVariant": "It hurt? Huh?"
+          },
+          {
+            "stringId": "1969317983934201860",
+            "femaleVariant": "Here you fuckin' go!"
+          },
+          {
+            "stringId": "1969317983984533508",
+            "femaleVariant": "Want more?!"
+          },
+          {
+            "stringId": "1969334941605937156",
+            "femaleVariant": "You ok?"
+          },
+          {
+            "stringId": "1969335837794484228",
+            "femaleVariant": "Hangin' in there?"
+          },
+          {
+            "stringId": "1969335893595504644",
+            "femaleVariant": "All OK?"
+          },
+          {
+            "stringId": "1969336112286515204",
+            "femaleVariant": "Take cover!"
+          },
+          {
+            "stringId": "1969336675464101892",
+            "femaleVariant": "Outta the line of fire!"
+          },
+          {
+            "stringId": "1969336729553846276",
+            "femaleVariant": "Hide or you'll get hit!"
+          },
+          {
+            "stringId": "1969340145579573252",
+            "femaleVariant": "Shhhh. Slow down."
+          },
+          {
+            "stringId": "1969346375278641156",
+            "femaleVariant": "Can't let 'em hear us, got it?"
+          },
+          {
+            "stringId": "1969346425476071428",
+            "femaleVariant": "We do this quietly."
+          },
+          {
+            "stringId": "1969346745065259008",
+            "femaleVariant": "Careful!"
+          },
+          {
+            "stringId": "1969347549381771268",
+            "femaleVariant": "Watch it!"
+          },
+          {
+            "stringId": "1969347590653722628",
+            "femaleVariant": "'Ey! Watch out!"
+          },
+          {
+            "stringId": "1969392866252800004",
+            "femaleVariant": "Nothin' personal."
+          },
+          {
+            "stringId": "1969393691926708228",
+            "femaleVariant": "In a hurry."
+          },
+          {
+            "stringId": "1969393751787814916",
+            "femaleVariant": "Sorry. Higher need."
+          },
+          {
+            "stringId": "1969393898101915652",
+            "femaleVariant": "Goddamnit."
+          },
+          {
+            "stringId": "1969394507903385604",
+            "femaleVariant": "Oops."
+          },
+          {
+            "stringId": "1969394572646662148",
+            "femaleVariant": "Ugh, not again..."
+          },
+          {
+            "stringId": "1969394770785583108",
+            "femaleVariant": "Not goin' anywhere..."
+          },
+          {
+            "stringId": "1969395619930816516",
+            "femaleVariant": "That's one for the scrap heap..."
+          },
+          {
+            "stringId": "1969395819562909696",
+            "femaleVariant": "Learn to drive!"
+          },
+          {
+            "stringId": "1969396474495090688",
+            "femaleVariant": "Ugh, fuck's sake..."
+          },
+          {
+            "stringId": "1969396532326154244",
+            "femaleVariant": "Man, I liked this car..."
+          },
+          {
+            "stringId": "1969437372146761732",
+            "femaleVariant": "Patience is a virtue..."
+          },
+          {
+            "stringId": "1969437427226361860",
+            "femaleVariant": "Right. I'll wait."
+          },
+          {
+            "stringId": "1969437492724613124",
+            "femaleVariant": "This won't take long."
+          },
+          {
+            "stringId": "1969446931116572676",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1969447697415913472",
+            "femaleVariant": "'Preciate it. Thanks."
+          },
+          {
+            "stringId": "1969447758837301252",
+            "femaleVariant": "Thanks a lot."
+          },
+          {
+            "stringId": "1969447945047621636",
+            "femaleVariant": "Fuck off."
+          },
+          {
+            "stringId": "1969448560553345028",
+            "femaleVariant": "Kiss my ass."
+          },
+          {
+            "stringId": "1969448609710587904",
+            "femaleVariant": "Get lost."
+          },
+          {
+            "stringId": "1969448687540092928",
+            "femaleVariant": "Fuckin' gonked?"
+          },
+          {
+            "stringId": "1969448784025862148",
+            "femaleVariant": "Eh, fuck you."
+          },
+          {
+            "stringId": "1969451310053834756",
+            "femaleVariant": "Hey, what's  up?"
+          },
+          {
+            "stringId": "1969452192636059652",
+            "femaleVariant": "Hello."
+          },
+          {
+            "stringId": "1969452771936550916",
+            "femaleVariant": "Later."
+          },
+          {
+            "stringId": "1969453819438809092",
+            "femaleVariant": "Take care."
+          },
+          {
+            "stringId": "1969453982697897988",
+            "femaleVariant": "Outta the way."
+          },
+          {
+            "stringId": "1969454780337078272",
+            "femaleVariant": "Get the hell out."
+          },
+          {
+            "stringId": "1973372418012463108",
+            "femaleVariant": "What's going on?"
+          },
+          {
+            "stringId": "1973373235767525380",
+            "femaleVariant": "Well, fuck me..."
+          },
+          {
+            "stringId": "1973373272526405636",
+            "femaleVariant": "The hell is this?"
+          },
+          {
+            "stringId": "1973373956013408260",
+            "femaleVariant": "Oh. Interesting."
+          },
+          {
+            "stringId": "1973374808950292480",
+            "femaleVariant": "Well, well, well..."
+          },
+          {
+            "stringId": "1973374837287010308",
+            "femaleVariant": "Who woulda thought."
+          },
+          {
+            "stringId": "1973374880068911108",
+            "femaleVariant": "Hm, what's this..."
+          },
+          {
+            "stringId": "1973374915334619140",
+            "femaleVariant": "Huh..."
+          },
+          {
+            "stringId": "1973376717811597316",
+            "femaleVariant": "Goddamnit..."
+          },
+          {
+            "stringId": "1973377369874874372",
+            "femaleVariant": "Oh-ho. This'll be fun."
+          },
+          {
+            "stringId": "1973377419602542596",
+            "femaleVariant": "Lucky, lucky me."
+          },
+          {
+            "stringId": "1973377471477694468",
+            "femaleVariant": "Well, of course."
+          },
+          {
+            "stringId": "1973377520651714564",
+            "femaleVariant": "Just what I needed."
+          },
+          {
+            "stringId": "1973379168375652352",
+            "femaleVariant": "Oh fuck."
+          },
+          {
+            "stringId": "1973425649686134788",
+            "femaleVariant": "What the..."
+          },
+          {
+            "stringId": "1973425682032607236",
+            "femaleVariant": "Oh shit..."
+          },
+          {
+            "stringId": "1973426302252728324",
+            "femaleVariant": "Fuck."
+          },
+          {
+            "stringId": "1973427252329693184",
+            "femaleVariant": "Great. Just great."
+          },
+          {
+            "stringId": "1973427312241131524",
+            "femaleVariant": "Fan-fucking-tastic."
+          },
+          {
+            "stringId": "1973427355677343748",
+            "femaleVariant": "Fucking hell..."
+          },
+          {
+            "stringId": "1973427396982849540",
+            "femaleVariant": "Goddamnit all..."
+          },
+          {
+            "stringId": "1973428705404370948",
+            "femaleVariant": "Well, well, well."
+          },
+          {
+            "stringId": "1973429324013879300",
+            "femaleVariant": "Gonna be a good day."
+          },
+          {
+            "stringId": "1973429378036514820",
+            "femaleVariant": "Can't have bad luck all the time."
+          },
+          {
+            "stringId": "1973430133162229764",
+            "femaleVariant": "What in the fuck..."
+          },
+          {
+            "stringId": "1973431106475638788",
+            "femaleVariant": "No... Don't believe it..."
+          },
+          {
+            "stringId": "1973431155028901892",
+            "femaleVariant": "What the hell..."
+          },
+          {
+            "stringId": "1973431853967720452",
+            "femaleVariant": "Ugh..."
+          },
+          {
+            "stringId": "1973433782877798400",
+            "femaleVariant": "Ugh... gonna puke..."
+          },
+          {
+            "stringId": "1973433852687794180",
+            "femaleVariant": "No... just not the shakes..."
+          },
+          {
+            "stringId": "1973433940734623748",
+            "femaleVariant": "Shit... Not good..."
+          },
+          {
+            "stringId": "1973435048433532932",
+            "femaleVariant": "Better look around..."
+          },
+          {
+            "stringId": "1973438320510746628",
+            "femaleVariant": "Better not miss anything..."
+          },
+          {
+            "stringId": "1973438351263383556",
+            "femaleVariant": "Right, let's see what's here..."
+          },
+          {
+            "stringId": "1973438385522458628",
+            "femaleVariant": "Let's use our head here."
+          },
+          {
+            "stringId": "1978165394148409344",
+            "femaleVariant": "You're violating my airspace."
+          },
+          {
+            "stringId": "1978166138134052868",
+            "femaleVariant": "Move it, rockerboy."
+          },
+          {
+            "stringId": "1978166173466869760",
+            "femaleVariant": "In my way."
+          },
+          {
+            "stringId": "1978167655096369156",
+            "femaleVariant": "Ah... Kinda cathartic."
+          },
+          {
+            "stringId": "1978167655163478020",
+            "femaleVariant": "I know you can't feel it... Just can't help myself."
+          },
+          {
+            "stringId": "1978167655213809668",
+            "femaleVariant": "Don't take it personally."
+          },
+          {
+            "stringId": "1978174991806480384",
+            "femaleVariant": "Fuck... gettin' worse..."
+          },
+          {
+            "stringId": "1978175517839310852",
+            "femaleVariant": "Ooof... c'mon... breathe... agh...."
+          },
+          {
+            "stringId": "1978175696868982788",
+            "femaleVariant": "Ughh... I--I can't..."
+          },
+          {
+            "stringId": "1978175770420297732",
+            "femaleVariant": "Agh, shit...."
+          },
+          {
+            "stringId": "1978177105718919172",
+            "femaleVariant": "It-it's too much... fuck..."
+          },
+          {
+            "stringId": "1978177105769250820",
+            "femaleVariant": "Ughh... ngh... fooo..."
+          },
+          {
+            "stringId": "2238797448236195840",
+            "femaleVariant": "Right. No need to thank me."
+          },
+          {
+            "stringId": "2238798067600678916",
+            "femaleVariant": "All over now. You better delta."
+          },
+          {
+            "stringId": "2238798148131315716",
+            "femaleVariant": "Worked out this time. Don't get used to it."
+          },
+          {
+            "stringId": "2250501189895012352",
+            "femaleVariant": "Fuuuuuu-uuu--uuuuck! Aaaaaaaaaaugh!"
+          },
+          {
+            "stringId": "2250501820097576960",
+            "femaleVariant": "Aaaah... Aaah... WHOAAAAAAA!"
+          },
+          {
+            "stringId": "2250501890343780360",
+            "femaleVariant": "Whoooooooo... Aaaaaaah!"
+          },
+          {
+            "stringId": "2262114161341980672",
+            "femaleVariant": "Hmm..."
+          },
+          {
+            "stringId": "2262117290443759624",
+            "femaleVariant": "Maybe, who knows..."
+          },
+          {
+            "stringId": "2262117375403581448",
+            "femaleVariant": "Hmm..."
+          },
+          {
+            "stringId": "2262117440264298504",
+            "femaleVariant": "Mhm."
+          },
+          {
+            "stringId": "2262117530290839560",
+            "femaleVariant": "Got it."
+          },
+          {
+            "stringId": "2262117605251440640",
+            "femaleVariant": "Riiiiight."
+          },
+          {
+            "stringId": "2262117695009546248",
+            "femaleVariant": "Hmm?"
+          },
+          {
+            "stringId": "2262117767168352256",
+            "femaleVariant": "Huh?!"
+          },
+          {
+            "stringId": "2262117868972498944",
+            "femaleVariant": "Hey!"
+          },
+          {
+            "stringId": "2262117941366185988",
+            "femaleVariant": "Hm."
+          },
+          {
+            "stringId": "2262118194786033672",
+            "femaleVariant": "Ha!"
+          },
+          {
+            "stringId": "2262118194987360264",
+            "femaleVariant": "Hehe."
+          },
+          {
+            "stringId": "2262118195205464072",
+            "femaleVariant": "Oh no..."
+          },
+          {
+            "stringId": "2262118195423567872",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "2262118195608117256",
+            "femaleVariant": "Sure."
+          },
+          {
+            "stringId": "2262118195842998280",
+            "femaleVariant": "Yeah!"
+          },
+          {
+            "stringId": "2262118196111433736",
+            "femaleVariant": "Yes!"
+          },
+          {
+            "stringId": "2262118196396646408",
+            "femaleVariant": "Ouch."
+          },
+          {
+            "stringId": "2262118196665081864",
+            "femaleVariant": "Tsh."
+          },
+          {
+            "stringId": "2262118196866408456",
+            "femaleVariant": "Woah!"
+          },
+          {
+            "stringId": "2262179491082887176",
+            "femaleVariant": "Heh..."
+          },
+          {
+            "stringId": "2262179491300990984",
+            "femaleVariant": "Heh..."
+          },
+          {
+            "stringId": "2262179491535872008",
+            "femaleVariant": "Hahahaha!"
+          },
+          {
+            "stringId": "2262179491753975816",
+            "femaleVariant": "Heh..."
+          },
+          {
+            "stringId": "2262179491972079624",
+            "femaleVariant": "Heh..."
+          },
+          {
+            "stringId": "2262179492156629000",
+            "femaleVariant": "Mh."
+          },
+          {
+            "stringId": "2262179492357955592",
+            "femaleVariant": "Mh!"
+          },
+          {
+            "stringId": "2262179492559282184",
+            "femaleVariant": "I guess..."
+          },
+          {
+            "stringId": "2262179492794163208",
+            "femaleVariant": "Umm..."
+          },
+          {
+            "stringId": "2262179493045821448",
+            "femaleVariant": "Well well!"
+          },
+          {
+            "stringId": "2262191844197359624",
+            "femaleVariant": "Aaaahh!"
+          },
+          {
+            "stringId": "2262191844415463432",
+            "femaleVariant": "Khe-khe-khe..."
+          },
+          {
+            "stringId": "2262191844650344456",
+            "femaleVariant": "Argh!"
+          },
+          {
+            "stringId": "2262191844868448260",
+            "femaleVariant": "Hrrngh..."
+          },
+          {
+            "stringId": "2312942171265605632",
+            "femaleVariant": "I'm V."
+          },
+          {
+            "stringId": "2527325114661249024",
+            "femaleVariant": "Got anything that might interest me?"
+          },
+          {
+            "stringId": "2527325620376870916",
+            "femaleVariant": "Show me the range."
+          },
+          {
+            "stringId": "2527325766858743808",
+            "femaleVariant": "OK, let's see, show me."
+          },
+          {
+            "stringId": "2530251720828559368",
+            "femaleVariant": "Whaddaya recommend?"
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,446 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1170634428159336448",
+            "femaleVariant": "Shrapnel from a grenade tore straight through my thigh."
+          },
+          {
+            "stringId": "1170637917551828992",
+            "femaleVariant": "We're barely out of the ICU when they roll up, cameras scrollin' fresh footage for the corp."
+          },
+          {
+            "stringId": "1170639822722146304",
+            "femaleVariant": "Then they packed up their cameras and forgot all about you..."
+          },
+          {
+            "stringId": "1330104204480843776",
+            "femaleVariant": "Psh, yeah..."
+          },
+          {
+            "stringId": "1330106366812327936",
+            "femaleVariant": "Tha'ss right. They gave us nova implants, preem med-care, even the big cats from the board showed up..."
+          },
+          {
+            "stringId": "1330114895124205568",
+            "femaleVariant": "Me? I got blowed up."
+          },
+          {
+            "stringId": "1608286073385226240",
+            "femaleVariant": "Put our faces on T.V. – told us what to say. Wanted to show people how much they care about vets."
+          },
+          {
+            "stringId": "1952200580606038016",
+            "femaleVariant": "You a corpo?"
+          },
+          {
+            "stringId": "1952201060736405504",
+            "femaleVariant": "Tell me or I shoot!"
+          },
+          {
+            "stringId": "1952201385509752836",
+            "femaleVariant": "Nope, I'm not."
+          },
+          {
+            "stringId": "1952201487817216000",
+            "femaleVariant": "Max, drop the gun!"
+          },
+          {
+            "stringId": "1952201957528932352",
+            "femaleVariant": "Max! Drop that iron, let's talk!"
+          },
+          {
+            "stringId": "1952202174793879552",
+            "femaleVariant": "No...! You assholes won't take me alive!"
+          },
+          {
+            "stringId": "1952205060642803712",
+            "femaleVariant": "Not a fucking suit. Name's V, Regina sent me."
+          },
+          {
+            "stringId": "1952206397015166976",
+            "femaleVariant": "Regina? Pssh..."
+          },
+          {
+            "stringId": "1952206610404577280",
+            "femaleVariant": "Tell her she can get fucked."
+          },
+          {
+            "stringId": "1952207119693746176",
+            "femaleVariant": "She just wants to help."
+          },
+          {
+            "stringId": "1952207294092906496",
+            "femaleVariant": "That gun loaded?"
+          },
+          {
+            "stringId": "1952253621908639744",
+            "femaleVariant": "So why do that veteran piece? If we're all so fresh outta fucks to give?"
+          },
+          {
+            "stringId": "1952259327571365888",
+            "femaleVariant": "Why the suicide threats, huh?"
+          },
+          {
+            "stringId": "1952259453165604864",
+            "femaleVariant": "Thought you were a corpo, sent to silence me."
+          },
+          {
+            "stringId": "1952259579615481856",
+            "femaleVariant": "So you woulda died anyway."
+          },
+          {
+            "stringId": "1952260060098170880",
+            "femaleVariant": "But on my own terms! The bastards control everything, but me, I get to decide when I go! I do!"
+          },
+          {
+            "stringId": "1952260876192288768",
+            "femaleVariant": "Tell Regina that, too. Not gonna break, not like her."
+          },
+          {
+            "stringId": "1952261851032424448",
+            "femaleVariant": "When did medias become crack-explosives experts?"
+          },
+          {
+            "stringId": "1952262651574063104",
+            "femaleVariant": "You mean the mines? Courtesy of the vets you just heard over the PA."
+          },
+          {
+            "stringId": "1952263017736802304",
+            "femaleVariant": "Little token of gratitude for listening and actually giving a fuck. They were trying to protect me."
+          },
+          {
+            "stringId": "1952293368878174208",
+            "femaleVariant": "Help me out? She's the one who needs help."
+          },
+          {
+            "stringId": "1952294355361697796",
+            "femaleVariant": "Regina was your mentor?"
+          },
+          {
+            "stringId": "1952296250801229824",
+            "femaleVariant": "She was the best media I knew! Shit, she was my mentor! And now? Pssh – sold right out."
+          },
+          {
+            "stringId": "1952303153803530240",
+            "femaleVariant": "Regina was your mentor?"
+          },
+          {
+            "stringId": "1952306174323167232",
+            "femaleVariant": "Uh-huh."
+          },
+          {
+            "stringId": "1952312376390160384",
+            "femaleVariant": "Things used to be different... a media's word fucking meant something."
+          },
+          {
+            "stringId": "1952312565301612548",
+            "femaleVariant": "You dying wouldn't change a thing."
+          },
+          {
+            "stringId": "1952320354157694976",
+            "femaleVariant": "Not just mine. She was the best war reporter in Night City."
+          },
+          {
+            "stringId": "1952320688041070592",
+            "femaleVariant": "Yeah. Like I said. Sold out."
+          },
+          {
+            "stringId": "1952342518252539904",
+            "femaleVariant": "'Kay, you're startin' to bore me. Let's go."
+          },
+          {
+            "stringId": "1952343382346272768",
+            "femaleVariant": "I'm not going anywhere."
+          },
+          {
+            "stringId": "1952350121418395648",
+            "femaleVariant": "Then I'll make you."
+          },
+          {
+            "stringId": "1952350953031438336",
+            "femaleVariant": "Medias are out, fixers are in."
+          },
+          {
+            "stringId": "1952351608836034560",
+            "femaleVariant": "Cool. We'll put \"Never ever sold out\" on your tombstone."
+          },
+          {
+            "stringId": "1952351918593773568",
+            "femaleVariant": "\"Never ever sold out.\" That'll look great on your tombstone."
+          },
+          {
+            "stringId": "1952352552923533312",
+            "femaleVariant": "You should lay low with the nomads."
+          },
+          {
+            "stringId": "1952369122873806848",
+            "femaleVariant": "Heh, good luck."
+          },
+          {
+            "stringId": "1952369929874673664",
+            "femaleVariant": "You make some sharp points, V. I even got a title for this scene – \"A Jab at the Truth.\""
+          },
+          {
+            "stringId": "1952370405592633344",
+            "femaleVariant": "Christ, you're stubborn. It's getting on my nerves."
+          },
+          {
+            "stringId": "1952371911112888320",
+            "femaleVariant": "Shut it."
+          },
+          {
+            "stringId": "1952373122260111360",
+            "femaleVariant": "And here I thought I was bad with medias."
+          },
+          {
+            "stringId": "1952373358248431616",
+            "femaleVariant": "Shut up."
+          },
+          {
+            "stringId": "1952373597407645696",
+            "femaleVariant": "You got him? How heavy's the burden of free speech?"
+          },
+          {
+            "stringId": "1952373755482574848",
+            "femaleVariant": "Johnny. Please."
+          },
+          {
+            "stringId": "1952386382149554176",
+            "femaleVariant": "Sure, I'm gone. Just like your conscience."
+          },
+          {
+            "stringId": "1952388055844622336",
+            "femaleVariant": "But I won't be bought! Not me!"
+          },
+          {
+            "stringId": "1952394911937826816",
+            "femaleVariant": "Better than \"sellout bitch.\""
+          },
+          {
+            "stringId": "1952395145778663424",
+            "femaleVariant": "You really hate Regina that much?"
+          },
+          {
+            "stringId": "1952395428441198592",
+            "femaleVariant": "Was talking about you... D--... doesn't it bother you? The PR machines, 24/7 lies, the cover-ups...?"
+          },
+          {
+            "stringId": "1952403382401863680",
+            "femaleVariant": "But then she turned fixer."
+          },
+          {
+            "stringId": "1952411800000892928",
+            "femaleVariant": "And now? You can prove Holt's in Arasaka's pocket, and nobody gives a flying turdfuck."
+          },
+          {
+            "stringId": "1953257480722419712",
+            "femaleVariant": "Put you in touch with some nomads. Join 'em, ride with 'em, let this blow over. Give yourself a break."
+          },
+          {
+            "stringId": "1953260355431272448",
+            "femaleVariant": "A break from what? From responsibility?"
+          },
+          {
+            "stringId": "1953260630544060416",
+            "femaleVariant": "Sorry, but that's not my style."
+          },
+          {
+            "stringId": "1953294291159060480",
+            "femaleVariant": "Yeah, 'cause I'm sure Regina's the one keepin' Yorinobu up at night."
+          },
+          {
+            "stringId": "1953297781541408768",
+            "femaleVariant": "You think you're hot shit, but you might as well be a fly buzzing in a corpo's ear."
+          },
+          {
+            "stringId": "1953412943472594944",
+            "femaleVariant": "Regina sent me. Toss him in!"
+          },
+          {
+            "stringId": "1953430423217737728",
+            "femaleVariant": "Mhm."
+          },
+          {
+            "stringId": "1953446875677167616",
+            "femaleVariant": "At the very least, it'd mean a lot to her."
+          },
+          {
+            "stringId": "1953450268198014976",
+            "femaleVariant": "You got an itch for the truth, don't ya? If you wanna know who Regina is now, what she really fights for – just go and see her."
+          },
+          {
+            "stringId": "1953474476932173824",
+            "femaleVariant": "So that people'd start asking questions. Start wondering. Just like you, now."
+          },
+          {
+            "stringId": "1953480058544164864",
+            "femaleVariant": "Maybe that little grain of discomfort will grow into dissent. Who knows? Figure it's worth a try."
+          },
+          {
+            "stringId": "1953612079815823360",
+            "femaleVariant": "Why'd you threaten to kill yourself?"
+          },
+          {
+            "stringId": "1953613159630999552",
+            "femaleVariant": "That loaded?"
+          },
+          {
+            "stringId": "1953613370705154048",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1953621040107458560",
+            "femaleVariant": "Stubborn? In my line of work, that's a compliment."
+          },
+          {
+            "stringId": "1963712647469043712",
+            "femaleVariant": "By..."
+          },
+          {
+            "stringId": "1963712701927886848",
+            "femaleVariant": "Just your usual IED – Improvised Explosive Device."
+          },
+          {
+            "stringId": "1963729016579264512",
+            "femaleVariant": "The show – \"In Blood We Serve.\""
+          },
+          {
+            "stringId": "1963735229266235392",
+            "femaleVariant": "And get this – those implants? We had to give 'em back."
+          },
+          {
+            "stringId": "1963735843429781504",
+            "femaleVariant": "Replaced 'em with these first-gen pieces o' garbage..."
+          },
+          {
+            "stringId": "1963742072189325312",
+            "femaleVariant": "They did us dirty, yo. Took everythin' from us. Tossed us like... like..."
+          },
+          {
+            "stringId": "1963743265703694336",
+            "femaleVariant": "It's OK. I understand."
+          },
+          {
+            "stringId": "1963786090201845760",
+            "femaleVariant": "A chauffeur? What's next? Champagne? Black market synth-cigars?"
+          },
+          {
+            "stringId": "1963810503634817024",
+            "femaleVariant": "Heard your interview."
+          },
+          {
+            "stringId": "1963811513438670848",
+            "femaleVariant": "Heard your interview on the way up."
+          },
+          {
+            "stringId": "1963827277579259904",
+            "femaleVariant": "Started broadcasting the moment you showed up on the feed."
+          },
+          {
+            "stringId": "1963831985651945472",
+            "femaleVariant": "It wasn't finished, not like I wanted it... But, at least people got the truth."
+          },
+          {
+            "stringId": "1963853008828993536",
+            "femaleVariant": "We tracked those sons-o'-bitches' every dirty move."
+          },
+          {
+            "stringId": "1986659118371672064",
+            "femaleVariant": "Where'd these mines come from?"
+          },
+          {
+            "stringId": "1986673396185141248",
+            "femaleVariant": "There's a death-warrant out for you, but you probably already knew that."
+          },
+          {
+            "stringId": "1986695655574573056",
+            "femaleVariant": "People nowadays... they don't get that..."
+          },
+          {
+            "stringId": "1986707576658956292",
+            "femaleVariant": "She deserves a chance. Just talk to her."
+          },
+          {
+            "stringId": "1986719975659114496",
+            "femaleVariant": "Sorry about this, Max..."
+          },
+          {
+            "stringId": "1986730506482716672",
+            "femaleVariant": "I'll talk to her. But that's it."
+          },
+          {
+            "stringId": "1986731078283792384",
+            "femaleVariant": "That's all I ask."
+          },
+          {
+            "stringId": "1986731114757459968",
+            "femaleVariant": "'Kay. Just gotta download a few things."
+          },
+          {
+            "stringId": "1986731279073513472",
+            "femaleVariant": "Do what you gotta do."
+          },
+          {
+            "stringId": "1986870730487599104",
+            "femaleVariant": "It's not medias they're losing sleep over. It's fixers with razor-sharp intel. The kind that'll slit your throat."
+          },
+          {
+            "stringId": "1986871861641056256",
+            "femaleVariant": "So why are you still reporting?"
+          },
+          {
+            "stringId": "1986876088710959104",
+            "femaleVariant": "C'mon, let's go. You go the way of the gonk here – won't change a thing."
+          },
+          {
+            "stringId": "1986877642734145536",
+            "femaleVariant": "Running won't change anything either. I'll manage without your help."
+          },
+          {
+            "stringId": "1986878108419330048",
+            "femaleVariant": "Psh, you don't know jack."
+          },
+          {
+            "stringId": "1986881435123159040",
+            "femaleVariant": "So I'll keep buzzing."
+          },
+          {
+            "stringId": "1986933115340558336",
+            "femaleVariant": "No time to waste – let's go."
+          },
+          {
+            "stringId": "1988069148299988992",
+            "femaleVariant": "Yeah, I could give a shit, too. But Regina wants to help you out."
+          },
+          {
+            "stringId": "1988089649185525760",
+            "femaleVariant": "This all out of spite for Regina? You got something to prove to her?"
+          },
+          {
+            "stringId": "1988246906242174976",
+            "femaleVariant": "Max?"
+          },
+          {
+            "stringId": "2283885679787479040",
+            "femaleVariant": "This is starting to bore me. Let's go."
+          }
+        ]
+      }
+
+
+

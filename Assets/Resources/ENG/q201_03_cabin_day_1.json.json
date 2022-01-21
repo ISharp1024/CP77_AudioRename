@@ -1,0 +1,558 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1641537147332694016",
+            "femaleVariant": "Please get ready. Testing will begin shortly."
+          },
+          {
+            "stringId": "1642954085917233152",
+            "femaleVariant": "Higher-order representation formation – initiating test."
+          },
+          {
+            "stringId": "1643015879104892928",
+            "femaleVariant": "Parietal lobe examination."
+          },
+          {
+            "stringId": "1643020697236115456",
+            "femaleVariant": "Please use your Kiroshi scanner and read the displayed text."
+          },
+          {
+            "stringId": "1643045119628120068",
+            "femaleVariant": "What are these tests?"
+          },
+          {
+            "stringId": "1643048109009244160",
+            "femaleVariant": "What're these tests meant to… test?"
+          },
+          {
+            "stringId": "1643053711928299520",
+            "femaleVariant": "A shadow gradually falls over the ground. The first raincloud of the year."
+          },
+          {
+            "stringId": "1643144302183813120",
+            "femaleVariant": "Initiate device calibration."
+          },
+          {
+            "stringId": "1643151830976270336",
+            "femaleVariant": "Journey."
+          },
+          {
+            "stringId": "1643154558683156480",
+            "femaleVariant": "Hmm. Yes. Right."
+          },
+          {
+            "stringId": "1643347684957851648",
+            "femaleVariant": "How'd I do?"
+          },
+          {
+            "stringId": "1651940991602495488",
+            "femaleVariant": "\"And it was a sight to behold, he said, how a soul would choose its life.\""
+          },
+          {
+            "stringId": "1651945005870190592",
+            "femaleVariant": "What the hell...?"
+          },
+          {
+            "stringId": "1651946372156329988",
+            "femaleVariant": "[Solve]"
+          },
+          {
+            "stringId": "1675293556190240768",
+            "femaleVariant": "No \"good morning\"? No, \"Got some good news for ya\"?"
+          },
+          {
+            "stringId": "1675294165253513216",
+            "femaleVariant": "We must complete a series of tests. Please do not hinder or delay."
+          },
+          {
+            "stringId": "1675299556511211520",
+            "femaleVariant": "The patient is ready to be examined."
+          },
+          {
+            "stringId": "1675304114260041728",
+            "femaleVariant": "Higher-order representation formation?"
+          },
+          {
+            "stringId": "1675304135952982016",
+            "femaleVariant": "What's that device for?"
+          },
+          {
+            "stringId": "1675305004291350528",
+            "femaleVariant": "Higher-order representation what?"
+          },
+          {
+            "stringId": "1675305395871571968",
+            "femaleVariant": "What's this thingamajig for?"
+          },
+          {
+            "stringId": "1675365708738355200",
+            "femaleVariant": "It measures pupillary response."
+          },
+          {
+            "stringId": "1675368103769825280",
+            "femaleVariant": "Engram surgery carries an elevated risk of the onset of personality disorder. The test is essential."
+          },
+          {
+            "stringId": "1675420733879640068",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1675421022011547648",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1675422320651952128",
+            "femaleVariant": "Life."
+          },
+          {
+            "stringId": "1675422839856455680",
+            "femaleVariant": "Odyssey."
+          },
+          {
+            "stringId": "1675422973990297600",
+            "femaleVariant": "Freedom."
+          },
+          {
+            "stringId": "1675425028612055040",
+            "femaleVariant": "Orbit."
+          },
+          {
+            "stringId": "1675427158831947776",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1675427384049295360",
+            "femaleVariant": "Home."
+          },
+          {
+            "stringId": "1675427536856178688",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1675427775948283904",
+            "femaleVariant": "Life."
+          },
+          {
+            "stringId": "1675427974993174528",
+            "femaleVariant": "Odyssey."
+          },
+          {
+            "stringId": "1675428181856247808",
+            "femaleVariant": "Freedom."
+          },
+          {
+            "stringId": "1675428403365830656",
+            "femaleVariant": "Orbit."
+          },
+          {
+            "stringId": "1675432040280383488",
+            "femaleVariant": "Dunno."
+          },
+          {
+            "stringId": "1675432040297160704",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1675432040297160720",
+            "femaleVariant": "The city."
+          },
+          {
+            "stringId": "1675432040297160736",
+            "femaleVariant": "Got nothin'."
+          },
+          {
+            "stringId": "1675432040313937932",
+            "femaleVariant": "A megabuilding."
+          },
+          {
+            "stringId": "1675432040313937948",
+            "femaleVariant": "Death."
+          },
+          {
+            "stringId": "1675432040381046784",
+            "femaleVariant": "I… I dunno."
+          },
+          {
+            "stringId": "1675432040414601216",
+            "femaleVariant": "Enemy."
+          },
+          {
+            "stringId": "1675432040464932864",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1675432040515264512",
+            "femaleVariant": "The city."
+          },
+          {
+            "stringId": "1675432040548818944",
+            "femaleVariant": "Got nothin'."
+          },
+          {
+            "stringId": "1675432040582373376",
+            "femaleVariant": "Megabuilding."
+          },
+          {
+            "stringId": "1675432040615927808",
+            "femaleVariant": "Death."
+          },
+          {
+            "stringId": "1675432612735770624",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1675432612752547840",
+            "femaleVariant": "Me."
+          },
+          {
+            "stringId": "1675432612752547856",
+            "femaleVariant": "The city."
+          },
+          {
+            "stringId": "1675432612752547872",
+            "femaleVariant": "Arasaka."
+          },
+          {
+            "stringId": "1675432612769325068",
+            "femaleVariant": "Rebellion."
+          },
+          {
+            "stringId": "1675432612769325084",
+            "femaleVariant": "Death."
+          },
+          {
+            "stringId": "1675432612853211136",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1675432612903542784",
+            "femaleVariant": "Principle."
+          },
+          {
+            "stringId": "1675432612970651648",
+            "femaleVariant": "Me."
+          },
+          {
+            "stringId": "1675432613020983296",
+            "femaleVariant": "The city."
+          },
+          {
+            "stringId": "1675432613088092160",
+            "femaleVariant": "Arasaka."
+          },
+          {
+            "stringId": "1675432613121646592",
+            "femaleVariant": "Rebellion."
+          },
+          {
+            "stringId": "1675432613171978240",
+            "femaleVariant": "Death."
+          },
+          {
+            "stringId": "1675432998578184192",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1675432998594961420",
+            "femaleVariant": "Me."
+          },
+          {
+            "stringId": "1675432998594961436",
+            "femaleVariant": "Arasaka."
+          },
+          {
+            "stringId": "1675432998611738632",
+            "femaleVariant": "The city."
+          },
+          {
+            "stringId": "1675432998611738648",
+            "femaleVariant": "Rebellion."
+          },
+          {
+            "stringId": "1675432998628515848",
+            "femaleVariant": "I dunno."
+          },
+          {
+            "stringId": "1675432998712401920",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1675432998813065216",
+            "femaleVariant": "Me."
+          },
+          {
+            "stringId": "1675432998863396864",
+            "femaleVariant": "Arasaka."
+          },
+          {
+            "stringId": "1675432998947282944",
+            "femaleVariant": "The city."
+          },
+          {
+            "stringId": "1675432998980837376",
+            "femaleVariant": "Rebellion."
+          },
+          {
+            "stringId": "1675432999014391808",
+            "femaleVariant": "I dunno."
+          },
+          {
+            "stringId": "1675436412070551552",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1675436412070551568",
+            "femaleVariant": "Me."
+          },
+          {
+            "stringId": "1675436412087328780",
+            "femaleVariant": "Arasaka."
+          },
+          {
+            "stringId": "1675436412087328796",
+            "femaleVariant": "The city."
+          },
+          {
+            "stringId": "1675436412104105992",
+            "femaleVariant": "Principle."
+          },
+          {
+            "stringId": "1675436412104106008",
+            "femaleVariant": "I dunno."
+          },
+          {
+            "stringId": "1675436412959744000",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1675436413010075648",
+            "femaleVariant": "You're in a cornfield. Tall green plants as far as the eye can see."
+          },
+          {
+            "stringId": "1675436413043630080",
+            "femaleVariant": "Me."
+          },
+          {
+            "stringId": "1675436413093961728",
+            "femaleVariant": "Arasaka."
+          },
+          {
+            "stringId": "1675436413144293376",
+            "femaleVariant": "The city."
+          },
+          {
+            "stringId": "1675436413194625024",
+            "femaleVariant": "Principle."
+          },
+          {
+            "stringId": "1675436413228179456",
+            "femaleVariant": "I dunno."
+          },
+          {
+            "stringId": "1679691389412597760",
+            "femaleVariant": "Respond to the keywords – no thinking, just the first word that comes to mind."
+          },
+          {
+            "stringId": "1679693332918853632",
+            "femaleVariant": "Betrayal."
+          },
+          {
+            "stringId": "1679705151997763584",
+            "femaleVariant": "\"Sometimes pitiable, sometimes laughable, at times wonderful and strange...\""
+          },
+          {
+            "stringId": "1679705890765692928",
+            "femaleVariant": "That's enough."
+          },
+          {
+            "stringId": "1679713540689649664",
+            "femaleVariant": "We will see."
+          },
+          {
+            "stringId": "1679785341000114176",
+            "femaleVariant": "The sun is bright, blinding. The stalks of corn part as you walk forward."
+          },
+          {
+            "stringId": "1679786602327990272",
+            "femaleVariant": "You come across a clearing left by an automated combine in its wake."
+          },
+          {
+            "stringId": "1679790576833683456",
+            "femaleVariant": "What sorta test is this?"
+          },
+          {
+            "stringId": "1679791008058466304",
+            "femaleVariant": "What's this test for anyway?"
+          },
+          {
+            "stringId": "1679791180679241728",
+            "femaleVariant": "The heat has made your mouth dry and sticky. You spot a rodents' nest at your feet."
+          },
+          {
+            "stringId": "1679792884774625280",
+            "femaleVariant": "The machine has torn through the soft soil. You spot blind, newborn field mice around their mother. The machine has left her sliced in two."
+          },
+          {
+            "stringId": "1679795757537320960",
+            "femaleVariant": "They lie in perfect symmetry, a tiny rodent rosette. Your mouth begins to water."
+          },
+          {
+            "stringId": "1679802216748703744",
+            "femaleVariant": "There something wrong with me?"
+          },
+          {
+            "stringId": "1679802579019128832",
+            "femaleVariant": "That's enough."
+          },
+          {
+            "stringId": "1679804109621321728",
+            "femaleVariant": "Measurements complete."
+          },
+          {
+            "stringId": "1679804440266694656",
+            "femaleVariant": "What's wrong with me?"
+          },
+          {
+            "stringId": "1679804544872636416",
+            "femaleVariant": "That's enough."
+          },
+          {
+            "stringId": "1679804818962014208",
+            "femaleVariant": "The test is necessary."
+          },
+          {
+            "stringId": "1679805190040477696",
+            "femaleVariant": "I said – enough."
+          },
+          {
+            "stringId": "1679805388783378432",
+            "femaleVariant": "We shall return to it later."
+          },
+          {
+            "stringId": "1682357022126268416",
+            "femaleVariant": "It tests your level of empathy."
+          },
+          {
+            "stringId": "1711284507755122692",
+            "femaleVariant": "[Jack in]"
+          },
+          {
+            "stringId": "1720278603685126148",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1730269303944208384",
+            "femaleVariant": "Motor function test. Please step onto the treadmill."
+          },
+          {
+            "stringId": "1730269305907142656",
+            "femaleVariant": "Please connect to the device."
+          },
+          {
+            "stringId": "1730269305957474304",
+            "femaleVariant": "[Jack in]"
+          },
+          {
+            "stringId": "1730269306980884480",
+            "femaleVariant": "What's this test all about?"
+          },
+          {
+            "stringId": "1730269307031216128",
+            "femaleVariant": "Please walk. Gradually accelerate."
+          },
+          {
+            "stringId": "1730269307047993360",
+            "femaleVariant": "[Stop] This is pointless."
+          },
+          {
+            "stringId": "1730269308104957952",
+            "femaleVariant": "How am I doing?"
+          },
+          {
+            "stringId": "1730269308121735168",
+            "femaleVariant": "What's this s'posed to prove? I already know I can walk."
+          },
+          {
+            "stringId": "1730269308289507328",
+            "femaleVariant": "Please control your breathing."
+          },
+          {
+            "stringId": "1730269308289507336",
+            "femaleVariant": "Accelerate by three."
+          },
+          {
+            "stringId": "1730269308423725056",
+            "femaleVariant": "Shit..."
+          },
+          {
+            "stringId": "1730269308524388352",
+            "femaleVariant": "[Jack out and stand]"
+          },
+          {
+            "stringId": "1737213798900260864",
+            "femaleVariant": "Please link yourself to the device."
+          },
+          {
+            "stringId": "1741493724683919360",
+            "femaleVariant": "Get up."
+          },
+          {
+            "stringId": "1741494395571232768",
+            "femaleVariant": "You can't stay here."
+          },
+          {
+            "stringId": "1780550458027618308",
+            "femaleVariant": "Motor function test."
+          },
+          {
+            "stringId": "1790735821958361092",
+            "femaleVariant": "Hm."
+          },
+          {
+            "stringId": "1795168478926548996",
+            "femaleVariant": "Cognitive function test."
+          },
+          {
+            "stringId": "1795168483657723904",
+            "femaleVariant": "Solve the cube."
+          },
+          {
+            "stringId": "1866133653435002880",
+            "femaleVariant": "[Touch]"
+          },
+          {
+            "stringId": "2047740742895742976",
+            "femaleVariant": "[Solve]"
+          },
+          {
+            "stringId": "2047740896541487104",
+            "femaleVariant": "[Solve]"
+          },
+          {
+            "stringId": "2047742718949797888",
+            "femaleVariant": "[Solve]"
+          },
+          {
+            "stringId": "2049170927713071104",
+            "femaleVariant": "What, no \"I've got good news?\""
+          }
+        ]
+      }
+
+
+

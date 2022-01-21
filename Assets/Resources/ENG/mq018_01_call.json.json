@@ -1,0 +1,146 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1828568475831017472",
+            "femaleVariant": "Hello? Oh, hey, V. You callin' about something, or just wanted to catch up?"
+          },
+          {
+            "stringId": "1828592468239753216",
+            "femaleVariant": "The former. Found your job-posting about Swedenborg-Riviera on the net?",
+            "maleVariant": "The former. I found your job-posting about Swedenborg-Riviera on the net?"
+          },
+          {
+            "stringId": "1828592637001768960",
+            "femaleVariant": "Ohhhhh, that! Wow, I completely forgot about that whole thing."
+          },
+          {
+            "stringId": "1828595813952167936",
+            "femaleVariant": "So... is it still goin'?",
+            "maleVariant": "So, um... is it, uh... is it still goin'?"
+          },
+          {
+            "stringId": "1828599577819914240",
+            "femaleVariant": "I mean, I still wanna scroll a segment about it, so if you can find anything at all on Swedenborg, I'll pay you back in black caviar and champagne..."
+          },
+          {
+            "stringId": "1828616447226716160",
+            "femaleVariant": "Hey! You've reached Nance. I can't come to the holo right now. If I feel like it, I'll call you back. Bye!"
+          },
+          {
+            "stringId": "1897980157212401668",
+            "femaleVariant": "[pl_pl][DEBUG: teleport]"
+          },
+          {
+            "stringId": "1897980754581954560",
+            "femaleVariant": "[pl_pl][DEBUG: spacer]"
+          },
+          {
+            "stringId": "1915367457879805952",
+            "femaleVariant": "Can't hurt to try."
+          },
+          {
+            "stringId": "1915367920930967552",
+            "femaleVariant": "Find out anything so far?"
+          },
+          {
+            "stringId": "1915368536168255488",
+            "femaleVariant": "Can't hurt to try, right?",
+            "maleVariant": "It can't hurt to try, right?"
+          },
+          {
+            "stringId": "1915368650773417984",
+            "femaleVariant": "What've you managed to dig up so far?"
+          },
+          {
+            "stringId": "1915370294017839104",
+            "femaleVariant": "But I doubt you'll find anything new."
+          },
+          {
+            "stringId": "1915372981727842304",
+            "femaleVariant": "Short story? Fuck-all."
+          },
+          {
+            "stringId": "1915373183859740672",
+            "femaleVariant": "Mh. And the long story?",
+            "maleVariant": "Hm. And the long story?"
+          },
+          {
+            "stringId": "1915376851325603840",
+            "femaleVariant": "Well... It looks like Swedenborg-Riviera isn't just a radical philosopher and economist, but a damned good netrunner, too."
+          },
+          {
+            "stringId": "1915377790749036544",
+            "femaleVariant": "Jack-of-all-trades. Could you tell me more?"
+          },
+          {
+            "stringId": "1915379588410953728",
+            "femaleVariant": "I could, but... eh, it'd be a waste of your time. I'm tellin' ya, the guy's a ghost."
+          },
+          {
+            "stringId": "1915380364155867136",
+            "femaleVariant": "Well, aren't you just bursting with a can-do attitude? Have it your way, then..."
+          },
+          {
+            "stringId": "1915408829689155584",
+            "femaleVariant": "I started looking into all this about a year ago, right after one of Swedenborg's followers lobbed a molotov into the Helvetia branch."
+          },
+          {
+            "stringId": "1915410271724425216",
+            "femaleVariant": "Tried finding some way to reach the guy... came up blank. Total brick wall. Hired a private eye... Also came up with squat."
+          },
+          {
+            "stringId": "1915412750826524672",
+            "femaleVariant": "Did you go and talk to a runner? Maybe you could--"
+          },
+          {
+            "stringId": "1915412946331422720",
+            "femaleVariant": "And the IP linked to the account? He would've used cloaking daemons, but there's always a mark, a trace..."
+          },
+          {
+            "stringId": "1915413135125434368",
+            "femaleVariant": "I managed to pinpoint the sig to Santo Domingo... but linking it to any specific address was a nonstarter. District's jam-packed with units, as I'm sure you know."
+          },
+          {
+            "stringId": "1915414117867638784",
+            "femaleVariant": "'Course, I did. Think I'm some kind of amateur?"
+          },
+          {
+            "stringId": "1915415488801067008",
+            "femaleVariant": "Well, well, I didn't know I was dealin' with such a pro, here..."
+          },
+          {
+            "stringId": "1915416128868634624",
+            "femaleVariant": "Guess what? I tried that."
+          },
+          {
+            "stringId": "1915417571340111872",
+            "femaleVariant": "Asked some locals if anyone saw or heard anythin', cash-in-hand... Zilch. Nada. Dried up all my leads."
+          },
+          {
+            "stringId": "1915418146060423168",
+            "femaleVariant": "Got it. Listen, send me the coordinates of the last dataterm that relayed the signal, OK? I'll take a look. Worse case, I'll lose an hour of my life, best case... Well, who knows."
+          },
+          {
+            "stringId": "1915419637756252160",
+            "femaleVariant": "Hey, if you're offerin' – why not. But seriously, V, I wouldn't get my hopes up. Happy hunting."
+          }
+        ]
+      }
+
+
+

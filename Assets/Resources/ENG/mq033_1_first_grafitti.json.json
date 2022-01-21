@@ -1,0 +1,264 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1870736343039270916",
+            "femaleVariant": "Saw a weird image in town."
+          },
+          {
+            "stringId": "1870741802647347200",
+            "femaleVariant": "Saw a weird image out on the street. Seems like your line of work.",
+            "maleVariant": "I saw a weird image out on the street. Uhh, seems like your line of work."
+          },
+          {
+            "stringId": "1870747719702994944",
+            "femaleVariant": "Grabbed a scan, take a look."
+          },
+          {
+            "stringId": "1870751133681901568",
+            "femaleVariant": "Tarot, major arcanum. What you saw was a sign from a higher power!"
+          },
+          {
+            "stringId": "1889427673156214784",
+            "femaleVariant": "Either gone completely whacked, or I'm havin' a mystical moment."
+          },
+          {
+            "stringId": "1889437195870461956",
+            "femaleVariant": "So – saw a weird mural on the wall."
+          },
+          {
+            "stringId": "1889437837666082816",
+            "femaleVariant": "Listen, don't laugh, but – been seein' some weird shit around town. Like, murals or somethin'. But know they're not real.",
+            "maleVariant": "Listen, don't laugh, uh, but – been seein' some weird shit around town. Like, murals or somethin'. But I know they're not real."
+          },
+          {
+            "stringId": "1889440897628954624",
+            "femaleVariant": "Eh, just a Kiroshi blip. Could take a look."
+          },
+          {
+            "stringId": "1889441472634478592",
+            "femaleVariant": "That case, it's the biochip. Brain can't handle the data overload. Either that, or it's reached the cortex."
+          },
+          {
+            "stringId": "1889443449024077824",
+            "femaleVariant": "Can you do anything?"
+          },
+          {
+            "stringId": "1915620985352511488",
+            "femaleVariant": "No, no, the images are too complex for a blip. It's like they're – symbols."
+          },
+          {
+            "stringId": "1915628809138757632",
+            "femaleVariant": "Nope. Better find a way to get rid of that chip."
+          },
+          {
+            "stringId": "1915674051770605568",
+            "femaleVariant": "Misty? Eh, more likely a neuron misfire for Viktor to check out... Or maybe I ask 'em both."
+          },
+          {
+            "stringId": "1915678095079661568",
+            "femaleVariant": "What'd it look like?"
+          },
+          {
+            "stringId": "1915681026529058820",
+            "femaleVariant": "Higher power could be a little clearer."
+          },
+          {
+            "stringId": "1915681596115542016",
+            "femaleVariant": "Major arcanum? What's that?"
+          },
+          {
+            "stringId": "1915681818765975552",
+            "femaleVariant": "The-- the what now? Major arcanum?",
+            "maleVariant": "The what now? Major arcanum?"
+          },
+          {
+            "stringId": "1915683273602260992",
+            "femaleVariant": "Tarot card, archetype, knowledge held in symbolic form, a stage in your journey through life – take your pick."
+          },
+          {
+            "stringId": "1915685739483914240",
+            "femaleVariant": "Either way – you're sayin' some higher power's talkin' to me through tarot cards?"
+          },
+          {
+            "stringId": "1915687571606233088",
+            "femaleVariant": "Or to Silverhand. Or both of you, seeing as you form a harmonious whole at the moment."
+          },
+          {
+            "stringId": "1915690638833639424",
+            "femaleVariant": "Be a little easier if this higher power learned to be direct."
+          },
+          {
+            "stringId": "1915692407806517248",
+            "femaleVariant": "Well, the world is a maze of illusions. It's not easy for the light to shine into the prison of our earthly existence."
+          },
+          {
+            "stringId": "1915704506561617920",
+            "femaleVariant": "Right, great – so what do I do with a sign I can't understand, from a power I know nothing about?",
+            "maleVariant": "Right, great – so what do I do with a sign I can't understand, from a power I know nothin' about?"
+          },
+          {
+            "stringId": "1915708711334600704",
+            "femaleVariant": "I'd start by looking for more of them. The tarot describes a road – so go down it."
+          },
+          {
+            "stringId": "1915742640921927684",
+            "femaleVariant": "Nope. Not buying it."
+          },
+          {
+            "stringId": "1915742857767444480",
+            "femaleVariant": "What do I do with what I find?"
+          },
+          {
+            "stringId": "1915743245673455616",
+            "femaleVariant": "Nope. Don't buy it. Sorry, mystical messages from the beyond are, uh, beyond me."
+          },
+          {
+            "stringId": "1915743316255203328",
+            "femaleVariant": "Still don't know what I'm s'posed to do with what I find."
+          },
+          {
+            "stringId": "1915744938460995584",
+            "femaleVariant": "Well, if I were you, I wouldn't ignore the signs."
+          },
+          {
+            "stringId": "1915796126636204032",
+            "femaleVariant": "Look for more images. They must have some connection to the place where you find them."
+          },
+          {
+            "stringId": "1915870949026586624",
+            "femaleVariant": "Think about what you see. You ask me, they've been sent to help you find the truth."
+          },
+          {
+            "stringId": "1915888953495937024",
+            "femaleVariant": "Ugh, findin' the truth is pretty far down on my list at the moment.",
+            "maleVariant": "Findin' the truth is pretty far down on my list at the moment."
+          },
+          {
+            "stringId": "1915889891694632960",
+            "femaleVariant": "A difficult time is coming when you'll have to choose which road to take. Then, you'll understand."
+          },
+          {
+            "stringId": "1915892177741307904",
+            "femaleVariant": "Come on back when you've found more. I'll help you decipher what you've seen."
+          },
+          {
+            "stringId": "1915949320251138048",
+            "femaleVariant": "Dunno...",
+            "maleVariant": "I dunno..."
+          },
+          {
+            "stringId": "1940023565848207360",
+            "femaleVariant": "What's that chick's name, the one with the hair?"
+          },
+          {
+            "stringId": "1940340396173615104",
+            "femaleVariant": "Hey, look!"
+          },
+          {
+            "stringId": "1943456605500104704",
+            "femaleVariant": "Would ya look at that. You see it too, right?"
+          },
+          {
+            "stringId": "2072231605887623172",
+            "femaleVariant": "Huh, interesting."
+          },
+          {
+            "stringId": "2072305371699273728",
+            "femaleVariant": "Well, well, well..."
+          },
+          {
+            "stringId": "2072306405830090752",
+            "femaleVariant": "Who woulda thought..."
+          },
+          {
+            "stringId": "2072307404493873152",
+            "femaleVariant": "What do we have here?"
+          },
+          {
+            "stringId": "2072308283485773824",
+            "femaleVariant": "Whoa..."
+          },
+          {
+            "stringId": "2072309031632166912",
+            "femaleVariant": "Huh, interesting."
+          },
+          {
+            "stringId": "2072309603282247680",
+            "femaleVariant": "Well, well, well..."
+          },
+          {
+            "stringId": "2072310308193755136",
+            "femaleVariant": "Who woulda thought..."
+          },
+          {
+            "stringId": "2072310916871151616",
+            "femaleVariant": "What do we have here?"
+          },
+          {
+            "stringId": "2072311448507572224",
+            "femaleVariant": "Whoa..."
+          },
+          {
+            "stringId": "2072312010191986688",
+            "femaleVariant": "Huh, interesting."
+          },
+          {
+            "stringId": "2072312594307538944",
+            "femaleVariant": "Well, well, well..."
+          },
+          {
+            "stringId": "2072313455867912192",
+            "femaleVariant": "Who woulda thought..."
+          },
+          {
+            "stringId": "2072314161853161472",
+            "femaleVariant": "What do we have here?"
+          },
+          {
+            "stringId": "2072315055877447680",
+            "femaleVariant": "Whoa..."
+          },
+          {
+            "stringId": "2072315538272739328",
+            "femaleVariant": "Huh, interesting."
+          },
+          {
+            "stringId": "2072316026976264192",
+            "femaleVariant": "Well, well, well..."
+          },
+          {
+            "stringId": "2072316518901014528",
+            "femaleVariant": "Who woulda thought..."
+          },
+          {
+            "stringId": "2072317018560061440",
+            "femaleVariant": "What do we have here?"
+          },
+          {
+            "stringId": "2072317713942110208",
+            "femaleVariant": "Whoa..."
+          },
+          {
+            "stringId": "2082425660936347648",
+            "femaleVariant": "Huh, interesting."
+          }
+        ]
+      }
+
+
+

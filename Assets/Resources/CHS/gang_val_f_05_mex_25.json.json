@@ -1,0 +1,192 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1806673308635750404",
+            "femaleVariant": "来啊，老铁，我来关照你。"
+          },
+          {
+            "stringId": "1806673308652527620",
+            "femaleVariant": "老铁，下脚要小心呐。"
+          },
+          {
+            "stringId": "1806673308686082052",
+            "femaleVariant": "别跑这么快，要不我就动手了。"
+          },
+          {
+            "stringId": "1806673308702859268",
+            "femaleVariant": "喂，退后。要不让你脸蛋开花。"
+          },
+          {
+            "stringId": "1806673308820299780",
+            "femaleVariant": "赶紧带着那玩意儿滚，要不我今儿就教你做人。"
+          },
+          {
+            "stringId": "1806673309038403588",
+            "femaleVariant": "老铁，你这样就交不到朋友了。"
+          },
+          {
+            "stringId": "1806673309071958020",
+            "femaleVariant": "冷静，要不提早送你去见阎王。"
+          },
+          {
+            "stringId": "1806673309088735236",
+            "femaleVariant": "你想找麻烦吗？"
+          },
+          {
+            "stringId": "1806673309139066884",
+            "femaleVariant": "怎么，婊子，你还有话说啊？没？那就滚吧。"
+          },
+          {
+            "stringId": "1806673309155844100",
+            "femaleVariant": "滚出去。"
+          },
+          {
+            "stringId": "1806673309189398532",
+            "femaleVariant": "看来有人潜进来了。"
+          },
+          {
+            "stringId": "1806673309206175748",
+            "femaleVariant": "谁在那儿？"
+          },
+          {
+            "stringId": "1806673309239730180",
+            "femaleVariant": "啊哼！完事儿啦。"
+          },
+          {
+            "stringId": "1806673309256507396",
+            "femaleVariant": "虽然没啥情况，但还是要保持警惕。"
+          },
+          {
+            "stringId": "1806673309306839044",
+            "femaleVariant": "你可以跑，但你藏不了多久了！"
+          },
+          {
+            "stringId": "1806673309323616260",
+            "femaleVariant": "你的脑袋会从哪伸出来呢，嗯？"
+          },
+          {
+            "stringId": "1806673309357170688",
+            "femaleVariant": "有人死了！我们有人死了！"
+          },
+          {
+            "stringId": "1806673309373947908",
+            "femaleVariant": "好的。"
+          },
+          {
+            "stringId": "1806673309424279556",
+            "femaleVariant": "我需要支援！"
+          },
+          {
+            "stringId": "1806673309441056772",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"zorra\" b=\"哦，\" a=\"（烂婊子），你死定了！\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"cabrón\" b=\"哦，\" a=\"（混蛋），你死定了！\"/>"
+          },
+          {
+            "stringId": "1806673309457833988",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"puta\" b=\"呃，尝尝这个，\" a=\"（混蛋）！\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"culero\" b=\"呃，尝尝这个，\" a=\"（王八蛋）！\"/>"
+          },
+          {
+            "stringId": "1806673309508165636",
+            "femaleVariant": "我要打爆你的屁股！"
+          },
+          {
+            "stringId": "1806673309524942852",
+            "femaleVariant": "我们走，混账们！"
+          },
+          {
+            "stringId": "1806673309558497284",
+            "femaleVariant": "我经历了这么多，怎么会死在这里！"
+          },
+          {
+            "stringId": "1806673309575274500",
+            "femaleVariant": "够了！"
+          },
+          {
+            "stringId": "1806673309625606148",
+            "femaleVariant": "喂！你冒犯我了。"
+          },
+          {
+            "stringId": "1806673309642383364",
+            "femaleVariant": "一拳回敬你。"
+          },
+          {
+            "stringId": "1806673309692715012",
+            "femaleVariant": "喂？"
+          },
+          {
+            "stringId": "1806673309743046656",
+            "femaleVariant": "嘿，宝贝儿，是你打电话…？宝宝，我现在不能…等我办完事儿立马就来…"
+          },
+          {
+            "stringId": "1806673309743046668",
+            "femaleVariant": "嘘，别哭…好吗…告诉妈妈怎么回事…你为什么打架？"
+          },
+          {
+            "stringId": "1806673309793378308",
+            "femaleVariant": "包围她！"
+          },
+          {
+            "stringId": "1806673309826932740",
+            "femaleVariant": "来了！"
+          },
+          {
+            "stringId": "1806673309860487172",
+            "femaleVariant": "跑！靠，快跑！"
+          },
+          {
+            "stringId": "1806673309877264388",
+            "femaleVariant": "爱你！再见。"
+          },
+          {
+            "stringId": "1806673309894041604",
+            "femaleVariant": "有人吗？"
+          },
+          {
+            "stringId": "1806673309927596036",
+            "femaleVariant": "对，我也不想，但我们必须去。"
+          },
+          {
+            "stringId": "1806673309944373252",
+            "femaleVariant": "让他们知道什么叫恐怖！"
+          },
+          {
+            "stringId": "1806673309977927684",
+            "femaleVariant": "干你的活儿去。"
+          },
+          {
+            "stringId": "1806673309994704900",
+            "femaleVariant": "这就是你的报应！"
+          },
+          {
+            "stringId": "1806673310028259332",
+            "femaleVariant": "咔嗷嗷…呃…不…放开我…"
+          },
+          {
+            "stringId": "1867559927299039232",
+            "femaleVariant": "别，别哭啊，妈妈也希望能陪着你。"
+          },
+          {
+            "stringId": "1867562681597812736",
+            "femaleVariant": "你已经和哥哥一样是个大男孩儿了，让你妹妹…嗯…好，我马上就来。"
+          }
+        ]
+      }
+
+
+

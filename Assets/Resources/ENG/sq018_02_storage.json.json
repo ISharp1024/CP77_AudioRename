@@ -1,0 +1,691 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1699619057022443520",
+            "femaleVariant": "Nice still."
+          },
+          {
+            "stringId": "1699639475498295296",
+            "femaleVariant": "Well, you got something for your ofrenda. But we could look around a little more."
+          },
+          {
+            "stringId": "1702632339975086080",
+            "femaleVariant": "An aquarium?"
+          },
+          {
+            "stringId": "1718781917489176576",
+            "femaleVariant": "Looks like he swapped out the exhaust pipe.",
+            "maleVariant": "Heh, looks like he swapped out the exhaust pipe."
+          },
+          {
+            "stringId": "1718782714323050496",
+            "femaleVariant": "Fine piece o' metal and mechanics. Yeah – he was sooo psyched...",
+            "maleVariant": "A fine piece o' metal and mechanics. Heh. He was so psyched..."
+          },
+          {
+            "stringId": "1852991538098655232",
+            "femaleVariant": "Hi, V."
+          },
+          {
+            "stringId": "1852992277017579524",
+            "femaleVariant": "What're you doing here?"
+          },
+          {
+            "stringId": "1852992530538090496",
+            "femaleVariant": "Just sitting here? Alone?"
+          },
+          {
+            "stringId": "1852993264105082880",
+            "femaleVariant": "What're you doin' here?"
+          },
+          {
+            "stringId": "1852993476487860224",
+            "femaleVariant": "You here alone? This is not exactly the safest neighborhood in town, Misty."
+          },
+          {
+            "stringId": "1852995935876730880",
+            "femaleVariant": "I used to sit on the stairs when I was ten. Twenty-six now – if anything was gonna happen, it wouldn'ta taken this long."
+          },
+          {
+            "stringId": "1852996823039135744",
+            "femaleVariant": "Sittin' and waitin'... And, yeah, waitin' for him, though I know he's never comin' back."
+          },
+          {
+            "stringId": "1852996931201847296",
+            "femaleVariant": "I know it's gonk, it's just... I miss him. A lot."
+          },
+          {
+            "stringId": "1852997822642442244",
+            "femaleVariant": "Jack told me about you."
+          },
+          {
+            "stringId": "1852998246837571584",
+            "femaleVariant": "You know each other long?"
+          },
+          {
+            "stringId": "1852998688430673920",
+            "femaleVariant": "Jack talked about you... a lot. Always sayin' how much you meant to 'im.",
+            "maleVariant": "Jack talked about you a lot. Always sayin' how much you meant to 'im."
+          },
+          {
+            "stringId": "1852998900746342400",
+            "femaleVariant": "You knew each other long?",
+            "maleVariant": "You know each other long?"
+          },
+          {
+            "stringId": "1852999987859607552",
+            "femaleVariant": "Did he really say that? I bet he used different words."
+          },
+          {
+            "stringId": "1853000274917773312",
+            "femaleVariant": "Half our lives. Grew up in the same streets – saw each other a lot but just never got together…"
+          },
+          {
+            "stringId": "1853001989297590272",
+            "femaleVariant": "Nah, Jack was... Jack was a little of that, too. Always lookin' on the bright side…",
+            "maleVariant": "No, Jack was... a little of that, too. Always lookin' on the bright side…"
+          },
+          {
+            "stringId": "1853002060080664580",
+            "femaleVariant": "He was like that, too."
+          },
+          {
+            "stringId": "1853002197435731968",
+            "femaleVariant": "Who was he to you?"
+          },
+          {
+            "stringId": "1853003700724617216",
+            "femaleVariant": "He wore his heart on his sleeve. And wasn't at all afraid to live fully."
+          },
+          {
+            "stringId": "1853004207111327744",
+            "femaleVariant": "Had his inner demons, though."
+          },
+          {
+            "stringId": "1853004559969734656",
+            "femaleVariant": "Who doesn't?"
+          },
+          {
+            "stringId": "1853004655650197504",
+            "femaleVariant": "Exactly. They're what makes us who we really are on the inside."
+          },
+          {
+            "stringId": "1853006256448262144",
+            "femaleVariant": "Mama Welles is having a send-off for Jackie. I need to find somethin' he really cared about."
+          },
+          {
+            "stringId": "1853006374241095684",
+            "femaleVariant": "Help me find something for the ofrenda?"
+          },
+          {
+            "stringId": "1853006552817782784",
+            "femaleVariant": "Why didn't you go in?"
+          },
+          {
+            "stringId": "1853006744145154052",
+            "femaleVariant": "How come you're outside?"
+          },
+          {
+            "stringId": "1853007979552231424",
+            "femaleVariant": "I'm not sure I should go in there, V."
+          },
+          {
+            "stringId": "1853008200474611712",
+            "femaleVariant": "I don't have the key."
+          },
+          {
+            "stringId": "1853029324616945664",
+            "femaleVariant": "Hm. Locked. Wonder what's in there.",
+            "maleVariant": "Ugh. Locked. I wonder what's in there."
+          },
+          {
+            "stringId": "1853029448617349120",
+            "femaleVariant": "That's his lair, slept there. He musta had a different key."
+          },
+          {
+            "stringId": "1853029703916244992",
+            "femaleVariant": "Let's look around, might be tucked away somewhere?"
+          },
+          {
+            "stringId": "1853030358999420928",
+            "femaleVariant": "Found it."
+          },
+          {
+            "stringId": "1853043435463561216",
+            "femaleVariant": "Oh, Jackie..."
+          },
+          {
+            "stringId": "1853043801592745984",
+            "femaleVariant": "Hey, you all right?"
+          },
+          {
+            "stringId": "1853043872342265860",
+            "femaleVariant": "You all right?"
+          },
+          {
+            "stringId": "1853044462665388036",
+            "femaleVariant": "That a... a mandala...?",
+            "maleVariant": "That a... mandala...?"
+          },
+          {
+            "stringId": "1853044783194099716",
+            "femaleVariant": "I once told Jackie he should sweep all the dark energy out of this place. A sand mandala'd do the trick, for example."
+          },
+          {
+            "stringId": "1853046276617981952",
+            "femaleVariant": "I'm so much better than all right."
+          },
+          {
+            "stringId": "1853046639123288064",
+            "femaleVariant": "He told me that out of sand, he'd build a castle, a home, the Welles' family hideout, stronghold, somethin'…"
+          },
+          {
+            "stringId": "1853046850935640064",
+            "femaleVariant": "I guess you made a bigger impression than you thought."
+          },
+          {
+            "stringId": "1853047008691802112",
+            "femaleVariant": "I guess I did..."
+          },
+          {
+            "stringId": "1853303390506635264",
+            "femaleVariant": "His favorite."
+          },
+          {
+            "stringId": "1853303505447342080",
+            "femaleVariant": "Still full."
+          },
+          {
+            "stringId": "1853303590642044928",
+            "femaleVariant": "Strategic reserve. No touching."
+          },
+          {
+            "stringId": "1853303664461795328",
+            "femaleVariant": "How come?"
+          },
+          {
+            "stringId": "1853303799216394240",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"«Porque no puedes tocar una reserva estratégica, ¿va?»\" t=\"\\\"Because you can't touch a strategic reserve, OK?\\\" \" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1853306427182731264",
+            "femaleVariant": "Heh, Jackie loved to pump iron, didn't he?",
+            "maleVariant": "Jackie loved to pump iron, didn't he?"
+          },
+          {
+            "stringId": "1853306580593594368",
+            "femaleVariant": "He called it his form of meditation."
+          },
+          {
+            "stringId": "1853306716673593344",
+            "femaleVariant": "He used to say barbells are the best listeners. They understand all your problems and never give you gonk advice."
+          },
+          {
+            "stringId": "1853307000292429824",
+            "femaleVariant": "Guess no man cave's complete without some of those, huh?"
+          },
+          {
+            "stringId": "1853307327230038016",
+            "femaleVariant": "Heh, gotta be hanging here since 2020.",
+            "maleVariant": "Gotta be hanging here since 2020."
+          },
+          {
+            "stringId": "1853307672974905344",
+            "femaleVariant": "Loved to poke around engines."
+          },
+          {
+            "stringId": "1853307731242176512",
+            "femaleVariant": "He was fifteen when he first got on a bike."
+          },
+          {
+            "stringId": "1853307881985462272",
+            "femaleVariant": "Knowing him, it is a miracle he never wiped out.",
+            "maleVariant": "Knowing him, it's a miracle he never wiped out."
+          },
+          {
+            "stringId": "1853309830139006976",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1853309886661447680",
+            "femaleVariant": "Advised him to do it... right before the job.",
+            "maleVariant": "I advised him to do it... right before the job."
+          },
+          {
+            "stringId": "1854623201962545152",
+            "femaleVariant": "\"For Whom the Bell Tolls\" – Ernest Hemingway."
+          },
+          {
+            "stringId": "1854623312692170752",
+            "femaleVariant": "Jack read it a dozen times. Always right before a big job."
+          },
+          {
+            "stringId": "1854623381042548736",
+            "femaleVariant": "He said the guy who wrote it was tougher than Morgan Blackhand."
+          },
+          {
+            "stringId": "1854623528665272320",
+            "femaleVariant": "You read it? Is it any good?",
+            "maleVariant": "Have you read it? Is it any good?"
+          },
+          {
+            "stringId": "1854623759922417664",
+            "femaleVariant": "I, uh... I never got the chance."
+          },
+          {
+            "stringId": "1854624844787535872",
+            "femaleVariant": "Used to be Taco's."
+          },
+          {
+            "stringId": "1854624931659960320",
+            "femaleVariant": "And Taco was..."
+          },
+          {
+            "stringId": "1854625261667799040",
+            "femaleVariant": "His fish. A dwarf shark, like, mini."
+          },
+          {
+            "stringId": "1854626545175154688",
+            "femaleVariant": "Basketball signed by Dante González."
+          },
+          {
+            "stringId": "1854626658622689280",
+            "femaleVariant": "He was from Heywood, too. Everyone here shot hoops, Dante ran circles around 'em."
+          },
+          {
+            "stringId": "1854626816982831104",
+            "femaleVariant": "I think he mighta been the first kid to ditch the Valentinos."
+          },
+          {
+            "stringId": "1854626889443627008",
+            "femaleVariant": "Like Jackie?"
+          },
+          {
+            "stringId": "1854627103135027200",
+            "femaleVariant": "Mhm. They both wanted more outta life."
+          },
+          {
+            "stringId": "1854627206365237248",
+            "femaleVariant": "Dante's captain of the NC Blackouts now."
+          },
+          {
+            "stringId": "1854628072841334784",
+            "femaleVariant": "Heh, Jackie's favorite tequila. Still sealed.",
+            "maleVariant": "Jackie's favorite tequila. Huh, still sealed."
+          },
+          {
+            "stringId": "1854632228658401284",
+            "femaleVariant": "Gotta be Jackie's dad.",
+            "maleVariant": "It's gotta be Jackie's dad."
+          },
+          {
+            "stringId": "1854636579426717696",
+            "femaleVariant": "Leather belt?"
+          },
+          {
+            "stringId": "1854637643722969088",
+            "femaleVariant": "In case his dad ever comes back."
+          },
+          {
+            "stringId": "1854641754342215680",
+            "femaleVariant": "Did you meet him?",
+            "maleVariant": "D'you meet him?"
+          },
+          {
+            "stringId": "1854644902939119616",
+            "femaleVariant": "Typical Jackie."
+          },
+          {
+            "stringId": "1854644988603584512",
+            "femaleVariant": "Of course he'd go for this one."
+          },
+          {
+            "stringId": "1854710069387382784",
+            "femaleVariant": "Sort of a memento. His dad's. Used to beat both Jackie and his mom with it."
+          },
+          {
+            "stringId": "1854710141328084992",
+            "femaleVariant": "Until one day Jackie fought back, kicked his butt, told him he'd kill him next time. Old man was hospitalized and then he left."
+          },
+          {
+            "stringId": "1854710614529462272",
+            "femaleVariant": "Why'd he hold onto it?"
+          },
+          {
+            "stringId": "1854713409009668096",
+            "femaleVariant": "Old school ganger. Valentinos, of course."
+          },
+          {
+            "stringId": "1854713664392450048",
+            "femaleVariant": "No, I only ever heard about him. But he didn't exactly inspire many fond memories."
+          },
+          {
+            "stringId": "1867799900019544064",
+            "femaleVariant": "Yeah. Best darn year of my life."
+          },
+          {
+            "stringId": "1867800587348529152",
+            "femaleVariant": "You actually got to know him – the real Jackie. Everybody else thought he was a goofball with a rough-hewn face and an edge. But they're wrong."
+          },
+          {
+            "stringId": "1885228976896266240",
+            "femaleVariant": "He said they're collectibles. They don't print them anymore."
+          },
+          {
+            "stringId": "1885231847863799808",
+            "femaleVariant": "That's definitely why they're up there, yeah."
+          },
+          {
+            "stringId": "1886637819584892932",
+            "femaleVariant": "Part of the strategic reserve?"
+          },
+          {
+            "stringId": "1886638287853768704",
+            "femaleVariant": "It's his lucky charm. One of the first bottles ever made by Jesús de Abajo."
+          },
+          {
+            "stringId": "1886638294212333568",
+            "femaleVariant": "The founder of Centzon Tequila?",
+            "maleVariant": "Wha-- the founder of Centzon Tequila?"
+          },
+          {
+            "stringId": "1886638300386349056",
+            "femaleVariant": "Only a hundred of 'em left in the world – all owned by the one percent."
+          },
+          {
+            "stringId": "1886638306744913920",
+            "femaleVariant": "How did Jackie get this one?",
+            "maleVariant": "Wha... how'd Jackie get this one?"
+          },
+          {
+            "stringId": "1886638313002815488",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"abuela\" b=\"Some shriveled \" a=\" in Mexico sold it to him. Told him de Abajo had stolen her recipe.\"/>"
+          },
+          {
+            "stringId": "1927117802346311680",
+            "femaleVariant": "What'd you see in him?"
+          },
+          {
+            "stringId": "1927255087385604096",
+            "femaleVariant": "Lemme tell you what he told me once."
+          },
+          {
+            "stringId": "1927255121829228544",
+            "femaleVariant": "Told me he'd take a bullet for me – in an instant. Even if it'd kill him."
+          },
+          {
+            "stringId": "1927255316008726528",
+            "femaleVariant": "Spoken like a true Heywood boy."
+          },
+          {
+            "stringId": "1927255392630272000",
+            "femaleVariant": "A man – with dreams, ambitions. Only thing they cost him was his life."
+          },
+          {
+            "stringId": "1927275670177509376",
+            "femaleVariant": "There's a huge chunk of his past in there…"
+          },
+          {
+            "stringId": "1927296362155536384",
+            "femaleVariant": "Still too soon?"
+          },
+          {
+            "stringId": "1927296936741629952",
+            "femaleVariant": "No, it's not that. Mama Welles and I aren't exactly on the best terms."
+          },
+          {
+            "stringId": "1927296994388144128",
+            "femaleVariant": "She wouldn't want me touching any of his things, disturbing the memory – that I know."
+          },
+          {
+            "stringId": "1927297159526281216",
+            "femaleVariant": "Jackie'd want you here – that's more important."
+          },
+          {
+            "stringId": "1927297250643341312",
+            "femaleVariant": "Come on."
+          },
+          {
+            "stringId": "1927305746709409792",
+            "femaleVariant": "Heh, maybe, but... that's what he meant. I really believe that.",
+            "maleVariant": "Heh, maybe, but that's what he meant. I really believe that."
+          },
+          {
+            "stringId": "1928727516846944256",
+            "femaleVariant": "Wanna sit? Catch up?"
+          },
+          {
+            "stringId": "1928736007493971968",
+            "femaleVariant": "Lately I've just been comin' here to sit. An hour, sometimes two."
+          },
+          {
+            "stringId": "1928738017622552576",
+            "femaleVariant": "Till a year back."
+          },
+          {
+            "stringId": "1928780645474955264",
+            "femaleVariant": "Mind givin' me a hand?",
+            "maleVariant": "Ya mind givin' me a hand?"
+          },
+          {
+            "stringId": "1928793042847723520",
+            "femaleVariant": "Jackie never gave you a set? You two didn't get that far?",
+            "maleVariant": "Jackie never gave you a set? Wha-- you two didn't get that far?"
+          },
+          {
+            "stringId": "1928793270799757312",
+            "femaleVariant": "He offered. But I wanted him to have his own space, just his own."
+          },
+          {
+            "stringId": "1937314604613824512",
+            "femaleVariant": "Mhm. Oof, it's a long story."
+          },
+          {
+            "stringId": "1937317127722561536",
+            "femaleVariant": "Looks a little crooked…"
+          },
+          {
+            "stringId": "1937317133510701056",
+            "femaleVariant": "It's beautiful."
+          },
+          {
+            "stringId": "1937317138443202560",
+            "femaleVariant": "Isn't it just a little... janky?",
+            "maleVariant": "Isn't it just a little, uh... janky?"
+          },
+          {
+            "stringId": "1937317781463560192",
+            "femaleVariant": "It's beautiful."
+          },
+          {
+            "stringId": "1937319543020908544",
+            "femaleVariant": "It's hideous."
+          },
+          {
+            "stringId": "1937335792912232448",
+            "femaleVariant": "But it's also the most beautiful thing I've ever seen."
+          },
+          {
+            "stringId": "1937340415505002496",
+            "femaleVariant": "It'd be a good tribute for the ofrenda, though."
+          },
+          {
+            "stringId": "1937410900213297152",
+            "femaleVariant": "Sounds like a mighty expensive fish."
+          },
+          {
+            "stringId": "1937411098704539648",
+            "femaleVariant": "Pfft. Oh, I don't think he bought it."
+          },
+          {
+            "stringId": "1942845947135303684",
+            "femaleVariant": "[Take] The Jackster all the way."
+          },
+          {
+            "stringId": "1942850655694528512",
+            "femaleVariant": "[Take] Yeah, nice, fitting."
+          },
+          {
+            "stringId": "1942851325709426688",
+            "femaleVariant": "[Take] Oughta be just right, this."
+          },
+          {
+            "stringId": "1942855605912772608",
+            "femaleVariant": "[Take] This, yeah, this'll be good."
+          },
+          {
+            "stringId": "1943128215422672896",
+            "femaleVariant": "An autograph?"
+          },
+          {
+            "stringId": "1943129611270266880",
+            "femaleVariant": "A book?"
+          },
+          {
+            "stringId": "1943140999409606656",
+            "femaleVariant": "[Sit] That's normal."
+          },
+          {
+            "stringId": "1943141290460749824",
+            "femaleVariant": "I have to find something for the ofrenda."
+          },
+          {
+            "stringId": "1943141844008214528",
+            "femaleVariant": "Hardly gonk at all... just, well, human."
+          },
+          {
+            "stringId": "1943156852117118976",
+            "femaleVariant": "Jackie's belt?"
+          },
+          {
+            "stringId": "1943156855069908992",
+            "femaleVariant": "His favorite tequila."
+          },
+          {
+            "stringId": "1978012620067766276",
+            "femaleVariant": "Haven't been touched."
+          },
+          {
+            "stringId": "1978015180841353220",
+            "femaleVariant": "He loved to pump iron."
+          },
+          {
+            "stringId": "1978025456617717764",
+            "femaleVariant": "An essential for every garage."
+          },
+          {
+            "stringId": "1978046913670348800",
+            "femaleVariant": "Classic."
+          },
+          {
+            "stringId": "1978048443182022660",
+            "femaleVariant": "Loved poking around engines."
+          },
+          {
+            "stringId": "1978122641510301700",
+            "femaleVariant": "He tuned it up."
+          },
+          {
+            "stringId": "1978148857202147328",
+            "femaleVariant": "He loved this piece of metal."
+          },
+          {
+            "stringId": "1978209060983472132",
+            "femaleVariant": "Must be Jackie's dad."
+          },
+          {
+            "stringId": "1978217029506760708",
+            "femaleVariant": "Nice photo. This is you."
+          },
+          {
+            "stringId": "1978217383791230980",
+            "femaleVariant": "An aquarium?"
+          },
+          {
+            "stringId": "1979459572135428096",
+            "femaleVariant": "Better get goin'."
+          },
+          {
+            "stringId": "1979597070479040516",
+            "femaleVariant": "[Open] Let's go."
+          },
+          {
+            "stringId": "2019941391965024256",
+            "femaleVariant": "I guess."
+          },
+          {
+            "stringId": "2066633638896640004",
+            "femaleVariant": "[Open]"
+          },
+          {
+            "stringId": "2241811332823318532",
+            "femaleVariant": "[Open]"
+          },
+          {
+            "stringId": "2243207234557378560",
+            "femaleVariant": "[Open]"
+          },
+          {
+            "stringId": "2262065727332859904",
+            "femaleVariant": "Jack, pure and simple…"
+          },
+          {
+            "stringId": "2262065731325837312",
+            "femaleVariant": "V, what're we doing?"
+          },
+          {
+            "stringId": "2262097557251604484",
+            "femaleVariant": "Hm. This'll be... fitting."
+          },
+          {
+            "stringId": "2262119988825604096",
+            "femaleVariant": "What now? Huh?"
+          },
+          {
+            "stringId": "2262120180454965256",
+            "femaleVariant": "Uh, whaddaya expect to happen?"
+          },
+          {
+            "stringId": "2262120302073004040",
+            "femaleVariant": "Should we even go in there? I'm not really sure…"
+          },
+          {
+            "stringId": "2262167170450636808",
+            "femaleVariant": "You decide, V. We goin' in or not?"
+          },
+          {
+            "stringId": "2262167178654695432",
+            "femaleVariant": "Think you have everything you need?"
+          },
+          {
+            "stringId": "2262174640908713992",
+            "femaleVariant": "Something else, V…?"
+          },
+          {
+            "stringId": "2263438725667274760",
+            "femaleVariant": "True memento, this."
+          },
+          {
+            "stringId": "2263438892852232192",
+            "femaleVariant": "Takin' this, yeah. Perfect for Jackie."
+          }
+        ]
+      }
+
+
+

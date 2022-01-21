@@ -1,0 +1,278 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1319885429377355776",
+            "femaleVariant": "Prologue"
+          },
+          {
+            "stringId": "1319885737776140288",
+            "femaleVariant": "Act I"
+          },
+          {
+            "stringId": "1319886875841810432",
+            "femaleVariant": "Beginning"
+          },
+          {
+            "stringId": "1319888359266471936",
+            "femaleVariant": "Q000"
+          },
+          {
+            "stringId": "1319889181333278720",
+            "femaleVariant": "Q001"
+          },
+          {
+            "stringId": "1319889266611867648",
+            "femaleVariant": "Q003"
+          },
+          {
+            "stringId": "1319889397474152448",
+            "femaleVariant": "Q004"
+          },
+          {
+            "stringId": "1319889483876814848",
+            "femaleVariant": "Q005"
+          },
+          {
+            "stringId": "1319889858344275968",
+            "femaleVariant": "Q101"
+          },
+          {
+            "stringId": "1319890783574183936",
+            "femaleVariant": "Q104"
+          },
+          {
+            "stringId": "1319891563983163392",
+            "femaleVariant": "Q105"
+          },
+          {
+            "stringId": "1319891628860657664",
+            "femaleVariant": "Q108"
+          },
+          {
+            "stringId": "1319891795793956864",
+            "femaleVariant": "Q110"
+          },
+          {
+            "stringId": "1319892051931713536",
+            "femaleVariant": "Q112"
+          },
+          {
+            "stringId": "1319892651431972864",
+            "femaleVariant": "Back"
+          },
+          {
+            "stringId": "1319893246754705408",
+            "femaleVariant": "Back"
+          },
+          {
+            "stringId": "1319896148726534144",
+            "femaleVariant": "Q201"
+          },
+          {
+            "stringId": "1319896625451126784",
+            "femaleVariant": "Q202"
+          },
+          {
+            "stringId": "1319896704589254656",
+            "femaleVariant": "Q203"
+          },
+          {
+            "stringId": "1319896768611110912",
+            "femaleVariant": "Q204"
+          },
+          {
+            "stringId": "1319896939738714112",
+            "femaleVariant": "Back"
+          },
+          {
+            "stringId": "1319897901375180800",
+            "femaleVariant": "Q103"
+          },
+          {
+            "stringId": "1335793368776593408",
+            "femaleVariant": "Finale"
+          },
+          {
+            "stringId": "1691231195423793152",
+            "femaleVariant": "Street Kid"
+          },
+          {
+            "stringId": "1691231195423793168",
+            "femaleVariant": "Corporate"
+          },
+          {
+            "stringId": "1691231195423793184",
+            "femaleVariant": "Nomad"
+          },
+          {
+            "stringId": "1691231195440570388",
+            "femaleVariant": "Back"
+          },
+          {
+            "stringId": "1691239622753607696",
+            "femaleVariant": "Q113"
+          },
+          {
+            "stringId": "1691239622770384896",
+            "femaleVariant": "Q114"
+          },
+          {
+            "stringId": "1691239622770384912",
+            "femaleVariant": "Q115"
+          },
+          {
+            "stringId": "1691239622770384928",
+            "femaleVariant": "Q116"
+          },
+          {
+            "stringId": "1691239622770384944",
+            "femaleVariant": "Back"
+          },
+          {
+            "stringId": "1691244085576949760",
+            "femaleVariant": "Epilogue"
+          },
+          {
+            "stringId": "1868089031333396480",
+            "femaleVariant": "Street Kid"
+          },
+          {
+            "stringId": "1868089031333396496",
+            "femaleVariant": "Corporate"
+          },
+          {
+            "stringId": "1868089031333396512",
+            "femaleVariant": "Nomad"
+          },
+          {
+            "stringId": "1868089031333396528",
+            "femaleVariant": "Back"
+          },
+          {
+            "stringId": "1868093293534789632",
+            "femaleVariant": "Street Kid"
+          },
+          {
+            "stringId": "1868093293534789648",
+            "femaleVariant": "Corporate"
+          },
+          {
+            "stringId": "1868093293534789664",
+            "femaleVariant": "Nomad"
+          },
+          {
+            "stringId": "1868093293534789680",
+            "femaleVariant": "Back"
+          },
+          {
+            "stringId": "1868093333481340928",
+            "femaleVariant": "Street Kid"
+          },
+          {
+            "stringId": "1868093333481340944",
+            "femaleVariant": "Corporate"
+          },
+          {
+            "stringId": "1868093333481340960",
+            "femaleVariant": "Nomad"
+          },
+          {
+            "stringId": "1868093333481340976",
+            "femaleVariant": "Back"
+          },
+          {
+            "stringId": "1868093389433356288",
+            "femaleVariant": "Street Kid"
+          },
+          {
+            "stringId": "1868093389433356304",
+            "femaleVariant": "Corporate"
+          },
+          {
+            "stringId": "1868093389450133504",
+            "femaleVariant": "Nomad"
+          },
+          {
+            "stringId": "1868093389450133520",
+            "femaleVariant": "Back"
+          },
+          {
+            "stringId": "1876208250512097280",
+            "femaleVariant": "Final Boards"
+          },
+          {
+            "stringId": "1876217634562654212",
+            "femaleVariant": "Q115 - Suicide Final Boards"
+          },
+          {
+            "stringId": "1876218329525272576",
+            "femaleVariant": "Q201 - Corpo Final Boards"
+          },
+          {
+            "stringId": "1876218404670423040",
+            "femaleVariant": "Q202 - Nomad Final Boards"
+          },
+          {
+            "stringId": "1876218492448817152",
+            "femaleVariant": "Q203 - Afterlife Final Boards"
+          },
+          {
+            "stringId": "1876218561705164800",
+            "femaleVariant": "Q204 - Johnny Final Boards"
+          },
+          {
+            "stringId": "1876218774306045952",
+            "femaleVariant": "Back"
+          },
+          {
+            "stringId": "2075205222420221956",
+            "femaleVariant": "[pl_pl]Beggining"
+          },
+          {
+            "stringId": "2075206547568627712",
+            "femaleVariant": "[pl_pl]V's room"
+          },
+          {
+            "stringId": "2075210482832412676",
+            "femaleVariant": "[pl_pl]Beggining"
+          },
+          {
+            "stringId": "2075211441599975424",
+            "femaleVariant": "[pl_pl]After Johnny in our room"
+          },
+          {
+            "stringId": "2085347890114629636",
+            "femaleVariant": "[pl_pl]No"
+          },
+          {
+            "stringId": "2085348489145126912",
+            "femaleVariant": "[pl_pl]Yes"
+          },
+          {
+            "stringId": "2141880666168745988",
+            "femaleVariant": "[db_db]YES"
+          },
+          {
+            "stringId": "2141881609534824448",
+            "femaleVariant": "[db_db]NO"
+          }
+        ]
+      }
+
+
+

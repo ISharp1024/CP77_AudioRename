@@ -1,0 +1,820 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1374815219719753728",
+            "femaleVariant": "Connect here."
+          },
+          {
+            "stringId": "1374828284305625088",
+            "femaleVariant": "How should I connect? Personal link?"
+          },
+          {
+            "stringId": "1374828714926428160",
+            "femaleVariant": "How else? Just watch the jack. Sometimes you have to jiggle it a bit."
+          },
+          {
+            "stringId": "1374829283724382208",
+            "femaleVariant": "[Jack in] Ready."
+          },
+          {
+            "stringId": "1374858925541838848",
+            "femaleVariant": "Now, that wasn't so bad, was it?"
+          },
+          {
+            "stringId": "1438902726160863232",
+            "femaleVariant": "Shit. It keeps giving me an error. Odd. Let me work around it."
+          },
+          {
+            "stringId": "1440013070719569920",
+            "femaleVariant": "Just some malware."
+          },
+          {
+            "stringId": "1440013723000950784",
+            "femaleVariant": "Nothing to worry about."
+          },
+          {
+            "stringId": "1440023422647717888",
+            "femaleVariant": "It's not a virus. Just a little malware. You get used to it eventually."
+          },
+          {
+            "stringId": "1440023481619632128",
+            "femaleVariant": "I know, but it's nothing to worry about. Nothing dangerous or anything."
+          },
+          {
+            "stringId": "1440038352272805888",
+            "femaleVariant": "Maybe for you. But this vehicle only has basic security soft. If it's something advanced..."
+          },
+          {
+            "stringId": "1440040768074469376",
+            "femaleVariant": "Uh-huh. Just wondering how it'll work with moving targets."
+          },
+          {
+            "stringId": "1440041029799038976",
+            "femaleVariant": "Wonder how it would work with moving targets."
+          },
+          {
+            "stringId": "1448723744090017792",
+            "femaleVariant": "Don't worry. Nothing too advanced. Pretty backwards, actually."
+          },
+          {
+            "stringId": "1486674898143883264",
+            "femaleVariant": "How do I connect?"
+          },
+          {
+            "stringId": "1492177398310424576",
+            "femaleVariant": "The connection is secure."
+          },
+          {
+            "stringId": "1492177983348723712",
+            "femaleVariant": "Uh, I've got a bioprocessor in my head that operates independently of me. Probably why your diagnostics flagged it."
+          },
+          {
+            "stringId": "1492181607562924032",
+            "femaleVariant": "Your software could use an update."
+          },
+          {
+            "stringId": "1492182007733080064",
+            "femaleVariant": "Calibration's fine, but your soft could really use an update. Scanner, controllers – all a couple generations back, at least."
+          },
+          {
+            "stringId": "1496762592954732544",
+            "femaleVariant": "But no data will leak out of it through the personal link. Your ride's secure."
+          },
+          {
+            "stringId": "1496769982798286848",
+            "femaleVariant": "Fine. I trust you won't fuck anything up."
+          },
+          {
+            "stringId": "1511565415964221440",
+            "femaleVariant": "Hold on tight. This could get a little bumpy."
+          },
+          {
+            "stringId": "1512460219264425984",
+            "femaleVariant": "OK. Here goes nothing."
+          },
+          {
+            "stringId": "1512506476800401408",
+            "femaleVariant": "Hey, if you'd rather daydream, please wait until we're done calibrating."
+          },
+          {
+            "stringId": "1547616667270959104",
+            "femaleVariant": "We need to calibrate you with the turret."
+          },
+          {
+            "stringId": "1547616887237038080",
+            "femaleVariant": "I want you to be able to use the gun, too. It should up our chances in general."
+          },
+          {
+            "stringId": "1553201287738945536",
+            "femaleVariant": "V? You going to connect?"
+          },
+          {
+            "stringId": "1692187991292375040",
+            "femaleVariant": "Is this really necessary?"
+          },
+          {
+            "stringId": "1692194347072221184",
+            "femaleVariant": "Wait a moment. Diagnostics first."
+          },
+          {
+            "stringId": "1692195971207393280",
+            "femaleVariant": "Hey, uh, I think your implant has a virus. The one in the nape of your neck."
+          },
+          {
+            "stringId": "1692199681052504064",
+            "femaleVariant": "And now, Panam, here's Johnny! Out in the middle of bumfuck nowhere. Great work, V."
+          },
+          {
+            "stringId": "1692215973608288256",
+            "femaleVariant": "Mhm. OK..."
+          },
+          {
+            "stringId": "1692257298642759680",
+            "femaleVariant": "Where's the power station?"
+          },
+          {
+            "stringId": "1692258687578140672",
+            "femaleVariant": "So where's this power station?"
+          },
+          {
+            "stringId": "1692259765631709184",
+            "femaleVariant": "The gun is calibrated. You'll have system support. Just be careful with the recoil, it sometimes knocks things out of balance."
+          },
+          {
+            "stringId": "1692261696034959360",
+            "femaleVariant": "You will see in a moment."
+          },
+          {
+            "stringId": "1719607218722697216",
+            "femaleVariant": "Do we really have to waste our time on this?"
+          },
+          {
+            "stringId": "1719611072432435200",
+            "femaleVariant": "We do."
+          },
+          {
+            "stringId": "1719613613308243968",
+            "femaleVariant": "Unless you've already used one of these without help, while moving, while taking fire from all directions. And still managed to hit something."
+          },
+          {
+            "stringId": "1719615766009606144",
+            "femaleVariant": "But somehow, I don't believe that's the case. So don't argue, just connect."
+          },
+          {
+            "stringId": "1724251744701931520",
+            "femaleVariant": "You see that pile of junk? Fire a short burst into it. I'll take care of the calibration."
+          },
+          {
+            "stringId": "1724299565756997632",
+            "femaleVariant": "Good. Next target. Single shot."
+          },
+          {
+            "stringId": "1724300284039946240",
+            "femaleVariant": "OK. Just one more. Longer round."
+          },
+          {
+            "stringId": "1724300614265888768",
+            "femaleVariant": "Great. We're done, I think."
+          },
+          {
+            "stringId": "1724334396230492160",
+            "femaleVariant": "Each antenna collects microwave energy from satellites in orbit. That's then converted into electric power."
+          },
+          {
+            "stringId": "1729744573710331924",
+            "femaleVariant": "Screw you."
+          },
+          {
+            "stringId": "1729744573710331936",
+            "femaleVariant": "Will it affect the calibration?"
+          },
+          {
+            "stringId": "1729744573727109128",
+            "femaleVariant": "We shall see."
+          },
+          {
+            "stringId": "1729744888853557292",
+            "femaleVariant": "Real fucking funny."
+          },
+          {
+            "stringId": "1729744888853557304",
+            "femaleVariant": "You had better see a ripperdoc after all this is over."
+          },
+          {
+            "stringId": "1729744888870334468",
+            "femaleVariant": "All right, mom."
+          },
+          {
+            "stringId": "1731221263225581568",
+            "femaleVariant": "Done anything like this before?"
+          },
+          {
+            "stringId": "1740038205998755860",
+            "femaleVariant": "There's better tech in the bargain bin at a Kabuki flea market. I can help you with that, you know."
+          },
+          {
+            "stringId": "1740038205998755872",
+            "femaleVariant": "Yes, sure. The most important thing is that it works now."
+          },
+          {
+            "stringId": "1740046083774083072",
+            "femaleVariant": "I know a spot. We'll have a decent view from there."
+          },
+          {
+            "stringId": "1751841494209785856",
+            "femaleVariant": "Who owns this power station? Gov or corp?"
+          },
+          {
+            "stringId": "1751841494209785868",
+            "femaleVariant": "Is there any difference? Who do you think pulls the government's strings?"
+          },
+          {
+            "stringId": "1751841494209785880",
+            "femaleVariant": "I'm just wondering whose toes we're about to step all over.",
+            "maleVariant": "Hey, I'm just wondering whose toes we're about to step all over."
+          },
+          {
+            "stringId": "1751841494209785892",
+            "femaleVariant": "V, look around. It is simple. Everything you see is owned by a corporation."
+          },
+          {
+            "stringId": "1751841494293671936",
+            "femaleVariant": "'Cause me, I had to carry a real 'ganic iguana once."
+          },
+          {
+            "stringId": "1751841494293671952",
+            "femaleVariant": "Seriously? A live one?"
+          },
+          {
+            "stringId": "1751841494310449160",
+            "femaleVariant": "Yup. Someone put 'im in a deep sleep, packed 'im in a cooler. No idea why, but man, I made a shitload off that job. Your turn – think you can beat that?"
+          },
+          {
+            "stringId": "1751841494310449172",
+            "femaleVariant": "The deputy finance director of Kaukaz."
+          },
+          {
+            "stringId": "1751841494310449184",
+            "femaleVariant": "Whoa. I'd say it's a tie."
+          },
+          {
+            "stringId": "1751841494327226376",
+            "femaleVariant": "Dead. In the trunk."
+          },
+          {
+            "stringId": "1751841494327226388",
+            "femaleVariant": "OK, fine, you win."
+          },
+          {
+            "stringId": "1751841494360780800",
+            "femaleVariant": "What, are we playing twenty questions?"
+          },
+          {
+            "stringId": "1751841494360780812",
+            "femaleVariant": "C'mon, answer."
+          },
+          {
+            "stringId": "1751841494360780824",
+            "femaleVariant": "The deputy finance director of Kaukaz."
+          },
+          {
+            "stringId": "1751841494377558024",
+            "femaleVariant": "That's chauffeuring, not smuggling."
+          },
+          {
+            "stringId": "1751841494377558036",
+            "femaleVariant": "He rode in the trunk. Flatlined."
+          },
+          {
+            "stringId": "1751841494377558048",
+            "femaleVariant": "Really? Dead?"
+          },
+          {
+            "stringId": "1751841494394335240",
+            "femaleVariant": "A long story. Maybe someday I'll tell you."
+          },
+          {
+            "stringId": "1751846701421424644",
+            "femaleVariant": "Subject change! What's the weirdest thing you've ever smuggled?"
+          },
+          {
+            "stringId": "1751847016967303168",
+            "femaleVariant": "And you like to mess with the corps, huh?"
+          },
+          {
+            "stringId": "1751852472062308352",
+            "femaleVariant": "You like to mess with the corps, huh?"
+          },
+          {
+            "stringId": "1751853522869678080",
+            "femaleVariant": "Whatever gave you that idea?"
+          },
+          {
+            "stringId": "1751853593216544768",
+            "femaleVariant": "Or wait, scratch that."
+          },
+          {
+            "stringId": "1751855279729405952",
+            "femaleVariant": "Well, then I suppose it's a good thing I'm on your side, isn't it?"
+          },
+          {
+            "stringId": "1751855914059165696",
+            "femaleVariant": "Rogue, Nash, the Raffens..."
+          },
+          {
+            "stringId": "1751856558723690496",
+            "femaleVariant": "Mhmmm."
+          },
+          {
+            "stringId": "1751858453240475664",
+            "femaleVariant": "And now for something completely different. Weirdest thing you've ever transported – go."
+          },
+          {
+            "stringId": "1751860871978151936",
+            "femaleVariant": "You're on thin ice, V."
+          },
+          {
+            "stringId": "1751861541154189312",
+            "femaleVariant": "You just like to mess with everyone."
+          },
+          {
+            "stringId": "1751884862793052160",
+            "femaleVariant": "[Lean out] That's a lotta antennas. How do we choose the right one?"
+          },
+          {
+            "stringId": "1751885639477489664",
+            "femaleVariant": "[Lean out] So we set off a chain reaction."
+          },
+          {
+            "stringId": "1751888306551517184",
+            "femaleVariant": "This power station serves the whole city?"
+          },
+          {
+            "stringId": "1751896845399486464",
+            "femaleVariant": "Power station serve the whole city?"
+          },
+          {
+            "stringId": "1751897281942646784",
+            "femaleVariant": "Honestly? Who the fuck knows."
+          },
+          {
+            "stringId": "1751897359537270784",
+            "femaleVariant": "Guess we're about to find out."
+          },
+          {
+            "stringId": "1751898850478125068",
+            "femaleVariant": "Huh, antennas run all the way down the interstate…"
+          },
+          {
+            "stringId": "1751898850478125080",
+            "femaleVariant": "Mhm. And they're linked, which is to your advantage. We just need to mess with the collection unit. A chain reaction will follow. Each one of the antennas will emit an EMP burst."
+          },
+          {
+            "stringId": "1751898850478125092",
+            "femaleVariant": "The AV will be like a fly headed for a spider's web. We just have to fire off the pulse at the right moment."
+          },
+          {
+            "stringId": "1751898850494902276",
+            "femaleVariant": "Let's go get 'er."
+          },
+          {
+            "stringId": "1751899173573750808",
+            "femaleVariant": "Antennas run a ways down the interstate. We set off a chain reaction that starts in the collection unit…"
+          },
+          {
+            "stringId": "1751899173573750820",
+            "femaleVariant": "...then each antenna will emit a massive EMP burst."
+          },
+          {
+            "stringId": "1751899173590528004",
+            "femaleVariant": "While our AV flies right into our net."
+          },
+          {
+            "stringId": "1751899173590528016",
+            "femaleVariant": "Let's go get 'er."
+          },
+          {
+            "stringId": "1751902142805438464",
+            "femaleVariant": "We just have to send out the pulse at the right moment."
+          },
+          {
+            "stringId": "1751912125383176192",
+            "femaleVariant": "Downing an AV? By myself? No."
+          },
+          {
+            "stringId": "1751913453450817536",
+            "femaleVariant": "Why do you ask?"
+          },
+          {
+            "stringId": "1751914258102874116",
+            "femaleVariant": "'Cause you put together one helluva plan."
+          },
+          {
+            "stringId": "1751915427424497664",
+            "femaleVariant": "Rogue was right. You are good at this game."
+          },
+          {
+            "stringId": "1751919180336721920",
+            "femaleVariant": "You never did anything like this with the Aldecaldos?"
+          },
+          {
+            "stringId": "1751922421812293632",
+            "femaleVariant": "Power station, EMP, the systems, networks... Came up with a really solid plan."
+          },
+          {
+            "stringId": "1751922533045235712",
+            "femaleVariant": "Seems Rogue was right."
+          },
+          {
+            "stringId": "1751922620756520960",
+            "femaleVariant": "Thought you woulda done something like this with your clan."
+          },
+          {
+            "stringId": "1751926128922718208",
+            "femaleVariant": "Thank you."
+          },
+          {
+            "stringId": "1751926832609488896",
+            "femaleVariant": "How you approach things – that's the trick. Mine is the triple A."
+          },
+          {
+            "stringId": "1751930285863858176",
+            "femaleVariant": "What now?",
+            "maleVariant": "Wai-- What now?"
+          },
+          {
+            "stringId": "1751930778426142720",
+            "femaleVariant": "Assessment, Assembly, Action."
+          },
+          {
+            "stringId": "1751933730159194112",
+            "femaleVariant": "Whatever your task, you do three things. Start by assessing what you already have and what you'll face, the problem."
+          },
+          {
+            "stringId": "1751940721527091200",
+            "femaleVariant": "Then you plan with those variables in mind. Take what you have, get what you need, assemble things, people. Finally, you take action. Simple."
+          },
+          {
+            "stringId": "1751948839485042688",
+            "femaleVariant": "V..."
+          },
+          {
+            "stringId": "1751949078677811200",
+            "femaleVariant": "What? She said you were good. And she was right."
+          },
+          {
+            "stringId": "1751949901432483840",
+            "femaleVariant": "Yes. I suppose she was."
+          },
+          {
+            "stringId": "1751957082953347072",
+            "femaleVariant": "But we have yet to take the AV. So you might wait before you fasten a halo on her."
+          },
+          {
+            "stringId": "1751958154916786176",
+            "femaleVariant": "Know what? Think I figured you out."
+          },
+          {
+            "stringId": "1751958967068258304",
+            "femaleVariant": "Fuck off. I will get both done."
+          },
+          {
+            "stringId": "1751960045155381248",
+            "femaleVariant": "Oh, you have, have you?"
+          },
+          {
+            "stringId": "1751960236264648704",
+            "femaleVariant": "Either pull off this mission or prove Rogue wrong – choose one."
+          },
+          {
+            "stringId": "1751982577443008512",
+            "femaleVariant": "No... We did take back one of ours from a convoy once. But this, what we're doing now..."
+          },
+          {
+            "stringId": "1751984866677354496",
+            "femaleVariant": "The risk is so much greater."
+          },
+          {
+            "stringId": "1751986272524169216",
+            "femaleVariant": "You don't miss it?"
+          },
+          {
+            "stringId": "1751988935269675008",
+            "femaleVariant": "What? Jobs like this?"
+          },
+          {
+            "stringId": "1751989076919709696",
+            "femaleVariant": "Being in a clan. Being part of a family."
+          },
+          {
+            "stringId": "1751992491318046720",
+            "femaleVariant": "I could ask you the same. How do you feel, all on your own?"
+          },
+          {
+            "stringId": "1751993435388768260",
+            "femaleVariant": "Didn't answer my question."
+          },
+          {
+            "stringId": "1751993638510522368",
+            "femaleVariant": "Not sure. Still think about it sometimes."
+          },
+          {
+            "stringId": "1751993795293605888",
+            "femaleVariant": "I don't miss a thing."
+          },
+          {
+            "stringId": "1752904030984204288",
+            "femaleVariant": "Hey, now. Didn't answer the question."
+          },
+          {
+            "stringId": "1752904155655696384",
+            "femaleVariant": "Yeah, sometimes wonder what life would be like, back with the clan."
+          },
+          {
+            "stringId": "1752904256788754432",
+            "femaleVariant": "No. That chapter's closed."
+          },
+          {
+            "stringId": "1752923419288662016",
+            "femaleVariant": "Because I have no answer to give. Yet."
+          },
+          {
+            "stringId": "1752925496492552192",
+            "femaleVariant": "And?"
+          },
+          {
+            "stringId": "1752925947363454976",
+            "femaleVariant": "And the price is always too damn high."
+          },
+          {
+            "stringId": "1752926780570333184",
+            "femaleVariant": "OK. We'll be there in a moment."
+          },
+          {
+            "stringId": "1752932973661515776",
+            "femaleVariant": "Hmm. I believe I understand."
+          },
+          {
+            "stringId": "1752948557799354368",
+            "femaleVariant": "Besides, I try not to regret what's already decided. Just a time sink, usually."
+          },
+          {
+            "stringId": "1752949629276254208",
+            "femaleVariant": "I wish I could let bygones be bygones. Like you."
+          },
+          {
+            "stringId": "1753299619903303680",
+            "femaleVariant": "Get ready!"
+          },
+          {
+            "stringId": "1754593608992419840",
+            "femaleVariant": "Sabotage a corpo power station, jump a corpo transport, kidnap a corpo suit…"
+          },
+          {
+            "stringId": "1754604742822719488",
+            "femaleVariant": "This a plug for the word corpo or do you have a point?"
+          },
+          {
+            "stringId": "1754605565728387072",
+            "femaleVariant": "Know what? You're starting to remind me of me... fifty years back."
+          },
+          {
+            "stringId": "1754614215087878144",
+            "femaleVariant": "Hm. Maybe we CAN just get along."
+          },
+          {
+            "stringId": "1754620934916534276",
+            "femaleVariant": "It's not about the corpos. It's about survival."
+          },
+          {
+            "stringId": "1754623034434121732",
+            "femaleVariant": "[Wait] What do we do now?"
+          },
+          {
+            "stringId": "1754623799374508032",
+            "femaleVariant": "Let me remind you, I want Hellman for me, not to stick it to Arasaka."
+          },
+          {
+            "stringId": "1754623964630085632",
+            "femaleVariant": "So, what now?"
+          },
+          {
+            "stringId": "1754624143156441088",
+            "femaleVariant": "We wait. We should time our arrival to the AV flight plan."
+          },
+          {
+            "stringId": "1754626018597531648",
+            "femaleVariant": "This is life or death. MY life or death."
+          },
+          {
+            "stringId": "1754627513413922816",
+            "femaleVariant": "Um, and let me remind YOU that 'Saka and their fucked-up tech is what got you here."
+          },
+          {
+            "stringId": "1754628859819061248",
+            "femaleVariant": "Who gives a shit about motives? Ends justify the means. And right now, your end is to survive."
+          },
+          {
+            "stringId": "1754640837845315584",
+            "femaleVariant": "Maybe we really are alike."
+          },
+          {
+            "stringId": "1754641280394719232",
+            "femaleVariant": "Could be something to that, I suppose…"
+          },
+          {
+            "stringId": "1754650534572847104",
+            "femaleVariant": "You're more like me than you think. You'll see."
+          },
+          {
+            "stringId": "1754651125399285760",
+            "femaleVariant": "What happened to us, it must've had some effect."
+          },
+          {
+            "stringId": "1754651761188663296",
+            "femaleVariant": "But it goes both ways. Maybe you're becoming more like me."
+          },
+          {
+            "stringId": "1754652471452102656",
+            "femaleVariant": "Nah, no way."
+          },
+          {
+            "stringId": "1754738249834295296",
+            "femaleVariant": "Got it."
+          },
+          {
+            "stringId": "1760578910210879488",
+            "femaleVariant": "\"Overload the systems?\" Sounds like my kind of job."
+          },
+          {
+            "stringId": "1760578910227656724",
+            "femaleVariant": "Can't we just blow it up?"
+          },
+          {
+            "stringId": "1760578910345097216",
+            "femaleVariant": "Panam, what if we cut all the cute stuff and blow the station up?"
+          },
+          {
+            "stringId": "1760578910345097228",
+            "femaleVariant": "Normally, I'd love to. But an explosion would trigger an automatic shutdown protocol in each collector."
+          },
+          {
+            "stringId": "1760578910361874432",
+            "femaleVariant": "All Night City would know we were there well before we got around the protocol. Nice idea, though. Maybe next time."
+          },
+          {
+            "stringId": "1760578910395428864",
+            "femaleVariant": "\"Overload the system.\" Yes, ma'am – when do I start?"
+          },
+          {
+            "stringId": "1760578910395428888",
+            "femaleVariant": "It shouldn't be. You just turn everything up as far as it'll go."
+          },
+          {
+            "stringId": "1760578910395428900",
+            "femaleVariant": "Crank it up to eleven. Got it."
+          },
+          {
+            "stringId": "1760578910445760512",
+            "femaleVariant": "Why don't I start with the transformers, make mayhem in the relative voltages? Rest should move faster after that."
+          },
+          {
+            "stringId": "1760578910445760524",
+            "femaleVariant": "Not a bad idea. It's just…"
+          },
+          {
+            "stringId": "1760578910445760536",
+            "femaleVariant": "Yeah, yeah, I know, the converters… But they shouldn't be a problem. I'll just crank everything up past max."
+          },
+          {
+            "stringId": "1760578910445760548",
+            "femaleVariant": "Seems we think alike!"
+          },
+          {
+            "stringId": "1760580843634028544",
+            "femaleVariant": "Once we reach the station, I'll set up a bypass for the detonator. You just overload the systems."
+          },
+          {
+            "stringId": "1760581774014541824",
+            "femaleVariant": "When we arrive at the station, you overload the systems. I'll set up a bypass link for the detonator."
+          },
+          {
+            "stringId": "1760593810761052164",
+            "femaleVariant": "What if something goes ass up?"
+          },
+          {
+            "stringId": "1760594080773566464",
+            "femaleVariant": "Triple A – you make that up?"
+          },
+          {
+            "stringId": "1760596052784312320",
+            "femaleVariant": "What if, uh, something goes ass up?"
+          },
+          {
+            "stringId": "1760596147323924480",
+            "femaleVariant": "Hah, not at all... I learned it from the Aldecaldos. Mitch and Scorpion."
+          },
+          {
+            "stringId": "1760596985782071296",
+            "femaleVariant": "They were trained in something like it during the war. Then they made it their own. It's come in handy, I can't deny. And it will again now."
+          },
+          {
+            "stringId": "1760597999025254400",
+            "femaleVariant": "Well, then your ass had better improvise. Did you really think I'd just give you a foolproof secret to success?"
+          },
+          {
+            "stringId": "1760598378307776512",
+            "femaleVariant": "Gotta say, almost had me believing just that."
+          },
+          {
+            "stringId": "1760598822820114432",
+            "femaleVariant": "You're too much sometimes, V."
+          },
+          {
+            "stringId": "1760599927465570304",
+            "femaleVariant": "Your method, Triple A – that all you?"
+          },
+          {
+            "stringId": "1761661042605813760",
+            "femaleVariant": "Good, time to roll."
+          },
+          {
+            "stringId": "1761662287441686528",
+            "femaleVariant": "One last time – we drive in, fuck up the system and get the hell out of there."
+          },
+          {
+            "stringId": "1761693020367773696",
+            "femaleVariant": "OK. I'm ready."
+          },
+          {
+            "stringId": "1764718651248340992",
+            "femaleVariant": "We've almost reached the dam. We'll make a quick stop here."
+          },
+          {
+            "stringId": "1771870725815791616",
+            "femaleVariant": "The huge thing is the collection unit. And see the antennas?"
+          },
+          {
+            "stringId": "1771889399847055360",
+            "femaleVariant": "Triple A – it's all you need to lead the good life. That and the occasional cold beer."
+          },
+          {
+            "stringId": "1771893011293794304",
+            "femaleVariant": "Got one word for you – T-shirts."
+          },
+          {
+            "stringId": "1791036745131253760",
+            "femaleVariant": "Although... hopin' that's not too complicated. Is it?"
+          },
+          {
+            "stringId": "1791041800022548480",
+            "femaleVariant": "Minus the charisma... and impressive cock."
+          },
+          {
+            "stringId": "1864708977784762368",
+            "femaleVariant": "Wired in."
+          },
+          {
+            "stringId": "1977986094195142656",
+            "femaleVariant": "\"Overload the systems?\" Sounds like my kind of job."
+          },
+          {
+            "stringId": "1977986094195142688",
+            "femaleVariant": "I'll kick the transformers out of whack. Things'll go faster."
+          },
+          {
+            "stringId": "1993804259835637760",
+            "femaleVariant": "[Jack in]"
+          },
+          {
+            "stringId": "1995031513555136512",
+            "femaleVariant": "All looks clear. The area looks deserted, I see no patrols."
+          },
+          {
+            "stringId": "1995032965455409152",
+            "femaleVariant": "I just want to be sure the area is clear."
+          },
+          {
+            "stringId": "2228808292052955136",
+            "femaleVariant": "Uh, V?"
+          }
+        ]
+      }
+
+
+

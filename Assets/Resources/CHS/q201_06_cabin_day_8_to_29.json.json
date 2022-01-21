@@ -1,0 +1,290 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1714235090963238912",
+            "femaleVariant": "靠！不！够了！"
+          },
+          {
+            "stringId": "1714235090980016128",
+            "femaleVariant": "我受够了！该死的鬼地方！"
+          },
+          {
+            "stringId": "1714235703834939392",
+            "femaleVariant": "[把魔方扔向监视器]靠！够了！"
+          },
+          {
+            "stringId": "1714237057840156672",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "1714237348270542848",
+            "femaleVariant": "靠。成功了。"
+          },
+          {
+            "stringId": "1723263524049477632",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "1727052667929976832",
+            "femaleVariant": "请根据每一个关键词，说出你最先想到的词。"
+          },
+          {
+            "stringId": "1727402776551186436",
+            "femaleVariant": "[站起来]"
+          },
+          {
+            "stringId": "1730134453564170244",
+            "femaleVariant": "别测试了。"
+          },
+          {
+            "stringId": "1730135119804194816",
+            "femaleVariant": "够了。别再测了。我不想再测了。"
+          },
+          {
+            "stringId": "1731259826146979852",
+            "femaleVariant": "喂，我说，这个测试——怎么搞了这么长时间？"
+          },
+          {
+            "stringId": "1731259826146979864",
+            "femaleVariant": "我们需要非常精确的数据。"
+          },
+          {
+            "stringId": "1731259826264420352",
+            "femaleVariant": "我真是受不了了。"
+          },
+          {
+            "stringId": "1731852006640541696",
+            "femaleVariant": "请根据关键词做出应答，别多想，说你最先想到的词。"
+          },
+          {
+            "stringId": "1731852006640541708",
+            "femaleVariant": "忠诚。"
+          },
+          {
+            "stringId": "1731852006875422720",
+            "femaleVariant": "不。我受够了。"
+          },
+          {
+            "stringId": "1731852006908977152",
+            "femaleVariant": "我不。我要和荒坂华子谈谈。"
+          },
+          {
+            "stringId": "1731893622373834752",
+            "femaleVariant": "反应尽量快，别多想。"
+          },
+          {
+            "stringId": "1731893622659047424",
+            "femaleVariant": "不！"
+          },
+          {
+            "stringId": "1731893622726156288",
+            "femaleVariant": "不！"
+          },
+          {
+            "stringId": "1731901695284961280",
+            "femaleVariant": "认知功能测试。"
+          },
+          {
+            "stringId": "1731901695301738496",
+            "femaleVariant": "请解开这个魔方。"
+          },
+          {
+            "stringId": "1732772968405688320",
+            "femaleVariant": "强尼。"
+          },
+          {
+            "stringId": "1732773112555528192",
+            "femaleVariant": "荒坂。"
+          },
+          {
+            "stringId": "1732773211843092480",
+            "femaleVariant": "我。"
+          },
+          {
+            "stringId": "1732773322455277568",
+            "femaleVariant": "背叛。"
+          },
+          {
+            "stringId": "1732773401341747200",
+            "femaleVariant": "我不知道。"
+          },
+          {
+            "stringId": "1732773636776419328",
+            "femaleVariant": "强尼！"
+          },
+          {
+            "stringId": "1732773714337488896",
+            "femaleVariant": "荒坂。"
+          },
+          {
+            "stringId": "1732773845887639552",
+            "femaleVariant": "我。"
+          },
+          {
+            "stringId": "1732773957170913280",
+            "femaleVariant": "背叛。"
+          },
+          {
+            "stringId": "1732774250654752768",
+            "femaleVariant": "我不知道。"
+          },
+          {
+            "stringId": "1732782215654825984",
+            "femaleVariant": "人性。"
+          },
+          {
+            "stringId": "1732783082953007104",
+            "femaleVariant": "越快越好，不要想，知道。"
+          },
+          {
+            "stringId": "1732783482133307392",
+            "femaleVariant": "强尼。"
+          },
+          {
+            "stringId": "1732783551943303168",
+            "femaleVariant": "荒坂。"
+          },
+          {
+            "stringId": "1732783644268322816",
+            "femaleVariant": "我。"
+          },
+          {
+            "stringId": "1732783852289024000",
+            "femaleVariant": "什么都没有。"
+          },
+          {
+            "stringId": "1732783993251192832",
+            "femaleVariant": "没想法。"
+          },
+          {
+            "stringId": "1732784433267236864",
+            "femaleVariant": "强尼。"
+          },
+          {
+            "stringId": "1732784508227837952",
+            "femaleVariant": "荒坂。"
+          },
+          {
+            "stringId": "1732784618756136960",
+            "femaleVariant": "我。"
+          },
+          {
+            "stringId": "1732784726650413056",
+            "femaleVariant": "没概念。"
+          },
+          {
+            "stringId": "1732784851472900096",
+            "femaleVariant": "没想法。"
+          },
+          {
+            "stringId": "1732804514537824256",
+            "femaleVariant": "V。"
+          },
+          {
+            "stringId": "1732805835240267776",
+            "femaleVariant": "我要和荒坂华子谈谈。"
+          },
+          {
+            "stringId": "1732806304784211968",
+            "femaleVariant": "叫荒坂华子过来，我有话跟她说，快。"
+          },
+          {
+            "stringId": "1740150574157619200",
+            "femaleVariant": "请坐起来。"
+          },
+          {
+            "stringId": "1740328812800598016",
+            "femaleVariant": "请站上跑步机。"
+          },
+          {
+            "stringId": "1740339966847442944",
+            "femaleVariant": "不。"
+          },
+          {
+            "stringId": "1741637333408243716",
+            "femaleVariant": "[砸]"
+          },
+          {
+            "stringId": "1741641836144582656",
+            "femaleVariant": "我去！"
+          },
+          {
+            "stringId": "1741725796967079936",
+            "femaleVariant": "[摔桌子上的东西]"
+          },
+          {
+            "stringId": "1741726202354950144",
+            "femaleVariant": "啊啊啊啊啊！"
+          },
+          {
+            "stringId": "1788147374000660480",
+            "femaleVariant": "认知功能测试。"
+          },
+          {
+            "stringId": "1788147374000660492",
+            "femaleVariant": "解开这个魔方。"
+          },
+          {
+            "stringId": "1788184065671389188",
+            "femaleVariant": "还要多久啊？"
+          },
+          {
+            "stringId": "1793845924663615488",
+            "femaleVariant": "[砸]"
+          },
+          {
+            "stringId": "1793846395449073664",
+            "femaleVariant": "够了！我受够了！"
+          },
+          {
+            "stringId": "1793868707401523200",
+            "femaleVariant": "[推翻]"
+          },
+          {
+            "stringId": "1793868707468632068",
+            "femaleVariant": "靠！"
+          },
+          {
+            "stringId": "1869314405919580164",
+            "femaleVariant": "[睡觉]"
+          },
+          {
+            "stringId": "2049075605376675840",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "2049078972899471360",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "2049079019103924224",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "2085368315636953088",
+            "femaleVariant": "[站上跑步机]"
+          },
+          {
+            "stringId": "2182516815318822912",
+            "femaleVariant": "不。"
+          }
+        ]
+      }
+
+
+

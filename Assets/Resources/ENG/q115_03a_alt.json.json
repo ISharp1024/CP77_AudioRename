@@ -1,0 +1,590 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1667846504444727296",
+            "femaleVariant": "Alt?"
+          },
+          {
+            "stringId": "1667846879063183360",
+            "femaleVariant": "You here?"
+          },
+          {
+            "stringId": "1669293707248017408",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1690771735979102208",
+            "femaleVariant": "I told you."
+          },
+          {
+            "stringId": "1690792161081954304",
+            "femaleVariant": "You readin' my thoughts?"
+          },
+          {
+            "stringId": "1690792816383234048",
+            "femaleVariant": "An oversimplification."
+          },
+          {
+            "stringId": "1690793142314209280",
+            "femaleVariant": "You still deny what you are."
+          },
+          {
+            "stringId": "1690793716162105344",
+            "femaleVariant": "A construct. A set of data."
+          },
+          {
+            "stringId": "1690793904436023296",
+            "femaleVariant": "I... know you."
+          },
+          {
+            "stringId": "1690794863723679748",
+            "femaleVariant": "Well that's completely fucked."
+          },
+          {
+            "stringId": "1690795986807296000",
+            "femaleVariant": "What else do you \"know\"?"
+          },
+          {
+            "stringId": "1690796711901794304",
+            "femaleVariant": "Well this is all completely fucked."
+          },
+          {
+            "stringId": "1690821995938058240",
+            "femaleVariant": "So why do we even bother talking?"
+          },
+          {
+            "stringId": "1690840600796860416",
+            "femaleVariant": "So why even bother talking if you know my thoughts?"
+          },
+          {
+            "stringId": "1690841378555039744",
+            "femaleVariant": "Only a... sliver of memory from Alt's sense of humor."
+          },
+          {
+            "stringId": "1690843006146318336",
+            "femaleVariant": "As action precedes reaction, so Johnny Silverhand speaks before he thinks."
+          },
+          {
+            "stringId": "1690844025462853632",
+            "femaleVariant": "Huh... that some kind of joke?"
+          },
+          {
+            "stringId": "1690872444305149952",
+            "femaleVariant": "Alt Cunningham is no more."
+          },
+          {
+            "stringId": "1690872716817469444",
+            "femaleVariant": "Then why keep her appearance?"
+          },
+          {
+            "stringId": "1690873285414096896",
+            "femaleVariant": "That so? Then why do I see her in front of me?"
+          },
+          {
+            "stringId": "1690875061131415552",
+            "femaleVariant": "You see Alt because you wish to. It's a defense mechanism."
+          },
+          {
+            "stringId": "1690934441017217024",
+            "femaleVariant": "And then…"
+          },
+          {
+            "stringId": "1690934691433943040",
+            "femaleVariant": "You will be separated from V."
+          },
+          {
+            "stringId": "1690935575157018624",
+            "femaleVariant": "And Mikoshi will cease to exist."
+          },
+          {
+            "stringId": "1690939266563969024",
+            "femaleVariant": "What about the constructs inside?"
+          },
+          {
+            "stringId": "1690939978723233792",
+            "femaleVariant": "I know you haven't told me everything."
+          },
+          {
+            "stringId": "1690941275803357184",
+            "femaleVariant": "You're not afraid of this?"
+          },
+          {
+            "stringId": "1690942454906097664",
+            "femaleVariant": "Serious shop talk, now, Alt."
+          },
+          {
+            "stringId": "1690943145825406976",
+            "femaleVariant": "This is a jailbreak for the others, right? The little souls'll fly free."
+          },
+          {
+            "stringId": "1690944793431904256",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "1690944910218104832",
+            "femaleVariant": "Not good enough. I know there's more to it."
+          },
+          {
+            "stringId": "1690947961406492672",
+            "femaleVariant": "I intend to take them with me. To integrate them."
+          },
+          {
+            "stringId": "1690948610584088576",
+            "femaleVariant": "Because it is not something you can understand."
+          },
+          {
+            "stringId": "1690951717036625924",
+            "femaleVariant": "Aim to eat 'em? Not nice."
+          },
+          {
+            "stringId": "1690952485416341504",
+            "femaleVariant": "Sorry I asked."
+          },
+          {
+            "stringId": "1690959684200960000",
+            "femaleVariant": "Gonna devour 'em? Those poor constructs. That's monstrous."
+          },
+          {
+            "stringId": "1690959877575151616",
+            "femaleVariant": "OK, never mind, sorry I asked."
+          },
+          {
+            "stringId": "1690960824397336576",
+            "femaleVariant": "You forget. They are data."
+          },
+          {
+            "stringId": "1690961819823116288",
+            "femaleVariant": "Just spill it."
+          },
+          {
+            "stringId": "1690963033939906560",
+            "femaleVariant": "Data that will not disappear but become part of... something greater."
+          },
+          {
+            "stringId": "1690963248856043520",
+            "femaleVariant": "Meaning what, exactly?"
+          },
+          {
+            "stringId": "1690967347496357888",
+            "femaleVariant": "No fear…? I mean, something could go wrong."
+          },
+          {
+            "stringId": "1690967942013784064",
+            "femaleVariant": "Is that everything?"
+          },
+          {
+            "stringId": "1690982155117531136",
+            "femaleVariant": "Your explicit memory is simply creating a replacement image."
+          },
+          {
+            "stringId": "1690998054952243200",
+            "femaleVariant": "Now I feel--"
+          },
+          {
+            "stringId": "1691014642132717568",
+            "femaleVariant": "You will breach Arasaka Tower and locate the port into Mikoshi."
+          },
+          {
+            "stringId": "1691018071865430016",
+            "femaleVariant": "[Leave cyberspace] That's it. See you in Mikoshi."
+          },
+          {
+            "stringId": "1691018071865430032",
+            "femaleVariant": "[Leave cyberspace] How 'bout a little \"Good luck to ya, Johhny boy\"?"
+          },
+          {
+            "stringId": "1691018075287982080",
+            "femaleVariant": "I have no more time for you."
+          },
+          {
+            "stringId": "1691018075371868176",
+            "femaleVariant": "[Leave cyberspace] You were right. Alt's gone."
+          },
+          {
+            "stringId": "1691018075388645380",
+            "femaleVariant": "[Leave cyberspace] Got nothin' to say to each other anyway."
+          },
+          {
+            "stringId": "1691018077318025216",
+            "femaleVariant": "Look at us."
+          },
+          {
+            "stringId": "1691018077334802440",
+            "femaleVariant": "I'm a digital corpse, and you're a... well, you are what you are."
+          },
+          {
+            "stringId": "1691018077334802452",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "1691018077334802464",
+            "femaleVariant": "Hm. No, guess we don't have anything to talk about, do we?"
+          },
+          {
+            "stringId": "1691018077351579664",
+            "femaleVariant": "Well... see you in Mikoshi?"
+          },
+          {
+            "stringId": "1691018077351579688",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "1691018077435465728",
+            "femaleVariant": "Know what? Think you were right."
+          },
+          {
+            "stringId": "1691018077435465740",
+            "femaleVariant": "Alt's gone."
+          },
+          {
+            "stringId": "1691018077452242964",
+            "femaleVariant": "Oh for Christ's... Perfect! Go on! Fuck off!"
+          },
+          {
+            "stringId": "1691018077452242976",
+            "femaleVariant": "Fuck this!"
+          },
+          {
+            "stringId": "1691018077502574592",
+            "femaleVariant": "Um, been told that I absolutely suck at these, but…"
+          },
+          {
+            "stringId": "1691018077502574604",
+            "femaleVariant": "Maybe it's not too late for me to apologize."
+          },
+          {
+            "stringId": "1691018077519351816",
+            "femaleVariant": "So, Alt... I'm sorry."
+          },
+          {
+            "stringId": "1691018077519351828",
+            "femaleVariant": "For what happened to you... For what happened to us…"
+          },
+          {
+            "stringId": "1691018077536129060",
+            "femaleVariant": "Well?"
+          },
+          {
+            "stringId": "1691018077552906244",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "1691018077552906256",
+            "femaleVariant": "Yes, what? Yes, apology accepted? Or yes, it's too late?"
+          },
+          {
+            "stringId": "1691018077552906280",
+            "femaleVariant": "Watch out for yourself, Johnny."
+          },
+          {
+            "stringId": "1691018077653569536",
+            "femaleVariant": "Hmm..."
+          },
+          {
+            "stringId": "1691018077653569548",
+            "femaleVariant": "Well, ya could wish me luck."
+          },
+          {
+            "stringId": "1691018077720678400",
+            "femaleVariant": "I wish you good luck."
+          },
+          {
+            "stringId": "1691018077737455628",
+            "femaleVariant": "Gee, thanks."
+          },
+          {
+            "stringId": "1691018077737455640",
+            "femaleVariant": "Ready to take on the world now."
+          },
+          {
+            "stringId": "1691018077804564480",
+            "femaleVariant": "That's all that crossed my mind. See you in Mikoshi."
+          },
+          {
+            "stringId": "1691018077821341696",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "1691018077821341720",
+            "femaleVariant": "\"Yes\". Right..."
+          },
+          {
+            "stringId": "1691018077871673344",
+            "femaleVariant": "Nice seeing you again."
+          },
+          {
+            "stringId": "1691018077888450564",
+            "femaleVariant": "Wanted to apologize. Hope it's not too late?"
+          },
+          {
+            "stringId": "1691018077888450580",
+            "femaleVariant": "Rogue says hello."
+          },
+          {
+            "stringId": "1691018079683612672",
+            "femaleVariant": "We don't have much time."
+          },
+          {
+            "stringId": "1691018079700389896",
+            "femaleVariant": "If you wish to say something, say it."
+          },
+          {
+            "stringId": "1691018079750721536",
+            "femaleVariant": "Nice seein' you again, Alt."
+          },
+          {
+            "stringId": "1691018079767498760",
+            "femaleVariant": "Yes. You as well, Johnny."
+          },
+          {
+            "stringId": "1691018079817830400",
+            "femaleVariant": "Rogue's on board, too. Told me to tell ya \"hi.\""
+          },
+          {
+            "stringId": "1691018079817830436",
+            "femaleVariant": "Pretty funny, right? Like old times."
+          },
+          {
+            "stringId": "1691018079817830448",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "1691018079834607620",
+            "femaleVariant": "It's funny."
+          },
+          {
+            "stringId": "1691018079868162060",
+            "femaleVariant": "Alt?"
+          },
+          {
+            "stringId": "1691021931480748032",
+            "femaleVariant": "Wait... there's one other thing."
+          },
+          {
+            "stringId": "1691122483761909760",
+            "femaleVariant": "Fine, have it your way."
+          },
+          {
+            "stringId": "1691138530380484608",
+            "femaleVariant": "W-wait... just one other thing."
+          },
+          {
+            "stringId": "1691150746626428928",
+            "femaleVariant": "So what else do you... \"know\"?"
+          },
+          {
+            "stringId": "1692454290491052032",
+            "femaleVariant": "No, bound to be some of her left."
+          },
+          {
+            "stringId": "1692472972323721216",
+            "femaleVariant": "Don't believe that."
+          },
+          {
+            "stringId": "1695033138776772608",
+            "femaleVariant": "Hell, you look just like her."
+          },
+          {
+            "stringId": "1695057617573777408",
+            "femaleVariant": "The complexity of your emotions."
+          },
+          {
+            "stringId": "1701251868699529216",
+            "femaleVariant": "Cease to exist... As will the constructs inside, right?"
+          },
+          {
+            "stringId": "1701252935982125056",
+            "femaleVariant": "No. The data constructs will not be destroyed."
+          },
+          {
+            "stringId": "1701254278578835456",
+            "femaleVariant": "They will become part of something greater."
+          },
+          {
+            "stringId": "1701254653146959872",
+            "femaleVariant": "Nope. Keep tryin'. Don't understand."
+          },
+          {
+            "stringId": "1701256026429198336",
+            "femaleVariant": "It cannot be described in terms you will understand. But perhaps, one day, you will see it for yourself."
+          },
+          {
+            "stringId": "1701264509761359872",
+            "femaleVariant": "Fear is the wrong word."
+          },
+          {
+            "stringId": "1701264593915875328",
+            "femaleVariant": "Fear?"
+          },
+          {
+            "stringId": "1701266145053380608",
+            "femaleVariant": "No. Perhaps merely... uncertainty?"
+          },
+          {
+            "stringId": "1701267000255188992",
+            "femaleVariant": "It's OK, Alt. I'm sweating it and shitting glass, too."
+          },
+          {
+            "stringId": "1740090911574855680",
+            "femaleVariant": "Some of her's still in there."
+          },
+          {
+            "stringId": "1741754003325063168",
+            "femaleVariant": "I know how we get to--"
+          },
+          {
+            "stringId": "1741756156127088640",
+            "femaleVariant": "How much you know about satellites? Got one that--"
+          },
+          {
+            "stringId": "1741758653499576320",
+            "femaleVariant": "It's beneath Arasaka Tower. Predictable."
+          },
+          {
+            "stringId": "1741760247754526720",
+            "femaleVariant": "Holy fuck, you're doing it now! You're reading my--"
+          },
+          {
+            "stringId": "1741765489812443136",
+            "femaleVariant": "I know how to get into Mikoshi."
+          },
+          {
+            "stringId": "1741765489812443152",
+            "femaleVariant": "Know anything about satellites?"
+          },
+          {
+            "stringId": "1741770675901566976",
+            "femaleVariant": "Time is short. NetWatch could detect our localnet traffic."
+          },
+          {
+            "stringId": "1741783125652803584",
+            "femaleVariant": "The Juroujin-0401. I can manage it."
+          },
+          {
+            "stringId": "1741793620422168576",
+            "femaleVariant": "Holy fuck, you're doing it now! You're reading my--"
+          },
+          {
+            "stringId": "1741795513915543552",
+            "femaleVariant": "I agree with the plan. It will get you inside Arasaka Tower."
+          },
+          {
+            "stringId": "1741799111906955264",
+            "femaleVariant": "The Juroujin-0401 poses no problem. I can deactivate the satellite."
+          },
+          {
+            "stringId": "1741799745985056768",
+            "femaleVariant": "C-can you just hold on a second?!"
+          },
+          {
+            "stringId": "1741803306429059072",
+            "femaleVariant": "C-can you just hold on a second?!"
+          },
+          {
+            "stringId": "1741823728797224960",
+            "femaleVariant": "Upon your opening of a backdoor, I will be able to circumvent the data fort's security protocols."
+          },
+          {
+            "stringId": "1754429179409862656",
+            "femaleVariant": "Naked."
+          },
+          {
+            "stringId": "1754431326859956224",
+            "femaleVariant": "It's weird, like I'm--"
+          },
+          {
+            "stringId": "1754445131606265856",
+            "femaleVariant": "Having a bad dream."
+          },
+          {
+            "stringId": "1800928180275519488",
+            "femaleVariant": "Hey, so you the one gonna dive, right?"
+          },
+          {
+            "stringId": "1800929089550295040",
+            "femaleVariant": "I'm finishing up for the day, so you be resurfacin' on your own. And don't fuck with my gear."
+          },
+          {
+            "stringId": "1801040538549362688",
+            "femaleVariant": "Right on. Hop into a suit, then have a seat over there."
+          },
+          {
+            "stringId": "1802514720390778880",
+            "femaleVariant": "You... know me?"
+          },
+          {
+            "stringId": "1802514778641272832",
+            "femaleVariant": "Like lines of code."
+          },
+          {
+            "stringId": "1802639438070550528",
+            "femaleVariant": "V, dunno if you can hear me, but…"
+          },
+          {
+            "stringId": "1802641396743409664",
+            "femaleVariant": "Thanks. For trusting me."
+          },
+          {
+            "stringId": "1806705568166977540",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1806861397297995776",
+            "femaleVariant": "Whoa, coolin' unit was seconds from sizzlin'. What was that?"
+          },
+          {
+            "stringId": "1827112005258842112",
+            "femaleVariant": "Let's do this."
+          },
+          {
+            "stringId": "1827115300253732864",
+            "femaleVariant": "That is the plan."
+          },
+          {
+            "stringId": "1854557466951229440",
+            "femaleVariant": "Memories."
+          },
+          {
+            "stringId": "1854558341664940032",
+            "femaleVariant": "Say what?"
+          },
+          {
+            "stringId": "1854558474053951488",
+            "femaleVariant": "Don't worry about it."
+          },
+          {
+            "stringId": "1893775683785596932",
+            "femaleVariant": "[Look at reflection] Let's do this."
+          },
+          {
+            "stringId": "1895352364484796420",
+            "femaleVariant": "[Straighten up]"
+          },
+          {
+            "stringId": "2020070863602995200",
+            "femaleVariant": "This is the program that will establish the link. I will send it with you on a splinter."
+          },
+          {
+            "stringId": "2382342502844391428",
+            "femaleVariant": "[Put on suit]"
+          }
+        ]
+      }
+
+
+

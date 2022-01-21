@@ -1,0 +1,514 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1811099400440434692",
+            "femaleVariant": "Hey, no firing at civilians!"
+          },
+          {
+            "stringId": "1811099400524320776",
+            "femaleVariant": "Careful! They're just workers, for chrissake!"
+          },
+          {
+            "stringId": "1811099400692092932",
+            "femaleVariant": "You won't blow it open that way!"
+          },
+          {
+            "stringId": "1811099400708870144",
+            "femaleVariant": "Let's help the others first. That gate's not going anywhere."
+          },
+          {
+            "stringId": "1811099400759201796",
+            "femaleVariant": "Right as rain. OK, it's our turn now."
+          },
+          {
+            "stringId": "1811099400775979012",
+            "femaleVariant": "V – watch them, all right?"
+          },
+          {
+            "stringId": "1811099400775979024",
+            "femaleVariant": "Copy that."
+          },
+          {
+            "stringId": "1811099400843087876",
+            "femaleVariant": "I got a terminal. We're jacking in."
+          },
+          {
+            "stringId": "1811099400843087888",
+            "femaleVariant": "What about security protocols?"
+          },
+          {
+            "stringId": "1811099400859865096",
+            "femaleVariant": "V, it's not a space station, it's a dumb, big-ass drill."
+          },
+          {
+            "stringId": "1811099400859865108",
+            "femaleVariant": "Don't worry. Carol will slice through it like butter."
+          },
+          {
+            "stringId": "1811099401027637252",
+            "femaleVariant": "Watch out! Coming from the right!"
+          },
+          {
+            "stringId": "1811099401044414464",
+            "femaleVariant": "How are we doing, Mitch?"
+          },
+          {
+            "stringId": "1811099401044414476",
+            "femaleVariant": "Eleven percent!"
+          },
+          {
+            "stringId": "1811099401044414488",
+            "femaleVariant": "Shit. Can't you speed it up?"
+          },
+          {
+            "stringId": "1811099401044414500",
+            "femaleVariant": "Our hands are tied."
+          },
+          {
+            "stringId": "1811099401128300548",
+            "femaleVariant": "Dammit, left side too!"
+          },
+          {
+            "stringId": "1811099401145077768",
+            "femaleVariant": "Whoever's closest, deal with them!"
+          },
+          {
+            "stringId": "1811099401145077780",
+            "femaleVariant": "Carol? Mitch? How much longer?"
+          },
+          {
+            "stringId": "1811099401145077792",
+            "femaleVariant": "Twenty-seven percent."
+          },
+          {
+            "stringId": "1811099401463844864",
+            "femaleVariant": "Guess that's all of 'em."
+          },
+          {
+            "stringId": "1811099401782611972",
+            "femaleVariant": "There's likely a control room upstairs. We can link remotely to the SERC from there."
+          },
+          {
+            "stringId": "1811099401816166404",
+            "femaleVariant": "Damn, it’s lookin' like the drill vector's on auto."
+          },
+          {
+            "stringId": "1811099401832943616",
+            "femaleVariant": "How can we possibly turn it?"
+          },
+          {
+            "stringId": "1811099401832943628",
+            "femaleVariant": "We gonna sweet-talk this bitch into it. Mitch, kill that autopilot and hit manual override."
+          },
+          {
+            "stringId": "1815632709683007488",
+            "femaleVariant": "Got it. It's working!"
+          },
+          {
+            "stringId": "1815632758789918720",
+            "femaleVariant": "Prepare for takeoff."
+          },
+          {
+            "stringId": "1816887740868612096",
+            "femaleVariant": "We've got company!"
+          },
+          {
+            "stringId": "1816892319941283840",
+            "femaleVariant": "A lot of it, too."
+          },
+          {
+            "stringId": "1823967277447172124",
+            "femaleVariant": "Fuck. How much longer up there?!"
+          },
+          {
+            "stringId": "1823967277463949316",
+            "femaleVariant": "Almost there! Nearly at sixty percent!"
+          },
+          {
+            "stringId": "1841709827561934848",
+            "femaleVariant": "What do you mean? We keep going! Finish this!"
+          },
+          {
+            "stringId": "1841709875729321984",
+            "femaleVariant": "What now?"
+          },
+          {
+            "stringId": "1898056079095123968",
+            "femaleVariant": "We're in!"
+          },
+          {
+            "stringId": "1898056535401844736",
+            "femaleVariant": "Move, move!"
+          },
+          {
+            "stringId": "1922800318366371840",
+            "femaleVariant": "AV! Goddamn AV inbound!"
+          },
+          {
+            "stringId": "1922801298944315392",
+            "femaleVariant": "It's like they've sent a small army against us."
+          },
+          {
+            "stringId": "1922802229056393216",
+            "femaleVariant": "They're going to land!"
+          },
+          {
+            "stringId": "1922803559758057472",
+            "femaleVariant": "Everybody ready!"
+          },
+          {
+            "stringId": "1922803938386268160",
+            "femaleVariant": "Just as I thought – a whole squad coming at us!"
+          },
+          {
+            "stringId": "1922829507014447104",
+            "femaleVariant": "Teddy, get the hell out of there!"
+          },
+          {
+            "stringId": "1922829641265729536",
+            "femaleVariant": "Teddy!"
+          },
+          {
+            "stringId": "1922830031117897728",
+            "femaleVariant": "Oh my lord!"
+          },
+          {
+            "stringId": "1937248243510013952",
+            "femaleVariant": "Things are about to get real ugly."
+          },
+          {
+            "stringId": "2008329638509301760",
+            "femaleVariant": "I have eyes on the fuckers. Mitch?"
+          },
+          {
+            "stringId": "2008343256525197320",
+            "femaleVariant": "Listen, we just hit Night Corp ICE. Carol's cutting through. It's slow work, but it'll get done. Where are you all at?"
+          },
+          {
+            "stringId": "2008343762240819208",
+            "femaleVariant": "I got him! Direct hit!"
+          },
+          {
+            "stringId": "2008344753556181000",
+            "femaleVariant": "He's out of our hair! Shit, V, we might actually pull this off!"
+          },
+          {
+            "stringId": "2008344824691576840",
+            "femaleVariant": "How do you like that, Milishits?!"
+          },
+          {
+            "stringId": "2008345546615181320",
+            "femaleVariant": "Holy shit. We did it! They're smoldering wrecks! We did that!"
+          },
+          {
+            "stringId": "2008364834306674696",
+            "femaleVariant": "We're moving on. We'll try to buy you as much time as we can."
+          },
+          {
+            "stringId": "2008371859782651904",
+            "femaleVariant": "Much obliged. We'll keep watch over Mitch and Carol and see to that gate."
+          },
+          {
+            "stringId": "2008375765535313920",
+            "femaleVariant": "So, Panam? Gonna show 'em what this lump of scrap can do?"
+          },
+          {
+            "stringId": "2008388027583057928",
+            "femaleVariant": "We're hit!"
+          },
+          {
+            "stringId": "2008388027750830088",
+            "femaleVariant": "Fuck! We can't hold out much longer!"
+          },
+          {
+            "stringId": "2008388027801161736",
+            "femaleVariant": "They're tearing us to shreds!"
+          },
+          {
+            "stringId": "2008390067977736196",
+            "femaleVariant": "V, we've taken hard hits, too hard! Everything here's hanging by a thread and sheer will!"
+          },
+          {
+            "stringId": "2008398665176862720",
+            "femaleVariant": "The gate is planted firm in the land and secured tight. We're trying to figure out where to place the charges, but we need more time!"
+          },
+          {
+            "stringId": "2008399245232328704",
+            "femaleVariant": "There's no thumb-twiddling going on here! We'll buy you as much time as we can! Hang in there!"
+          },
+          {
+            "stringId": "2008400946928570368",
+            "femaleVariant": "Saul, Mitch, headin' back your way."
+          },
+          {
+            "stringId": "2008406000930672640",
+            "femaleVariant": "We're on our way."
+          },
+          {
+            "stringId": "2008412392362102784",
+            "femaleVariant": "I'm wondering if I really believed… believed we'd make it through."
+          },
+          {
+            "stringId": "2008412573203714052",
+            "femaleVariant": "After that display, you can be sure there's a place for you in the panzerboy ranks!"
+          },
+          {
+            "stringId": "2008418916820078592",
+            "femaleVariant": "Impressive, V. Thanks."
+          },
+          {
+            "stringId": "2008419239479496704",
+            "femaleVariant": "Now, if you don't mind – there's a monster gate that needs to be blown open."
+          },
+          {
+            "stringId": "2008453766855806976",
+            "femaleVariant": "V, get back to the panzer! We don't have time!"
+          },
+          {
+            "stringId": "2018439929582604288",
+            "femaleVariant": "V, she's dying, like I said she would. Propulsion, weapons systems, launchers – all falling like dominoes!"
+          },
+          {
+            "stringId": "2018446929154560004",
+            "femaleVariant": "[Get out] We'll provide cover, just hurry!"
+          },
+          {
+            "stringId": "2018448053748125696",
+            "femaleVariant": "I can't believe it, but I think it worked! The lump of scrap's still got some life in her! Systems are lighting up. We're back!"
+          },
+          {
+            "stringId": "2018450108118224896",
+            "femaleVariant": "We'll provide cover. Just hurry, all right?!"
+          },
+          {
+            "stringId": "2018450826401173504",
+            "femaleVariant": "You get out. Help our folks!"
+          },
+          {
+            "stringId": "2018453432708124672",
+            "femaleVariant": "Panam, how much longer?!"
+          },
+          {
+            "stringId": "2018453909214613504",
+            "femaleVariant": "Uh, listen, this party is spinning out of control! Militech is sending tanks our way!"
+          },
+          {
+            "stringId": "2018454536699269120",
+            "femaleVariant": "Coming down the road. I've got the drone watching them! It's a damned combat unit!"
+          },
+          {
+            "stringId": "2018454668786290688",
+            "femaleVariant": "I'm doing my best! Mitch, do you read? The navigation module is jamming the other systems. Can I cut it?"
+          },
+          {
+            "stringId": "2018459542332657664",
+            "femaleVariant": "Inside, V, quick!"
+          },
+          {
+            "stringId": "2018469580057104384",
+            "femaleVariant": "I'm doing what I can, Saul! It's not like Mitch is here, Bobby's dead...! I'm by my fucking self here!"
+          },
+          {
+            "stringId": "2024164160675901440",
+            "femaleVariant": "I'll try. Either I do this, or this rattle trap will really be scrap!"
+          },
+          {
+            "stringId": "2024169726752190464",
+            "femaleVariant": "There anything you can do about it?"
+          },
+          {
+            "stringId": "2024173031242985472",
+            "femaleVariant": "Their position?"
+          },
+          {
+            "stringId": "2024174400263811072",
+            "femaleVariant": "We won't stand a chance without the panzer. Panam?"
+          },
+          {
+            "stringId": "2024213052771659776",
+            "femaleVariant": "Yes! Cut it! She'll be fine without it!"
+          },
+          {
+            "stringId": "2024217588710109184",
+            "femaleVariant": "I know, Panam. I know. We'll keep you covered."
+          },
+          {
+            "stringId": "2024218292531097600",
+            "femaleVariant": "Thank you."
+          },
+          {
+            "stringId": "2024229459680948224",
+            "femaleVariant": "If those Militch tanks reach us, they'll roll us flat like so many roaches."
+          },
+          {
+            "stringId": "2024230404036882432",
+            "femaleVariant": "Stop thinkin' about the tanks, consider 'em gone. You blast open that gate."
+          },
+          {
+            "stringId": "2024238167056052224",
+            "femaleVariant": "Are you two all right?"
+          },
+          {
+            "stringId": "2024258535250587648",
+            "femaleVariant": "Those aren't standard issue armor... What the hell are they?"
+          },
+          {
+            "stringId": "2024261650712489984",
+            "femaleVariant": "The latest models, just off Militech's assembly line."
+          },
+          {
+            "stringId": "2024266820846481408",
+            "femaleVariant": "Be careful, all right? We don't want any more casulaties."
+          },
+          {
+            "stringId": "2024269817961902080",
+            "femaleVariant": "Mitch would never forgive me if I let them bust her up. Let's give 'em hell."
+          },
+          {
+            "stringId": "2024271174097825792",
+            "femaleVariant": "Shit's about to get biblical…"
+          },
+          {
+            "stringId": "2024282040096649224",
+            "femaleVariant": "Good work. But we've got a minor hitch here."
+          },
+          {
+            "stringId": "2024282040096649256",
+            "femaleVariant": "What is it?"
+          },
+          {
+            "stringId": "2024282040113426440",
+            "femaleVariant": "Raggedy-ass system spat us out. And no hard-reset didn't help. We pretty much outta options, here."
+          },
+          {
+            "stringId": "2024282040113426456",
+            "femaleVariant": "Hot-wiring the SERC on location – that seems our one option, now."
+          },
+          {
+            "stringId": "2024282040130203656",
+            "femaleVariant": "It could have been worse. What about the gate?"
+          },
+          {
+            "stringId": "2024282040146980864",
+            "femaleVariant": "The blasts shook the foundations, but it won't yield without the panzer's help. We need you for the finishing touch."
+          },
+          {
+            "stringId": "2024295855446159360",
+            "femaleVariant": "And… I don't know. It's as if my brain was on autopilot the whole time."
+          },
+          {
+            "stringId": "2024296684676837376",
+            "femaleVariant": "We're past the worst of this storm, there's that."
+          },
+          {
+            "stringId": "2024297152106852356",
+            "femaleVariant": "Knew we'd make it, whole time."
+          },
+          {
+            "stringId": "2024297394705395712",
+            "femaleVariant": "Don't jinx this."
+          },
+          {
+            "stringId": "2024297811585658880",
+            "femaleVariant": "Honestly, doubted we'd make it."
+          },
+          {
+            "stringId": "2024298836958769152",
+            "femaleVariant": "Knew the whole time we'd make it. Felt it in my bones."
+          },
+          {
+            "stringId": "2024298934551834624",
+            "femaleVariant": "Honestly? Thought we'd be maggot-meat by now."
+          },
+          {
+            "stringId": "2024299066051653632",
+            "femaleVariant": "Don't jinx it! Not now."
+          },
+          {
+            "stringId": "2024299983530487808",
+            "femaleVariant": "Someday you will have to tell me how you came to be so damned cocksure about everything."
+          },
+          {
+            "stringId": "2024300237705310208",
+            "femaleVariant": "It's just not fair."
+          },
+          {
+            "stringId": "2024302022599766016",
+            "femaleVariant": "You saw those tanks. You an' me still breathin's a minor miracle."
+          },
+          {
+            "stringId": "2024302493703991296",
+            "femaleVariant": "If anyone ought to believe in miracles, V, it's you."
+          },
+          {
+            "stringId": "2024304363373719552",
+            "femaleVariant": "Oh, stop. The odds had us face down in the mud long past. But we beat them. We have the right to be pleased."
+          },
+          {
+            "stringId": "2236678167676604416",
+            "femaleVariant": "OK, let's move on quick. Militech's bit down, they won't let go. Support's likely on the way."
+          },
+          {
+            "stringId": "2236686126301335560",
+            "femaleVariant": "All right. We're firing up the SERC, aiming to bore through to Arasaka Tower. This will take some time."
+          },
+          {
+            "stringId": "2236690244336111616",
+            "femaleVariant": "V! Militech's throwing more armor at us! By the ton!"
+          },
+          {
+            "stringId": "2236691728817737736",
+            "femaleVariant": "V, help us out, here! Fucking Militech is not letting up!"
+          },
+          {
+            "stringId": "2236716471419686912",
+            "femaleVariant": "God damned corpos! More company incoming!"
+          },
+          {
+            "stringId": "2236716930058440708",
+            "femaleVariant": "Oh my, that's what I call a true whoomp. Mitch, is everything all right?"
+          },
+          {
+            "stringId": "2236717825290686464",
+            "femaleVariant": "We'll handle them."
+          },
+          {
+            "stringId": "2236718272537710592",
+            "femaleVariant": "Impressive rumble, yeah, but all seems good."
+          },
+          {
+            "stringId": "2238806381853601792",
+            "femaleVariant": "V, we'll need you to cover us!"
+          },
+          {
+            "stringId": "2238836441406959616",
+            "femaleVariant": "Get your ass moving our way, fast!"
+          },
+          {
+            "stringId": "2238885961608130560",
+            "femaleVariant": "The Militech armor – we have to intercept. Before it reaches the others."
+          },
+          {
+            "stringId": "2238888463242031104",
+            "femaleVariant": "Mhm. They're done and gone."
+          }
+        ]
+      }
+
+
+

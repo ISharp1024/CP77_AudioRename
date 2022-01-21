@@ -1,0 +1,76 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1783754062858833920",
+            "femaleVariant": "I'm looking for some cyberware."
+          },
+          {
+            "stringId": "1783754062858833936",
+            "femaleVariant": "You look young for a ripperdoc."
+          },
+          {
+            "stringId": "1783754062875611140",
+            "femaleVariant": "Lookin' for some new chrome.",
+            "maleVariant": "I'm lookin' for some new chrome."
+          },
+          {
+            "stringId": "1783754062892388352",
+            "femaleVariant": "Of course. Get comfortable and we'll get to it."
+          },
+          {
+            "stringId": "1783754062909165568",
+            "femaleVariant": "Pretty young-lookin' for a ripper."
+          },
+          {
+            "stringId": "1783754062909165576",
+            "femaleVariant": "That a problem?"
+          },
+          {
+            "stringId": "1979457082931597312",
+            "femaleVariant": "Depends. Not if your experience doesn't match your years."
+          },
+          {
+            "stringId": "1979457517763481600",
+            "femaleVariant": "I worked ten years in an R&D lab at Moore Technologies. I hope that eases your nerves."
+          },
+          {
+            "stringId": "1979460686358827008",
+            "femaleVariant": "Why did you leave Moore?"
+          },
+          {
+            "stringId": "1979461698679263232",
+            "femaleVariant": "Mind if I ask why you left? Got a feelin' Moore Tech doesn't skimp out on its engineers.",
+            "maleVariant": "Mind if I ask why you left? I got a feelin' Moore Tech doesn't skimp out on its engineers."
+          },
+          {
+            "stringId": "1979462572637999104",
+            "femaleVariant": "Sure, the pay was good. But I couldn't sleep."
+          },
+          {
+            "stringId": "1979462811142901760",
+            "femaleVariant": "Moore, as you might know, specializes in deep-tissue integration. Titanium skulls, spine replacements..."
+          },
+          {
+            "stringId": "1979463873526550528",
+            "femaleVariant": "It's difficult work. It takes time before a new implant becomes viable, its implementation repeatable. Time... and lives."
+          }
+        ]
+      }
+
+
+

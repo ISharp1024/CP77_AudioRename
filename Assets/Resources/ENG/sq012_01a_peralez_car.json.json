@@ -1,0 +1,288 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1692517901624004608",
+            "femaleVariant": "Are you V?"
+          },
+          {
+            "stringId": "1692563268675686400",
+            "femaleVariant": "Please, step in the vehicle."
+          },
+          {
+            "stringId": "1692563738639060992",
+            "femaleVariant": "Hello, V. I'm Jefferson Peralez."
+          },
+          {
+            "stringId": "1692564911735558144",
+            "femaleVariant": "You've already spoken with Elizabeth, my wife."
+          },
+          {
+            "stringId": "1692576723600265220",
+            "femaleVariant": "[Take shard] All right. Lemme see the scroll."
+          },
+          {
+            "stringId": "1692588839669452800",
+            "femaleVariant": "All right. See what I can do."
+          },
+          {
+            "stringId": "1692596960932515840",
+            "femaleVariant": "Excellent. We'd be happy with any find that would clarify things, alleviate lingering doubts."
+          },
+          {
+            "stringId": "1692618948061286400",
+            "femaleVariant": "The braindance – it has to be back where it belongs today. Or a lot of people will be in a lot of trouble."
+          },
+          {
+            "stringId": "1895403992388427780",
+            "femaleVariant": "[Get in] Thanks."
+          },
+          {
+            "stringId": "1895405202512240640",
+            "femaleVariant": "OK…"
+          },
+          {
+            "stringId": "1895430810952753152",
+            "femaleVariant": "Nice to meet you, Mr. Peralez."
+          },
+          {
+            "stringId": "1895430840296103936",
+            "femaleVariant": "Well, as you're probably aware, Mayor Lucius Rhyne recently passed."
+          },
+          {
+            "stringId": "1895437736436523008",
+            "femaleVariant": "Hm, right again, Liz."
+          },
+          {
+            "stringId": "1895438108639059968",
+            "femaleVariant": "You see, my wife is a great judge of character. Said this would work."
+          },
+          {
+            "stringId": "1895439288094121984",
+            "femaleVariant": "Now I see why."
+          },
+          {
+            "stringId": "1895445033468518404",
+            "femaleVariant": "What's this job?"
+          },
+          {
+            "stringId": "1895451939306168320",
+            "femaleVariant": "Nice to meet you."
+          },
+          {
+            "stringId": "1895456546866552832",
+            "femaleVariant": "Straight to the matter at hand, huh? Hmhm…"
+          },
+          {
+            "stringId": "1898073547883634692",
+            "femaleVariant": "Could engage in some small talk first."
+          },
+          {
+            "stringId": "1898073604221526016",
+            "femaleVariant": "So – whaddaya got for me?"
+          },
+          {
+            "stringId": "1898092288285564928",
+            "femaleVariant": "My time' valuable, so is yours."
+          },
+          {
+            "stringId": "1898097348176470016",
+            "femaleVariant": "I mean, guess we could chat about the weather or debate where they serve the best ramen…",
+            "maleVariant": "I mean, I guess we could chat up the weather or debate where they serve the best ramen."
+          },
+          {
+            "stringId": "1898097373342294016",
+            "femaleVariant": "My time's pretty valuable. Pretty sure yours is too."
+          },
+          {
+            "stringId": "1898100265231015936",
+            "femaleVariant": "All the same to me, but…"
+          },
+          {
+            "stringId": "1898100707042222080",
+            "femaleVariant": "Hahahahaha... Fair enough. To business it is."
+          },
+          {
+            "stringId": "1898107700003954688",
+            "femaleVariant": "Mrs. Peralez."
+          },
+          {
+            "stringId": "1898113524667473920",
+            "femaleVariant": "Elizabeth?"
+          },
+          {
+            "stringId": "1898124911363973120",
+            "femaleVariant": "True."
+          },
+          {
+            "stringId": "1898125643521679360",
+            "femaleVariant": "Far as I know, case is closed already."
+          },
+          {
+            "stringId": "1898125681253638148",
+            "femaleVariant": "Case is closed."
+          },
+          {
+            "stringId": "1898167619713458176",
+            "femaleVariant": "His death was no secret. The media missed something?"
+          },
+          {
+            "stringId": "1898168678120906752",
+            "femaleVariant": "There was an attempt on his life days before his passing."
+          },
+          {
+            "stringId": "1898176246557925376",
+            "femaleVariant": "Far as I remember, someone tried to zero Rhyne a few days before his death."
+          },
+          {
+            "stringId": "1898176268049539072",
+            "femaleVariant": "It was all over the news."
+          },
+          {
+            "stringId": "1898177668426981376",
+            "femaleVariant": "It is. Of course the police wrote it off as natural causes. Rhyne passed at home due to a \"cardioimplant malfunction.\""
+          },
+          {
+            "stringId": "1898293739632943104",
+            "femaleVariant": "The NCPD sees no link. They're saying it was a random cyberpsycho attack."
+          },
+          {
+            "stringId": "1898328188441550848",
+            "femaleVariant": "Pf, of course it was. Media feasted for weeks. Pieces like that are their lifeblood."
+          },
+          {
+            "stringId": "1898330350521376768",
+            "femaleVariant": "And claimin' the mayor died of natural causes…"
+          },
+          {
+            "stringId": "1898331076521844736",
+            "femaleVariant": "What makes you think the cops got it wrong? Got any evidence?"
+          },
+          {
+            "stringId": "1898343528772886528",
+            "femaleVariant": "Causes unrelated to the attack. It's in the official reports. Rhyne died at home due to a \"cardioimplant malfunction.\""
+          },
+          {
+            "stringId": "1898354419434217472",
+            "femaleVariant": "We want to know how, why, whatever else is pertinent."
+          },
+          {
+            "stringId": "1898368044714647552",
+            "femaleVariant": "Right. Think they missed somethin'?"
+          },
+          {
+            "stringId": "1898368395073249280",
+            "femaleVariant": "We have reason to believe they did, yes."
+          },
+          {
+            "stringId": "1898371169018142720",
+            "femaleVariant": "But we're left wondering about the cyberpsycho attack at City Hall a few days earlier."
+          },
+          {
+            "stringId": "1898372570049896452",
+            "femaleVariant": "What makes you think the cops got it wrong?"
+          },
+          {
+            "stringId": "1898374735669714944",
+            "femaleVariant": "The police say it was completely unrelated."
+          },
+          {
+            "stringId": "1898411669653774336",
+            "femaleVariant": "This got anything to do with the upcoming election?"
+          },
+          {
+            "stringId": "1924389261430972416",
+            "femaleVariant": "Peralez? The one running for mayor?"
+          },
+          {
+            "stringId": "1924390084974174208",
+            "femaleVariant": "Peralez? The one running for mayor of Night City?",
+            "maleVariant": "Peralez? Heh... The one running for mayor of Night City?"
+          },
+          {
+            "stringId": "1924394652655116288",
+            "femaleVariant": "The one."
+          },
+          {
+            "stringId": "1924401832968019968",
+            "femaleVariant": "So the one who was DA until recently but just vaulted into a seat on the city council."
+          },
+          {
+            "stringId": "1924401942288359424",
+            "femaleVariant": "I gather you now understand why discretion is of the utmost importance."
+          },
+          {
+            "stringId": "1924436682752090112",
+            "femaleVariant": "These suspicions of yours… wouldn't have anything to do with the upcoming election, would they?"
+          },
+          {
+            "stringId": "1924453433560752128",
+            "femaleVariant": "'Course they would. If Lucius Rhyne was murdered, we want to know, need to know."
+          },
+          {
+            "stringId": "1924454857711509504",
+            "femaleVariant": "Shortly before Rhyne passed, he made cuts in the NCPD budget. Perhaps got on someone's bad side that way."
+          },
+          {
+            "stringId": "1924463438435409920",
+            "femaleVariant": "In any case, we have the cyberpsycho attack on a BD."
+          },
+          {
+            "stringId": "1924464487044964352",
+            "femaleVariant": "Our chief of security scanned it but didn't find anything out of the ordinary, so to speak... We need a braindance editor, a real one. It's raw footage."
+          },
+          {
+            "stringId": "1924465207374733312",
+            "femaleVariant": "If you agree to help, you can see it right now."
+          },
+          {
+            "stringId": "1924492786148270080",
+            "femaleVariant": "Where'd you get it?"
+          },
+          {
+            "stringId": "1924494741398577152",
+            "femaleVariant": "Where'd you get the scroll?"
+          },
+          {
+            "stringId": "1924506122088833024",
+            "femaleVariant": "Rhyne was making a public appearance. BD scrolling's standard procedure for events like that."
+          },
+          {
+            "stringId": "1924508021890441216",
+            "femaleVariant": "Following the attack, the NCPD impounded the footage as evidence."
+          },
+          {
+            "stringId": "1924508423469883392",
+            "femaleVariant": "We had to pull many strings to extract it."
+          },
+          {
+            "stringId": "1947712436352409600",
+            "femaleVariant": "Lemme look at it now, then."
+          },
+          {
+            "stringId": "1957819339482095616",
+            "femaleVariant": "Carter, let's go."
+          },
+          {
+            "stringId": "2065155347913728004",
+            "femaleVariant": "[Sit and wait]"
+          }
+        ]
+      }
+
+
+

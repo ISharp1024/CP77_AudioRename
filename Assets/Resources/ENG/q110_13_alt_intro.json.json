@@ -1,0 +1,662 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1695167131789840384",
+            "femaleVariant": "It's... it's all so alive. So real."
+          },
+          {
+            "stringId": "1698455700167266304",
+            "femaleVariant": "Cyberspace moves, breathes at all times."
+          },
+          {
+            "stringId": "1698456372195430400",
+            "femaleVariant": "De interface will adjust de ebb and flow of data to de capabilities of your brain."
+          },
+          {
+            "stringId": "1698458056896352256",
+            "femaleVariant": "But you... you are an exceptional case."
+          },
+          {
+            "stringId": "1698461584406679552",
+            "femaleVariant": "So – what now?"
+          },
+          {
+            "stringId": "1698463147875438592",
+            "femaleVariant": "We can begin. All is ready."
+          },
+          {
+            "stringId": "1698465897224933376",
+            "femaleVariant": "We enhanced your link to Silverhand's neural network for a short time. To grab de fragment."
+          },
+          {
+            "stringId": "1698468660935725056",
+            "femaleVariant": "We must find de data on Alt. Alt alone."
+          },
+          {
+            "stringId": "1698476514971291648",
+            "femaleVariant": "Dis should only take..."
+          },
+          {
+            "stringId": "1698498645444595712",
+            "femaleVariant": "Yes. We extract de necessary fragment of Silverhand's engram."
+          },
+          {
+            "stringId": "1698500107344089088",
+            "femaleVariant": "We are ready now to make contact with Alt."
+          },
+          {
+            "stringId": "1698504043446734848",
+            "femaleVariant": "So, you don't actually know what's on the other side."
+          },
+          {
+            "stringId": "1698521865128316928",
+            "femaleVariant": "I held up my end of our deal. Your turn."
+          },
+          {
+            "stringId": "1698524569649090560",
+            "femaleVariant": "Before you pass through that wall, I want Johnny's psyche removed."
+          },
+          {
+            "stringId": "1698526104495919104",
+            "femaleVariant": "We will not pass through."
+          },
+          {
+            "stringId": "1710203183566229504",
+            "femaleVariant": "We take you into de cyberspace. No better place for you to interact with de construct."
+          },
+          {
+            "stringId": "1710204274185932800",
+            "femaleVariant": "Tell me why you want Johnny first."
+          },
+          {
+            "stringId": "1710205290918776832",
+            "femaleVariant": "How do I know I'll come back?"
+          },
+          {
+            "stringId": "1710207009811664896",
+            "femaleVariant": "What's your plan to contact Alt?"
+          },
+          {
+            "stringId": "1710208961991741440",
+            "femaleVariant": "How do I know I'll come back? Do I get some guarantee?"
+          },
+          {
+            "stringId": "1710217524378144768",
+            "femaleVariant": "You will be inside our data fortress, under watch."
+          },
+          {
+            "stringId": "1710221128845561856",
+            "femaleVariant": "If you knew what is out there in de cyberspace, you would not be so choosy."
+          },
+          {
+            "stringId": "1710222880621793280",
+            "femaleVariant": "Under YOUR watch."
+          },
+          {
+            "stringId": "1710228160076124160",
+            "femaleVariant": "How's this any different from regular netrunning?"
+          },
+          {
+            "stringId": "1710230618508693504",
+            "femaleVariant": "How's all this any different from plain ol' netrunning?"
+          },
+          {
+            "stringId": "1710230618508693516",
+            "femaleVariant": "De interface show you de data layers direct from de Net. Readable, of course."
+          },
+          {
+            "stringId": "1710230618525470728",
+            "femaleVariant": "What de basic 'runners see is only a map. They cannot see beneath de surface. Their tech, it is too weak."
+          },
+          {
+            "stringId": "1710232243432394752",
+            "femaleVariant": "We try to cut out a unique piece of Silverhand's engram from de biochip."
+          },
+          {
+            "stringId": "1710236211378196480",
+            "femaleVariant": "Alt will know it. If something of de human is left after years beyond de Blackwall, she will answer."
+          },
+          {
+            "stringId": "1710237982498557952",
+            "femaleVariant": "Johnny? Looks like you're the bait. You OK with that?"
+          },
+          {
+            "stringId": "1710239780093366272",
+            "femaleVariant": "Yeah, whatever. Just do what she says."
+          },
+          {
+            "stringId": "1710241058919878656",
+            "femaleVariant": "What do you want from Alt?"
+          },
+          {
+            "stringId": "1710258908199981056",
+            "femaleVariant": "What exactly do you want from Alt? All of you?"
+          },
+          {
+            "stringId": "1710260073914503168",
+            "femaleVariant": "When de Blackwall was built, everyone think de ICE would be enough, keep de wild AIs out, away."
+          },
+          {
+            "stringId": "1710262772647137280",
+            "femaleVariant": "This is our BBS. Data fortress."
+          },
+          {
+            "stringId": "1710263956044845056",
+            "femaleVariant": "Bridge to de deep Net."
+          },
+          {
+            "stringId": "1710265920874942464",
+            "femaleVariant": "Beyond, dere are no borders."
+          },
+          {
+            "stringId": "1710266412363485184",
+            "femaleVariant": "Beyond de Blackwall."
+          },
+          {
+            "stringId": "1710272156311818240",
+            "femaleVariant": "What's the Blackwall, really?"
+          },
+          {
+            "stringId": "1710272501117161472",
+            "femaleVariant": "The Blackwall – what is it, exactly? I mean, I know…",
+            "maleVariant": "The Blackwall – what is it, exactly? I mean, I know..."
+          },
+          {
+            "stringId": "1710272501117161484",
+            "femaleVariant": "You know only what de NetWatch tell you."
+          },
+          {
+            "stringId": "1710272501117161496",
+            "femaleVariant": "De final bastion against de postwar AIs. De great victory of humanity over chaos."
+          },
+          {
+            "stringId": "1710272501133938712",
+            "femaleVariant": "But de Blackwall is an AI itself. De boundary condition let no thing pass through, either way."
+          },
+          {
+            "stringId": "1710298337761366016",
+            "femaleVariant": "If de AIs thought like people, dey would call it a traitor."
+          },
+          {
+            "stringId": "1710299612158693376",
+            "femaleVariant": "That would be your Saturday morning NetWatch propaganda."
+          },
+          {
+            "stringId": "1710302965689290752",
+            "femaleVariant": "But technology advances, it cannot be stopped. And now, catastrophe come again. This is sure. And soon."
+          },
+          {
+            "stringId": "1710308714486239232",
+            "femaleVariant": "Alt de only one can give us safe passage past de Blackwall."
+          },
+          {
+            "stringId": "1710309208692690944",
+            "femaleVariant": "The change?"
+          },
+          {
+            "stringId": "1710312539423051776",
+            "femaleVariant": "When de change come, we wish to be on de winning side."
+          },
+          {
+            "stringId": "1710318153465401344",
+            "femaleVariant": "And none have yet returned."
+          },
+          {
+            "stringId": "1710319172849045504",
+            "femaleVariant": "Few have gone through to de other side."
+          },
+          {
+            "stringId": "1710319765554532352",
+            "femaleVariant": "She will be de first."
+          },
+          {
+            "stringId": "1711432609935200256",
+            "femaleVariant": "De corporations, dey do not see de danger. But we – we will be ready."
+          },
+          {
+            "stringId": "1711450250540290052",
+            "femaleVariant": "Don't tell me I gotta get in that."
+          },
+          {
+            "stringId": "1711453696647565312",
+            "femaleVariant": "Oh, come on. Not the tub."
+          },
+          {
+            "stringId": "1711457799851282432",
+            "femaleVariant": "We must prepare you for de dive into cyberspace."
+          },
+          {
+            "stringId": "1711465607598510080",
+            "femaleVariant": "You are not accustomed to de neural demand."
+          },
+          {
+            "stringId": "1711466435956772864",
+            "femaleVariant": "Don't try an' get outta this, V. Just do what she says. I'm not about to sizzle with you."
+          },
+          {
+            "stringId": "1711482561461817344",
+            "femaleVariant": "Ooooh..."
+          },
+          {
+            "stringId": "1712793838918373376",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Vire kouran.\" t=\"Turn on the power.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1712929946431983616",
+            "femaleVariant": "Before you cross the Blackwall, remove the construct."
+          },
+          {
+            "stringId": "1744394999535276032",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Tout bagay pare. Nou ka kòmanse.\" t=\"Everything is ready. We can begin.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1744601818568364036",
+            "femaleVariant": "Looks like you're the bait."
+          },
+          {
+            "stringId": "1744726950779588608",
+            "femaleVariant": "Here."
+          },
+          {
+            "stringId": "1745841678133301248",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Bon.\" t=\"Good.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1745849880077996032",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pare.\" t=\"She's ready.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Li pare.\" t=\" He's ready.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1751949491834261504",
+            "femaleVariant": "[Get in] I'm ready."
+          },
+          {
+            "stringId": "1751952783792476160",
+            "femaleVariant": "Let's do this."
+          },
+          {
+            "stringId": "1754712582155177988",
+            "femaleVariant": "Where are we?"
+          },
+          {
+            "stringId": "1761880934798659584",
+            "femaleVariant": "OK, wha… what now?",
+            "maleVariant": "OK, wh-what now?"
+          },
+          {
+            "stringId": "1761887312422440964",
+            "femaleVariant": "OK, what now?"
+          },
+          {
+            "stringId": "1761895032894590980",
+            "femaleVariant": "Johnny?"
+          },
+          {
+            "stringId": "1761895789412814848",
+            "femaleVariant": "J-Johnny?"
+          },
+          {
+            "stringId": "1766150373731799040",
+            "femaleVariant": "This is it? Seriously?"
+          },
+          {
+            "stringId": "1766150894630801408",
+            "femaleVariant": "This is it? Seriously?"
+          },
+          {
+            "stringId": "1766151244821630976",
+            "femaleVariant": "Where are we?"
+          },
+          {
+            "stringId": "1770694349373640704",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pare plonje.\" t=\"Ready to plunge.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1770696815926382592",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ki moun ki pral pwoteje li?\" t=\"Who will protect her?\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Ki moun ki pral pwoteje li?\" t=\"Who will protect him?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1770707973932650496",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Leon avec Jean-ki-ri.\" t=\"Leon and Jean-ki-ri.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1770712812934729728",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Direksyon konekte.\" t=\"Linking flows.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1770718902963474432",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Koneksyon estab.\" t=\"Stable connection.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1792268198003150848",
+            "femaleVariant": "Must have your own version of a SynthTech interface."
+          },
+          {
+            "stringId": "1947384246858174464",
+            "femaleVariant": "OK, hang on. Wanna know what you need Silverhand for first.",
+            "maleVariant": "OK, hang on. I wanna know what you need Silverhand for first."
+          },
+          {
+            "stringId": "1947388088622534656",
+            "femaleVariant": "We wish to contact Alt Cunningham. We know she and Silverhand were close."
+          },
+          {
+            "stringId": "1947388315484049408",
+            "femaleVariant": "Alt?"
+          },
+          {
+            "stringId": "1947389177849729024",
+            "femaleVariant": "The Relic which Arasaka held close, it is our only lead."
+          },
+          {
+            "stringId": "1947390385842835456",
+            "femaleVariant": "Alt Cunningham… heard of 'er."
+          },
+          {
+            "stringId": "1947390613627097088",
+            "femaleVariant": "Oh? Where, from who?"
+          },
+          {
+            "stringId": "1947392754903175172",
+            "femaleVariant": "Alt – how do we contact her?"
+          },
+          {
+            "stringId": "1947396937211465728",
+            "femaleVariant": "Johnny told me about her."
+          },
+          {
+            "stringId": "1947403995973439488",
+            "femaleVariant": "From Johnny. Though granted, not much."
+          },
+          {
+            "stringId": "1947404777103839232",
+            "femaleVariant": "Johnny?"
+          },
+          {
+            "stringId": "1947406234456707084",
+            "femaleVariant": "All right, V. Guess you better tell 'er."
+          },
+          {
+            "stringId": "1947406234456707100",
+            "femaleVariant": "Tell her what?"
+          },
+          {
+            "stringId": "1947406234473484288",
+            "femaleVariant": "About us."
+          },
+          {
+            "stringId": "1947406900193415172",
+            "femaleVariant": "How we contacting Alt?"
+          },
+          {
+            "stringId": "1947407260115030016",
+            "femaleVariant": "Johnny's construct is active."
+          },
+          {
+            "stringId": "1947407790761594880",
+            "femaleVariant": "Construct's active. Lets me and Johnny shoot the shit every now and then."
+          },
+          {
+            "stringId": "1947409036872536064",
+            "femaleVariant": "Whoa, what? Said nothin' 'bout breakin' through the Blackwall.",
+            "maleVariant": "Whoa, what? You said nothin' 'bout breakin' through the Blackwall."
+          },
+          {
+            "stringId": "1947409476016164864",
+            "femaleVariant": "Well, now you know."
+          },
+          {
+            "stringId": "1947487816991395840",
+            "femaleVariant": "What, think I'm hallucinating? Found myself an imaginary friend?"
+          },
+          {
+            "stringId": "1947491792621162496",
+            "femaleVariant": "Mhm. We will look at dis, too."
+          },
+          {
+            "stringId": "1947494987271524352",
+            "femaleVariant": "Little is known of how an engram might exist within a human's neural network."
+          },
+          {
+            "stringId": "1947496159713710080",
+            "femaleVariant": "Tell ya one thing – doesn't shake out well for the human."
+          },
+          {
+            "stringId": "1948740867425325056",
+            "femaleVariant": "Guess all this means you got your own SynthTech interface."
+          },
+          {
+            "stringId": "1948742621315485696",
+            "femaleVariant": "We have our own versions of all. We do not use anything from de city."
+          },
+          {
+            "stringId": "1954797615491862528",
+            "femaleVariant": "What the hell's goin' on?!"
+          },
+          {
+            "stringId": "1954797615575748608",
+            "femaleVariant": "Dey breached our BBSes. We have nothing to do wid dis!"
+          },
+          {
+            "stringId": "1954797615726743552",
+            "femaleVariant": "Joris, we must pull out!"
+          },
+          {
+            "stringId": "1954797615911292928",
+            "femaleVariant": "Secure--!"
+          },
+          {
+            "stringId": "1955045356872683520",
+            "femaleVariant": "Construct – what kinda shape's it in?"
+          },
+          {
+            "stringId": "1955046255426818048",
+            "femaleVariant": "Enough data is uncorrupted to convince Alt it is authentic."
+          },
+          {
+            "stringId": "1955048562663116800",
+            "femaleVariant": "What the hell's that mean?"
+          },
+          {
+            "stringId": "1967659568530739200",
+            "femaleVariant": "Alt…? Wh-what's goin' on?"
+          },
+          {
+            "stringId": "1973499905258049536",
+            "femaleVariant": "Why you wait? De ice will melt waiting for your decision."
+          },
+          {
+            "stringId": "2009650982999052288",
+            "femaleVariant": "...a moment."
+          },
+          {
+            "stringId": "2009652183140421632",
+            "femaleVariant": "Did it work?"
+          },
+          {
+            "stringId": "2009653045237665792",
+            "femaleVariant": "Felt like more than a moment."
+          },
+          {
+            "stringId": "2009653692972421120",
+            "femaleVariant": "Sure felt like more than a moment."
+          },
+          {
+            "stringId": "2009656985299734528",
+            "femaleVariant": "So... did it work?"
+          },
+          {
+            "stringId": "2009667208429195264",
+            "femaleVariant": "Saw a good chunk of Johnny's life... And Alt."
+          },
+          {
+            "stringId": "2009670276612902912",
+            "femaleVariant": "It is possible. Data connected to Alt are linked to a strong memory trace in de construct. Very strong."
+          },
+          {
+            "stringId": "2009674972119453696",
+            "femaleVariant": "These memories must have evoked a powerful emotional response, then projected onto your consciousness."
+          },
+          {
+            "stringId": "2009682154932162560",
+            "femaleVariant": "Emotion, yeah, plenty of that..."
+          },
+          {
+            "stringId": "2009706083100938244",
+            "femaleVariant": "What now?"
+          },
+          {
+            "stringId": "2009706832958607360",
+            "femaleVariant": "It all seems so... alive."
+          },
+          {
+            "stringId": "2009712094075441152",
+            "femaleVariant": "Seein' somethin' more than I am?"
+          },
+          {
+            "stringId": "2009712572427423744",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"twò bèl\" b=\"Yes. De cyberspace, it is always... \" a=\".\"/>"
+          },
+          {
+            "stringId": "2009729601771425792",
+            "femaleVariant": "First, we must dive deeper."
+          },
+          {
+            "stringId": "2009740179369906176",
+            "femaleVariant": "What the construct's condition?"
+          },
+          {
+            "stringId": "2009831679554506756",
+            "femaleVariant": "Fine. Not like I have a choice."
+          },
+          {
+            "stringId": "2009831885293506560",
+            "femaleVariant": "Don't got much for options, do I?"
+          },
+          {
+            "stringId": "2009833316390031360",
+            "femaleVariant": "Should've guessed…"
+          },
+          {
+            "stringId": "2009834419575869440",
+            "femaleVariant": "So actually… you got no idea what's beyond that thing.",
+            "maleVariant": "So actually… you've got no idea what's beyond that thing."
+          },
+          {
+            "stringId": "2009838944256806912",
+            "femaleVariant": "But we will know soon."
+          },
+          {
+            "stringId": "2009839230576775168",
+            "femaleVariant": "And these shapes I'm seein'…"
+          },
+          {
+            "stringId": "2009839981357191168",
+            "femaleVariant": "Wild, unfettered AI. Searching for a passage."
+          },
+          {
+            "stringId": "2009856183332786176",
+            "femaleVariant": "You will take de code to de other side."
+          },
+          {
+            "stringId": "2009866461323743232",
+            "femaleVariant": "Fuck... Might've guessed."
+          },
+          {
+            "stringId": "2009875972713369600",
+            "femaleVariant": "Never had any intention of helpin' me, did ya?"
+          },
+          {
+            "stringId": "2009877713232089088",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ale.\" t=\"Go.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2009878739947376644",
+            "femaleVariant": "[Touch] How do I cross over?"
+          },
+          {
+            "stringId": "2009878928825274368",
+            "femaleVariant": "How do I get to the other side?"
+          },
+          {
+            "stringId": "2009880038688444416",
+            "femaleVariant": "Brigitte?"
+          },
+          {
+            "stringId": "2009893432426516480",
+            "femaleVariant": "It does not matter anymore."
+          },
+          {
+            "stringId": "2009897390524092416",
+            "femaleVariant": "You will bring all to its end."
+          },
+          {
+            "stringId": "2009913448517619716",
+            "femaleVariant": "Alt?"
+          },
+          {
+            "stringId": "2009914135779495936",
+            "femaleVariant": "Alt?"
+          },
+          {
+            "stringId": "2009921092686991360",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "2009924662928887808",
+            "femaleVariant": "You cannot remain here."
+          },
+          {
+            "stringId": "2009927938562871296",
+            "femaleVariant": "Alt Cunningham."
+          },
+          {
+            "stringId": "2009934254798819328",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Joris! Rezo a gen plis chaj ...\" t=\"Joris! The network's experiencing additional load…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2009937601920520192",
+            "femaleVariant": "NetWatch."
+          },
+          {
+            "stringId": "2009945821481291776",
+            "femaleVariant": "W-what...?"
+          },
+          {
+            "stringId": "2014282225464135684",
+            "femaleVariant": "What... is this?"
+          },
+          {
+            "stringId": "2014283135510663168",
+            "femaleVariant": "What's happening?",
+            "maleVariant": "What's happenin'?"
+          },
+          {
+            "stringId": "2014283795677335552",
+            "femaleVariant": "Brigitte...?"
+          },
+          {
+            "stringId": "2170806730348548096",
+            "femaleVariant": "[Grab]"
+          }
+        ]
+      }
+
+
+

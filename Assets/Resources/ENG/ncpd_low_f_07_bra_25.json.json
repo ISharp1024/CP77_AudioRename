@@ -1,0 +1,189 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1864588375557267460",
+            "femaleVariant": "Please leave."
+          },
+          {
+            "stringId": "1864588375574044676",
+            "femaleVariant": "Got nothin' to say to you."
+          },
+          {
+            "stringId": "1864588375641153540",
+            "femaleVariant": "Gonna have to ask you to move back."
+          },
+          {
+            "stringId": "1864588375657930756",
+            "femaleVariant": "<kiroshi l=\"bra\" o=\"Circulando.\" t=\"Move along.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864588375691485188",
+            "femaleVariant": "Listen, this don't end well for you!"
+          },
+          {
+            "stringId": "1864588375708262404",
+            "femaleVariant": "<mothertongue l=\"bra\" m=\"Porra!\" b=\"\" a=\" Stash that!\"/>"
+          },
+          {
+            "stringId": "1864588375758594052",
+            "femaleVariant": "Doesn't have to end this way..."
+          },
+          {
+            "stringId": "1864588375775371268",
+            "femaleVariant": "You leave, you live, I keep my conscience clean."
+          },
+          {
+            "stringId": "1864588375825702916",
+            "femaleVariant": "Move along. Please."
+          },
+          {
+            "stringId": "1864588375842480132",
+            "femaleVariant": "No fast moves, all right?"
+          },
+          {
+            "stringId": "1864588375892811780",
+            "femaleVariant": "<kiroshi l=\"bra\" o=\"Ah meu Deus!\" t=\"Oh my God!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864588375926366208",
+            "femaleVariant": "What's going on..."
+          },
+          {
+            "stringId": "1864588375959920644",
+            "femaleVariant": "<mothertongue l=\"bra\" m=\"Porra!\" b=\"\" a=\" That's enough!\"/>"
+          },
+          {
+            "stringId": "1864588375993475076",
+            "femaleVariant": "Yep. I done mine."
+          },
+          {
+            "stringId": "1864588376060583940",
+            "femaleVariant": "Twenty-first century and still gotta use my damn legs! Fuckin' NCPD."
+          },
+          {
+            "stringId": "1864588376094138368",
+            "femaleVariant": "Please, help me find her...",
+            "maleVariant": "Please, help me find him..."
+          },
+          {
+            "stringId": "1864588376127692804",
+            "femaleVariant": "Rest in peace."
+          },
+          {
+            "stringId": "1864588376161247236",
+            "femaleVariant": "Yep. Consider it done."
+          },
+          {
+            "stringId": "1864588376211578884",
+            "femaleVariant": "Kiss your life goodbye!"
+          },
+          {
+            "stringId": "1864588376228356100",
+            "femaleVariant": "<kiroshi l=\"bra\" o=\"Morre!\" t=\"Die!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864588376261910532",
+            "femaleVariant": "Hope you burn in hell!"
+          },
+          {
+            "stringId": "1864588376312242180",
+            "femaleVariant": "<kiroshi l=\"bra\" o=\"Mete bala!\" t=\"Shoot'em all!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864588376345796612",
+            "femaleVariant": "Not so smart now, huh?!"
+          },
+          {
+            "stringId": "1864588376379351044",
+            "femaleVariant": "<kiroshi l=\"bra\" o=\"Cacete!\" t=\"Shit!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864588376412905476",
+            "femaleVariant": "Why me?!"
+          },
+          {
+            "stringId": "1864588376463237124",
+            "femaleVariant": "<kiroshi l=\"bra\" o=\"Mas que caralho!\" t=\"Fuck this!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864588376480014340",
+            "femaleVariant": "The hell is this!?"
+          },
+          {
+            "stringId": "1864588376513568772",
+            "femaleVariant": "<kiroshi l=\"bra\" o=\"Ei!\" t=\"Hey!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864588376563900416",
+            "femaleVariant": "Girl, you know I saw it! But the last one was better, wasn't it...?"
+          },
+          {
+            "stringId": "1864588376580677636",
+            "femaleVariant": "Yeah, yeah... Yeah, I'll be free... Sure, I'll come! I love them!"
+          },
+          {
+            "stringId": "1864588376614232068",
+            "femaleVariant": "Get around her!",
+            "maleVariant": "Get around him!"
+          },
+          {
+            "stringId": "1864588376647786500",
+            "femaleVariant": "OK, OK!"
+          },
+          {
+            "stringId": "1864588376681340932",
+            "femaleVariant": "It's gonna blow!"
+          },
+          {
+            "stringId": "1864588376714895364",
+            "femaleVariant": "Sweet! See you then."
+          },
+          {
+            "stringId": "1864588376731672580",
+            "femaleVariant": "Hello? Someone here...?"
+          },
+          {
+            "stringId": "1864588376782004228",
+            "femaleVariant": "Yeah, come on – let's go."
+          },
+          {
+            "stringId": "1864588376798781444",
+            "femaleVariant": "Shhh... Follow me."
+          },
+          {
+            "stringId": "1864588376832335876",
+            "femaleVariant": "Come on. I got your back."
+          },
+          {
+            "stringId": "1864588376849113092",
+            "femaleVariant": "You're done!"
+          },
+          {
+            "stringId": "1864588376882667524",
+            "femaleVariant": "Argh... you... bitch... I'm... police...",
+            "maleVariant": "Argh... you... fuck... I'm... police..."
+          },
+          {
+            "stringId": "1867715373121003520",
+            "femaleVariant": "Yeah, they're losing their edge a bit... Mhm... When?"
+          }
+        ]
+      }
+
+
+

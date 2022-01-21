@@ -1,0 +1,142 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1532860777084489728",
+            "femaleVariant": "Switchgear's got power."
+          },
+          {
+            "stringId": "1644645789060718592",
+            "femaleVariant": "Now we wait."
+          },
+          {
+            "stringId": "1663012940700082176",
+            "femaleVariant": "OK, I've got voltage. Start the terminal inside, and once the power is on in the building, get on that roof."
+          },
+          {
+            "stringId": "1666070078319882240",
+            "femaleVariant": "OK. Cover me, just in case."
+          },
+          {
+            "stringId": "1666070498773692416",
+            "femaleVariant": "Which way will they come from?"
+          },
+          {
+            "stringId": "1669101016641564672",
+            "femaleVariant": "The panel looks to be in good shape."
+          },
+          {
+            "stringId": "1669121672951230464",
+            "femaleVariant": "Prime. We'll have some fun at the intersection."
+          },
+          {
+            "stringId": "1669129412415188992",
+            "femaleVariant": "Raffens'll come from where? Any idea?"
+          },
+          {
+            "stringId": "1669130289024724992",
+            "femaleVariant": "The northeast, I wager. From the freeway that was never finished."
+          },
+          {
+            "stringId": "1669130961455542272",
+            "femaleVariant": "Got it. Cover me, just in case."
+          },
+          {
+            "stringId": "1669131230813745152",
+            "femaleVariant": "Of course."
+          },
+          {
+            "stringId": "1677754443550552064",
+            "femaleVariant": "I'll make a bypass circuit to the power supply, that should do it. We just have to get it up and running…"
+          },
+          {
+            "stringId": "1692316836672987136",
+            "femaleVariant": "Just break the glass and dive in."
+          },
+          {
+            "stringId": "1693560940687650816",
+            "femaleVariant": "It's not as if someone'll send you a bill."
+          },
+          {
+            "stringId": "1693561467626450944",
+            "femaleVariant": "I'll set up on the tower. We'll have the whole intersection on a platter."
+          },
+          {
+            "stringId": "1742743360132067332",
+            "femaleVariant": "[Hide] Now we wait."
+          },
+          {
+            "stringId": "1773301830947303424",
+            "femaleVariant": "You got it."
+          },
+          {
+            "stringId": "1857286611361751040",
+            "femaleVariant": "Grab the jumper cables from the trunk. We'll boost it from the car battery."
+          },
+          {
+            "stringId": "1857303644379963392",
+            "femaleVariant": "[Connect positive cable]"
+          },
+          {
+            "stringId": "1857305659122278400",
+            "femaleVariant": "[Connect negative cable]"
+          },
+          {
+            "stringId": "1857357231881609216",
+            "femaleVariant": "There she goes. But the old jalopy served us well."
+          },
+          {
+            "stringId": "1964737826819387392",
+            "femaleVariant": "Remember – as soon as we see them, you give us power."
+          },
+          {
+            "stringId": "1977709243874799616",
+            "femaleVariant": "Let's get into position."
+          },
+          {
+            "stringId": "1977710785600286720",
+            "femaleVariant": "You flip the breakers when I give you the signal to do so, understood?"
+          },
+          {
+            "stringId": "1977713012054290432",
+            "femaleVariant": "Yes, ma'am."
+          },
+          {
+            "stringId": "1996499844899254272",
+            "femaleVariant": "Red cable connected."
+          },
+          {
+            "stringId": "1996501558658314240",
+            "femaleVariant": "Give me a moment. I need to hook everything up here."
+          },
+          {
+            "stringId": "1996502660636192768",
+            "femaleVariant": "And done. Now the black rattler."
+          },
+          {
+            "stringId": "1998020401348194308",
+            "femaleVariant": "[Open trunk]"
+          },
+          {
+            "stringId": "2008459303757701120",
+            "femaleVariant": "[Open hood]"
+          }
+        ]
+      }
+
+
+

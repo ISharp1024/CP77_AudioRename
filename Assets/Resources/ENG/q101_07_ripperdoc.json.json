@@ -1,0 +1,465 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1419533616736813056",
+            "femaleVariant": "Let's get her inside!",
+            "maleVariant": "Let's get him inside!"
+          },
+          {
+            "stringId": "1419543039408521216",
+            "femaleVariant": "I cannot hold it!"
+          },
+          {
+            "stringId": "1419543700212727808",
+            "femaleVariant": "Easy now."
+          },
+          {
+            "stringId": "1424364956879601664",
+            "femaleVariant": "Gotta cut my way through the occipital bone. No other way."
+          },
+          {
+            "stringId": "1642906261335363584",
+            "femaleVariant": "It's neurogenic shock. She's dying.",
+            "maleVariant": "It's neurogenic shock. He's dying."
+          },
+          {
+            "stringId": "1652051273440612352",
+            "femaleVariant": "Pressure's tanking!"
+          },
+          {
+            "stringId": "1652064332020240384",
+            "femaleVariant": "I need... to rest…"
+          },
+          {
+            "stringId": "1653054588420935680",
+            "femaleVariant": "That your blood?"
+          },
+          {
+            "stringId": "1653061175676030976",
+            "femaleVariant": "Misty!"
+          },
+          {
+            "stringId": "1654541687611510784",
+            "femaleVariant": "There is risk of--"
+          },
+          {
+            "stringId": "1654542046492938240",
+            "femaleVariant": "I know what I'm doing."
+          },
+          {
+            "stringId": "1677773336796160000",
+            "femaleVariant": "How is she?",
+            "maleVariant": "How is he?"
+          },
+          {
+            "stringId": "1677775299378110464",
+            "femaleVariant": "Slower on the mend than you, but lookin' better every day."
+          },
+          {
+            "stringId": "1714273080247373840",
+            "femaleVariant": "Misty!"
+          },
+          {
+            "stringId": "1714273080683581440",
+            "femaleVariant": "C'mon, V, let's get you home."
+          },
+          {
+            "stringId": "1714273081119789056",
+            "femaleVariant": "You don't just die and then rise from the grave."
+          },
+          {
+            "stringId": "1714273081119789076",
+            "femaleVariant": "So I'm Frankenstein. Great."
+          },
+          {
+            "stringId": "1714273081304338432",
+            "femaleVariant": "You're Doctor Viktor and I'm your monster. Perfect."
+          },
+          {
+            "stringId": "1714273081455333376",
+            "femaleVariant": "People don't just die and then get up like nothing happened."
+          },
+          {
+            "stringId": "1714273081455333388",
+            "femaleVariant": "Used to be true. Now, it's only if they don't have a classified piece of corpo tech primed to resurrect them."
+          },
+          {
+            "stringId": "1714273081455333400",
+            "femaleVariant": "What about me, my psyche? I make it back from the other side, and what – I'm supposed to pretend change is normal?"
+          },
+          {
+            "stringId": "1714273081455333412",
+            "femaleVariant": "Ask the Arasaka engineers who built the thing. All I know is your mind's gonna go and it won't be pretty."
+          },
+          {
+            "stringId": "1714273081505665024",
+            "femaleVariant": "From the biochip's perspective, your brain cells are a tumor that needs to be scooped out, while your body's an empty shell to hold the construct."
+          },
+          {
+            "stringId": "1714273081505665060",
+            "femaleVariant": "So this fucking terrorist wants to wipe me and take my place, take my body."
+          },
+          {
+            "stringId": "1714273081589551104",
+            "femaleVariant": "The biochip... it's basically a bomb, fuse lit already. You don't have much time left, much... life. A few weeks tops."
+          },
+          {
+            "stringId": "1714273081589551116",
+            "femaleVariant": "Silverhand's construct is overwriting your consciousness – gradually taking over your body until one day you'll just be... gone."
+          },
+          {
+            "stringId": "1714273081589551128",
+            "femaleVariant": "V. It's important you get all this."
+          },
+          {
+            "stringId": "1714273081757323264",
+            "femaleVariant": "You'll fix me up, right?"
+          },
+          {
+            "stringId": "1714273081757323280",
+            "femaleVariant": "You're talkin' bullshit."
+          },
+          {
+            "stringId": "1714273081975427072",
+            "femaleVariant": "You'll fix me up, right? Vik?"
+          },
+          {
+            "stringId": "1714273081992204296",
+            "femaleVariant": "If I could, I would, V,  believe me. But this is... way beyond what I know how to do."
+          },
+          {
+            "stringId": "1714273082059313152",
+            "femaleVariant": "Don't believe an ounce of the horseshit comin' from your mouth. Know why?"
+          },
+          {
+            "stringId": "1714273082076090376",
+            "femaleVariant": "Because it doesn't make any goddamn sense."
+          },
+          {
+            "stringId": "1714273082227085312",
+            "femaleVariant": "Sayin' I experienced another psyche's memories? How's that possible?"
+          },
+          {
+            "stringId": "1714284557725388800",
+            "femaleVariant": "What is, then?"
+          },
+          {
+            "stringId": "1714285082818695168",
+            "femaleVariant": "First time ever I've seen you scared."
+          },
+          {
+            "stringId": "1714285317313843200",
+            "femaleVariant": "Doubt you can top the terrorist in my brain…"
+          },
+          {
+            "stringId": "1714286572618698752",
+            "femaleVariant": "What is?"
+          },
+          {
+            "stringId": "1714286663685427200",
+            "femaleVariant": "Never given me that look before, Vik. What is it?"
+          },
+          {
+            "stringId": "1714286764717821952",
+            "femaleVariant": "Think you can top the terrorist in my brain?"
+          },
+          {
+            "stringId": "1714296322630668288",
+            "femaleVariant": "You, uh, don't got a lot of time left, kid."
+          },
+          {
+            "stringId": "1714296467837472768",
+            "femaleVariant": "Say what now?"
+          },
+          {
+            "stringId": "1714303736650190852",
+            "femaleVariant": "Why do I have to die?"
+          },
+          {
+            "stringId": "1714304238976815104",
+            "femaleVariant": "I want to know the detes, all of 'em."
+          },
+          {
+            "stringId": "1714306590706290688",
+            "femaleVariant": "You're the best of the best, Vik. Why can't you help me?"
+          },
+          {
+            "stringId": "1714307138935377920",
+            "femaleVariant": "Want the long story or the short?"
+          },
+          {
+            "stringId": "1714307766772355072",
+            "femaleVariant": "I have to die, I am going to die – that what you're saying? Prove it."
+          },
+          {
+            "stringId": "1714307874515636224",
+            "femaleVariant": "Don't omit a thing, not one dete."
+          },
+          {
+            "stringId": "1714308711312838668",
+            "femaleVariant": "You jacked it in your chipslot. Nothing happened, right? Until you died."
+          },
+          {
+            "stringId": "1714308711329615880",
+            "femaleVariant": "Bullet in the head from Dexter DeShawn. But, how do you come back from something like that?"
+          },
+          {
+            "stringId": "1714308711329615892",
+            "femaleVariant": "Low caliber – you lucked out. Not least thanks to another poor decision by Mr. DeShawn."
+          },
+          {
+            "stringId": "1714316245490782208",
+            "femaleVariant": "Hm. Dex shot you, right? The bullet damaged your chipslot AND your brain."
+          },
+          {
+            "stringId": "1714321524408242176",
+            "femaleVariant": "The biochip revived and… short-circ'd you. Started uploading data INTO your head."
+          },
+          {
+            "stringId": "1714325676785979392",
+            "femaleVariant": "OK. There was, is, a construct, a psyche on the chip. That of Johnny Silverhand."
+          },
+          {
+            "stringId": "1714329873724002308",
+            "femaleVariant": "So what am I supposed to do?"
+          },
+          {
+            "stringId": "1714330172861763584",
+            "femaleVariant": "Can't we just remove the chip?"
+          },
+          {
+            "stringId": "1714331494168186880",
+            "femaleVariant": "Vik, you've always come through for me."
+          },
+          {
+            "stringId": "1714331602062462976",
+            "femaleVariant": "Can't we just take the chip out? Or switch it off?"
+          },
+          {
+            "stringId": "1714367287603548160",
+            "femaleVariant": "Either way's out of the question. You'd die, immediately."
+          },
+          {
+            "stringId": "1714369806635421696",
+            "femaleVariant": "I wish I knew, kid."
+          },
+          {
+            "stringId": "1715423139194261504",
+            "femaleVariant": "V? You in there?"
+          },
+          {
+            "stringId": "1715423139194261516",
+            "femaleVariant": "Ugh... my head."
+          },
+          {
+            "stringId": "1715423139194261528",
+            "femaleVariant": "How ya feelin'?"
+          },
+          {
+            "stringId": "1715423139311702016",
+            "femaleVariant": "Hang on, mean to say there's an actual terrorist in my head – right now?"
+          },
+          {
+            "stringId": "1715423139311702028",
+            "femaleVariant": "That's right. Johnny Silverhand."
+          },
+          {
+            "stringId": "1715423139328479252",
+            "femaleVariant": "Had his crowning moment about fifty years ago."
+          },
+          {
+            "stringId": "1715423139328479264",
+            "femaleVariant": "AHQ Bombing – heard of it? His doing. People say he was buried under the rubble…"
+          },
+          {
+            "stringId": "1715423139395588096",
+            "femaleVariant": "Dunno, Vik... ears're ringin'. And I'm seein' shit…"
+          },
+          {
+            "stringId": "1715423139412365332",
+            "femaleVariant": "These... hallucinations – describe 'em to me?"
+          },
+          {
+            "stringId": "1715423139412365344",
+            "femaleVariant": "Blinding lights. It's loud. I'm on stage and almost can't breathe. I'm so damn full of... hatred."
+          },
+          {
+            "stringId": "1715423139412365360",
+            "femaleVariant": "Then I let it all out into a mic. And I realize it didn't help, I don't feel any better."
+          },
+          {
+            "stringId": "1715423139429142536",
+            "femaleVariant": "And then, promise not to laugh, I plant a bomb in Arasaka Tower."
+          },
+          {
+            "stringId": "1715423139429142552",
+            "femaleVariant": "Nothin' there to laugh about…"
+          },
+          {
+            "stringId": "1715423139479474176",
+            "femaleVariant": "They killed me."
+          },
+          {
+            "stringId": "1715423139496251400",
+            "femaleVariant": "Night City looked... different."
+          },
+          {
+            "stringId": "1715423139764686860",
+            "femaleVariant": "They killed me, Vik."
+          },
+          {
+            "stringId": "1715423139764686876",
+            "femaleVariant": "Never been so afraid."
+          },
+          {
+            "stringId": "1715423139798241280",
+            "femaleVariant": "Night City looked different… strange."
+          },
+          {
+            "stringId": "1715423139815018504",
+            "femaleVariant": "And I hated it. Hated everybody, every inch."
+          },
+          {
+            "stringId": "1715423139865350144",
+            "femaleVariant": "[Sit] I feel... like something ain't right."
+          },
+          {
+            "stringId": "1715423140066676736",
+            "femaleVariant": "It was too real, even for a lucid dream."
+          },
+          {
+            "stringId": "1715423140066676748",
+            "femaleVariant": "You weren't dreaming, V. Those were memories."
+          },
+          {
+            "stringId": "1715423140083453976",
+            "femaleVariant": "There's a personality construct on that shard. Dreams you had were from his past."
+          },
+          {
+            "stringId": "1715423140133785600",
+            "femaleVariant": "How's that even possible?"
+          },
+          {
+            "stringId": "1715423140133785620",
+            "femaleVariant": "Mean to say there's a terrorist in my head?"
+          },
+          {
+            "stringId": "1715455847383486464",
+            "femaleVariant": "If there's nothing you can do to help me, then... well, what the hell do I do? Tell me, please."
+          },
+          {
+            "stringId": "1715457323442950144",
+            "femaleVariant": "Vik?"
+          },
+          {
+            "stringId": "1725569191054462976",
+            "femaleVariant": "It's that shard from those TV ads!"
+          },
+          {
+            "stringId": "1725570104976527360",
+            "femaleVariant": "Fuck, I remember this thing, saw it on TV... What was that stupid slogan? Soul something?"
+          },
+          {
+            "stringId": "1725573453104861184",
+            "femaleVariant": "That's it! It's just supposed to let you communicate with constructs."
+          },
+          {
+            "stringId": "1725579290904940544",
+            "femaleVariant": "Maybe. But this is a prototype, by the look of things. Somehow made it out of Arasaka labs."
+          },
+          {
+            "stringId": "1772317707660189696",
+            "femaleVariant": "You two're connected in a way I can't make head or tail of."
+          },
+          {
+            "stringId": "1772320213253513216",
+            "femaleVariant": "Two? Me and who, Vik, who's the other?"
+          },
+          {
+            "stringId": "1772320290009276416",
+            "femaleVariant": "Johnny Silverhand. A terrorist – real talk o' the town back in my day."
+          },
+          {
+            "stringId": "1772321542361341952",
+            "femaleVariant": "Anyway, that's not what's important right now…"
+          },
+          {
+            "stringId": "1772339636152590336",
+            "femaleVariant": "As far as it was concerned, your brain was an empty vessel that needed to be filled by the engram it was carrying."
+          },
+          {
+            "stringId": "1772341580195717120",
+            "femaleVariant": "Empty vessel? But I'm right here – all of this is me!"
+          },
+          {
+            "stringId": "1772341789827031040",
+            "femaleVariant": "The shard doesn't read, it writes. Headache of yours? It's the biochip rewiring your neural pathways, building new neural structures, doing away with the old."
+          },
+          {
+            "stringId": "1772344391520247808",
+            "femaleVariant": "From where the shard's sitting, YOU, what's left – it's all a tumor that needs to be excised."
+          },
+          {
+            "stringId": "1772406218664992768",
+            "femaleVariant": "It's not willful on his part. It's automatic, inevitable. And neither of you can stop it."
+          },
+          {
+            "stringId": "1772412155165433856",
+            "femaleVariant": "The nannites off the chip started fixing the damage. Then they took your hand and coaxed you off the path towards the light."
+          },
+          {
+            "stringId": "1772440314195763200",
+            "femaleVariant": "Your body's only a body. You can modify it, replace it with chrome – hell, get a new one altogether."
+          },
+          {
+            "stringId": "1772453879581532160",
+            "femaleVariant": "\"Secure Your Soul.\""
+          },
+          {
+            "stringId": "1772461340761808896",
+            "femaleVariant": "Your mind, though? Heh, that's a whole 'nother story."
+          },
+          {
+            "stringId": "1772467106117869568",
+            "femaleVariant": "You're askin' too much from an old-timer like Vik."
+          },
+          {
+            "stringId": "1772478113431183360",
+            "femaleVariant": "Whatever's happening to me, there's a logical explanation, gotta be."
+          },
+          {
+            "stringId": "1801434087709761536",
+            "femaleVariant": "Fuck…"
+          },
+          {
+            "stringId": "1801434405470232576",
+            "femaleVariant": "Fuck…"
+          },
+          {
+            "stringId": "1895427437896622080",
+            "femaleVariant": "V?"
+          },
+          {
+            "stringId": "1895431926825312260",
+            "femaleVariant": "Talk to me."
+          }
+        ]
+      }
+
+
+

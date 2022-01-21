@@ -1,0 +1,282 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1074855074073272340",
+            "femaleVariant": "Doubt this'll go smoothly."
+          },
+          {
+            "stringId": "1074855531504066560",
+            "femaleVariant": "We'll pay again, but with Militech cred."
+          },
+          {
+            "stringId": "1163304933608067072",
+            "femaleVariant": "Doubt shit can go smoothly. This is Maelstrom."
+          },
+          {
+            "stringId": "1163304980013846544",
+            "femaleVariant": "Militech and me, we found some common ground. They're footin' the bill for the bot."
+          },
+          {
+            "stringId": "1163306048202412032",
+            "femaleVariant": "Gang world ain't too complicated. Might's right, the strong survive."
+          },
+          {
+            "stringId": "1176760969979973632",
+            "femaleVariant": "We'll buy it off 'em."
+          },
+          {
+            "stringId": "1196551541142093836",
+            "femaleVariant": "Hm, don't know you."
+          },
+          {
+            "stringId": "1196555736771493892",
+            "femaleVariant": "Wanna talk to Royce. Dex sent us."
+          },
+          {
+            "stringId": "1196555736771493900",
+            "femaleVariant": "Main room. We been waiting."
+          },
+          {
+            "stringId": "1196557869625409536",
+            "femaleVariant": "Dex sent us."
+          },
+          {
+            "stringId": "1214205208048635904",
+            "femaleVariant": "Just open the fuck up."
+          },
+          {
+            "stringId": "1671071062173638656",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Vaya, por fin!\" t=\"Sheesh, finally!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1671091734673317888",
+            "femaleVariant": "Well, whatever. Let's go get this tech. You scheme yet? You got a plan?"
+          },
+          {
+            "stringId": "1671098738758344704",
+            "femaleVariant": "Well, shit, soon as they learn that, it'll be our blood on the floor. Might wanna fill 'em in on that."
+          },
+          {
+            "stringId": "1671100363480719360",
+            "femaleVariant": "We buy it. I got the eddies."
+          },
+          {
+            "stringId": "1671101238043435008",
+            "femaleVariant": "Didn't you just say Dex already forked over?"
+          },
+          {
+            "stringId": "1671101797781692416",
+            "femaleVariant": "All right, let's knock on their door. See if they even open up..."
+          },
+          {
+            "stringId": "1671130383003639808",
+            "femaleVariant": "I hate these 'borg fuckers. Just had to be them…"
+          },
+          {
+            "stringId": "1671130383003639816",
+            "femaleVariant": "Just a gang like any other, right?"
+          },
+          {
+            "stringId": "1673677367128317952",
+            "femaleVariant": "Go on, let 'em know we're here."
+          },
+          {
+            "stringId": "1711554970904125440",
+            "femaleVariant": "Just open the fuckin' door."
+          },
+          {
+            "stringId": "1711554970904125456",
+            "femaleVariant": "Yeah? You make a fuckin' appointment? 'Cause I don't see nothin' in my book."
+          },
+          {
+            "stringId": "1718753419206549508",
+            "femaleVariant": "Maelstrom – we gotta meet 'em."
+          },
+          {
+            "stringId": "1718754883521961984",
+            "femaleVariant": "So, Dex already paid the Maelstromers for the corpo bot. Thing is, can't be sure the gangoons are still willin' to hand it over."
+          },
+          {
+            "stringId": "1718755993250914304",
+            "femaleVariant": "You're riding an Arch?"
+          },
+          {
+            "stringId": "1718756840030560256",
+            "femaleVariant": "That an Arch? Aw, damn, what a beaut.",
+            "maleVariant": "That an Arch? Hah, damn, what a beaut."
+          },
+          {
+            "stringId": "1718757295431311360",
+            "femaleVariant": "Got her cheap, too. Dorsett job dividend."
+          },
+          {
+            "stringId": "1718759043214565376",
+            "femaleVariant": "Huh, dunno how you could scrape together enough for that beast. Even used.",
+            "maleVariant": "Hm, dunno how you could scrape together enough for that beast. Even used."
+          },
+          {
+            "stringId": "1718760428895166464",
+            "femaleVariant": "I'd swap out that tailpipe if I were you."
+          },
+          {
+            "stringId": "1718764508023578624",
+            "femaleVariant": "I'd swap out that tailpipe if I were you."
+          },
+          {
+            "stringId": "1718764508023578632",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chicas\" b=\"Really? Why? It's got a mean growl that the \" a=\" just love.\"/>"
+          },
+          {
+            "stringId": "1718764508023578640",
+            "femaleVariant": "What that \"growl\" does is tell people a mile out that Jackie's rumblin' their way."
+          },
+          {
+            "stringId": "1718769445088485376",
+            "femaleVariant": "I'd tinker with the fuel injection, too. Upload a new map. And slap on some thermal tape till you cobble together enough eddies to get that exhaust modded."
+          },
+          {
+            "stringId": "1732001242542727168",
+            "femaleVariant": "Been waitin' long?"
+          },
+          {
+            "stringId": "1732001868248997888",
+            "femaleVariant": "Been waitin' long?"
+          },
+          {
+            "stringId": "1732002465803100160",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Mi madre\" b=\"\" a=\" always said patience pays off, so…\"/>"
+          },
+          {
+            "stringId": "1754699002255699968",
+            "femaleVariant": "Lemme hear what you squared away."
+          },
+          {
+            "stringId": "1754757041625165824",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"muy pequeñito\" b=\"Well... I took out a loan, but \" a=\". But, I mean, it's totally worth it.\"/>"
+          },
+          {
+            "stringId": "1754768650921766912",
+            "femaleVariant": "Mh-huh..."
+          },
+          {
+            "stringId": "1754807286971166720",
+            "femaleVariant": "So we pay again. Keep trouble to a minimum."
+          },
+          {
+            "stringId": "1754981399408865280",
+            "femaleVariant": "That's a lotta scratch to toss away."
+          },
+          {
+            "stringId": "1754981503310163968",
+            "femaleVariant": "Forget it, Jack. It'll be like we never had it in the first place. Anyway, who knows how this deal's gonna shake out."
+          },
+          {
+            "stringId": "1754982063702732800",
+            "femaleVariant": "Besides, credchip's laced."
+          },
+          {
+            "stringId": "1754983330265100288",
+            "femaleVariant": "Mean tell 'em we trade in toxic cash? Then they WILL be pissed.",
+            "maleVariant": "Mean tell 'em we trade in toxic cash? Heh. They WILL be pissed."
+          },
+          {
+            "stringId": "1754983570967818240",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Ay\" b=\"\" a=\". Well... sometimes it's better to play with an open hand. <Rich color=\\\"MainColors.ActiveBlue\\\">¿Que no?</> Just sayin'.\"/>"
+          },
+          {
+            "stringId": "1755949900726464512",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Santa Madre\" b=\"Take the Valentinos. They follow God and the \" a=\". Honor means something to 'em.\"/>"
+          },
+          {
+            "stringId": "1755950171158409216",
+            "femaleVariant": "You know what they want, how they get it, and what pisses 'em the fuck off."
+          },
+          {
+            "stringId": "1755950405552893952",
+            "femaleVariant": "With Maelstrom, you just never know."
+          },
+          {
+            "stringId": "1762140551830761472",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Híjole...\" b=\"He paid up front? \" a=\"\"/>"
+          },
+          {
+            "stringId": "1762145704667443200",
+            "femaleVariant": "Either you fuck others, or you get fucked."
+          },
+          {
+            "stringId": "1777946122915868672",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Straight to biz, eh, \" a=\"?\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"Straight to biz, eh, \" a=\"?\"/>"
+          },
+          {
+            "stringId": "1777953524587360256",
+            "femaleVariant": "All right, all right, all right."
+          },
+          {
+            "stringId": "1780625118329761792",
+            "femaleVariant": "What's the word on T-Bug?"
+          },
+          {
+            "stringId": "1780625474711384064",
+            "femaleVariant": "T-Bug show any sign of life? You two talk?"
+          },
+          {
+            "stringId": "1780625784183910400",
+            "femaleVariant": "She's up-to-date and fired up to work with Dex. Preparin' already."
+          },
+          {
+            "stringId": "1780639719071084544",
+            "femaleVariant": "They're familiar, y'know. Worked together before Dex took his break."
+          },
+          {
+            "stringId": "1995370154412666880",
+            "femaleVariant": "So, into the borgbeasts' den?"
+          },
+          {
+            "stringId": "1995370620718608388",
+            "femaleVariant": "Onward."
+          },
+          {
+            "stringId": "1995370634173935616",
+            "femaleVariant": "Let's go see these bastards."
+          },
+          {
+            "stringId": "1995370637009285120",
+            "femaleVariant": "Gimme a minute."
+          },
+          {
+            "stringId": "1995371702681268224",
+            "femaleVariant": "Need a minute."
+          },
+          {
+            "stringId": "1995379199278247936",
+            "femaleVariant": "OK. Tell me when you're good and steeled."
+          },
+          {
+            "stringId": "2240093139929055232",
+            "femaleVariant": "Ring-a-ding-ding, choom. Gotta get this done."
+          },
+          {
+            "stringId": "2240094617834012676",
+            "femaleVariant": "V, what ya waitin' for?"
+          }
+        ]
+      }
+
+
+

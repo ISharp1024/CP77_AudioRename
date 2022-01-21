@@ -1,0 +1,151 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1537210499962261504",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Li vivan.\" b=\"Oh fuck! \" a=\"\"/>"
+          },
+          {
+            "stringId": "1537221144149512192",
+            "femaleVariant": "Lead the way."
+          },
+          {
+            "stringId": "1537221773295112192",
+            "femaleVariant": "I'll find him."
+          },
+          {
+            "stringId": "1537222439602245632",
+            "femaleVariant": "Sure. Yes."
+          },
+          {
+            "stringId": "1599616870304256000",
+            "femaleVariant": "I'll find him myself."
+          },
+          {
+            "stringId": "1599621569736675328",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Placide? Nou gon pwoblèm.\" t=\"Placide? We have a problem.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1599622118854955008",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li toujou vivan. M 'pa kon koman. Li kankou zonbi.\" t=\"She survived... I dunno. Like a fuckin' zombie.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Li toujou vivan. M 'pa kon koman. Li kankou zonbi.\" t=\"He survived... I dunno. Like a fuckin' zombie.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1599623438483656704",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li ap vini pou ou kounye a.\" t=\"She's headed your way.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Li ap vini pou ou kounye a.\" t=\"He's headed your way.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1624186312661684224",
+            "femaleVariant": "We are to take you to Placide."
+          },
+          {
+            "stringId": "1624186312695238656",
+            "femaleVariant": "Let's go."
+          },
+          {
+            "stringId": "1624186312712015872",
+            "femaleVariant": "I'll find him.",
+            "maleVariant": "I'll find 'im."
+          },
+          {
+            "stringId": "1624186312712015884",
+            "femaleVariant": "Sure. Yes."
+          },
+          {
+            "stringId": "1624186312728793116",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"L'ap vin sou ou kounye a.\" t=\"She's headed your way.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"L'ap vin sou ou kounye a.\" t=\"He's headed your way.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1643211308855742464",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Il est ta miyò si nou touye l 'kounye a?\" t=\"Ain't it better to kill her here and now?\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Il est ta miyò si nou touye l 'kounye a?\" t=\"Ain't it better to kill him here and now?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1643227357101707264",
+            "femaleVariant": "Lead the way."
+          },
+          {
+            "stringId": "1643227780374089728",
+            "femaleVariant": "I'll find him myself."
+          },
+          {
+            "stringId": "1643227780374089744",
+            "femaleVariant": "Let's go."
+          },
+          {
+            "stringId": "1643235998139699200",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Rantre.\" t=\"Get in.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1648863460483682304",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Non, yo vle tande ou.\" t=\"No, they wanna hear her out.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Non, yo vle tande ou.\" t=\"No, they wanna hear him out.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1666251122131619840",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"E nou sipoze pran fin ranyon sa?\" t=\"We supposed to deal with the rag?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1666251122131619848",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Non, Placide deja okipe li.\" t=\"No, Placide already handled it.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1671900358616879104",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"A bien 'sa nap fè ak kadav la?\" t=\"What about the body?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1671900651177971712",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li se jis yon vakabon lari.\" t=\"She's just a street junkie.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Li se jis yon vakabon lari.\" t=\"He's just a street junkie.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1671900882804215808",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pa gen moun ki pral gade pou li.\" t=\"No one's going to come looking for her.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Pa gen moun ki pral chache li.\" t=\"No one's going to come looking for him.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1671907732891176960",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Kiyès? Depi Placide wè li. Lap fut bule'l.\" t=\"Who? If Placide see's her, he'll fucking burn her.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Kiyès? Depi Placide wè li. Lap fut bule'l.\" t=\"Who? If Placide see's him, he'll fucking burn him.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1671909154072367104",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Dwe vle di Brigitte reyèlman tounen.\" t=\"Must mean Brigitte's really back.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1699551586426134552",
+            "femaleVariant": "You wish to talk with Placide? Is that what you want?"
+          },
+          {
+            "stringId": "1699551586426134564",
+            "femaleVariant": "Be-because I can take you."
+          },
+          {
+            "stringId": "1770663921073852416",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Animal yo ap pake. Li fini.\" t=\"The Animals are packing up. It's over.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2505343847431774208",
+            "femaleVariant": "[Get in]"
+          }
+        ]
+      }
+
+
+

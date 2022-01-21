@@ -1,0 +1,447 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1095172658712518656",
+            "femaleVariant": "Not another step! Drop your weapons!"
+          },
+          {
+            "stringId": "1095175193967960064",
+            "femaleVariant": "Here to warn you."
+          },
+          {
+            "stringId": "1095195893244076032",
+            "femaleVariant": "I can tell you who took the job."
+          },
+          {
+            "stringId": "1095210871137214464",
+            "femaleVariant": "What I can tell ya is who took the job."
+          },
+          {
+            "stringId": "1095348551665819648",
+            "femaleVariant": "Anna, drop this investigation. It's in your best interest."
+          },
+          {
+            "stringId": "1095351289338372096",
+            "femaleVariant": "That a threat?"
+          },
+          {
+            "stringId": "1467764887350775808",
+            "femaleVariant": "Stop! Not one more fucking step!"
+          },
+          {
+            "stringId": "1467809891796488192",
+            "femaleVariant": "Who called the hit?! Gimme a name!"
+          },
+          {
+            "stringId": "1467810213885480964",
+            "femaleVariant": "Weapons down! Last warning!"
+          },
+          {
+            "stringId": "1467841276850573312",
+            "femaleVariant": "Who put out the hit?! Gimme a name!"
+          },
+          {
+            "stringId": "1467842971131285504",
+            "femaleVariant": "Yeah, that was a threat."
+          },
+          {
+            "stringId": "1467843276174626816",
+            "femaleVariant": "Just wanna help you."
+          },
+          {
+            "stringId": "1467843557780197376",
+            "femaleVariant": "Quit diggin' around. This is your last warning."
+          },
+          {
+            "stringId": "1467843652001042432",
+            "femaleVariant": "Hey, easy. I just wanna help."
+          },
+          {
+            "stringId": "1467846323269373952",
+            "femaleVariant": "No ear for subtlety, huh? Yeah, that was a threat."
+          },
+          {
+            "stringId": "1470698037588627456",
+            "femaleVariant": "Really pissed off the wrong people."
+          },
+          {
+            "stringId": "1470725924391849984",
+            "femaleVariant": "And you alone can fix it?"
+          },
+          {
+            "stringId": "1471909264604106752",
+            "femaleVariant": "Last chance, Anna."
+          },
+          {
+            "stringId": "1471910067310006272",
+            "femaleVariant": "Had enough of this bullshit."
+          },
+          {
+            "stringId": "1499344718018220032",
+            "femaleVariant": "Just to end your investigation."
+          },
+          {
+            "stringId": "1499597596129595392",
+            "femaleVariant": "Might say the same for you."
+          },
+          {
+            "stringId": "1499599976581664768",
+            "femaleVariant": "And you honestly think you can change a thing? You're all alone."
+          },
+          {
+            "stringId": "1499609053441396736",
+            "femaleVariant": "Hey, I'm not tryin' to save the whole city – just survive in it. Suggest you do the same."
+          },
+          {
+            "stringId": "1521531090857598976",
+            "femaleVariant": "Lower your weapon!"
+          },
+          {
+            "stringId": "1602517619814273024",
+            "femaleVariant": "Which people? Tell me what fucking people!"
+          },
+          {
+            "stringId": "1611259144270352384",
+            "femaleVariant": "Pffff."
+          },
+          {
+            "stringId": "1611342787735031808",
+            "femaleVariant": "Fucking try me!"
+          },
+          {
+            "stringId": "1611345099400515584",
+            "femaleVariant": "I'd remind you YOU'RE the one in the fucking crosshairs!"
+          },
+          {
+            "stringId": "1611476969358462976",
+            "femaleVariant": "Gutter rat..."
+          },
+          {
+            "stringId": "1611557087997169664",
+            "femaleVariant": "Eat shit, merc!"
+          },
+          {
+            "stringId": "1611558491444842496",
+            "femaleVariant": "\"Help?\" Phonic implant must be fried. I think you meant \"intimidate.\""
+          },
+          {
+            "stringId": "1611576800487772164",
+            "femaleVariant": "It doesn't matter."
+          },
+          {
+            "stringId": "1611577699729772544",
+            "femaleVariant": "Your buddies at the NCPD."
+          },
+          {
+            "stringId": "1611585708048617472",
+            "femaleVariant": "Your buddies at the NCPD set you up."
+          },
+          {
+            "stringId": "1611586398565273600",
+            "femaleVariant": "Fucking... I fucking knew it."
+          },
+          {
+            "stringId": "1611586616115433472",
+            "femaleVariant": "Robert Kovalsky and Bill Adams?"
+          },
+          {
+            "stringId": "1611588616580337664",
+            "femaleVariant": "Motherfuckers..."
+          },
+          {
+            "stringId": "1611591953887367168",
+            "femaleVariant": "Let it go. It's not worth it."
+          },
+          {
+            "stringId": "1611592649604960256",
+            "femaleVariant": "Yeah... know what? I'm not lettin' scumbags get me killed. Fuck them, fuck this job, fuck this city."
+          },
+          {
+            "stringId": "1611593387651469316",
+            "femaleVariant": "What's next for you?"
+          },
+          {
+            "stringId": "1611595535906869248",
+            "femaleVariant": "Thanks, Anna."
+          },
+          {
+            "stringId": "1611613695146037248",
+            "femaleVariant": "Thanks. All's well that ends well."
+          },
+          {
+            "stringId": "1611614993752887296",
+            "femaleVariant": "So, Anna, what's next for ya?"
+          },
+          {
+            "stringId": "1611622071271788544",
+            "femaleVariant": "Gimme a break."
+          },
+          {
+            "stringId": "1611624036487761920",
+            "femaleVariant": "What, we chooms all the sudden? The hell do you care?"
+          },
+          {
+            "stringId": "1611626399894179840",
+            "femaleVariant": "I dropped the case, like you wanted."
+          },
+          {
+            "stringId": "1611630119772065792",
+            "femaleVariant": "Doesn't matter who, Anna."
+          },
+          {
+            "stringId": "1611644633204756480",
+            "femaleVariant": "Lookin' to get shivved?"
+          },
+          {
+            "stringId": "1611645229953552384",
+            "femaleVariant": "Really think you got an edge on the street?"
+          },
+          {
+            "stringId": "1611645342092464128",
+            "femaleVariant": "NC doesn't give two shits about you."
+          },
+          {
+            "stringId": "1611651230140305408",
+            "femaleVariant": "Leave town, find a nomad clan."
+          },
+          {
+            "stringId": "1612620716364369920",
+            "femaleVariant": "You got what you wanted, now fuck off."
+          },
+          {
+            "stringId": "1612763743254843392",
+            "femaleVariant": "You can fuck off, merc."
+          },
+          {
+            "stringId": "1612765491155537920",
+            "femaleVariant": "Don't act like you're different from the fuckers who sent you here."
+          },
+          {
+            "stringId": "1612766875879837696",
+            "femaleVariant": "First off, quit callin' me Anna. Do I look like your goddamn poker buddy?"
+          },
+          {
+            "stringId": "1612767148794810368",
+            "femaleVariant": "Second – what you don't understand is this city's never gonna change if people like you run free."
+          },
+          {
+            "stringId": "1612774581252493312",
+            "femaleVariant": "Your life's in danger. That not clear?"
+          },
+          {
+            "stringId": "1612800892004044800",
+            "femaleVariant": "Get out now. Don't be stupid."
+          },
+          {
+            "stringId": "1612802986102591488",
+            "femaleVariant": "Or what? You flatline me here and now?"
+          },
+          {
+            "stringId": "1612803098241503232",
+            "femaleVariant": "If not me, it'll be some kid lookin' to score a few eddies."
+          },
+          {
+            "stringId": "1612805219737243648",
+            "femaleVariant": "Night City doesn't need you."
+          },
+          {
+            "stringId": "1612806997300056064",
+            "femaleVariant": "Skip town or drop the case – your call. I don't care."
+          },
+          {
+            "stringId": "1612827241880064000",
+            "femaleVariant": "Let's end this."
+          },
+          {
+            "stringId": "1612841361299836928",
+            "femaleVariant": "Last chance, Anna. Bein' stubborn gets you nowhere."
+          },
+          {
+            "stringId": "1612842378519220224",
+            "femaleVariant": "There'll be more like me."
+          },
+          {
+            "stringId": "1612842697303101440",
+            "femaleVariant": "And more of me – shot for shot against trash like you."
+          },
+          {
+            "stringId": "1612843123729600512",
+            "femaleVariant": "Anna, don't do it..."
+          },
+          {
+            "stringId": "1612843325056192512",
+            "femaleVariant": "Fuck you, merc!"
+          },
+          {
+            "stringId": "1613918421556498432",
+            "femaleVariant": "Close the case, skip town, whatever – I don't care."
+          },
+          {
+            "stringId": "1613922122711011328",
+            "femaleVariant": "Three hundred and forty seven murdered or missing, four hundred and thirty one raped. Those're last month's official numbers."
+          },
+          {
+            "stringId": "1613924272795127808",
+            "femaleVariant": "Listen, Anna, I want world peace as much as the next gal, but I grew up in NC...",
+            "maleVariant": "Listen, Anna, I want world peace as much as the next guy, but I grew up in NC..."
+          },
+          {
+            "stringId": "1613925015203713024",
+            "femaleVariant": "You don't even believe it could be different."
+          },
+          {
+            "stringId": "1615883492054634496",
+            "femaleVariant": "Well that's just it – the real problem. I do fucking care."
+          },
+          {
+            "stringId": "1616917930448359424",
+            "femaleVariant": "The real bitch of it is, I do care."
+          },
+          {
+            "stringId": "1616967417665523712",
+            "femaleVariant": "Oh, right, and that's just in Watson. So don't feed me that streetwise bullshit. This city has to change."
+          },
+          {
+            "stringId": "1617021968212922368",
+            "femaleVariant": "I know it'll change you before you can change it."
+          },
+          {
+            "stringId": "1617023951883833344",
+            "femaleVariant": "Because it can't."
+          },
+          {
+            "stringId": "1622663792893988864",
+            "femaleVariant": "Plan to look over your shoulder the rest of your life?"
+          },
+          {
+            "stringId": "1628971044105981952",
+            "femaleVariant": "If you're a woman of principle, this ain't your city."
+          },
+          {
+            "stringId": "1628971044105981964",
+            "femaleVariant": "Be better to skip town, join a nomad clan. They're like you – believin' in somethin' more."
+          },
+          {
+            "stringId": "1628971044122759176",
+            "femaleVariant": "They wouldn't accept me."
+          },
+          {
+            "stringId": "1628971044122759188",
+            "femaleVariant": "They will. As a nomad myself, I know they need people like you. More than you know."
+          },
+          {
+            "stringId": "1628971044122759204",
+            "femaleVariant": "Well then what, huh? Smuggle illicit tech? Patch up solar panels?"
+          },
+          {
+            "stringId": "1643505784716627972",
+            "femaleVariant": "[Transfer coordinates] Nobody will look for you there."
+          },
+          {
+            "stringId": "1643505998508691456",
+            "femaleVariant": "[Transfer coordinates] You'll have a family."
+          },
+          {
+            "stringId": "1643519536748924928",
+            "femaleVariant": "You'll disappear. No one'll come lookin'."
+          },
+          {
+            "stringId": "1643519591241322496",
+            "femaleVariant": "You'll have family. Won't be alone in this anymore."
+          },
+          {
+            "stringId": "1643557802860711936",
+            "femaleVariant": "Family? You're serious?"
+          },
+          {
+            "stringId": "1643557982645358592",
+            "femaleVariant": "I'm am. Anna, you'll have people you can depend on, who won't stab you in the back."
+          },
+          {
+            "stringId": "1643563118537052160",
+            "femaleVariant": "With my tail tucked?"
+          },
+          {
+            "stringId": "1643563251915919360",
+            "femaleVariant": "With a fresh start. Plannin' your next big crusade."
+          },
+          {
+            "stringId": "1643563422775087104",
+            "femaleVariant": "Hmm... Can't do much worse, huh? Fuck it, fine. I'll leave town."
+          },
+          {
+            "stringId": "1643564036821192704",
+            "femaleVariant": "It's the smart move."
+          },
+          {
+            "stringId": "1643564174964789248",
+            "femaleVariant": "Wait, wait..."
+          },
+          {
+            "stringId": "1643564640817745920",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1643564756295323648",
+            "femaleVariant": "Got a name?"
+          },
+          {
+            "stringId": "1643564875983982592",
+            "femaleVariant": "V."
+          },
+          {
+            "stringId": "1643564960994136064",
+            "femaleVariant": "Until next time then, V."
+          },
+          {
+            "stringId": "1643565072831057920",
+            "femaleVariant": "Sure. Goodbye, Anna."
+          },
+          {
+            "stringId": "1643593043537137664",
+            "femaleVariant": "Hmm... Fine. Fuck it. I'll leave this godforsaken city."
+          },
+          {
+            "stringId": "1643594405578641408",
+            "femaleVariant": "It's the smart play."
+          },
+          {
+            "stringId": "1643595213972017152",
+            "femaleVariant": "But wait..."
+          },
+          {
+            "stringId": "1643595304300548096",
+            "femaleVariant": "Huh?"
+          },
+          {
+            "stringId": "1643595378959159296",
+            "femaleVariant": "Why did you let them go?"
+          },
+          {
+            "stringId": "1643595724016160768",
+            "femaleVariant": "Wonder that myself sometimes. See ya, Anna."
+          },
+          {
+            "stringId": "1985083237727571968",
+            "femaleVariant": "Yeah... See ya."
+          }
+        ]
+      }
+
+
+

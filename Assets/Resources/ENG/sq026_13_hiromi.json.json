@@ -1,0 +1,689 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1754534318445674496",
+            "femaleVariant": "Was hoping you'd make less trouble getting here."
+          },
+          {
+            "stringId": "1754534318479228928",
+            "femaleVariant": "You're here, finally."
+          },
+          {
+            "stringId": "1774853448918876160",
+            "femaleVariant": "I don't have that kind of authority. Yet."
+          },
+          {
+            "stringId": "1774857136232185856",
+            "femaleVariant": "Didn't wanna trip any alarms. Had to come through quietly."
+          },
+          {
+            "stringId": "1774857329740595200",
+            "femaleVariant": "Fast forward a year…"
+          },
+          {
+            "stringId": "1774859047995949056",
+            "femaleVariant": "All right, I'll do what I can."
+          },
+          {
+            "stringId": "1775009433977339904",
+            "femaleVariant": "V, what the hell were you thinking?"
+          },
+          {
+            "stringId": "1775010442254467076",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1775010793418375168",
+            "femaleVariant": "I do. Either you leave Clouds or I kill you next."
+          },
+          {
+            "stringId": "1775011148273270784",
+            "femaleVariant": "Matter of fact, I do. Either you walk away and never come back to Clouds..."
+          },
+          {
+            "stringId": "1775011341697794052",
+            "femaleVariant": "What might that be?"
+          },
+          {
+            "stringId": "1775017857632944128",
+            "femaleVariant": "They'll have their revenge. You've turned Clouds into a ticking time bomb."
+          },
+          {
+            "stringId": "1775148358217744388",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1775148860124938240",
+            "femaleVariant": "Don't want your eddies."
+          },
+          {
+            "stringId": "1775149296315777024",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1775149438653677572",
+            "femaleVariant": "Don't need your eddies."
+          },
+          {
+            "stringId": "1775149881706397696",
+            "femaleVariant": "At midday tomorrow I will present to you terms to which you will agree."
+          },
+          {
+            "stringId": "1775150509224607744",
+            "femaleVariant": "I'll think about it."
+          },
+          {
+            "stringId": "1775153377222574080",
+            "femaleVariant": "Don't mention it. I know what a well-performed service is worth."
+          },
+          {
+            "stringId": "1775154374862946304",
+            "femaleVariant": "But you can have them and have Judy wrapped around your neck."
+          },
+          {
+            "stringId": "1775155470348042240",
+            "femaleVariant": "Your engagement ends here. If ever you should require stable employ, we are not difficult to find."
+          },
+          {
+            "stringId": "1782335288239964160",
+            "femaleVariant": "A little less than I expected for assisting in an internal gang coup."
+          },
+          {
+            "stringId": "1782335860275920896",
+            "femaleVariant": "Skimping from day one, I see."
+          },
+          {
+            "stringId": "1782336800152338432",
+            "femaleVariant": "You blackmailed the leaders of one of Night City's most powerful gangs."
+          },
+          {
+            "stringId": "1782337505399390208",
+            "femaleVariant": "Really think you'da come out the other end alive if I hadn't been there?",
+            "maleVariant": "You really think you'da come out the other end alive if I hadn't been here?"
+          },
+          {
+            "stringId": "1782337691811037188",
+            "femaleVariant": "Skimping from the get-go… You'll make a fab boss, can tell already.",
+            "maleVariant": "Skimping from the get-go, heh… You'll make a fab boss, can tell already."
+          },
+          {
+            "stringId": "1782337691811037196",
+            "femaleVariant": "Touché. Here's a bonus. Let's go celebrate my first day."
+          },
+          {
+            "stringId": "1888201944785969152",
+            "femaleVariant": "Luckily, they're all jacked into virtus, it'd be game over otherwise."
+          },
+          {
+            "stringId": "1888226855478845440",
+            "femaleVariant": "Could've called off the guards, you know. Would've been quicker, simpler."
+          },
+          {
+            "stringId": "1888228752545767424",
+            "femaleVariant": "Who're the other two?"
+          },
+          {
+            "stringId": "1888230042462019588",
+            "femaleVariant": "Who're the other two?"
+          },
+          {
+            "stringId": "1888233058216927232",
+            "femaleVariant": "\"Don't have authority yet?\" Sound sure of yourself."
+          },
+          {
+            "stringId": "1888235031351746560",
+            "femaleVariant": "Don't have authority \"yet\"? Sound damn sure of yourself.",
+            "maleVariant": "You don't have authority \"yet\"? Heh, you sound damn sure of yourself."
+          },
+          {
+            "stringId": "1888237581186588672",
+            "femaleVariant": "Left no room for error. We're exactly where we need to be."
+          },
+          {
+            "stringId": "1888246874606624768",
+            "femaleVariant": "Target audience of today's presentation. Hiromi answers to them directly, now they're gonna watch him die in a pool of his own piss."
+          },
+          {
+            "stringId": "1888248863881125888",
+            "femaleVariant": "One show ends, another begins. Just as good and unforgettable, understand?"
+          },
+          {
+            "stringId": "1888249500593250304",
+            "femaleVariant": "I'm about to jack 'em out. They will not be chirpy after the rude awakening."
+          },
+          {
+            "stringId": "1888273520130744324",
+            "femaleVariant": "Do my best. Jack' em out."
+          },
+          {
+            "stringId": "1888275691639365632",
+            "femaleVariant": "This wasn't the plan."
+          },
+          {
+            "stringId": "1888276748083879936",
+            "femaleVariant": "I told you – no killing."
+          },
+          {
+            "stringId": "1888283314367455232",
+            "femaleVariant": "No killing. I said it from the start.",
+            "maleVariant": "No killing! I said it from the start."
+          },
+          {
+            "stringId": "1888296548084441088",
+            "femaleVariant": "Let's do this."
+          },
+          {
+            "stringId": "1888298215689379840",
+            "femaleVariant": "You could've called off the guards."
+          },
+          {
+            "stringId": "1888298928268075008",
+            "femaleVariant": "Can we get this over with?"
+          },
+          {
+            "stringId": "1888300350439120896",
+            "femaleVariant": "That's our target. Hiromi Sato."
+          },
+          {
+            "stringId": "1888304114491416576",
+            "femaleVariant": "What're they watchin'?"
+          },
+          {
+            "stringId": "1888309522039791616",
+            "femaleVariant": "What're they watchin'?",
+            "maleVariant": "What're they watching?"
+          },
+          {
+            "stringId": "1888309964354314240",
+            "femaleVariant": "Demo reel of Clouds' next top doll. Specially selected by yours truly."
+          },
+          {
+            "stringId": "1888331190367903744",
+            "femaleVariant": "Oh, please. Mean that wasn't you being noble for your sweet little Judy's benefit?"
+          },
+          {
+            "stringId": "1888331808339877888",
+            "femaleVariant": "Don't wanna kill? Don't. All I need is for him to grovel and plead for his life on his polished floor."
+          },
+          {
+            "stringId": "1888333034251051008",
+            "femaleVariant": "Understood?"
+          },
+          {
+            "stringId": "1888335291038261252",
+            "femaleVariant": "Maiko, our plan made no allowance for witnesses."
+          },
+          {
+            "stringId": "1888335291055038464",
+            "femaleVariant": "A show of force, we said. And any show requires an audience."
+          },
+          {
+            "stringId": "1889759654446850048",
+            "femaleVariant": "Well, she is no Parker… Wait, what's going on? Who is this?"
+          },
+          {
+            "stringId": "1889770928299794432",
+            "femaleVariant": "Lucky girl's gonna replace Evelyn. Hope she proves smarter."
+          },
+          {
+            "stringId": "1889868760507703296",
+            "femaleVariant": "I promised to help Judy, and here we are – thanks to her. But little Jude's cut from a different cloth than you and me."
+          },
+          {
+            "stringId": "1889869065869811712",
+            "femaleVariant": "Can't beat the system – I know it, you know it. And forget about bypassing it."
+          },
+          {
+            "stringId": "1889869412050886656",
+            "femaleVariant": "Correct me if I'm wrong... but in this drama, you were supposed to nod when prompted and use your strength at the right time."
+          },
+          {
+            "stringId": "1889883904025518080",
+            "femaleVariant": "Living proof that Hiromi Sato's time is up."
+          },
+          {
+            "stringId": "1889899282374025220",
+            "femaleVariant": "Clouds declares its independence."
+          },
+          {
+            "stringId": "1889900131871580160",
+            "femaleVariant": "Hiromi has to go."
+          },
+          {
+            "stringId": "1889902515343548416",
+            "femaleVariant": "Dolls at Clouds are declaring their independence. Club'll be run by them and only them."
+          },
+          {
+            "stringId": "1889902615117651968",
+            "femaleVariant": "Hiromi's gotta go."
+          },
+          {
+            "stringId": "1889909568183164928",
+            "femaleVariant": "Tyger Claws'll get a cut of the revenue, but they'll have no say in how the club is run."
+          },
+          {
+            "stringId": "1889919154701164544",
+            "femaleVariant": "Stop this right now!"
+          },
+          {
+            "stringId": "1889923013863497728",
+            "femaleVariant": "So I have been told. And what then?"
+          },
+          {
+            "stringId": "1889923473559216128",
+            "femaleVariant": "V! Let me do the talking."
+          },
+          {
+            "stringId": "1889924273647869956",
+            "femaleVariant": "Maiko'll run things as she does now. Only officially so."
+          },
+          {
+            "stringId": "1889932702940618752",
+            "femaleVariant": "Clouds will be a doll collective."
+          },
+          {
+            "stringId": "1889935979430240256",
+            "femaleVariant": "Maiko'll make sure you receive a steady flow of funds in exchange for full autonomy. She'll continue running things as she has run them till now…"
+          },
+          {
+            "stringId": "1889936004596064256",
+            "femaleVariant": "Clouds doesn't need bosses. Dolls'll take care of the club and themselves."
+          },
+          {
+            "stringId": "1889940829572390912",
+            "femaleVariant": "Maeda-san?"
+          },
+          {
+            "stringId": "1889941091028525056",
+            "femaleVariant": "I have nothing to add."
+          },
+          {
+            "stringId": "1889953199514411008",
+            "femaleVariant": "V. I think you're forgetting something. I'll replace Mr. Sato."
+          },
+          {
+            "stringId": "1889953996734160896",
+            "femaleVariant": "I detest chaos and fucking anarchy."
+          },
+          {
+            "stringId": "1889954533621850112",
+            "femaleVariant": "Hiromi will answer for his incompetence. Later."
+          },
+          {
+            "stringId": "1889964201761005568",
+            "femaleVariant": "Will you execute all the clients and leave the dolls to fuck one another instead?"
+          },
+          {
+            "stringId": "1889979850038140928",
+            "femaleVariant": "Jack 'em out."
+          },
+          {
+            "stringId": "1890827040826548224",
+            "femaleVariant": "I'll get everything under control."
+          },
+          {
+            "stringId": "1890836762568908800",
+            "femaleVariant": "Have you any idea what's gonna happen now?"
+          },
+          {
+            "stringId": "1890844652004401152",
+            "femaleVariant": "Or I end you here and now."
+          },
+          {
+            "stringId": "1890844988924452864",
+            "femaleVariant": "I see you got everything planned out… But you forgot just one thing. I've also got a dollchip."
+          },
+          {
+            "stringId": "1890857663691710464",
+            "femaleVariant": "Can't know that for sure."
+          },
+          {
+            "stringId": "1890858144308617216",
+            "femaleVariant": "That's no longer your problem."
+          },
+          {
+            "stringId": "1890858764545515520",
+            "femaleVariant": "Not your problem anymore. Just let it go and get out.",
+            "maleVariant": "It's not your problem anymore. Just let it go and get out."
+          },
+          {
+            "stringId": "1890858793939197952",
+            "femaleVariant": "Can't know that for sure. Maybe the lives we cut short'll be enough for the Claws.",
+            "maleVariant": "We can't know that for sure. Maybe the lives we cut short'll be enough for the Claws."
+          },
+          {
+            "stringId": "1890861784276623360",
+            "femaleVariant": "They wiped their hands of the Mox, maybe Clouds is due its freedom now. Time to let it go, Maiko.",
+            "maleVariant": "They wiped their hands of the Mox, maybe... Clouds is due its freedom now. Time to let it go, Maiko."
+          },
+          {
+            "stringId": "1890862516082008064",
+            "femaleVariant": "Maybe I will… but not before I paint the walls with your blood."
+          },
+          {
+            "stringId": "1890863091288858624",
+            "femaleVariant": "You tried to cheat us all."
+          },
+          {
+            "stringId": "1890863657318572032",
+            "femaleVariant": "Tried to pull a fast one on everybody, didn't ya? Jumped aboard the liberation train, pretending you wanted to help…"
+          },
+          {
+            "stringId": "1890870288446087168",
+            "femaleVariant": "But all you wanted was to take Hiromi's place."
+          },
+          {
+            "stringId": "1890870827548368896",
+            "femaleVariant": "Bravo. But you missed just one detail. I still can. And no one can stop me. Not their corpses, not yours."
+          },
+          {
+            "stringId": "1890885344957259776",
+            "femaleVariant": "They do profit and loss better than Militech's CEO. They'll see it's not worth it."
+          },
+          {
+            "stringId": "1890887139632832512",
+            "femaleVariant": "Get out. Get out now!"
+          },
+          {
+            "stringId": "1890897471411544064",
+            "femaleVariant": "She's dreaming if she thinks you can have justice and peace in Night City without cuts, bruises and blood."
+          },
+          {
+            "stringId": "1890899726906908672",
+            "femaleVariant": "Only way's to jump in with both feet, grab power from within."
+          },
+          {
+            "stringId": "1890915842412732416",
+            "femaleVariant": "Do your thing."
+          },
+          {
+            "stringId": "1890929018583867392",
+            "femaleVariant": "Meanin' you wanna replace Hiromi.",
+            "maleVariant": "Meaning you wanna replace Hiromi."
+          },
+          {
+            "stringId": "1890930120578523136",
+            "femaleVariant": "Maiko is taking over Clouds."
+          },
+          {
+            "stringId": "1890933191262035968",
+            "femaleVariant": "Maiko'll take care of day-to-day operations at Clouds. She's best for the job."
+          },
+          {
+            "stringId": "1890934876248170496",
+            "femaleVariant": "The dolls trust her, follow her into fire. As you can see.",
+            "maleVariant": "The dolls trust her, they follow her into fire. As you can see."
+          },
+          {
+            "stringId": "1890938360137736192",
+            "femaleVariant": "You know what always annoyed me about Hiromi? He had no vision."
+          },
+          {
+            "stringId": "1890939495988813824",
+            "femaleVariant": "He's a man who will not scratch the end of his nose unless you tell him with which hand to do it."
+          },
+          {
+            "stringId": "1890939792760987648",
+            "femaleVariant": "Call off this massacre."
+          },
+          {
+            "stringId": "1890940260224557056",
+            "femaleVariant": "We have one last formality to fulfill."
+          },
+          {
+            "stringId": "1890948070790356992",
+            "femaleVariant": "So now nod and go kick some heads in."
+          },
+          {
+            "stringId": "1890949657378119680",
+            "femaleVariant": "Mm-hm."
+          },
+          {
+            "stringId": "1890950336603709440",
+            "femaleVariant": "Even if that means joining the Tyger Claws?"
+          },
+          {
+            "stringId": "1890950806667747328",
+            "femaleVariant": "How the fuck else do you expect me to protect Clouds from other gangs?"
+          },
+          {
+            "stringId": "1890954251449622528",
+            "femaleVariant": "Don't like this one bit."
+          },
+          {
+            "stringId": "1890959575229358080",
+            "femaleVariant": "Too late for second thoughts. Tom and Roxie've done their part. Your little doll revolution is underway."
+          },
+          {
+            "stringId": "1890969784416952320",
+            "femaleVariant": "Either we consolidate and win it all or let everything go to waste."
+          },
+          {
+            "stringId": "1890974435749093376",
+            "femaleVariant": "Jack 'em out. We'll see what happens."
+          },
+          {
+            "stringId": "1890974634005454848",
+            "femaleVariant": "You're out to replace Hiromi."
+          },
+          {
+            "stringId": "1890975023522078720",
+            "femaleVariant": "Don't like this at all."
+          },
+          {
+            "stringId": "1890992842334756864",
+            "femaleVariant": "Thanks, V. First transfer from Clouds' new manager coming your way."
+          },
+          {
+            "stringId": "1891001203595894784",
+            "femaleVariant": "Keep 'em, buy yourself somethin' nice."
+          },
+          {
+            "stringId": "1891007796689461248",
+            "femaleVariant": "Fine. I'll give you double, but that's my final offer."
+          },
+          {
+            "stringId": "1901434026983972864",
+            "femaleVariant": "This is not what we agreed."
+          },
+          {
+            "stringId": "1901434298657431552",
+            "femaleVariant": "I know the Claws. To them, power is a question of strength, ruthlessness. This is the only way."
+          },
+          {
+            "stringId": "1901449208233746432",
+            "femaleVariant": "Maiko…"
+          },
+          {
+            "stringId": "1901453784823390208",
+            "femaleVariant": "Whereas you will answer for your insolence… now."
+          },
+          {
+            "stringId": "1906940935453868032",
+            "femaleVariant": "I know how this needs to play out, better than anyone. You gotta trust me."
+          },
+          {
+            "stringId": "1907161376076398596",
+            "femaleVariant": "Judy, stop."
+          },
+          {
+            "stringId": "1907165594757693444",
+            "femaleVariant": "Hold on. Think you've gone too far."
+          },
+          {
+            "stringId": "1907167328448086016",
+            "femaleVariant": "Hold on, Maiko. Think you're gettin' carried away.",
+            "maleVariant": "Hold on, Maiko. I think you're gettin' carried away."
+          },
+          {
+            "stringId": "1907167407384887296",
+            "femaleVariant": "Judy, I can't focus.",
+            "maleVariant": "Judy, ehm... I can't focus."
+          },
+          {
+            "stringId": "1911250153602351104",
+            "femaleVariant": "Right, wrong – chicks'll give you shit no matter what you do."
+          },
+          {
+            "stringId": "1911259618686861312",
+            "femaleVariant": "I don't like her, either. Tries too hard.",
+            "maleVariant": "I don't like her, either. She tries too hard."
+          },
+          {
+            "stringId": "1911259672558501888",
+            "femaleVariant": "Not all girls have to be nice, Johnny. 'Sides, if she's gotta deal with a gang, she shouldn't be."
+          },
+          {
+            "stringId": "1911332612478140416",
+            "femaleVariant": "Look at me. See this?"
+          },
+          {
+            "stringId": "1912666910237982720",
+            "femaleVariant": "I have long looked upon Hiromi Sato's foolish, inept endeavors."
+          },
+          {
+            "stringId": "1912671340865847296",
+            "femaleVariant": "V? What the fuck's she doin'?!"
+          },
+          {
+            "stringId": "1912671496289976320",
+            "femaleVariant": "Am I to understand that this future manager stands before me now, speaking with such... zeal?"
+          },
+          {
+            "stringId": "1912672574779752448",
+            "femaleVariant": "With your permission."
+          },
+          {
+            "stringId": "1912672708443832320",
+            "femaleVariant": "But this… I think it's obvious he has outlived his usefulness."
+          },
+          {
+            "stringId": "1912672960437616640",
+            "femaleVariant": "Clouds needs new management."
+          },
+          {
+            "stringId": "1912807129176145920",
+            "femaleVariant": "Stop this."
+          },
+          {
+            "stringId": "1912832473694273536",
+            "femaleVariant": "I see not all has been agreed..."
+          },
+          {
+            "stringId": "1912919214384021504",
+            "femaleVariant": "Thank you."
+          },
+          {
+            "stringId": "1914057579070971904",
+            "femaleVariant": "This is a look of un-fucking-surprise on my face."
+          },
+          {
+            "stringId": "1914113390996578304",
+            "femaleVariant": "This one's a real charmer, too."
+          },
+          {
+            "stringId": "1914135560946671620",
+            "femaleVariant": "Don't like her, either."
+          },
+          {
+            "stringId": "1914140217697853440",
+            "femaleVariant": "Doesn't have to be nice."
+          },
+          {
+            "stringId": "1914181307431870464",
+            "femaleVariant": "I thought this through – many times."
+          },
+          {
+            "stringId": "1914213899891859456",
+            "femaleVariant": "Why're there three guys? What's she playing at?"
+          },
+          {
+            "stringId": "1914223528654888960",
+            "femaleVariant": "And now she's invaded Mr. Sato's private residence.",
+            "maleVariant": "And now he's invaded Mr. Sato's private residence."
+          },
+          {
+            "stringId": "1914223530064175104",
+            "femaleVariant": "As if that were not enough, this is where Hiromi's sheer incompetence has led all of us to."
+          },
+          {
+            "stringId": "1914223531876114432",
+            "femaleVariant": "What... ? What the hell?"
+          },
+          {
+            "stringId": "1914224642964021248",
+            "femaleVariant": "She murdered Oswald Forrest.",
+            "maleVariant": "He murdered Oswald Forrest."
+          },
+          {
+            "stringId": "1914240899364904960",
+            "femaleVariant": "This merc has already disturbed the clientele at Clouds once."
+          },
+          {
+            "stringId": "1914273595810078720",
+            "femaleVariant": "Over my dead body! We were gonna get rid of 'em!"
+          },
+          {
+            "stringId": "1914281148023529472",
+            "femaleVariant": "Am I to understand these as your conditions?"
+          },
+          {
+            "stringId": "1914285307229593600",
+            "femaleVariant": "What's there to focus on? She's screwin' us!"
+          },
+          {
+            "stringId": "1914310226025865216",
+            "femaleVariant": "Come with me, V."
+          },
+          {
+            "stringId": "1914314955959263232",
+            "femaleVariant": "But from now on, it'll be official."
+          },
+          {
+            "stringId": "1914319830763921408",
+            "femaleVariant": "You cannot even control your own mercenary."
+          },
+          {
+            "stringId": "1915481891614556160",
+            "femaleVariant": "Didn't wanna raise any alarms."
+          },
+          {
+            "stringId": "1915754456614502400",
+            "femaleVariant": "Was beginning to think you wouldn't make it."
+          },
+          {
+            "stringId": "1938861676714156032",
+            "femaleVariant": "[Draw weapon] Let's cut to the quick."
+          },
+          {
+            "stringId": "1938863658355023872",
+            "femaleVariant": "[Draw weapon] Let's cut to the quick."
+          },
+          {
+            "stringId": "1938867103455666176",
+            "femaleVariant": "Bored of all this chatter. I'd rather we just cut to the quick."
+          },
+          {
+            "stringId": "2257573582918606848",
+            "femaleVariant": "V. You gotta take 'em down! That's why we're here."
+          }
+        ]
+      }
+
+
+

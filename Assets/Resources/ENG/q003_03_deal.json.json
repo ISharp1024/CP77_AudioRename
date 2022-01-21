@@ -1,0 +1,699 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1154536021957480448",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1166262417385787392",
+            "femaleVariant": "Militech's not gonna come lookin' for it?"
+          },
+          {
+            "stringId": "1166332190773678080",
+            "femaleVariant": "Cred's on this."
+          },
+          {
+            "stringId": "1166360035784679424",
+            "femaleVariant": "So whaddaya want?"
+          },
+          {
+            "stringId": "1166366558179057664",
+            "femaleVariant": "[Calm Jackie] Jackie, sit down."
+          },
+          {
+            "stringId": "1166366820440498176",
+            "femaleVariant": "Jack, siddown.",
+            "maleVariant": "Jack, sit down."
+          },
+          {
+            "stringId": "1166373320605065216",
+            "femaleVariant": "Ahh, well, shit. Goes for you too."
+          },
+          {
+            "stringId": "1166374349602054144",
+            "femaleVariant": "Well, all right."
+          },
+          {
+            "stringId": "1166379676082921472",
+            "femaleVariant": "Make me."
+          },
+          {
+            "stringId": "1166379980304179200",
+            "femaleVariant": "Sit your ass down 'fore I plant a bullet in your skull."
+          },
+          {
+            "stringId": "1166392514562252800",
+            "femaleVariant": "What is it?"
+          },
+          {
+            "stringId": "1166392696544714752",
+            "femaleVariant": "S-keef. Shit kicks you in the ass."
+          },
+          {
+            "stringId": "1166392882469822464",
+            "femaleVariant": "It's a fuckin' rush, man. Gotta feel it for yourself."
+          },
+          {
+            "stringId": "1166393490224472064",
+            "femaleVariant": "Come on, give it a whirl!"
+          },
+          {
+            "stringId": "1166395100954648576",
+            "femaleVariant": "Now we can talk…"
+          },
+          {
+            "stringId": "1166452714283491328",
+            "femaleVariant": "Need to see it."
+          },
+          {
+            "stringId": "1167517153493553152",
+            "femaleVariant": "Now, couch. Plant it."
+          },
+          {
+            "stringId": "1167584950040567808",
+            "femaleVariant": "Fully integrated link, too, so when the spider starts crawlin' up walls, danglin' from ceilings…"
+          },
+          {
+            "stringId": "1167587473166082048",
+            "femaleVariant": "So watcha think?"
+          },
+          {
+            "stringId": "1167757734343516180",
+            "femaleVariant": "Here for the Flathead."
+          },
+          {
+            "stringId": "1167897518332354560",
+            "femaleVariant": "This ain't gonna end well but... shit…"
+          },
+          {
+            "stringId": "1175407643970818048",
+            "femaleVariant": "Come on, gotta lighten up."
+          },
+          {
+            "stringId": "1175480131140505600",
+            "femaleVariant": "Dexter DeShawn, that's who."
+          },
+          {
+            "stringId": "1175483008835702784",
+            "femaleVariant": "Dexter DeShawn…"
+          },
+          {
+            "stringId": "1175485289043906580",
+            "femaleVariant": "[Pay with Militech chip] Money's on this."
+          },
+          {
+            "stringId": "1176574983852838912",
+            "femaleVariant": "I don't see any fuckin' Brick around here, do you?!"
+          },
+          {
+            "stringId": "1193773538443608064",
+            "femaleVariant": "This so fuckin' hard? Fuckin' ass on the fuckin' couch!"
+          },
+          {
+            "stringId": "1196606980729917440",
+            "femaleVariant": "Thought you'd never ask."
+          },
+          {
+            "stringId": "1215264532405620736",
+            "femaleVariant": "Jack, what gives?"
+          },
+          {
+            "stringId": "1215456284542439424",
+            "femaleVariant": "Mhm..."
+          },
+          {
+            "stringId": "1215468885993263104",
+            "femaleVariant": "Phew, hey, Flathead's good gear. It'll do the trick for ya, whatever that trick is."
+          },
+          {
+            "stringId": "1216639752396161024",
+            "femaleVariant": "I'll pass."
+          },
+          {
+            "stringId": "1216641558782230528",
+            "femaleVariant": "What is it?"
+          },
+          {
+            "stringId": "1218399177142255616",
+            "femaleVariant": "Hahahahaha!"
+          },
+          {
+            "stringId": "1222302288550379520",
+            "femaleVariant": "Suit yourself."
+          },
+          {
+            "stringId": "1222303278691336192",
+            "femaleVariant": "Fuckin' tricked out, this thing. Dynamic, thermo-optic camo armor. Full cognitive immersion with a Raven controller."
+          },
+          {
+            "stringId": "1222310311834501120",
+            "femaleVariant": "Shit. Shit, shit, shit, chip's got a vector, they're breakin' in!"
+          },
+          {
+            "stringId": "1222712737854996480",
+            "femaleVariant": "I'll stand."
+          },
+          {
+            "stringId": "1223764825124978688",
+            "femaleVariant": "You fuckin' deaf?!"
+          },
+          {
+            "stringId": "1223769164635783168",
+            "femaleVariant": "I said sit!"
+          },
+          {
+            "stringId": "1223914507822252032",
+            "femaleVariant": "Zero 'em! I want heads!"
+          },
+          {
+            "stringId": "1244267826184392704",
+            "femaleVariant": "Here to see Royce. We got biz to transact."
+          },
+          {
+            "stringId": "1244268140438425600",
+            "femaleVariant": "Where's Royce?"
+          },
+          {
+            "stringId": "1244269618158833664",
+            "femaleVariant": "Mr. Royce is busy just now. You'll deal with me."
+          },
+          {
+            "stringId": "1244293989514547200",
+            "femaleVariant": "Take a hit."
+          },
+          {
+            "stringId": "1244374620395212800",
+            "femaleVariant": "Pimped out, prototype actuators made of titanium-vanadium-Kevlar® composite."
+          },
+          {
+            "stringId": "1244378509823643648",
+            "femaleVariant": "Mhm, could lose your lunch."
+          },
+          {
+            "stringId": "1244391591488720896",
+            "femaleVariant": "The lard ass who punching-animal-fucked half of Pacifica? Mean he ain't dead?"
+          },
+          {
+            "stringId": "1244400897726550016",
+            "femaleVariant": "So, gonna consider my offer, now?",
+            "maleVariant": "So, you gonna consider my offer now?"
+          },
+          {
+            "stringId": "1244400976579465216",
+            "femaleVariant": "No, he's alive, well and kickin'. An' he sends his regards."
+          },
+          {
+            "stringId": "1245620078048788480",
+            "femaleVariant": "Show it to me."
+          },
+          {
+            "stringId": "1245991048080723968",
+            "femaleVariant": "'N' watch this…"
+          },
+          {
+            "stringId": "1253010426060423168",
+            "femaleVariant": "We'll take it."
+          },
+          {
+            "stringId": "1253010678792404992",
+            "femaleVariant": "Raven isn't the dedicated control unit."
+          },
+          {
+            "stringId": "1279338226316820480",
+            "femaleVariant": "Better?"
+          },
+          {
+            "stringId": "1327208567038218240",
+            "femaleVariant": "Cred's right here. Oh, and a virus – Militech's way of saying hello. They're out gunnin' for you."
+          },
+          {
+            "stringId": "1327209406502998016",
+            "femaleVariant": "Bug's designed to crawl in when you transfer the credit."
+          },
+          {
+            "stringId": "1327268023579119616",
+            "femaleVariant": "Gimme that."
+          },
+          {
+            "stringId": "1327290325683343360",
+            "femaleVariant": "Check it."
+          },
+          {
+            "stringId": "1327296428445995008",
+            "femaleVariant": "If this is a trick, I'm gonna introduce you to our meat grinder."
+          },
+          {
+            "stringId": "1327305715373248512",
+            "femaleVariant": "This is a scam."
+          },
+          {
+            "stringId": "1327321361117024256",
+            "femaleVariant": "Told you this was a scam. But Militech's, not mine."
+          },
+          {
+            "stringId": "1327329771753508864",
+            "femaleVariant": "Oh shit!"
+          },
+          {
+            "stringId": "1327347224319561728",
+            "femaleVariant": "Fuckin' neural napalm! Would've fried everyone on the subnet, prolly copied our data to Militech dataforts, too."
+          },
+          {
+            "stringId": "1327351643371147264",
+            "femaleVariant": "That rusty cunt..."
+          },
+          {
+            "stringId": "1327424152250552320",
+            "femaleVariant": "I'm about to fuckin' snap. Take the bot and go!"
+          },
+          {
+            "stringId": "1328449852449427456",
+            "femaleVariant": "You got someone inside Militech?"
+          },
+          {
+            "stringId": "1328454839510437888",
+            "femaleVariant": "Got someone workin' Militech from inside? Gilchrist – that your guy?"
+          },
+          {
+            "stringId": "1328455245770723328",
+            "femaleVariant": "Not your biz, merc."
+          },
+          {
+            "stringId": "1328857022563291136",
+            "femaleVariant": "Know what, Jack? You called it."
+          },
+          {
+            "stringId": "1334354508543365120",
+            "femaleVariant": "Nova, so now leave. And hey, after you get Dex's dick outta your mouth, tell him I say hello."
+          },
+          {
+            "stringId": "1336874222629240832",
+            "femaleVariant": "[Pay with Militech chip] Careful, got a virus on there."
+          },
+          {
+            "stringId": "1338943418888904704",
+            "femaleVariant": "Whaddaya wanna do?"
+          },
+          {
+            "stringId": "1338943767838220288",
+            "femaleVariant": "Nothing. Our guy says Militech'll tear her apart."
+          },
+          {
+            "stringId": "1345795151845941248",
+            "femaleVariant": "And you – take the damn bot and get the fuck outta my factory."
+          },
+          {
+            "stringId": "1675499937473454080",
+            "femaleVariant": "Jesus, Jack. What gives?"
+          },
+          {
+            "stringId": "1675500555780972544",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Primerito\" b=\"\" a=\", I don't like this guy's tone.\"/>"
+          },
+          {
+            "stringId": "1675505590858375168",
+            "femaleVariant": "Thanks, I'm good."
+          },
+          {
+            "stringId": "1675507452676366336",
+            "femaleVariant": "Whatever you say, straight-edged princess."
+          },
+          {
+            "stringId": "1675527896821358592",
+            "femaleVariant": "Changed my mind. I'm keepin' the money."
+          },
+          {
+            "stringId": "1675528559135514624",
+            "femaleVariant": "We'll tear you apart!"
+          },
+          {
+            "stringId": "1675528931036061696",
+            "femaleVariant": "You're fuckin' dead!"
+          },
+          {
+            "stringId": "1675541891905183744",
+            "femaleVariant": "Y'know, ya never did say who sent you, never did say who you're workin' for…"
+          },
+          {
+            "stringId": "1675542062579802112",
+            "femaleVariant": "Relax. Got 'em right here."
+          },
+          {
+            "stringId": "1675595751482941440",
+            "femaleVariant": "Here's the cred. Hell, I'll even toss in some info as a friendly bonus – Militech's onto you. They're close."
+          },
+          {
+            "stringId": "1675595751499718672",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1675595751499718692",
+            "femaleVariant": "Credchip was spiked with a virus. But don't worry, I wiped it.",
+            "maleVariant": "Credchip was spiked with a virus. Don't worry, I wiped it."
+          },
+          {
+            "stringId": "1675595751499718712",
+            "femaleVariant": "Check it."
+          },
+          {
+            "stringId": "1675595751516495884",
+            "femaleVariant": "Yeah, it's clean."
+          },
+          {
+            "stringId": "1675595751516495924",
+            "femaleVariant": "That rusty cunt... Now I gotta deal with this shit."
+          },
+          {
+            "stringId": "1675595751533273132",
+            "femaleVariant": "You just take the damn bot and get the fuck outta my factory."
+          },
+          {
+            "stringId": "1675600981276712960",
+            "femaleVariant": "[Pay with own money] As we agreed."
+          },
+          {
+            "stringId": "1685610900876910592",
+            "femaleVariant": "Militech's not gonna come lookin' for it?"
+          },
+          {
+            "stringId": "1685611615670198272",
+            "femaleVariant": "We removed the serial number and lifted access locks using our soft. Once it's yours, it's yours."
+          },
+          {
+            "stringId": "1701455234796838912",
+            "femaleVariant": "Here ya go. Paid in full."
+          },
+          {
+            "stringId": "1701455234796838932",
+            "femaleVariant": "Mhm..."
+          },
+          {
+            "stringId": "1701455234830393372",
+            "femaleVariant": "Now take the damn bot and get the fuck outta my factory. And you can tell Dex to suck my shiny chrome cock."
+          },
+          {
+            "stringId": "1701540532125917184",
+            "femaleVariant": "C'mon, take it."
+          },
+          {
+            "stringId": "1718898560999317504",
+            "femaleVariant": "Black Lace?"
+          },
+          {
+            "stringId": "1718899970470010880",
+            "femaleVariant": "Whatcha blowin'?"
+          },
+          {
+            "stringId": "1718899970470010896",
+            "femaleVariant": "S-keef. Pure as baby powder."
+          },
+          {
+            "stringId": "1718899970470010912",
+            "femaleVariant": "Cyberpsychos pop the tabs like candy. Vaporizing it mellows the burn without killing any of the effect."
+          },
+          {
+            "stringId": "1718934036892311552",
+            "femaleVariant": "Eh, Raven's not the dedicated control unit for a Flathead.",
+            "maleVariant": "Huh, Raven's not the dedicated control unit for a Flathead."
+          },
+          {
+            "stringId": "1718940510498545664",
+            "femaleVariant": "Hah! 'Course not! Militech controllers autolink to Militech systems. I mean, you wouldn't want them trackin' their stolen tech back to your hands?"
+          },
+          {
+            "stringId": "1718941198767054848",
+            "femaleVariant": "Yeah, Raven's our baby. Got improved neural sync and no fuckin' pesky tracing. You ask me, we oughta sell that shit."
+          },
+          {
+            "stringId": "1718961994814152704",
+            "femaleVariant": "[Pay with Militech chip] Militech's on your trail."
+          },
+          {
+            "stringId": "1757550193058705408",
+            "femaleVariant": "Nah, you'll talk to me. Name's Dum Dum."
+          },
+          {
+            "stringId": "1757563980960690176",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Segundo\" b=\"\" a=\", sitting on your ass makes you an easy target.\"/>"
+          },
+          {
+            "stringId": "1757588830550945792",
+            "femaleVariant": "Black Lace? Tough to get your hands on. Gotta have a good source."
+          },
+          {
+            "stringId": "1757589881156988928",
+            "femaleVariant": "Corps fed it to their fighting legions during the Corp Wars."
+          },
+          {
+            "stringId": "1757623504744673280",
+            "femaleVariant": "Fuck 'em. They can hop around and try."
+          },
+          {
+            "stringId": "1757642426357313536",
+            "femaleVariant": "Here we go. The Flathead, model MT0D12."
+          },
+          {
+            "stringId": "1757678520373276672",
+            "femaleVariant": "Let's see your cred."
+          },
+          {
+            "stringId": "1757678788489965568",
+            "femaleVariant": "Brick got it. It's all paid up."
+          },
+          {
+            "stringId": "1757681688683409408",
+            "femaleVariant": "C'mon. Can't expect me to pay for this thing twice."
+          },
+          {
+            "stringId": "1757681715812167684",
+            "femaleVariant": "Really expect me to pay twice?"
+          },
+          {
+            "stringId": "1757681763979554816",
+            "femaleVariant": "Fuck Brick, then. Let's cut a new deal."
+          },
+          {
+            "stringId": "1757682147573821440",
+            "femaleVariant": "Fuck Brick. Let's cut a new deal."
+          },
+          {
+            "stringId": "1757687864796049408",
+            "femaleVariant": "And who the fuck're you to say what can and can't be?"
+          },
+          {
+            "stringId": "1757692896719335424",
+            "femaleVariant": "\"Brick got it...\" Heh."
+          },
+          {
+            "stringId": "1757697476882526208",
+            "femaleVariant": "Hah! Now that's good business sense."
+          },
+          {
+            "stringId": "1757702671947460608",
+            "femaleVariant": "You'll pay twice because I say you'll pay twice!"
+          },
+          {
+            "stringId": "1757702970749677568",
+            "femaleVariant": "All right, you want the Flathead? I better see some eddies."
+          },
+          {
+            "stringId": "1760495027050442756",
+            "femaleVariant": "I need the bot."
+          },
+          {
+            "stringId": "1760495061091414016",
+            "femaleVariant": "I hand over the chip, you hand over the bot. Clean 'n' easy, no complications."
+          },
+          {
+            "stringId": "1760495072852242432",
+            "femaleVariant": "Want it or not? I got places to be."
+          },
+          {
+            "stringId": "1760495452621303808",
+            "femaleVariant": "Want it or not?"
+          },
+          {
+            "stringId": "1760496296934699008",
+            "femaleVariant": "Look at this fuckin' girl scout! You know all your knots, got all your badges?! Hahaha!",
+            "maleVariant": "Look at this fuckin' boy scout! You know all your knots, got all your badges?! Hahaha!"
+          },
+          {
+            "stringId": "1760497452666777600",
+            "femaleVariant": "Hmm..."
+          },
+          {
+            "stringId": "1762169079271976960",
+            "femaleVariant": "[Draw weapon] Fuck you, Royce."
+          },
+          {
+            "stringId": "1762169537407414272",
+            "femaleVariant": "Nope. I see a dead man, though."
+          },
+          {
+            "stringId": "1762169895953297408",
+            "femaleVariant": "Bring it, cocksuckers!"
+          },
+          {
+            "stringId": "1762177957506248704",
+            "femaleVariant": "Let's scrap the bastards."
+          },
+          {
+            "stringId": "1763273388680212480",
+            "femaleVariant": "What's it do?"
+          },
+          {
+            "stringId": "1763273888188264448",
+            "femaleVariant": "Ups 'dorphs and adrenaline to the point you feel no pain. Trip's so intense it verges on psychosis."
+          },
+          {
+            "stringId": "1764036290787631104",
+            "femaleVariant": "Piece of shit…"
+          },
+          {
+            "stringId": "1764485950962622464",
+            "femaleVariant": "Just like that? Without battin' a fuckin' eye?! Hahah!"
+          },
+          {
+            "stringId": "1764527154899148800",
+            "femaleVariant": "You got a bot – model MT0D12, called the Flathead."
+          },
+          {
+            "stringId": "1764527154899148816",
+            "femaleVariant": "And? The hell you care?"
+          },
+          {
+            "stringId": "1764527154899148828",
+            "femaleVariant": "Guy I represent already paid Brick for it. I'm just here for the pick-up. I can talk direct to Royce, if necessary."
+          },
+          {
+            "stringId": "1769869160630411264",
+            "femaleVariant": "Only gonna tell ya one more fuckin' time."
+          },
+          {
+            "stringId": "1769870547099541504",
+            "femaleVariant": "Park your ass on the couch."
+          },
+          {
+            "stringId": "1777899274536677376",
+            "femaleVariant": "[Shoot Royce] I've had enough."
+          },
+          {
+            "stringId": "1777911815908290560",
+            "femaleVariant": "Bang."
+          },
+          {
+            "stringId": "1777926343081521152",
+            "femaleVariant": "Mmm... Mhm..."
+          },
+          {
+            "stringId": "1970787637860909056",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1972506473152790528",
+            "femaleVariant": "Got what we came for."
+          },
+          {
+            "stringId": "1995344974227369984",
+            "femaleVariant": "Yep, we'll take it."
+          },
+          {
+            "stringId": "1995344998520778752",
+            "femaleVariant": "It'll have to do."
+          },
+          {
+            "stringId": "1995345478684700672",
+            "femaleVariant": "Preem, sure, yeah."
+          },
+          {
+            "stringId": "1995346372557991936",
+            "femaleVariant": "Heh. Look at that – picky little fucker."
+          },
+          {
+            "stringId": "1995346928420712448",
+            "femaleVariant": "It'll have to do…"
+          },
+          {
+            "stringId": "1998505903747588096",
+            "femaleVariant": "Asked you a question."
+          },
+          {
+            "stringId": "1998505941026562048",
+            "femaleVariant": "You fuckin' deaf?!"
+          },
+          {
+            "stringId": "1998505979547049984",
+            "femaleVariant": "I'm talkin' to you!"
+          },
+          {
+            "stringId": "1999500823794900996",
+            "femaleVariant": "[Show Militech shard] Eddies're right here."
+          },
+          {
+            "stringId": "1999543165931315200",
+            "femaleVariant": "Got the scratch ready."
+          },
+          {
+            "stringId": "1999546036647190528",
+            "femaleVariant": "Prepared to offer us a discount…?"
+          },
+          {
+            "stringId": "1999552885945622528",
+            "femaleVariant": "Seein' as you already got the eddies for it, you oughta offer us a discount, a big one."
+          },
+          {
+            "stringId": "1999554647687520256",
+            "femaleVariant": "A discount? Fuuuck."
+          },
+          {
+            "stringId": "1999603604325228544",
+            "femaleVariant": "Got the scratch, be chill."
+          },
+          {
+            "stringId": "1999603658867957760",
+            "femaleVariant": "I am very fucking chill."
+          },
+          {
+            "stringId": "2001182674670411780",
+            "femaleVariant": "[Draw weapon]"
+          },
+          {
+            "stringId": "2011366673422311424",
+            "femaleVariant": "[Take down Royce]"
+          },
+          {
+            "stringId": "2020605033286877184",
+            "femaleVariant": "[Take inhaler]"
+          },
+          {
+            "stringId": "2343235010488000512",
+            "femaleVariant": "No, he's alive, well and kickin'. An' he sends his regards."
+          },
+          {
+            "stringId": "2343235011695960064",
+            "femaleVariant": "So, gonna consider my offer, now?"
+          },
+          {
+            "stringId": "2343235012937474048",
+            "femaleVariant": "Mhm..."
+          }
+        ]
+      }
+
+
+

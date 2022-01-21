@@ -1,0 +1,412 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1557633851624243200",
+            "femaleVariant": "He better keep this short and sweet."
+          },
+          {
+            "stringId": "1557633851792015360",
+            "femaleVariant": "Hi, umm... Think something might've gone wrong here…"
+          },
+          {
+            "stringId": "1557633851842347016",
+            "femaleVariant": "I'm not a customer."
+          },
+          {
+            "stringId": "1557633851892678656",
+            "femaleVariant": "Need to get in touch with Evelyn Parker. It's important."
+          },
+          {
+            "stringId": "1557633851909455872",
+            "femaleVariant": "You and me both. Tried calling her a bunch of times... No luck."
+          },
+          {
+            "stringId": "1557633851909455880",
+            "femaleVariant": "She had an accident. Needed to go to a special clinic in Osaka... or Oslo? I think it was Oslo – for a new faceplate."
+          },
+          {
+            "stringId": "1557633851976564736",
+            "femaleVariant": "Relax, ya don't need any data, don't need any detes. I'm not a customer."
+          },
+          {
+            "stringId": "1557633852060450816",
+            "femaleVariant": "She tell you she was leaving?"
+          },
+          {
+            "stringId": "1557633852060450832",
+            "femaleVariant": "Osaka or Oslo – which is it?"
+          },
+          {
+            "stringId": "1557633852077228040",
+            "femaleVariant": "I'm familiar with the accident."
+          },
+          {
+            "stringId": "1557633852127559680",
+            "femaleVariant": "Tell you herself she was skippin' town?"
+          },
+          {
+            "stringId": "1557633852127559688",
+            "femaleVariant": "Nah, just didn't show up for work. Wasn't picking up, either, so I asked Woodman what was up."
+          },
+          {
+            "stringId": "1557633852144336896",
+            "femaleVariant": "Told me she left. Like I said."
+          },
+          {
+            "stringId": "1557633852194668544",
+            "femaleVariant": "Osaka or Oslo – which was it?",
+            "maleVariant": "Which was it – Osaka or Oslo?"
+          },
+          {
+            "stringId": "1557633852211445764",
+            "femaleVariant": "Oslo... Yeah, definitely Oslo."
+          },
+          {
+            "stringId": "1557633852261777408",
+            "femaleVariant": "That accident. Involved a client, did it?"
+          },
+          {
+            "stringId": "1557633852261777416",
+            "femaleVariant": "Found blood in her booth."
+          },
+          {
+            "stringId": "1557633852345663488",
+            "femaleVariant": "Could it be Woodman finally sheds some light on this shitshow? Man can only dream…"
+          },
+          {
+            "stringId": "1618630145146052608",
+            "femaleVariant": "Not really sure, umm... Don't have your details. Sorry, no idea what I'm supposed to do..."
+          },
+          {
+            "stringId": "1618630492535087104",
+            "femaleVariant": "Sure your VIP card checks out? Had a sich once – payment bounced and I was ripped outta the sesh the same way."
+          },
+          {
+            "stringId": "1618662279067951104",
+            "femaleVariant": "Here to talk, to you specifically. Not to be with a doll."
+          },
+          {
+            "stringId": "1618662728328241152",
+            "femaleVariant": "Tom. Is that it?"
+          },
+          {
+            "stringId": "1618666274863931392",
+            "femaleVariant": "Uh-huh."
+          },
+          {
+            "stringId": "1631545407520333824",
+            "femaleVariant": "Uhh... You know, shit like that happens here... sometimes."
+          },
+          {
+            "stringId": "1631545534473527296",
+            "femaleVariant": "And everyone's cool with that?"
+          },
+          {
+            "stringId": "1631545708100935680",
+            "femaleVariant": "We get new implants, recovery leave and... well, sometimes even a payout."
+          },
+          {
+            "stringId": "1631553568830611456",
+            "femaleVariant": "Where can I find this Woodman?"
+          },
+          {
+            "stringId": "1631554002672640000",
+            "femaleVariant": "Who is this Woodman?"
+          },
+          {
+            "stringId": "1631554505183813632",
+            "femaleVariant": "Woodman – who is he?"
+          },
+          {
+            "stringId": "1631554685857652772",
+            "femaleVariant": "Where can I find this Woodman?"
+          },
+          {
+            "stringId": "1631554685874429956",
+            "femaleVariant": "Probably got his feet up in the back office."
+          },
+          {
+            "stringId": "1631554685874429968",
+            "femaleVariant": "'Cept it's off limits to customers."
+          },
+          {
+            "stringId": "1631554685874429980",
+            "femaleVariant": "That'll do. Thanks."
+          },
+          {
+            "stringId": "1631559985343979520",
+            "femaleVariant": "Mr. Forrest. But everybody calls him Woodman. Never really known why…"
+          },
+          {
+            "stringId": "1631560616838389760",
+            "femaleVariant": "OK, Mr. Forrest then. What's his thing?"
+          },
+          {
+            "stringId": "1631560931662848000",
+            "femaleVariant": "He's kinda like our caretaker. Finds new talent, deals with ugly situations…"
+          },
+          {
+            "stringId": "1631562457147990016",
+            "femaleVariant": "The skull sponges in these dolls... THAT's what they should be replacin'..."
+          },
+          {
+            "stringId": "1666314607652749312",
+            "femaleVariant": "Wh-what do you want?"
+          },
+          {
+            "stringId": "1666314818173255680",
+            "femaleVariant": "Relax, you're not in trouble."
+          },
+          {
+            "stringId": "1666315250857656324",
+            "femaleVariant": "Relax, not gonna hurt you."
+          },
+          {
+            "stringId": "1666315785916628992",
+            "femaleVariant": "Shut up."
+          },
+          {
+            "stringId": "1666317571347955712",
+            "femaleVariant": "Shut up and pull yourself together."
+          },
+          {
+            "stringId": "1666317850436943872",
+            "femaleVariant": "Where's Evelyn Parker?"
+          },
+          {
+            "stringId": "1666319958678683648",
+            "femaleVariant": "Woodman?"
+          },
+          {
+            "stringId": "1666320330193354752",
+            "femaleVariant": "Vanished where?"
+          },
+          {
+            "stringId": "1666321951828721664",
+            "femaleVariant": "Vanished? Into thin air?"
+          },
+          {
+            "stringId": "1666322646623567872",
+            "femaleVariant": "Looking for Evelyn Parker."
+          },
+          {
+            "stringId": "1666323732864417792",
+            "femaleVariant": "Woodman – who's he?"
+          },
+          {
+            "stringId": "1666324301679149056",
+            "femaleVariant": "I don't know anything, I swear!"
+          },
+          {
+            "stringId": "1666358003985530880",
+            "femaleVariant": "Just wanna talk for a little."
+          },
+          {
+            "stringId": "1666362539823316992",
+            "femaleVariant": "Y-you've got me confused with someone else! Never seen you in my life! Couldn't've done anything to you!"
+          },
+          {
+            "stringId": "1666363109913116672",
+            "femaleVariant": "Evelyn? No idea what she's been up to…"
+          },
+          {
+            "stringId": "1666364026955743232",
+            "femaleVariant": "Mr. Forrest. But... we all call him Woodman. Never really known why…"
+          },
+          {
+            "stringId": "1666424254359388160",
+            "femaleVariant": "She went to... Think it was Oslo."
+          },
+          {
+            "stringId": "1670599628525625344",
+            "femaleVariant": "Two brainwashed sex zombies in a single day is too much, even for me."
+          },
+          {
+            "stringId": "1670730778271244288",
+            "femaleVariant": "Docked it from my pay, they did..."
+          },
+          {
+            "stringId": "1670755442523594752",
+            "femaleVariant": "D-don't shoot me, don't hurt me. I didn't do anything…"
+          },
+          {
+            "stringId": "1670761658649894912",
+            "femaleVariant": "Need to ask you a question, so shut up and listen."
+          },
+          {
+            "stringId": "1670780323319472128",
+            "femaleVariant": "Not fucking around, drop the act, I know you're friends. Tell me where she is."
+          },
+          {
+            "stringId": "1670781717741002752",
+            "femaleVariant": "Woodman told me she up and vanished."
+          },
+          {
+            "stringId": "1670784359196221440",
+            "femaleVariant": "Called her more than once. No answer."
+          },
+          {
+            "stringId": "1670789053377372160",
+            "femaleVariant": "Where'll I find him?"
+          },
+          {
+            "stringId": "1670789169895137280",
+            "femaleVariant": "Back-office. He almost never leaves."
+          },
+          {
+            "stringId": "1670804252880756736",
+            "femaleVariant": "Where's Evelyn? Need to talk to her urgently, it's important."
+          },
+          {
+            "stringId": "1670804252897533952",
+            "femaleVariant": "She's not here. Tried callin' her more than once – no answer."
+          },
+          {
+            "stringId": "1670804252897533964",
+            "femaleVariant": "Heard she was chippin' a new faceplate at a clinic in... Osaka? No no, Oslo – that was it."
+          },
+          {
+            "stringId": "1670804252931088384",
+            "femaleVariant": "Tell you herself she was goin' away?"
+          },
+          {
+            "stringId": "1670804252931088400",
+            "femaleVariant": "Osaka or Oslo – which is it?"
+          },
+          {
+            "stringId": "1670804253165969408",
+            "femaleVariant": "Where can I find this Woodman?"
+          },
+          {
+            "stringId": "1670804253165969424",
+            "femaleVariant": "Who is Woodman?"
+          },
+          {
+            "stringId": "1670810103012089856",
+            "femaleVariant": "You mad at her or something?"
+          },
+          {
+            "stringId": "1670810728064049152",
+            "femaleVariant": "No. Know where she is or not?"
+          },
+          {
+            "stringId": "1676415500250316800",
+            "femaleVariant": "Osaka or Oslo – which is it?"
+          },
+          {
+            "stringId": "1676415500250316812",
+            "femaleVariant": "Oslo... Yeah, definitely Oslo."
+          },
+          {
+            "stringId": "1676463559793508352",
+            "femaleVariant": "Evelyn tell you personally she was goin' away?"
+          },
+          {
+            "stringId": "1676463559793508364",
+            "femaleVariant": "Nah, just didn't show up for work. Wasn't picking up neither, so I asked Woodman what was up."
+          },
+          {
+            "stringId": "1676463559793508376",
+            "femaleVariant": "Told me she left. Like I said."
+          },
+          {
+            "stringId": "1676466263240540160",
+            "femaleVariant": "Woodman – who is he?"
+          },
+          {
+            "stringId": "1676466263240540172",
+            "femaleVariant": "Mr. Forrest. But we all call him Woodman. Never really known why…"
+          },
+          {
+            "stringId": "1676466263257317376",
+            "femaleVariant": "OK – Mr. Forrest,  then. Who is he?",
+            "maleVariant": "OK, Mr. Forrest then. Who is he?"
+          },
+          {
+            "stringId": "1676466263257317388",
+            "femaleVariant": "He's kinda like our caretaker. Finds new talent, deals with ugly situations…"
+          },
+          {
+            "stringId": "1676467432914485248",
+            "femaleVariant": "Where can I find this Woodman?"
+          },
+          {
+            "stringId": "1676467432931262468",
+            "femaleVariant": "Probably got his feet up in the back office."
+          },
+          {
+            "stringId": "1676467432931262492",
+            "femaleVariant": "That'll do. Thanks."
+          },
+          {
+            "stringId": "1676485357725614080",
+            "femaleVariant": "Could it be Woodman finally sheds some light on this shitshow? Man can only dream..."
+          },
+          {
+            "stringId": "1676485357725614092",
+            "femaleVariant": "The skull sponges in these dolls... THAT's what they should be replacin'..."
+          },
+          {
+            "stringId": "1711123479680212992",
+            "femaleVariant": "Mean to say she's not here?"
+          },
+          {
+            "stringId": "1711138833718534144",
+            "femaleVariant": "Now that I think about it, it is weird she went away so far."
+          },
+          {
+            "stringId": "1741866215483858944",
+            "femaleVariant": "You and Evelyn friends?"
+          },
+          {
+            "stringId": "1741866738178023424",
+            "femaleVariant": "Heard you and Evelyn get along famously. That true?"
+          },
+          {
+            "stringId": "1741867561620561920",
+            "femaleVariant": "Yeah, we go way back – always stuck together."
+          },
+          {
+            "stringId": "1741868048445038592",
+            "femaleVariant": "Why do you ask?"
+          },
+          {
+            "stringId": "1757691280871874560",
+            "femaleVariant": "Woodman – that the guy who takes care of the dolls?"
+          },
+          {
+            "stringId": "1757693607569743872",
+            "femaleVariant": "Why're you askin' if you already know?"
+          },
+          {
+            "stringId": "1757695425834082304",
+            "femaleVariant": "Woodman – that the Forrest guy who takes care of the dolls?"
+          },
+          {
+            "stringId": "1757695425850859528",
+            "femaleVariant": "Why're you askin' if you already know?"
+          },
+          {
+            "stringId": "1937299944786427904",
+            "femaleVariant": "I wanna talk to Evelyn."
+          }
+        ]
+      }
+
+
+

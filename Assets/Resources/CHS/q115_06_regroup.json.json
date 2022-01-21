@@ -1,0 +1,463 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1633184049081098240",
+            "femaleVariant": "多谢帮忙。"
+          },
+          {
+            "stringId": "1633243827341893636",
+            "femaleVariant": "[启动烟雾发射器] 雾来！"
+          },
+          {
+            "stringId": "1633244053112889344",
+            "femaleVariant": "[将光照周期变为夜间] 晚安。"
+          },
+          {
+            "stringId": "1633244164127727616",
+            "femaleVariant": "[启动雨林背景音]"
+          },
+          {
+            "stringId": "1633244623538233344",
+            "femaleVariant": "[用声音发射器放自己的音乐]"
+          },
+          {
+            "stringId": "1663478517184991232",
+            "femaleVariant": "你应该跟我们一起跳的。"
+          },
+          {
+            "stringId": "1663478853467508736",
+            "femaleVariant": "我不喜欢把敌人都一勺儿烩了，还是一个个单吃比较有意思。"
+          },
+          {
+            "stringId": "1663480778065842180",
+            "femaleVariant": "好玩的你都错过了。"
+          },
+          {
+            "stringId": "1663481962671509504",
+            "femaleVariant": "可你连口热乎儿的都没赶上。"
+          },
+          {
+            "stringId": "1663482036172492800",
+            "femaleVariant": "你让我想起了你老爹。"
+          },
+          {
+            "stringId": "1663482431208820736",
+            "femaleVariant": "啊？可你看着年纪不大啊——"
+          },
+          {
+            "stringId": "1663484082640523264",
+            "femaleVariant": "别废话了！"
+          },
+          {
+            "stringId": "1663489952535416832",
+            "femaleVariant": "我们离开这里。"
+          },
+          {
+            "stringId": "1663493636426174464",
+            "femaleVariant": "这姐们儿谁啊？",
+            "maleVariant": "这哥们儿谁啊？"
+          },
+          {
+            "stringId": "1672148747281108992",
+            "femaleVariant": "别吵了！"
+          },
+          {
+            "stringId": "1672150034009690112",
+            "femaleVariant": "所以，你现在算是强尼·银手吗？"
+          },
+          {
+            "stringId": "1672155359366483968",
+            "femaleVariant": "对，没错。"
+          },
+          {
+            "stringId": "1672155422515924992",
+            "femaleVariant": "厉害…很高兴认识你。"
+          },
+          {
+            "stringId": "1672311634989551616",
+            "femaleVariant": "听我说…"
+          },
+          {
+            "stringId": "1672312015530364928",
+            "femaleVariant": "嗯。又来了几个。"
+          },
+          {
+            "stringId": "1672312651856613376",
+            "femaleVariant": "嗯哼…我最喜欢半夜行动。"
+          },
+          {
+            "stringId": "1672312811189833728",
+            "femaleVariant": "来点雾更刺激。"
+          },
+          {
+            "stringId": "1672313124403679232",
+            "femaleVariant": "你一直喜欢鸟叫，是不是？"
+          },
+          {
+            "stringId": "1672313238958510080",
+            "femaleVariant": "该让派对躁起来了。"
+          },
+          {
+            "stringId": "1672319767896002560",
+            "femaleVariant": "呃，干什么呢你？"
+          },
+          {
+            "stringId": "1672319828562415616",
+            "femaleVariant": "萨尔瓦多。"
+          },
+          {
+            "stringId": "1672321830856036352",
+            "femaleVariant": "很美。可惜都是假的。"
+          },
+          {
+            "stringId": "1672323038345826304",
+            "femaleVariant": "这是——？"
+          },
+          {
+            "stringId": "1672347785293074432",
+            "femaleVariant": "把那几个悄悄地干掉，他们就没法儿拉警报了。"
+          },
+          {
+            "stringId": "1672347940213886976",
+            "femaleVariant": "连尿裤子都来不及。"
+          },
+          {
+            "stringId": "1672348063559979008",
+            "femaleVariant": "我们走。"
+          },
+          {
+            "stringId": "1672348386420723712",
+            "femaleVariant": "你一个，我一个。"
+          },
+          {
+            "stringId": "1672348871299043328",
+            "femaleVariant": "哦，感觉真不赖。"
+          },
+          {
+            "stringId": "1693694557121650688",
+            "femaleVariant": "韦兰…？收到回答。"
+          },
+          {
+            "stringId": "1693704318105919488",
+            "femaleVariant": "你摔成了多少瓣儿？"
+          },
+          {
+            "stringId": "1693705724674154496",
+            "femaleVariant": "我们去找韦兰。"
+          },
+          {
+            "stringId": "1693996028006473728",
+            "femaleVariant": "OK，韦兰。准备好了吗？"
+          },
+          {
+            "stringId": "1693996730485284864",
+            "femaleVariant": "这你还用问？"
+          },
+          {
+            "stringId": "1694008751343771648",
+            "femaleVariant": "很好，让我想起你爸。"
+          },
+          {
+            "stringId": "1697012564665278464",
+            "femaleVariant": "走！"
+          },
+          {
+            "stringId": "1698512071982817280",
+            "femaleVariant": "迟到总比不来强，是这意思吧！"
+          },
+          {
+            "stringId": "1700114673346519040",
+            "femaleVariant": "已就位。"
+          },
+          {
+            "stringId": "1702699546247565312",
+            "femaleVariant": "我估计还剩一瓣儿。我觉得这里的原住民看上我了。"
+          },
+          {
+            "stringId": "1702699795087233024",
+            "femaleVariant": "我们这就去救你。原地别动。"
+          },
+          {
+            "stringId": "1702701049972658176",
+            "femaleVariant": "想动也动不了啊。"
+          },
+          {
+            "stringId": "1702718791996018688",
+            "femaleVariant": "你还活着，不是吗？再说，电梯可以用了。"
+          },
+          {
+            "stringId": "1702721891033026560",
+            "femaleVariant": "快来。"
+          },
+          {
+            "stringId": "1702725490953818112",
+            "femaleVariant": "我估计停掉的可不止是电梯。"
+          },
+          {
+            "stringId": "1702726079381114880",
+            "femaleVariant": "肯定还有办法。我们四处看看。"
+          },
+          {
+            "stringId": "1703815839989342208",
+            "femaleVariant": "说不定咱们可以把丛林音效重新打开。看看这儿还有些别的什么。"
+          },
+          {
+            "stringId": "1703817008723763200",
+            "femaleVariant": "韦兰，我们去找他。"
+          },
+          {
+            "stringId": "1703817841075003392",
+            "femaleVariant": "赶紧得找到韦兰。时间不等人。"
+          },
+          {
+            "stringId": "1703824645595045888",
+            "femaleVariant": "同意。"
+          },
+          {
+            "stringId": "1830157220754096128",
+            "femaleVariant": "靠，这下可好！他们把电梯停了。"
+          },
+          {
+            "stringId": "1830160637769678848",
+            "femaleVariant": "呵，你可真自恋。"
+          },
+          {
+            "stringId": "1883848372864950272",
+            "femaleVariant": "嘿…你还喘气儿呢吗？"
+          },
+          {
+            "stringId": "1883849389379690496",
+            "femaleVariant": "韦兰他没跳。在瀑布那里坠毁了。"
+          },
+          {
+            "stringId": "1883850914395070468",
+            "femaleVariant": "咱们去接他。"
+          },
+          {
+            "stringId": "1883853045755813888",
+            "femaleVariant": "他自己能行的。"
+          },
+          {
+            "stringId": "1883853183362539520",
+            "femaleVariant": "明白。"
+          },
+          {
+            "stringId": "1883853194804600832",
+            "femaleVariant": "我们现在没有这个时间，他死不了的。"
+          },
+          {
+            "stringId": "1883853660087132160",
+            "femaleVariant": "差点儿忘了你是个白眼狼。行，你随便吧，但我要去救韦兰。"
+          },
+          {
+            "stringId": "1883860371392962560",
+            "femaleVariant": "我会尝试重新联系他，然后去找有电梯权限的人，坐电梯下去。"
+          },
+          {
+            "stringId": "1883892735666036736",
+            "femaleVariant": "我找到韦兰了。"
+          },
+          {
+            "stringId": "1883895866982408192",
+            "femaleVariant": "可算来了，赶紧继续吧。嘿，韦兰，能听到吗？"
+          },
+          {
+            "stringId": "1883895893540741120",
+            "femaleVariant": "去瀑布那边。我在那儿等你。"
+          },
+          {
+            "stringId": "1883896993622794240",
+            "femaleVariant": "很清楚。门这边已经搞定了。"
+          },
+          {
+            "stringId": "1883897453872160768",
+            "femaleVariant": "我们一人干掉一个。强尼，自己挑。"
+          },
+          {
+            "stringId": "1883923455016968192",
+            "femaleVariant": "咱们从这群西装狗里找到他们的头儿，干掉他，从他尸体上翻到访问卡，然后迅速离开这丛林。"
+          },
+          {
+            "stringId": "1883923478421184512",
+            "femaleVariant": "离开这儿必须用访问卡。应该能在头目身上找到。"
+          },
+          {
+            "stringId": "1883924048594870272",
+            "femaleVariant": "早就妥了。"
+          },
+          {
+            "stringId": "1883924540637061120",
+            "femaleVariant": "靠，我就说好像忘了什么。行吧，我知道去哪儿找。死人不会挪窝。"
+          },
+          {
+            "stringId": "1884002335950118912",
+            "femaleVariant": "看到那人了吗？是个头目，访问卡就在他身上。"
+          },
+          {
+            "stringId": "1884003087468732416",
+            "femaleVariant": "办了他，强尼。"
+          },
+          {
+            "stringId": "1884005626801037312",
+            "femaleVariant": "可以动手了，强尼，看你的了。"
+          },
+          {
+            "stringId": "1884896731734220800",
+            "femaleVariant": "就像蜘蛛莫菲总说的…“看看猫又带回什么了。”"
+          },
+          {
+            "stringId": "1884899799112622080",
+            "femaleVariant": "你把访问卡拿上，现在去电梯那里。"
+          },
+          {
+            "stringId": "1885344966399500288",
+            "femaleVariant": "快过来！我需要支援！"
+          },
+          {
+            "stringId": "1885344974200905728",
+            "femaleVariant": "你个人渣——韦兰他死了！"
+          },
+          {
+            "stringId": "1885350755243663360",
+            "femaleVariant": "找到一条从电梯过去的路。到我这儿来。"
+          },
+          {
+            "stringId": "1885350763699380224",
+            "femaleVariant": "找到一条从电梯过去的路。就等你们俩了。"
+          },
+          {
+            "stringId": "1885371675677040640",
+            "femaleVariant": "去吧。不过把招子给我放亮点儿。"
+          },
+          {
+            "stringId": "1885404138432372736",
+            "femaleVariant": "我在楼下。来吧。"
+          },
+          {
+            "stringId": "1886379122415902720",
+            "femaleVariant": "守卫。"
+          },
+          {
+            "stringId": "1886398579590832128",
+            "femaleVariant": "你得想办法偷偷溜进去。咱们浮空车那儿见。"
+          },
+          {
+            "stringId": "1886398803902210048",
+            "femaleVariant": "你可以偷偷溜过去，也可以一次把他们都干掉。都行，我听你的。"
+          },
+          {
+            "stringId": "1886424714617823232",
+            "femaleVariant": "OK，去找目标。"
+          },
+          {
+            "stringId": "1886428196057915392",
+            "femaleVariant": "你就继续到处晃吧，兔崽子。我——我去救韦兰。"
+          },
+          {
+            "stringId": "1893706234298638336",
+            "femaleVariant": "这身皮挺滑啊。"
+          },
+          {
+            "stringId": "1893706699597946880",
+            "femaleVariant": "半蜥蜴人说这话，肯定是夸我的。"
+          },
+          {
+            "stringId": "1902225504179593216",
+            "femaleVariant": "在终端那边…"
+          },
+          {
+            "stringId": "1907072280166408192",
+            "femaleVariant": "他们发现我们了！"
+          },
+          {
+            "stringId": "1907073202175090692",
+            "femaleVariant": "呵，没几下就现原形了…"
+          },
+          {
+            "stringId": "1907073221972205572",
+            "femaleVariant": "我们被发现了！"
+          },
+          {
+            "stringId": "1912861464823078912",
+            "femaleVariant": "这边。"
+          },
+          {
+            "stringId": "1912861662743896064",
+            "femaleVariant": "嘿，小家伙儿…"
+          },
+          {
+            "stringId": "1914431701460721664",
+            "femaleVariant": "看看这个终端能不能派上用场。"
+          },
+          {
+            "stringId": "1914432136376492032",
+            "femaleVariant": "来首经典的。"
+          },
+          {
+            "stringId": "1914433962039582724",
+            "femaleVariant": "天黑请闭眼。"
+          },
+          {
+            "stringId": "1914433985309581316",
+            "femaleVariant": "掀起大雾吧。"
+          },
+          {
+            "stringId": "1949049036028780544",
+            "femaleVariant": "访问卡拿到了。走，去电梯。"
+          },
+          {
+            "stringId": "1988081562063740928",
+            "femaleVariant": "“隼”协议，正在启动中。"
+          },
+          {
+            "stringId": "1988083559961731072",
+            "femaleVariant": "设施已经全面封锁。"
+          },
+          {
+            "stringId": "1988083780498235392",
+            "femaleVariant": "相关安保人员必须立刻前往指定位置报到。"
+          },
+          {
+            "stringId": "1988192750797856768",
+            "femaleVariant": "发现入侵者。"
+          },
+          {
+            "stringId": "2056082450839789568",
+            "femaleVariant": "呃…我靠…"
+          },
+          {
+            "stringId": "2056215078725246976",
+            "femaleVariant": "是吗？干得好。我们走。"
+          },
+          {
+            "stringId": "2056220515147210752",
+            "femaleVariant": "那咱们去默个哀吧。"
+          },
+          {
+            "stringId": "2056236177550761984",
+            "femaleVariant": "滚到中庭来，马上，不然我要你后悔！"
+          },
+          {
+            "stringId": "2401210881093066756",
+            "femaleVariant": "[坐下]"
+          }
+        ]
+      }
+
+
+

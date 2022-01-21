@@ -1,0 +1,411 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1153430861407727616",
+            "femaleVariant": "Get everything you need?"
+          },
+          {
+            "stringId": "1153437726644514816",
+            "femaleVariant": "Yep, that'll do. Thanks, Judy."
+          },
+          {
+            "stringId": "1187911673528070144",
+            "femaleVariant": "So, what now?"
+          },
+          {
+            "stringId": "1215248765245059072",
+            "femaleVariant": "Speakin' of harm's way. Know what I see lookin' at you?"
+          },
+          {
+            "stringId": "1215253551499571200",
+            "femaleVariant": "So, what now?"
+          },
+          {
+            "stringId": "1215277220846235648",
+            "femaleVariant": "Walking, talking corpses."
+          },
+          {
+            "stringId": "1215278023115927552",
+            "femaleVariant": "We really needed that recording, Judy."
+          },
+          {
+            "stringId": "1215278850266230784",
+            "femaleVariant": "Relax – everything's under control."
+          },
+          {
+            "stringId": "1215279355008774144",
+            "femaleVariant": "We needed that recording, Judy. BD practically does our job for us.",
+            "maleVariant": "We needed that recording, Judy. The BD practically does our job for us."
+          },
+          {
+            "stringId": "1215288322699161600",
+            "femaleVariant": "Relax, I got it all under control."
+          },
+          {
+            "stringId": "1215289496768737280",
+            "femaleVariant": "If Arasaka finds out you have it, you're dead. I'M dead."
+          },
+          {
+            "stringId": "1215357349282836480",
+            "femaleVariant": "If you fuck up and they come knockin' on my door..."
+          },
+          {
+            "stringId": "1215358773886578688",
+            "femaleVariant": "Evelyn, please... no shortcuts."
+          },
+          {
+            "stringId": "1215374043770384384",
+            "femaleVariant": "Connection to Yorinobu – what's its nature, exactly?"
+          },
+          {
+            "stringId": "1215389140211331072",
+            "femaleVariant": "Think I see how you know so much about Yorinobu."
+          },
+          {
+            "stringId": "1215394681994211328",
+            "femaleVariant": "V..."
+          },
+          {
+            "stringId": "1451730960049106944",
+            "femaleVariant": "We got it. Later, T-Bug."
+          },
+          {
+            "stringId": "1451731308562214912",
+            "femaleVariant": "Nice work today. See ya soon."
+          },
+          {
+            "stringId": "1451750420025831424",
+            "femaleVariant": "Biz. And biz only."
+          },
+          {
+            "stringId": "1461723383613485056",
+            "femaleVariant": "Thanks for the help."
+          },
+          {
+            "stringId": "1461723763734867968",
+            "femaleVariant": "Till next time. I hope."
+          },
+          {
+            "stringId": "1461726047147520000",
+            "femaleVariant": "Thanks, Judy. Really."
+          },
+          {
+            "stringId": "1461726359220514816",
+            "femaleVariant": "And don't worry – I know what I'm doin'."
+          },
+          {
+            "stringId": "1461737359537729536",
+            "femaleVariant": "Well, don't worry. Won't do anything to get you in trouble. But, uh... I hope to see you again?"
+          },
+          {
+            "stringId": "1461737956588515328",
+            "femaleVariant": "Depends."
+          },
+          {
+            "stringId": "1461738418263945216",
+            "femaleVariant": "On what?"
+          },
+          {
+            "stringId": "1461738536056778752",
+            "femaleVariant": "Whether you come alone or with a tag-along. Like a netrunner."
+          },
+          {
+            "stringId": "1461742173726306304",
+            "femaleVariant": "No 'runners. I promise."
+          },
+          {
+            "stringId": "1461742855669805056",
+            "femaleVariant": "See ya."
+          },
+          {
+            "stringId": "1521260301573025792",
+            "femaleVariant": "Keep it. I'll put it on Ev's tab."
+          },
+          {
+            "stringId": "1521261569628565504",
+            "femaleVariant": "Portable device for handling BDs. I already uploaded your calibration settings."
+          },
+          {
+            "stringId": "1521268990895845376",
+            "femaleVariant": "And it keeps you outta harm's way. Clever."
+          },
+          {
+            "stringId": "1521282891473612800",
+            "femaleVariant": "'Course I will be."
+          },
+          {
+            "stringId": "1528438486239731716",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1531603878123532288",
+            "femaleVariant": "Not as sophisticated as what we got here, but should do the trick."
+          },
+          {
+            "stringId": "1531611367338536960",
+            "femaleVariant": "Judy... relax. That's not gonna happen."
+          },
+          {
+            "stringId": "1531612400966037504",
+            "femaleVariant": "Judy... relax. Nobody will ever know."
+          },
+          {
+            "stringId": "1531616201391337472",
+            "femaleVariant": "It's simple – men like pillow talk a bit too much."
+          },
+          {
+            "stringId": "1531616728195919872",
+            "femaleVariant": "So it's just about the sex?"
+          },
+          {
+            "stringId": "1540084100795854848",
+            "femaleVariant": "I'll wipe the cache and your data. You were never here."
+          },
+          {
+            "stringId": "1624111049163272192",
+            "femaleVariant": "Do this job for me. I mean me alone. No splitting the payout with anyone else. No middlemen."
+          },
+          {
+            "stringId": "1624112012007698432",
+            "femaleVariant": "No Dex."
+          },
+          {
+            "stringId": "1624204244618440708",
+            "femaleVariant": "I'll think about it."
+          },
+          {
+            "stringId": "1624204831300907008",
+            "femaleVariant": "No way. Dex trusts me."
+          },
+          {
+            "stringId": "1624213629927288832",
+            "femaleVariant": "You wanna haze our fixer?"
+          },
+          {
+            "stringId": "1624223442065289216",
+            "femaleVariant": "If I agree, there'll be hell to pay. For sure."
+          },
+          {
+            "stringId": "1624223538668498944",
+            "femaleVariant": "No fuckin' way. Dex took a leap with me. He trusts me."
+          },
+          {
+            "stringId": "1624223636496445440",
+            "femaleVariant": "You wanna fuck over our fixer. I knew something was up."
+          },
+          {
+            "stringId": "1624237835289227264",
+            "femaleVariant": "I know. Whatever you decide, it stays between us."
+          },
+          {
+            "stringId": "1624238629656850432",
+            "femaleVariant": "I can offer fifty percent. Eddies enough to do whatever the hell you like."
+          },
+          {
+            "stringId": "1624291085417836544",
+            "femaleVariant": "I'll be finished. Dex won't forgive a dirt move like this."
+          },
+          {
+            "stringId": "1624291795362508800",
+            "femaleVariant": "Dex isn't the only fixer in town. But my offer's the only one you'll ever get."
+          },
+          {
+            "stringId": "1624296397621293056",
+            "femaleVariant": "Huh, lemme think about it."
+          },
+          {
+            "stringId": "1624310363311435776",
+            "femaleVariant": "Now I'm doing the same. Fifty percent. With cred like that in your account, you won't need Dex for anything."
+          },
+          {
+            "stringId": "1624312528612487172",
+            "femaleVariant": "I'm not about to fuck Dex over."
+          },
+          {
+            "stringId": "1624313197654306816",
+            "femaleVariant": "I'll think about it."
+          },
+          {
+            "stringId": "1624317066882969600",
+            "femaleVariant": "No, Evelyn. It's not just about the money."
+          },
+          {
+            "stringId": "1624317609323917312",
+            "femaleVariant": "I thought you were a merc. I thought it was always about the money."
+          },
+          {
+            "stringId": "1624317930355945472",
+            "femaleVariant": "Not behind the back of someone who trusts me. Sorry."
+          },
+          {
+            "stringId": "1624322597743882240",
+            "femaleVariant": "Fine. I never asked. But V?"
+          },
+          {
+            "stringId": "1624323098107572224",
+            "femaleVariant": "Hmm?"
+          },
+          {
+            "stringId": "1624323200415035392",
+            "femaleVariant": "I just hope you're as good as you are naive."
+          },
+          {
+            "stringId": "1624327651813093376",
+            "femaleVariant": "I'll think about it."
+          },
+          {
+            "stringId": "1624344770697097216",
+            "femaleVariant": "Dex is a middleman. And a useless one, at this point."
+          },
+          {
+            "stringId": "1624353950585712640",
+            "femaleVariant": "Your choice."
+          },
+          {
+            "stringId": "1624356027571499008",
+            "femaleVariant": "You sure you wanna do this?"
+          },
+          {
+            "stringId": "1624368769514729472",
+            "femaleVariant": "But if we're smart..."
+          },
+          {
+            "stringId": "1624371996259905536",
+            "femaleVariant": "If you need me, call. I'll send you my number."
+          },
+          {
+            "stringId": "1624373632977989632",
+            "femaleVariant": "OK."
+          },
+          {
+            "stringId": "1624373768386899968",
+            "femaleVariant": "Good luck."
+          },
+          {
+            "stringId": "1624374722725277696",
+            "femaleVariant": "Mmhm."
+          },
+          {
+            "stringId": "1631836209907625984",
+            "femaleVariant": "Evelyn, you don't mess with fixers. That's the one rule every merc in this city knows – and actually follows."
+          },
+          {
+            "stringId": "1631838636060831744",
+            "femaleVariant": "Doesn't matter. Mistake like that'll cost you your rep. And without a rep, you're nobody."
+          },
+          {
+            "stringId": "1634461398558437376",
+            "femaleVariant": "You sure everything's under control?"
+          },
+          {
+            "stringId": "1634464108565360640",
+            "femaleVariant": "Intel on Yorinobu, the chip, the BD from Konpeki... Winds are right, plan's perfect. A job like this comes one in a million."
+          },
+          {
+            "stringId": "1634504061575884800",
+            "femaleVariant": "Mm. Thanks. Now the punch line, please."
+          },
+          {
+            "stringId": "1634504834300899328",
+            "femaleVariant": "Just sounds too good to be true. What's the catch?"
+          },
+          {
+            "stringId": "1634508587800326144",
+            "femaleVariant": "I wanna know if you're really in control here. That you're not sending me into the sorta shit I can't wade out of."
+          },
+          {
+            "stringId": "1634511942186561536",
+            "femaleVariant": "Cold feet? Are you looking to get out of it?"
+          },
+          {
+            "stringId": "1634528072590553088",
+            "femaleVariant": "V. I have zero reasons to haze you. We're in this together. Really. Trust me that I got this."
+          },
+          {
+            "stringId": "1679164748591656960",
+            "femaleVariant": "You're sure Yorinobu doesn't expect this kinda move from you?"
+          },
+          {
+            "stringId": "1679164748608434184",
+            "femaleVariant": "He's got no idea, trust me. He's too busy with NetWatch to give me that kind of attention."
+          },
+          {
+            "stringId": "1679164748608434196",
+            "femaleVariant": "Besides... even IF some suspicion takes root in his mind, it shouldn't matter, he won't react in time. And that's something you'll handle, right?"
+          },
+          {
+            "stringId": "1679164748692320256",
+            "femaleVariant": "You're not worried? Arasaka will flag and screen anyone who's had dealings with Yorinobu."
+          },
+          {
+            "stringId": "1679164748692320268",
+            "femaleVariant": "They'll have a long list, then. Packed full of big names. Much bigger than mine."
+          },
+          {
+            "stringId": "1679164748692320280",
+            "femaleVariant": "You tell me who they check first. Corpo hotshots and cutthroats? Or a little bedroom plaything like me?"
+          },
+          {
+            "stringId": "1679167788455424000",
+            "femaleVariant": "Not afraid they'll tie you to the heist?"
+          },
+          {
+            "stringId": "1679176160789524480",
+            "femaleVariant": "You sure Yorinobu doesn't suspect a thing?"
+          },
+          {
+            "stringId": "1733178507373780992",
+            "femaleVariant": "Now go. I need a few words with Judy."
+          },
+          {
+            "stringId": "1733178555255955456",
+            "femaleVariant": "See you, V."
+          },
+          {
+            "stringId": "1733178603373010944",
+            "femaleVariant": "Time's a-wastin', V."
+          },
+          {
+            "stringId": "1740254549625139200",
+            "femaleVariant": "Besides, we'll talk in a bit."
+          },
+          {
+            "stringId": "1740297433967620096",
+            "femaleVariant": "V, one sec."
+          },
+          {
+            "stringId": "1744387915588956160",
+            "femaleVariant": "Let's walk."
+          },
+          {
+            "stringId": "1753402318679203840",
+            "femaleVariant": "The BD will be the death of us. Seriously."
+          },
+          {
+            "stringId": "1753410787213860864",
+            "femaleVariant": "You go that route, city'll always win. So be careful."
+          },
+          {
+            "stringId": "1753433381828845568",
+            "femaleVariant": "Better ask yourself that question. Do you want to spend the rest of your days blasting scavs? Or become a legend overnight?"
+          }
+        ]
+      }
+
+
+

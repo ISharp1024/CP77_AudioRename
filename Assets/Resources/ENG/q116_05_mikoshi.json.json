@@ -1,0 +1,1522 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1416724531560599552",
+            "femaleVariant": "[Cross bridge with Alt]"
+          },
+          {
+            "stringId": "1416724809592623104",
+            "femaleVariant": "[Enter well and return to body]"
+          },
+          {
+            "stringId": "1528536612566753280",
+            "femaleVariant": "\"When the evening is spread out against the sky,\""
+          },
+          {
+            "stringId": "1528539511468351488",
+            "femaleVariant": "\"Let us go, through certain half-deserted streets,\""
+          },
+          {
+            "stringId": "1528541216939466752",
+            "femaleVariant": "\"The muttering retreats\""
+          },
+          {
+            "stringId": "1528567694842421252",
+            "femaleVariant": "[Grab shoulder] You're here!"
+          },
+          {
+            "stringId": "1528567817567756288",
+            "femaleVariant": "[Grab shoulder] I did it. Somehow, despite it all."
+          },
+          {
+            "stringId": "1528570004628856832",
+            "femaleVariant": "You're here!"
+          },
+          {
+            "stringId": "1528570074220748800",
+            "femaleVariant": "I did it, Johnny. Despite it all, somehow, I did it."
+          },
+          {
+            "stringId": "1528570904692940800",
+            "femaleVariant": "You actually did it. You and that ragtag team of scrap-rats."
+          },
+          {
+            "stringId": "1528716866086264836",
+            "femaleVariant": "When do we start?"
+          },
+          {
+            "stringId": "1528727781510766592",
+            "femaleVariant": "Time's short."
+          },
+          {
+            "stringId": "1528730396407652352",
+            "femaleVariant": "So, when do we start?"
+          },
+          {
+            "stringId": "1528730457946480640",
+            "femaleVariant": "Did you see anything? Or were you completely cut out?"
+          },
+          {
+            "stringId": "1528730623420162048",
+            "femaleVariant": "Were you with me the whole time?"
+          },
+          {
+            "stringId": "1528731222668763136",
+            "femaleVariant": "Suppressors slowed me down, but yeah – I saw."
+          },
+          {
+            "stringId": "1528731862736330752",
+            "femaleVariant": "Lotta people died just for me to get here…"
+          },
+          {
+            "stringId": "1528734716423331840",
+            "femaleVariant": "Sorry about Saul... It was my fault Smasher was here in the first place."
+          },
+          {
+            "stringId": "1528736130239324160",
+            "femaleVariant": "Should probably hurry before Arasaka sends reinforcements. Where's Alt?"
+          },
+          {
+            "stringId": "1531784604342050816",
+            "femaleVariant": "\"Like a patient etherized upon a table,\""
+          },
+          {
+            "stringId": "1531785944623505408",
+            "femaleVariant": "\"Let us go then, you and I,\""
+          },
+          {
+            "stringId": "1531899315771432960",
+            "femaleVariant": "There's nothin' to talk about."
+          },
+          {
+            "stringId": "1531903459592790016",
+            "femaleVariant": "I-I can't believe it. Everything. A-all we did – it was pointless.",
+            "maleVariant": "I ca-- I can't believe it. Everything. All we did – it was pointless."
+          },
+          {
+            "stringId": "1531911300709900292",
+            "femaleVariant": "Wanna live out whatever life I got left."
+          },
+          {
+            "stringId": "1531912270969856000",
+            "femaleVariant": "I've had enough of this. Of everything. You most of all."
+          },
+          {
+            "stringId": "1531914585705570304",
+            "femaleVariant": "Perfect, 'cause we're stickin' to the plan. I'm goin' with Alt, fuck knows where, you're keepin' your body."
+          },
+          {
+            "stringId": "1531919454352990208",
+            "femaleVariant": "Body's Johnny's. I'll go."
+          },
+          {
+            "stringId": "1531919815113465856",
+            "femaleVariant": "Alt? What do I do?"
+          },
+          {
+            "stringId": "1531921246579089408",
+            "femaleVariant": "Alt? If you were me, heh... what would you do?"
+          },
+          {
+            "stringId": "1531922470711877632",
+            "femaleVariant": "What does that mean for me, exactly? Am I gonna... become like you?",
+            "maleVariant": "What's that mean for me, exactly? Am I gonna... become like you?"
+          },
+          {
+            "stringId": "1531922673732968448",
+            "femaleVariant": "I was a netrunner. I understood how to survive. I cannot speak for you."
+          },
+          {
+            "stringId": "1531925621389156352",
+            "femaleVariant": "Yeah, we... stick to the plan. Johnny, I'm sorry.",
+            "maleVariant": "Yeah, we... we stick to the plan. Johnny, I'm sorry."
+          },
+          {
+            "stringId": "1531925697188618240",
+            "femaleVariant": "Johnny, change of plans. I go, you stay."
+          },
+          {
+            "stringId": "1531926699325284352",
+            "femaleVariant": "Don't apologize. We knew all along this's how it would play out."
+          },
+          {
+            "stringId": "1531927454568439808",
+            "femaleVariant": "Don't... don't fuck with me right now."
+          },
+          {
+            "stringId": "1531927930236067840",
+            "femaleVariant": "Only if you cut your pathetic “I’m sorry” bullshit."
+          },
+          {
+            "stringId": "1531928359766351872",
+            "femaleVariant": "I mean, Jesus, I'm about to shred a comrade and a chunk of my own soul in one fuckin' go. You have no idea what that shit feels like.",
+            "maleVariant": "I mean, Jesus, I'm about to shred a comrade and a chunk of my own soul in one fuckin' go. You got no idea what that shit feels like."
+          },
+          {
+            "stringId": "1531929054376648704",
+            "femaleVariant": "Hm. Sounds kinda familiar. We know that attitude... See, V? Stayin' with you whether you like it or not."
+          },
+          {
+            "stringId": "1531930977649582080",
+            "femaleVariant": "For fuck’s sake, defend yourself. You're not even trying!"
+          },
+          {
+            "stringId": "1531931415283261440",
+            "femaleVariant": "Y’know, you taught me to let go sometimes, save my strength for one last big bang."
+          },
+          {
+            "stringId": "1531931964770639872",
+            "femaleVariant": "Goodbye, V. And never stop fightin’."
+          },
+          {
+            "stringId": "1531932804738736128",
+            "femaleVariant": "What, a little guilt creeps in and that's that? You give up?"
+          },
+          {
+            "stringId": "1531935083755757568",
+            "femaleVariant": "Stop. Just stop."
+          },
+          {
+            "stringId": "1531935188026155008",
+            "femaleVariant": "Gonna just roll over instead of fightin' for what's yours, decomish yourself 'cause you're too fuckin' scared to say goodbye?"
+          },
+          {
+            "stringId": "1531936182428524544",
+            "femaleVariant": "It is my decision, let me make it.",
+            "maleVariant": "It's my decision, let me make it."
+          },
+          {
+            "stringId": "1531936577817174016",
+            "femaleVariant": "You’re loyal, grant you that. But dammit are you dense. Haven't changed a bit since we met."
+          },
+          {
+            "stringId": "1531937111315865600",
+            "femaleVariant": "I’m so damn tired, Johnny. I just wanna start anew, even if I don't know what that means. I bet it'd be good for you, too."
+          },
+          {
+            "stringId": "1531937751718977536",
+            "femaleVariant": "V, I’m just... I’m just scared for ya..."
+          },
+          {
+            "stringId": "1531937986616778752",
+            "femaleVariant": "I'll see ya 'round, Johnny."
+          },
+          {
+            "stringId": "1553636454980673536",
+            "femaleVariant": "Is this it? The infamous prison of souls?"
+          },
+          {
+            "stringId": "1553636815405604864",
+            "femaleVariant": "Are we in Arasaka's prison of souls?"
+          },
+          {
+            "stringId": "1553637342747058176",
+            "femaleVariant": "Not how I remember it, but Alt wasn't runnin' the show back then."
+          },
+          {
+            "stringId": "1553638900914216960",
+            "femaleVariant": "Fuck if I know. We only see what Alt wants us to see."
+          },
+          {
+            "stringId": "1612936911972229120",
+            "femaleVariant": "Devised a solid plan and pulled it off. That's you. Well done."
+          },
+          {
+            "stringId": "1612941523894689792",
+            "femaleVariant": "I'm sorry, not sure I quite caught that."
+          },
+          {
+            "stringId": "1612942189698506752",
+            "femaleVariant": "Then wash out your ears, you dumbass."
+          },
+          {
+            "stringId": "1612996454295035904",
+            "femaleVariant": "So where are all of Soulkiller's victims?"
+          },
+          {
+            "stringId": "1613051654087139328",
+            "femaleVariant": "I can't believe this."
+          },
+          {
+            "stringId": "1613052242715762688",
+            "femaleVariant": "There's nothing to talk about."
+          },
+          {
+            "stringId": "1620161466008625152",
+            "femaleVariant": "Haven't caught on yet, have ya?"
+          },
+          {
+            "stringId": "1620164417188028416",
+            "femaleVariant": "What-- Whaddaya mean?",
+            "maleVariant": "What? Whaddaya mean?"
+          },
+          {
+            "stringId": "1620165027627032576",
+            "femaleVariant": "Alt's already split us. Once you jacked into Mikoshi, she lit you up with Soulkiller."
+          },
+          {
+            "stringId": "1620166427467603968",
+            "femaleVariant": "Hey, Alt."
+          },
+          {
+            "stringId": "1620166973549207552",
+            "femaleVariant": "Too bad. He coulda used someone like you."
+          },
+          {
+            "stringId": "1620167974914121728",
+            "femaleVariant": "You hit me with Soulkiller without asking?"
+          },
+          {
+            "stringId": "1620171072961273856",
+            "femaleVariant": "Hey, Alt – so, seein' as we seem to have the soul splittin' outta the way, what's next?"
+          },
+          {
+            "stringId": "1620173595449253888",
+            "femaleVariant": "Too bad. Johnny coulda used someone like you by his side."
+          },
+          {
+            "stringId": "1620173667322847232",
+            "femaleVariant": "You real? You hit me with Soulkiller?! 'Thout asking?!"
+          },
+          {
+            "stringId": "1620195521341186048",
+            "femaleVariant": "Your output don't fuck around."
+          },
+          {
+            "stringId": "1620195822777425920",
+            "femaleVariant": "I am not his girlfriend."
+          },
+          {
+            "stringId": "1620199642513301504",
+            "femaleVariant": "It was the only way I could fulfill your request."
+          },
+          {
+            "stringId": "1620200085448581120",
+            "femaleVariant": "Jesus fuck, I'd've liked a warning at least…"
+          },
+          {
+            "stringId": "1620200297965576192",
+            "femaleVariant": "Been a construct for just a few minutes and already no one gives a damn what you want. Welcome to the club, V."
+          },
+          {
+            "stringId": "1620200862837661696",
+            "femaleVariant": "Strong words from a fellow construct stuck in the same Arasaka prison."
+          },
+          {
+            "stringId": "1620203602674475008",
+            "femaleVariant": "Wait, what...? Mean to say I'm an engram?"
+          },
+          {
+            "stringId": "1620204814845108224",
+            "femaleVariant": "Uh-huh, same as me. Got any more jokes?"
+          },
+          {
+            "stringId": "1620214129286995968",
+            "femaleVariant": "I am currently verifying the checksum and eliminating engram copy errors in the process."
+          },
+          {
+            "stringId": "1620277067637088256",
+            "femaleVariant": "Wait, you mean... I... Am I a construct?"
+          },
+          {
+            "stringId": "1620277265876672512",
+            "femaleVariant": "She means you followed in my footsteps. Next step's to copy you into the gonk's brain."
+          },
+          {
+            "stringId": "1620286012510461956",
+            "femaleVariant": "So, that's it. It's over."
+          },
+          {
+            "stringId": "1620288308791238656",
+            "femaleVariant": "Someone please explain."
+          },
+          {
+            "stringId": "1620288792042168320",
+            "femaleVariant": "Wait, hold on. I wanna know what the hell happened to me. Exactly!"
+          },
+          {
+            "stringId": "1620290215840604160",
+            "femaleVariant": "I applied Soulkiller to separating your two psyches, thereby creating V's distinct construct. An added analgesic protocol precluded any perception of pain."
+          },
+          {
+            "stringId": "1620291802747133952",
+            "femaleVariant": "I was unable to eliminate all the changes made through the Johnny data incursion and overwrite, but V's engram integrity remains high."
+          },
+          {
+            "stringId": "1620291944514609152",
+            "femaleVariant": "Meaning, you can transfer her psyche back into her brain?",
+            "maleVariant": "Meaning, you can transfer his psyche back into his brain?"
+          },
+          {
+            "stringId": "1620292858369564672",
+            "femaleVariant": "As if onto a blank, virgin partition."
+          },
+          {
+            "stringId": "1620293207117553664",
+            "femaleVariant": "So that's really it. We're done. You kept your word."
+          },
+          {
+            "stringId": "1620293811046998016",
+            "femaleVariant": "There is one aspect I failed to take into account."
+          },
+          {
+            "stringId": "1620296999103913984",
+            "femaleVariant": "Alt? What?"
+          },
+          {
+            "stringId": "1620297173050089472",
+            "femaleVariant": "DNA reconfiguration by the Relic has progressed too far. Added to aggressive, invasive medications, the body's immune system attacking its own neurons…"
+          },
+          {
+            "stringId": "1620299739494375424",
+            "femaleVariant": "Christ, will you just skip to the end?!"
+          },
+          {
+            "stringId": "1620300620046557184",
+            "femaleVariant": "After I transfer your construct into your body, you will die. It is inevitable. It is imminent."
+          },
+          {
+            "stringId": "1620306459021041664",
+            "femaleVariant": "The body as a key factor in this transaction."
+          },
+          {
+            "stringId": "1621090679448428544",
+            "femaleVariant": "No. No, no way. That was not our deal.",
+            "maleVariant": "No. No way. That was not our deal."
+          },
+          {
+            "stringId": "1621090948303314948",
+            "femaleVariant": "No. No way."
+          },
+          {
+            "stringId": "1621091881670172672",
+            "femaleVariant": "You planned this. Both of you."
+          },
+          {
+            "stringId": "1621092149937856512",
+            "femaleVariant": "Shit..."
+          },
+          {
+            "stringId": "1621093283725336576",
+            "femaleVariant": "Check again."
+          },
+          {
+            "stringId": "1621093497248964608",
+            "femaleVariant": "Had this planned all along, didn't you? Never had any intention of keepin' me alive.",
+            "maleVariant": "Had this planned all along, didn't ya? Never had any intention of keepin' me alive."
+          },
+          {
+            "stringId": "1621093577913819136",
+            "femaleVariant": "Are you absolutely sure? Check again."
+          },
+          {
+            "stringId": "1621093681714454528",
+            "femaleVariant": "Fuck…"
+          },
+          {
+            "stringId": "1621096546172428288",
+            "femaleVariant": "You shall live for about six months. Perhaps somewhat more."
+          },
+          {
+            "stringId": "1621097845014159360",
+            "femaleVariant": "No, no, no..."
+          },
+          {
+            "stringId": "1621098039076216832",
+            "femaleVariant": "There's gotta be somethin', somethin' we haven't thought of!",
+            "maleVariant": "There's gotta be somethin'... somethin' we haven't thought of!"
+          },
+          {
+            "stringId": "1621102879168815104",
+            "femaleVariant": "Is that a fuckin' joke?"
+          },
+          {
+            "stringId": "1621105751797293056",
+            "femaleVariant": "You backstabbing motherfucker. You just fuckin' kicked back, dumbass grin on your face, and waited till I finally realized you had me fucked from the start!",
+            "maleVariant": "You backstabbin' motherfucker! You just fuckin' kicked back, dumbass grin on your face, and you waited till I finally realized you had me fucked from the start."
+          },
+          {
+            "stringId": "1621107625594216448",
+            "femaleVariant": "Gonna pretend I didn't hear that."
+          },
+          {
+            "stringId": "1621119726798790656",
+            "femaleVariant": "Alt, question. Will the body reject Johnny's construct?"
+          },
+          {
+            "stringId": "1621127958942474240",
+            "femaleVariant": "Alt, c'mon. There's gotta be a way outta this."
+          },
+          {
+            "stringId": "1621129602841206784",
+            "femaleVariant": "Your body will see you as an intruder."
+          },
+          {
+            "stringId": "1621131752908546048",
+            "femaleVariant": "But it's my body!"
+          },
+          {
+            "stringId": "1621206250374586368",
+            "femaleVariant": "The biochip's nanites have altered it permanently. The body is now Johnny."
+          },
+          {
+            "stringId": "1621208264395481088",
+            "femaleVariant": "No. They are compatible. The body is his."
+          },
+          {
+            "stringId": "1621209178283991040",
+            "femaleVariant": "Alt, give us a minute. V and I need to talk."
+          },
+          {
+            "stringId": "1621209661501366272",
+            "femaleVariant": "That's enough, Alt. V and I need a minute."
+          },
+          {
+            "stringId": "1621215295860924416",
+            "femaleVariant": "Where's she even gonna take you?"
+          },
+          {
+            "stringId": "1621219335697096704",
+            "femaleVariant": "Beyond the Blackwall, to become part of her. Whatever the hell that means."
+          },
+          {
+            "stringId": "1641657112276262916",
+            "femaleVariant": "We must have other options."
+          },
+          {
+            "stringId": "1641657372155338752",
+            "femaleVariant": "It's dangerous beyond the Blackwall."
+          },
+          {
+            "stringId": "1641659454979596288",
+            "femaleVariant": "What's it like, beyond the Blackwall?"
+          },
+          {
+            "stringId": "1641660023962099712",
+            "femaleVariant": "Assuming I don't lose my fuckin' mind, at least no one can ride my ass there."
+          },
+          {
+            "stringId": "1641660120129101824",
+            "femaleVariant": "What about hangin' around as a construct? Just till we find another way?"
+          },
+          {
+            "stringId": "1641660287901261824",
+            "femaleVariant": "Finding another way would mean makin' a deal with 'Saka. I'll pass."
+          },
+          {
+            "stringId": "1641663157274959872",
+            "femaleVariant": "Is there really no other way?"
+          },
+          {
+            "stringId": "1641663900203638784",
+            "femaleVariant": "As I said, Johnny can retain the body, remain there, while you come with me."
+          },
+          {
+            "stringId": "1641666190662721536",
+            "femaleVariant": "Guess I meant, I dunno, a... a happier ending for everyone involved.",
+            "maleVariant": "Guess I meant, I dunno... a happier ending... for everyone involved."
+          },
+          {
+            "stringId": "1641669210125393920",
+            "femaleVariant": "Yet the right to make a choice you have earned, through will and endeavor."
+          },
+          {
+            "stringId": "1641713819081793536",
+            "femaleVariant": "Here, for folks like us? Wrong city, wrong people."
+          },
+          {
+            "stringId": "1641823664598441988",
+            "femaleVariant": "[Grab shoulder] Hey, V."
+          },
+          {
+            "stringId": "1641859433337741312",
+            "femaleVariant": "[Grab shoulder] Admit I was right. Told you I'd handle it."
+          },
+          {
+            "stringId": "1641862034510864384",
+            "femaleVariant": "Hey, V. Happy to see me?"
+          },
+          {
+            "stringId": "1641862117256093696",
+            "femaleVariant": "Looks like I was right again. Told ya I'd handle it."
+          },
+          {
+            "stringId": "1641862360542502916",
+            "femaleVariant": "Rogue's gone."
+          },
+          {
+            "stringId": "1641862743029473280",
+            "femaleVariant": "Had to hack my way through a jungle."
+          },
+          {
+            "stringId": "1641864580805713920",
+            "femaleVariant": "Rogue's dead. Smasher was there."
+          },
+          {
+            "stringId": "1641864652947742720",
+            "femaleVariant": "You know 'Saka planted a fuckin' jungle on the top floors of its HQ? Had to hack my way through it with a machete to get here."
+          },
+          {
+            "stringId": "1641864722841624576",
+            "femaleVariant": "Shame you couldn't watch. It was my magnum opus. You'da loved it."
+          },
+          {
+            "stringId": "1641864841691422724",
+            "femaleVariant": "Hey, Alt? Where are you?"
+          },
+          {
+            "stringId": "1641864962487377920",
+            "femaleVariant": "Alt? Gonna show yourself? Say \"hi,\" maybe?"
+          },
+          {
+            "stringId": "1641865028757381120",
+            "femaleVariant": "Soulkiller – we can't feel it doin' its thing. How come? Should be pissin' our panties in pain right now."
+          },
+          {
+            "stringId": "1641865103969640448",
+            "femaleVariant": "You'll be all right. I mean, look, you made it this far."
+          },
+          {
+            "stringId": "1641922592996089856",
+            "femaleVariant": "\"Of restless nights in one-night cheap hotels\""
+          },
+          {
+            "stringId": "1641924090983374848",
+            "femaleVariant": "\"And sawdust restaurants and oyster-shells,\""
+          },
+          {
+            "stringId": "1641924280867905536",
+            "femaleVariant": "\"Streets that follow like a tedious argument\""
+          },
+          {
+            "stringId": "1641924587907735552",
+            "femaleVariant": "\"Of insidious intent\""
+          },
+          {
+            "stringId": "1641924750361518080",
+            "femaleVariant": "\"To lead you to an overwhelming question...\""
+          },
+          {
+            "stringId": "1641924988044337152",
+            "femaleVariant": "\"Oh, do not ask,\" 'What is it?'\""
+          },
+          {
+            "stringId": "1641925214821965824",
+            "femaleVariant": "\"Let us go and make our visit.\""
+          },
+          {
+            "stringId": "1641974991999754240",
+            "femaleVariant": "Good to see you too, Johnny."
+          },
+          {
+            "stringId": "1641975177102778368",
+            "femaleVariant": "You see any of what went down?"
+          },
+          {
+            "stringId": "1641975443608854528",
+            "femaleVariant": "No, but that's probably for the best.",
+            "maleVariant": "Nope, but that's prolly for the best."
+          },
+          {
+            "stringId": "1641978028491300864",
+            "femaleVariant": "Not exactly. Blacked out, then woke up here. I miss anything?"
+          },
+          {
+            "stringId": "1641980741753004032",
+            "femaleVariant": "I'm sorry..."
+          },
+          {
+            "stringId": "1641980896942252032",
+            "femaleVariant": "Shouldn't be. Died for me, not for you."
+          },
+          {
+            "stringId": "1641982944383361024",
+            "femaleVariant": "Is my body still in one piece?"
+          },
+          {
+            "stringId": "1641983276303802368",
+            "femaleVariant": "Parked it in Arasaka Tower's basement, plugged it into the network."
+          },
+          {
+            "stringId": "1641987335970643968",
+            "femaleVariant": "Missed my greatest performance."
+          },
+          {
+            "stringId": "1641991886354276352",
+            "femaleVariant": "Johnny, been waiting here I dunno how long and my nerves are frayed. Tell me if my body's in one piece.",
+            "maleVariant": "Johnny, been waitin' here I dunno how long and my nerves are frayed. Tell me if my body's in one piece."
+          },
+          {
+            "stringId": "1641992209886109696",
+            "femaleVariant": "Yeah, yeah, it's fine. Not counting some leeches and a few hundred mosquito bites."
+          },
+          {
+            "stringId": "1641994196107157504",
+            "femaleVariant": "Mean yours and Rogue's, don’t ya?"
+          },
+          {
+            "stringId": "1641994563830177792",
+            "femaleVariant": "Rogue's dead."
+          },
+          {
+            "stringId": "1641999187765125120",
+            "femaleVariant": "Incidentally, you could stand to gain some muscle mass. Just sayin'."
+          },
+          {
+            "stringId": "1642000632065318912",
+            "femaleVariant": "I'm sorry."
+          },
+          {
+            "stringId": "1642007580013780992",
+            "femaleVariant": "Lemme add that to my to-do list for my next life. Right now, waitin' for your output to finish gutting my soul."
+          },
+          {
+            "stringId": "1642011775307636736",
+            "femaleVariant": "'Fraid things're pretty shit for me, too. Alt's hittin' me with Soulkiller, my nerves are in shreds.",
+            "maleVariant": "'Fraid things're pretty fucked for me, too. Alt's hittin' me with Soulkiller, my nerves are in shreds."
+          },
+          {
+            "stringId": "1642014732677832704",
+            "femaleVariant": "Heh, figured as much. Your output's been torchin' my brain with Soulkiller for a good while now.",
+            "maleVariant": "Figured as much. Your output's been torchin' my brain with Soulkiller for a good while now."
+          },
+          {
+            "stringId": "1642874357111349248",
+            "femaleVariant": "You'll be all right."
+          },
+          {
+            "stringId": "1642875040850010112",
+            "femaleVariant": "So, we at the finish line? It's all in Alt's hands now?"
+          },
+          {
+            "stringId": "1642878349031792640",
+            "femaleVariant": "I'm an engram now, a construct. Fuck."
+          },
+          {
+            "stringId": "1642897862074851328",
+            "femaleVariant": "Yeah, well, welcome to the club. Hey, Alt! You here?"
+          },
+          {
+            "stringId": "1642898586296934400",
+            "femaleVariant": "Told me she's finishing the checksum, then she'll copy me back over into my flesh."
+          },
+          {
+            "stringId": "1642900439977975808",
+            "femaleVariant": "Awareness of what's happening right now – that just raunches."
+          },
+          {
+            "stringId": "1642903125523718144",
+            "femaleVariant": "Like, Alt neatly packed me into an engram. Couldn't even tell when... or how."
+          },
+          {
+            "stringId": "1642904698454827008",
+            "femaleVariant": "Guess Alt's gonna start moving this digital psyche I am back into my flesh, but... got no idea if I'll survive or what I'll be if I do."
+          },
+          {
+            "stringId": "1642907399167172612",
+            "femaleVariant": "So, this'd be... the end."
+          },
+          {
+            "stringId": "1642907519627583488",
+            "femaleVariant": "Soulkiller – why can't we feel it working?"
+          },
+          {
+            "stringId": "1642915808159490048",
+            "femaleVariant": "Digital analgesia. We're data streams, certain sensation inputs can be blocked blah blah yadda yadda.",
+            "maleVariant": "Digital analgesia. We're data streams, certain sensations' inputs can be blocked blah blah blah yadda yadda."
+          },
+          {
+            "stringId": "1642918717966278656",
+            "femaleVariant": "Alt make ya suffer through an exhaustive lecture?"
+          },
+          {
+            "stringId": "1642919278375624704",
+            "femaleVariant": "Imparted it instantly. Whatever. She did say she'd destroy Mikoshi... just as you agreed."
+          },
+          {
+            "stringId": "1642925685225316352",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "1642925848819949568",
+            "femaleVariant": "I made a mistake in excluding the body as a factor."
+          },
+          {
+            "stringId": "1642948984902803456",
+            "femaleVariant": "What the-- Alt?"
+          },
+          {
+            "stringId": "1642950347548286976",
+            "femaleVariant": "DNA reconfiguration has progressed too far. Added to aggressive, invasive medications, the body's immune system attacking its own neurons…"
+          },
+          {
+            "stringId": "1642950952400478208",
+            "femaleVariant": "Spit it out! In human terms!"
+          },
+          {
+            "stringId": "1642963105429872640",
+            "femaleVariant": "V will die independent of what I do. This is inevitable. This is imminent."
+          },
+          {
+            "stringId": "1642964428397240324",
+            "femaleVariant": "Alt! For fuck's sake!"
+          },
+          {
+            "stringId": "1642964634773774336",
+            "femaleVariant": "For fuck's sake, Alt, you had one job and you fucked it up?!"
+          },
+          {
+            "stringId": "1642964752767934468",
+            "femaleVariant": "Alt, there's gotta be a way."
+          },
+          {
+            "stringId": "1642965549400481792",
+            "femaleVariant": "This never had a chance to end well."
+          },
+          {
+            "stringId": "1642966102494961664",
+            "femaleVariant": "Check again."
+          },
+          {
+            "stringId": "1642966237551550464",
+            "femaleVariant": "Fuck..."
+          },
+          {
+            "stringId": "1642970357968691200",
+            "femaleVariant": "This couldn't end well, we never stood a chance... dunno why we even fuckin' tried."
+          },
+          {
+            "stringId": "1642970459974164480",
+            "femaleVariant": "Check again! If V's engram is damaged, can't you fix her?",
+            "maleVariant": "Check again! If V's engram is damaged, can't you fix him?"
+          },
+          {
+            "stringId": "1642970623837233152",
+            "femaleVariant": "Fuck..."
+          },
+          {
+            "stringId": "1642973829778661376",
+            "femaleVariant": "I could not know the situation before conducting a thorough and precise diagnosis."
+          },
+          {
+            "stringId": "1642979343241601024",
+            "femaleVariant": "You promised this poor little shit a new life and you lied! You fuckin' lied!"
+          },
+          {
+            "stringId": "1643017467200036864",
+            "femaleVariant": "Johnny, shut it for two seconds, will ya? Gotta think!"
+          },
+          {
+            "stringId": "1643023076343439360",
+            "femaleVariant": "'Cause it's life, it's death, it's the struggle. The hell else we s'posed to fight for?",
+            "maleVariant": "Cause it's life, it's death, it's the struggle. The hell else we supposed to fight for?"
+          },
+          {
+            "stringId": "1643023693476552704",
+            "femaleVariant": "Alt, check again. Parse it all. We gotta be sure."
+          },
+          {
+            "stringId": "1643024488196497408",
+            "femaleVariant": "You have approximately six months to live."
+          },
+          {
+            "stringId": "1643025297143521280",
+            "femaleVariant": "OK, OK, j-just shut the fuck up. I n-need to think!"
+          },
+          {
+            "stringId": "1643026129360543744",
+            "femaleVariant": "Hardware – therein lies the problem. The organism's neurons have been dying for a time. Any attempt at a procedure upon its brain would result in the latter's death."
+          },
+          {
+            "stringId": "1643029999696502784",
+            "femaleVariant": "You're a fucking genius! Think of something!"
+          },
+          {
+            "stringId": "1643031817826623488",
+            "femaleVariant": "Enough, Johnny! Shut up! I need to think!"
+          },
+          {
+            "stringId": "1643034018527600640",
+            "femaleVariant": "Couldn'ta said it better myself."
+          },
+          {
+            "stringId": "1643062842120232960",
+            "femaleVariant": "What the hell? What now?"
+          },
+          {
+            "stringId": "1643063009305190400",
+            "femaleVariant": "Lemme... lemme think.",
+            "maleVariant": "OK, lemme... lemme think."
+          },
+          {
+            "stringId": "1643076779037450240",
+            "femaleVariant": "V, we'll think of a way."
+          },
+          {
+            "stringId": "1643077156323483648",
+            "femaleVariant": "Gonna be all right, V. We'll think of somethin'."
+          },
+          {
+            "stringId": "1643078430787919872",
+            "femaleVariant": "The biochip has irreversibly changed the host organism. It no longer belongs to V, who is an intruder there."
+          },
+          {
+            "stringId": "1643079494496968704",
+            "femaleVariant": "The situation is different for you. All changes were made to accomodate you."
+          },
+          {
+            "stringId": "1643351850872233984",
+            "femaleVariant": "Hang on, tellin' your ex to kick me outta my own body?"
+          },
+          {
+            "stringId": "1643354874210443264",
+            "femaleVariant": "I said, gimme one fuckin' minute!"
+          },
+          {
+            "stringId": "1643362650735271936",
+            "femaleVariant": "The changes are irreversible. You have nothing left to lose, he has everything to gain."
+          },
+          {
+            "stringId": "1643363917264084996",
+            "femaleVariant": "Give us a sec, Alt."
+          },
+          {
+            "stringId": "1643370938143105024",
+            "femaleVariant": "V, not doing that to you, no way."
+          },
+          {
+            "stringId": "1643371213574660096",
+            "femaleVariant": "Gotta admit, sounds reasonable, what Alt's saying."
+          },
+          {
+            "stringId": "1643372574005551104",
+            "femaleVariant": "Alt, give us a minute."
+          },
+          {
+            "stringId": "1643372683627880448",
+            "femaleVariant": "Got zero intentions of doin' you wrong. We made a deal, I'm stickin' to it."
+          },
+          {
+            "stringId": "1643372804709048320",
+            "femaleVariant": "Y'know, Alt might have a point. Your luck's run out, mine hasn't just yet."
+          },
+          {
+            "stringId": "1643374532527415296",
+            "femaleVariant": "You're my friend, V. I'd never pull that on you, never do you wrong."
+          },
+          {
+            "stringId": "1643396659645276160",
+            "femaleVariant": "I'd hope so."
+          },
+          {
+            "stringId": "1643424855367376896",
+            "femaleVariant": "Know what? I couldn't give a pig's prick what you think."
+          },
+          {
+            "stringId": "1643425398647185408",
+            "femaleVariant": "What the hell for, so you can trick me into agreeing? Giving you a free pass, even though you can already do what you want with my body?",
+            "maleVariant": "What the hell for, so you can trick me into agreeing? Givin' you a free pass, even though you can already do what you want with my body?"
+          },
+          {
+            "stringId": "1643429793589911552",
+            "femaleVariant": "Are you fucking kidding me?"
+          },
+          {
+            "stringId": "1643431393381343236",
+            "femaleVariant": "Never. You're my friend."
+          },
+          {
+            "stringId": "1643431523723534340",
+            "femaleVariant": "Let's think about what to do."
+          },
+          {
+            "stringId": "1643432304937820160",
+            "femaleVariant": "Let's talk this out calmly."
+          },
+          {
+            "stringId": "1643433081756475392",
+            "femaleVariant": "I don't give a shit what you think."
+          },
+          {
+            "stringId": "1643434390983303168",
+            "femaleVariant": "I just wanna discuss our options. Calmly."
+          },
+          {
+            "stringId": "1643436748819685376",
+            "femaleVariant": "There are no options, you two-faced sack of shit! You're out, I'm in – that was the deal!"
+          },
+          {
+            "stringId": "1643438723011469312",
+            "femaleVariant": "Actually – know what? No!"
+          },
+          {
+            "stringId": "1643460563557703680",
+            "femaleVariant": "Let's just think a sec... about what to do."
+          },
+          {
+            "stringId": "1643461585877360640",
+            "femaleVariant": "Right, OK. If that's what you want..."
+          },
+          {
+            "stringId": "1643467113030508544",
+            "femaleVariant": "I stay. You fuck off. That's the deal."
+          },
+          {
+            "stringId": "1653371859384164352",
+            "femaleVariant": "Never thought I'd actually come to like you, but I have. I really do now."
+          },
+          {
+            "stringId": "1653371962530488320",
+            "femaleVariant": "Listen, Johnny... I'm glad we met, got to know each other. And I'm sorry."
+          },
+          {
+            "stringId": "1653374958656053248",
+            "femaleVariant": "If I only could, I'd turn back time. To that moment I got my hands on the fucking chip.",
+            "maleVariant": "If I only could, I'd turn back time. To that moment I got my hands on the fuckin' chip."
+          },
+          {
+            "stringId": "1653375850415415296",
+            "femaleVariant": "I will not interfere in your personal affairs, but while Johnny has full control, he can do what he wishes."
+          },
+          {
+            "stringId": "1653390049610850304",
+            "femaleVariant": "I don't wanna die. Who does? But I just don't see a way out..."
+          },
+          {
+            "stringId": "1653400501363433472",
+            "femaleVariant": "Johnny... I'm sorry."
+          },
+          {
+            "stringId": "1653429989837135872",
+            "femaleVariant": "Enough. Could honestly talk in circles till the goddamn sun implodes."
+          },
+          {
+            "stringId": "1653430133634654208",
+            "femaleVariant": "OK, easy... Think too big a dose of Silverhand wound up in my blood. Need to chill."
+          },
+          {
+            "stringId": "1653489018022158336",
+            "femaleVariant": "But I told you once already and haven't changed my mind."
+          },
+          {
+            "stringId": "1653493017844670464",
+            "femaleVariant": "Still got a life to live, so you should go..."
+          },
+          {
+            "stringId": "1653495058860105728",
+            "femaleVariant": "Listen, if I had to choose who to hole up with on a desert island, it wouldn't be you. Ever. Hell, the whole cast of \"Little Big Corporats\" would have you beat."
+          },
+          {
+            "stringId": "1653496647461134336",
+            "femaleVariant": "'Cause you're a dickhead, in a big way. And sure, plenty of others out there are more deserving of life. But even so... I'd never wish you dead.",
+            "maleVariant": "'Cause you're a dickhead, in a big way. And sure, plenty of others out there're more deservin' of life. But even so... I'd never wish you dead."
+          },
+          {
+            "stringId": "1653502680363458560",
+            "femaleVariant": "Seeing as how I'm doomed to die, we stick to the plan I gave you – I leave, you stay. Keys to my body are yours.",
+            "maleVariant": "Seein' as how I'm doomed to die, we stick to the plan I gave you – I leave, you stay. Keys to my body are yours."
+          },
+          {
+            "stringId": "1653511407602786304",
+            "femaleVariant": "Goin' with Alt, you live on."
+          },
+          {
+            "stringId": "1653521288711921668",
+            "femaleVariant": "Goin' with Alt, you live on."
+          },
+          {
+            "stringId": "1653524704334995456",
+            "femaleVariant": "I wanna live."
+          },
+          {
+            "stringId": "1653526900472569856",
+            "femaleVariant": "Not ready to die yet."
+          },
+          {
+            "stringId": "1653527921953366016",
+            "femaleVariant": "No... It's gonna be me."
+          },
+          {
+            "stringId": "1653528011157823488",
+            "femaleVariant": "OK, yeah... Can't say I wasn't hoping you would say that."
+          },
+          {
+            "stringId": "1653530198604800000",
+            "femaleVariant": "So, what do I do, Alt?"
+          },
+          {
+            "stringId": "1653530994549481472",
+            "femaleVariant": "Simply cross the bridge."
+          },
+          {
+            "stringId": "1653531361232314368",
+            "femaleVariant": "Johnny..."
+          },
+          {
+            "stringId": "1653538403703611392",
+            "femaleVariant": "Don't make this any harder, eh? Just... don't forget I came 'round."
+          },
+          {
+            "stringId": "1653547949469753344",
+            "femaleVariant": "What do I do, Alt?"
+          },
+          {
+            "stringId": "1653548226646138880",
+            "femaleVariant": "Simply enter the well."
+          },
+          {
+            "stringId": "1653551500652732416",
+            "femaleVariant": "If you're not ready to die, then... you're gonna live."
+          },
+          {
+            "stringId": "1653552719819464704",
+            "femaleVariant": "Yeah, I... wouldn't mind hangin' around a while longer."
+          },
+          {
+            "stringId": "1794218460058247168",
+            "femaleVariant": "You should come with me."
+          },
+          {
+            "stringId": "1794221177967239168",
+            "femaleVariant": "Beyond the Blackwall dangers lurk, it is no sanctuary. But it's better to be a free spirit shredded than to wither, trapped in a dying body."
+          },
+          {
+            "stringId": "1794247447362953216",
+            "femaleVariant": "Who was right, you cranky bastard?"
+          },
+          {
+            "stringId": "1794248095684911104",
+            "femaleVariant": "Hah. You were right, V. You were."
+          },
+          {
+            "stringId": "1794249595953897472",
+            "femaleVariant": "Hohoh… And who just ate their words?",
+            "maleVariant": "Heheh… And who just ate their words?"
+          },
+          {
+            "stringId": "1794250604214247424",
+            "femaleVariant": "Oh, fuck off."
+          },
+          {
+            "stringId": "1794256569806381060",
+            "femaleVariant": "[Grab shoulder] I did it! It's all come together!"
+          },
+          {
+            "stringId": "1794259944157503488",
+            "femaleVariant": "[Grab shoulder] Ready to get outta my head?"
+          },
+          {
+            "stringId": "1794260010142294016",
+            "femaleVariant": "It worked! I'm gonna fuckin' live!"
+          },
+          {
+            "stringId": "1794260087636254720",
+            "femaleVariant": "Hey, Johnny."
+          },
+          {
+            "stringId": "1794990577284571136",
+            "femaleVariant": "All packed, you washout? Got your one-way ticket?"
+          },
+          {
+            "stringId": "1794990952372789248",
+            "femaleVariant": "This funny to you?"
+          },
+          {
+            "stringId": "1794993921705140224",
+            "femaleVariant": "Y'know, discovered one nice thing about becomin' Johnny Silverhand. You stop givin' the slimmest shit about Johnny Silverhand."
+          },
+          {
+            "stringId": "1794998261601820672",
+            "femaleVariant": "That right? This mean you've already decided what comes next?"
+          },
+          {
+            "stringId": "1794999813410414592",
+            "femaleVariant": "Gotta admit, you cobbled together a good plan."
+          },
+          {
+            "stringId": "1794999979051868160",
+            "femaleVariant": "Been my curse and my nightmare, Johnny, but I do owe you one thing."
+          },
+          {
+            "stringId": "1795000765769080836",
+            "femaleVariant": "I'm kickin' your ass out."
+          },
+          {
+            "stringId": "1795001761211637760",
+            "femaleVariant": "Want a word with Alt first."
+          },
+          {
+            "stringId": "1795002268554649600",
+            "femaleVariant": "Johnny, not gonna lie. But you'd best prepare your ass for the fuckin' kick of the century."
+          },
+          {
+            "stringId": "1795002352759496704",
+            "femaleVariant": "Want a word with Alt first. Where is the wench?"
+          },
+          {
+            "stringId": "1795004619831140352",
+            "femaleVariant": "Day to day, with Silverhand by my side, I learned to kick down barriers. Now, nothin' can hold me back. I can feel it."
+          },
+          {
+            "stringId": "1795010939707744256",
+            "femaleVariant": "Got no idea where you'll land after it, but sure hope it'll be far away from me."
+          },
+          {
+            "stringId": "1795013515866038272",
+            "femaleVariant": "Is that so? Meanin' you've made a decision about us?"
+          },
+          {
+            "stringId": "1795014694046031872",
+            "femaleVariant": "Alt? Alt! You here?"
+          },
+          {
+            "stringId": "1841474302897577984",
+            "femaleVariant": "You two still plan to obliterate Mikoshi?"
+          },
+          {
+            "stringId": "1841474395105157120",
+            "femaleVariant": "Still plan to destroy Mikoshi?"
+          },
+          {
+            "stringId": "1841525585780170752",
+            "femaleVariant": "Mhm. It's gotta burn."
+          },
+          {
+            "stringId": "1841526234337009664",
+            "femaleVariant": "What about everyone locked away there?"
+          },
+          {
+            "stringId": "1841526508376055808",
+            "femaleVariant": "I will free them, take them with me."
+          },
+          {
+            "stringId": "1841526697656606720",
+            "femaleVariant": "Cut the crap. You'll gobble 'em up like so many morsels of code, make 'em part of you."
+          },
+          {
+            "stringId": "1841527220015226880",
+            "femaleVariant": "As if they could hope for anything better. C'mon..."
+          },
+          {
+            "stringId": "1841552654677336064",
+            "femaleVariant": "But I do... even though it's simple. Not ready to die yet, Johnny, I wanna live. Exactly nothing's changed since that time we talked at the Pistis Sophia."
+          },
+          {
+            "stringId": "1841553552895926272",
+            "femaleVariant": "Don't need to explain, V."
+          },
+          {
+            "stringId": "1842091699329327104",
+            "femaleVariant": "We'll find a way."
+          },
+          {
+            "stringId": "1842091868678545408",
+            "femaleVariant": "No, Johnny, we won't. We're outta options. And I don't have the strength to keep fighting.",
+            "maleVariant": "No, Johnny, we won't. We're out of options. And I don't have the strength to keep fighting."
+          },
+          {
+            "stringId": "1842092378940792832",
+            "femaleVariant": "Remember what I told you? When we talked at the Pistis Sophia."
+          },
+          {
+            "stringId": "1842093328698990592",
+            "femaleVariant": "Yeah. Said you'd take a bullet for me."
+          },
+          {
+            "stringId": "1842093676574564352",
+            "femaleVariant": "Uh-huh. And I haven't changed my mind. But this bullet's aimed my way, so I just gotta make sure I don't drag you down into the grave with me.",
+            "maleVariant": "Yeah. And I haven't changed my mind. But this bullet's aimed my way, so I just gotta make sure I don't drag you down into the grave with me."
+          },
+          {
+            "stringId": "1842116069779070976",
+            "femaleVariant": "Just promise me one thing, asshole."
+          },
+          {
+            "stringId": "1842116385727602688",
+            "femaleVariant": "You won't forget me."
+          },
+          {
+            "stringId": "1842118104033288192",
+            "femaleVariant": "Gonna release all those poor bastards only to suck them into her own bosom, make them part of herself."
+          },
+          {
+            "stringId": "1847229071125667840",
+            "femaleVariant": "I told you... I said I wanted you to have my body."
+          },
+          {
+            "stringId": "1847229242135830528",
+            "femaleVariant": "What I told you at the Pistis Sophia – we stick to that."
+          },
+          {
+            "stringId": "1847234441982271488",
+            "femaleVariant": "But... but I can't do it... I'm sorry."
+          },
+          {
+            "stringId": "1847238033212465152",
+            "femaleVariant": "I'll go. You stay."
+          },
+          {
+            "stringId": "1856392885222006784",
+            "femaleVariant": "So whaddaya think? Like bein' a clump of ones and zeros?"
+          },
+          {
+            "stringId": "1856394634565541888",
+            "femaleVariant": "At first, the phantom pain... Jesus. Felt like my whole body was on fire. Realize now it's not pain at all, just some digital simulacrum.",
+            "maleVariant": "At first, the phantom pain... Jesus. Felt like my whole body was on fire. Realize now it's not pain at all, it's just some digital simulacrum."
+          },
+          {
+            "stringId": "1856461551397527552",
+            "femaleVariant": "Didn't think life was worth clinging to. Not at any price, anyway."
+          },
+          {
+            "stringId": "1856462016831053824",
+            "femaleVariant": "Death is better than some digital afterlife."
+          },
+          {
+            "stringId": "1856463194188963840",
+            "femaleVariant": "That light gives me hope."
+          },
+          {
+            "stringId": "1856464944505577472",
+            "femaleVariant": "Jesus, to be a shapeless shadow in a digital afterlife... Really think I'd rather die."
+          },
+          {
+            "stringId": "1856472821089722368",
+            "femaleVariant": "It is freedom from the body's limitations, from the base worries of life in the world. It is a new perspective on all."
+          },
+          {
+            "stringId": "1856474998352928768",
+            "femaleVariant": "No, be left with fading memories... of sharing a bed, headsplitting hangovers, sea breeze on my face, sun's heat on my shoulders... No."
+          },
+          {
+            "stringId": "1856483126897303552",
+            "femaleVariant": "'Cause it ain't."
+          },
+          {
+            "stringId": "1856483327653470208",
+            "femaleVariant": "Wrong. That light beyond the Blackwall, see? That's hope."
+          },
+          {
+            "stringId": "1856483911248928768",
+            "femaleVariant": "Could be the flames of hell or heaven's grace. Might also be an engram reading code. But it's a promise of survival."
+          },
+          {
+            "stringId": "1856487794956328960",
+            "femaleVariant": "We've learned how to turn into pure data, but an animal still prowls inside us. And its instinct to survive almost can't be extinguished."
+          },
+          {
+            "stringId": "1856500415180857344",
+            "femaleVariant": "So take back your life – the six months you got left."
+          },
+          {
+            "stringId": "1856502673293467648",
+            "femaleVariant": "Yeah, that instinct's part of being human – but so is denying it."
+          },
+          {
+            "stringId": "1856507522546425856",
+            "femaleVariant": "Don't do it, V. You been runnin' from this all along. It'll change you. You won't be you anymore."
+          },
+          {
+            "stringId": "1856509865987956736",
+            "femaleVariant": "And you?"
+          },
+          {
+            "stringId": "1856509987085901824",
+            "femaleVariant": "Already took that first step a while back. I'll have an easier go of it."
+          },
+          {
+            "stringId": "1857404636776390656",
+            "femaleVariant": "\"Once out of nature I shall never take\""
+          },
+          {
+            "stringId": "1857512663944814592",
+            "femaleVariant": "\"My bodily form from any natural thing,\""
+          },
+          {
+            "stringId": "1857513137666285568",
+            "femaleVariant": "\"But such a form as Grecian goldsmiths make\""
+          },
+          {
+            "stringId": "1857513681533296640",
+            "femaleVariant": "\"Of hammered gold and gold enamelling\""
+          },
+          {
+            "stringId": "1857514067811917824",
+            "femaleVariant": "\"To keep a drowsy Emperor awake;\""
+          },
+          {
+            "stringId": "1857514417868529664",
+            "femaleVariant": "\"Or set upon a golden bough to sing\""
+          },
+          {
+            "stringId": "1857514742121783296",
+            "femaleVariant": "\"To lords and ladies of Byzantium\""
+          },
+          {
+            "stringId": "1857515205156167680",
+            "femaleVariant": "\"Of what is past, or passing, or to come.\""
+          },
+          {
+            "stringId": "1977670592827514884",
+            "femaleVariant": "Wanna live out whatever life I got left."
+          },
+          {
+            "stringId": "1977670887502536704",
+            "femaleVariant": "Body's Johnny's. I'll go."
+          },
+          {
+            "stringId": "1978305283062521856",
+            "femaleVariant": "This bridge leads deeper into cyberspace. Cross it and permanently sever the connection with your body."
+          },
+          {
+            "stringId": "1978309258071531520",
+            "femaleVariant": "The path to your body passes through that mortal well."
+          },
+          {
+            "stringId": "1998454279565402116",
+            "femaleVariant": "Got no idea what I feel."
+          },
+          {
+            "stringId": "1998457480423333888",
+            "femaleVariant": "Not gonna mount a defense?"
+          },
+          {
+            "stringId": "1998462958989664260",
+            "femaleVariant": "Leave me alone."
+          },
+          {
+            "stringId": "1998467093214453764",
+            "femaleVariant": "It's my damned decision."
+          },
+          {
+            "stringId": "1998469834359889924",
+            "femaleVariant": "Just fuckin' tired."
+          },
+          {
+            "stringId": "1998471248125550596",
+            "femaleVariant": "G'bye, Johnny."
+          },
+          {
+            "stringId": "2005648545827971076",
+            "femaleVariant": "Don't forget me."
+          },
+          {
+            "stringId": "2005648796311805952",
+            "femaleVariant": "Don't forget me."
+          },
+          {
+            "stringId": "2005649440775004160",
+            "femaleVariant": "Don't forget me."
+          },
+          {
+            "stringId": "2051966680956592132",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "2052152305349484544",
+            "femaleVariant": "No need to explain."
+          },
+          {
+            "stringId": "2052152525516890112",
+            "femaleVariant": "No need to explain."
+          },
+          {
+            "stringId": "2075196780845916164",
+            "femaleVariant": "[Get up]"
+          },
+          {
+            "stringId": "2097994465474699264",
+            "femaleVariant": "[Enter well and return to body]"
+          },
+          {
+            "stringId": "2183730028185575424",
+            "femaleVariant": "[Punch Johnny]"
+          },
+          {
+            "stringId": "2237405700092686336",
+            "femaleVariant": "V's life will be restored as it was before. You will become part of something greater."
+          },
+          {
+            "stringId": "2237415086928261120",
+            "femaleVariant": "You will become a part of me as V's body and former life are restored."
+          },
+          {
+            "stringId": "2237420737813377024",
+            "femaleVariant": "You will be reborn in V's body while V becomes a part of me."
+          },
+          {
+            "stringId": "2237422223351967744",
+            "femaleVariant": "V's body will be yours, while V will become a part of me."
+          },
+          {
+            "stringId": "2260886521449377792",
+            "femaleVariant": "Johnny, my friend…"
+          },
+          {
+            "stringId": "2260890485200875520",
+            "femaleVariant": "Johnny..."
+          },
+          {
+            "stringId": "2260894926515826688",
+            "femaleVariant": "You lied to me, from the start…"
+          },
+          {
+            "stringId": "2260931149615689728",
+            "femaleVariant": "You lying sack of shit…"
+          },
+          {
+            "stringId": "2261057329849266176",
+            "femaleVariant": "Got nothing to go back to, Johnny. Not so for you."
+          },
+          {
+            "stringId": "2261067199365345280",
+            "femaleVariant": "Alt, take me, goin' with you."
+          },
+          {
+            "stringId": "2261069023300382720",
+            "femaleVariant": "Normal again, Johnny – that's what I wanna be."
+          },
+          {
+            "stringId": "2261073920787836928",
+            "femaleVariant": "Wanna live out whatever time I got left."
+          },
+          {
+            "stringId": "2262059776273117184",
+            "femaleVariant": "As a netrunner, you will find your way through a materially limitless world."
+          },
+          {
+            "stringId": "2265119068777705472",
+            "femaleVariant": "Remember me."
+          },
+          {
+            "stringId": "2265120448938602496",
+            "femaleVariant": "Don't forget me."
+          },
+          {
+            "stringId": "2265140371849048064",
+            "femaleVariant": "I won't… ever."
+          },
+          {
+            "stringId": "2837529247287533568",
+            "femaleVariant": "Goodbye, V."
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,268 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1350205065034645504",
+            "femaleVariant": "V, wake up!"
+          },
+          {
+            "stringId": "1350205757027696640",
+            "femaleVariant": "Yawen called! It worked, the cartoon! H-he's dreamin'!"
+          },
+          {
+            "stringId": "1360103195343503360",
+            "femaleVariant": "[Watch recording]"
+          },
+          {
+            "stringId": "1563326653576429568",
+            "femaleVariant": "No, I'll call the PD, get 'em out to the second farm."
+          },
+          {
+            "stringId": "1567513111711367168",
+            "femaleVariant": "Let this work…"
+          },
+          {
+            "stringId": "1679407983095681024",
+            "femaleVariant": "So we're down to two farms."
+          },
+          {
+            "stringId": "1679408655878819840",
+            "femaleVariant": "Which means we've got a coin toss, fifty-fifty chance of gettin' it right. Edgewood or Poppy?"
+          },
+          {
+            "stringId": "1679408903057543168",
+            "femaleVariant": "It's only two, but time is not on our side, River. We splittin' up?",
+            "maleVariant": "It's only two, but time's not on our side, River. We splittin' up?"
+          },
+          {
+            "stringId": "1679421789167390720",
+            "femaleVariant": "OK, so where do we sit now, exactly?"
+          },
+          {
+            "stringId": "1679444398311444480",
+            "femaleVariant": "Let's go with Edgewood. Got a strong feelin' about it."
+          },
+          {
+            "stringId": "1679445182965059584",
+            "femaleVariant": "Poppy's the better bet – voice in my gut says so."
+          },
+          {
+            "stringId": "1679446478283575296",
+            "femaleVariant": "OK, let's ride."
+          },
+          {
+            "stringId": "1679447094577827840",
+            "femaleVariant": "OK, then. Let's move."
+          },
+          {
+            "stringId": "1679454115893055488",
+            "femaleVariant": "Which narrows it down to Edgewood Farm. That's gotta be our place."
+          },
+          {
+            "stringId": "1679458085164257280",
+            "femaleVariant": "So... we've got it?"
+          },
+          {
+            "stringId": "1760648744553910272",
+            "femaleVariant": "I'll call, request a squad car for the second farm."
+          },
+          {
+            "stringId": "1775196635816660992",
+            "femaleVariant": "Not done sleeping...",
+            "maleVariant": "Not done sleepin'..."
+          },
+          {
+            "stringId": "1775200262950096896",
+            "femaleVariant": "You… You got the BD?"
+          },
+          {
+            "stringId": "1775200351953227776",
+            "femaleVariant": "Right here. Slot it in, jack into the computer. I wanna see it on the monitor."
+          },
+          {
+            "stringId": "1785277670864588800",
+            "femaleVariant": "Just hope we didn't fuck it up... C'mon, we gotta go."
+          },
+          {
+            "stringId": "1785303164515389440",
+            "femaleVariant": "Got a 10-33, I repeat, 10-33 on a farm east of the city!"
+          },
+          {
+            "stringId": "1785304687215513600",
+            "femaleVariant": "No, I... Well, yes... No, no I'm not... Well shit..."
+          },
+          {
+            "stringId": "1785305203953766400",
+            "femaleVariant": "\"No available units in your area,\" of course. Fuck... I just hope we picked right."
+          },
+          {
+            "stringId": "1841391996025049088",
+            "femaleVariant": "It's gotta work. Done more in two days than the NCPD accomplished in weeks."
+          },
+          {
+            "stringId": "1841392024026222592",
+            "femaleVariant": "Don't get distracted. Gotta focus on the road."
+          },
+          {
+            "stringId": "1841393104193720320",
+            "femaleVariant": "Not hard to do, but yeah, you're right. Thanks, V... for everything."
+          },
+          {
+            "stringId": "1841404259582742528",
+            "femaleVariant": "Yeah, easy for you to say. That's my nephew out there..."
+          },
+          {
+            "stringId": "1841412577575440384",
+            "femaleVariant": "Dammit! We're wastin' time!"
+          },
+          {
+            "stringId": "1841412984087384064",
+            "femaleVariant": "Fuckin' Peter Pan prick! He's a stiff when this is all over!"
+          },
+          {
+            "stringId": "1841413569008242688",
+            "femaleVariant": "I mean, God, how'd we pick the wrong farm?"
+          },
+          {
+            "stringId": "1841414027764436992",
+            "femaleVariant": "Too late for that now, River. Just hit the chooh."
+          },
+          {
+            "stringId": "1909813919306715136",
+            "femaleVariant": "Where was that farm? You sure you remember?"
+          },
+          {
+            "stringId": "1909814879953326080",
+            "femaleVariant": "Southeast of the city. Just a few miles out."
+          },
+          {
+            "stringId": "1914236583446286336",
+            "femaleVariant": "We know Harris still lives near an old school that's now under water."
+          },
+          {
+            "stringId": "1914244010837250048",
+            "femaleVariant": "You can see the NC skyline and the Us Cracks towers from the farm. It's a few miles out."
+          },
+          {
+            "stringId": "1914245645491736576",
+            "femaleVariant": "Farm's located near a landfill – we know that, too."
+          },
+          {
+            "stringId": "1914249298998956032",
+            "femaleVariant": "Those towers promoting the Us Cracks album – colors change regularly, once an hour. So we know the time."
+          },
+          {
+            "stringId": "1914253216260788224",
+            "femaleVariant": "Right, and that puts the farm east of the city. Southeast, actually."
+          },
+          {
+            "stringId": "1914257185666207744",
+            "femaleVariant": "Any farms not powered by solar panels are out."
+          },
+          {
+            "stringId": "1914260304919760896",
+            "femaleVariant": "Stamp on the NCFD certificate was from the southern region."
+          },
+          {
+            "stringId": "1914261593661607936",
+            "femaleVariant": "Farm model's a Petrochem design, so that eliminates any others."
+          },
+          {
+            "stringId": "1914264407955705856",
+            "femaleVariant": "Shipping code on the game Randy got from Harris traces out to the Badlands."
+          },
+          {
+            "stringId": "1914266149061627904",
+            "femaleVariant": "Harris's IP places him outside Night City, within a radius of a dozen miles or so."
+          },
+          {
+            "stringId": "1914341891966636032",
+            "femaleVariant": "Eleven at night."
+          },
+          {
+            "stringId": "1914368158677995520",
+            "femaleVariant": "Let's go!"
+          },
+          {
+            "stringId": "1918128413384609792",
+            "femaleVariant": "That doc of yours is quick. Not bad."
+          },
+          {
+            "stringId": "1927385320477659140",
+            "femaleVariant": "Dammit, V, sure hope you picked the right farm."
+          },
+          {
+            "stringId": "1996674663725740032",
+            "femaleVariant": "[Stand] Let's try Edgewood Farm."
+          },
+          {
+            "stringId": "1996674663725740048",
+            "femaleVariant": "[Stand] I vote Poppy Farm."
+          },
+          {
+            "stringId": "1996674666762416128",
+            "femaleVariant": "It's gotta work."
+          },
+          {
+            "stringId": "1996674666829525004",
+            "femaleVariant": "Focus or you'll lose it."
+          },
+          {
+            "stringId": "2005497436815101952",
+            "femaleVariant": "We'll find him, River."
+          },
+          {
+            "stringId": "2005499972104097792",
+            "femaleVariant": "Argh! If I'd only known sooner how he felt, what was eatin' at him…"
+          },
+          {
+            "stringId": "2005500861028110336",
+            "femaleVariant": "This isn't your fault."
+          },
+          {
+            "stringId": "2005501169745661952",
+            "femaleVariant": "I'm his uncle, V. And I wasn't there for him."
+          },
+          {
+            "stringId": "2005502319421165568",
+            "femaleVariant": "Fuck!"
+          },
+          {
+            "stringId": "2005512702622044160",
+            "femaleVariant": "Fuck…"
+          },
+          {
+            "stringId": "2005514122175844352",
+            "femaleVariant": "Hold on, Randy... Please hold on."
+          },
+          {
+            "stringId": "2005514165343621120",
+            "femaleVariant": "We're fucked... God dammit…"
+          },
+          {
+            "stringId": "2005518458482200576",
+            "femaleVariant": "Dammit…"
+          },
+          {
+            "stringId": "2329166852071841792",
+            "femaleVariant": "[Get in]"
+          }
+        ]
+      }
+
+
+

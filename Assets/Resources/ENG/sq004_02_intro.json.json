@@ -1,0 +1,680 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1373668961164292096",
+            "femaleVariant": "What do you think about all this?"
+          },
+          {
+            "stringId": "1373669418125324288",
+            "femaleVariant": "Whaddaya think? All that's going on?"
+          },
+          {
+            "stringId": "1373670452625240064",
+            "femaleVariant": "You in charge of the clan now?"
+          },
+          {
+            "stringId": "1373671351632359424",
+            "femaleVariant": "So, what? you're at the helm of the clan now?"
+          },
+          {
+            "stringId": "1477974923013877760",
+            "femaleVariant": "OK, how d'you wanna do this?",
+            "maleVariant": "OK, how you wanna do this?"
+          },
+          {
+            "stringId": "1477979634525892608",
+            "femaleVariant": "Mitch is already setting up the recon. You'll sneak into the Wraiths' camp while I cover you."
+          },
+          {
+            "stringId": "1479346674213941248",
+            "femaleVariant": "They found an abandoned cement plant to squat in. With a mass of heavy gear."
+          },
+          {
+            "stringId": "1479347624827777024",
+            "femaleVariant": "Locusts would be a better name for them. They fly into a place, strip it of all it's got, then move on. But this time…"
+          },
+          {
+            "stringId": "1479372057571323904",
+            "femaleVariant": "Do you see the wall? They've added some primitive security measures."
+          },
+          {
+            "stringId": "1479376254375129088",
+            "femaleVariant": "Tire tracks. Their vehicles were moving heavy freight."
+          },
+          {
+            "stringId": "1479391608077905920",
+            "femaleVariant": "If they haven't scrapped and gutted the place for parts, you could access the local cam-net. You would just need to find the control room."
+          },
+          {
+            "stringId": "1479407034358919168",
+            "femaleVariant": "The main building, there. Saul must be inside."
+          },
+          {
+            "stringId": "1479513216838889472",
+            "femaleVariant": "That's probably the one they kept Saul in."
+          },
+          {
+            "stringId": "1479527876250136576",
+            "femaleVariant": "Is everything clear?"
+          },
+          {
+            "stringId": "1675264653528031232",
+            "femaleVariant": "Quietly. An open assault would be suicide."
+          },
+          {
+            "stringId": "1695589754559422468",
+            "femaleVariant": "[End recon] Got somethin' to work with now."
+          },
+          {
+            "stringId": "1762000635137503232",
+            "femaleVariant": "Well I'll be... Panam and V. What's going on there?"
+          },
+          {
+            "stringId": "1763494413404876800",
+            "femaleVariant": "Hey, Panam! Seriously? You really aim to do this?"
+          },
+          {
+            "stringId": "1776170022476066820",
+            "femaleVariant": "Yeah, let's go get Saul."
+          },
+          {
+            "stringId": "1776187081431855104",
+            "femaleVariant": "Let's resummarize?"
+          },
+          {
+            "stringId": "1776189133855797248",
+            "femaleVariant": "Let's sum things up, just to be sure."
+          },
+          {
+            "stringId": "1776189518020489220",
+            "femaleVariant": "Yeah, 'course."
+          },
+          {
+            "stringId": "1776193869778661376",
+            "femaleVariant": "Perfect. Mitch, is the van primed?"
+          },
+          {
+            "stringId": "1776197513957748736",
+            "femaleVariant": "Going on my own. See you there."
+          },
+          {
+            "stringId": "1776201328408801280",
+            "femaleVariant": "OK, you take the wheel."
+          },
+          {
+            "stringId": "1776216527777968128",
+            "femaleVariant": "OK, just don't lose your way. Time is not our friend on this."
+          },
+          {
+            "stringId": "1782434844964433924",
+            "femaleVariant": "The skywalk – it connects the garage to the main structure."
+          },
+          {
+            "stringId": "1833024026031828992",
+            "femaleVariant": "That guard post is probably connected to the rest of the camp."
+          },
+          {
+            "stringId": "1885204108233814020",
+            "femaleVariant": "What are our chances?"
+          },
+          {
+            "stringId": "1885205295892934660",
+            "femaleVariant": "Not a fan of waiting, huh?"
+          },
+          {
+            "stringId": "1885206564569231360",
+            "femaleVariant": "How do ya see our chances?"
+          },
+          {
+            "stringId": "1885212122491793408",
+            "femaleVariant": "Looks like someone doesn't enjoy waiting patiently.",
+            "maleVariant": "Looks like someone doesn't enjoy waitin' patiently."
+          },
+          {
+            "stringId": "1886414753999167488",
+            "femaleVariant": "It points to them aiming to stay longer. The question is why. Who knows for sure, but I would guess that Saul is part of the reason."
+          },
+          {
+            "stringId": "1886416992515989504",
+            "femaleVariant": "If he's still there, we have to find a way inside."
+          },
+          {
+            "stringId": "1886419436151054336",
+            "femaleVariant": "Maybe, but there are also breaches in the wall, lightly guarded sections…"
+          },
+          {
+            "stringId": "1886426690350817280",
+            "femaleVariant": "Our way in?",
+            "maleVariant": "Our way in."
+          },
+          {
+            "stringId": "1886431474592063488",
+            "femaleVariant": "Quite a spread... Be like looking for a diamond in a hailstorm."
+          },
+          {
+            "stringId": "1886524568712847360",
+            "femaleVariant": "It could have been equipment... Either that or Saul's not their only prisoner."
+          },
+          {
+            "stringId": "1886532708195966976",
+            "femaleVariant": "Goin' alone. Meet you there."
+          },
+          {
+            "stringId": "1886534305605033984",
+            "femaleVariant": "Yeah, 'course I'm going with you."
+          },
+          {
+            "stringId": "1886535741281738752",
+            "femaleVariant": "Want me drivin'?"
+          },
+          {
+            "stringId": "1886535893484642304",
+            "femaleVariant": "Yep, I need to fiddle with my scope a bit."
+          },
+          {
+            "stringId": "1895260328319660036",
+            "femaleVariant": "V, it's good you're here."
+          },
+          {
+            "stringId": "1895260328336437248",
+            "femaleVariant": "We're chooms, that's why."
+          },
+          {
+            "stringId": "1895260328336437264",
+            "femaleVariant": "Nomads should help one another."
+          },
+          {
+            "stringId": "1895260328336437280",
+            "femaleVariant": "You can. Just not for free."
+          },
+          {
+            "stringId": "1895260328369991684",
+            "femaleVariant": "I could help you out."
+          },
+          {
+            "stringId": "1895260328369991696",
+            "femaleVariant": "There's a \"but\" attached to that."
+          },
+          {
+            "stringId": "1895260328369991708",
+            "femaleVariant": "Not for free."
+          },
+          {
+            "stringId": "1895260328369991720",
+            "femaleVariant": "I might have guessed. There never is anything free with you statics."
+          },
+          {
+            "stringId": "1895260328369991732",
+            "femaleVariant": "Fine. I will give you one of the best sniper rifles on the West Coast."
+          },
+          {
+            "stringId": "1895260328403546116",
+            "femaleVariant": "Belonged to a nomad family too once. City doesn't change us all that much, I guess."
+          },
+          {
+            "stringId": "1895260328403546136",
+            "femaleVariant": "That's hard to deny."
+          },
+          {
+            "stringId": "1895260328437100548",
+            "femaleVariant": "Always, Panam. You and me're chooms. Thought that was clear."
+          },
+          {
+            "stringId": "1895260328437100560",
+            "femaleVariant": "Careful, or I'll start believing that. You won't be able to get rid of me."
+          },
+          {
+            "stringId": "1895260328437100572",
+            "femaleVariant": "I'll survive, I'm sure."
+          },
+          {
+            "stringId": "1895260328571318276",
+            "femaleVariant": "What happened? Spit it out."
+          },
+          {
+            "stringId": "1895260328571318288",
+            "femaleVariant": "The Wraiths took Saul."
+          },
+          {
+            "stringId": "1895260328571318300",
+            "femaleVariant": "The brickbrain ventured out with a small patrol and never came back."
+          },
+          {
+            "stringId": "1895260328588095488",
+            "femaleVariant": "Sure it was Wraiths?"
+          },
+          {
+            "stringId": "1895260328588095500",
+            "femaleVariant": "We've been observing their camp. We know they're holding prisoners, including someone important."
+          },
+          {
+            "stringId": "1895260328588095512",
+            "femaleVariant": "I don't know why but... I felt I could count on you."
+          },
+          {
+            "stringId": "1895260328638427136",
+            "femaleVariant": "What happened?"
+          },
+          {
+            "stringId": "1895260328638427152",
+            "femaleVariant": "Back with the Aldecaldos?"
+          },
+          {
+            "stringId": "1895260328671981572",
+            "femaleVariant": "Had no idea you and the Aldecaldos had made up."
+          },
+          {
+            "stringId": "1895260328671981592",
+            "femaleVariant": "They continue to grind my gears something terrible."
+          },
+          {
+            "stringId": "1895260328671981604",
+            "femaleVariant": "But... y'know…"
+          },
+          {
+            "stringId": "1895260328671981616",
+            "femaleVariant": "They're family."
+          },
+          {
+            "stringId": "1895260328671981628",
+            "femaleVariant": "Exactly."
+          },
+          {
+            "stringId": "1895260328705536004",
+            "femaleVariant": "Whatever goodwill you might feel, I'm sure you won't turn down one of the best sniper rifles on the West Coast."
+          },
+          {
+            "stringId": "1895260328722313220",
+            "femaleVariant": "That and the gratitude of the 'Caldos."
+          },
+          {
+            "stringId": "1895260328755867652",
+            "femaleVariant": "Sounds fancy."
+          },
+          {
+            "stringId": "1895260328755867664",
+            "femaleVariant": "Once you have it in hand, \"fancy\" all of a sudden becomes \"kickass.\""
+          },
+          {
+            "stringId": "1895260328772644864",
+            "femaleVariant": "Let's go. Mitch will walk you through the details."
+          },
+          {
+            "stringId": "1896767284684070912",
+            "femaleVariant": "Where's Mitch? He was supposed to meet me here."
+          },
+          {
+            "stringId": "1896785700446871552",
+            "femaleVariant": "He'll be here any minute."
+          },
+          {
+            "stringId": "1896786388446945280",
+            "femaleVariant": "Huh, you never mentioned seeking outside help."
+          },
+          {
+            "stringId": "1897966859386167296",
+            "femaleVariant": "Leader got abducted and you're not about to do anything?"
+          },
+          {
+            "stringId": "1897967528478318592",
+            "femaleVariant": "Leader gets nabbed and you, what? Hope for the best?",
+            "maleVariant": "Your leader gets nabbed and you, what, hope for the best?"
+          },
+          {
+            "stringId": "1897968921289236480",
+            "femaleVariant": "Rather not think about what you'd do for the ones at the bottom of your food chain."
+          },
+          {
+            "stringId": "1897970372048658432",
+            "femaleVariant": "You're asking for trouble…"
+          },
+          {
+            "stringId": "1897971043489619968",
+            "femaleVariant": "Leave it. She has a right not to understand.",
+            "maleVariant": "Leave it. He has a right not to understand."
+          },
+          {
+            "stringId": "1897974085534425088",
+            "femaleVariant": "Look around! The last attacks left barely half of us standing! Our supplies are stuck outside goddamn Reno. And our gear... don't get me started!"
+          },
+          {
+            "stringId": "1897977340498878464",
+            "femaleVariant": "I floated a drone over the Wraiths' camp."
+          },
+          {
+            "stringId": "1897984564700979204",
+            "femaleVariant": "[Take shard] Lemme see."
+          },
+          {
+            "stringId": "1897991685622538240",
+            "femaleVariant": "Yep, let's go get Saul."
+          },
+          {
+            "stringId": "1897992473732259840",
+            "femaleVariant": "I did what I could. Take a tour."
+          },
+          {
+            "stringId": "1898034219606417408",
+            "femaleVariant": "How are you?"
+          },
+          {
+            "stringId": "1898034900409065472",
+            "femaleVariant": "Mitch, how ya been?"
+          },
+          {
+            "stringId": "1898051771913019392",
+            "femaleVariant": "Let's see what we got here."
+          },
+          {
+            "stringId": "1898053626164486144",
+            "femaleVariant": "We're up shit creek, static. And I don't know if we're ever going to find or fashion a paddle, try as we might."
+          },
+          {
+            "stringId": "1898180665022423040",
+            "femaleVariant": "We have live eyes on it. Will you take a look?"
+          },
+          {
+            "stringId": "1898195964635455488",
+            "femaleVariant": "Hey there, V."
+          },
+          {
+            "stringId": "1898200430713577472",
+            "femaleVariant": "Mhm. We wait and gather our strength."
+          },
+          {
+            "stringId": "1898202893223010308",
+            "femaleVariant": "Just us two? What about the rest?!"
+          },
+          {
+            "stringId": "1898203324246466560",
+            "femaleVariant": "Do it quiet, sure. Perfect for two."
+          },
+          {
+            "stringId": "1898203850413514752",
+            "femaleVariant": "Wait, meanin' it's just gonna be us two?"
+          },
+          {
+            "stringId": "1898203911130259456",
+            "femaleVariant": "Ah, goin' in quiet. Two's all you need.",
+            "maleVariant": "Goin' in quiet. Two's all you need."
+          },
+          {
+            "stringId": "1898206665345146880",
+            "femaleVariant": "What about all you guys?!"
+          },
+          {
+            "stringId": "1898212387147554816",
+            "femaleVariant": "So we do what Saul would want us to do."
+          },
+          {
+            "stringId": "1898274397382057984",
+            "femaleVariant": "It's not that I don't want to go, to serve some Raffens up some justice! It's just…"
+          },
+          {
+            "stringId": "1898293981761839104",
+            "femaleVariant": "Solid job."
+          },
+          {
+            "stringId": "1898380863749300224",
+            "femaleVariant": "We need to free Saul."
+          },
+          {
+            "stringId": "1902448430646370304",
+            "femaleVariant": "We can use all the help we can get."
+          },
+          {
+            "stringId": "1902451687087218692",
+            "femaleVariant": "[Lean on car] How we doin' this?"
+          },
+          {
+            "stringId": "1902452472244150276",
+            "femaleVariant": "[Lean on car] Some kind of problem?"
+          },
+          {
+            "stringId": "1902452735092793344",
+            "femaleVariant": "There a problem?",
+            "maleVariant": "Is there a problem?"
+          },
+          {
+            "stringId": "1902453756405817344",
+            "femaleVariant": "Just that if we're looking outside, we must be a hot mess inside."
+          },
+          {
+            "stringId": "1902454561863180288",
+            "femaleVariant": "That's why we'll go in quiet. A frontal assault would be suicide."
+          },
+          {
+            "stringId": "1902455021173022720",
+            "femaleVariant": "Mitch is already setting up recon. V will sneak into the Wraiths' camp, while I'll be her guardian rifle.",
+            "maleVariant": "Mitch is already setting up recon. V will sneak into the Wraiths' camp, while I'll be his guardian rifle."
+          },
+          {
+            "stringId": "1903989491691401216",
+            "femaleVariant": "There's Mitch."
+          },
+          {
+            "stringId": "1905229002574422016",
+            "femaleVariant": "And hey, it shouldn't be me occupyin' your thoughts, but Saul."
+          },
+          {
+            "stringId": "1905236872699338752",
+            "femaleVariant": "My stint in Mexico taught me there's no hole you can't crawl out of."
+          },
+          {
+            "stringId": "1905238477976920064",
+            "femaleVariant": "Something you'd like to say?"
+          },
+          {
+            "stringId": "1905260822460391424",
+            "femaleVariant": "But when the clan's decided, it's decided. That's the way things are. I dunno... maybe it'll be our own undoing."
+          },
+          {
+            "stringId": "1905260879335153664",
+            "femaleVariant": "Y'know, we could use a war vet's expertise. Sure you're stayin' back?"
+          },
+          {
+            "stringId": "1905265843730145280",
+            "femaleVariant": "We are the cavalry riding to the rescue, hoping to make it in time."
+          },
+          {
+            "stringId": "1905266234622500864",
+            "femaleVariant": "You will strive to slip into the camp while I cover you. But we’ll let bullets fly only as a last resort."
+          },
+          {
+            "stringId": "1905267059809869824",
+            "femaleVariant": "They are many, we are few. So we'll need to look for any chance to gain the upper hand."
+          },
+          {
+            "stringId": "1912659284486594560",
+            "femaleVariant": "A Techtronika \"Grad\" – you saw it in action already."
+          },
+          {
+            "stringId": "1912661028092321792",
+            "femaleVariant": "A Techtronika \"Grad\" – you saw it in action already. All yours, compliments of the 'Caldos."
+          },
+          {
+            "stringId": "1912837127959027712",
+            "femaleVariant": "Wishing duct tape could right all the world's wrongs."
+          },
+          {
+            "stringId": "1912855313068662784",
+            "femaleVariant": "I floated a drone over the Wraiths' camp."
+          },
+          {
+            "stringId": "1912856471854194688",
+            "femaleVariant": "Will you take a look or would you rather keep mouthing off?"
+          },
+          {
+            "stringId": "1912863459078119424",
+            "femaleVariant": "OK, got some stuff to work with now."
+          },
+          {
+            "stringId": "1912866846465138688",
+            "femaleVariant": "Sheesh… OK. The Raffens captured Saul. They're holding him somewhere inside their base."
+          },
+          {
+            "stringId": "1912928886462423040",
+            "femaleVariant": "You will pull Saul out, and the three of us will ride away at top speed. All clear now?"
+          },
+          {
+            "stringId": "1913767425693523968",
+            "femaleVariant": "Someone has to..."
+          },
+          {
+            "stringId": "1913768637931266048",
+            "femaleVariant": "You know you have a piston missing, right?"
+          },
+          {
+            "stringId": "1913772288150151168",
+            "femaleVariant": "Someone has to!"
+          },
+          {
+            "stringId": "1913775339489533952",
+            "femaleVariant": "Ignore that."
+          },
+          {
+            "stringId": "1913821557632606208",
+            "femaleVariant": "Hold on a minute, I got one more thing."
+          },
+          {
+            "stringId": "1913823027685826560",
+            "femaleVariant": "If you find Saul hasn't flatlined, you'll probably need this."
+          },
+          {
+            "stringId": "1913832125349306372",
+            "femaleVariant": "[Take SuperJet] Sure hope so."
+          },
+          {
+            "stringId": "1913838345384697856",
+            "femaleVariant": "V, will you ride with me?"
+          },
+          {
+            "stringId": "1913838927117885440",
+            "femaleVariant": "I mostly improvised, actually."
+          },
+          {
+            "stringId": "1913839148359032832",
+            "femaleVariant": "Either way, it'll have to do."
+          },
+          {
+            "stringId": "1913841371457593344",
+            "femaleVariant": "Hope so. Doubt I could carry him on my back.",
+            "maleVariant": "Hope so. Doubt I could carry him out on my back."
+          },
+          {
+            "stringId": "1913843844234682368",
+            "femaleVariant": "Spiked SuperJet. A rhino dose. It should speed up Saul's central pump."
+          },
+          {
+            "stringId": "1913854608177700864",
+            "femaleVariant": "So, that should be everything."
+          },
+          {
+            "stringId": "1913902042467606528",
+            "femaleVariant": "The Raffens can't see it – active camo. But that practically inhales battery juice, so make it quick."
+          },
+          {
+            "stringId": "1917050107637936132",
+            "femaleVariant": "Do you see the tracks?"
+          },
+          {
+            "stringId": "1917052874838388736",
+            "femaleVariant": "The tracks lead to the truck. Can you scan it?"
+          },
+          {
+            "stringId": "1975154573268819968",
+            "femaleVariant": "I'm sure every passing second puts Saul another step closer to death's door."
+          },
+          {
+            "stringId": "1975155510376996864",
+            "femaleVariant": "Go on, V. Get him outta there."
+          },
+          {
+            "stringId": "1975161732660535296",
+            "femaleVariant": "I was helpin' Mitch with the drones, and truth be told... it doesn't look good."
+          },
+          {
+            "stringId": "1975162498926321664",
+            "femaleVariant": "Those parasites knew just where and how to hunker down."
+          },
+          {
+            "stringId": "1975176073807994880",
+            "femaleVariant": "Just curious. Looks like you're in charge of the camp with Saul gone."
+          },
+          {
+            "stringId": "1975177298678980608",
+            "femaleVariant": "I simply have the loudest opinions. And just so happens most folks tend to agree with them."
+          },
+          {
+            "stringId": "1975179773234454528",
+            "femaleVariant": "But I'd like to be clear. What you and Panam aim to do... I'm grateful."
+          },
+          {
+            "stringId": "1975181330948628480",
+            "femaleVariant": "Even if your plan has little chance of succeeding."
+          },
+          {
+            "stringId": "1975182793250775040",
+            "femaleVariant": "Aren't you the optimist."
+          },
+          {
+            "stringId": "1975183097035825152",
+            "femaleVariant": "A realist."
+          },
+          {
+            "stringId": "1975183981782310912",
+            "femaleVariant": "But good luck all the same. Try not to die."
+          },
+          {
+            "stringId": "1975184967376642048",
+            "femaleVariant": "You taking a look or not?"
+          },
+          {
+            "stringId": "1975190253894180864",
+            "femaleVariant": "Guess probably for Saul..."
+          },
+          {
+            "stringId": "1975191922723856384",
+            "femaleVariant": "Saul."
+          },
+          {
+            "stringId": "1975192430133977088",
+            "femaleVariant": "You want my two ennies? Without him... all this comes unglued."
+          },
+          {
+            "stringId": "1976521641679462400",
+            "femaleVariant": "But to do that, sure helps havin' a guidin' hand – if ya catch my meanin'."
+          },
+          {
+            "stringId": "1976529065916309504",
+            "femaleVariant": "Heh... I'd rather move my ass than sit on it, that's for damn sure."
+          },
+          {
+            "stringId": "1976559210580484096",
+            "femaleVariant": "If you wanna know my take, I think Panam's right. In and out quietly's our best bet."
+          },
+          {
+            "stringId": "2011453307891818496",
+            "femaleVariant": "Her? After what happened to Scorpion, she shows up here?",
+            "maleVariant": "Him? After what happened to Scorpion, he shows up here?"
+          }
+        ]
+      }
+
+
+

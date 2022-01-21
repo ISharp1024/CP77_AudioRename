@@ -1,0 +1,397 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1797024417207955456",
+            "femaleVariant": "'Ey, you. Sittin' in the wrong spot."
+          },
+          {
+            "stringId": "1797025516115603456",
+            "femaleVariant": "Uhhh... Thisss... This isn't a bar?"
+          },
+          {
+            "stringId": "1797026057113710592",
+            "femaleVariant": "It is. But it's our bar."
+          },
+          {
+            "stringId": "1797026714277261312",
+            "femaleVariant": "Get up. Let's take a walk."
+          },
+          {
+            "stringId": "1802787291180183552",
+            "femaleVariant": "'Ey, back off. Ain't your biz here."
+          },
+          {
+            "stringId": "1802804976328781824",
+            "femaleVariant": "What, you deaf? You lookin' to get beat? 'Cause that's what's about to happen."
+          },
+          {
+            "stringId": "1802815930827419652",
+            "femaleVariant": "Go ahead. Make my day."
+          },
+          {
+            "stringId": "1802816295127887872",
+            "femaleVariant": "Don't even start with me."
+          },
+          {
+            "stringId": "1802816360257040384",
+            "femaleVariant": "Mama Welles doesn't like fights."
+          },
+          {
+            "stringId": "1802816477680775168",
+            "femaleVariant": "Fine. Do what you want."
+          },
+          {
+            "stringId": "1802819032313901056",
+            "femaleVariant": "[pl_pl][INVISIBLE LINE, IGNORE]"
+          },
+          {
+            "stringId": "1802820962264166400",
+            "femaleVariant": "Just try, gonk. C'mon. Let's see what you got."
+          },
+          {
+            "stringId": "1802821275226353664",
+            "femaleVariant": "Really think you're fast enough with that blade? Really?"
+          },
+          {
+            "stringId": "1802821423100735488",
+            "femaleVariant": "Really? Mh, wonder what Mama Welles would say – what she'd do when she sees you two gonks fuckin' up her joint.",
+            "maleVariant": "Really? Wonder what Mama Welles would say – what she'd do when she sees you two gonks fuckin' up her joint."
+          },
+          {
+            "stringId": "1802821625232633856",
+            "femaleVariant": "Know what? Fine. Not my biz, not my corpo.",
+            "maleVariant": "You know what? Fine. Not my biz, not my corpo."
+          },
+          {
+            "stringId": "1802821867613073408",
+            "femaleVariant": "'Ey, wait! Know this punk. Fought fire with our boys – y'know, back when Gustavo took that hit."
+          },
+          {
+            "stringId": "1802839757141716992",
+            "femaleVariant": "But... What... What just happened?"
+          },
+          {
+            "stringId": "1803779314272055296",
+            "femaleVariant": "Well. Just got real fuckin' interesting."
+          },
+          {
+            "stringId": "1803780257218703360",
+            "femaleVariant": "A'ight, c'mon, Pedro. Not worth it. Don't work out."
+          },
+          {
+            "stringId": "1803789537082748932",
+            "femaleVariant": "'Cause I know you got scratch."
+          },
+          {
+            "stringId": "1803790113547890688",
+            "femaleVariant": "'Cause I knew you were in trouble."
+          },
+          {
+            "stringId": "1803802761656152064",
+            "femaleVariant": "'Cause you look like you got some eds on you."
+          },
+          {
+            "stringId": "1803802936038535172",
+            "femaleVariant": "'Cause you woulda caught a beatin'. Or worse."
+          },
+          {
+            "stringId": "1803948385340895232",
+            "femaleVariant": "Nah. Just don't want to go home."
+          },
+          {
+            "stringId": "1803948831447068676",
+            "femaleVariant": "Keep talking."
+          },
+          {
+            "stringId": "1803950634326700032",
+            "femaleVariant": "Meddling in someone's marriage? No thanks."
+          },
+          {
+            "stringId": "1803952405816160256",
+            "femaleVariant": "Run me through it."
+          },
+          {
+            "stringId": "1803952497855967236",
+            "femaleVariant": "Marital strife? Sorry, not my line of work."
+          },
+          {
+            "stringId": "1803977739345211392",
+            "femaleVariant": "You sure? Damn... Well, if you change your mind, lemme know."
+          },
+          {
+            "stringId": "1803978363759636480",
+            "femaleVariant": "It's about my wife, right? Name's Cynthia. She's cheating – damn sure of it. Only question is, who with."
+          },
+          {
+            "stringId": "1803979515834281988",
+            "femaleVariant": "Sure, I'm in."
+          },
+          {
+            "stringId": "1803979968265465856",
+            "femaleVariant": "Where do I find your wife?"
+          },
+          {
+            "stringId": "1803980456163684352",
+            "femaleVariant": "How do you know she's cheating?"
+          },
+          {
+            "stringId": "1803980630948720640",
+            "femaleVariant": "Why do you wanna know?"
+          },
+          {
+            "stringId": "1803986762400411648",
+            "femaleVariant": "Gonna have to keep tabs on your wife, follow her around town. Where'd she be now?"
+          },
+          {
+            "stringId": "1803987272712990724",
+            "femaleVariant": "Sure she's cheatin' on you?"
+          },
+          {
+            "stringId": "1803992328040493056",
+            "femaleVariant": "She works nearby, I'll give you the address. Knowing her, she'll be on a smoke break. Smokes like a goddamn tire fire."
+          },
+          {
+            "stringId": "1803993258253234176",
+            "femaleVariant": "Wait, um... Today, she was wearing a – pink jacket... and, uh... Hmm... She had a blue purse, I think."
+          },
+          {
+            "stringId": "1803995158340055040",
+            "femaleVariant": "Let's start with the fact that she always stays late after work. I know she's lying. Called her office one night, she wasn't even there."
+          },
+          {
+            "stringId": "1803996257163816960",
+            "femaleVariant": "Used to be easy to check these things – but with today's tech? There's a way around every test now."
+          },
+          {
+            "stringId": "1804005183582253056",
+            "femaleVariant": "Why you wanna know who she's with? What's the point?"
+          },
+          {
+            "stringId": "1804005524730163200",
+            "femaleVariant": "What's the point?! What kind of gonk question is that?!"
+          },
+          {
+            "stringId": "1804095019299254272",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"\" a=\". Looked like a fat wallet, too.\"/>"
+          },
+          {
+            "stringId": "1804095712970027008",
+            "femaleVariant": "Eh – not the only collar in town, man."
+          },
+          {
+            "stringId": "1804107404038778880",
+            "femaleVariant": "An' stay out! If ya know what's good for you!"
+          },
+          {
+            "stringId": "1913896741858758656",
+            "femaleVariant": "Really? Ain't deaf or blind, an' all I see is two gonks tryna rob a stumblin' suit."
+          },
+          {
+            "stringId": "1913899597861015552",
+            "femaleVariant": "Choom – fuck off. Or I implant my blade in your ribs."
+          },
+          {
+            "stringId": "1913902141958049792",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Oh, so we got your permission, \" a=\"? Great. Now get the fuck out.\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"hombre\" b=\"Oh, so we got your permission, \" a=\"? Great. Now get the fuck out.\"/>"
+          },
+          {
+            "stringId": "1913902880944082944",
+            "femaleVariant": "Well, come on, choom. Fresh air'll do you some good."
+          },
+          {
+            "stringId": "1913908770099220480",
+            "femaleVariant": "My bet's she'd whip out her shotgun, blast your heads off."
+          },
+          {
+            "stringId": "1913910408075595776",
+            "femaleVariant": "Way I see it, be a smokin' hole in your chest before your neurons even light up."
+          },
+          {
+            "stringId": "1913913390947160064",
+            "femaleVariant": "But hey, nothin' like a little experiment, right?"
+          },
+          {
+            "stringId": "1913915422600908800",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Carajo!\" b=\"Yo, fuck you! \" a=\" Fuckin' punk.\"/>"
+          },
+          {
+            "stringId": "1913926363610664960",
+            "femaleVariant": "Landed in a little trouble. Cleaned up now."
+          },
+          {
+            "stringId": "1913926610588061696",
+            "femaleVariant": "Goddamn, sorry, I... I think I've had a little too much... Fuck! What a night..."
+          },
+          {
+            "stringId": "1913927466662285312",
+            "femaleVariant": "Why...? Why'd you help me?"
+          },
+          {
+            "stringId": "1913933411031240704",
+            "femaleVariant": "I see... Nothing for free. Not in this goddamn city. Not in this goddamn life."
+          },
+          {
+            "stringId": "1913933928373473280",
+            "femaleVariant": "Here. All I got. The rest... bartender got the rest."
+          },
+          {
+            "stringId": "1913935992038150144",
+            "femaleVariant": "This fuckin' town, these people...? Just here, mindin' my own biz... If it weren't for you, I... ugh..."
+          },
+          {
+            "stringId": "1913939284382240768",
+            "femaleVariant": "Here. For your trouble. The rest, uh... bartender got the rest."
+          },
+          {
+            "stringId": "1913945340890107904",
+            "femaleVariant": "Ten years married, y'know? Ten years an' suddenly I am not good enough. Nooo, she has to go get some side action."
+          },
+          {
+            "stringId": "1913947174035836928",
+            "femaleVariant": "Anyhow, since you brought up money... you wouldn't be lookin' for a gig, would ya, V? Pay's solid."
+          },
+          {
+            "stringId": "1913954756045623296",
+            "femaleVariant": "Could let it eat away at me, or I could get someone like you. Ain't no more than an evening's work."
+          },
+          {
+            "stringId": "1913958093855969280",
+            "femaleVariant": "Eh, not for me after all."
+          },
+          {
+            "stringId": "1913959470493650944",
+            "femaleVariant": "Can't say I'm interested. Sorry."
+          },
+          {
+            "stringId": "1913961456882470912",
+            "femaleVariant": "Simple one. Answer it."
+          },
+          {
+            "stringId": "1913961881966792704",
+            "femaleVariant": "I want to look him in the eyes – ask him how it feels, fucking some other guy's wife, breaking up a happy marriage."
+          },
+          {
+            "stringId": "1913969914998476800",
+            "femaleVariant": "Like half this city."
+          },
+          {
+            "stringId": "1913970857894793216",
+            "femaleVariant": "Colorful."
+          },
+          {
+            "stringId": "1913971004091453440",
+            "femaleVariant": "Always liked dressing up. Get a woman something nice for her birthday, anniversary... And what do you get in return?"
+          },
+          {
+            "stringId": "1913972066475102208",
+            "femaleVariant": "No, no, no, no, wait – eh, to hell with it."
+          },
+          {
+            "stringId": "1913973264116666368",
+            "femaleVariant": "You're my hero, V. Means a lot to me."
+          },
+          {
+            "stringId": "1913976634139267072",
+            "femaleVariant": "OK, fine. I'm in."
+          },
+          {
+            "stringId": "1933310411455737856",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Ey, leave him alone, \" a=\"!\"/>"
+          },
+          {
+            "stringId": "1933312496276484096",
+            "femaleVariant": "V! Go teach these assholes how to behave in my bar!"
+          },
+          {
+            "stringId": "1933320580008914948",
+            "femaleVariant": "Circling him like sharks on the scent o' fresh corpo blood... Coulda ended badly if you hadn't've stepped in, V."
+          },
+          {
+            "stringId": "1933320581468532736",
+            "femaleVariant": "How about we drink to you, then? On the house."
+          },
+          {
+            "stringId": "1933323141856243716",
+            "femaleVariant": "Sure."
+          },
+          {
+            "stringId": "1933323317631135744",
+            "femaleVariant": "No thanks."
+          },
+          {
+            "stringId": "1933324834056581120",
+            "femaleVariant": "Not this time. But thanks."
+          },
+          {
+            "stringId": "1933324908312539136",
+            "femaleVariant": "Won't say no to a free drink."
+          },
+          {
+            "stringId": "1933328040249667584",
+            "femaleVariant": "Don't drink on the clock, eh? I get it, respect that."
+          },
+          {
+            "stringId": "1933328384920793088",
+            "femaleVariant": "To good fortune and prosperity!"
+          },
+          {
+            "stringId": "1934651021072674816",
+            "femaleVariant": "Thanks, V. Really outdid yourself."
+          },
+          {
+            "stringId": "1935673400622370816",
+            "femaleVariant": "You heard what Pepe said. Take a fuckin' walk."
+          },
+          {
+            "stringId": "1935688948135546880",
+            "femaleVariant": "Yeah, well, not all heroes wear capes."
+          },
+          {
+            "stringId": "1935731572565397504",
+            "femaleVariant": "Long day?"
+          },
+          {
+            "stringId": "1935731945741012992",
+            "femaleVariant": "Could say that again. I'm on a double, no break."
+          },
+          {
+            "stringId": "1935735375138181120",
+            "femaleVariant": "Workin' overtime to make an extra buck?"
+          },
+          {
+            "stringId": "1935755973683892224",
+            "femaleVariant": "'Sides that? Well, we got a kid together, right? Doesn't even look like me. Different hair, different eyes, all of it!"
+          },
+          {
+            "stringId": "1946070515770863616",
+            "femaleVariant": "So? You gonna help me out after all?"
+          },
+          {
+            "stringId": "1946174875137880064",
+            "femaleVariant": "Not interested."
+          },
+          {
+            "stringId": "2095410444337557508",
+            "femaleVariant": "Lay off him."
+          }
+        ]
+      }
+
+
+

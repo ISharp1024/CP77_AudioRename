@@ -1,0 +1,495 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "2176775298639482880",
+            "femaleVariant": "Chick we're looking for's somewhere in this building."
+          },
+          {
+            "stringId": "2177740629902118912",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"pendejos\" b=\"Probably crawlin' with the \" a=\" that kidnapped her. Eyes and ears open, all right?\"/>"
+          },
+          {
+            "stringId": "2177740962896302080",
+            "femaleVariant": "Speakin' of which… got you a little somethin'. Militech training shard. 'Case you need to, uh, brush up on your dance moves."
+          },
+          {
+            "stringId": "2177742396207419392",
+            "femaleVariant": "Down for some target practice in VR?"
+          },
+          {
+            "stringId": "2177742921837596676",
+            "femaleVariant": "[TUTORIAL] Sure, a little warm-up can't hurt."
+          },
+          {
+            "stringId": "2177743165795094528",
+            "femaleVariant": "[SKIP TUTORIAL] Don't have time for this."
+          },
+          {
+            "stringId": "2177747385013260288",
+            "femaleVariant": "Sure, why the hell not."
+          },
+          {
+            "stringId": "2177747944868958212",
+            "femaleVariant": "Not now, Jack – no time. Maybe later."
+          },
+          {
+            "stringId": "2177749220306472960",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Mañana, mañana…\" b=\"Sure, sure. \" a=\"\"/>"
+          },
+          {
+            "stringId": "2177781685226065924",
+            "femaleVariant": "[Exit] Time to work."
+          },
+          {
+            "stringId": "2177970876203421700",
+            "femaleVariant": "This course is designed to reinforce your fundamental combat abilities and hone your reflexes."
+          },
+          {
+            "stringId": "2177970876220198916",
+            "femaleVariant": "The skills you gain here will help you survive, even excel, on the battlefield."
+          },
+          {
+            "stringId": "2177970876220198924",
+            "femaleVariant": "I will train you to be effective with firearms, to use stealth tactics to your advantage and to hack into enemy networks."
+          },
+          {
+            "stringId": "2177970876220198932",
+            "femaleVariant": "Because at Militech--"
+          },
+          {
+            "stringId": "2177982518987345924",
+            "femaleVariant": "[Begin training]"
+          },
+          {
+            "stringId": "2178031462723375104",
+            "femaleVariant": "[Begin training]"
+          },
+          {
+            "stringId": "2178031583066345472",
+            "femaleVariant": "[Begin training]"
+          },
+          {
+            "stringId": "2178031673797529600",
+            "femaleVariant": "[Begin training]"
+          },
+          {
+            "stringId": "2178045408817729536",
+            "femaleVariant": "[End training]"
+          },
+          {
+            "stringId": "2178060801443647488",
+            "femaleVariant": "So? Not bad, huh?"
+          },
+          {
+            "stringId": "2178061842587340800",
+            "femaleVariant": "And now we can get down to biz."
+          },
+          {
+            "stringId": "2178080907997499396",
+            "femaleVariant": "Right! So first – let's shape up those stealth skills."
+          },
+          {
+            "stringId": "2178082332114702344",
+            "femaleVariant": "Let's blast through a tactical target practice program. Y'know, a little warm-up."
+          },
+          {
+            "stringId": "2178092310196146184",
+            "femaleVariant": "This training module will teach you how to apply technological tools to combat situations."
+          },
+          {
+            "stringId": "2178103929609408520",
+            "femaleVariant": "Time to get down 'n' dirty in close-quarter combat."
+          },
+          {
+            "stringId": "2178136391022563328",
+            "femaleVariant": "Well OK, looks like we've covered everything. High-fives all around."
+          },
+          {
+            "stringId": "2178137337509203972",
+            "femaleVariant": "Nicely done overall."
+          },
+          {
+            "stringId": "2178283216778055680",
+            "femaleVariant": "Elevator. This way."
+          },
+          {
+            "stringId": "2179250097248817152",
+            "femaleVariant": "No worries. Try again."
+          },
+          {
+            "stringId": "2179250921513439236",
+            "femaleVariant": "Almost, almost. Again, from the top."
+          },
+          {
+            "stringId": "2179251052811931652",
+            "femaleVariant": "Focus, V."
+          },
+          {
+            "stringId": "2179251161612177412",
+            "femaleVariant": "C'mon, you got this."
+          },
+          {
+            "stringId": "2186400182759870464",
+            "femaleVariant": "Not bad. But it's more realistic if the target's packin' iron."
+          },
+          {
+            "stringId": "2186401634223935492",
+            "femaleVariant": "Oh, look. Brought some chooms with him this time. You know what to do, V."
+          },
+          {
+            "stringId": "2186406688041488388",
+            "femaleVariant": "Ya think you're ready to try hackin' some gonks in real time?"
+          },
+          {
+            "stringId": "2186417174657126404",
+            "femaleVariant": "Good. Now show me what you've learned."
+          },
+          {
+            "stringId": "2186417341271658500",
+            "femaleVariant": "Let's move on to melee weapons. Grab a sword."
+          },
+          {
+            "stringId": "2186422589923020800",
+            "femaleVariant": "[End training]"
+          },
+          {
+            "stringId": "2186422696458342400",
+            "femaleVariant": "[End training]"
+          },
+          {
+            "stringId": "2186422749273018368",
+            "femaleVariant": "[End training]"
+          },
+          {
+            "stringId": "2192518938878734336",
+            "femaleVariant": "Militech. Jack, we're talkin' classified, military-grade tech here. How did you get it?",
+            "maleVariant": "Militech? Jack, we're talkin' classified, military-grade shit here. How'd you get it?"
+          },
+          {
+            "stringId": "2192523864266698752",
+            "femaleVariant": "T-Bug. And our girl made a couple adjustments..."
+          },
+          {
+            "stringId": "2192525505967616000",
+            "femaleVariant": "How'd you get this?"
+          },
+          {
+            "stringId": "2192574062334504960",
+            "femaleVariant": "Why? Thinks she knows better?"
+          },
+          {
+            "stringId": "2192574119410593792",
+            "femaleVariant": "Nah. Said it didn't suit her, uh, \"style\" – hah. You'll see what I mean."
+          },
+          {
+            "stringId": "2198446477823139840",
+            "femaleVariant": "Well?"
+          },
+          {
+            "stringId": "2201293108845498396",
+            "femaleVariant": "Let's begin with basic combat training. This session will be recorded for subsequent evaluation."
+          },
+          {
+            "stringId": "2207017315545927680",
+            "femaleVariant": "All right, some advanced combat tecniques for dessert. Then we wrap this party up."
+          },
+          {
+            "stringId": "2207018368903434244",
+            "femaleVariant": "Hacking's the next item on the menu. Might notice I tweaked the course material a bit."
+          },
+          {
+            "stringId": "2207019732303892488",
+            "femaleVariant": "Good. Well, I say it's high time to spit a little lead."
+          },
+          {
+            "stringId": "2207022374178541568",
+            "femaleVariant": "Now you won't lose him. Run on over to the training area. Chop, chop!"
+          },
+          {
+            "stringId": "2207024242808082440",
+            "femaleVariant": "See that guard downstairs? Tag him with Kiroshi."
+          },
+          {
+            "stringId": "2207026081859391488",
+            "femaleVariant": "Find cover! Quick!"
+          },
+          {
+            "stringId": "2207027410044473352",
+            "femaleVariant": "Nice, nice. Now move slowly towards the exit. Stay out of sight."
+          },
+          {
+            "stringId": "2207029266711859208",
+            "femaleVariant": "Nova, well done. On to the next area."
+          },
+          {
+            "stringId": "2207033273463361544",
+            "femaleVariant": "Now the same thing, only with the camera."
+          },
+          {
+            "stringId": "2207072823199944704",
+            "femaleVariant": "Yeah, didn't think you'd find that too tough."
+          },
+          {
+            "stringId": "2207078813119041544",
+            "femaleVariant": "You took a hit. Use a reanimator to patch yourself up."
+          },
+          {
+            "stringId": "2207080084026707968",
+            "femaleVariant": "Quit standin' around and take cover!"
+          },
+          {
+            "stringId": "2207105771437576200",
+            "femaleVariant": "Got three targets for ya, eager to get shot."
+          },
+          {
+            "stringId": "2207122486041006088",
+            "femaleVariant": "See the targets? Have at 'em."
+          },
+          {
+            "stringId": "2207130653424635904",
+            "femaleVariant": "Work a little hack magic on the screen to distract the guard."
+          },
+          {
+            "stringId": "2207131731461427204",
+            "femaleVariant": "Good! Now take him out quietly."
+          },
+          {
+            "stringId": "2207132875868885000",
+            "femaleVariant": "All right, all yours. Take him out."
+          },
+          {
+            "stringId": "2207134700676337672",
+            "femaleVariant": "Never smart to leave behind any trace of your handiwork."
+          },
+          {
+            "stringId": "2207136117327679488",
+            "femaleVariant": "Now pick up the body and hide it somewhere."
+          },
+          {
+            "stringId": "2207136437839613960",
+            "femaleVariant": "OK, now try to take him down in one slick move."
+          },
+          {
+            "stringId": "2207137745858482184",
+            "femaleVariant": "Wait for it…"
+          },
+          {
+            "stringId": "2207139201936281608",
+            "femaleVariant": "Now. Detonate the grenade."
+          },
+          {
+            "stringId": "2207175498486796300",
+            "femaleVariant": "Hack one of the guards to distract the other. Get to it!"
+          },
+          {
+            "stringId": "2207186615187558400",
+            "femaleVariant": "OK, that'll do."
+          },
+          {
+            "stringId": "2207187476831817728",
+            "femaleVariant": "Now maybe we find someone closer to your weight class."
+          },
+          {
+            "stringId": "2208504118803189760",
+            "femaleVariant": "Man, Militech can't encrypt for shit."
+          },
+          {
+            "stringId": "2209917733972234240",
+            "femaleVariant": "Nice work today."
+          },
+          {
+            "stringId": "2209918395665633280",
+            "femaleVariant": "Just stand on the platform to exit the sim."
+          },
+          {
+            "stringId": "2209959311889682444",
+            "femaleVariant": "Preem work, V."
+          },
+          {
+            "stringId": "2209959311889682452",
+            "femaleVariant": "Stand on the platform, and we'll move on."
+          },
+          {
+            "stringId": "2210014736832024588",
+            "femaleVariant": "See? Just needed to shut your brain down and follow orders. In true Militech fashion."
+          },
+          {
+            "stringId": "2210014736832024596",
+            "femaleVariant": "Under my wise command, you're a real champ. Take your spot on the podium."
+          },
+          {
+            "stringId": "2210062262138327044",
+            "femaleVariant": "Good stuff. Looks like you're cruisin' already."
+          },
+          {
+            "stringId": "2210062262138327052",
+            "femaleVariant": "Hop on the platform."
+          },
+          {
+            "stringId": "2211420454714425344",
+            "femaleVariant": "But they clearly got drillin' jarheads in their blood."
+          },
+          {
+            "stringId": "2211450293865496576",
+            "femaleVariant": "Whaddaya say we crank it up a notch?"
+          },
+          {
+            "stringId": "2211456124686254080",
+            "femaleVariant": "Head to the training area when you're good to go."
+          },
+          {
+            "stringId": "2211489674823286784",
+            "femaleVariant": "Especially the dead kind."
+          },
+          {
+            "stringId": "2211508992982204416",
+            "femaleVariant": "Take him down. But careful... looks tough."
+          },
+          {
+            "stringId": "2211522364121366528",
+            "femaleVariant": "Jesus, corpospeak can even make hacking sound borin'."
+          },
+          {
+            "stringId": "2212888581692276736",
+            "femaleVariant": "Hope they like surprises."
+          },
+          {
+            "stringId": "2212901869985546240",
+            "femaleVariant": "Have fun!"
+          },
+          {
+            "stringId": "2212909701120212992",
+            "femaleVariant": "Now... station one, you maggot! Move, move, move!"
+          },
+          {
+            "stringId": "2212910880642383872",
+            "femaleVariant": "You can tell Jackie I passed you with flying colors."
+          },
+          {
+            "stringId": "2220078820234612736",
+            "femaleVariant": "Let's do this."
+          },
+          {
+            "stringId": "2221229947252625408",
+            "femaleVariant": "Need a hand-written invite?"
+          },
+          {
+            "stringId": "2221230212164866052",
+            "femaleVariant": "Well? We doin' this?"
+          },
+          {
+            "stringId": "2221231508875890688",
+            "femaleVariant": "Corpotrash... Style over substance!"
+          },
+          {
+            "stringId": "2221232700997750784",
+            "femaleVariant": "Not too shabby. Militech's algorithm's put you on a decent run."
+          },
+          {
+            "stringId": "2221233474528071680",
+            "femaleVariant": "Fixer give you any tips?"
+          },
+          {
+            "stringId": "2221233657282285568",
+            "femaleVariant": "Wakako give you any tips and tricks for the job?"
+          },
+          {
+            "stringId": "2221413786751168512",
+            "femaleVariant": "\"I'm not your mother. Just do what I pay you for. It's easy work.\" Sh'yeah…"
+          },
+          {
+            "stringId": "2221433502462996480",
+            "femaleVariant": "But remember – the street's not gonna give you any hints or second chances."
+          },
+          {
+            "stringId": "2221434865829900288",
+            "femaleVariant": "G'luck, V."
+          },
+          {
+            "stringId": "2231807161551646720",
+            "femaleVariant": "Hope you're ready to bust ass through this fascist playground."
+          },
+          {
+            "stringId": "2231811100489641984",
+            "femaleVariant": "V, you're not a gonkbrained Militech recruit. Get movin'!"
+          },
+          {
+            "stringId": "2231958851626037248",
+            "femaleVariant": "Pick up the pace. Wastin' time here."
+          },
+          {
+            "stringId": "2231960072906698752",
+            "femaleVariant": "C'mon, don't need you hurt!"
+          },
+          {
+            "stringId": "2232102595943821312",
+            "femaleVariant": "Stealthy, now, V. You ever relive a ninja BD? Just like that."
+          },
+          {
+            "stringId": "2232105567339769856",
+            "femaleVariant": "Sorry, did I load a hacker training program or a spa sim?"
+          },
+          {
+            "stringId": "2232108289124298752",
+            "femaleVariant": "Hide already!"
+          },
+          {
+            "stringId": "2232109598250463232",
+            "femaleVariant": "Umm, sightseeing?"
+          },
+          {
+            "stringId": "2232111319894814720",
+            "femaleVariant": "Back to your training, recruit!"
+          },
+          {
+            "stringId": "2239203123920916480",
+            "femaleVariant": "Dull bit comin' up now – blockin' blows instead of dealin' 'em."
+          },
+          {
+            "stringId": "2239207036518682632",
+            "femaleVariant": "Now this fool loses his footing every time he swings. Use that – get in there and land a counterpunch."
+          },
+          {
+            "stringId": "2239208440788439048",
+            "femaleVariant": "Fool – I like that! V, wanna see this fool punchin' air next, don't let him land anything."
+          },
+          {
+            "stringId": "2239213312086659072",
+            "femaleVariant": "You've done well in mastering the Way of the Fool, young apprentice. I can teach you no more… This is the part where you face your final test."
+          },
+          {
+            "stringId": "2239243704617422856",
+            "femaleVariant": "Let's bump things up from \"easy\" to \"normal.\" This next fool can block your attacks."
+          },
+          {
+            "stringId": "2267775604361285632",
+            "femaleVariant": "Got additional modules if you wanna hone any other skills. Or you finish up, delta out now."
+          },
+          {
+            "stringId": "2267779382607106048",
+            "femaleVariant": "Cracked two other training modules for you. You can dive right into those, or... call it a day now."
+          },
+          {
+            "stringId": "2267781014812119048",
+            "femaleVariant": "There's a stealth module – dunno, could be useful. Complete that and you'll have done it all."
+          }
+        ]
+      }
+
+
+

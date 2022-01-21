@@ -1,0 +1,497 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1490657429148004352",
+            "femaleVariant": "Listen... what's... what's happening to you?"
+          },
+          {
+            "stringId": "1490658165063806976",
+            "femaleVariant": "Something's wrong, V. I can feel it."
+          },
+          {
+            "stringId": "1490658810617524224",
+            "femaleVariant": "Nothing. Everything'll be fine soon."
+          },
+          {
+            "stringId": "1490659203858690048",
+            "femaleVariant": "Just tired."
+          },
+          {
+            "stringId": "1490660191868940288",
+            "femaleVariant": "We'll talk later."
+          },
+          {
+            "stringId": "1490660505871314960",
+            "femaleVariant": "Nothin'. Everything's fine, will be fine. Don't worry."
+          },
+          {
+            "stringId": "1490664035394908160",
+            "femaleVariant": "Hey, don't brush me off. Things've been on a downward slope for months. With you... with us."
+          },
+          {
+            "stringId": "1490665790996344832",
+            "femaleVariant": "What's it matter? It'll all be over soon either way."
+          },
+          {
+            "stringId": "1490666596235603968",
+            "femaleVariant": "V, don't wall yourself off. It won't end well."
+          },
+          {
+            "stringId": "1490667494001209344",
+            "femaleVariant": "You're right, it won't end well."
+          },
+          {
+            "stringId": "1490668084894756864",
+            "femaleVariant": "Give me some time."
+          },
+          {
+            "stringId": "1490669573587464192",
+            "femaleVariant": "I don't..."
+          },
+          {
+            "stringId": "1490669963909394432",
+            "femaleVariant": "Can we talk later?"
+          },
+          {
+            "stringId": "1490670359985909760",
+            "femaleVariant": "Don't feel so hot... We talked about this. I'm exhausted. Probably the meds."
+          },
+          {
+            "stringId": "1490676038637318144",
+            "femaleVariant": "Can I help in any way?"
+          },
+          {
+            "stringId": "1490676502862884864",
+            "femaleVariant": "Not this time."
+          },
+          {
+            "stringId": "1490676784032247808",
+            "femaleVariant": "You being here's enough."
+          },
+          {
+            "stringId": "1490677524394012672",
+            "femaleVariant": "Not this time, no."
+          },
+          {
+            "stringId": "1490678228349218816",
+            "femaleVariant": "Most important thing is that you're here, now."
+          },
+          {
+            "stringId": "1490679121064882176",
+            "femaleVariant": "I mean it. My one anchor. Everything else is unknown."
+          },
+          {
+            "stringId": "1490680690774765568",
+            "femaleVariant": "I'll be outside."
+          },
+          {
+            "stringId": "1490682491171368960",
+            "femaleVariant": "Really, River?"
+          },
+          {
+            "stringId": "1490683325217107968",
+            "femaleVariant": "You really thought there was gonna be a happy ending?"
+          },
+          {
+            "stringId": "1490685795041406976",
+            "femaleVariant": "Coffee's getting cold. I need some air. Cool down, then we'll talk."
+          },
+          {
+            "stringId": "1490686684200300544",
+            "femaleVariant": "I... Give me some time. You know I've got unfinished biz, and then..."
+          },
+          {
+            "stringId": "1490689320001597440",
+            "femaleVariant": "You'll wait?"
+          },
+          {
+            "stringId": "1490690343160115200",
+            "femaleVariant": "Before it gets cold."
+          },
+          {
+            "stringId": "1490690570290065408",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1490690625285779456",
+            "femaleVariant": "I'm gonna go get some air."
+          },
+          {
+            "stringId": "1496778842211000320",
+            "femaleVariant": "Fresh coffee, your name on it."
+          },
+          {
+            "stringId": "1702566541243568132",
+            "femaleVariant": "[Drink coffee]"
+          },
+          {
+            "stringId": "1702645505878249472",
+            "femaleVariant": "It's Joss."
+          },
+          {
+            "stringId": "1702647179489431552",
+            "femaleVariant": "Joss says hi."
+          },
+          {
+            "stringId": "1702647759830110208",
+            "femaleVariant": "Thanks. Tell her I said hi, too."
+          },
+          {
+            "stringId": "1702658767562854400",
+            "femaleVariant": "On my way out, too."
+          },
+          {
+            "stringId": "1702659325069742080",
+            "femaleVariant": "Later, then. Good luck."
+          },
+          {
+            "stringId": "1793701123210211328",
+            "femaleVariant": "Cop's intuition?"
+          },
+          {
+            "stringId": "1793701422498967552",
+            "femaleVariant": "Just talk to me. You've been different since Mikoshi. Absent, somehow. What is it?"
+          },
+          {
+            "stringId": "1793708696546177024",
+            "femaleVariant": "And I don't know who to blame – you, your... your situation, or that damn job."
+          },
+          {
+            "stringId": "1793711783235153920",
+            "femaleVariant": "It's a thing I gotta do on my own."
+          },
+          {
+            "stringId": "1793772100849889280",
+            "femaleVariant": "Mhm. I'm at her place now.",
+            "maleVariant": "Mhm. I'm at his place now."
+          },
+          {
+            "stringId": "1793772943871438848",
+            "femaleVariant": "I promise."
+          },
+          {
+            "stringId": "1793773084649058304",
+            "femaleVariant": "I gotta go, I'll call you later."
+          },
+          {
+            "stringId": "1793775714813210624",
+            "femaleVariant": "Maybe you can tell her in person? She said to stop by sometime. She'll make chili."
+          },
+          {
+            "stringId": "1793776528441077760",
+            "femaleVariant": "Uh, yeah, sure. We'll see. I mean, you know how it is.",
+            "maleVariant": "Uh, sure. We'll see. I mean, you know how it is."
+          },
+          {
+            "stringId": "1793776954464923648",
+            "femaleVariant": "Y'know, lately I'm not sure I do. How is it, V?"
+          },
+          {
+            "stringId": "1793778170125217796",
+            "femaleVariant": "What do you mean? Thought everything was pretty clear."
+          },
+          {
+            "stringId": "1793784723255455744",
+            "femaleVariant": "River – I'm dying, remember?"
+          },
+          {
+            "stringId": "1793785114500132864",
+            "femaleVariant": "Family is important. But my time's running out."
+          },
+          {
+            "stringId": "1793788726836064256",
+            "femaleVariant": "You're acting as if we never talked about it. As if you didn't know I..."
+          },
+          {
+            "stringId": "1793789178696822784",
+            "femaleVariant": "I know. That's not it."
+          },
+          {
+            "stringId": "1793789512613752832",
+            "femaleVariant": "Then what is it?"
+          },
+          {
+            "stringId": "1793789585863077888",
+            "femaleVariant": "Do you feel like you're in this fight alone? Do you think that by cutting me off, you're somehow protecting me?"
+          },
+          {
+            "stringId": "1793793621051961348",
+            "femaleVariant": "Is this an interrogation?"
+          },
+          {
+            "stringId": "1793795069965889536",
+            "femaleVariant": "We're partners. But some things I gotta do on my own."
+          },
+          {
+            "stringId": "1793851895185010688",
+            "femaleVariant": "Our separate lives never bothered you before."
+          },
+          {
+            "stringId": "1793852424388734976",
+            "femaleVariant": "I'm dyin', River. You forget that?"
+          },
+          {
+            "stringId": "1793852525471461376",
+            "femaleVariant": "I know family is important, River. Especially for you. Especially now."
+          },
+          {
+            "stringId": "1793853436088414208",
+            "femaleVariant": "But you gotta understand my time's runnin' out.",
+            "maleVariant": "But you gotta understand my time is runnin' out."
+          },
+          {
+            "stringId": "1793853719019384832",
+            "femaleVariant": "Time for what? For fighting this city tooth and nail? You alone, against the world? For what, V?"
+          },
+          {
+            "stringId": "1793858081531752448",
+            "femaleVariant": "Yes, you're dying. I know. But that shouldn't change things between us."
+          },
+          {
+            "stringId": "1793859038403489792",
+            "femaleVariant": "It doesn't."
+          },
+          {
+            "stringId": "1793859107659837440",
+            "femaleVariant": "I'm a simple guy, V. So answer this simple question – are you sure? You absolutely sure it doesn't change a thing?"
+          },
+          {
+            "stringId": "1793867342705979392",
+            "femaleVariant": "Look, is this an interrogation? I just wanna drink my coffee, River..."
+          },
+          {
+            "stringId": "1793868606869204992",
+            "femaleVariant": "At least questioning I'm good at. Understanding what you want – not so much."
+          },
+          {
+            "stringId": "1793869877575544832",
+            "femaleVariant": "River, listen to me. I need you. That's never gonna change."
+          },
+          {
+            "stringId": "1793870676137472000",
+            "femaleVariant": "So let me help you."
+          },
+          {
+            "stringId": "1793872012006518784",
+            "femaleVariant": "This last fight – it's for me to fight alone."
+          },
+          {
+            "stringId": "1793872901232521220",
+            "femaleVariant": "I want Night City to remember me."
+          },
+          {
+            "stringId": "1793878258164035584",
+            "femaleVariant": "One last job's waiting for me at The Afterlife."
+          },
+          {
+            "stringId": "1793881536851472384",
+            "femaleVariant": "It's got nothing to do with you."
+          },
+          {
+            "stringId": "1793881930126192640",
+            "femaleVariant": "Heh. Good to know."
+          },
+          {
+            "stringId": "1793882002989641728",
+            "femaleVariant": "You were never bothered by the fact that we led separate lives before. All that mattered was our time together. What changed?",
+            "maleVariant": "You're never bothered by the fact that we led separate lives before. All that mattered was our time together. What changed?"
+          },
+          {
+            "stringId": "1793883183300341760",
+            "femaleVariant": "You tell me. It's about this city, isn't it? Your crusade."
+          },
+          {
+            "stringId": "1793888100266143744",
+            "femaleVariant": "What's your plan?"
+          },
+          {
+            "stringId": "1793895935846772736",
+            "femaleVariant": "Still feel I got somethin' to prove to this city."
+          },
+          {
+            "stringId": "1793898301518114816",
+            "femaleVariant": "You might not see it yet, but that's a fight this city won't let you win."
+          },
+          {
+            "stringId": "1793927191598854144",
+            "femaleVariant": "The city will remember you, V. And I couldn't forget you if I tried."
+          },
+          {
+            "stringId": "1793928878078160900",
+            "femaleVariant": "[Step away] Afterlife awaits."
+          },
+          {
+            "stringId": "1793929413892108288",
+            "femaleVariant": "Got a job waitin' for me at the Afterlife. Been gettin' ready these past few months."
+          },
+          {
+            "stringId": "1793931038245384192",
+            "femaleVariant": "You sure you don't need any help?"
+          },
+          {
+            "stringId": "1793932052696526848",
+            "femaleVariant": "How many times you asked me that?"
+          },
+          {
+            "stringId": "1793932984704430080",
+            "femaleVariant": "Just hoping you changed your mind."
+          },
+          {
+            "stringId": "1793936209184681984",
+            "femaleVariant": "What's your plan? Once I'm gone?"
+          },
+          {
+            "stringId": "1793937948679991296",
+            "femaleVariant": "So what's the plan for once I'm gone?",
+            "maleVariant": "So what's the plan? For once I'm gone?"
+          },
+          {
+            "stringId": "1793939371354353664",
+            "femaleVariant": "Goin' to see Joss, promised to help her scout out a new used car... Still got that Heywood thing hangin' over my head..."
+          },
+          {
+            "stringId": "1793945306143518720",
+            "femaleVariant": "You can't leave Night City, can you?"
+          },
+          {
+            "stringId": "1793945953358180352",
+            "femaleVariant": "I could. If I could think of anywhere else I wanted to be. And if the people I cared about most weren't already here."
+          },
+          {
+            "stringId": "1793947993887076352",
+            "femaleVariant": "Got a meet at the Afterlife."
+          },
+          {
+            "stringId": "1793954637681389568",
+            "femaleVariant": "Sure. 'Course."
+          },
+          {
+            "stringId": "1793960289187262464",
+            "femaleVariant": "Thanks, River. See ya... see ya later.",
+            "maleVariant": "Thanks, River. See you... see you later."
+          },
+          {
+            "stringId": "1809626058650677248",
+            "femaleVariant": "Then I try. Don't know any other way."
+          },
+          {
+            "stringId": "1809632520881958912",
+            "femaleVariant": "Haven't. Afterlife's my world, River. Not yours."
+          },
+          {
+            "stringId": "1809634313007394816",
+            "femaleVariant": "You're gonna keep running away to \"your world\" until the very end."
+          },
+          {
+            "stringId": "1809636289631875072",
+            "femaleVariant": "Only way I know."
+          },
+          {
+            "stringId": "1809636564660776960",
+            "femaleVariant": "Just remember – I'll be here, waitin' for you to come back."
+          },
+          {
+            "stringId": "1872059187648385024",
+            "femaleVariant": "[Take shower]"
+          },
+          {
+            "stringId": "1872059187765825536",
+            "femaleVariant": "[Kiss]"
+          },
+          {
+            "stringId": "1872059187782602752",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1873336511607992320",
+            "femaleVariant": "Heyyy. Gonna hop in the shower."
+          },
+          {
+            "stringId": "1884942308196610048",
+            "femaleVariant": "Hmm, OK..."
+          },
+          {
+            "stringId": "1898392406947356676",
+            "femaleVariant": "[Turn]"
+          },
+          {
+            "stringId": "1902242213348597760",
+            "femaleVariant": "Thought you might need some company."
+          },
+          {
+            "stringId": "1902334410743963648",
+            "femaleVariant": "Fuck..."
+          },
+          {
+            "stringId": "1902420021840535556",
+            "femaleVariant": "[Wash off blood]"
+          },
+          {
+            "stringId": "1902430265270427648",
+            "femaleVariant": "Oh, uh... Hey...",
+            "maleVariant": "Oh, heh... Hey..."
+          },
+          {
+            "stringId": "1903686103524007940",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1903836668082085888",
+            "femaleVariant": "[Hug] See you."
+          },
+          {
+            "stringId": "1944661701099778048",
+            "femaleVariant": "How is she?"
+          },
+          {
+            "stringId": "1944663850361810944",
+            "femaleVariant": "How's she doin'?"
+          },
+          {
+            "stringId": "1944665487851646976",
+            "femaleVariant": "She said we should stop by, she'll make a pot of chili. You in?"
+          },
+          {
+            "stringId": "1944669104901976064",
+            "femaleVariant": "All right."
+          },
+          {
+            "stringId": "2008445702432747520",
+            "femaleVariant": "On your own, or without me? Like Mikoshi."
+          },
+          {
+            "stringId": "2025692660116484100",
+            "femaleVariant": "[Lean]"
+          },
+          {
+            "stringId": "2237258257167216640",
+            "femaleVariant": "Good luck, V. I'll be with you – heart, mind and spirit."
+          },
+          {
+            "stringId": "2237259239708094464",
+            "femaleVariant": "Get out of here. Somebody's waitin'."
+          },
+          {
+            "stringId": "2405953931371606016",
+            "femaleVariant": "[Take amulet]"
+          }
+        ]
+      }
+
+
+

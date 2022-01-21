@@ -1,0 +1,220 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1856056797705367564",
+            "femaleVariant": "Well? Who's next? Anyone else?"
+          },
+          {
+            "stringId": "1856056797755699200",
+            "femaleVariant": "I have a fight arranged."
+          },
+          {
+            "stringId": "1856056797822808068",
+            "femaleVariant": "Got a fight lined up here."
+          },
+          {
+            "stringId": "1856056797856362504",
+            "femaleVariant": "That so... Don't look familiar to me. You fresh meat here?"
+          },
+          {
+            "stringId": "1856056797873139712",
+            "femaleVariant": "I'm ready."
+          },
+          {
+            "stringId": "1856056797873139728",
+            "femaleVariant": "I'll be back soon."
+          },
+          {
+            "stringId": "1856056797889916936",
+            "femaleVariant": "Who runs this club?"
+          },
+          {
+            "stringId": "1856056797973803012",
+            "femaleVariant": "Hey, gimme a bit. I'll be back soon."
+          },
+          {
+            "stringId": "1856056797973803020",
+            "femaleVariant": "Sure. Just careful around the club 'cause, y'know... busted legs."
+          },
+          {
+            "stringId": "1856056798024134660",
+            "femaleVariant": "You say you've never lost. I say there's a first time for everything."
+          },
+          {
+            "stringId": "1856056798057689092",
+            "femaleVariant": "Hah! True, true... All right then, shall we?"
+          },
+          {
+            "stringId": "1856056798141575172",
+            "femaleVariant": "Good luck! You'll need it!"
+          },
+          {
+            "stringId": "1856056798259015684",
+            "femaleVariant": "Agh! OK, OK, I quit! I'm done!"
+          },
+          {
+            "stringId": "1856056798292570112",
+            "femaleVariant": "Aaaaargh!!! FUCK!!!!"
+          },
+          {
+            "stringId": "1856056798292570120",
+            "femaleVariant": "Hey, hey... Calm down..."
+          },
+          {
+            "stringId": "1856056798326124548",
+            "femaleVariant": "I won, I won, I won!"
+          },
+          {
+            "stringId": "1856056798326124556",
+            "femaleVariant": "Yeah... I noticed."
+          },
+          {
+            "stringId": "1856056798477119488",
+            "femaleVariant": "[Start fight] Let's go."
+          },
+          {
+            "stringId": "1856056798544228356",
+            "femaleVariant": "Let's get to it."
+          },
+          {
+            "stringId": "1856056798577782788",
+            "femaleVariant": "Say, who's runnin' this club?"
+          },
+          {
+            "stringId": "1856056798611337220",
+            "femaleVariant": "Hah! Sorry to say you'll be disappointed. C'mon."
+          },
+          {
+            "stringId": "1856064206993715200",
+            "femaleVariant": "Well, watch yourself, then. They don't like strangers here. One wrong look, and you're crawlin' through the gutter on busted legs."
+          },
+          {
+            "stringId": "1856064550473658368",
+            "femaleVariant": "Buuut... you defeat me, I can vouch for you to the right folks. You could use the equipment, meet with the trainer, that kinda stuff."
+          },
+          {
+            "stringId": "1856065094592327680",
+            "femaleVariant": "I'd say \"you're welcome,\" but there's still the matter of defeating me. And full disclosure – I've never lost a fight."
+          },
+          {
+            "stringId": "1856144665253605376",
+            "femaleVariant": "Shouldn't we talk wagers?"
+          },
+          {
+            "stringId": "1856144895923548160",
+            "femaleVariant": "We not throwin' any eddies on this match?"
+          },
+          {
+            "stringId": "1856145241064435712",
+            "femaleVariant": "No, when the cash comes in it just muddles the whole sport. I'm here for fights and the fights alone."
+          },
+          {
+            "stringId": "1856145741159690240",
+            "femaleVariant": "Name's Logan Garcia. Used to be the best damn boxer in Night City. Who knows, maybe in all the States."
+          },
+          {
+            "stringId": "1856146763244466176",
+            "femaleVariant": "Just watch him in action. You'll see."
+          },
+          {
+            "stringId": "1856158739408449536",
+            "femaleVariant": "Seein' as we're already warmed up, you want a rematch?"
+          },
+          {
+            "stringId": "1856160907142197248",
+            "femaleVariant": "\"Calm down?!\" You want fucking calm?! Waaaargh!!!"
+          },
+          {
+            "stringId": "1908317442657275904",
+            "femaleVariant": "Could say that."
+          },
+          {
+            "stringId": "1908321770122039296",
+            "femaleVariant": "Ah, thanks. 'Preciate it."
+          },
+          {
+            "stringId": "1908329323224682496",
+            "femaleVariant": "Not oversellin' a bit there?",
+            "maleVariant": "Not oversellin' it a bit there?"
+          },
+          {
+            "stringId": "1908350099189452800",
+            "femaleVariant": "Oof... I... I'm so sorry..."
+          },
+          {
+            "stringId": "1908350566401363968",
+            "femaleVariant": "You're not used to losing, I know."
+          },
+          {
+            "stringId": "1908350800762294272",
+            "femaleVariant": "Mhm. And I don't ever wanna be."
+          },
+          {
+            "stringId": "1908352263534202880",
+            "femaleVariant": "Hey, c'mon, no chest-poundin'. Don't trust myself not to go aggro."
+          },
+          {
+            "stringId": "1908353207017721860",
+            "femaleVariant": "Thanks for a good fight."
+          },
+          {
+            "stringId": "1908353709008801792",
+            "femaleVariant": "Nothin' like that. Just wanted to say thank you.",
+            "maleVariant": "It's nothin' like that. I just wanted to say thank you."
+          },
+          {
+            "stringId": "1908354573454856192",
+            "femaleVariant": "You lost, get over it."
+          },
+          {
+            "stringId": "1908354942385836032",
+            "femaleVariant": "Oh, Jesus, the self-pity... You lost. Get over it. It happens."
+          },
+          {
+            "stringId": "1908355866122571776",
+            "femaleVariant": "Maybe to you. Just get away from me."
+          },
+          {
+            "stringId": "1908357714552344576",
+            "femaleVariant": "For what?"
+          },
+          {
+            "stringId": "1908357864876199936",
+            "femaleVariant": "For a good, clean fight. No funny business, no tricks. It was a rare breath of fresh air."
+          },
+          {
+            "stringId": "1908361404331905024",
+            "femaleVariant": "Hang in there, girl."
+          },
+          {
+            "stringId": "1908362368015192064",
+            "femaleVariant": "Listen, I'm done for today... But first I'll make sure no one bothers you. Make yourself at home."
+          },
+          {
+            "stringId": "1932994912752816128",
+            "femaleVariant": "Got any good tech under the hood? Sensory filters? Rotors? Boosted core?"
+          },
+          {
+            "stringId": "1932998249304870912",
+            "femaleVariant": "You're about to find out."
+          }
+        ]
+      }
+
+
+

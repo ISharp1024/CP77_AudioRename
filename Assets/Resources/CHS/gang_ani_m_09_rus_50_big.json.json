@@ -1,0 +1,281 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1627396744412499968",
+            "femaleVariant": "呃…哦…哦…你什么价，宝贝？",
+            "maleVariant": "呃…哦…哦…你什么价，猛男？"
+          },
+          {
+            "stringId": "1627396744446054400",
+            "femaleVariant": "哦…你妈出去做生意没带你吗？嚯吼吼。"
+          },
+          {
+            "stringId": "1627396744479608832",
+            "femaleVariant": "滚出去。这儿没人陪你瞎扯淡。"
+          },
+          {
+            "stringId": "1627396744513163264",
+            "femaleVariant": "向后，转身，滚。"
+          },
+          {
+            "stringId": "1627396744546717696",
+            "femaleVariant": "枪不想要了？快滚！"
+          },
+          {
+            "stringId": "1627396744580272128",
+            "femaleVariant": "把枪收了，要不就剁了你的手。"
+          },
+          {
+            "stringId": "1627396744630603776",
+            "femaleVariant": "别找不痛快。"
+          },
+          {
+            "stringId": "1627396744664158208",
+            "femaleVariant": "现在只有你和我，赶紧滚，别等我掏东西出来。"
+          },
+          {
+            "stringId": "1627396744697712640",
+            "femaleVariant": "你可真是个听话的小乖乖！"
+          },
+          {
+            "stringId": "1627396744731267072",
+            "femaleVariant": "好狗就该听话，呵呵。"
+          },
+          {
+            "stringId": "1627396744781598720",
+            "femaleVariant": "靠…不去不行吗？"
+          },
+          {
+            "stringId": "1627396744798375936",
+            "femaleVariant": "那死耗子又回来了？"
+          },
+          {
+            "stringId": "1627396744865484800",
+            "femaleVariant": "就不能让我歇会儿？靠…"
+          },
+          {
+            "stringId": "1627396744915816448",
+            "femaleVariant": "去他的，老子不干了。"
+          },
+          {
+            "stringId": "1627396744949370880",
+            "femaleVariant": "靠…有这工夫我能搞多少事…"
+          },
+          {
+            "stringId": "1627396744999702528",
+            "femaleVariant": "<mothertongue l=\"bra\" m=\"bebezinha\" b=\"来啊，来啊，我的小\" a=\"（乖乖）！\"/>"
+          },
+          {
+            "stringId": "1627396745016479744",
+            "femaleVariant": "我们明天来打猎，小猪！呼噜，呼噜！"
+          },
+          {
+            "stringId": "1627396745066811392",
+            "femaleVariant": "狮子死了！"
+          },
+          {
+            "stringId": "1627396745117143040",
+            "femaleVariant": "好的，收到。"
+          },
+          {
+            "stringId": "1627396745167474688",
+            "femaleVariant": "抓住那个贱货！"
+          },
+          {
+            "stringId": "1627396745184251904",
+            "femaleVariant": "哦，尝尝这个吧，宝贝！"
+          },
+          {
+            "stringId": "1627396745234583552",
+            "femaleVariant": "嘿，把这个塞回菊花去！"
+          },
+          {
+            "stringId": "1627396745318469632",
+            "femaleVariant": "别…啊啊啊…哇啊啊啊啊！"
+          },
+          {
+            "stringId": "1627396745368801280",
+            "femaleVariant": "我来给你们开几个窟窿！"
+          },
+          {
+            "stringId": "1627396745385578496",
+            "femaleVariant": "看我一拳把你干飞！"
+          },
+          {
+            "stringId": "1627396745452687360",
+            "femaleVariant": "我们从来不怂！从来不！"
+          },
+          {
+            "stringId": "1627396745486241792",
+            "femaleVariant": "<mothertongue l=\"bra\" m=\"Siiim\" b=\"\" a=\"（哈），我练这一身块儿就是为了今天！\"/>"
+          },
+          {
+            "stringId": "1627396745536573440",
+            "femaleVariant": "嘿！你个贱货！"
+          },
+          {
+            "stringId": "1627396745570127872",
+            "femaleVariant": "嘿，嘿，嘿！"
+          },
+          {
+            "stringId": "1627396745620459520",
+            "femaleVariant": "又怎么了？"
+          },
+          {
+            "stringId": "1627396745687568384",
+            "femaleVariant": "我才不管呢…不…我不去，听懂了吗…不！"
+          },
+          {
+            "stringId": "1627396745721122816",
+            "femaleVariant": "哼…算了，你滚吧…自己找地儿玩去…"
+          },
+          {
+            "stringId": "1627396745805008896",
+            "femaleVariant": "侧面包抄！"
+          },
+          {
+            "stringId": "1627396745855340544",
+            "femaleVariant": "那我就得去，是吧？"
+          },
+          {
+            "stringId": "1627396745922449408",
+            "femaleVariant": "小心！手雷！"
+          },
+          {
+            "stringId": "1627463991755640832",
+            "femaleVariant": "跟我想的一样。混蛋。"
+          },
+          {
+            "stringId": "1772149128903888896",
+            "femaleVariant": "厉害不起来了？"
+          },
+          {
+            "stringId": "1772160587255877632",
+            "femaleVariant": "好吧，去就去。这活儿太混蛋了…"
+          },
+          {
+            "stringId": "1772160688489598976",
+            "femaleVariant": "好吧…还是过去看看吧…"
+          },
+          {
+            "stringId": "1772160805359685632",
+            "femaleVariant": "嘿！发现什么你就大声喊啊。"
+          },
+          {
+            "stringId": "2231792817415528452",
+            "femaleVariant": "嗯…？"
+          },
+          {
+            "stringId": "2231792817516191748",
+            "femaleVariant": "都振作起来！"
+          },
+          {
+            "stringId": "2231792817566523396",
+            "femaleVariant": "呜呼呼呼！哈哈哈！"
+          },
+          {
+            "stringId": "2231792817616855044",
+            "femaleVariant": "咱们被袭击了！"
+          },
+          {
+            "stringId": "2231792817683963908",
+            "femaleVariant": "哎我靠…"
+          },
+          {
+            "stringId": "2231792817784627204",
+            "femaleVariant": "你来干嘛？我没叫人啊。"
+          },
+          {
+            "stringId": "2231792818053062656",
+            "femaleVariant": "你知道自己惹的谁吗？！"
+          },
+          {
+            "stringId": "2231792818103394308",
+            "femaleVariant": "我要动真格的了！"
+          },
+          {
+            "stringId": "2231792818422161412",
+            "femaleVariant": "滋味儿怎么样，嗯？！"
+          },
+          {
+            "stringId": "2231792818522824708",
+            "femaleVariant": "我这就去！"
+          },
+          {
+            "stringId": "2231792818589933572",
+            "femaleVariant": "那婊子要跪了！弄死她！",
+            "maleVariant": "那杂种要跪了！弄死他！"
+          },
+          {
+            "stringId": "2231792818640265220",
+            "femaleVariant": "看我给她来个狠的！哈哈！",
+            "maleVariant": "看我给他来一下狠的！哈哈！"
+          },
+          {
+            "stringId": "2231792818690596868",
+            "femaleVariant": "孙子才藏着不出来！"
+          },
+          {
+            "stringId": "2231792818740928516",
+            "femaleVariant": "等我一下！靠！"
+          },
+          {
+            "stringId": "2231792818808037380",
+            "femaleVariant": "还嫌不够乱吗？！"
+          },
+          {
+            "stringId": "2231792818925477892",
+            "femaleVariant": "我靠！"
+          },
+          {
+            "stringId": "2231792818975809540",
+            "femaleVariant": "干掉那个黑客杂碎！"
+          },
+          {
+            "stringId": "2231792819042918400",
+            "femaleVariant": "这感觉真爽！"
+          },
+          {
+            "stringId": "2231792819093250052",
+            "femaleVariant": "需要支援！靠！"
+          },
+          {
+            "stringId": "2231792819177136132",
+            "femaleVariant": "来啊！怕弄脏衣服吗？"
+          },
+          {
+            "stringId": "2231792819244244996",
+            "femaleVariant": "我要一枪把你崩个大窟窿！"
+          },
+          {
+            "stringId": "2231792819311353860",
+            "femaleVariant": "火力掩护！"
+          },
+          {
+            "stringId": "2231792819378462724",
+            "femaleVariant": "不不！靠！"
+          },
+          {
+            "stringId": "2231961223234199556",
+            "femaleVariant": "你敢动我们帮派的人！"
+          }
+        ]
+      }
+
+
+

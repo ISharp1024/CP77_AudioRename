@@ -1,0 +1,515 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1617455705634856960",
+            "femaleVariant": "Elevator...! Now, V! Move!"
+          },
+          {
+            "stringId": "1617458827841200128",
+            "femaleVariant": "Where's... that fuckin' elevator?"
+          },
+          {
+            "stringId": "1617478803935420416",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Vamos, vamos vamos!\" t=\"Go, go, go!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1617478855844126720",
+            "femaleVariant": "We're sitting ducks out here. Inside, quick!"
+          },
+          {
+            "stringId": "1617478886663872512",
+            "femaleVariant": "Losing time here, c'mon!"
+          },
+          {
+            "stringId": "1621978276015333376",
+            "femaleVariant": "I advise that you waste no time in entering the vehicle."
+          },
+          {
+            "stringId": "1626517897181093888",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Oy, mis huevos!\" b=\"\" a=\" Shiiiit!\"/>"
+          },
+          {
+            "stringId": "1638689384933675008",
+            "femaleVariant": "Hah--... agh! Heh, hng..."
+          },
+          {
+            "stringId": "1638691848214859776",
+            "femaleVariant": "Take us to a ripperdoc!"
+          },
+          {
+            "stringId": "1638691848214859792",
+            "femaleVariant": "How bad is it?"
+          },
+          {
+            "stringId": "1638691848265191424",
+            "femaleVariant": "Take us to a ripperdoc! Now!"
+          },
+          {
+            "stringId": "1638691848332300288",
+            "femaleVariant": "Critical?! Fuck does that mean?!"
+          },
+          {
+            "stringId": "1638691848332300304",
+            "femaleVariant": "Mr. Welles' external iliac artery has ruptured, internal hemorrhaging is severe."
+          },
+          {
+            "stringId": "1638691848466518016",
+            "femaleVariant": "We'll only get the best jobs from now on!"
+          },
+          {
+            "stringId": "1638691848483295244",
+            "femaleVariant": "Think about Misty! You'll see her soon!"
+          },
+          {
+            "stringId": "1638691848583958528",
+            "femaleVariant": "Afterlife… see you there."
+          },
+          {
+            "stringId": "1638691848634290176",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"mija\" b=\"You're gonna be rich \" a=\", I can feel it…\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mijo\" b=\"You're gonna be rich \" a=\", I can feel it…\"/>"
+          },
+          {
+            "stringId": "1638691848634290184",
+            "femaleVariant": "No, Jackie, WE'RE gonna be rich – you and me."
+          },
+          {
+            "stringId": "1638691848667844608",
+            "femaleVariant": "It's gonna be all right! You'll see Misty, your mom… everyone you love."
+          },
+          {
+            "stringId": "1638691848818839552",
+            "femaleVariant": "We'll be gettin' preem jobs left and right now..."
+          },
+          {
+            "stringId": "1638691848869171208",
+            "femaleVariant": "Misty… She knew… She always knew…"
+          },
+          {
+            "stringId": "1638799470851051520",
+            "femaleVariant": "Nice work there… Del…"
+          },
+          {
+            "stringId": "1640032845687476224",
+            "femaleVariant": "Jackie, we did it!"
+          },
+          {
+            "stringId": "1640032845687476240",
+            "femaleVariant": "You're pale, look like a corpse."
+          },
+          {
+            "stringId": "1640033733973954560",
+            "femaleVariant": "We did it, Jackie! We fuckin' made it!"
+          },
+          {
+            "stringId": "1640033811199479808",
+            "femaleVariant": "You're white as a ghost, Jack…"
+          },
+          {
+            "stringId": "1640035749437689856",
+            "femaleVariant": "Heh... Guess we did."
+          },
+          {
+            "stringId": "1640037481987231744",
+            "femaleVariant": "My medical diagnostics indicate that Mr. Welles' condition is critical."
+          },
+          {
+            "stringId": "1640039882001534976",
+            "femaleVariant": "Apologies, but that will not be possible."
+          },
+          {
+            "stringId": "1640141035091578892",
+            "femaleVariant": "Mr. DeShawn awaits you in room number two-oh-four."
+          },
+          {
+            "stringId": "1667627971087487004",
+            "femaleVariant": "Hold on to it. For me."
+          },
+          {
+            "stringId": "1675204966449205248",
+            "femaleVariant": "Take him home, to his family."
+          },
+          {
+            "stringId": "1675204966449205264",
+            "femaleVariant": "Take him to Vik Vektor's clinic."
+          },
+          {
+            "stringId": "1675204966516314112",
+            "femaleVariant": "He'd wanna be with his family."
+          },
+          {
+            "stringId": "1675204966633754624",
+            "femaleVariant": "Vik Vektor'll take care of him."
+          },
+          {
+            "stringId": "1675205667082522624",
+            "femaleVariant": "Mr. Welles' closest blood relative is Guadalupe Alejandra Welles, proprietress of the El Coyote Cojo bar."
+          },
+          {
+            "stringId": "1675205667082522636",
+            "femaleVariant": "I will make sure to deliver him safely."
+          },
+          {
+            "stringId": "1675270431833903104",
+            "femaleVariant": "Mr. Welles has passed. Where shall I take his remains?"
+          },
+          {
+            "stringId": "1675271191606906880",
+            "femaleVariant": "W-what?"
+          },
+          {
+            "stringId": "1675271244438360064",
+            "femaleVariant": "The Excelsior package provides for the disposal of passenger remains free of charge. I merely require a destination."
+          },
+          {
+            "stringId": "1675280795120226304",
+            "femaleVariant": "Of course, understood."
+          },
+          {
+            "stringId": "1675280936854147072",
+            "femaleVariant": "His family shouldn't see him like this."
+          },
+          {
+            "stringId": "1770722129959858176",
+            "femaleVariant": "Not bad!"
+          },
+          {
+            "stringId": "1770723209741479936",
+            "femaleVariant": "Tiptop. Though alas, we are being pursued."
+          },
+          {
+            "stringId": "1773758967721111552",
+            "femaleVariant": "Delamain, gun it!"
+          },
+          {
+            "stringId": "1773760225207005184",
+            "femaleVariant": "We got a tail."
+          },
+          {
+            "stringId": "1773765277111955456",
+            "femaleVariant": "Until I lose the pursuers, I cannot return to our original itinerary."
+          },
+          {
+            "stringId": "1773766615917015040",
+            "femaleVariant": "Here, lemme give you a hand with that."
+          },
+          {
+            "stringId": "1773769999948591104",
+            "femaleVariant": "Eat lead, assholes!"
+          },
+          {
+            "stringId": "1773771703221891072",
+            "femaleVariant": "Rerouting to original itinerary."
+          },
+          {
+            "stringId": "1773773401713684480",
+            "femaleVariant": "Hostile aircraft eliminated."
+          },
+          {
+            "stringId": "1773776291119378432",
+            "femaleVariant": "Hostiles eliminated."
+          },
+          {
+            "stringId": "1786588997274619904",
+            "femaleVariant": "Welcome back. With Delamain, you leave your problems at the door..."
+          },
+          {
+            "stringId": "1786601169128050688",
+            "femaleVariant": "How's our ride lookin'?"
+          },
+          {
+            "stringId": "1786601767873335296",
+            "femaleVariant": "Client feedback noted."
+          },
+          {
+            "stringId": "1786604632549412880",
+            "femaleVariant": "Phew!"
+          },
+          {
+            "stringId": "1893809114449850368",
+            "femaleVariant": "Tiptop. Though alas, we are being pursued."
+          },
+          {
+            "stringId": "1893857609730895872",
+            "femaleVariant": "Leave it to me!"
+          },
+          {
+            "stringId": "1918494174641725440",
+            "femaleVariant": "Jackie! Don't close your eyes!"
+          },
+          {
+            "stringId": "1918497680878542848",
+            "femaleVariant": "Hear me, Jack?"
+          },
+          {
+            "stringId": "1922951648685924352",
+            "femaleVariant": "We'll have problems if you don't fuckin' DRIVE!"
+          },
+          {
+            "stringId": "1922986956102115328",
+            "femaleVariant": "The biochip…"
+          },
+          {
+            "stringId": "1923004811220688896",
+            "femaleVariant": "So hurry up!"
+          },
+          {
+            "stringId": "1923007246366482432",
+            "femaleVariant": "You've gotta hold tight, Jackie. You hear me?!"
+          },
+          {
+            "stringId": "1927066866617753600",
+            "femaleVariant": "Our itinerary has been pre-arranged and paid for in advance. I am not at liberty to alter it."
+          },
+          {
+            "stringId": "1927092416790994944",
+            "femaleVariant": "Fuck your liberty! Do what I say!"
+          },
+          {
+            "stringId": "1927092583623630848",
+            "femaleVariant": "It's OK, V… I'll hold out…"
+          },
+          {
+            "stringId": "1927094031782584320",
+            "femaleVariant": "Then step on it!"
+          },
+          {
+            "stringId": "1927094457504440320",
+            "femaleVariant": "I am doing what I can."
+          },
+          {
+            "stringId": "1927096385458216960",
+            "femaleVariant": "I suggest you try to keep Mr. Welles conscious."
+          },
+          {
+            "stringId": "1927488246261817344",
+            "femaleVariant": "Just… give me a minute."
+          },
+          {
+            "stringId": "1927488622021124096",
+            "femaleVariant": "Just… gimme a sec, will ya?!"
+          },
+          {
+            "stringId": "1927490519960461312",
+            "femaleVariant": "[Touch shoulder] See you in the major leagues."
+          },
+          {
+            "stringId": "1927493329942814720",
+            "femaleVariant": "Mr. Welles' remains… Where shall I take them?"
+          },
+          {
+            "stringId": "1927494175984263168",
+            "femaleVariant": "See ya in the major leagues, Jack."
+          },
+          {
+            "stringId": "1943147587552956416",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Madreees...ya!\" t=\"Fuuuuuuck!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1943207263908941824",
+            "femaleVariant": "Sweet fuckin' Jesus!"
+          },
+          {
+            "stringId": "1943208209103736832",
+            "femaleVariant": "Combat mode activated. Please remain calm."
+          },
+          {
+            "stringId": "1954790943060152320",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Órale!\" b=\"\" a=\", we gotta plough through 'em!\"/>"
+          },
+          {
+            "stringId": "1954791182773014532",
+            "femaleVariant": "Ain't doin' too bad… Just a little further…"
+          },
+          {
+            "stringId": "1954794988499914752",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Los hijos de la chingada también están aquí!\" t=\"They're here too, the cocksuckers!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1954795386774245380",
+            "femaleVariant": "Shit… They're everywhere…"
+          },
+          {
+            "stringId": "1954869280998707200",
+            "femaleVariant": "Shit! They spotted us!"
+          },
+          {
+            "stringId": "1954877966898974720",
+            "femaleVariant": "They knew we were comin'!"
+          },
+          {
+            "stringId": "1954878069223215108",
+            "femaleVariant": "Don't think they're expectin' us… Good."
+          },
+          {
+            "stringId": "1954879315283824640",
+            "femaleVariant": "Wouldn't wanna disappoint 'em!"
+          },
+          {
+            "stringId": "1954880577249234944",
+            "femaleVariant": "Not a sound, Jack. Not in the clear yet."
+          },
+          {
+            "stringId": "1959232021200916484",
+            "femaleVariant": "Road block ahead."
+          },
+          {
+            "stringId": "1959232327653543940",
+            "femaleVariant": "I kindly request that you brace for impact."
+          },
+          {
+            "stringId": "1964916904890802176",
+            "femaleVariant": "Delamain...!"
+          },
+          {
+            "stringId": "1964921146959536128",
+            "femaleVariant": "Calm?!"
+          },
+          {
+            "stringId": "1967672038130733056",
+            "femaleVariant": "Hey, got a shard with security clearance!"
+          },
+          {
+            "stringId": "1967672190165864448",
+            "femaleVariant": "Shard gives us access to the door."
+          },
+          {
+            "stringId": "1976292676805210112",
+            "femaleVariant": "Nowhere. Wait for me here."
+          },
+          {
+            "stringId": "1976295768376356864",
+            "femaleVariant": "Nowhere."
+          },
+          {
+            "stringId": "1976396943696142336",
+            "femaleVariant": "Stay here and don't move. I'll be right back."
+          },
+          {
+            "stringId": "1976397176228356096",
+            "femaleVariant": "Understood."
+          },
+          {
+            "stringId": "1982310279247896576",
+            "femaleVariant": "A hostile enemy aircraft has a lock on us."
+          },
+          {
+            "stringId": "1982310642709504000",
+            "femaleVariant": "Why can't they just… give up…"
+          },
+          {
+            "stringId": "1982321398431686656",
+            "femaleVariant": "See…? Told ya we'd… make it…"
+          },
+          {
+            "stringId": "1986411795143532544",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1986412078997250048",
+            "femaleVariant": "Saburo Arasaka…"
+          },
+          {
+            "stringId": "1986413167905677312",
+            "femaleVariant": "Hundred and fifty years… and today… of all fuckin' days…"
+          },
+          {
+            "stringId": "1986413864646680576",
+            "femaleVariant": "That's like... some divine comedy shit… heheheee… agh..."
+          },
+          {
+            "stringId": "1986415070207090688",
+            "femaleVariant": "Think this is funny?!"
+          },
+          {
+            "stringId": "1986415469085401088",
+            "femaleVariant": "Save your strength."
+          },
+          {
+            "stringId": "1986415921315258368",
+            "femaleVariant": "Think all this is funny?!"
+          },
+          {
+            "stringId": "1986416454226747392",
+            "femaleVariant": "Yeah… I do."
+          },
+          {
+            "stringId": "1986416684024274944",
+            "femaleVariant": "Your liver could be fucked!"
+          },
+          {
+            "stringId": "1986417331826139136",
+            "femaleVariant": "Save your strength, Jackie."
+          },
+          {
+            "stringId": "1986419278385848320",
+            "femaleVariant": "Had it comin', heheh."
+          },
+          {
+            "stringId": "1986507409940357120",
+            "femaleVariant": "Whaddaya think I'm doin'?"
+          },
+          {
+            "stringId": "1986555321374285824",
+            "femaleVariant": "Uhmmm… 'Course…"
+          },
+          {
+            "stringId": "1993721768110268416",
+            "femaleVariant": "Client feedback noted."
+          },
+          {
+            "stringId": "2011692169528418304",
+            "femaleVariant": "Buuut… chill, V. We'll get out alive."
+          },
+          {
+            "stringId": "2011693767205920768",
+            "femaleVariant": "'Cause you say so?!"
+          },
+          {
+            "stringId": "2011693767205920784",
+            "femaleVariant": "Talk to T-Bug."
+          },
+          {
+            "stringId": "2011695755322794004",
+            "femaleVariant": "Why? 'Cause you fuckin' say so?!"
+          },
+          {
+            "stringId": "2011695755389902860",
+            "femaleVariant": "Tell Bug, why don'tcha. Maybe she'd still be alive if we hadn't been so gung-fuckin'-ho!"
+          },
+          {
+            "stringId": "2011695755440234504",
+            "femaleVariant": "Don't... take this... out on me… Can see… how the chips're fallin'..."
+          },
+          {
+            "stringId": "2014500975731875864",
+            "femaleVariant": "Argh… I'm leakin' a little…"
+          },
+          {
+            "stringId": "2033045176898547716",
+            "femaleVariant": "[Get out]"
+          },
+          {
+            "stringId": "2248837877357867012",
+            "femaleVariant": "[Get in]"
+          }
+        ]
+      }
+
+
+

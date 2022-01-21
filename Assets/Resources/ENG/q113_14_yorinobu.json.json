@@ -1,0 +1,544 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1730251372773777408",
+            "femaleVariant": "Almost... there."
+          },
+          {
+            "stringId": "1764773498032504832",
+            "femaleVariant": "I am as well."
+          },
+          {
+            "stringId": "1764773972458618880",
+            "femaleVariant": "You will watch him, nothing more."
+          },
+          {
+            "stringId": "1764777519766061056",
+            "femaleVariant": "I will stay here."
+          },
+          {
+            "stringId": "1764788193162444800",
+            "femaleVariant": "Wouldn'ta changed a thing."
+          },
+          {
+            "stringId": "1764793118164533248",
+            "femaleVariant": "Wouldn'ta changed... a damn thing."
+          },
+          {
+            "stringId": "1764796995983130624",
+            "femaleVariant": "Mean your beloved sibling...? One your men... almost shot and killed?"
+          },
+          {
+            "stringId": "1764798658403909632",
+            "femaleVariant": "Any danger she was in was because of you, no one else."
+          },
+          {
+            "stringId": "1764809843236945920",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ハナコ\" t=\"Hanako.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1764812022580527104",
+            "femaleVariant": "I thank you, V. That will be all."
+          },
+          {
+            "stringId": "1764812290730770432",
+            "femaleVariant": "I will keep my end of our agreement. You will go with Hellman."
+          },
+          {
+            "stringId": "1764812556632866816",
+            "femaleVariant": "I must stay with my brother."
+          },
+          {
+            "stringId": "1764818464779812864",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"わかってる\" t=\"I know.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1764821320329084928",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"だが、もう… 疲れた…\" t=\"I'm just... tired...\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1764822155062689792",
+            "femaleVariant": "Fate is a fickle mistress, isn't she?"
+          },
+          {
+            "stringId": "1764822519379935232",
+            "femaleVariant": "You spend your whole life fighting something…"
+          },
+          {
+            "stringId": "1764822812914106368",
+            "femaleVariant": "Only to become that very same thing."
+          },
+          {
+            "stringId": "1811303377379393536",
+            "femaleVariant": "Violent delights with violent ends…"
+          },
+          {
+            "stringId": "1811333724326461440",
+            "femaleVariant": "You?"
+          },
+          {
+            "stringId": "1812519762868699140",
+            "femaleVariant": "A guy who lost."
+          },
+          {
+            "stringId": "1812520064506265600",
+            "femaleVariant": "Terror."
+          },
+          {
+            "stringId": "1812521791066341376",
+            "femaleVariant": "A failed coup."
+          },
+          {
+            "stringId": "1812534040866717696",
+            "femaleVariant": "Terror."
+          },
+          {
+            "stringId": "1812535291994046464",
+            "femaleVariant": "Know what I see...? A corporate coup... that failed."
+          },
+          {
+            "stringId": "1812537057108164608",
+            "femaleVariant": "The one thing I cannot deny him – he knew how to cause fear in people."
+          },
+          {
+            "stringId": "1812537330341904384",
+            "femaleVariant": "Even now. You saw! Idiots terrified of a dead man talking from a box!"
+          },
+          {
+            "stringId": "1812547933827629056",
+            "femaleVariant": "He once told me anything of value is only a flag blowing in wind."
+          },
+          {
+            "stringId": "1812568124099788800",
+            "femaleVariant": "Your men're out there... spilling blood... for no reason...",
+            "maleVariant": "Your men out there... spillin' blood... for no reason…"
+          },
+          {
+            "stringId": "1812574171212414976",
+            "femaleVariant": "And deaths... that could've been... avoided."
+          },
+          {
+            "stringId": "1812574324472283136",
+            "femaleVariant": "Avoided?"
+          },
+          {
+            "stringId": "1812574425437569024",
+            "femaleVariant": "You've lost..."
+          },
+          {
+            "stringId": "1812629191756742656",
+            "femaleVariant": "Fear. Ever since I can remember."
+          },
+          {
+            "stringId": "1812632513611956224",
+            "femaleVariant": "It is they who have lost."
+          },
+          {
+            "stringId": "1812633876190330880",
+            "femaleVariant": "Saburo."
+          },
+          {
+            "stringId": "1812686126195539968",
+            "femaleVariant": "That was the one time he was wrong."
+          },
+          {
+            "stringId": "1812695621126717440",
+            "femaleVariant": "Won't last long, though..."
+          },
+          {
+            "stringId": "1812720544704495616",
+            "femaleVariant": "Pathetic."
+          },
+          {
+            "stringId": "1812732321957806084",
+            "femaleVariant": "[Move weapon away] Won't need that."
+          },
+          {
+            "stringId": "1812733448849850368",
+            "femaleVariant": "This… you won't need."
+          },
+          {
+            "stringId": "1812735471896887296",
+            "femaleVariant": "Just one bullet left."
+          },
+          {
+            "stringId": "1812756784984227840",
+            "femaleVariant": "What do you see?"
+          },
+          {
+            "stringId": "1812760281825804288",
+            "femaleVariant": "I tried to protect her."
+          },
+          {
+            "stringId": "1812773702457753600",
+            "femaleVariant": "Where is my sister?"
+          },
+          {
+            "stringId": "1812774610776227844",
+            "femaleVariant": "[Sit] Don't move. She'll be here any minute."
+          },
+          {
+            "stringId": "1812774896710320128",
+            "femaleVariant": "Be here... any sec, now."
+          },
+          {
+            "stringId": "1812775257001033728",
+            "femaleVariant": "[Sit] Sister you almost killed?"
+          },
+          {
+            "stringId": "1812776755692961792",
+            "femaleVariant": "Till then... supposed to watch you... so don't try anything."
+          },
+          {
+            "stringId": "1812777300348502016",
+            "femaleVariant": "What would I try? I have tried everything – nothing else remain."
+          },
+          {
+            "stringId": "1812783472283615232",
+            "femaleVariant": "Kyoto."
+          },
+          {
+            "stringId": "1812786215761084416",
+            "femaleVariant": "Dubai... Paris..."
+          },
+          {
+            "stringId": "1812787177565323264",
+            "femaleVariant": "These people had a chance today…"
+          },
+          {
+            "stringId": "1812789993453256704",
+            "femaleVariant": "But they lost it."
+          },
+          {
+            "stringId": "1812791346921603072",
+            "femaleVariant": "A chance...? A chance for what...?"
+          },
+          {
+            "stringId": "1812791501154549760",
+            "femaleVariant": "To forget their fear."
+          },
+          {
+            "stringId": "1813920561503010816",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"俺は結果を恐れたりしない。一度も恐れたことはない\" t=\"I do not fear the consequences. I have never feared them.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1813922483182108672",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"いいのよ、兄さん…\" t=\"There, there, Yori…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1813923509444411392",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"もうお休みなさい\" t=\"It is time you rested.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1813976407452811264",
+            "femaleVariant": "Say what, now...?"
+          },
+          {
+            "stringId": "1814006021453643776",
+            "femaleVariant": "A guy... who lost."
+          },
+          {
+            "stringId": "1814022075638743040",
+            "femaleVariant": "It's not for you."
+          },
+          {
+            "stringId": "1814022848195985408",
+            "femaleVariant": "Just one?"
+          },
+          {
+            "stringId": "1814023095995465728",
+            "femaleVariant": "I see millions."
+          },
+          {
+            "stringId": "1814029022865784832",
+            "femaleVariant": "This is nonsense."
+          },
+          {
+            "stringId": "1814029563192803328",
+            "femaleVariant": "Don't understand."
+          },
+          {
+            "stringId": "1814030775447322624",
+            "femaleVariant": "This is nonsense..."
+          },
+          {
+            "stringId": "1814030937230016512",
+            "femaleVariant": "This how you wanna help people... forget their fear? By killing them...?"
+          },
+          {
+            "stringId": "1814034734081769472",
+            "femaleVariant": "Sorry... just don't get it."
+          },
+          {
+            "stringId": "1814063613945184256",
+            "femaleVariant": "Not all... not yet!"
+          },
+          {
+            "stringId": "1814067567210921984",
+            "femaleVariant": "And you?"
+          },
+          {
+            "stringId": "1814067861667840000",
+            "femaleVariant": "Leave us."
+          },
+          {
+            "stringId": "1814069810307923968",
+            "femaleVariant": "Come, time to look to your problem."
+          },
+          {
+            "stringId": "1814138702556430336",
+            "femaleVariant": "Almost... there."
+          },
+          {
+            "stringId": "1814140077969375232",
+            "femaleVariant": "Remember, do not harm a hair on his head."
+          },
+          {
+            "stringId": "1814148897718272000",
+            "femaleVariant": "I remember. Privilege... is all yours."
+          },
+          {
+            "stringId": "1814153083969208320",
+            "femaleVariant": "If I go through that door, I will kill him."
+          },
+          {
+            "stringId": "1814172819629146112",
+            "femaleVariant": "I would change that. If only you did not appear."
+          },
+          {
+            "stringId": "1814177778235998208",
+            "femaleVariant": "She was to remain at the estate. Stay out of the way."
+          },
+          {
+            "stringId": "1814178425433882624",
+            "femaleVariant": "Where is she?"
+          },
+          {
+            "stringId": "1814179058656346112",
+            "femaleVariant": "Look."
+          },
+          {
+            "stringId": "1814188731157577728",
+            "femaleVariant": "And wind is fear."
+          },
+          {
+            "stringId": "1814192978427248640",
+            "femaleVariant": "You're exactly like him... All you want... is power."
+          },
+          {
+            "stringId": "1814193124456136704",
+            "femaleVariant": "You're even worse than Saburo."
+          },
+          {
+            "stringId": "1814194290925633536",
+            "femaleVariant": "You're even worse... than him."
+          },
+          {
+            "stringId": "1814195428957749248",
+            "femaleVariant": "Saburo ruled... with an iron fist, but he didn't... need a purge... to hold onto power.",
+            "maleVariant": "Saburo ruled... with an iron fist, but he didn't need a purge... to hold onto power."
+          },
+          {
+            "stringId": "1815436412748169216",
+            "femaleVariant": "You become bomb."
+          },
+          {
+            "stringId": "1815701927408304128",
+            "femaleVariant": "Power?"
+          },
+          {
+            "stringId": "1815702212755193856",
+            "femaleVariant": "You... You think I wanted power?"
+          },
+          {
+            "stringId": "1815703471197388800",
+            "femaleVariant": "Power? Hah... truly? Power?"
+          },
+          {
+            "stringId": "1815771519770034176",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "1815773885844029440",
+            "femaleVariant": "And then... you know what he did? Blew in my face."
+          },
+          {
+            "stringId": "1815779097468076032",
+            "femaleVariant": "And others? It worked on them. They feared him."
+          },
+          {
+            "stringId": "1816876981856894976",
+            "femaleVariant": "And...? What it give us?"
+          },
+          {
+            "stringId": "1817103687813300224",
+            "femaleVariant": "Quite literally."
+          },
+          {
+            "stringId": "1837104310493515776",
+            "femaleVariant": "Fifty years ago terrorists blew this building into smoke."
+          },
+          {
+            "stringId": "1837105396835028992",
+            "femaleVariant": "If planting bombs not enough, what can you do?"
+          },
+          {
+            "stringId": "1837117112767614980",
+            "femaleVariant": "Thanks. Can't believe we did it."
+          },
+          {
+            "stringId": "1837117917822324736",
+            "femaleVariant": "Thanks, Goro... Can't believe... we actually pulled it off."
+          },
+          {
+            "stringId": "1837277160848363520",
+            "femaleVariant": "Yeah... so I heard."
+          },
+          {
+            "stringId": "1837277790312730624",
+            "femaleVariant": "Not much."
+          },
+          {
+            "stringId": "1837281272977559552",
+            "femaleVariant": "Nothing!"
+          },
+          {
+            "stringId": "1837283129477173248",
+            "femaleVariant": "But I learn lesson!"
+          },
+          {
+            "stringId": "1842988048553218048",
+            "femaleVariant": "And your agreement with Hanako-sama will be undone."
+          },
+          {
+            "stringId": "1842988447750295552",
+            "femaleVariant": "It is the last favor I can do for you."
+          },
+          {
+            "stringId": "1843009456649932800",
+            "femaleVariant": "Go, V. Finish what we started."
+          },
+          {
+            "stringId": "1843243291010535424",
+            "femaleVariant": "Do yourself a favor, Goro. Ghost... get outta here."
+          },
+          {
+            "stringId": "1843243631034372096",
+            "femaleVariant": "Pardon...?"
+          },
+          {
+            "stringId": "1843243683362508800",
+            "femaleVariant": "Forget Arasaka."
+          },
+          {
+            "stringId": "1843244422902190080",
+            "femaleVariant": "Don't you get it...? You were Saburo's bodyguard... and you failed him."
+          },
+          {
+            "stringId": "1843245068271357952",
+            "femaleVariant": "I... I do not know..."
+          },
+          {
+            "stringId": "1843246683950813184",
+            "femaleVariant": "Think they're gonna raise their glasses... to you?"
+          },
+          {
+            "stringId": "1843249540372500480",
+            "femaleVariant": "Hit the streets, disappear... get gigs, feed cats… Just stay clear of Arasaka."
+          },
+          {
+            "stringId": "1843267840070520832",
+            "femaleVariant": "Do yourself a favor – get outta here."
+          },
+          {
+            "stringId": "1843270350713786368",
+            "femaleVariant": "You know I cannot do that."
+          },
+          {
+            "stringId": "1843271391387717632",
+            "femaleVariant": "But I thank you. Truly."
+          },
+          {
+            "stringId": "1863433761340596224",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"やめて。人の前よ\" t=\"Quiet, not in front of strangers.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1863438340077723648",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"待っていたぞ… 世界が崩れ去る時は、必ずお前がそこにいる\" t=\"I've been waiting for you... When the world turns to rubble, you always appear.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1863444095904325632",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"兄さん\" t=\"Yorinobu.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1886410598805225472",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1886553994928668676",
+            "femaleVariant": "We should leave them."
+          },
+          {
+            "stringId": "1886553994962223108",
+            "femaleVariant": "Come on. You can barely stand."
+          },
+          {
+            "stringId": "1925677343180931072",
+            "femaleVariant": "She'll be here in a sec. Stay put."
+          },
+          {
+            "stringId": "1925677343180931088",
+            "femaleVariant": "The sister you almost killed?"
+          },
+          {
+            "stringId": "2089643690079371264",
+            "femaleVariant": "And you?"
+          },
+          {
+            "stringId": "2121504880296280064",
+            "femaleVariant": "[Take one last trip]"
+          },
+          {
+            "stringId": "2228675042219499520",
+            "femaleVariant": "You're morally bankrupt. Abandoned everything…"
+          },
+          {
+            "stringId": "2228676119048331264",
+            "femaleVariant": "To think you once dared to lead your own gang…"
+          },
+          {
+            "stringId": "2228677970162458624",
+            "femaleVariant": "But dropped that, all your dreams, ideals… to seek power."
+          },
+          {
+            "stringId": "2230339558707666944",
+            "femaleVariant": "What are you waiting for? Press the damned button."
+          },
+          {
+            "stringId": "2230345571896762376",
+            "femaleVariant": "Get the fuck back here."
+          },
+          {
+            "stringId": "2230347837039026176",
+            "femaleVariant": "Do you not understand? You are no longer needed. Go with Hellman."
+          }
+        ]
+      }
+
+
+

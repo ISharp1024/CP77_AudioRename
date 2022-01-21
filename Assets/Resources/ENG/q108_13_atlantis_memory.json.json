@@ -1,0 +1,386 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1697929369056354304",
+            "femaleVariant": "Silverhand!"
+          },
+          {
+            "stringId": "1697929754093461504",
+            "femaleVariant": "How's things, Engels?"
+          },
+          {
+            "stringId": "1697930134651052032",
+            "femaleVariant": "You know who he was talkin' to. I need a name. Just one."
+          },
+          {
+            "stringId": "1697930488079884288",
+            "femaleVariant": "J. Percy Hackworth? Is that really the name?"
+          },
+          {
+            "stringId": "1697932290523308032",
+            "femaleVariant": "Three minutes to get out of the building. That's it."
+          },
+          {
+            "stringId": "1697932943962316800",
+            "femaleVariant": "No, no, that one don't work for Prothero anymore."
+          },
+          {
+            "stringId": "1715768918004375556",
+            "femaleVariant": "Rogue in there?"
+          },
+          {
+            "stringId": "1715769593991962624",
+            "femaleVariant": "Rogue back there, too?"
+          },
+          {
+            "stringId": "1715773047615430656",
+            "femaleVariant": "Seen Rogue?"
+          },
+          {
+            "stringId": "1715773047648985088",
+            "femaleVariant": "You seen Rogue?"
+          },
+          {
+            "stringId": "1715773495751647232",
+            "femaleVariant": "[Pay] It's your lucky day."
+          },
+          {
+            "stringId": "1715773800191008768",
+            "femaleVariant": "Guess it's your lucky day."
+          },
+          {
+            "stringId": "1715775770876354560",
+            "femaleVariant": "Yeah, just…"
+          },
+          {
+            "stringId": "1715776876176121856",
+            "femaleVariant": "She's upstairs."
+          },
+          {
+            "stringId": "1715778533664399360",
+            "femaleVariant": "Ah, much appreciated. Want a drink?"
+          },
+          {
+            "stringId": "1715804245855215616",
+            "femaleVariant": "This enough to refresh things for ya?"
+          },
+          {
+            "stringId": "1715806846474690560",
+            "femaleVariant": "What's it matter? Got your advance, didn't you?"
+          },
+          {
+            "stringId": "1715807633527447552",
+            "femaleVariant": "I wish I could remember, I do."
+          },
+          {
+            "stringId": "1715809102792138752",
+            "femaleVariant": "Run faster, then."
+          },
+          {
+            "stringId": "1715810064445382656",
+            "femaleVariant": "Nowhere near enough. Shockwave's gonna fuck with everything within a five hundred-yard radius."
+          },
+          {
+            "stringId": "1715813326892474368",
+            "femaleVariant": "Yeah, yeah, private meet, so you said. Promise to be super unobtrusive."
+          },
+          {
+            "stringId": "1715859540119822336",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1715869724376473600",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1715870036399136768",
+            "femaleVariant": "What the fuck?"
+          },
+          {
+            "stringId": "1732749624989782016",
+            "femaleVariant": "Dee Turner made it. No reason you shouldn't…"
+          },
+          {
+            "stringId": "1732750095842349056",
+            "femaleVariant": "Wouldn't be talking to us if you could afford Dee."
+          },
+          {
+            "stringId": "1732750727705858048",
+            "femaleVariant": "So quit pissing around the issue and fucking tell Sid he has to wait for our signal, all right?"
+          },
+          {
+            "stringId": "1732757446125228032",
+            "femaleVariant": "Your first time here, isn't it. Want some advice?"
+          },
+          {
+            "stringId": "1732757867468230656",
+            "femaleVariant": "Sure."
+          },
+          {
+            "stringId": "1732758116156903424",
+            "femaleVariant": "Go the fuck away."
+          },
+          {
+            "stringId": "1732764368018673664",
+            "femaleVariant": "Got an IOU here with your autograph on it."
+          },
+          {
+            "stringId": "1732768204095557632",
+            "femaleVariant": "The usual. Please."
+          },
+          {
+            "stringId": "1732769698911948800",
+            "femaleVariant": "But I heard you two weren't, uh…"
+          },
+          {
+            "stringId": "1732770015917445120",
+            "femaleVariant": "Well, ya heard wrong."
+          },
+          {
+            "stringId": "1732771321084186624",
+            "femaleVariant": "And we're looking for a… book?"
+          },
+          {
+            "stringId": "1732771646780280832",
+            "femaleVariant": "Looks like a book. But it's nano, interactive, state-of-the-art, a prototype of some sort."
+          },
+          {
+            "stringId": "1732772957181513728",
+            "femaleVariant": "Nanotech. Interactive. A prototype."
+          },
+          {
+            "stringId": "1732773499958005760",
+            "femaleVariant": "Fuckmuffin, got no idea what it is and he wasn't all that willing to go into it."
+          },
+          {
+            "stringId": "1732774322846896128",
+            "femaleVariant": "Looks like a kids' book. Castles, skeleton keys and King Coyote."
+          },
+          {
+            "stringId": "1732790930713677824",
+            "femaleVariant": "Nope. No idea what happened."
+          },
+          {
+            "stringId": "1732791225808130048",
+            "femaleVariant": "Could be. What was her name again? Yishen?"
+          },
+          {
+            "stringId": "1732880375521546240",
+            "femaleVariant": "Ah, it's you."
+          },
+          {
+            "stringId": "1732882265525260288",
+            "femaleVariant": "Silverhand. By his lonesome far as I can tell."
+          },
+          {
+            "stringId": "1732887087699791872",
+            "femaleVariant": "No, no, keep it. Who the hell knows where that mouth's been."
+          },
+          {
+            "stringId": "1732890066779705344",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1732890609338093568",
+            "femaleVariant": "Got a private meet goin' on in there."
+          },
+          {
+            "stringId": "1753195817592594436",
+            "femaleVariant": "You seen Rogue?"
+          },
+          {
+            "stringId": "1753201532583452676",
+            "femaleVariant": "Rogue here?"
+          },
+          {
+            "stringId": "1753206450237120512",
+            "femaleVariant": "You seen Rogue?"
+          },
+          {
+            "stringId": "1753206814269153280",
+            "femaleVariant": "Nope. Not today."
+          },
+          {
+            "stringId": "1753209435373608960",
+            "femaleVariant": "You guys seen Rogue?"
+          },
+          {
+            "stringId": "1753209435373608968",
+            "femaleVariant": "You're fucking gonked, Johnny."
+          },
+          {
+            "stringId": "1753333606585901056",
+            "femaleVariant": "Oooh – so I been on your mind?"
+          },
+          {
+            "stringId": "1753336386235047940",
+            "femaleVariant": "Seen Rogue?"
+          },
+          {
+            "stringId": "1753340458837123072",
+            "femaleVariant": "Got something for me?"
+          },
+          {
+            "stringId": "1753341215103688704",
+            "femaleVariant": "Seen Rogue around here?"
+          },
+          {
+            "stringId": "1753341295466553344",
+            "femaleVariant": "Got some sugar for me?"
+          },
+          {
+            "stringId": "1753343955812917248",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "1753344760850849792",
+            "femaleVariant": "Maaaaybe, baby. But you gotta do somethin' for me first."
+          },
+          {
+            "stringId": "1753346776029372416",
+            "femaleVariant": "And definitely DON'T wash it down with CHOOH2."
+          },
+          {
+            "stringId": "1753347368147656704",
+            "femaleVariant": "Fucking fuck."
+          },
+          {
+            "stringId": "1753350240591585284",
+            "femaleVariant": "Thought you weren't talking to me."
+          },
+          {
+            "stringId": "1753350892319318016",
+            "femaleVariant": "Heard you weren't talking to me."
+          },
+          {
+            "stringId": "1753351312471138304",
+            "femaleVariant": "Why not – you try it?"
+          },
+          {
+            "stringId": "1753352934676930560",
+            "femaleVariant": "What – you fuckin' forget who you gave the job to?"
+          },
+          {
+            "stringId": "1753356528021053440",
+            "femaleVariant": "Randy and his crew were faster. End of story."
+          },
+          {
+            "stringId": "1764726412590518272",
+            "femaleVariant": "Jeez saw her, though. With somebody new."
+          },
+          {
+            "stringId": "1764730903868018688",
+            "femaleVariant": "Whatever you want."
+          },
+          {
+            "stringId": "1764731148026843136",
+            "femaleVariant": "Just not this minute. I'm in a hurry."
+          },
+          {
+            "stringId": "1764751028860030976",
+            "femaleVariant": "Johnny! Gimme a hand here?"
+          },
+          {
+            "stringId": "1764752846704939008",
+            "femaleVariant": "Dunno. Seem to be talking to you."
+          },
+          {
+            "stringId": "1764753539100643328",
+            "femaleVariant": "How 'bout now?"
+          },
+          {
+            "stringId": "1764753886707781632",
+            "femaleVariant": "Now you can go fuck yourself."
+          },
+          {
+            "stringId": "1764763744244928512",
+            "femaleVariant": "So this was a fucking race?"
+          },
+          {
+            "stringId": "1764764172802134016",
+            "femaleVariant": "Somethin' like that, yeah. Got a new client payin' double for express service."
+          },
+          {
+            "stringId": "1764885710947815424",
+            "femaleVariant": "Well, maybe if I'd known the new rules..."
+          },
+          {
+            "stringId": "1764886162053599232",
+            "femaleVariant": "'Ey, we didn't know Mae gave you the job first, either."
+          },
+          {
+            "stringId": "1764887779092008960",
+            "femaleVariant": "So, A, you had a head start."
+          },
+          {
+            "stringId": "1764901548455170048",
+            "femaleVariant": "And B, you're fucking amateurs. No offense."
+          },
+          {
+            "stringId": "1764906931005493248",
+            "femaleVariant": "Or were you tryna kill the motherfucka twice, just to be sure?"
+          },
+          {
+            "stringId": "1764908371782471680",
+            "femaleVariant": "And I like to be sure I can deliver."
+          },
+          {
+            "stringId": "1772166288168521728",
+            "femaleVariant": "She'll rip your balls off."
+          },
+          {
+            "stringId": "1772169633931268096",
+            "femaleVariant": "We'll see about that. So?"
+          },
+          {
+            "stringId": "1772171401461305344",
+            "femaleVariant": "Room in the back."
+          },
+          {
+            "stringId": "1772176025983455232",
+            "femaleVariant": "We got a problem here?"
+          },
+          {
+            "stringId": "1772176328443105280",
+            "femaleVariant": "There a problem?"
+          },
+          {
+            "stringId": "1772177846160396288",
+            "femaleVariant": "Yeah, actually..."
+          },
+          {
+            "stringId": "1772178675206524928",
+            "femaleVariant": "Kissy, come on. He just wants something from us."
+          },
+          {
+            "stringId": "1772183644869562368",
+            "femaleVariant": "Well?"
+          },
+          {
+            "stringId": "1989632722538135556",
+            "femaleVariant": "[Punch] And now?"
+          },
+          {
+            "stringId": "1989686937356664836",
+            "femaleVariant": "Engels, what's up?"
+          }
+        ]
+      }
+
+
+

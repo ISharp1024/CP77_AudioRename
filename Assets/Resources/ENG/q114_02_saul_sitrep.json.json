@@ -1,0 +1,491 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1742988975937474560",
+            "femaleVariant": "The whole clan knows we set out tomorrow."
+          },
+          {
+            "stringId": "1742988975937474568",
+            "femaleVariant": "They know why, what our aim is?"
+          },
+          {
+            "stringId": "1770683577578344448",
+            "femaleVariant": "So you wanna tunnel into Arasaka Tower."
+          },
+          {
+            "stringId": "1770683860559646720",
+            "femaleVariant": "I know how it sounds. But we'd be plumb fools not to take advantage."
+          },
+          {
+            "stringId": "1770684746933522432",
+            "femaleVariant": "You see, Night Corp's building a new maglev line in the area. Granted, it's guarded by Militech, but they're nothing we can't handle."
+          },
+          {
+            "stringId": "1770685310362767360",
+            "femaleVariant": "Once we're in that tunnel, it's just half a mile to the substratum levels of Arasaka Tower."
+          },
+          {
+            "stringId": "1770695322686509056",
+            "femaleVariant": "They're using one of Night Corp's SERCs. It would only need a few minutes to dig that distance."
+          },
+          {
+            "stringId": "1770699443892178960",
+            "femaleVariant": "How you expect to handle Militech at the construction site?"
+          },
+          {
+            "stringId": "1770708858326274048",
+            "femaleVariant": "Come find us later. I'll leave you in Saul's hands now."
+          },
+          {
+            "stringId": "1770763903986094080",
+            "femaleVariant": "Construction site – whadda we got for security? Whole place spiked? Militech out in full force?"
+          },
+          {
+            "stringId": "1810959067551420416",
+            "femaleVariant": "It's your average hard-hat area – nothing too scary. But we can't just walk past 'em."
+          },
+          {
+            "stringId": "1810960539987005440",
+            "femaleVariant": "I'll talk to our brothers and sisters, get a drone buzzing over that site."
+          },
+          {
+            "stringId": "1814046411846373380",
+            "femaleVariant": "Needed some sleep, is all. Heard you were already cookin' up a plan?"
+          },
+          {
+            "stringId": "1814052030166913024",
+            "femaleVariant": "We still have details to iron out, but we know the who, where and how."
+          },
+          {
+            "stringId": "1814052707547009024",
+            "femaleVariant": "Wanna dig under 'Saka Tower."
+          },
+          {
+            "stringId": "1814052870889984000",
+            "femaleVariant": "And we know this'll work?"
+          },
+          {
+            "stringId": "1814053421887311872",
+            "femaleVariant": "Sure these plans're up-to-date, completely reliable?"
+          },
+          {
+            "stringId": "1814055328936677376",
+            "femaleVariant": "Positively. We went to our Snake Nation sources."
+          },
+          {
+            "stringId": "1814055431764234240",
+            "femaleVariant": "They've been turning stones over in that area."
+          },
+          {
+            "stringId": "1814055803010469888",
+            "femaleVariant": "I'm not one to lie, this tunnel gambit is risky. But if it works, that's our way into Mikoshi."
+          },
+          {
+            "stringId": "1814062873751375872",
+            "femaleVariant": "We'll need bucketloads more information. It's the only way to determine if this plan holds water."
+          },
+          {
+            "stringId": "1814066240586305536",
+            "femaleVariant": "It'll prove full of holes no matter what we turn up, Saul, I can tell you that already."
+          },
+          {
+            "stringId": "1814066448506343424",
+            "femaleVariant": "Ahh. Panam is right. We have to accept these risks come what may. That much we owe you."
+          },
+          {
+            "stringId": "1834186731841966080",
+            "femaleVariant": "So, V, I heard talk that there's a war comin'."
+          },
+          {
+            "stringId": "1834304253991899136",
+            "femaleVariant": "[Lean on table] I'm fine. Let's go over the plan."
+          },
+          {
+            "stringId": "1834313248609718272",
+            "femaleVariant": "Have a look for yourself."
+          },
+          {
+            "stringId": "1834313354339733504",
+            "femaleVariant": "A few strategies we sussed out."
+          },
+          {
+            "stringId": "1834313504395153408",
+            "femaleVariant": "But only one grants us a decent shot at penetrating Arasaka Tower."
+          },
+          {
+            "stringId": "1834313765347971072",
+            "femaleVariant": "We'll dig a tunnel."
+          },
+          {
+            "stringId": "1834318768515108864",
+            "femaleVariant": "A Subterranean Extraction and Removal Combine. It's... automated tunnel boring."
+          },
+          {
+            "stringId": "1834320964451356672",
+            "femaleVariant": "If we can grab one, we'll dig through to Arasaka Tower, then go on to Mikoshi."
+          },
+          {
+            "stringId": "1877694120515465216",
+            "femaleVariant": "'Fraid I don't got a choice, Mitch."
+          },
+          {
+            "stringId": "1877694522799550464",
+            "femaleVariant": "Looks like we don't have one, neither."
+          },
+          {
+            "stringId": "1877697818213871616",
+            "femaleVariant": "Come on, I'll take you to see them."
+          },
+          {
+            "stringId": "1877719413057777664",
+            "femaleVariant": "Look around, V. War-tested veterans are a fistful at most. The rest mostly raid rinky-dink convoys and salvage scrap."
+          },
+          {
+            "stringId": "1877721731685806080",
+            "femaleVariant": "So for now they know only as much as they need to know – the aim is to help you out."
+          },
+          {
+            "stringId": "1877810556877533184",
+            "femaleVariant": "The plan is solid, Saul. Do not go muddying the waters. Not now."
+          },
+          {
+            "stringId": "1877812602389262336",
+            "femaleVariant": "Fuck, you think I don't know that?"
+          },
+          {
+            "stringId": "1877813189977698304",
+            "femaleVariant": "We're sending this clan to its grave."
+          },
+          {
+            "stringId": "1877814474693013504",
+            "femaleVariant": "And yet you seem to think you can change something by chewing me out like you usually do!"
+          },
+          {
+            "stringId": "1877815825158238208",
+            "femaleVariant": "V! Finally."
+          },
+          {
+            "stringId": "1877816299953451008",
+            "femaleVariant": "How's your health?"
+          },
+          {
+            "stringId": "1877866591671676928",
+            "femaleVariant": "But what's the alternative? To call off the assault? To let her die?",
+            "maleVariant": "But what's the alternative? To call off the assault? To let him die?"
+          },
+          {
+            "stringId": "1877927203223236608",
+            "femaleVariant": "We expect to see the usual – drone patrols, on-site operators, restricted access."
+          },
+          {
+            "stringId": "1877933781754179584",
+            "femaleVariant": "The plan, entire op – it's about headin' into enemy territory. You'll make enemies of Arasaka and others."
+          },
+          {
+            "stringId": "1877961432887848960",
+            "femaleVariant": "So it appears."
+          },
+          {
+            "stringId": "1877961646663135232",
+            "femaleVariant": "I'm exposin' you – all of you – to danger. Want out, wanna cut your losses, I'd understand, no hard feelings."
+          },
+          {
+            "stringId": "1877962506092802048",
+            "femaleVariant": "You came to us for help, we decided we'd provide it. Our minds are made up – no more discussion needed."
+          },
+          {
+            "stringId": "1877971718931869696",
+            "femaleVariant": "It's settled. We had best get to work."
+          },
+          {
+            "stringId": "1877982651905339392",
+            "femaleVariant": "And I'll check with Mitch – I think I know how to even the odds against Militech."
+          },
+          {
+            "stringId": "1880511816948903936",
+            "femaleVariant": "Is there anything else you need?"
+          },
+          {
+            "stringId": "1882019477171335168",
+            "femaleVariant": "Just, no making decisions without me."
+          },
+          {
+            "stringId": "1882020087090245636",
+            "femaleVariant": "Need to get in touch with Alt."
+          },
+          {
+            "stringId": "1882020779385286656",
+            "femaleVariant": "You and Panam agreeing all right?"
+          },
+          {
+            "stringId": "1882021135313924096",
+            "femaleVariant": "Hey, you and Panam – something I need to know about?"
+          },
+          {
+            "stringId": "1882021799305801728",
+            "femaleVariant": "Need a decent net-connection. Someone I know can help us get into Mikoshi."
+          },
+          {
+            "stringId": "1882026029647261700",
+            "femaleVariant": "Alt. An AI. I need her help."
+          },
+          {
+            "stringId": "1882026325228253184",
+            "femaleVariant": "Who might that be?"
+          },
+          {
+            "stringId": "1882032020321333248",
+            "femaleVariant": "Long story."
+          },
+          {
+            "stringId": "1882032536522715140",
+            "femaleVariant": "Long story."
+          },
+          {
+            "stringId": "1882032536522715152",
+            "femaleVariant": "V, allow me to be blunt. I don't like that the particulars of this raid could venture outside this tent or this family."
+          },
+          {
+            "stringId": "1882032536522715164",
+            "femaleVariant": "But do what you must."
+          },
+          {
+            "stringId": "1882033606707769344",
+            "femaleVariant": "Alt. She-- It's... an AI from... out past the Blackwall.",
+            "maleVariant": "Alt. She's-- It's... an AI from... out past the Blackwall."
+          },
+          {
+            "stringId": "1882034279339913216",
+            "femaleVariant": "Are you fully present up there? Why in hell would an AI help us break into Mikoshi?"
+          },
+          {
+            "stringId": "1882034395975118848",
+            "femaleVariant": "'Cause I'll ask it to, nicely."
+          },
+          {
+            "stringId": "1882035906209771520",
+            "femaleVariant": "Fuck me, V…"
+          },
+          {
+            "stringId": "1882049341018468352",
+            "femaleVariant": "Find Dakota. She'll get you geared up, no questions asked."
+          },
+          {
+            "stringId": "1882050657526607872",
+            "femaleVariant": "Thanks, Saul."
+          },
+          {
+            "stringId": "1882050885008879616",
+            "femaleVariant": "Thank me once we get out of Mikoshi alive and in one piece."
+          },
+          {
+            "stringId": "1882078888396976132",
+            "femaleVariant": "Doesn't ring true to me, that."
+          },
+          {
+            "stringId": "1882079205402472448",
+            "femaleVariant": "Panam think so, too?"
+          },
+          {
+            "stringId": "1882079741266751488",
+            "femaleVariant": "Doubt that's entirely true."
+          },
+          {
+            "stringId": "1882079855871913984",
+            "femaleVariant": "Panam think so too?"
+          },
+          {
+            "stringId": "1882080689062014976",
+            "femaleVariant": "I don't have any hard feelings towards you, V. The opposite, in fact."
+          },
+          {
+            "stringId": "1882082138915467264",
+            "femaleVariant": "You'd have to ask her yourself."
+          },
+          {
+            "stringId": "1882086466279567368",
+            "femaleVariant": "See, V, you're like the outsider who happens upon a family and witnesses nothing but endless quarrels."
+          },
+          {
+            "stringId": "1882088392589176832",
+            "femaleVariant": "Then all of a sudden the outsider's presence is noticed, and the family members shake hands, join hands, become stronger than they were before."
+          },
+          {
+            "stringId": "1882089006903717888",
+            "femaleVariant": "Understand?"
+          },
+          {
+            "stringId": "1882089257639211008",
+            "femaleVariant": "Yeah. 'Least, I think so."
+          },
+          {
+            "stringId": "1882089423783981056",
+            "femaleVariant": "Good. So now you can tell me what else you'll need."
+          },
+          {
+            "stringId": "1905202056250650624",
+            "femaleVariant": "Not bad, wouldn't you say?"
+          },
+          {
+            "stringId": "1905204203952402432",
+            "femaleVariant": "What's a SERC?"
+          },
+          {
+            "stringId": "1905211748062457856",
+            "femaleVariant": "Sounds doable in theory to me. No competin' ideas, then let's get to preppin'.",
+            "maleVariant": "Sounds doable in theory to me. No competing ideas, then let's get to prepping."
+          },
+          {
+            "stringId": "1908347517881745408",
+            "femaleVariant": "SERC – what's that?"
+          },
+          {
+            "stringId": "1908347555412377600",
+            "femaleVariant": "It'll have to do... for lack of a better plan."
+          },
+          {
+            "stringId": "1908347692767444992",
+            "femaleVariant": "You can still change your minds."
+          },
+          {
+            "stringId": "1916746998571724800",
+            "femaleVariant": "[Lean on table] Been better. Whatcha got for me?"
+          },
+          {
+            "stringId": "1916747557471121408",
+            "femaleVariant": "Been better."
+          },
+          {
+            "stringId": "1916748326589034496",
+            "femaleVariant": "So, what've you guys patched together?"
+          },
+          {
+            "stringId": "1916764058634809344",
+            "femaleVariant": "Mhm."
+          },
+          {
+            "stringId": "1918551557435838464",
+            "femaleVariant": "Think so."
+          },
+          {
+            "stringId": "1918551557452615684",
+            "femaleVariant": "What happened?"
+          },
+          {
+            "stringId": "1918551557603610624",
+            "femaleVariant": "Got no choice in the matter."
+          },
+          {
+            "stringId": "1918561515049078788",
+            "femaleVariant": "And so she lives.",
+            "maleVariant": "And so he lives."
+          },
+          {
+            "stringId": "1918561517548883972",
+            "femaleVariant": "Well, if it ain't V! How's that head of yours, sister?",
+            "maleVariant": "Well, if it ain't V! How's that head of  yours, brother?"
+          },
+          {
+            "stringId": "1918561518823952384",
+            "femaleVariant": "Hey, Teddy."
+          },
+          {
+            "stringId": "1918639911691112452",
+            "femaleVariant": "Welcome back to the living. Ya feelin' OK?"
+          },
+          {
+            "stringId": "1918641975959769088",
+            "femaleVariant": "Um, I guess...?"
+          },
+          {
+            "stringId": "1918641975959769100",
+            "femaleVariant": "Mighty good to hear."
+          },
+          {
+            "stringId": "1918641976010100740",
+            "femaleVariant": "What happened?"
+          },
+          {
+            "stringId": "1918641976010100752",
+            "femaleVariant": "You passed out on the way."
+          },
+          {
+            "stringId": "1922816382703435776",
+            "femaleVariant": "V, any thoughts?"
+          },
+          {
+            "stringId": "1936065983565918208",
+            "femaleVariant": "I thought we'd smoothed over the rough edges between us. Then you showed up."
+          },
+          {
+            "stringId": "1936068567273959424",
+            "femaleVariant": "It's funny you should ask."
+          },
+          {
+            "stringId": "1936077536524627968",
+            "femaleVariant": "Once we're in, we'll have to improvise. Guards, security measures, the fastest way into Mikoshi – we'll take things as they come and hope for the best."
+          },
+          {
+            "stringId": "1937104614367817728",
+            "femaleVariant": "One you assume I'd rather not hear, hm?"
+          },
+          {
+            "stringId": "1937106200854917120",
+            "femaleVariant": "You know what? Fine. We're up to our balls in dung anyway. Might as well go deeper."
+          },
+          {
+            "stringId": "2027133229121269760",
+            "femaleVariant": "You had us worried back there. You passed out, and we couldn't shake you awake."
+          },
+          {
+            "stringId": "2027134438339112960",
+            "femaleVariant": "Panam asked me to keep an eagle eye on you."
+          },
+          {
+            "stringId": "2027134951134720000",
+            "femaleVariant": "Where'd she go?"
+          },
+          {
+            "stringId": "2027135286108614656",
+            "femaleVariant": "She's off debating Saul. You need help – that's clear. They sat right down to figure out how we might do that."
+          },
+          {
+            "stringId": "2027137587170897920",
+            "femaleVariant": "We tried shaking you awake –  to no avail. It sure does seem like your condition might be getting worse, V."
+          },
+          {
+            "stringId": "2027140158849675264",
+            "femaleVariant": "It sure does seem like your condition might be getting worse."
+          },
+          {
+            "stringId": "2069041182865293316",
+            "femaleVariant": "[Get out]"
+          },
+          {
+            "stringId": "2079567752453357568",
+            "femaleVariant": "[Rise] Thank you, Saul."
+          },
+          {
+            "stringId": "2236556191108714496",
+            "femaleVariant": "V? Can you share your thoughts?"
+          }
+        ]
+      }
+
+
+

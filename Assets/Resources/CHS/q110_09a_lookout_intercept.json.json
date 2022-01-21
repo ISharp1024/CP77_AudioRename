@@ -1,0 +1,150 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1537210499962261504",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Li vivan.\" b=\"我靠！\" a=\"她还没死。\"/>",
+            "maleVariant": "<mothertongue l=\"creo\" m=\"Li vivan.\" b=\"我靠！\" a=\"他还没死。\"/>"
+          },
+          {
+            "stringId": "1537221144149512192",
+            "femaleVariant": "带路吧。"
+          },
+          {
+            "stringId": "1537221773295112192",
+            "femaleVariant": "我自己找得到。"
+          },
+          {
+            "stringId": "1537222439602245632",
+            "femaleVariant": "当然，没问题。"
+          },
+          {
+            "stringId": "1599616870304256000",
+            "femaleVariant": "我自己找得到。"
+          },
+          {
+            "stringId": "1599621569736675328",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Placide? Nou gon pwoblèm.\" t=\"普拉西德？有麻烦了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1599622118854955008",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li toujou vivan. M 'pa kon koman. Li kankou zonbi.\" t=\"她还没死…我不知道。闹鬼了。\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Li toujou vivan. M 'pa kon koman. Li kankou zonbi.\" t=\"他还没死…我不知道。闹鬼了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1599623438483656704",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li ap vini pou ou kounye a.\" t=\"她去找你了。\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Li ap vini pou ou kounye a.\" t=\"他去找你了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1624186312661684224",
+            "femaleVariant": "我们送你去见普拉西德。"
+          },
+          {
+            "stringId": "1624186312695238656",
+            "femaleVariant": "那走吧。"
+          },
+          {
+            "stringId": "1624186312712015872",
+            "femaleVariant": "我自己去。"
+          },
+          {
+            "stringId": "1624186312712015884",
+            "femaleVariant": "行，请便。"
+          },
+          {
+            "stringId": "1624186312728793116",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"L'ap vin sou ou kounye a.\" t=\"她去找你了。\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"L'ap vin sou ou kounye a.\" t=\"他去找你了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1643211308855742464",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Il est ta miyò si nou touye l 'kounye a?\" t=\"现在干掉她不是更好吗？\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\" Se pa t'ap miyò si nou touye l 'kounye a?\" t=\"现在干掉他不是更好吗？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1643227357101707264",
+            "femaleVariant": "带路吧。"
+          },
+          {
+            "stringId": "1643227780374089728",
+            "femaleVariant": "我自己找得到。"
+          },
+          {
+            "stringId": "1643227780374089744",
+            "femaleVariant": "那走吧。"
+          },
+          {
+            "stringId": "1643235998139699200",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Rantre.\" t=\"进去。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1648863460483682304",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Non, yo vle tande ou.\" t=\"不行，他们还想听听她有什么好说的。\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Non, yo vle tande ou.\" t=\"不行，他们还想听听他有什么好说的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1666251122131619840",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"E nou sipoze pran fin ranyon sa?\" t=\"我们负责收抹布？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1666251122131619848",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Non, Placide deja okipe li.\" t=\"不，普拉西德已经搞定了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1671900358616879104",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"A bien 'sa nap fè ak kadav la?\" t=\"尸体怎么办？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1671900651177971712",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li se jis yon vakabon lari.\" t=\"她就是个混街头的。\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Li se jis yon vakabon lari.\" t=\"他就是个混街头的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1671900882804215808",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pa gen moun ki pral gade pou li.\" t=\"死了也没人知道。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1671907732891176960",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Kiyès? Depi Placide wè li. Lap fut bule'l.\" t=\"谁？普拉西德肯定赞同把她直接干掉。\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Kiyès? Depi Placide wè li. Lap fut bule'l.\" t=\"谁？普拉西德肯定赞同把他直接干掉。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1671909154072367104",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Dwe vle di Brigitte reyèlman tounen.\" t=\"看来是布丽奇特回来了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1699551586426134552",
+            "femaleVariant": "你想找普拉西德？你是要找他吧？"
+          },
+          {
+            "stringId": "1699551586426134564",
+            "femaleVariant": "我——我能带你去。"
+          },
+          {
+            "stringId": "1770663921073852416",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Animal yo ap pake. Li fini.\" t=\"动物帮在收拾东西呢。结束了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2505343847431774208",
+            "femaleVariant": "[进入]"
+          }
+        ]
+      }
+
+
+

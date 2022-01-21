@@ -1,0 +1,101 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1783689886583869444",
+            "femaleVariant": "Found a side door."
+          },
+          {
+            "stringId": "1783689886583869452",
+            "femaleVariant": "Animals're lettin' their guard down. Probably haven't checked it out in ages."
+          },
+          {
+            "stringId": "1783691213007343616",
+            "femaleVariant": "Got somethin' here. Looks like a container... with way too much security on it.",
+            "maleVariant": "I got somethin' here. Looks like a container… with way too much security on it."
+          },
+          {
+            "stringId": "1783691410240294912",
+            "femaleVariant": "That could only be for one reason."
+          },
+          {
+            "stringId": "1783692007123308548",
+            "femaleVariant": "Stairs inside. Clever.",
+            "maleVariant": "Stairs inside. Heh, clever."
+          },
+          {
+            "stringId": "1783694843563331584",
+            "femaleVariant": "Looks like a normal body shop to me."
+          },
+          {
+            "stringId": "1783714553034035200",
+            "femaleVariant": "V? Everything OK?"
+          },
+          {
+            "stringId": "1783715371661512704",
+            "femaleVariant": "Got spotted."
+          },
+          {
+            "stringId": "1783735289555570688",
+            "femaleVariant": "Elevator shaft hidden under the container. Gotta be it. I'm takin' it down."
+          },
+          {
+            "stringId": "1783736208779235328",
+            "femaleVariant": "Be there in a sec. Capture someone alive if you can."
+          },
+          {
+            "stringId": "1783736777073872896",
+            "femaleVariant": "Maybe we can talk to 'em."
+          },
+          {
+            "stringId": "1783737814878900224",
+            "femaleVariant": "All clear, Detective. Though not too many of 'em left."
+          },
+          {
+            "stringId": "1783738363258982400",
+            "femaleVariant": "See, now, I didn't need to know that. Didn't wanna know…"
+          },
+          {
+            "stringId": "1783738603458383872",
+            "femaleVariant": "Managed to sneak past 'em all. Better keep it quiet."
+          },
+          {
+            "stringId": "1783739101003501568",
+            "femaleVariant": "I'll be fine. Don't you fret."
+          },
+          {
+            "stringId": "1876303898005327872",
+            "femaleVariant": "Club's here. I'm tellin' ya."
+          },
+          {
+            "stringId": "1940526960827129856",
+            "femaleVariant": "Tellin' me ya got a hunch? Cop intuition?",
+            "maleVariant": "Tellin' me you got a hunch? Cop intuition?"
+          },
+          {
+            "stringId": "1940527234295750656",
+            "femaleVariant": "Somethin' like that."
+          },
+          {
+            "stringId": "1940528108992684032",
+            "femaleVariant": "OK. Hang on, be right there."
+          }
+        ]
+      }
+
+
+

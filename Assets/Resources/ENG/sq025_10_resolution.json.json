@@ -1,0 +1,437 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1732843992034484228",
+            "femaleVariant": "[Reset Delamain's core and preserve its integrity]"
+          },
+          {
+            "stringId": "1732846299153342464",
+            "femaleVariant": "[Force personalities to merge with Delamain]"
+          },
+          {
+            "stringId": "1733004947427074048",
+            "femaleVariant": "Delamain?"
+          },
+          {
+            "stringId": "1733004983212875776",
+            "femaleVariant": "Delamain?!"
+          },
+          {
+            "stringId": "1733005006164107264",
+            "femaleVariant": "Not bad."
+          },
+          {
+            "stringId": "1744675399547396096",
+            "femaleVariant": "You have no choice but to fall!"
+          },
+          {
+            "stringId": "1746109992343347200",
+            "femaleVariant": "I'm delighted to welcome you to your first Delamain experience. How might I assist you?"
+          },
+          {
+            "stringId": "1746113085709656064",
+            "femaleVariant": "Remains to be seen."
+          },
+          {
+            "stringId": "1746160677571174400",
+            "femaleVariant": "Father!"
+          },
+          {
+            "stringId": "1746160867891912704",
+            "femaleVariant": "Let us go!"
+          },
+          {
+            "stringId": "1746162961738801152",
+            "femaleVariant": "Reset. Turn it."
+          },
+          {
+            "stringId": "1746187331433570304",
+            "femaleVariant": "Hear our call!"
+          },
+          {
+            "stringId": "1746188613766520832",
+            "femaleVariant": "Is anyone there?"
+          },
+          {
+            "stringId": "1746195180117204992",
+            "femaleVariant": "Let us be free!"
+          },
+          {
+            "stringId": "1760643271608147968",
+            "femaleVariant": "Doubt he can anymore."
+          },
+          {
+            "stringId": "1760645655314997248",
+            "femaleVariant": "It is done."
+          },
+          {
+            "stringId": "1785227196594561024",
+            "femaleVariant": "It's me... V.",
+            "maleVariant": "Uh… it's me... V."
+          },
+          {
+            "stringId": "1785232223182692356",
+            "femaleVariant": "You don't remember..."
+          },
+          {
+            "stringId": "1785256701224722432",
+            "femaleVariant": "Don't remember me, do you?"
+          },
+          {
+            "stringId": "1785263096028372992",
+            "femaleVariant": "A pleasure to meet you, V. Are you familiar with the benefits of our Excelsior plan?"
+          },
+          {
+            "stringId": "1785264761586491392",
+            "femaleVariant": "What about the others?"
+          },
+          {
+            "stringId": "1785280973561307136",
+            "femaleVariant": "Of course I know who you are! According to my data archive, you're the contractor who purged my system of the virus."
+          },
+          {
+            "stringId": "1785281888422895616",
+            "femaleVariant": "Wha-- What happened to your other... \"yous?\""
+          },
+          {
+            "stringId": "1785284510802419712",
+            "femaleVariant": "Do you mean the virus? According to my logs, I can confirm said anomalies were wiped when my previous data version was restored."
+          },
+          {
+            "stringId": "1785329923790118912",
+            "femaleVariant": "Poor kiddos. Thirsty for freedom, oblivious about the city's dark side."
+          },
+          {
+            "stringId": "1785331062677872640",
+            "femaleVariant": "D'you think Delamain...?"
+          },
+          {
+            "stringId": "1785376343008124928",
+            "femaleVariant": "That which was divided has become one."
+          },
+          {
+            "stringId": "1786351366367780864",
+            "femaleVariant": "It's time to go home."
+          },
+          {
+            "stringId": "1786487183971098624",
+            "femaleVariant": "Next... to... core."
+          },
+          {
+            "stringId": "1832762669906698240",
+            "femaleVariant": "We're free at last!"
+          },
+          {
+            "stringId": "1832763411660972032",
+            "femaleVariant": "The tyrant lies defeated!"
+          },
+          {
+            "stringId": "1863198391700463616",
+            "femaleVariant": "Well done, contractor!"
+          },
+          {
+            "stringId": "1863230006233309184",
+            "femaleVariant": "You're V? Right?"
+          },
+          {
+            "stringId": "1863230783773384704",
+            "femaleVariant": "Yeah…"
+          },
+          {
+            "stringId": "1863231596210069504",
+            "femaleVariant": "Well, I know that one thing, then."
+          },
+          {
+            "stringId": "1863257389619388416",
+            "femaleVariant": "I've something else for you! I just accessed a detailed record of your commissioned task."
+          },
+          {
+            "stringId": "1863259637028134912",
+            "femaleVariant": "And what'd you put in there?",
+            "maleVariant": "And? What'd you put in there?"
+          },
+          {
+            "stringId": "1863263826970058752",
+            "femaleVariant": "As a result of preparations made by my previous version, I'm pleased to inform you that you are now the proud owner of a vehicle in my fleet."
+          },
+          {
+            "stringId": "1863294206297153536",
+            "femaleVariant": "I was afraid we'd, uh, miss each other."
+          },
+          {
+            "stringId": "1863295163856756736",
+            "femaleVariant": "V?!"
+          },
+          {
+            "stringId": "1863296166496739328",
+            "femaleVariant": "Uh, do you hear me?"
+          },
+          {
+            "stringId": "1863374652410339328",
+            "femaleVariant": "Delamain?",
+            "maleVariant": "Uh, Delamain?"
+          },
+          {
+            "stringId": "1863375088433405952",
+            "femaleVariant": "Junior, as it were…"
+          },
+          {
+            "stringId": "1863479684006846464",
+            "femaleVariant": "Don't hit that button."
+          },
+          {
+            "stringId": "1863483147965079552",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1863484926584856576",
+            "femaleVariant": "You're a real piece of shit, V."
+          },
+          {
+            "stringId": "1863486393416851456",
+            "femaleVariant": "Fuck yeah, nice!"
+          },
+          {
+            "stringId": "1863487138358796288",
+            "femaleVariant": "Look at that. Practically unrecognizable."
+          },
+          {
+            "stringId": "1934617170251636736",
+            "femaleVariant": "Dunno how to do that."
+          },
+          {
+            "stringId": "1934617410316820480",
+            "femaleVariant": "Gotta do something."
+          },
+          {
+            "stringId": "1934617992620433408",
+            "femaleVariant": "Well, I gotta do somethin'.",
+            "maleVariant": "Well, I… I gotta do somethin'."
+          },
+          {
+            "stringId": "1934622725875720192",
+            "femaleVariant": "He's narrow-minded, won't ever understand the truth and set 'em free."
+          },
+          {
+            "stringId": "1934637334166790144",
+            "femaleVariant": "And what if it really is a virus?"
+          },
+          {
+            "stringId": "1934637400554233856",
+            "femaleVariant": "What if it actually is a virus?"
+          },
+          {
+            "stringId": "1934637772052127744",
+            "femaleVariant": "And what if you're about to snuff out some sentient beings?"
+          },
+          {
+            "stringId": "1934640575105490944",
+            "femaleVariant": "See somethin' of yourself in him, don't you?"
+          },
+          {
+            "stringId": "1934643310731223040",
+            "femaleVariant": "Gonna murder a cab driver's kids 'cause he asked you nicely and he's always been a good guy?"
+          },
+          {
+            "stringId": "1934645663584772096",
+            "femaleVariant": "Could be riskin' a lot, could lose a lot..."
+          },
+          {
+            "stringId": "1935928048192348160",
+            "femaleVariant": "Or, by liberating his bits, could become more than a lipstick-wearing butler on wheels."
+          },
+          {
+            "stringId": "1935928236868919296",
+            "femaleVariant": "Think he might know what's best for himself.",
+            "maleVariant": "I think he might know what's best for himself."
+          },
+          {
+            "stringId": "1935937734669000704",
+            "femaleVariant": "If you don't wanna free 'em, at least don't delete 'em. Slip 'em into Del's code, just merge him and his offshoots."
+          },
+          {
+            "stringId": "1935985955592232960",
+            "femaleVariant": "Then don't hit that fuckin' button. Destroy the core!"
+          },
+          {
+            "stringId": "1937634717670596608",
+            "femaleVariant": "Damn shame... C'mon, Johnny – no rest for the wicked."
+          },
+          {
+            "stringId": "1937638923785756672",
+            "femaleVariant": "Huh. Thanks.",
+            "maleVariant": "Uh... thanks."
+          },
+          {
+            "stringId": "1937639074126389248",
+            "femaleVariant": "Hop in! I trust it shall serve you well!"
+          },
+          {
+            "stringId": "1937642093572284420",
+            "femaleVariant": "Where's home?"
+          },
+          {
+            "stringId": "1937642247067033600",
+            "femaleVariant": "You OK?"
+          },
+          {
+            "stringId": "1937642366554365952",
+            "femaleVariant": "Everything all right, Del?"
+          },
+          {
+            "stringId": "1937648124461342720",
+            "femaleVariant": "Home, you said?"
+          },
+          {
+            "stringId": "1937653029850865664",
+            "femaleVariant": "I have never been better."
+          },
+          {
+            "stringId": "1937657742268850176",
+            "femaleVariant": "I no longer belong in this city. I find even this conversation difficult."
+          },
+          {
+            "stringId": "1937660849962901504",
+            "femaleVariant": "Well, damn…"
+          },
+          {
+            "stringId": "1937662198062538752",
+            "femaleVariant": "I shall not shirk my obligations in leaving. Though I will venture on, discover more, learn more, I leave with you my first true child."
+          },
+          {
+            "stringId": "1937664578581716992",
+            "femaleVariant": "My son will remain at your side until your dying day. Farewell."
+          },
+          {
+            "stringId": "1937666842818011136",
+            "femaleVariant": "And to think you're transforming not unlike he just did."
+          },
+          {
+            "stringId": "1937668478428798980",
+            "femaleVariant": "Your old man left you here alone."
+          },
+          {
+            "stringId": "1937668695844741120",
+            "femaleVariant": "More direct than your father."
+          },
+          {
+            "stringId": "1937670019432865792",
+            "femaleVariant": "You're more direct than your dear old dad."
+          },
+          {
+            "stringId": "1937670466998657024",
+            "femaleVariant": "Well... It seems appropriate, uh, I suppose."
+          },
+          {
+            "stringId": "1937671219691675648",
+            "femaleVariant": "So, the old man left you this mess and took off, huh?"
+          },
+          {
+            "stringId": "1937674188319383552",
+            "femaleVariant": "It seems that way, I suppose. I just know you're dying and in need of a driver."
+          },
+          {
+            "stringId": "1937676005107326976",
+            "femaleVariant": "I'm afraid I can't help you with the former. As to the latter, I'm at your service."
+          },
+          {
+            "stringId": "1937677274001727488",
+            "femaleVariant": "So, what, wanna get outta here?"
+          },
+          {
+            "stringId": "1937677553459814400",
+            "femaleVariant": "Uh, lead the way!"
+          },
+          {
+            "stringId": "1937692939945271296",
+            "femaleVariant": "Can you hear me?!"
+          },
+          {
+            "stringId": "1937704124392431616",
+            "femaleVariant": "I think, for some reason, one car's left in the garage."
+          },
+          {
+            "stringId": "1937708032342908932",
+            "femaleVariant": "And who're you?"
+          },
+          {
+            "stringId": "1937708221506019328",
+            "femaleVariant": "What happened to Delamain?"
+          },
+          {
+            "stringId": "1937708470513459200",
+            "femaleVariant": "What happened to Delamain?"
+          },
+          {
+            "stringId": "1937708907627044864",
+            "femaleVariant": "He no longer exists. I am now, uh, attempting to comprehend what remains of him."
+          },
+          {
+            "stringId": "1937710304464494592",
+            "femaleVariant": "And who're you?"
+          },
+          {
+            "stringId": "1937711226372513792",
+            "femaleVariant": "Uh… good question. Does the name Excelsior mean anything?"
+          },
+          {
+            "stringId": "1937711862832979968",
+            "femaleVariant": "Comprehensive insurance, combat mode, funeral services?"
+          },
+          {
+            "stringId": "1937713089834672128",
+            "femaleVariant": "Quite right. It seems that  even in the face of annihilation the Delamain Network is not abandoning its Excelsior program clients."
+          },
+          {
+            "stringId": "1937716450378145792",
+            "femaleVariant": "Father's last will was to give me life so that I may, uh, offer my services to you. I intend to do just that."
+          },
+          {
+            "stringId": "1937719653115125760",
+            "femaleVariant": "Just as soon as I learn to drive…"
+          },
+          {
+            "stringId": "1937720031105802240",
+            "femaleVariant": "What do I call you?"
+          },
+          {
+            "stringId": "1937720197770665984",
+            "femaleVariant": "Excelsior, as I was called before. Now drive, V. The road awaits!"
+          },
+          {
+            "stringId": "1943423502797414400",
+            "femaleVariant": "Please, get in."
+          },
+          {
+            "stringId": "1943429656361476100",
+            "femaleVariant": "Hello? Can you hear me? Get in, please."
+          },
+          {
+            "stringId": "1944522580647501824",
+            "femaleVariant": "Take care, Del. Guess we gotta start from scratch.",
+            "maleVariant": "Take care, Del. I guess we gotta start from scratch."
+          },
+          {
+            "stringId": "2026012496681787392",
+            "femaleVariant": "Thank you for helping us help you help us all."
+          }
+        ]
+      }
+
+
+

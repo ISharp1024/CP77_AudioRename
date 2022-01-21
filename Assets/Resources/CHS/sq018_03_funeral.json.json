@@ -1,0 +1,445 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1701015549985595392",
+            "femaleVariant": "V，你能来我真的很开心。"
+          },
+          {
+            "stringId": "1701036886678478848",
+            "femaleVariant": "致以我最深切的慰问——他是个好孩子。"
+          },
+          {
+            "stringId": "1701194367459303424",
+            "femaleVariant": "在夜之城魔鬼拳击俱乐部的会员中，流传着这么一句话。"
+          },
+          {
+            "stringId": "1701228292315455488",
+            "femaleVariant": "那让我们为他干杯吧，神父。多干几杯。"
+          },
+          {
+            "stringId": "1709616265364938752",
+            "femaleVariant": "我，呃，常常想起和杰克第一次见面的时候。"
+          },
+          {
+            "stringId": "1709617872420904960",
+            "femaleVariant": "现在想起来，感觉就好像是一个世纪前的事情。在另一个时空里，杰克救了我。"
+          },
+          {
+            "stringId": "1709618813656276992",
+            "femaleVariant": "他带了些从荒坂偷的宝贝。高度机密，价值连城…一只蜥蜴，哈。"
+          },
+          {
+            "stringId": "1709710379691450368",
+            "femaleVariant": "感谢大家今天能过来这边。"
+          },
+          {
+            "stringId": "1709710379691450376",
+            "femaleVariant": "相反，我要讲一个故事。"
+          },
+          {
+            "stringId": "1725623255585169412",
+            "femaleVariant": "[喝酒]"
+          },
+          {
+            "stringId": "1725638389305090048",
+            "femaleVariant": "我没打算说我儿子是个怎么样的人，或者没完没了地说我有多想他。"
+          },
+          {
+            "stringId": "1725639810939265024",
+            "femaleVariant": "谁把你打的满地找牙，你就找谁当好朋友。"
+          },
+          {
+            "stringId": "1725640208240517120",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Me mandó Campo Orta.\" t=\"我是坎普·奥塔派来的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1741399012064272384",
+            "femaleVariant": "[把酒倒进火中]"
+          },
+          {
+            "stringId": "1742986048802037768",
+            "femaleVariant": "真高兴你能来。我们给他搭了座很漂亮的祭台。"
+          },
+          {
+            "stringId": "1856038944331583488",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"De acuerdo.\" t=\"我同意。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856039595723771904",
+            "femaleVariant": "我们马上开始了。"
+          },
+          {
+            "stringId": "1856156412475658240",
+            "femaleVariant": "那会儿他大概是…好像十九。"
+          },
+          {
+            "stringId": "1856158365041610752",
+            "femaleVariant": "当时他还在瓦伦蒂诺帮。正和漩涡帮打得头破血流。"
+          },
+          {
+            "stringId": "1856158506087665664",
+            "femaleVariant": "我接到一个医院的电话。人家告诉我说，他中了三枪，就在心脏边上。"
+          },
+          {
+            "stringId": "1856158611717017600",
+            "femaleVariant": "我赶到的时候，他还清醒着。身上插满了各种管子，看着就像一条章鱼。"
+          },
+          {
+            "stringId": "1856158787005370368",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"No te preocupes, mamá\" b=\"他跟我说：“\" a=\"（别担心，妈）。看，我是防弹的。坏事肯定会绕着我走。”\"/>"
+          },
+          {
+            "stringId": "1856158884732653568",
+            "femaleVariant": "我走的时候，他摘了手上的瓦伦蒂诺帮戒指，发誓以后再也不戴它了。"
+          },
+          {
+            "stringId": "1856158994120101888",
+            "femaleVariant": "但他并没有害怕，只是不想让我担心。"
+          },
+          {
+            "stringId": "1856159204825157632",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Hm. Descansa en paz, mi hijo.\" t=\"安息吧，我的儿子。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856161373750087680",
+            "femaleVariant": "这话一点儿没错。杰克的胳膊简直像大炮一样，可没人把我揍得那么狠——到现在我还觉得疼呢。"
+          },
+          {
+            "stringId": "1856161567308828672",
+            "femaleVariant": "十二轮啊，朋友。"
+          },
+          {
+            "stringId": "1856163297492783104",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Lamenta no estar aquí, todavía le quedan cuatro años que cumplir. Me pidió que leyera esto.\" t=\"他很抱歉不能亲自到场——刑期还剩四年。他请我来读完这段话。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856163459107704832",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"«Recuerdo cuando Jackie se nos unió. Era un niño fuerte».\" t=\"“我还记得杰克刚加入我们的时候。他是个顽强的孩子。”\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856163547557187584",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"«Cuando decía que iba a hacer algo, cumplía. Tenía honor. Podría haber llegado lejos».\" t=\"“如果他说要做什么事，就会做到。他重视荣誉。他本可以大有作为。”\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856163713181863936",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"«Mis condolencias a la familia».\" t=\"“我向他的家人致以慰问。”\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856163837064826880",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"«Que descanse en paz».\" t=\"“愿他永远安息。”\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856342198181482496",
+            "femaleVariant": "杰克·威尔斯。"
+          },
+          {
+            "stringId": "1856343144634568704",
+            "femaleVariant": "[放下球] 一个有雄心的海伍德小子…"
+          },
+          {
+            "stringId": "1856343144634568720",
+            "femaleVariant": "[放下龙舌兰酒] 他对生活永不满足…"
+          },
+          {
+            "stringId": "1856352075163422724",
+            "femaleVariant": "安息吧，兄弟。"
+          },
+          {
+            "stringId": "1856384043812966400",
+            "femaleVariant": "谢谢你说的这番话，V。"
+          },
+          {
+            "stringId": "1856384113891397636",
+            "femaleVariant": "知道吗，V？你是个好姑娘。",
+            "maleVariant": "知道吗，V？你是个好小伙儿。"
+          },
+          {
+            "stringId": "1856384414287450116",
+            "femaleVariant": "[收下钥匙] 谢谢你。"
+          },
+          {
+            "stringId": "1856384516628467712",
+            "femaleVariant": "你确定吗？"
+          },
+          {
+            "stringId": "1856384596387352580",
+            "femaleVariant": "谢谢你。我一定会好好爱护它的。"
+          },
+          {
+            "stringId": "1856384635746701316",
+            "femaleVariant": "嗯,你确定吗？"
+          },
+          {
+            "stringId": "1856404934617780224",
+            "femaleVariant": "接着呢，在多年以后的夜之城，就在我以为要失去一切的时候，呵，他又救了我一次。"
+          },
+          {
+            "stringId": "1856405046538588160",
+            "femaleVariant": "我找到了自己的自由，可没有他，也就没有这一切。"
+          },
+          {
+            "stringId": "1856405814951858176",
+            "femaleVariant": "半小时后，我们坐在威尔斯太太的家里一起吃晚饭。原来我们之间的共同点还挺多的——那就是原则。"
+          },
+          {
+            "stringId": "1856408139200253952",
+            "femaleVariant": "我还记得他当时说的话。他说，我来自一个人人都是家人的地方，所以…呵，他也应该算是我的家人。",
+            "maleVariant": "我还记得他当时说的话。他说，我来自一个人人都是家人的地方，所以…他也应该算是我的家人。"
+          },
+          {
+            "stringId": "1857268243663474688",
+            "femaleVariant": "让我们一起举杯吧。"
+          },
+          {
+            "stringId": "1857270968400793600",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Por mi hijo.\" t=\"为了我的儿子。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1857288359176359936",
+            "femaleVariant": "杰克一定想要你收下这个。"
+          },
+          {
+            "stringId": "1857291401774813184",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Cuídate, V.\" t=\"你也多保重，V。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1857291779614494720",
+            "femaleVariant": "就算刮上一个小道子，杰克都会杀了我。"
+          },
+          {
+            "stringId": "1857291857326559232",
+            "femaleVariant": "那你就宝贝一点儿，别刮花了。"
+          },
+          {
+            "stringId": "1892238155099983872",
+            "femaleVariant": "然后几个条子蹦了出来。把我们俩揍了个半死——一半儿怪我，一半儿怪他。后来我们两个一起跑了。"
+          },
+          {
+            "stringId": "1892238198183874560",
+            "femaleVariant": "我俩是这么开始的。他拿枪对准了我的脑袋。"
+          },
+          {
+            "stringId": "1892239992356130816",
+            "femaleVariant": "他雇我开车，帮忙把他和走私货一起送过边境。"
+          },
+          {
+            "stringId": "1892438629442965508",
+            "femaleVariant": "她对他很重要。"
+          },
+          {
+            "stringId": "1892438716969701376",
+            "femaleVariant": "她叫米斯蒂。"
+          },
+          {
+            "stringId": "1892438754332561412",
+            "femaleVariant": "别计较了，威尔斯太太。"
+          },
+          {
+            "stringId": "1892438849962692608",
+            "femaleVariant": "什么…？"
+          },
+          {
+            "stringId": "1892439027532746752",
+            "femaleVariant": "算了吧，威尔斯太太。"
+          },
+          {
+            "stringId": "1892441958294278144",
+            "femaleVariant": "你说什么？"
+          },
+          {
+            "stringId": "1892442026611101696",
+            "femaleVariant": "她是个好女孩二，杰克很爱她。"
+          },
+          {
+            "stringId": "1938725270667063296",
+            "femaleVariant": "天底下最仗义的兄弟，也是我最好的朋友。"
+          },
+          {
+            "stringId": "1938725290984271876",
+            "femaleVariant": "朋友对他就是一切。"
+          },
+          {
+            "stringId": "1938725478167670784",
+            "femaleVariant": "一个有原则的人。"
+          },
+          {
+            "stringId": "1938726244114690048",
+            "femaleVariant": "他体面正直。把原则放在第一位，恪守不渝。"
+          },
+          {
+            "stringId": "1938727557200277504",
+            "femaleVariant": "一旦他下定了决心，便永远做好了拼命的准备。"
+          },
+          {
+            "stringId": "1938738185449172996",
+            "femaleVariant": "他对生命无所畏惧。"
+          },
+          {
+            "stringId": "1938738266701230080",
+            "femaleVariant": "他曾经对我说：“妹子，我们怎样都可以，就是不能胆小怕事。”",
+            "maleVariant": "他曾经对我说：“兄弟，我们怎样都可以，就是不能胆小怕事。”"
+          },
+          {
+            "stringId": "1938739476137177088",
+            "femaleVariant": "他并不是人们想象的那个人。"
+          },
+          {
+            "stringId": "1938741214927843328",
+            "femaleVariant": "杰克热爱生活，浑身是胆。他心胸坦荡，从来不会瞻前顾后，一向说干就干。"
+          },
+          {
+            "stringId": "1938741228836155392",
+            "femaleVariant": "所有人都觉得杰克阳光、正面，能从所有人、所有事情里看到好的一面。"
+          },
+          {
+            "stringId": "1938741526161977344",
+            "femaleVariant": "他以为自己刀枪不入，呵，以为自己能成为来生的传奇。"
+          },
+          {
+            "stringId": "1938741913866661888",
+            "femaleVariant": "最终，他完成了自己最初的目标——恶心恶心那些有头有脸的大人物。"
+          },
+          {
+            "stringId": "1938742316402405376",
+            "femaleVariant": "如果杰克正在天上看着，肯定是，对着他们竖中指呢。"
+          },
+          {
+            "stringId": "1938743697335054336",
+            "femaleVariant": "他们错了。杰克·威尔斯是个雄心勃勃的家伙，从来不知道放弃，正是这份斗志让他送了命。"
+          },
+          {
+            "stringId": "1938745003156107264",
+            "femaleVariant": "但他生前做到了对自我的承诺——追求名利，不管是眼里还是心中都无所畏惧。"
+          },
+          {
+            "stringId": "1938881424185552896",
+            "femaleVariant": "今天来了不少人…就连跟杰克鬼混的那丫头也来了。"
+          },
+          {
+            "stringId": "1938885004292452352",
+            "femaleVariant": "对，米斯蒂。她对杰克非常重要。你明白吗？"
+          },
+          {
+            "stringId": "1938890485123706880",
+            "femaleVariant": "去吧，邀请她留下吃个晚饭。这总是应该的。"
+          },
+          {
+            "stringId": "1942891821798432768",
+            "femaleVariant": "[放下皮带] 他不怕任何人…"
+          },
+          {
+            "stringId": "1942891950764892160",
+            "femaleVariant": "[背诵书上的话]"
+          },
+          {
+            "stringId": "1943191058796945408",
+            "femaleVariant": "还有谁吗…？"
+          },
+          {
+            "stringId": "1954616294136279040",
+            "femaleVariant": "一个雄心勃勃的海伍德小子。"
+          },
+          {
+            "stringId": "1954616317926371328",
+            "femaleVariant": "他对现有生活的索取永不满足。"
+          },
+          {
+            "stringId": "1954616331381698560",
+            "femaleVariant": "他谁都不怕，无所畏惧，过了痛快淋漓的一辈子。"
+          },
+          {
+            "stringId": "1954616339669643264",
+            "femaleVariant": "“当你还是孩子的时候参加战争，会有一种幻想。其他人会死，而你不会……然后，当你第一次受重伤，那种错觉就会烟消云散。”"
+          },
+          {
+            "stringId": "1954666752167047168",
+            "femaleVariant": "他曾雄心勃勃。"
+          },
+          {
+            "stringId": "1954666960372297728",
+            "femaleVariant": "永远不甘平凡。绝不放弃，一次都没有。"
+          },
+          {
+            "stringId": "1954671769041170436",
+            "femaleVariant": "他从没忘记过自己从哪里来。"
+          },
+          {
+            "stringId": "1954671940386877440",
+            "femaleVariant": "他总把自己所爱的人放在第一位。"
+          },
+          {
+            "stringId": "1954672623152459776",
+            "femaleVariant": "总是知道自己想要什么。"
+          },
+          {
+            "stringId": "1954675017496064000",
+            "femaleVariant": "他的心里时时刻刻都有海伍德。是这里培养了他。"
+          },
+          {
+            "stringId": "1954675031639257088",
+            "femaleVariant": "但最重要的是…"
+          },
+          {
+            "stringId": "1954675040547958784",
+            "femaleVariant": "为了心爱的人，他愿意牺牲自己的生命，毫不犹豫。"
+          },
+          {
+            "stringId": "1954675454391545856",
+            "femaleVariant": "他永远知道内心要什么。而且会去主动追求。"
+          },
+          {
+            "stringId": "1959312160644308992",
+            "femaleVariant": "见到你真是，真是太高兴了。"
+          },
+          {
+            "stringId": "1959312875957690372",
+            "femaleVariant": "杰克很会挑朋友。"
+          },
+          {
+            "stringId": "1969073723778596868",
+            "femaleVariant": "[坐下]"
+          },
+          {
+            "stringId": "1969265292137791492",
+            "femaleVariant": "[起身] 我总想起我们第一次见面的时候。"
+          },
+          {
+            "stringId": "1969265620501463040",
+            "femaleVariant": "[默默起身]"
+          },
+          {
+            "stringId": "1970780234074619904",
+            "femaleVariant": "请找位置坐吧。"
+          },
+          {
+            "stringId": "2037366793477095424",
+            "femaleVariant": "这个我不能要。"
+          },
+          {
+            "stringId": "2037367489530232832",
+            "femaleVariant": "谢谢你，但是…这个我不能要。"
+          },
+          {
+            "stringId": "2262244236776882176",
+            "femaleVariant": "希望你能理解…"
+          }
+        ]
+      }
+
+
+

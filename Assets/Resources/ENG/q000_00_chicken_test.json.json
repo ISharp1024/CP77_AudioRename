@@ -1,0 +1,106 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1664748155167592448",
+            "femaleVariant": "Start"
+          },
+          {
+            "stringId": "1664748281214816256",
+            "femaleVariant": "Radio Tower"
+          },
+          {
+            "stringId": "1664749317258235904",
+            "femaleVariant": "More"
+          },
+          {
+            "stringId": "1746031752515702784",
+            "femaleVariant": "Back"
+          },
+          {
+            "stringId": "1746031752532480012",
+            "femaleVariant": "Drive to Border"
+          },
+          {
+            "stringId": "1746031752532480028",
+            "femaleVariant": "Border Crossing"
+          },
+          {
+            "stringId": "1746031752532480044",
+            "femaleVariant": "Chase"
+          },
+          {
+            "stringId": "1746031752532480060",
+            "femaleVariant": "Hideout"
+          },
+          {
+            "stringId": "1823925090836828160",
+            "femaleVariant": "Drive to Trailer"
+          },
+          {
+            "stringId": "1823925219702624256",
+            "femaleVariant": "Trailer"
+          },
+          {
+            "stringId": "1863383186122231812",
+            "femaleVariant": "No-Tell Motel"
+          },
+          {
+            "stringId": "1863383408068022272",
+            "femaleVariant": "Street Kid"
+          },
+          {
+            "stringId": "1863383510207713280",
+            "femaleVariant": "Corpo"
+          },
+          {
+            "stringId": "1863383720107462656",
+            "femaleVariant": "Nomad"
+          },
+          {
+            "stringId": "2260745318138138628",
+            "femaleVariant": "[db_db]Recodring 01"
+          },
+          {
+            "stringId": "2260745607679332352",
+            "femaleVariant": "[db_db]Recording 02"
+          },
+          {
+            "stringId": "2260745703997329408",
+            "femaleVariant": "[db_db]Recording 03"
+          },
+          {
+            "stringId": "2321394752134828036",
+            "femaleVariant": "[db_db]Nomad"
+          },
+          {
+            "stringId": "2321395318869184512",
+            "femaleVariant": "[db_db]Street Kid"
+          },
+          {
+            "stringId": "2321395458673725440",
+            "femaleVariant": "[db_db]Corpo"
+          },
+          {
+            "stringId": "2379619206402285568",
+            "femaleVariant": "[db_db]Finale (no weather or time restrictions)"
+          }
+        ]
+      }
+
+
+

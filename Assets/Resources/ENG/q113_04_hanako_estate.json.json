@@ -1,0 +1,385 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1730128440841826304",
+            "femaleVariant": "That is not all of them."
+          },
+          {
+            "stringId": "1730239100456103936",
+            "femaleVariant": "I believe... Yes, that is the last of Yorinobu's people."
+          },
+          {
+            "stringId": "1743214428115791872",
+            "femaleVariant": "I believe a war has just begun."
+          },
+          {
+            "stringId": "1781020138217160704",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"見事だ\" t=\"Excellent.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1795388015658274816",
+            "femaleVariant": "I await you."
+          },
+          {
+            "stringId": "1813996648192294912",
+            "femaleVariant": "It's just weird, that's all. You call the biggest board meeting in a decade without invitin' your own sister?"
+          },
+          {
+            "stringId": "1813999114141057024",
+            "femaleVariant": "I repeat. Internal security has not been compromised. Over."
+          },
+          {
+            "stringId": "1814000516229775360",
+            "femaleVariant": "All systems are go for me. Standing by. Over."
+          },
+          {
+            "stringId": "1814001760612663300",
+            "femaleVariant": "Yes, sir. Everything is under control. Over."
+          },
+          {
+            "stringId": "1814004720918872064",
+            "femaleVariant": "Mh-hm-hm! This view's to die for! And the air, man, the air...!"
+          },
+          {
+            "stringId": "1814005033042198528",
+            "femaleVariant": "Glad they called us here instead of the tower..."
+          },
+          {
+            "stringId": "1822853255962640384",
+            "femaleVariant": "Hellman! We are done! We need the AV, now!"
+          },
+          {
+            "stringId": "1835821347927625728",
+            "femaleVariant": "These people... they simply left me no choice."
+          },
+          {
+            "stringId": "1835869897550073860",
+            "femaleVariant": "Keep it together."
+          },
+          {
+            "stringId": "1835870221518114816",
+            "femaleVariant": "Did what we had to do."
+          },
+          {
+            "stringId": "1835870770200186880",
+            "femaleVariant": "We have a job to do."
+          },
+          {
+            "stringId": "1835870844321927168",
+            "femaleVariant": "Did what we had to."
+          },
+          {
+            "stringId": "1837312048028848128",
+            "femaleVariant": "This is why I have remained outside, uninvolved."
+          },
+          {
+            "stringId": "1837312558039437312",
+            "femaleVariant": "So as not to have to make decisions such as these."
+          },
+          {
+            "stringId": "1837321457111011328",
+            "femaleVariant": "Need to keep it together, for all our sakes!"
+          },
+          {
+            "stringId": "1837322820746350592",
+            "femaleVariant": "I need do nothing."
+          },
+          {
+            "stringId": "1837328094026665984",
+            "femaleVariant": "It is just that…"
+          },
+          {
+            "stringId": "1837358695802867712",
+            "femaleVariant": "Well, it's not like she has any official position…"
+          },
+          {
+            "stringId": "1837359202307018752",
+            "femaleVariant": "Psh. Since when do you have to be official to pull the strings?"
+          },
+          {
+            "stringId": "1837360025581785088",
+            "femaleVariant": "Those gold fingers of hers? They're a symbol – wraps peole around them. Just like she did her dad."
+          },
+          {
+            "stringId": "1837360181526007808",
+            "femaleVariant": "There's your answer, then. Our new Emperor Arasaka isn't about to get tangled up in any gold fingers."
+          },
+          {
+            "stringId": "1837360676537765888",
+            "femaleVariant": "You're right, though, it is a little weird..."
+          },
+          {
+            "stringId": "1844219229852536832",
+            "femaleVariant": "Mhm. Goddamn Smasher... Can you believe it? 'Saka 'lites like us steppin' aside for some punk-ass ex-merc? So what if he's biopodded?"
+          },
+          {
+            "stringId": "1844219539358617600",
+            "femaleVariant": "Maybe it's just temporary."
+          },
+          {
+            "stringId": "1845817765694148608",
+            "femaleVariant": "Yorinobu must've had a good reason to drag him out of his cave. Looks like he's not gonna crawl back in there anytime soon."
+          },
+          {
+            "stringId": "1873562604761268224",
+            "femaleVariant": "I will go left. The right side is yours."
+          },
+          {
+            "stringId": "1873563575105110016",
+            "femaleVariant": "There is a netrunner in the building. I will eliminate him."
+          },
+          {
+            "stringId": "1873565188888739840",
+            "femaleVariant": "It is clear inside. I will monitor the situation from here."
+          },
+          {
+            "stringId": "1873566118833045504",
+            "femaleVariant": "I will reach you shortly, V."
+          },
+          {
+            "stringId": "1908332456134590464",
+            "femaleVariant": "They know you are here."
+          },
+          {
+            "stringId": "1908333041239998464",
+            "femaleVariant": "You must neutralize them. All of them."
+          },
+          {
+            "stringId": "1908340320051937280",
+            "femaleVariant": "I am in the bedroom in the central part of the building."
+          },
+          {
+            "stringId": "1908341071721545728",
+            "femaleVariant": "Anders, you get the AV."
+          },
+          {
+            "stringId": "1908341643891720192",
+            "femaleVariant": "But first, we must... neutralize the four guards. V? Is your task clear?"
+          },
+          {
+            "stringId": "1908342161905041408",
+            "femaleVariant": "But first, we must... neutralize the four guards. Takemura, V? Is your task clear?"
+          },
+          {
+            "stringId": "1908342834923061248",
+            "femaleVariant": "We will take the left side, through the garden."
+          },
+          {
+            "stringId": "1908345087952175104",
+            "femaleVariant": "I will obstruct their communications so that no support arrives."
+          },
+          {
+            "stringId": "1908346169327632384",
+            "femaleVariant": "Careful, now. There are five more guards outside. And a dweller in the garage on the left."
+          },
+          {
+            "stringId": "1908347682095644672",
+            "femaleVariant": "One guard in the courtyard, another near the pool. Number three – on the terrace, the last inside."
+          },
+          {
+            "stringId": "1908352095912738816",
+            "femaleVariant": "I'm nearing the residence."
+          },
+          {
+            "stringId": "1908354188501336064",
+            "femaleVariant": "What have you done?! Now you will have to face them all!"
+          },
+          {
+            "stringId": "1908359178498359296",
+            "femaleVariant": "Patrol, two men."
+          },
+          {
+            "stringId": "1908359976791851008",
+            "femaleVariant": "You take one, I will handle the other myself."
+          },
+          {
+            "stringId": "1908362355952074752",
+            "femaleVariant": "Neutralized. Down to the last."
+          },
+          {
+            "stringId": "1908362894936915968",
+            "femaleVariant": "Good. I am disabling lockdown. I await you."
+          },
+          {
+            "stringId": "1908363579833204736",
+            "femaleVariant": "Good. Land by the pool."
+          },
+          {
+            "stringId": "1915253453191462912",
+            "femaleVariant": "Please."
+          },
+          {
+            "stringId": "1915351422116904964",
+            "femaleVariant": "[Get in]"
+          },
+          {
+            "stringId": "1937339808506462208",
+            "femaleVariant": "War's… a bit much, innit? Though a loaded word for any Arasaka.",
+            "maleVariant": "War's a bit much, isn't it? Though a loaded word for any Arasaka."
+          },
+          {
+            "stringId": "1963563808545665024",
+            "femaleVariant": "You will not need this anymore…"
+          },
+          {
+            "stringId": "1963569362592690176",
+            "femaleVariant": "He did not have time to call for backup... Good."
+          },
+          {
+            "stringId": "1963643195563536384",
+            "femaleVariant": "That gives us the upper hand, but we must hurry."
+          },
+          {
+            "stringId": "2000940801754734592",
+            "femaleVariant": "Uh-huh. We \"neutralize.\"",
+            "maleVariant": "Uh-huh. We  \"neutralize.\""
+          },
+          {
+            "stringId": "2007179881702301696",
+            "femaleVariant": "Roger that. Over and out."
+          },
+          {
+            "stringId": "2007195287800324096",
+            "femaleVariant": "Anders, you get the AV."
+          },
+          {
+            "stringId": "2007211512710373376",
+            "femaleVariant": "No blood was spilled – this is good."
+          },
+          {
+            "stringId": "2008132269175021568",
+            "femaleVariant": "Just counting bodies. You, me and Hellman makes three. Actually, two and a half."
+          },
+          {
+            "stringId": "2008132363530084352",
+            "femaleVariant": "Just counting bodies. You, me, Goro and Hellman makes four. Actually, three and a half."
+          },
+          {
+            "stringId": "2008203766220529664",
+            "femaleVariant": "Is that what you believe?"
+          },
+          {
+            "stringId": "2008208250132832256",
+            "femaleVariant": "There is Oda, too. We will meet him there."
+          },
+          {
+            "stringId": "2008210348778004488",
+            "femaleVariant": "Oda would be here, if you had not…"
+          },
+          {
+            "stringId": "2008212456919080960",
+            "femaleVariant": "He was provided with excellent care."
+          },
+          {
+            "stringId": "2008213793475993600",
+            "femaleVariant": "It was him or me, Hanako."
+          },
+          {
+            "stringId": "2008214134691012608",
+            "femaleVariant": "Pretty quick to get back on his feet."
+          },
+          {
+            "stringId": "2008218423517847552",
+            "femaleVariant": "My brother is not all of Arasaka. Not yet, at least."
+          },
+          {
+            "stringId": "2008218793925222400",
+            "femaleVariant": "He knows this well. It is the reason he surrounds himself with criminals like Adam Smasher."
+          },
+          {
+            "stringId": "2008224008619499520",
+            "femaleVariant": "That supposed to make me feel better?"
+          },
+          {
+            "stringId": "2008224535642185728",
+            "femaleVariant": "My father was \"on his own.\" And he built an empire."
+          },
+          {
+            "stringId": "2008226207642755072",
+            "femaleVariant": "Reality is we're on our own."
+          },
+          {
+            "stringId": "2008228149890719744",
+            "femaleVariant": "Anyway, against all Arasaka and its armies? That's not much."
+          },
+          {
+            "stringId": "2008349264663355392",
+            "femaleVariant": "For now. Things could still get ugly."
+          },
+          {
+            "stringId": "2008349264680132620",
+            "femaleVariant": "Rather not get your hands dirty?"
+          },
+          {
+            "stringId": "2008364373116788736",
+            "femaleVariant": "Yet now…"
+          },
+          {
+            "stringId": "2008426324547149840",
+            "femaleVariant": "For now. Could get a lot uglier down the line."
+          },
+          {
+            "stringId": "2008426324547149856",
+            "femaleVariant": "You ready for that?"
+          },
+          {
+            "stringId": "2008426324563927040",
+            "femaleVariant": "Always."
+          },
+          {
+            "stringId": "2008428072011636740",
+            "femaleVariant": "Rather not dirty your hands, huh?"
+          },
+          {
+            "stringId": "2008428072011636756",
+            "femaleVariant": "Chances are you'll have to soon enough."
+          },
+          {
+            "stringId": "2008428072011636772",
+            "femaleVariant": "I am well aware."
+          },
+          {
+            "stringId": "2011315843168542720",
+            "femaleVariant": "<mothertongue l=\"jpn\" m=\"Kuso.\" b=\"\" a=\" We must beware of the mech.\"/>"
+          },
+          {
+            "stringId": "2133278409131900932",
+            "femaleVariant": "[Get out] \"Neutralize.\" Got it."
+          },
+          {
+            "stringId": "2257350875024826368",
+            "femaleVariant": "We are waiting."
+          },
+          {
+            "stringId": "2257353090875629576",
+            "femaleVariant": "Can we not simply depart… and leave her?",
+            "maleVariant": "Can we not simply depart… and leave him?"
+          },
+          {
+            "stringId": "2257354536752881672",
+            "femaleVariant": "V! Get in!"
+          },
+          {
+            "stringId": "2257398606321786880",
+            "femaleVariant": "V! Arasaka-sama –  run and get her! We will be there soon!"
+          }
+        ]
+      }
+
+
+

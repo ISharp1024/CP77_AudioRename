@@ -1,0 +1,552 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "2004115944562987008",
+            "femaleVariant": "You look just as you did when I found you in the rubbish. Get up."
+          },
+          {
+            "stringId": "2004115944579764232",
+            "femaleVariant": "Takemura? What're you doin' here?"
+          },
+          {
+            "stringId": "2004115944630095872",
+            "femaleVariant": "[Sit] What're you doin' here?"
+          },
+          {
+            "stringId": "2004115944646873112",
+            "femaleVariant": "[Sit] Blunt, as usual."
+          },
+          {
+            "stringId": "2004115944680427532",
+            "femaleVariant": "Takemura. Blunt as usual."
+          },
+          {
+            "stringId": "2004115944680427548",
+            "femaleVariant": "They say you demanded someone tell you the truth."
+          },
+          {
+            "stringId": "2004115944713981952",
+            "femaleVariant": "It is an awful place... It is no wonder you are losing your mind."
+          },
+          {
+            "stringId": "2004115944764313604",
+            "femaleVariant": "Come all the way here to take me home?"
+          },
+          {
+            "stringId": "2004115944764313620",
+            "femaleVariant": "They asked me to speak with you."
+          },
+          {
+            "stringId": "2004115944781090816",
+            "femaleVariant": "What'd you want to talk about?"
+          },
+          {
+            "stringId": "2004115944781090832",
+            "femaleVariant": "Your beloved boss is back."
+          },
+          {
+            "stringId": "2004115944797868040",
+            "femaleVariant": "What exactly are you up to now?"
+          },
+          {
+            "stringId": "2004115944797868056",
+            "femaleVariant": "Who was it asked you to talk to me?"
+          },
+          {
+            "stringId": "2004115944831422508",
+            "femaleVariant": "What're you gonna do now? Still aim to protect Saburo's ass?"
+          },
+          {
+            "stringId": "2004115944831422524",
+            "femaleVariant": "I have been transferred to Japan. I will fly from here to Takamatsu."
+          },
+          {
+            "stringId": "2004115944831422540",
+            "femaleVariant": "Why?"
+          },
+          {
+            "stringId": "2004115944831422556",
+            "femaleVariant": "New times, new duties. But we say far too much about me."
+          },
+          {
+            "stringId": "2004115944864976932",
+            "femaleVariant": "Fine, so what is it you got to tell me?"
+          },
+          {
+            "stringId": "2004115944864976948",
+            "femaleVariant": "I am sorry to say it is not good."
+          },
+          {
+            "stringId": "2004115944898531368",
+            "femaleVariant": "Who asked you? Who wanted you to talk to me? Hanako?"
+          },
+          {
+            "stringId": "2004115944898531408",
+            "femaleVariant": "And what did they say?"
+          },
+          {
+            "stringId": "2004115944948862988",
+            "femaleVariant": "I will be blunt – the surgery did not help."
+          },
+          {
+            "stringId": "2004115944948863004",
+            "femaleVariant": "You will be dead before winter."
+          },
+          {
+            "stringId": "2004115944965640192",
+            "femaleVariant": "But they've got experts, the best specialists..."
+          },
+          {
+            "stringId": "2004115944982417420",
+            "femaleVariant": "Sorry, don't believe you."
+          },
+          {
+            "stringId": "2004115944982417436",
+            "femaleVariant": "Fuck."
+          },
+          {
+            "stringId": "2004115945015971856",
+            "femaleVariant": "How... How is that possible? Arasaka's got the best and brightest.",
+            "maleVariant": "How... How's that possible? Arasaka's got the best and brightest."
+          },
+          {
+            "stringId": "2004115945049526284",
+            "femaleVariant": "Sorry, don't believe you."
+          },
+          {
+            "stringId": "2004115945049526300",
+            "femaleVariant": "You wished to know the truth. There it is."
+          },
+          {
+            "stringId": "2004115945049526316",
+            "femaleVariant": "I... I really thought it'd all work out, end better than well."
+          },
+          {
+            "stringId": "2004115945083080732",
+            "femaleVariant": "Fuck."
+          },
+          {
+            "stringId": "2004115945099857920",
+            "femaleVariant": "Still got options?"
+          },
+          {
+            "stringId": "2004115945099857936",
+            "femaleVariant": "A few months, that's all I got, right?"
+          },
+          {
+            "stringId": "2004115945099857952",
+            "femaleVariant": "You promised Arasaka would fix me."
+          },
+          {
+            "stringId": "2004115945133412368",
+            "femaleVariant": "Dead in a few months – that's me, huh?"
+          },
+          {
+            "stringId": "2004115945133412384",
+            "femaleVariant": "You will feel better at first, but then the illness will grow fierce, attack in full force."
+          },
+          {
+            "stringId": "2004115945133412400",
+            "femaleVariant": "Your final weeks you will spend in bed."
+          },
+          {
+            "stringId": "2004115945183744028",
+            "femaleVariant": "Said Arasaka would fix me if I helped you – you promised."
+          },
+          {
+            "stringId": "2004115945183744044",
+            "femaleVariant": "I believed truly they could."
+          },
+          {
+            "stringId": "2004115945183744060",
+            "femaleVariant": "Said you had powerful friends. Where're those friends now?"
+          },
+          {
+            "stringId": "2004115945183744076",
+            "femaleVariant": "I did not come with empty hands. We must speak about your options."
+          },
+          {
+            "stringId": "2004115945183744092",
+            "femaleVariant": "Hanako Arasaka promised to save my life."
+          },
+          {
+            "stringId": "2004115945200521216",
+            "femaleVariant": "It is the reason she sent me here – to discuss the alternative."
+          },
+          {
+            "stringId": "2004115945234075720",
+            "femaleVariant": "What're you talkin' about? Trusted you all once already. You let me down."
+          },
+          {
+            "stringId": "2004115945234075780",
+            "femaleVariant": "You may join the \"Secure Your Soul\" program. Hanako Arasaka has agreed to it."
+          },
+          {
+            "stringId": "2004115945250852876",
+            "femaleVariant": "You will leave your body. Arasaka will store your engram in Mikoshi until a way is found to transfer it to a new body."
+          },
+          {
+            "stringId": "2004115945250852900",
+            "femaleVariant": "Store? Can't I get a new body right off?"
+          },
+          {
+            "stringId": "2004115945250852912",
+            "femaleVariant": "With technology as it is now, this is impossible."
+          },
+          {
+            "stringId": "2004115945250852928",
+            "femaleVariant": "Seemed pretty damn possible for Saburo Arasaka."
+          },
+          {
+            "stringId": "2004115945250852940",
+            "femaleVariant": "He returned in his son's body. Tissue compatibility made things easier."
+          },
+          {
+            "stringId": "2004115945284407296",
+            "femaleVariant": "Don't wanna land in Mikoshi."
+          },
+          {
+            "stringId": "2004115945284407312",
+            "femaleVariant": "Arasaka just wants another soul in its collection."
+          },
+          {
+            "stringId": "2004115945317961760",
+            "femaleVariant": "Sorry, not buyin' it. Arasaka's out to lock me up."
+          },
+          {
+            "stringId": "2004115945317961776",
+            "femaleVariant": "You overstate your importance. To the Arasakas, I fear you are nobody – were nobody."
+          },
+          {
+            "stringId": "2004115945317961788",
+            "femaleVariant": "With this offer, Hanako Arasaka rewards you generously for your service. There is not, as you say, \"more to the story.\""
+          },
+          {
+            "stringId": "2004115945385070624",
+            "femaleVariant": "There will be a contract to protect you. Sign it, and you will live."
+          },
+          {
+            "stringId": "2004115945418625064",
+            "femaleVariant": "Saw Saburo Arasaka's back. In Yorinobu's body."
+          },
+          {
+            "stringId": "2004115945418625080",
+            "femaleVariant": "Yes. Justice has been done."
+          },
+          {
+            "stringId": "2004115945418625096",
+            "femaleVariant": "So – got your revenge? Feel satisfied?"
+          },
+          {
+            "stringId": "2004115945435402240",
+            "femaleVariant": "I believe Hanako Arasaka chose the best solution."
+          },
+          {
+            "stringId": "2004115945452179456",
+            "femaleVariant": "Whole family's fucked up."
+          },
+          {
+            "stringId": "2004115945452179472",
+            "femaleVariant": "Saburo Arasaka should've stayed dead."
+          },
+          {
+            "stringId": "2004115945452179488",
+            "femaleVariant": "Feel bad for Yorinobu Arasaka."
+          },
+          {
+            "stringId": "2004115945485733924",
+            "femaleVariant": "Whole family's all kinds of fucked up. You know that."
+          },
+          {
+            "stringId": "2004115945502511108",
+            "femaleVariant": "Please watch what you say."
+          },
+          {
+            "stringId": "2004115945502511124",
+            "femaleVariant": "Sister kills brother to plant her murdered dad in the brother's corpse? Straight-to-feeder flick right there."
+          },
+          {
+            "stringId": "2004115945502511136",
+            "femaleVariant": "They are diferrent from you and me. We do not have the right to judge them."
+          },
+          {
+            "stringId": "2004115945536065564",
+            "femaleVariant": "Saburo shoulda stayed dead."
+          },
+          {
+            "stringId": "2004115945536065580",
+            "femaleVariant": "Many wish him dead, but he will survive them all."
+          },
+          {
+            "stringId": "2004115945586397224",
+            "femaleVariant": "Y'know, the Arasakas belong in some sad old tragedy. Some Shakespeare-level shit there."
+          },
+          {
+            "stringId": "2004115945586397240",
+            "femaleVariant": "Yorinobu 'specially."
+          },
+          {
+            "stringId": "2004115945586397256",
+            "femaleVariant": "You regret his fate?"
+          },
+          {
+            "stringId": "2004115945603174412",
+            "femaleVariant": "Wanted out of his dad's shadow, whatever the cost. Died at the hand of his worst nightmare."
+          },
+          {
+            "stringId": "2004115945670283268",
+            "femaleVariant": "You must accept the truth, then listen to what I say. There are options."
+          },
+          {
+            "stringId": "2004115945787723808",
+            "femaleVariant": "They have kept you here in this cell? For days? It is barbaric."
+          },
+          {
+            "stringId": "2004115945854832640",
+            "femaleVariant": "[Sit on bed]"
+          },
+          {
+            "stringId": "2004115945905164288",
+            "femaleVariant": "[Take contract]"
+          },
+          {
+            "stringId": "2004115945989050372",
+            "femaleVariant": "It is written here that you relinquish all rights, but do not worry. The law is simply behind the times – an engram is not legally a person."
+          },
+          {
+            "stringId": "2004115945989050388",
+            "femaleVariant": "So I get to be corporate property first?"
+          },
+          {
+            "stringId": "2004115945989050404",
+            "femaleVariant": "Like many braindance stars and politicians, from what I know. The program is a success, there have been no complaints."
+          },
+          {
+            "stringId": "2004115945989050420",
+            "femaleVariant": "And if I say no?"
+          },
+          {
+            "stringId": "2004115945989050436",
+            "femaleVariant": "This is not a prison. You will take your things and return to Night City."
+          },
+          {
+            "stringId": "2004116215800238112",
+            "femaleVariant": "Hey. What's your name?"
+          },
+          {
+            "stringId": "2004116215800238128",
+            "femaleVariant": "Hajime."
+          },
+          {
+            "stringId": "2004116215800238144",
+            "femaleVariant": "Hajime, lemme ask you somethin'. What would you say to a person who walked right into their greatest foe's jail to save their life?"
+          },
+          {
+            "stringId": "2004116215800238160",
+            "femaleVariant": "Hm. I would say, \"All right. But do not forget the way home.\""
+          },
+          {
+            "stringId": "2004116216051896320",
+            "femaleVariant": "[Stand] See you around?"
+          },
+          {
+            "stringId": "2004116216085450752",
+            "femaleVariant": "[Sign contract]"
+          },
+          {
+            "stringId": "2004116216085450764",
+            "femaleVariant": "[Take things and return to Earth]"
+          },
+          {
+            "stringId": "2004116216119005188",
+            "femaleVariant": "Were I you, I would sign. But the choice is yours. Think it through carefully."
+          },
+          {
+            "stringId": "2004116216337108992",
+            "femaleVariant": "[Take cube]"
+          },
+          {
+            "stringId": "2004116216404217880",
+            "femaleVariant": "Arasaka keeps its word, always."
+          },
+          {
+            "stringId": "2004116216504881156",
+            "femaleVariant": "Don't wanna die."
+          },
+          {
+            "stringId": "2004116216504881168",
+            "femaleVariant": "A good choice."
+          },
+          {
+            "stringId": "2004116216504881180",
+            "femaleVariant": "The engram station is ready for you. We should not wait for your condition to worsen."
+          },
+          {
+            "stringId": "2004116216605544448",
+            "femaleVariant": "[Surrender to Arasaka]"
+          },
+          {
+            "stringId": "2004116216722984964",
+            "femaleVariant": "Made my decision."
+          },
+          {
+            "stringId": "2004116216739762176",
+            "femaleVariant": "Goin' back to Earth, goin' home."
+          },
+          {
+            "stringId": "2004116216739762188",
+            "femaleVariant": "You will die there."
+          },
+          {
+            "stringId": "2004116217192747008",
+            "femaleVariant": "[Show middle finger]"
+          },
+          {
+            "stringId": "2004116217293410304",
+            "femaleVariant": "[Return to Earth]"
+          },
+          {
+            "stringId": "2004116217545068544",
+            "femaleVariant": "Gonna see each other again?"
+          },
+          {
+            "stringId": "2004116217545068560",
+            "femaleVariant": "I believe we will."
+          },
+          {
+            "stringId": "2004116217545068576",
+            "femaleVariant": "So… see you."
+          },
+          {
+            "stringId": "2004116217628954628",
+            "femaleVariant": "You're all right, Takemura, I like you. Thanks for comin' all the way up here to help."
+          },
+          {
+            "stringId": "2004116217628954640",
+            "femaleVariant": "What is that?"
+          },
+          {
+            "stringId": "2004116217662509056",
+            "femaleVariant": "[Stand] Goodbye, Takemura."
+          },
+          {
+            "stringId": "2004116217796726792",
+            "femaleVariant": "(\"A thing of beauty will never fade away.\")"
+          },
+          {
+            "stringId": "2004116217830281224",
+            "femaleVariant": "(\"I see your eyes, I know you see me, you're like a ghost how you're everywhere.\")"
+          },
+          {
+            "stringId": "2018716791898398720",
+            "femaleVariant": "I have come to speak with you."
+          },
+          {
+            "stringId": "2018794699115487232",
+            "femaleVariant": "Sorry, guess I'll never understand what you see in the guy."
+          },
+          {
+            "stringId": "2018795035968430080",
+            "femaleVariant": "You did not spend your life at his side and-- well... I did not come here to talk about the Arasakas."
+          },
+          {
+            "stringId": "2018845020630048768",
+            "femaleVariant": "She has forgotten you already. They called from here, from the clinic."
+          },
+          {
+            "stringId": "2018845795351552000",
+            "femaleVariant": "They said someone should talk with you. Someone you know."
+          },
+          {
+            "stringId": "2018876965657272320",
+            "femaleVariant": "No, no – the operation was a success, and that is why. But the changes the chip made were too great – even for the corporate neurosurgeons."
+          },
+          {
+            "stringId": "2018877801548505088",
+            "femaleVariant": "This is fuckin' Arasaka! They should figure somethin' out!"
+          },
+          {
+            "stringId": "2018886455924383744",
+            "femaleVariant": "Fuck."
+          },
+          {
+            "stringId": "2018886547477651456",
+            "femaleVariant": "Please, feel no anger. I wish to speak about an alternative."
+          },
+          {
+            "stringId": "2018907086330028032",
+            "femaleVariant": "Nope, doesn't sound good to me at all. I agree to this, and they'll do whatever they want with me.",
+            "maleVariant": "Nope, doesn't sound good at all to me. I agree to this, and they'll do whatever they want with me."
+          },
+          {
+            "stringId": "2018919758379376640",
+            "femaleVariant": "Visit me in Kagawa – I will show you what is real food."
+          },
+          {
+            "stringId": "2018923194051223552",
+            "femaleVariant": "But one thing you never understood and never will."
+          },
+          {
+            "stringId": "2018924516079067136",
+            "femaleVariant": "Got no idea how sweet it is to be free."
+          },
+          {
+            "stringId": "2018925922160762880",
+            "femaleVariant": "You speak out of bitterness. Please reconsider."
+          },
+          {
+            "stringId": "2018926809893593088",
+            "femaleVariant": "No. This here's goodbye. But I'm not gonna forget you, what we did together."
+          },
+          {
+            "stringId": "2018927814093856768",
+            "femaleVariant": "Goodbye, V."
+          },
+          {
+            "stringId": "2025631369722880000",
+            "femaleVariant": "Yet your phenotype, thanks to the chip, is unique. Arasaka cannot provide a suitable body at this time."
+          },
+          {
+            "stringId": "2066552551861358596",
+            "femaleVariant": "[Take bag]"
+          },
+          {
+            "stringId": "2221684586083348480",
+            "femaleVariant": "Rise, V, please – let us talk."
+          },
+          {
+            "stringId": "2221685564731912192",
+            "femaleVariant": "V-san?"
+          },
+          {
+            "stringId": "2221685689738948608",
+            "femaleVariant": "Please, look."
+          },
+          {
+            "stringId": "2221685976293797888",
+            "femaleVariant": "Any thoughts?"
+          },
+          {
+            "stringId": "2221686084255182848",
+            "femaleVariant": "You need not delay. There is nothing for you here any longer."
+          }
+        ]
+      }
+
+
+

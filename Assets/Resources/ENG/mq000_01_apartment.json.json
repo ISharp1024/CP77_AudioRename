@@ -1,0 +1,98 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "2028697799592157188",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "2028698177566056448",
+            "femaleVariant": "[Go to sleep]"
+          },
+          {
+            "stringId": "2028699165173653504",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2028737051734482948",
+            "femaleVariant": "[Start shower]"
+          },
+          {
+            "stringId": "2078186557357858816",
+            "femaleVariant": "[Stop shower]"
+          },
+          {
+            "stringId": "2086887489105780736",
+            "femaleVariant": "[Look in mirror]"
+          },
+          {
+            "stringId": "2086931518929461248",
+            "femaleVariant": "[Stop looking]"
+          },
+          {
+            "stringId": "2123159550320091136",
+            "femaleVariant": "[Watch]"
+          },
+          {
+            "stringId": "2318488737380474884",
+            "femaleVariant": "[Switch to next channel]"
+          },
+          {
+            "stringId": "2318489634374328320",
+            "femaleVariant": "[Switch to previous channel]"
+          },
+          {
+            "stringId": "2318490007398948864",
+            "femaleVariant": "[Turn off]"
+          },
+          {
+            "stringId": "2531839124031037440",
+            "femaleVariant": "[Smile]"
+          },
+          {
+            "stringId": "2531839124031037460",
+            "femaleVariant": "[Scowl]"
+          },
+          {
+            "stringId": "2531839124031037480",
+            "femaleVariant": "[Pout]"
+          },
+          {
+            "stringId": "2531839124047814664",
+            "femaleVariant": "[Gawk]"
+          },
+          {
+            "stringId": "2531839124047814684",
+            "femaleVariant": "[Stare]"
+          },
+          {
+            "stringId": "2850426924185837568",
+            "femaleVariant": "[db_db][Enable the hairdresser]"
+          },
+          {
+            "stringId": "2851650094028972032",
+            "femaleVariant": "[db_db][Make faces]"
+          },
+          {
+            "stringId": "2851670434205556736",
+            "femaleVariant": "[db_db][Go back]"
+          }
+        ]
+      }
+
+
+

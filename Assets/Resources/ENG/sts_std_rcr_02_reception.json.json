@@ -1,0 +1,92 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1338771044721459200",
+            "femaleVariant": "Welcome. What can I do for you?"
+          },
+          {
+            "stringId": "1344605721671729152",
+            "femaleVariant": "Got a question about your security cams..."
+          },
+          {
+            "stringId": "1344607724602884096",
+            "femaleVariant": "I'd like to discuss your partnership program..."
+          },
+          {
+            "stringId": "1344614647033200640",
+            "femaleVariant": "Friend o' mine was here a week ago and left a briefcase."
+          },
+          {
+            "stringId": "1344614709662547984",
+            "femaleVariant": "I'm curious, what do your partnership programs look like? My company's considering expanding its insurance package to include psychiatric care.",
+            "maleVariant": "I'm just curious, what do your partnership programs look like? My company's considering expanding its insurance package to include psychiatric care."
+          },
+          {
+            "stringId": "1377867724750028800",
+            "femaleVariant": "By all means. We are always open to new opportunities."
+          },
+          {
+            "stringId": "1634608862455169024",
+            "femaleVariant": "Hasn't come to my attention."
+          },
+          {
+            "stringId": "1793649505323470848",
+            "femaleVariant": "Can I make an appointment with a patient?"
+          },
+          {
+            "stringId": "1793650845672034304",
+            "femaleVariant": "Is there a way to arrange a visit with one of the patients?"
+          },
+          {
+            "stringId": "1793650845672034312",
+            "femaleVariant": "I'm afraid that won't be possible. Contact with the outside world can impede our highly specialized treatment."
+          },
+          {
+            "stringId": "1925827819355820032",
+            "femaleVariant": "OK... how 'bout over the holo?"
+          },
+          {
+            "stringId": "1925828136193544192",
+            "femaleVariant": "I'm afraid our head doctor wouldn't permit it."
+          },
+          {
+            "stringId": "1925832691627118592",
+            "femaleVariant": "Ah, fantastic. Could I get an information booklet about this place? Just wanna pass it on to HR.",
+            "maleVariant": "Fantastic. Could I get an information booklet about this place? Just wanna pass it on to HR."
+          },
+          {
+            "stringId": "1925833684032999424",
+            "femaleVariant": "One moment, I'll go get it for you."
+          },
+          {
+            "stringId": "1925834239006527488",
+            "femaleVariant": "I brought you the papers you requested."
+          },
+          {
+            "stringId": "1925839098325815296",
+            "femaleVariant": "Could we check the security feeds?"
+          },
+          {
+            "stringId": "1925839248867774464",
+            "femaleVariant": "Our security system is limited to the patients' level. Restricted to employees, only."
+          }
+        ]
+      }
+
+
+

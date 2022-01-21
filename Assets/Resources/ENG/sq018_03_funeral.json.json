@@ -1,0 +1,460 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1701015549985595392",
+            "femaleVariant": "V, it's good you're here."
+          },
+          {
+            "stringId": "1701036886678478848",
+            "femaleVariant": "My deepest condolences – he was a fine boy."
+          },
+          {
+            "stringId": "1701194367459303424",
+            "femaleVariant": "Among the membership of the Night City Devils boxing club, we had this saying."
+          },
+          {
+            "stringId": "1701228292315455488",
+            "femaleVariant": "Then go raise a glass to him, Padre. A few glasses."
+          },
+          {
+            "stringId": "1709616265364938752",
+            "femaleVariant": "I, uh... I often think back to the first time me and Jack met."
+          },
+          {
+            "stringId": "1709617872420904960",
+            "femaleVariant": "It feels like it happened a century ago. At another time, in another place. Jackie saved my life.",
+            "maleVariant": "Feels like it happened a century ago. At another time, in another place. Jackie saved my life."
+          },
+          {
+            "stringId": "1709618813656276992",
+            "femaleVariant": "He'd bought some goods klepped from Arasaka. Top secret, priceless... a lizard, heh.",
+            "maleVariant": "He'd bought some goods klepped from Arasaka. Top secret, priceless... Heheheh, a lizard."
+          },
+          {
+            "stringId": "1709710379691450368",
+            "femaleVariant": "I thank you all for coming today."
+          },
+          {
+            "stringId": "1709710379691450376",
+            "femaleVariant": "Instead, I'll tell you a story."
+          },
+          {
+            "stringId": "1725623255585169412",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1725638389305090048",
+            "femaleVariant": "I'm not going to tell you what kind of man my son was or lament about how much I miss him."
+          },
+          {
+            "stringId": "1725639810939265024",
+            "femaleVariant": "Make your best friends among the fighters who knock you out cold."
+          },
+          {
+            "stringId": "1725640208240517120",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Me mandó Campo Orta.\" t=\"Campo Orta sent me.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1741399012064272384",
+            "femaleVariant": "[Pour drink into fire]"
+          },
+          {
+            "stringId": "1742986048802037768",
+            "femaleVariant": "I'm glad you're here. It was a beautiful ofrenda we gave him."
+          },
+          {
+            "stringId": "1856038944331583488",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"De acuerdo.\" t=\"Agreed. I'll do just that.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856039595723771904",
+            "femaleVariant": "We're about to start."
+          },
+          {
+            "stringId": "1856156412475658240",
+            "femaleVariant": "When he was about... nineteen years old?"
+          },
+          {
+            "stringId": "1856158365041610752",
+            "femaleVariant": "Jackie was in the Valentinos. They were at war with Maelstrom back then."
+          },
+          {
+            "stringId": "1856158506087665664",
+            "femaleVariant": "I get a call from the hospital. They tell me he got shot. Three times. Just by the heart."
+          },
+          {
+            "stringId": "1856158611717017600",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"pulpo\" b=\"He was conscious when I get there. So many tubes coming out of him, he look like a... like a \" a=\", like an octopus or something.\"/>"
+          },
+          {
+            "stringId": "1856158787005370368",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"No te preocupes mamá.\" b=\"He tell me, he said, \\\"\" a=\" Look, I'm bulletproof. Nothing bad'll ever happen to me.\\\" \"/>"
+          },
+          {
+            "stringId": "1856158884732653568",
+            "femaleVariant": "And when I go, he take off his Valentinos ring. He swear he won't need it anymore."
+          },
+          {
+            "stringId": "1856158994120101888",
+            "femaleVariant": "But he was not scared. He just didn't want me to worry."
+          },
+          {
+            "stringId": "1856159204825157632",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Hm. Descansa en paz, mi hijo.\" t=\"Hm. Rest in peace, my son.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856161373750087680",
+            "femaleVariant": "And it's true. Jackie's arm was a cannon. No one's ever hit me as hard – heh, I can still almost feel it."
+          },
+          {
+            "stringId": "1856161567308828672",
+            "femaleVariant": "Twelve rounds, buddy."
+          },
+          {
+            "stringId": "1856163297492783104",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Lamenta no estar aquí, todavía le quedan cuatro años que cumplir. Me pidió que leyera esto.\" t=\"He's sorry he can't be here – still has four years to serve. He asked me to read this.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856163459107704832",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"«Recuerdo cuando Jackie se nos unió. Era un niño fuerte».\" t=\"\\\"I remember when Jackie first came to us. He was a tough kid.\\\" \" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856163547557187584",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"«Cuando decía que iba a hacer algo, cumplía. Tenía honor. Podría haber llegado lejos».\" t=\"\\\"When he said he would do something, he did it. He had honor. He would've made it far.\\\" \" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856163713181863936",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"«Mis condolencias a la familia».\" t=\"\\\"My condolences to the family.\\\" \" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856163837064826880",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"«Que descanse en paz».\" t=\"\\\"May he rest in peace.\\\" \" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1856342198181482496",
+            "femaleVariant": "Jackie Welles."
+          },
+          {
+            "stringId": "1856343144634568704",
+            "femaleVariant": "[Set down ball] A Heywood kid with ambition..."
+          },
+          {
+            "stringId": "1856343144634568720",
+            "femaleVariant": "[Set down tequila] He always wanted more out of life..."
+          },
+          {
+            "stringId": "1856352075163422724",
+            "femaleVariant": "Rest easy, choom."
+          },
+          {
+            "stringId": "1856384043812966400",
+            "femaleVariant": "Thank you for your kind words, V."
+          },
+          {
+            "stringId": "1856384113891397636",
+            "femaleVariant": "D'you know what? You're a good woman.",
+            "maleVariant": "You know what? You're a good man."
+          },
+          {
+            "stringId": "1856384414287450116",
+            "femaleVariant": "[Take keys] Thank you."
+          },
+          {
+            "stringId": "1856384516628467712",
+            "femaleVariant": "You sure?"
+          },
+          {
+            "stringId": "1856384596387352580",
+            "femaleVariant": "Thank you. I'll take such good care of it."
+          },
+          {
+            "stringId": "1856384635746701316",
+            "femaleVariant": "Uh... you sure?",
+            "maleVariant": "You... you sure?"
+          },
+          {
+            "stringId": "1856404934617780224",
+            "femaleVariant": "And then, years later in Night City, he saved it again. At a time when I thought I'd lost absolutely everything."
+          },
+          {
+            "stringId": "1856405046538588160",
+            "femaleVariant": "I found my own freedom, then. But it would not have happened without him."
+          },
+          {
+            "stringId": "1856405814951858176",
+            "femaleVariant": "Half an hour later we were eatin' dinner at Mama Welles'. Turned out to have more in common than we thought – principles.",
+            "maleVariant": "Half an hour later... well, we're eatin' dinner at Mama Welles'. Turned out to have more in common than we thought – principles."
+          },
+          {
+            "stringId": "1856408139200253952",
+            "femaleVariant": "And I remember what he said then. That I came from a place where everyone's family, so he must be, too."
+          },
+          {
+            "stringId": "1857268243663474688",
+            "femaleVariant": "I would like to say a toast."
+          },
+          {
+            "stringId": "1857270968400793600",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Por mi hijo.\" t=\"Here's to my son\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1857288359176359936",
+            "femaleVariant": "Jackie would want you to have this."
+          },
+          {
+            "stringId": "1857291401774813184",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Cuídate, V.\" t=\"Take care of yourself, V.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1857291779614494720",
+            "femaleVariant": "Jackie'd kill me if I got so much as a scratch on it."
+          },
+          {
+            "stringId": "1857291857326559232",
+            "femaleVariant": "So don't get any scratches on it."
+          },
+          {
+            "stringId": "1892238155099983872",
+            "femaleVariant": "Then some badges showed up. Beat the shit out of both of us – half my fault, half his. We hightailed it out together.",
+            "maleVariant": "Then some badges showed up. Beat the shit out of us both – it's half my fault, half his. And we hightailed it out together."
+          },
+          {
+            "stringId": "1892238198183874560",
+            "femaleVariant": "It all started when he put a heater to my head."
+          },
+          {
+            "stringId": "1892239992356130816",
+            "femaleVariant": "I'd been hired to drive him and some contraband across the border."
+          },
+          {
+            "stringId": "1892438629442965508",
+            "femaleVariant": "She was very important to him."
+          },
+          {
+            "stringId": "1892438716969701376",
+            "femaleVariant": "Her name is Misty."
+          },
+          {
+            "stringId": "1892438754332561412",
+            "femaleVariant": "Let it go, Mama Welles."
+          },
+          {
+            "stringId": "1892438849962692608",
+            "femaleVariant": "What...?"
+          },
+          {
+            "stringId": "1892439027532746752",
+            "femaleVariant": "Let it go, Mama Welles."
+          },
+          {
+            "stringId": "1892441958294278144",
+            "femaleVariant": "Excuse me?"
+          },
+          {
+            "stringId": "1892442026611101696",
+            "femaleVariant": "She's a good woman, and your son loved her."
+          },
+          {
+            "stringId": "1938725270667063296",
+            "femaleVariant": "The best friend you could ask for, loyal to a fault.",
+            "maleVariant": "Best friend you could ask for, loyal to a fault."
+          },
+          {
+            "stringId": "1938725290984271876",
+            "femaleVariant": "His friends were everything."
+          },
+          {
+            "stringId": "1938725478167670784",
+            "femaleVariant": "He had principles."
+          },
+          {
+            "stringId": "1938726244114690048",
+            "femaleVariant": "An honorable man. He placed principles first and stuck hard to 'em."
+          },
+          {
+            "stringId": "1938727557200277504",
+            "femaleVariant": "Once he set his mind on something, he was ready to die to achieve it.",
+            "maleVariant": "Once he set his mind to something, he was ready to die to achieve it."
+          },
+          {
+            "stringId": "1938738185449172996",
+            "femaleVariant": "He did not fear life."
+          },
+          {
+            "stringId": "1938738266701230080",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Chica\" b=\"He... He once told me, \\\"\" a=\", the one thing we can't do is be afraid of others.\\\" \"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"Bróder\" b=\"He once told me, \\\"\" a=\", the one thing we can't do is be afraid of others.\\\" \"/>"
+          },
+          {
+            "stringId": "1938739476137177088",
+            "femaleVariant": "He wasn't who people thought he was."
+          },
+          {
+            "stringId": "1938741214927843328",
+            "femaleVariant": "Jackie loved life and had no fear. Heart on his sleeve, he... he didn't overthink things, he just went for it.",
+            "maleVariant": "Jackie loved life and had no fear. Heart on his sleeve, he didn't overthink things. He just went for it."
+          },
+          {
+            "stringId": "1938741228836155392",
+            "femaleVariant": "Everyone saw Jackie as a grinning charmer who saw the good in everyone, everything."
+          },
+          {
+            "stringId": "1938741526161977344",
+            "femaleVariant": "Thought he was bulletproof and that he'd become legend at the Afterlife.",
+            "maleVariant": "Thought he was bulletproof and... and that he'd become legend at the Afterlife."
+          },
+          {
+            "stringId": "1938741913866661888",
+            "femaleVariant": "And ultimately, he did what he set out to do – shit in the shoes of some powerful people."
+          },
+          {
+            "stringId": "1938742316402405376",
+            "femaleVariant": "If he's watching, bet just about now he's flippin' 'em all the bird.",
+            "maleVariant": "And if he's watching, I bet just about now he's flippin' 'em all the bird."
+          },
+          {
+            "stringId": "1938743697335054336",
+            "femaleVariant": "They were wrong. Jackie Welles was a helluvan ambitious choom who never gave up, and whose drive cost him his life.",
+            "maleVariant": "But they were wrong. Jackie Welles was a helluvan ambitious choom who never gave up, and whose drive cost him his life."
+          },
+          {
+            "stringId": "1938745003156107264",
+            "femaleVariant": "But he did in life what he said he'd do – reached for fortune and fame, no fear in his eyes or heart.",
+            "maleVariant": "But he did in life what he said he'd do – reached for fortune and fame, no fear in eyes or heart."
+          },
+          {
+            "stringId": "1938881424185552896",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"putita\" b=\"Lot of people come today... Even that \" a=\" Jackie was messing around with.\"/>"
+          },
+          {
+            "stringId": "1938885004292452352",
+            "femaleVariant": "Misty. She was very important to him. Do you understand?",
+            "maleVariant": "Misty. And she was very important to him. Do you understand?"
+          },
+          {
+            "stringId": "1938890485123706880",
+            "femaleVariant": "Go, invite her along for dinner. It's the least she deserves."
+          },
+          {
+            "stringId": "1942891821798432768",
+            "femaleVariant": "[Set down belt] He wasn't afraid of anyone..."
+          },
+          {
+            "stringId": "1942891950764892160",
+            "femaleVariant": "[Recite passage from book] "
+          },
+          {
+            "stringId": "1943191058796945408",
+            "femaleVariant": "Anyone else...?"
+          },
+          {
+            "stringId": "1954616294136279040",
+            "femaleVariant": "A Heywood kid with a helluva drive."
+          },
+          {
+            "stringId": "1954616317926371328",
+            "femaleVariant": "He always wanted more than he got outta life."
+          },
+          {
+            "stringId": "1954616331381698560",
+            "femaleVariant": "He feared no one. And wasn't afraid. Lived life to the fullest.",
+            "maleVariant": "He feared no one. And wasn't afraid. He lived life to the fullest."
+          },
+          {
+            "stringId": "1954616339669643264",
+            "femaleVariant": "\"When you go to war as a boy, you have a great illusion of immortality. Other people get killed, not you... Then, when you are badly wounded the first time, you lose that illusion.\""
+          },
+          {
+            "stringId": "1954666752167047168",
+            "femaleVariant": "He aimed high."
+          },
+          {
+            "stringId": "1954666960372297728",
+            "femaleVariant": "Always hungry for more. And never gave up, not once."
+          },
+          {
+            "stringId": "1954671769041170436",
+            "femaleVariant": "Never forgot where he came from."
+          },
+          {
+            "stringId": "1954671940386877440",
+            "femaleVariant": "He put his loved ones first."
+          },
+          {
+            "stringId": "1954672623152459776",
+            "femaleVariant": "Always, always knew what he wanted."
+          },
+          {
+            "stringId": "1954675017496064000",
+            "femaleVariant": "He kept Heywood in his heart, always. It made him who he was."
+          },
+          {
+            "stringId": "1954675031639257088",
+            "femaleVariant": "But most importantly…"
+          },
+          {
+            "stringId": "1954675040547958784",
+            "femaleVariant": "For his loved ones, he'd sacrifice his life, without hesitation."
+          },
+          {
+            "stringId": "1954675454391545856",
+            "femaleVariant": "He always knew what he wanted. And took it without askin'.",
+            "maleVariant": "He always knew what he wanted. And he took it without askin'."
+          },
+          {
+            "stringId": "1959312160644308992",
+            "femaleVariant": "It's so, so good to see you."
+          },
+          {
+            "stringId": "1959312875957690372",
+            "femaleVariant": "Jackie chose his friends well."
+          },
+          {
+            "stringId": "1969073723778596868",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1969265292137791492",
+            "femaleVariant": "[Stand] Always go back to the time we first met."
+          },
+          {
+            "stringId": "1969265620501463040",
+            "femaleVariant": "[Stand and say nothing]"
+          },
+          {
+            "stringId": "1970780234074619904",
+            "femaleVariant": "Sit down, please."
+          },
+          {
+            "stringId": "2037366793477095424",
+            "femaleVariant": "I can't accept this."
+          },
+          {
+            "stringId": "2037367489530232832",
+            "femaleVariant": "Thank you, but... I really can't accept this."
+          },
+          {
+            "stringId": "2262244236776882176",
+            "femaleVariant": "I hope you can understand…",
+            "maleVariant": "I... hope you understand."
+          }
+        ]
+      }
+
+
+

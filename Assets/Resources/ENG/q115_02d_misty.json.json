@@ -1,0 +1,757 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1720051518226317312",
+            "femaleVariant": "Is that you, V? Or…"
+          },
+          {
+            "stringId": "1720055148950077444",
+            "femaleVariant": "[Pet cat] Who's this?"
+          },
+          {
+            "stringId": "1720055533148323840",
+            "femaleVariant": "Who do we have here, huh?"
+          },
+          {
+            "stringId": "1720056032455049216",
+            "femaleVariant": "That's Mr. Brightman."
+          },
+          {
+            "stringId": "1756254178290704384",
+            "femaleVariant": "Yeah, it's me."
+          },
+          {
+            "stringId": "1756256398436474880",
+            "femaleVariant": "OK, I'm ready."
+          },
+          {
+            "stringId": "1764642142649589764",
+            "femaleVariant": "[Lean] Let's do it."
+          },
+          {
+            "stringId": "1764646575022284800",
+            "femaleVariant": "Since you have to wait, mind if I give you a reading?"
+          },
+          {
+            "stringId": "1783826490401361920",
+            "femaleVariant": "Like Vik said. Taken matters into my own hands."
+          },
+          {
+            "stringId": "1783827344260993024",
+            "femaleVariant": "So, what now?"
+          },
+          {
+            "stringId": "1783828312205692928",
+            "femaleVariant": "Waitin' for my driver."
+          },
+          {
+            "stringId": "1783828467109728256",
+            "femaleVariant": "Come inside. We'll wait together."
+          },
+          {
+            "stringId": "1783831661692981248",
+            "femaleVariant": "Only if you want."
+          },
+          {
+            "stringId": "1783833059469955072",
+            "femaleVariant": "Sure."
+          },
+          {
+            "stringId": "1783833913564467200",
+            "femaleVariant": "Rather not."
+          },
+          {
+            "stringId": "1783834851981266944",
+            "femaleVariant": "Sure, why not."
+          },
+          {
+            "stringId": "1783834949641441280",
+            "femaleVariant": "I devised this layout especially for you and Johnny."
+          },
+          {
+            "stringId": "1783835155229446144",
+            "femaleVariant": "Y'know... prolly not a good idea."
+          },
+          {
+            "stringId": "1793851514260688896",
+            "femaleVariant": "We found the poor guy in the trash behind the clinic."
+          },
+          {
+            "stringId": "1793851775179952128",
+            "femaleVariant": "I think he misses Jackie."
+          },
+          {
+            "stringId": "1793853035736076288",
+            "femaleVariant": "Ain't alone."
+          },
+          {
+            "stringId": "1851725560031289344",
+            "femaleVariant": "Your future is his future... and vice versa."
+          },
+          {
+            "stringId": "1851730247367335936",
+            "femaleVariant": "Hm. I think that's for you."
+          },
+          {
+            "stringId": "1851734059402469376",
+            "femaleVariant": "Wait, is that... an Arasaka stretch?"
+          },
+          {
+            "stringId": "1851809470740242432",
+            "femaleVariant": "But... V! They killed Jackie! And-- and now you're working for them?!"
+          },
+          {
+            "stringId": "1851811814450208768",
+            "femaleVariant": "That's right."
+          },
+          {
+            "stringId": "1851812676497121284",
+            "femaleVariant": "Alternatives were worse."
+          },
+          {
+            "stringId": "1851813040411713536",
+            "femaleVariant": "Jackie died because we both made a bad decision."
+          },
+          {
+            "stringId": "1851814855287054336",
+            "femaleVariant": "Don't like it any more than you do, but all the other options were worse."
+          },
+          {
+            "stringId": "1851815145130237952",
+            "femaleVariant": "Still don't get it, do you?",
+            "maleVariant": "Still don't get it, do ya?"
+          },
+          {
+            "stringId": "1851815996993380352",
+            "femaleVariant": "Jackie died 'cause we made a terrible fucking decision."
+          },
+          {
+            "stringId": "1851818373049819136",
+            "femaleVariant": "And the rest – just plain consequences."
+          },
+          {
+            "stringId": "1851820821281841152",
+            "femaleVariant": "Time to make things right."
+          },
+          {
+            "stringId": "1851821693730627584",
+            "femaleVariant": "Misty, listen..."
+          },
+          {
+            "stringId": "1851825174784843776",
+            "femaleVariant": "Betraying a friend – you can't justify that."
+          },
+          {
+            "stringId": "1851828430470717440",
+            "femaleVariant": "Think I don't remember?"
+          },
+          {
+            "stringId": "1851830360890744832",
+            "femaleVariant": "Got no right to judge me."
+          },
+          {
+            "stringId": "1851830595117457408",
+            "femaleVariant": "You've changed… For the worse."
+          },
+          {
+            "stringId": "1851836078163304448",
+            "femaleVariant": "Lovely little shithole..."
+          },
+          {
+            "stringId": "1851849947585781760",
+            "femaleVariant": "So, this is where Arasaka's finest technology wound up... Charming."
+          },
+          {
+            "stringId": "1851860698828447744",
+            "femaleVariant": "V, it's good to meet again. You look…"
+          },
+          {
+            "stringId": "1851861278128939008",
+            "femaleVariant": "Like shit."
+          },
+          {
+            "stringId": "1851891481932800000",
+            "femaleVariant": "And I feel like shit."
+          },
+          {
+            "stringId": "1851891639974174720",
+            "femaleVariant": "Compared to you, sure."
+          },
+          {
+            "stringId": "1851896231126441984",
+            "femaleVariant": "Compared to you, I do. You look good."
+          },
+          {
+            "stringId": "1851896796065636352",
+            "femaleVariant": "I am back in graces, as you say."
+          },
+          {
+            "stringId": "1851897518777769984",
+            "femaleVariant": "Feel like shit. And it's gettin' worse.",
+            "maleVariant": "I feel like shit. And it's gettin' worse."
+          },
+          {
+            "stringId": "1851897950656864260",
+            "femaleVariant": "Yeah, just foretold I'd break your jaw."
+          },
+          {
+            "stringId": "1851952991115747332",
+            "femaleVariant": "Yeah, but I can tell you where to put your suspicions."
+          },
+          {
+            "stringId": "1851979533694869504",
+            "femaleVariant": "Let us go to the car. Hanako-sama is waiting."
+          },
+          {
+            "stringId": "1852010204995854336",
+            "femaleVariant": "Where's the ripper? Telling fortunes from rat bones in the back?"
+          },
+          {
+            "stringId": "1852012376219262976",
+            "femaleVariant": "Anders Hellman. Alive. What a surprise."
+          },
+          {
+            "stringId": "1852014553096593408",
+            "femaleVariant": "That's right. Matter of fact, just foretold I'd break your shit-spewing jaw."
+          },
+          {
+            "stringId": "1852014630439559168",
+            "femaleVariant": "Anders Hellman. Alive, I see, and well."
+          },
+          {
+            "stringId": "1852018297536323584",
+            "femaleVariant": "Figured your employers woulda knocked you around some after your flight to Kang Tao.",
+            "maleVariant": "Figured your employers would've knocked you around some after your flight to Kang Tao."
+          },
+          {
+            "stringId": "1852025220218298368",
+            "femaleVariant": "'Member the last time I did that, I trust."
+          },
+          {
+            "stringId": "1852038512420659200",
+            "femaleVariant": "You look after yourself, V."
+          },
+          {
+            "stringId": "1852999420504514560",
+            "femaleVariant": "Hmm. I think that's for you."
+          },
+          {
+            "stringId": "1853002779974246400",
+            "femaleVariant": "Whatever you prefer. Perhaps it's best."
+          },
+          {
+            "stringId": "1853006656836542464",
+            "femaleVariant": "Yep. No mistakin' that ride, ever."
+          },
+          {
+            "stringId": "1853008035000950784",
+            "femaleVariant": "Hey."
+          },
+          {
+            "stringId": "1853018463147991040",
+            "femaleVariant": "You scared me, you know that?"
+          },
+          {
+            "stringId": "1853019730599550976",
+            "femaleVariant": "Jesus, you really do look terrible."
+          },
+          {
+            "stringId": "1853226715810963456",
+            "femaleVariant": "The construct in your head and how it could affect decision-making."
+          },
+          {
+            "stringId": "1853227023723208704",
+            "femaleVariant": "The same construct that, in its former life, detonated two nuclear warheads inside Arasaka Tower."
+          },
+          {
+            "stringId": "1853227401780994048",
+            "femaleVariant": "And now you and this construct have volunteered to sort things out in Arasaka."
+          },
+          {
+            "stringId": "1853227742039711744",
+            "femaleVariant": "Interesting coincidence, wouldn't you say?"
+          },
+          {
+            "stringId": "1853234457237856256",
+            "femaleVariant": "When we last saw one another, we spoke of a construct in your head that could influence your decision-making."
+          },
+          {
+            "stringId": "1853234607695929344",
+            "femaleVariant": "The same construct that, in its former life, detonated two nuclear warheads inside Arasaka Tower."
+          },
+          {
+            "stringId": "1853234825229312000",
+            "femaleVariant": "What is this about?"
+          },
+          {
+            "stringId": "1853235209192677376",
+            "femaleVariant": "Has no one told you? Shame."
+          },
+          {
+            "stringId": "1853235426457624576",
+            "femaleVariant": "The engram inside is Johnny-fucking-Silverhand. Recognize the name?"
+          },
+          {
+            "stringId": "1853237124697759744",
+            "femaleVariant": "Johnny's my problem, not yours."
+          },
+          {
+            "stringId": "1853237529833971712",
+            "femaleVariant": "Yes, but he's suppressed now."
+          },
+          {
+            "stringId": "1853240037859991552",
+            "femaleVariant": "With beta-blockers. But before I did that, he warned me against working with Arasaka."
+          },
+          {
+            "stringId": "1853240730960338944",
+            "femaleVariant": "So tuck your suspicions where the sun don't shine before I start regretting not taking his advice."
+          },
+          {
+            "stringId": "1853243098191962112",
+            "femaleVariant": "That is enough for me."
+          },
+          {
+            "stringId": "1853243617983668224",
+            "femaleVariant": "Johnny's my concern, not yours."
+          },
+          {
+            "stringId": "1853244760998617088",
+            "femaleVariant": "The terrorist?"
+          },
+          {
+            "stringId": "1853247346904473600",
+            "femaleVariant": "Johnny's blocked off. And I bear no ill will against Arasaka."
+          },
+          {
+            "stringId": "1853248151371980800",
+            "femaleVariant": "Not nearly as interesting as your paranoia."
+          },
+          {
+            "stringId": "1853248279348584448",
+            "femaleVariant": "Aren't you just my driver? Do your fuckin' job."
+          },
+          {
+            "stringId": "1853248570886266880",
+            "femaleVariant": "Think you might be outta line, Hellman."
+          },
+          {
+            "stringId": "1853248913292468224",
+            "femaleVariant": "Hanako appointed you my chauffeur."
+          },
+          {
+            "stringId": "1853250064494698496",
+            "femaleVariant": "It is, but not nearly as interesting as your paranoia."
+          },
+          {
+            "stringId": "1853268088694054912",
+            "femaleVariant": "Got Johnny in check with beta-blockers. And Arasaka's not on my radar.",
+            "maleVariant": "I got Johnny in check with beta-blockers. And Arasaka's not on my radar."
+          },
+          {
+            "stringId": "1853269799013785600",
+            "femaleVariant": "To Arasaka, I'm still worth more alive and well than harmed or dead."
+          },
+          {
+            "stringId": "1853407590255239168",
+            "femaleVariant": "Let us go."
+          },
+          {
+            "stringId": "1853409365351800832",
+            "femaleVariant": "So do your fuckin' job and drive me to North Oak."
+          },
+          {
+            "stringId": "1853413363530145792",
+            "femaleVariant": "It's simple, my life's on the line."
+          },
+          {
+            "stringId": "1853416347475451904",
+            "femaleVariant": "Honestly think I'm runnin' some kinda ruse?"
+          },
+          {
+            "stringId": "1853418856726208512",
+            "femaleVariant": "I don't know what to think. But I shall be watching you."
+          },
+          {
+            "stringId": "1853422004970790912",
+            "femaleVariant": "If I can make things right... maybe, just maybe, things'll go back to normal.",
+            "maleVariant": "If I can make things right... maybe... just maybe things'll go back to normal."
+          },
+          {
+            "stringId": "1853424319689728000",
+            "femaleVariant": "The Magician."
+          },
+          {
+            "stringId": "1853425418949697536",
+            "femaleVariant": "A person of great talent and charisma, a leader..."
+          },
+          {
+            "stringId": "1853425659316871168",
+            "femaleVariant": "Sounds like Johnny."
+          },
+          {
+            "stringId": "1853425779324297216",
+            "femaleVariant": "The card is reversed. That can mean a tendency toward addiction... mental instability."
+          },
+          {
+            "stringId": "1853426169914662912",
+            "femaleVariant": "Oh-ho, OK, definitely Johnny.",
+            "maleVariant": "OK, definitely Johnny."
+          },
+          {
+            "stringId": "1853431493241413632",
+            "femaleVariant": "The Fool."
+          },
+          {
+            "stringId": "1853432281401466880",
+            "femaleVariant": "Huh, what a surprise…",
+            "maleVariant": "Heheh, what a surprise…"
+          },
+          {
+            "stringId": "1853433092193984512",
+            "femaleVariant": "Let's dig deeper to find its meaning here."
+          },
+          {
+            "stringId": "1853435813223538688",
+            "femaleVariant": "He is one great disturbance."
+          },
+          {
+            "stringId": "1853437190582640640",
+            "femaleVariant": "We'll start with you, V."
+          },
+          {
+            "stringId": "1853438013052100608",
+            "femaleVariant": "The Fool symbolizes the start of a journey, the announcement of something new."
+          },
+          {
+            "stringId": "1853441424195657728",
+            "femaleVariant": "Heh, sounds a lot like the V I first met."
+          },
+          {
+            "stringId": "1853445218295947264",
+            "femaleVariant": "It's the inner child – curious of the world, but also naive and reckless."
+          },
+          {
+            "stringId": "1853471664775176192",
+            "femaleVariant": "The Devil."
+          },
+          {
+            "stringId": "1853475900284018688",
+            "femaleVariant": "Ooh, got another deck lyin' around? A cheerful one?",
+            "maleVariant": "Got another deck lyin' around? A cheerful one?"
+          },
+          {
+            "stringId": "1853476483191611392",
+            "femaleVariant": "This is no joke, V."
+          },
+          {
+            "stringId": "1854766433048535040",
+            "femaleVariant": "Man, it's good to see your face."
+          },
+          {
+            "stringId": "1854784503603339264",
+            "femaleVariant": "Then we had best not waste any time. We have a long road ahead of us."
+          },
+          {
+            "stringId": "1854786113209442304",
+            "femaleVariant": "Look out for yourself, V."
+          },
+          {
+            "stringId": "1854787245805740032",
+            "femaleVariant": "You too, Misty. And thanks for everything."
+          },
+          {
+            "stringId": "1854795675064934400",
+            "femaleVariant": "Didn't think anything could scare you."
+          },
+          {
+            "stringId": "1854799948439953408",
+            "femaleVariant": "No more hiding in filth, no more second-rate food."
+          },
+          {
+            "stringId": "1854803273415729152",
+            "femaleVariant": "Hey..."
+          },
+          {
+            "stringId": "1854812445452607488",
+            "femaleVariant": "We're here to help, OK?"
+          },
+          {
+            "stringId": "1854813602862407680",
+            "femaleVariant": "Come on. Everybody's waiting at camp."
+          },
+          {
+            "stringId": "1854864321879547904",
+            "femaleVariant": "OK. And Johnny's?"
+          },
+          {
+            "stringId": "1854864962551095296",
+            "femaleVariant": "The Moon..."
+          },
+          {
+            "stringId": "1856241840331497472",
+            "femaleVariant": "The cards weren't lying... You've changed."
+          },
+          {
+            "stringId": "1856242311402168320",
+            "femaleVariant": "You really have changed."
+          },
+          {
+            "stringId": "1856243038275051520",
+            "femaleVariant": "And my senses tell me it's for the worse."
+          },
+          {
+            "stringId": "1856245489510195200",
+            "femaleVariant": "All this shit started because I decided to screw over the corp that used to sign my paychecks."
+          },
+          {
+            "stringId": "1856249863011639296",
+            "femaleVariant": "I get it. They're only cards. Always open to interpretation."
+          },
+          {
+            "stringId": "1856250031354224640",
+            "femaleVariant": "I really hope you know what you're doin', V."
+          },
+          {
+            "stringId": "1856265325934092288",
+            "femaleVariant": "Same as me, so stop droning and take me to Hanako.",
+            "maleVariant": "Yeah, same as me, so stop droning and take me to Hanako."
+          },
+          {
+            "stringId": "1856266299834703872",
+            "femaleVariant": "Right, Hanako..."
+          },
+          {
+            "stringId": "1856267764418551808",
+            "femaleVariant": "Do you remember what last we spoke of?"
+          },
+          {
+            "stringId": "1856269497421078528",
+            "femaleVariant": "I do. But I also recall what we spoke of that day."
+          },
+          {
+            "stringId": "1856274034768814080",
+            "femaleVariant": "I'll just put on some music."
+          },
+          {
+            "stringId": "1856277056915841024",
+            "femaleVariant": "Let's see."
+          },
+          {
+            "stringId": "1856283754195918848",
+            "femaleVariant": "Changed my mind. Rather not know."
+          },
+          {
+            "stringId": "1856284949186682880",
+            "femaleVariant": "Actually, Misty, changed my mind.",
+            "maleVariant": "Ehh, actually, Misty, changed my mind."
+          },
+          {
+            "stringId": "1856285615661588480",
+            "femaleVariant": "Prolly better I don't know."
+          },
+          {
+            "stringId": "1856285679314345984",
+            "femaleVariant": "Whatever you prefer. I'll put on some music instead."
+          },
+          {
+            "stringId": "1856297671618011136",
+            "femaleVariant": "Some believe uncertainty is an evil that should be dispelled through divination."
+          },
+          {
+            "stringId": "1856309372551766016",
+            "femaleVariant": "The final cards are about your futures."
+          },
+          {
+            "stringId": "1856343426995134464",
+            "femaleVariant": "An inverted Devil symbolizes subjugation, losing control... Aggression. Evil. A power struggle."
+          },
+          {
+            "stringId": "1856347080619794432",
+            "femaleVariant": "Whatever you're planning, treat this as a warning."
+          },
+          {
+            "stringId": "1856356772884586496",
+            "femaleVariant": "Well... that doesn't sound too bad, right?"
+          },
+          {
+            "stringId": "1856357988997865472",
+            "femaleVariant": "I don't know, V."
+          },
+          {
+            "stringId": "1856358086926475264",
+            "femaleVariant": "The Moon is mystery."
+          },
+          {
+            "stringId": "1856359974027730944",
+            "femaleVariant": "The Lovers."
+          },
+          {
+            "stringId": "1856367064062435328",
+            "femaleVariant": "Ahh, something that doesn't give me the chills, finally.",
+            "maleVariant": "Hah, something that doesn't give me the chills, finally."
+          },
+          {
+            "stringId": "1856368848537460736",
+            "femaleVariant": "The Lovers."
+          },
+          {
+            "stringId": "1856371134500249600",
+            "femaleVariant": "Balance, friendship, love..."
+          },
+          {
+            "stringId": "1856373343707275268",
+            "femaleVariant": "OK. And Johnny's?"
+          },
+          {
+            "stringId": "1856373344445472768",
+            "femaleVariant": "The Moon..."
+          },
+          {
+            "stringId": "1856373345049452544",
+            "femaleVariant": "Well, that... doesn't sound too bad, right?",
+            "maleVariant": "Well, it... doesn't sound too bad, right?"
+          },
+          {
+            "stringId": "1856373345670209536",
+            "femaleVariant": "I don't know, V."
+          },
+          {
+            "stringId": "1856373346324520960",
+            "femaleVariant": "The Moon is mystery."
+          },
+          {
+            "stringId": "1856379301011464192",
+            "femaleVariant": "Heh, something that doesn't give me the chills, finally.",
+            "maleVariant": "Phew, something that doesn't give me the chills, finally."
+          },
+          {
+            "stringId": "1856379658315833344",
+            "femaleVariant": "Balance, friendship, love..."
+          },
+          {
+            "stringId": "1856380582354558976",
+            "femaleVariant": "Uh-huh..."
+          },
+          {
+            "stringId": "1856381286561423360",
+            "femaleVariant": "V, have you been keeping something from me?"
+          },
+          {
+            "stringId": "1856382367987212288",
+            "femaleVariant": "Huh? What? W-why?",
+            "maleVariant": "Huh? What, why?"
+          },
+          {
+            "stringId": "1856382453500682240",
+            "femaleVariant": "You're making a strange face."
+          },
+          {
+            "stringId": "1856382776579530752",
+            "femaleVariant": "Uhh, I-- Ahem. No, no I'm fine.",
+            "maleVariant": "I, uh... Heheh, ahem. No, I'm fine."
+          },
+          {
+            "stringId": "1856384164374061056",
+            "femaleVariant": "Though it can also mean difficult choices ahead."
+          },
+          {
+            "stringId": "1856386359270121472",
+            "femaleVariant": "Ain't that the truth."
+          },
+          {
+            "stringId": "1856391927661666304",
+            "femaleVariant": "Mhm. I shall be watching you."
+          },
+          {
+            "stringId": "1856401399691943936",
+            "femaleVariant": "This was my decision. He didn't play a part."
+          },
+          {
+            "stringId": "1857401977452699648",
+            "femaleVariant": "We should go."
+          },
+          {
+            "stringId": "1857402742493749248",
+            "femaleVariant": "Wait a minute."
+          },
+          {
+            "stringId": "1857414654937866240",
+            "femaleVariant": "And now you and this construct have volunteered to sort out things in Arasaka."
+          },
+          {
+            "stringId": "1857417227472281600",
+            "femaleVariant": "Gave you my trust once, Takemura. Now do the same for me."
+          },
+          {
+            "stringId": "1857418121999884288",
+            "femaleVariant": "He may be satisfied.. I will be watching you."
+          },
+          {
+            "stringId": "1857420246817513472",
+            "femaleVariant": "I am sorry to hear this."
+          },
+          {
+            "stringId": "1917167340212641792",
+            "femaleVariant": "Sure."
+          },
+          {
+            "stringId": "1928275368696881156",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1928275382739410948",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1976360782338727940",
+            "femaleVariant": "Just me."
+          },
+          {
+            "stringId": "1976361043710976000",
+            "femaleVariant": "Takin' matters into my own hands."
+          },
+          {
+            "stringId": "1976487039982379012",
+            "femaleVariant": "OK."
+          },
+          {
+            "stringId": "2034440338502656000",
+            "femaleVariant": "And I feel worse."
+          },
+          {
+            "stringId": "2058216216882339840",
+            "femaleVariant": "Others claim it's change that is evil. But that isn't true either. Every minute of every day, we each become someone new."
+          },
+          {
+            "stringId": "2058218415133843456",
+            "femaleVariant": "We shouldn't fear change itself, but only who we might change into. Knowing one's path is most important."
+          },
+          {
+            "stringId": "2058891897412067332",
+            "femaleVariant": "You too."
+          },
+          {
+            "stringId": "2058895537564622848",
+            "femaleVariant": "Take care, Misty. And thanks for everything."
+          }
+        ]
+      }
+
+
+

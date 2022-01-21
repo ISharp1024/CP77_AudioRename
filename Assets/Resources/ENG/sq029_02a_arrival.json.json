@@ -1,0 +1,669 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1467767613846839296",
+            "femaleVariant": "Hi!"
+          },
+          {
+            "stringId": "1467767614400487424",
+            "femaleVariant": "Thanks for havin' me."
+          },
+          {
+            "stringId": "1468876195438911488",
+            "femaleVariant": "Lookin' good, Joss."
+          },
+          {
+            "stringId": "1468876896458104832",
+            "femaleVariant": "Lookin' good, Joss."
+          },
+          {
+            "stringId": "1468877562194812928",
+            "femaleVariant": "Really think so? Thanks."
+          },
+          {
+            "stringId": "1468879596985901056",
+            "femaleVariant": "Thanks for havin' me over.",
+            "maleVariant": "Uh, thanks for havin' me over."
+          },
+          {
+            "stringId": "1468881823473459200",
+            "femaleVariant": "How's Randy?"
+          },
+          {
+            "stringId": "1468897740538372116",
+            "femaleVariant": "Just helped River out."
+          },
+          {
+            "stringId": "1468898314319159296",
+            "femaleVariant": "It's over now, that's what matters."
+          },
+          {
+            "stringId": "1468899885438328832",
+            "femaleVariant": "What matters is it's over now."
+          },
+          {
+            "stringId": "1468899943487496192",
+            "femaleVariant": "It was all River. I just helped."
+          },
+          {
+            "stringId": "1468901433404940288",
+            "femaleVariant": "I just don't know... how to repay you... If Randy had--"
+          },
+          {
+            "stringId": "1468904469795823616",
+            "femaleVariant": "Don't owe me a thing, Joss.",
+            "maleVariant": "Uh, don't owe me a thing, Joss."
+          },
+          {
+            "stringId": "1468907600944422912",
+            "femaleVariant": "Thank you."
+          },
+          {
+            "stringId": "1511127588943810560",
+            "femaleVariant": "Not comin'?"
+          },
+          {
+            "stringId": "1511319042429407236",
+            "femaleVariant": "Not coming?"
+          },
+          {
+            "stringId": "1572068379557748736",
+            "femaleVariant": "Spinnin' a new song anyway. Rather focus on that."
+          },
+          {
+            "stringId": "1725669026180337664",
+            "femaleVariant": "Jambalaya. C'mon, you can stir the meat."
+          },
+          {
+            "stringId": "1725694887973588992",
+            "femaleVariant": "Basmati, nice."
+          },
+          {
+            "stringId": "1725696439882846208",
+            "femaleVariant": "Tomatoes in next..."
+          },
+          {
+            "stringId": "1725697013999177728",
+            "femaleVariant": "Now you can toss in the rice."
+          },
+          {
+            "stringId": "1725697800011747332",
+            "femaleVariant": "[Add rice] Rice is in."
+          },
+          {
+            "stringId": "1729849648595570688",
+            "femaleVariant": "Really nice of you to come."
+          },
+          {
+            "stringId": "1729858342179803136",
+            "femaleVariant": "Over here!"
+          },
+          {
+            "stringId": "1731407383472607232",
+            "femaleVariant": "No, Randy's always been that way. But I'm sure this didn't help none... You know, his father was a difficult man, too…"
+          },
+          {
+            "stringId": "1792592307712823296",
+            "femaleVariant": "Oh, hey!"
+          },
+          {
+            "stringId": "1792597148157743104",
+            "femaleVariant": "I should be thanking you."
+          },
+          {
+            "stringId": "1793917909808058368",
+            "femaleVariant": "Joss did her bit. Just grab the damn spoon and start stirring."
+          },
+          {
+            "stringId": "1793951003051167744",
+            "femaleVariant": "And when can I visit again?"
+          },
+          {
+            "stringId": "1793951325559590912",
+            "femaleVariant": "That's great, 'cause I really wanna bring him something. He loves music so... Sorry?"
+          },
+          {
+            "stringId": "1793951922560045056",
+            "femaleVariant": "No, I'll remember. Just tell me."
+          },
+          {
+            "stringId": "1793952342023999488",
+            "femaleVariant": "Thanks so, so much. You've been wonderful, a huge help. Mhm... Yes, talk again soon."
+          },
+          {
+            "stringId": "1805317148954824708",
+            "femaleVariant": "Glad you're here.  I need your help, cookin'."
+          },
+          {
+            "stringId": "1805317148954824720",
+            "femaleVariant": "What's on the menu?"
+          },
+          {
+            "stringId": "1805317148954824744",
+            "femaleVariant": "Dunno... Maybe Joss'd be more help."
+          },
+          {
+            "stringId": "1805324684592386052",
+            "femaleVariant": "This an ancient Ward family secret?"
+          },
+          {
+            "stringId": "1805324684592386064",
+            "femaleVariant": "Uh-huh. Onions, paprika, thyme…"
+          },
+          {
+            "stringId": "1805543136359845892",
+            "femaleVariant": "Look strange, different than usual."
+          },
+          {
+            "stringId": "1805543746245201920",
+            "femaleVariant": "Thought you were joking about cooking together."
+          },
+          {
+            "stringId": "1805544474007277568",
+            "femaleVariant": "Somehow look different than usual today."
+          },
+          {
+            "stringId": "1805544512913641472",
+            "femaleVariant": "Honestly? Thought you were kidding about the cook-off."
+          },
+          {
+            "stringId": "1805545602744815616",
+            "femaleVariant": "Yeah… different, meanin' normal. As if you got a good night's sleep."
+          },
+          {
+            "stringId": "1805545845175586816",
+            "femaleVariant": "Or that Joss'd sweat away in the kitchen, while…"
+          },
+          {
+            "stringId": "1823884956834861056",
+            "femaleVariant": "You flatline him?"
+          },
+          {
+            "stringId": "1823884987990151168",
+            "femaleVariant": "One shot to the head. Quick and clean."
+          },
+          {
+            "stringId": "1823885021813018624",
+            "femaleVariant": "He still in a coma?"
+          },
+          {
+            "stringId": "1823886683646595072",
+            "femaleVariant": "I wasn't sure that was what I really wanted."
+          },
+          {
+            "stringId": "1823887329804292096",
+            "femaleVariant": "I had the same thought. It would be so easy…"
+          },
+          {
+            "stringId": "1823887919405993984",
+            "femaleVariant": "Yep. In a strange slumber between life and death. An empty shell in a hospital bed."
+          },
+          {
+            "stringId": "1844535253764542464",
+            "femaleVariant": "Not really my jam, picnics. But you have fun."
+          },
+          {
+            "stringId": "1844539881474363392",
+            "femaleVariant": "Still in the hospital, still in shock. But he's makin' progress."
+          },
+          {
+            "stringId": "1844540005474766848",
+            "femaleVariant": "Haven't had the chance to tell you just how grateful I am."
+          },
+          {
+            "stringId": "1845939007655120896",
+            "femaleVariant": "How? Joss doesn't know the first thing about cooking."
+          },
+          {
+            "stringId": "1845939459297775616",
+            "femaleVariant": "Actually, I like to torture foodstuffs, heh… Haven't had many opportunities lately."
+          },
+          {
+            "stringId": "1845942268642594816",
+            "femaleVariant": "Is that so?"
+          },
+          {
+            "stringId": "1845944266758688768",
+            "femaleVariant": "Mh. Well, wanted you to see this side of me, too."
+          },
+          {
+            "stringId": "1846042664576880640",
+            "femaleVariant": "Don't mean to spoil a nice day, but I gotta ask..."
+          },
+          {
+            "stringId": "1846042691554643968",
+            "femaleVariant": "How's Randy holdin' up?",
+            "maleVariant": "How's, uh, Randy holdin' up?"
+          },
+          {
+            "stringId": "1846043889145876480",
+            "femaleVariant": "He's looking for his old self."
+          },
+          {
+            "stringId": "1846044045777965056",
+            "femaleVariant": "Physically, though –  it'll be a long road before he's back to full health."
+          },
+          {
+            "stringId": "1846044205362843648",
+            "femaleVariant": "And mentally? That was some experience…",
+            "maleVariant": "And, uh, mentally? That was some experience…"
+          },
+          {
+            "stringId": "1846044378235277312",
+            "femaleVariant": "What Harris did to him – fucked as this might sound – might've helped the kid."
+          },
+          {
+            "stringId": "1846044517838491648",
+            "femaleVariant": "Could be wrong, but... it feels like a clean break for him."
+          },
+          {
+            "stringId": "1846048007214206976",
+            "femaleVariant": "What about Peter Pan?"
+          },
+          {
+            "stringId": "1846048161312935936",
+            "femaleVariant": "You're asking if I killed him."
+          },
+          {
+            "stringId": "1846048601681301504",
+            "femaleVariant": "We'll talk later, OK?"
+          },
+          {
+            "stringId": "1846049752095002624",
+            "femaleVariant": "Sure, no pressure. It's just I... y'know.",
+            "maleVariant": "Sure, no pressure. It's just I, uh... y'know."
+          },
+          {
+            "stringId": "1846050296297558016",
+            "femaleVariant": "I know."
+          },
+          {
+            "stringId": "1846053967571849216",
+            "femaleVariant": "All right, I think you've stirred enough."
+          },
+          {
+            "stringId": "1846054508049862656",
+            "femaleVariant": "Mind grabbing the rice from the kitchen?"
+          },
+          {
+            "stringId": "1846055070556360704",
+            "femaleVariant": "Yes, sir."
+          },
+          {
+            "stringId": "1848698917249748992",
+            "femaleVariant": "I paid him a visit at the hospital."
+          },
+          {
+            "stringId": "1848836810983215104",
+            "femaleVariant": "I pressed the gun to his head and…"
+          },
+          {
+            "stringId": "1848838973096595456",
+            "femaleVariant": "Remembered something…"
+          },
+          {
+            "stringId": "1848839389590982656",
+            "femaleVariant": "How my parents died. Sure you want to hear this…?"
+          },
+          {
+            "stringId": "1848842770518773760",
+            "femaleVariant": "You know, probably not the best time now?"
+          },
+          {
+            "stringId": "1848844123685130240",
+            "femaleVariant": "Old man had a farm, like Harris' dad. But when business took a turn, well…"
+          },
+          {
+            "stringId": "1848844563667619840",
+            "femaleVariant": "My parents managed to open a small grocery. We lived on the floor above."
+          },
+          {
+            "stringId": "1848848292437430272",
+            "femaleVariant": "They wanted cash, register was empty, so they stormed upstairs."
+          },
+          {
+            "stringId": "1848850226045128704",
+            "femaleVariant": "Forced us all to kneel and demanded my dad tell 'em where he hid the money."
+          },
+          {
+            "stringId": "1848850575984300032",
+            "femaleVariant": "Mostly I remember my mom cryin' while my dad swore they'd found all we had…"
+          },
+          {
+            "stringId": "1848851324013252608",
+            "femaleVariant": "River, you don't gotta go on…"
+          },
+          {
+            "stringId": "1848851350722580480",
+            "femaleVariant": "One was skezzed out of his mind. He fired first, blew half my dad's skull off."
+          },
+          {
+            "stringId": "1848851547468992512",
+            "femaleVariant": "Heard sob stories enough?"
+          },
+          {
+            "stringId": "1848852298937274368",
+            "femaleVariant": "Jesus, River... I'm sorry."
+          },
+          {
+            "stringId": "1848852456743768064",
+            "femaleVariant": "He was erratic, went rabid. Handed me his gun and ordered me to aim it at my mom's head."
+          },
+          {
+            "stringId": "1848852641561579520",
+            "femaleVariant": "I still can see her tear filled eyes at the end of that barrel to this day."
+          },
+          {
+            "stringId": "1848854783324196864",
+            "femaleVariant": "What'd you do?"
+          },
+          {
+            "stringId": "1848855534691815424",
+            "femaleVariant": "Nothin'. I stood frozen."
+          },
+          {
+            "stringId": "1848855891811635200",
+            "femaleVariant": "Finally he just snatched the gun back, shot my mother and they left. Police never caught 'em."
+          },
+          {
+            "stringId": "1848856729229594624",
+            "femaleVariant": "That was why I joined the force. I couldn't agree with scum like that roaming free, no one to hunt 'em."
+          },
+          {
+            "stringId": "1848858376265666560",
+            "femaleVariant": "Can't tell you how sorry I am."
+          },
+          {
+            "stringId": "1848858380745183232",
+            "femaleVariant": "Was Joss there too? Saw all this?"
+          },
+          {
+            "stringId": "1848858960918089728",
+            "femaleVariant": "So when I stood over Harris in that hospital bed, barrel to his brow…"
+          },
+          {
+            "stringId": "1848859445041434624",
+            "femaleVariant": "Mhm. And I think, when she looks at me, she still sees that boy holdin' a gun to her mom's head."
+          },
+          {
+            "stringId": "1848860489305690112",
+            "femaleVariant": "I was that kid again... But I was also the junkie who shot my parents."
+          },
+          {
+            "stringId": "1848863771298238464",
+            "femaleVariant": "I understand."
+          },
+          {
+            "stringId": "1848863808040341504",
+            "femaleVariant": "Didn't kill him, then?"
+          },
+          {
+            "stringId": "1848864659970592768",
+            "femaleVariant": "I've ended a few lives in my time... but never like that. Never an execution."
+          },
+          {
+            "stringId": "1848864978016276480",
+            "femaleVariant": "I slipped outta the hospital quick, told myself the case was closed."
+          },
+          {
+            "stringId": "1848867727248330752",
+            "femaleVariant": "That's good. But what now? You're not goin' back to the PD?",
+            "maleVariant": "That's good. But what now? You're not goin' back to the PD…"
+          },
+          {
+            "stringId": "1848868130287390720",
+            "femaleVariant": "\"PI\" has a nice ring to it. Who knows – we'll see."
+          },
+          {
+            "stringId": "1872262060496261120",
+            "femaleVariant": "A loud noise woke us one night…"
+          },
+          {
+            "stringId": "1904172619986505728",
+            "femaleVariant": "River's out back. Y'know, he can't seem to stop gushin' about you.",
+            "maleVariant": "River's in the backyard. He couldn't wait to see you again."
+          },
+          {
+            "stringId": "1905691732789563392",
+            "femaleVariant": "That's exactly what I told 'em. But I always got the same speech back. Nobody cares about these kids who don't exactly fit the mold."
+          },
+          {
+            "stringId": "1905692788026118144",
+            "femaleVariant": "In those words, yeah. Wanted to tear my hair out every time I heard 'em."
+          },
+          {
+            "stringId": "1921535222464090116",
+            "femaleVariant": "Hm, I think it was here…"
+          },
+          {
+            "stringId": "1937170448015921156",
+            "femaleVariant": "Umm, rice?"
+          },
+          {
+            "stringId": "1937171366165843968",
+            "femaleVariant": "How you doin', Joss?"
+          },
+          {
+            "stringId": "1937172822092648448",
+            "femaleVariant": "Um, where'll I find the rice?"
+          },
+          {
+            "stringId": "1937174436111159296",
+            "femaleVariant": "I'll call you back later."
+          },
+          {
+            "stringId": "1937204120140091392",
+            "femaleVariant": "Anyway, the rice is… right there."
+          },
+          {
+            "stringId": "1944599319619448832",
+            "femaleVariant": "[Stir] This a family recipe?"
+          },
+          {
+            "stringId": "1968168959607242752",
+            "femaleVariant": "How's Randy doin'?"
+          },
+          {
+            "stringId": "1969089996066848768",
+            "femaleVariant": "You kill him?"
+          },
+          {
+            "stringId": "1969089996083626012",
+            "femaleVariant": "He still in a coma?"
+          },
+          {
+            "stringId": "1969089996469501952",
+            "femaleVariant": "You don't have to go on..."
+          },
+          {
+            "stringId": "1969089996771491840",
+            "femaleVariant": "Can't tell you how sorry I am."
+          },
+          {
+            "stringId": "1969089996788269056",
+            "femaleVariant": "Joss witnessed all this?"
+          },
+          {
+            "stringId": "1969089996888932352",
+            "femaleVariant": "I understand."
+          },
+          {
+            "stringId": "1969089996905709572",
+            "femaleVariant": "Didn't kill him, then?"
+          },
+          {
+            "stringId": "1969106268590637056",
+            "femaleVariant": "OK, now this has to bubble and brew. Patio?"
+          },
+          {
+            "stringId": "1969153477763858432",
+            "femaleVariant": "Grab a chair… and a beer or something else."
+          },
+          {
+            "stringId": "1969159772726296576",
+            "femaleVariant": "[Sit] This is nice."
+          },
+          {
+            "stringId": "1969161237058486272",
+            "femaleVariant": "It's nice out here."
+          },
+          {
+            "stringId": "1969188799994331136",
+            "femaleVariant": "Uncle River, you said you'd play with us!"
+          },
+          {
+            "stringId": "1969530769014980608",
+            "femaleVariant": "Yeah. It seems all good, like nothing bad ever happened."
+          },
+          {
+            "stringId": "1970444021232238608",
+            "femaleVariant": "Sure. No pressure."
+          },
+          {
+            "stringId": "1970445471790333952",
+            "femaleVariant": "Peter Pan – revenge exacted?"
+          },
+          {
+            "stringId": "1970445528128225280",
+            "femaleVariant": "How's Randy holdin' up?"
+          },
+          {
+            "stringId": "1970455480255315968",
+            "femaleVariant": "How are you?"
+          },
+          {
+            "stringId": "1978155355433881600",
+            "femaleVariant": "Um, soymeat? OK."
+          },
+          {
+            "stringId": "1978162610673831936",
+            "femaleVariant": "Gotta keep mixin' if it's not gonna burn."
+          },
+          {
+            "stringId": "1978165895501729796",
+            "femaleVariant": "Still stirrin'?"
+          },
+          {
+            "stringId": "1978168286104014848",
+            "femaleVariant": "Bet my socks you've never had better jambalaya."
+          },
+          {
+            "stringId": "1978169142832549888",
+            "femaleVariant": "Just need to mince some celery and garlic. But you stir, please. Stir."
+          },
+          {
+            "stringId": "1978170469407019008",
+            "femaleVariant": "I'm stirrin', I'm stirrin'."
+          },
+          {
+            "stringId": "1978181018886885376",
+            "femaleVariant": "Rice is in."
+          },
+          {
+            "stringId": "1978184846071844864",
+            "femaleVariant": "Tell me now? About Harris?"
+          },
+          {
+            "stringId": "1978187298179403776",
+            "femaleVariant": "River...?"
+          },
+          {
+            "stringId": "1978190352219918340",
+            "femaleVariant": "Hmm. Maybe not just now."
+          },
+          {
+            "stringId": "1978191222168899584",
+            "femaleVariant": "Your parents – what happened?"
+          },
+          {
+            "stringId": "1978194030188318720",
+            "femaleVariant": "What… happened?"
+          },
+          {
+            "stringId": "1978198353207119872",
+            "femaleVariant": "We were gonna do the nice, relaxing thing. Uh, sounds heavy, this."
+          },
+          {
+            "stringId": "1978200006031331328",
+            "femaleVariant": "OK, yeah. You're probably right."
+          },
+          {
+            "stringId": "1978200586254569472",
+            "femaleVariant": "Just… Harris – what did you do? Had the gun to his head and…?"
+          },
+          {
+            "stringId": "1978208606367797248",
+            "femaleVariant": "No, just… this is tough, I can tell. You really don't need to rehash it now."
+          },
+          {
+            "stringId": "1978212477777498112",
+            "femaleVariant": "You promised!"
+          },
+          {
+            "stringId": "1978212788743196672",
+            "femaleVariant": "All right, all right. Let's go. V, join us?"
+          },
+          {
+            "stringId": "1978213316285976580",
+            "femaleVariant": "[Stand] What are we playing?"
+          },
+          {
+            "stringId": "1978213966939967488",
+            "femaleVariant": "What're we gonna play, Uncle River?"
+          },
+          {
+            "stringId": "1978214595582251008",
+            "femaleVariant": "You'll see!"
+          },
+          {
+            "stringId": "1978220510171648000",
+            "femaleVariant": "Heh. I'm so quick to break down."
+          },
+          {
+            "stringId": "2044836924885184520",
+            "femaleVariant": "Joss wouldn't be more help?"
+          },
+          {
+            "stringId": "2047363457415053312",
+            "femaleVariant": "[Stir]"
+          },
+          {
+            "stringId": "2119840637512724480",
+            "femaleVariant": "[Wait]"
+          },
+          {
+            "stringId": "2222888715950518276",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2230311342334685184",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "2443210360907657220",
+            "femaleVariant": "Hey, what's up?"
+          },
+          {
+            "stringId": "2483811212787097600",
+            "femaleVariant": "Hey. How's it goin'?"
+          }
+        ]
+      }
+
+
+

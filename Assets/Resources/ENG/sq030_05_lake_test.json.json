@@ -1,0 +1,393 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1395348872451047424",
+            "femaleVariant": "Hmmm-hmmm, hmmm-hmmm…"
+          },
+          {
+            "stringId": "1395421141030387712",
+            "femaleVariant": "Great."
+          },
+          {
+            "stringId": "1395429570155364352",
+            "femaleVariant": "Great, signal's clear. Just need your help with a few basic checks."
+          },
+          {
+            "stringId": "1395439771843543040",
+            "femaleVariant": "Next up – sound check."
+          },
+          {
+            "stringId": "1395441654498836480",
+            "femaleVariant": "I know that song."
+          },
+          {
+            "stringId": "1395444193243938816",
+            "femaleVariant": "Don't know the title. Can hum it back, though."
+          },
+          {
+            "stringId": "1395448308678246400",
+            "femaleVariant": "Hey, I know that! Etta Sorrentino – \"Only You.\""
+          },
+          {
+            "stringId": "1395448447006392320",
+            "femaleVariant": "No idea what the song is, but I heard it. Uh, goes something like…",
+            "maleVariant": "No idea what the song is... but I heard it. Goes something like…"
+          },
+          {
+            "stringId": "1395452313131270144",
+            "femaleVariant": "First up – motion sensors and scrollin'."
+          },
+          {
+            "stringId": "1395476029554802688",
+            "femaleVariant": "Great, motion calibrated. Now swim hither?",
+            "maleVariant": "Great, motion calibrated. Back my way now, V."
+          },
+          {
+            "stringId": "1395489315063054336",
+            "femaleVariant": "Never did go in for sentimental stuff... Got stuck in my head lately, though, that one.",
+            "maleVariant": "Dead on."
+          },
+          {
+            "stringId": "1395490370769371136",
+            "femaleVariant": "All right, we're all tuned and synced."
+          },
+          {
+            "stringId": "1396911122395676672",
+            "femaleVariant": "Incredible."
+          },
+          {
+            "stringId": "1396911768805031936",
+            "femaleVariant": "Had no idea there were buildings down here."
+          },
+          {
+            "stringId": "1396913168863707136",
+            "femaleVariant": "You wanna explore that?"
+          },
+          {
+            "stringId": "1396915296667680784",
+            "femaleVariant": "That's-- That's incredible... What is it?"
+          },
+          {
+            "stringId": "1396915609092997120",
+            "femaleVariant": "Had no idea... If you'd said we'd see a sunken town…"
+          },
+          {
+            "stringId": "1396917884184150016",
+            "femaleVariant": "Impressive, huh?"
+          },
+          {
+            "stringId": "1396918688366444544",
+            "femaleVariant": "Like it?"
+          },
+          {
+            "stringId": "1397900115623002112",
+            "femaleVariant": "Enjoying the view?",
+            "maleVariant": "Like the view, asshole?"
+          },
+          {
+            "stringId": "1404236571471450112",
+            "femaleVariant": "Swim over here an' look straight at me, will ya?"
+          },
+          {
+            "stringId": "1404259944045940736",
+            "femaleVariant": "Hmmm-hmmm, hmmm-hmmm…"
+          },
+          {
+            "stringId": "1405226566315347968",
+            "femaleVariant": "Our very own Atlantis."
+          },
+          {
+            "stringId": "1405230930891313152",
+            "femaleVariant": "Dunno. Sure as hell never seen anything like it, can tell you that."
+          },
+          {
+            "stringId": "1741558539680202752",
+            "femaleVariant": "All right, that oughta do it."
+          },
+          {
+            "stringId": "1764996410860617728",
+            "femaleVariant": "Didn't fuck up a thing."
+          },
+          {
+            "stringId": "1782099299114115072",
+            "femaleVariant": "Need to calibrate our gear."
+          },
+          {
+            "stringId": "1782103737459499008",
+            "femaleVariant": "Circle around me, swim."
+          },
+          {
+            "stringId": "1782108887678935040",
+            "femaleVariant": "But... I hear you just fine."
+          },
+          {
+            "stringId": "1782109106067955712",
+            "femaleVariant": "Need a wider range. Levels can't be short of perfect."
+          },
+          {
+            "stringId": "1782299025361035268",
+            "femaleVariant": "Yep, view's preem."
+          },
+          {
+            "stringId": "1782300205017423872",
+            "femaleVariant": "Um, sorry."
+          },
+          {
+            "stringId": "1782300311837958144",
+            "femaleVariant": "Hang on, you can see what I see?"
+          },
+          {
+            "stringId": "1782302290811248640",
+            "femaleVariant": "Visual sensors're gettin' stimmed right now, can't be denied."
+          },
+          {
+            "stringId": "1782308983997685760",
+            "femaleVariant": "Oh, uff... sorry.",
+            "maleVariant": "Oh, um... sorry."
+          },
+          {
+            "stringId": "1782309491240034304",
+            "femaleVariant": "Whoa. Y-You see what I see, like, in real-time?",
+            "maleVariant": "Whoa. You see what I see? In real-time? Like, what I'm lookin' at?"
+          },
+          {
+            "stringId": "1782318042503143424",
+            "femaleVariant": "Hahaha... Don't get excited. Oxygen supply's limited.",
+            "maleVariant": "I'm gonna pretend I didn't hear that."
+          },
+          {
+            "stringId": "1782334331686707200",
+            "femaleVariant": "Whaaat? Don't be.",
+            "maleVariant": "Don't lemme catch you at it again."
+          },
+          {
+            "stringId": "1782338317668016128",
+            "femaleVariant": "Oh, yeah. I see everything.",
+            "maleVariant": "Mhm. And I gotta say it's pretty fucking weird."
+          },
+          {
+            "stringId": "1795274115472121856",
+            "femaleVariant": "To think I never realized how fit you were."
+          },
+          {
+            "stringId": "1835925363543990272",
+            "femaleVariant": "Right. We were gonna take in our surroundings.",
+            "maleVariant": "Right. We were, uh, gonna take in our surroundings."
+          },
+          {
+            "stringId": "1835926310668165120",
+            "femaleVariant": "Could prove more difficult than we thought...",
+            "maleVariant": "Exactly. Landscape, dammit."
+          },
+          {
+            "stringId": "1855014318310645760",
+            "femaleVariant": "That proves it – I officially suck. Probably fucked up the settings…"
+          },
+          {
+            "stringId": "1857415626962448384",
+            "femaleVariant": "Whatever you wanna do, Judy. Guess I'm with you."
+          },
+          {
+            "stringId": "1857833897181274112",
+            "femaleVariant": "Ahh! Too loud!",
+            "maleVariant": "Ouch! Too loud!"
+          },
+          {
+            "stringId": "1857834701095133184",
+            "femaleVariant": "Hang on, that's prolly too loud. Should be OK... now."
+          },
+          {
+            "stringId": "1862100099638452224",
+            "femaleVariant": "And now? Better?"
+          },
+          {
+            "stringId": "1862101175477428224",
+            "femaleVariant": "Lots, thanks."
+          },
+          {
+            "stringId": "1862129844048584704",
+            "femaleVariant": "Read me?"
+          },
+          {
+            "stringId": "1863285596914147328",
+            "femaleVariant": "Didn't fuck anything up."
+          },
+          {
+            "stringId": "1863285603759251456",
+            "femaleVariant": "Whoa! OK... Works better than I thought. Gonna dial it down a bit."
+          },
+          {
+            "stringId": "1866398991413620736",
+            "femaleVariant": "Whoa! Oww!"
+          },
+          {
+            "stringId": "1867766968559034368",
+            "femaleVariant": "I'm 'onna hum a song, you gimme the title."
+          },
+          {
+            "stringId": "1900935126233104388",
+            "femaleVariant": "Got some connection to this place?"
+          },
+          {
+            "stringId": "1900939029653733376",
+            "femaleVariant": "You wanna explore all that?"
+          },
+          {
+            "stringId": "1900939610464174080",
+            "femaleVariant": "Used to be called Laguna Bend. Just fifteen years ago, people still lived here."
+          },
+          {
+            "stringId": "1900940395621105664",
+            "femaleVariant": "Got some connection to this place, right?"
+          },
+          {
+            "stringId": "1900940529218076672",
+            "femaleVariant": "What happened here? Why'd it get flooded?"
+          },
+          {
+            "stringId": "1900940777118220288",
+            "femaleVariant": "[Let go] Let's get moving."
+          },
+          {
+            "stringId": "1900943117103644672",
+            "femaleVariant": "Sounds nova. Let's do this."
+          },
+          {
+            "stringId": "1900943312558211072",
+            "femaleVariant": "Yeah... I remember."
+          },
+          {
+            "stringId": "1900986615257350144",
+            "femaleVariant": "What happened here?"
+          },
+          {
+            "stringId": "1900990045862477824",
+            "femaleVariant": "Why are you showing me this?"
+          },
+          {
+            "stringId": "1900999202363654144",
+            "femaleVariant": "Yeah... I remember."
+          },
+          {
+            "stringId": "1901002420267237376",
+            "femaleVariant": "Why are you showing me this?",
+            "maleVariant": "Why're you showing me this?"
+          },
+          {
+            "stringId": "1901002630888407040",
+            "femaleVariant": "This'll be perfect? For what, exactly?"
+          },
+          {
+            "stringId": "1901002699289116672",
+            "femaleVariant": "Why's this stand to be perfect?"
+          },
+          {
+            "stringId": "1901008045550321664",
+            "femaleVariant": "'Cause someone stood to profit."
+          },
+          {
+            "stringId": "1901008846863712256",
+            "femaleVariant": "NC Dam Ltd. made plans to build a dam. People protested, and... the rest is history.",
+            "maleVariant": "NC Dam Ltd. made plans to build a dam. People protested, and the rest is history."
+          },
+          {
+            "stringId": "1901009424335486976",
+            "femaleVariant": "You got it. Grew up here."
+          },
+          {
+            "stringId": "1901010057054633984",
+            "femaleVariant": "Haven't been back since Laguna Bend was wiped off the map."
+          },
+          {
+            "stringId": "1901014844953313280",
+            "femaleVariant": "Ready to wrestle with the demons of my past?"
+          },
+          {
+            "stringId": "1901028030385471488",
+            "femaleVariant": "It's important to me.",
+            "maleVariant": "Wanna get the right emotional reactions."
+          },
+          {
+            "stringId": "1901028314742505472",
+            "femaleVariant": "Got a feeling this'll be perfect for my experiment."
+          },
+          {
+            "stringId": "1901029829892882432",
+            "femaleVariant": "Hopin' you'll be able to pick up all the unfiltered mess of emotions this place brings out in me."
+          },
+          {
+            "stringId": "1901034579589840900",
+            "femaleVariant": "[Grab] Down we go!"
+          },
+          {
+            "stringId": "1901035122768986112",
+            "femaleVariant": "Down we go!"
+          },
+          {
+            "stringId": "1902600120401879040",
+            "femaleVariant": "Not me. I want you to explore it."
+          },
+          {
+            "stringId": "1902746591470247936",
+            "femaleVariant": "Houses, playgrounds – all flooded."
+          },
+          {
+            "stringId": "1902819286023102464",
+            "femaleVariant": "Now grab this and hold on tight."
+          },
+          {
+            "stringId": "1902831822143447040",
+            "femaleVariant": "Like it or not, you'll react to those feelings. That's what I wanna capture."
+          },
+          {
+            "stringId": "1966402443716288516",
+            "femaleVariant": "All right, that oughta do it. We are now…"
+          },
+          {
+            "stringId": "1966402443733065748",
+            "femaleVariant": "Synced."
+          },
+          {
+            "stringId": "1966404144221347872",
+            "femaleVariant": "What now?"
+          },
+          {
+            "stringId": "1966404144221347888",
+            "femaleVariant": "Prepare to have your mind blown. Wait for it..."
+          },
+          {
+            "stringId": "1966409164769681408",
+            "femaleVariant": "And you've got talent, girl."
+          },
+          {
+            "stringId": "2010042641268039680",
+            "femaleVariant": "Don't dive down alone. Wetsuit won't stand the pressure."
+          },
+          {
+            "stringId": "2010042680577056768",
+            "femaleVariant": "V, this isn't a joke! You go down there alone, the pressure'll kill you!"
+          },
+          {
+            "stringId": "2066599565160296448",
+            "femaleVariant": "Hear you just fine."
+          }
+        ]
+      }
+
+
+

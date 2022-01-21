@@ -1,0 +1,288 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1905526811599052804",
+            "femaleVariant": "嗯？"
+          },
+          {
+            "stringId": "1905526811632607236",
+            "femaleVariant": "走吧？"
+          },
+          {
+            "stringId": "1905526811682938884",
+            "femaleVariant": "说你呢！"
+          },
+          {
+            "stringId": "1905526811699716100",
+            "femaleVariant": "你想往哪儿去？"
+          },
+          {
+            "stringId": "1905526811766824964",
+            "femaleVariant": "把武器放下！"
+          },
+          {
+            "stringId": "1905526811783602180",
+            "femaleVariant": "别在我眼前晃！"
+          },
+          {
+            "stringId": "1905526811850711044",
+            "femaleVariant": "哎!跟你说话呢！"
+          },
+          {
+            "stringId": "1905526811867488260",
+            "femaleVariant": "我撕烂你！"
+          },
+          {
+            "stringId": "1905526811934597124",
+            "femaleVariant": "狗日的还算听话！"
+          },
+          {
+            "stringId": "1905526811951374340",
+            "femaleVariant": "我就喜欢上位。呵呵。"
+          },
+          {
+            "stringId": "1905526812018483204",
+            "femaleVariant": "嗯，嗯，嗯。"
+          },
+          {
+            "stringId": "1905526812035260420",
+            "femaleVariant": "靠…"
+          },
+          {
+            "stringId": "1905526812085592068",
+            "femaleVariant": "应该没什么问题吧。"
+          },
+          {
+            "stringId": "1905526812119146500",
+            "femaleVariant": "呼。情况控制住了。"
+          },
+          {
+            "stringId": "1905526812169478148",
+            "femaleVariant": "出来！"
+          },
+          {
+            "stringId": "1905526812186255364",
+            "femaleVariant": "她肯定躲在附近！",
+            "maleVariant": "他肯定躲在附近！"
+          },
+          {
+            "stringId": "1905526812253364228",
+            "femaleVariant": "嗨，有尸体！"
+          },
+          {
+            "stringId": "1905526812286918660",
+            "femaleVariant": "嗯，是。"
+          },
+          {
+            "stringId": "1905526812354027524",
+            "femaleVariant": "想要我的命？"
+          },
+          {
+            "stringId": "1905526812387581956",
+            "femaleVariant": "靠！来人帮帮我！"
+          },
+          {
+            "stringId": "1905526812421136388",
+            "femaleVariant": "炸烂你们！"
+          },
+          {
+            "stringId": "1905526812488245252",
+            "femaleVariant": "靠！"
+          },
+          {
+            "stringId": "1905526812505022468",
+            "femaleVariant": "过家家呢？"
+          },
+          {
+            "stringId": "1905526812555354116",
+            "femaleVariant": "你大爷！"
+          },
+          {
+            "stringId": "1905526812588908548",
+            "femaleVariant": "败了败了！"
+          },
+          {
+            "stringId": "1905526812639240196",
+            "femaleVariant": "啊！"
+          },
+          {
+            "stringId": "1905526812672794628",
+            "femaleVariant": "当心点！"
+          },
+          {
+            "stringId": "1905526812723126276",
+            "femaleVariant": "啥？"
+          },
+          {
+            "stringId": "1905526812807012356",
+            "femaleVariant": "为什么…为什么是我？其他人呢…？"
+          },
+          {
+            "stringId": "1905526812840566788",
+            "femaleVariant": "嗯…？哪儿…？我必须去吗…？"
+          },
+          {
+            "stringId": "1905526812924452868",
+            "femaleVariant": "给我弄死她！",
+            "maleVariant": "给我弄死他！"
+          },
+          {
+            "stringId": "1905526812974784516",
+            "femaleVariant": "来了！"
+          },
+          {
+            "stringId": "1905526813025116164",
+            "femaleVariant": "靠！靠！"
+          },
+          {
+            "stringId": "1905526813058670596",
+            "femaleVariant": "先这样吧。"
+          },
+          {
+            "stringId": "1905526813075447812",
+            "femaleVariant": "我很不高兴。"
+          },
+          {
+            "stringId": "1905526813142556676",
+            "femaleVariant": "说你呢，补上弹药跟我来！"
+          },
+          {
+            "stringId": "1905526813176111108",
+            "femaleVariant": "我靠！做好准备！"
+          },
+          {
+            "stringId": "1905526813209665540",
+            "femaleVariant": "去看看。"
+          },
+          {
+            "stringId": "1905526813226442756",
+            "femaleVariant": "放弃抵抗吧！"
+          },
+          {
+            "stringId": "1905526813276774404",
+            "femaleVariant": "啊…啊…啊…啊。"
+          },
+          {
+            "stringId": "1905532216681177088",
+            "femaleVariant": "噢…我知道…但是我不喜欢他…嗯…好吧。"
+          },
+          {
+            "stringId": "1905532685000384512",
+            "femaleVariant": "行行行…我知道了。"
+          },
+          {
+            "stringId": "2236547375622660100",
+            "femaleVariant": "全力进攻！"
+          },
+          {
+            "stringId": "2236547375723323396",
+            "femaleVariant": "靠！都警惕点儿！"
+          },
+          {
+            "stringId": "2236547375756877828",
+            "femaleVariant": "靠…我刚升级过硬件…"
+          },
+          {
+            "stringId": "2236547375891095556",
+            "femaleVariant": "什么？来聊天的吗？干活去！"
+          },
+          {
+            "stringId": "2236547376193085444",
+            "femaleVariant": "你们这群人是怎么回事？！"
+          },
+          {
+            "stringId": "2236547376260194308",
+            "femaleVariant": "滚出去！"
+          },
+          {
+            "stringId": "2236547376427966468",
+            "femaleVariant": "保持阵型！继续射击！"
+          },
+          {
+            "stringId": "2236547376578961408",
+            "femaleVariant": "打中了！"
+          },
+          {
+            "stringId": "2236547376797065220",
+            "femaleVariant": "她已经跪了！干掉她！",
+            "maleVariant": "他已经跪了！干掉他！"
+          },
+          {
+            "stringId": "2236547376847396868",
+            "femaleVariant": "这就去！"
+          },
+          {
+            "stringId": "2236547376897728516",
+            "femaleVariant": "出来吧，我给你个痛快！"
+          },
+          {
+            "stringId": "2236547376948060164",
+            "femaleVariant": "靠！我没子弹了！"
+          },
+          {
+            "stringId": "2236547376998391812",
+            "femaleVariant": "你疯了？！"
+          },
+          {
+            "stringId": "2236547377132609540",
+            "femaleVariant": "看不见了！"
+          },
+          {
+            "stringId": "2236547377199718404",
+            "femaleVariant": "她在黑我们的义体！",
+            "maleVariant": "他在黑我们的义体！"
+          },
+          {
+            "stringId": "2236547377250050052",
+            "femaleVariant": "啊！好多了！"
+          },
+          {
+            "stringId": "2236547377300381700",
+            "femaleVariant": "靠！我需要支援！"
+          },
+          {
+            "stringId": "2236547377367490564",
+            "femaleVariant": "我看到她了！",
+            "maleVariant": "我看到他了！"
+          },
+          {
+            "stringId": "2236547377417822212",
+            "femaleVariant": "老子一刀捅死你！"
+          },
+          {
+            "stringId": "2236547377468153860",
+            "femaleVariant": "一定要拦住她！",
+            "maleVariant": "一定要拦住他！"
+          },
+          {
+            "stringId": "2236547377518485508",
+            "femaleVariant": "靠！我不想死！"
+          },
+          {
+            "stringId": "2236547377703034880",
+            "femaleVariant": "入侵者！"
+          },
+          {
+            "stringId": "2236547377753366532",
+            "femaleVariant": "感觉不对…"
+          }
+        ]
+      }
+
+
+

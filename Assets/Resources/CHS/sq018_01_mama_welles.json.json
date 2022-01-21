@@ -1,0 +1,296 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1697943261782384640",
+            "femaleVariant": "V，你能来我真高兴。"
+          },
+          {
+            "stringId": "1697944056284225540",
+            "femaleVariant": "[坐下] 好的。"
+          },
+          {
+            "stringId": "1697945210154033152",
+            "femaleVariant": "那就来一杯吧。"
+          },
+          {
+            "stringId": "1697945291003437056",
+            "femaleVariant": "不用了，谢谢。"
+          },
+          {
+            "stringId": "1697945770798260224",
+            "femaleVariant": "[坐下] 不用了。"
+          },
+          {
+            "stringId": "1697948702516092932",
+            "femaleVariant": "我想参加仪式。"
+          },
+          {
+            "stringId": "1697949664689430528",
+            "femaleVariant": "我想去给他送行，但…我想好好儿地办，按照传统的仪式来。"
+          },
+          {
+            "stringId": "1697949734381985792",
+            "femaleVariant": "我可以来帮你忙。"
+          },
+          {
+            "stringId": "1702514181381464064",
+            "femaleVariant": "来，坐吧，坐吧。要喝杯啤酒吗？"
+          },
+          {
+            "stringId": "1702514922464649216",
+            "femaleVariant": "[喝酒]"
+          },
+          {
+            "stringId": "1722525784814297088",
+            "femaleVariant": "我来帮你吧。"
+          },
+          {
+            "stringId": "1825605937628237824",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Salud.\" t=\"干杯。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1825607631439187968",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"No hay bronca.\" t=\"没事。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864865408376164356",
+            "femaleVariant": "不怎么样。"
+          },
+          {
+            "stringId": "1864865530866618368",
+            "femaleVariant": "还过得去。"
+          },
+          {
+            "stringId": "1864866024754302976",
+            "femaleVariant": "说实话，不怎么样。"
+          },
+          {
+            "stringId": "1864866333522186240",
+            "femaleVariant": "多多少少还算行吧。"
+          },
+          {
+            "stringId": "1864871197220327424",
+            "femaleVariant": "出什么事了？"
+          },
+          {
+            "stringId": "1864871267181318144",
+            "femaleVariant": "那天晚上杰克他…这么说吧，打那以后，我的心里就一直不好受。"
+          },
+          {
+            "stringId": "1864871351604269056",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Yo sé cómo te sientes. Todos lo sabemos.\" t=\"我理解你的感受。我们都明白。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864871887401439232",
+            "femaleVariant": "多多少少。"
+          },
+          {
+            "stringId": "1864871950198558720",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Nuestra casa es tu casa.\" b=\"你该常过来吃顿晚饭的。\" a=\"（我们的家就是你的家）。\"/>"
+          },
+          {
+            "stringId": "1864872077336301568",
+            "femaleVariant": "嗯，不过没事，反正都过去了，嗯？"
+          },
+          {
+            "stringId": "1864881922038878208",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"mi niña\" b=\"只要你有这份心就足够了，\" a=\"（我的姑娘）。\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mi niño\" b=\"嗯，你有这份心就足够了，\" a=\"（我的孩子）。\"/>"
+          },
+          {
+            "stringId": "1864881973729480704",
+            "femaleVariant": "别自责了，就是做个纪念。去他车库里找找吧。他的过去——都放在那儿了。"
+          },
+          {
+            "stringId": "1864883745504153604",
+            "femaleVariant": "他的车库？"
+          },
+          {
+            "stringId": "1864885510282727424",
+            "femaleVariant": "杰克还有车库？"
+          },
+          {
+            "stringId": "1864886540772888576",
+            "femaleVariant": "不，别客气，V。你是个重情义的人。我很佩服。"
+          },
+          {
+            "stringId": "1864886962216554496",
+            "femaleVariant": "大部分时间用来捣鼓摩托车的。但不久前他也搬进去住了。去吧，能找到些东西的。"
+          },
+          {
+            "stringId": "1864887180974673920",
+            "femaleVariant": "你不介意我翻乱他的东西吗？"
+          },
+          {
+            "stringId": "1864887304723419136",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"No, mija\" b=\"\" a=\"（别担心，亲爱的姑娘）。他已经走了。葬礼不是为了死者，是为了还活着的人。给，这是钥匙。\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"No, mijo\" b=\"\" a=\"（别担心，我的孩子）。他已经走了。葬礼不是为了死者，是为了还活着的人。给，这是钥匙。\"/>"
+          },
+          {
+            "stringId": "1864889318509432832",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ahí te veo.\" t=\"再见了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1896490727361007616",
+            "femaleVariant": "时间过得真快。你最近怎么样？"
+          },
+          {
+            "stringId": "1924407058265731072",
+            "femaleVariant": "我正在给杰克准备祭台。眼下要操心的事情实在太多了…"
+          },
+          {
+            "stringId": "1926981639971205120",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Gracias, mi cielo\" b=\"\" a=\"（谢谢你宝贝），不过我自己能行。\"/>"
+          },
+          {
+            "stringId": "1926985406405865472",
+            "femaleVariant": "你能来我就很开心了。"
+          },
+          {
+            "stringId": "1927026960986206208",
+            "femaleVariant": "可，我什么都没有！能放在他灵前，纪念的东西，我没有。"
+          },
+          {
+            "stringId": "1928580049748815872",
+            "femaleVariant": "但是…？"
+          },
+          {
+            "stringId": "1928581776711544832",
+            "femaleVariant": "谢谢你，威尔斯太太。"
+          },
+          {
+            "stringId": "1934506005374103552",
+            "femaleVariant": "什么是告别仪式？"
+          },
+          {
+            "stringId": "1934506268591845376",
+            "femaleVariant": "祭台？那是什么东西？"
+          },
+          {
+            "stringId": "1934507718629847040",
+            "femaleVariant": "朋友，家人…大家聚在一起，纪念去世的人。回忆往昔，还会带上逝者生前喜欢，死后可能用得上的东西。"
+          },
+          {
+            "stringId": "1934508314640445440",
+            "femaleVariant": "我看杰克头一个要的就是啤酒。"
+          },
+          {
+            "stringId": "1934526562161324032",
+            "femaleVariant": "哼哼，啤酒肯定少不了。"
+          },
+          {
+            "stringId": "1934545599184433152",
+            "femaleVariant": "车库就在共和国那儿。"
+          },
+          {
+            "stringId": "1943264135333453824",
+            "femaleVariant": "[接过钥匙并起身] 谢了。"
+          },
+          {
+            "stringId": "1976395134477742080",
+            "femaleVariant": "那个台球案子，咱们得把它搬出去。"
+          },
+          {
+            "stringId": "1976445675203407872",
+            "femaleVariant": "真的啊…？那玩意儿可挺大的。"
+          },
+          {
+            "stringId": "1976446243716149248",
+            "femaleVariant": "所以呢…？"
+          },
+          {
+            "stringId": "1976446577716965376",
+            "femaleVariant": "要不把它挪一挪，靠墙立起来？"
+          },
+          {
+            "stringId": "1983628376209567744",
+            "femaleVariant": "对，是我。"
+          },
+          {
+            "stringId": "1983631029392060420",
+            "femaleVariant": "我是蒙塞拉特·威尔斯。对，野狼酒吧的。"
+          },
+          {
+            "stringId": "1983631138360078340",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Vamos, responde, carajo.\" t=\"快点接啊。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1983631263484555268",
+            "femaleVariant": "是我。我要给杰克办个祭台。"
+          },
+          {
+            "stringId": "1988173848277590016",
+            "femaleVariant": "我给你打了好几次。你不接电话，也不回电话…"
+          },
+          {
+            "stringId": "1998391940310036480",
+            "femaleVariant": "我这边要搭个祭台。发送我儿子。"
+          },
+          {
+            "stringId": "1998392346553544704",
+            "femaleVariant": "是的，请你也来吧。"
+          },
+          {
+            "stringId": "1998392598832541696",
+            "femaleVariant": "嗯。到时候见。"
+          },
+          {
+            "stringId": "1998395163884318720",
+            "femaleVariant": "我要订点儿特别快递。"
+          },
+          {
+            "stringId": "1998395575093882880",
+            "femaleVariant": "啤酒——来十二箱。当然，十箱普通的，两箱那种带姜汁儿的。"
+          },
+          {
+            "stringId": "1998396004741607424",
+            "femaleVariant": "对，配上柠檬和青柠。"
+          },
+          {
+            "stringId": "1998396724970713088",
+            "femaleVariant": "龙舌兰…呃，靠，那也给我来十二箱吧…"
+          },
+          {
+            "stringId": "1998405380252561408",
+            "femaleVariant": "嗯…"
+          },
+          {
+            "stringId": "1998408648806559744",
+            "femaleVariant": "嗯哼…那不行。"
+          },
+          {
+            "stringId": "1998408909239283712",
+            "femaleVariant": "我知道了。"
+          },
+          {
+            "stringId": "1998409164420739072",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Pfff. Bai.\" t=\"哼。拜拜。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2238924446696128512",
+            "femaleVariant": "呃…真够沉的。"
+          },
+          {
+            "stringId": "2238983336569782272",
+            "femaleVariant": "呃…啊…动啊，靠…"
+          }
+        ]
+      }
+
+
+

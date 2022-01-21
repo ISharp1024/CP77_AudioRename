@@ -1,0 +1,534 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1659263327530786816",
+            "femaleVariant": "Hey, Kirk. Wanna talk."
+          },
+          {
+            "stringId": "1659281257861619716",
+            "femaleVariant": "Car's security – how do I get around it?"
+          },
+          {
+            "stringId": "1659281912525365248",
+            "femaleVariant": "Who owns this ride?"
+          },
+          {
+            "stringId": "1659282626932776960",
+            "femaleVariant": "Who's the owner?"
+          },
+          {
+            "stringId": "1659284938380156928",
+            "femaleVariant": "Just an Arasaka suit from across the water. Spews cash outta every hole in his body."
+          },
+          {
+            "stringId": "1659285692616679424",
+            "femaleVariant": "Whole thing's simple – you swipe the Rayfield for me, I clear Pepe's account. Even toss in a cut for you I'm such a nice guy."
+          },
+          {
+            "stringId": "1659286837410013184",
+            "femaleVariant": "My man Rick works a parking structure by Embers, club where our Rayfield driver likes to kick it. There every Friday night like clockwork."
+          },
+          {
+            "stringId": "1660247550441955328",
+            "femaleVariant": "[Take device and stand] Agreed."
+          },
+          {
+            "stringId": "1712868380845678592",
+            "femaleVariant": "How ya been? 'Sides the biz, I mean."
+          },
+          {
+            "stringId": "1712869344377970692",
+            "femaleVariant": "How ya been?"
+          },
+          {
+            "stringId": "1712869875561406464",
+            "femaleVariant": "Valentinos are seemin' jumpy."
+          },
+          {
+            "stringId": "1712870188523593728",
+            "femaleVariant": "Valentinos're seemin' jumpy. Thought you might know somethin'."
+          },
+          {
+            "stringId": "1722728314934587392",
+            "femaleVariant": "V, been a while. Spin it – whatcha need?"
+          },
+          {
+            "stringId": "1722791262176604160",
+            "femaleVariant": "Cut him some slack, will ya? He'll pay – just needs some more time."
+          },
+          {
+            "stringId": "1722791270581989376",
+            "femaleVariant": "What's he owe you?",
+            "maleVariant": "What's he owe ya?"
+          },
+          {
+            "stringId": "1722792237117403136",
+            "femaleVariant": "Cut him a break."
+          },
+          {
+            "stringId": "1722793710811279360",
+            "femaleVariant": "What's he owe?"
+          },
+          {
+            "stringId": "1722795848077602816",
+            "femaleVariant": "Do I look like a priest that runs a charity to you?"
+          },
+          {
+            "stringId": "1722795905808003072",
+            "femaleVariant": "You suggestin' I let a flaky cunt who can't keep a deal off the hook?"
+          },
+          {
+            "stringId": "1722795964746362880",
+            "femaleVariant": "No, you let him off because it's me askin'."
+          },
+          {
+            "stringId": "1722796476166238208",
+            "femaleVariant": "Afraid that's client confidentiality. Call it a lot and leave it at that."
+          },
+          {
+            "stringId": "1722797150593544192",
+            "femaleVariant": "A credshark with business ethics. Sounds too good to be true."
+          },
+          {
+            "stringId": "1722808686456270848",
+            "femaleVariant": "Hah. You know me – I'm a man of the biz. So I need to know what I get out of it."
+          },
+          {
+            "stringId": "1722813989029605376",
+            "femaleVariant": "Well, Merry Fuckin' Christmas."
+          },
+          {
+            "stringId": "1723128771746131972",
+            "femaleVariant": "[Put down paper] Not sure I can pull it off."
+          },
+          {
+            "stringId": "1723128788707897344",
+            "femaleVariant": "I am no thief. Even if I wanted to, stealin' a ride like that'd be a level beyond me. Hell, two levels.",
+            "maleVariant": "I'm no thief. Even if I wanted to, stealin' a ride like that'd be a level beyond me – hell, two levels."
+          },
+          {
+            "stringId": "1723128794814803968",
+            "femaleVariant": "I do this, and Pepe's debt is squared?"
+          },
+          {
+            "stringId": "1723128869104316416",
+            "femaleVariant": "[Put down paper] I do this and the debt's paid?"
+          },
+          {
+            "stringId": "1723129962592923648",
+            "femaleVariant": "How am I supposed to do this? Expect me to slide under the chassis on a skateboard for a quick hotwire, fast an' easy?",
+            "maleVariant": "How'm I supposed to do this? Expect me to slide under the chassis on a skateboard for a quick hotwire, fast an' easy?"
+          },
+          {
+            "stringId": "1723141514746327040",
+            "femaleVariant": "Beautiful thing is, a grand theft auto virgin like you don't need to know how. I already planned it."
+          },
+          {
+            "stringId": "1730193565045157888",
+            "femaleVariant": "Real, like? Got a problem with my neph. Seems to think runnin' with a gang's a good career choice."
+          },
+          {
+            "stringId": "1730193682804436992",
+            "femaleVariant": "Even after all the fine, upstanding people you've surrounded him with all his life?"
+          },
+          {
+            "stringId": "1730193753704951808",
+            "femaleVariant": "You don't get it, he ain't like me."
+          },
+          {
+            "stringId": "1730193852875075584",
+            "femaleVariant": "Meanin' he's honest, straight up and pays his debts?"
+          },
+          {
+            "stringId": "1730193952313634816",
+            "femaleVariant": "Hah. You're killin' me, V."
+          },
+          {
+            "stringId": "1730212801364815872",
+            "femaleVariant": "Yeah, I know some…"
+          },
+          {
+            "stringId": "1730212961771778048",
+            "femaleVariant": "Product's their problem. Source dried up."
+          },
+          {
+            "stringId": "1730218543702536192",
+            "femaleVariant": "Dealers're flippin' shit?"
+          },
+          {
+            "stringId": "1730218696995958784",
+            "femaleVariant": "Dealers just mopin' – boys at the top're flippin'. Heard they even wanna pop a delegation over to Colombia."
+          },
+          {
+            "stringId": "1762087098783768576",
+            "femaleVariant": "We are."
+          },
+          {
+            "stringId": "1767874417795198976",
+            "femaleVariant": "Can you imagine that? Our local leadheads sharin' a table with the cartel…"
+          },
+          {
+            "stringId": "1802768607702032384",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"hermana\" b=\"Everything chill, \" a=\"?\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"Everything chill, \" a=\"?\"/>"
+          },
+          {
+            "stringId": "1802768867463667712",
+            "femaleVariant": "Some bastard tried to mug me. I handled it."
+          },
+          {
+            "stringId": "1802769123802750976",
+            "femaleVariant": "Who? Local guy?"
+          },
+          {
+            "stringId": "1803742734738923524",
+            "femaleVariant": "Hey, Kirk. Wanna talk."
+          },
+          {
+            "stringId": "1822689492162506752",
+            "femaleVariant": "Urgh, motherfucker…!"
+          },
+          {
+            "stringId": "1822690001384566784",
+            "femaleVariant": "You really think somebody local'd try to mug me, Pepe?",
+            "maleVariant": "Ya really think somebody local'd try to mug me, Pepe?"
+          },
+          {
+            "stringId": "1822692389755482112",
+            "femaleVariant": "I'll talk to Kirk. But then you're gonna owe me one."
+          },
+          {
+            "stringId": "1822699264068743168",
+            "femaleVariant": "Pepe asked me to talk you up."
+          },
+          {
+            "stringId": "1822699306515099648",
+            "femaleVariant": "What, he too shy to hand over the eddies hisself? Ah, tell him I don't bite. Not yet."
+          },
+          {
+            "stringId": "1822703780981829632",
+            "femaleVariant": "You borrow eddies, you gotta pay 'em back – with interest. It's common fuckin' knowledge."
+          },
+          {
+            "stringId": "1822711910197293056",
+            "femaleVariant": "I'll owe you one."
+          },
+          {
+            "stringId": "1822711928182468608",
+            "femaleVariant": "Transactions go two ways, I get that. I'll owe you a favor."
+          },
+          {
+            "stringId": "1822711930598387712",
+            "femaleVariant": "Know what, Kirk? I sometimes get the impression you forget you aren't from around here."
+          },
+          {
+            "stringId": "1822713151191183360",
+            "femaleVariant": "You avoid trouble."
+          },
+          {
+            "stringId": "1822715219268268032",
+            "femaleVariant": "Tempting... Got a nova idea already."
+          },
+          {
+            "stringId": "1822715666901168128",
+            "femaleVariant": "Pop into Heywood for the occasional visit, sure, but you live far, far away, in Pacifica."
+          },
+          {
+            "stringId": "1822715829707272192",
+            "femaleVariant": "What're you gettin' at?"
+          },
+          {
+            "stringId": "1822715913123590144",
+            "femaleVariant": "Gettin' at you prolly needin' to think before you start somethin' with a local son."
+          },
+          {
+            "stringId": "1822716012646035456",
+            "femaleVariant": "Hmm... I'm open to other options."
+          },
+          {
+            "stringId": "1822728226006298628",
+            "femaleVariant": "[Take screamsheet] And...?"
+          },
+          {
+            "stringId": "1822728306620821504",
+            "femaleVariant": "What's this?"
+          },
+          {
+            "stringId": "1822728311083560960",
+            "femaleVariant": "Mhm...?"
+          },
+          {
+            "stringId": "1822731721556029440",
+            "femaleVariant": "What's this?"
+          },
+          {
+            "stringId": "1822732625713754112",
+            "femaleVariant": "Preem ride there on the page. Only four of 'em in NC as of now."
+          },
+          {
+            "stringId": "1822733467040804864",
+            "femaleVariant": "Grab a look."
+          },
+          {
+            "stringId": "1822734561838034944",
+            "femaleVariant": "One – Rayfield regional director. Two – Mayor Rhyne. Three – a rental service."
+          },
+          {
+            "stringId": "1822734800208719872",
+            "femaleVariant": "Uh-huh. And four?"
+          },
+          {
+            "stringId": "1822734857905565696",
+            "femaleVariant": "Number four'll belong to my client – just as soon as you klep it for me, that is."
+          },
+          {
+            "stringId": "1822737765145440256",
+            "femaleVariant": "And his name?"
+          },
+          {
+            "stringId": "1822738031097868288",
+            "femaleVariant": "How would I know? Why would I care? It's a hot item, and I know where to find it."
+          },
+          {
+            "stringId": "1822928907430457344",
+            "femaleVariant": "Course. I'm a man o' my word, you know that."
+          },
+          {
+            "stringId": "1822944102722760704",
+            "femaleVariant": "Soon as you appear, security cams shut down, gate swings up – the road is yours. Just gotta grab the Rayfield and roll out. Simple."
+          },
+          {
+            "stringId": "1822944401323651072",
+            "femaleVariant": "And your man Rick…?"
+          },
+          {
+            "stringId": "1822944453987332096",
+            "femaleVariant": "Trust him like my own brother."
+          },
+          {
+            "stringId": "1822945763902025728",
+            "femaleVariant": "Honestly, shit plan."
+          },
+          {
+            "stringId": "1822946058660933632",
+            "femaleVariant": "Plan sounds shaky as fuck."
+          },
+          {
+            "stringId": "1822959109506265088",
+            "femaleVariant": "Oh? How so?"
+          },
+          {
+            "stringId": "1822959219464138752",
+            "femaleVariant": "Sounds like you're lookin' for a sucker."
+          },
+          {
+            "stringId": "1822959275114164224",
+            "femaleVariant": "This ain't no setup, V. Heard you got a good head. Maybe we help each other make a few eddies."
+          },
+          {
+            "stringId": "1822967544402604032",
+            "femaleVariant": "Kirk, wheels like this got security systems. Good ones."
+          },
+          {
+            "stringId": "1822967830017929216",
+            "femaleVariant": "This bitty bop works like the key Rayfield techs use for repairs. Opens locks, bypasses identity authorization."
+          },
+          {
+            "stringId": "1822968120934854656",
+            "femaleVariant": "A skeleton key for all Rayfields in the city. Agh, c'mon, Kirk, even you don't buy that.",
+            "maleVariant": "A skeleton key for all Rayfields in the city. Heh, c'mon, Kirk, even you don't buy that."
+          },
+          {
+            "stringId": "1822968250807283712",
+            "femaleVariant": "Kabuki's tech wizards sell more magical shit than this under the counter. Have a little faith."
+          },
+          {
+            "stringId": "1822968981522149376",
+            "femaleVariant": "So... we all agreed, then?"
+          },
+          {
+            "stringId": "1822982924462387200",
+            "femaleVariant": "[Take device and stand] Better keep your word."
+          },
+          {
+            "stringId": "1822994622627901440",
+            "femaleVariant": "Glad to hear it. Always said you were a bright bulb."
+          },
+          {
+            "stringId": "1822995124937748480",
+            "femaleVariant": "Best keep your word, Kirk."
+          },
+          {
+            "stringId": "1822995534268264448",
+            "femaleVariant": "Eeeaasy, V. Job's gonna pad your wallet too, y'know."
+          },
+          {
+            "stringId": "1831285702792245248",
+            "femaleVariant": "Good luck out there. We'll be in touch."
+          },
+          {
+            "stringId": "1902575182399250436",
+            "femaleVariant": "[Set broken nose]"
+          },
+          {
+            "stringId": "1902649577356500992",
+            "femaleVariant": "[Stand] I'll talk to Kirk."
+          },
+          {
+            "stringId": "1902650146959761408",
+            "femaleVariant": "You ever gonna learn?"
+          },
+          {
+            "stringId": "1905251904549429248",
+            "femaleVariant": "Ugh, you ever gonna get wise, Pepe?",
+            "maleVariant": "Huh, you ever gonna get wise, Pepe?"
+          },
+          {
+            "stringId": "1912887818002034692",
+            "femaleVariant": "Got trouble?"
+          },
+          {
+            "stringId": "1912887830450728960",
+            "femaleVariant": "Found yourself in a hole, sounds like. You need help?",
+            "maleVariant": "Found yourself'n a hole, sounds like. You need help?"
+          },
+          {
+            "stringId": "1912887835416784896",
+            "femaleVariant": "C'mon, spin it – what is it now?"
+          },
+          {
+            "stringId": "1912888076220166144",
+            "femaleVariant": "Spit it out."
+          },
+          {
+            "stringId": "1912888839331835904",
+            "femaleVariant": "Ah, knew I could count on you."
+          },
+          {
+            "stringId": "1912890407481438208",
+            "femaleVariant": "It's, uh, Kirk... I owe 'im. Don't pay by tomorrow, said he'd bust my legs."
+          },
+          {
+            "stringId": "1912891460872499200",
+            "femaleVariant": "An' he don't joke about that stuff. Got cartels in his corner."
+          },
+          {
+            "stringId": "1912891978936152064",
+            "femaleVariant": "You in it with Kirk?! Every man, woman and rat in Heywood knows he's a fuckin' shark."
+          },
+          {
+            "stringId": "1912892439521062912",
+            "femaleVariant": "My bro jumped the joint, deserved a hero's welcome... I know I fuck up, V."
+          },
+          {
+            "stringId": "1912893447412314112",
+            "femaleVariant": "Least tell me your brother's doin' all right."
+          },
+          {
+            "stringId": "1912893701184483328",
+            "femaleVariant": "Ah, doing his thing, you know…"
+          },
+          {
+            "stringId": "1912894015337852928",
+            "femaleVariant": "So, can you help?"
+          },
+          {
+            "stringId": "1912901991796764672",
+            "femaleVariant": "Head to Embers, in the Glen. Rick's in the garage, be waitin' for ya. You two'll hit it off."
+          },
+          {
+            "stringId": "1926933095683911680",
+            "femaleVariant": "Listen, V... I got a problem. Serious this time."
+          },
+          {
+            "stringId": "1935833944889266176",
+            "femaleVariant": "A little... anesthesia."
+          },
+          {
+            "stringId": "1935836990272737284",
+            "femaleVariant": "[Knock back shot]"
+          },
+          {
+            "stringId": "1948694199721562116",
+            "femaleVariant": "[Sit] Heard about you and Pepe."
+          },
+          {
+            "stringId": "1948695662459916288",
+            "femaleVariant": "Hell's your problem?"
+          },
+          {
+            "stringId": "1948697174489731076",
+            "femaleVariant": "What's your deal?"
+          },
+          {
+            "stringId": "1983689931747106820",
+            "femaleVariant": "Kirk'll let it slide."
+          },
+          {
+            "stringId": "1983710666624475136",
+            "femaleVariant": "Kirk's lettin' it go, leavin' you be. I'm not, though – you fuckin' owe me big."
+          },
+          {
+            "stringId": "1985309305560035328",
+            "femaleVariant": "V, you savin' my life. I mean that."
+          },
+          {
+            "stringId": "1985350350985424896",
+            "femaleVariant": "So how's it gonna be, V?"
+          },
+          {
+            "stringId": "2024658295406759936",
+            "femaleVariant": "And your man Rick...?"
+          },
+          {
+            "stringId": "2248808532747141120",
+            "femaleVariant": "And you're savin' my life, V, truly."
+          },
+          {
+            "stringId": "2248835470043824128",
+            "femaleVariant": "A moment of pain, and you'll be set. Do it, choom."
+          },
+          {
+            "stringId": "2248837507804479496",
+            "femaleVariant": "So, you gonna help me out, V?"
+          },
+          {
+            "stringId": "2248839846934265856",
+            "femaleVariant": "Prefer to stand tall? Creeps me out. Sit."
+          },
+          {
+            "stringId": "2248892040735801348",
+            "femaleVariant": "Ya got biz for me? Siddown."
+          },
+          {
+            "stringId": "2248894044908470272",
+            "femaleVariant": "Screamsheet – scope it out."
+          },
+          {
+            "stringId": "2260285601179942912",
+            "femaleVariant": "Got some grease on your shirt, there, tough guy."
+          },
+          {
+            "stringId": "2260287182583545860",
+            "femaleVariant": "Got grease on your shirt."
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,62 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "2413972943627247616",
+            "femaleVariant": "[Look in mirror]"
+          },
+          {
+            "stringId": "2413972943828574208",
+            "femaleVariant": "[Stop looking]"
+          },
+          {
+            "stringId": "2520256161753489408",
+            "femaleVariant": "[Smile]"
+          },
+          {
+            "stringId": "2520256161753489420",
+            "femaleVariant": "[Scowl]"
+          },
+          {
+            "stringId": "2520256161753489432",
+            "femaleVariant": "[Pout]"
+          },
+          {
+            "stringId": "2520256161753489444",
+            "femaleVariant": "[Gawk]"
+          },
+          {
+            "stringId": "2520256161753489456",
+            "femaleVariant": "[Stare]"
+          },
+          {
+            "stringId": "2888248675737165824",
+            "femaleVariant": "[db_db][Enable the hairdresser]"
+          },
+          {
+            "stringId": "2888248675737165840",
+            "femaleVariant": "[db_db][Make faces]"
+          },
+          {
+            "stringId": "2898476860961611776",
+            "femaleVariant": "[db_db][Go back]"
+          }
+        ]
+      }
+
+
+

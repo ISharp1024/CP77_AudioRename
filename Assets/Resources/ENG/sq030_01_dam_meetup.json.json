@@ -1,0 +1,280 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1392412829519167504",
+            "femaleVariant": "Hmmm-hmmm, hmmm-hmmm…"
+          },
+          {
+            "stringId": "1392413464419352576",
+            "femaleVariant": "Think I need to pass. Diving's not really my thing."
+          },
+          {
+            "stringId": "1392428470733094912",
+            "femaleVariant": "[Stand] Hell yeah, I'm in!"
+          },
+          {
+            "stringId": "1392493040248012800",
+            "femaleVariant": "[Stand] Diving's not my thing."
+          },
+          {
+            "stringId": "1392493694324555776",
+            "femaleVariant": "Hell yeah, I'm in!"
+          },
+          {
+            "stringId": "1393665946961297408",
+            "femaleVariant": "Awesome! So, uh... let's go! Got the hardware here."
+          },
+          {
+            "stringId": "1404001566564487168",
+            "femaleVariant": "Could ask around, make some calls, see if anybody else'd bite.",
+            "maleVariant": "You could ask around, make some calls, see if anybody else would bite."
+          },
+          {
+            "stringId": "1404002064260599808",
+            "femaleVariant": "Nah... Nah, it's fine. Don't worry about it."
+          },
+          {
+            "stringId": "1404003691197566976",
+            "femaleVariant": "I'll figure it out, do it myself."
+          },
+          {
+            "stringId": "1740289813051850752",
+            "femaleVariant": "Hey."
+          },
+          {
+            "stringId": "1740290255299264512",
+            "femaleVariant": "V! Lookin' good.",
+            "maleVariant": "Hey, V."
+          },
+          {
+            "stringId": "1740290382604779524",
+            "femaleVariant": "What're we doing here?"
+          },
+          {
+            "stringId": "1740291030641524736",
+            "femaleVariant": "How're things at Clouds?"
+          },
+          {
+            "stringId": "1740292017057939456",
+            "femaleVariant": "The Mox – any news?"
+          },
+          {
+            "stringId": "1740292865515307008",
+            "femaleVariant": "So... ready to tell me what we're doing here?"
+          },
+          {
+            "stringId": "1740293426276974592",
+            "femaleVariant": "So what's the latest from Clouds? Know anything?"
+          },
+          {
+            "stringId": "1740294280455372800",
+            "femaleVariant": "Any news from the Moxes? Events, ideas?"
+          },
+          {
+            "stringId": "1740319804892364800",
+            "femaleVariant": "Dunno. Don't see all that much of 'em."
+          },
+          {
+            "stringId": "1740324377572917248",
+            "femaleVariant": "Well, been tinkerin' with virtus a lot lately and figured out a way to scroll two actors' experiences at the same time."
+          },
+          {
+            "stringId": "1740325008765337600",
+            "femaleVariant": "Thought we could try it out. If you're down, of course."
+          },
+          {
+            "stringId": "1740326339903209472",
+            "femaleVariant": "How does one marry two separate neural tracks?"
+          },
+          {
+            "stringId": "1740327230723047424",
+            "femaleVariant": "No, we're gonna scroll under water."
+          },
+          {
+            "stringId": "1740329393289412608",
+            "femaleVariant": "Well, at first I tried to create a single profile out of two data streams. Didn't turn out so great."
+          },
+          {
+            "stringId": "1740330120732721152",
+            "femaleVariant": "Must've gotten tangled up – interference, white noise…"
+          },
+          {
+            "stringId": "1754747665059323904",
+            "femaleVariant": "What do I gotta do?"
+          },
+          {
+            "stringId": "1763356428702040064",
+            "femaleVariant": "Whaddaya say? You in?"
+          },
+          {
+            "stringId": "1773381435330879488",
+            "femaleVariant": "You mean considering the shit we've been through?",
+            "maleVariant": "After all that went down, thought you and I'd be ancient history."
+          },
+          {
+            "stringId": "1773389418534232064",
+            "femaleVariant": "Well, factor that in and you look fuckin' amazin'.",
+            "maleVariant": "Don't be a gonk..."
+          },
+          {
+            "stringId": "1773420775385817088",
+            "femaleVariant": "How come?"
+          },
+          {
+            "stringId": "1773420867962494976",
+            "femaleVariant": "You know how they are. Piss me off sometimes, is all."
+          },
+          {
+            "stringId": "1773513361828044800",
+            "femaleVariant": "Sounds like we could do this anywhere. Why did we come all the way out here? What is this place?"
+          },
+          {
+            "stringId": "1773531654328639488",
+            "femaleVariant": "Why here of all places? Where are we?"
+          },
+          {
+            "stringId": "1773552673546264576",
+            "femaleVariant": "How do you blend two separate experience tracks?"
+          },
+          {
+            "stringId": "1773553907560833024",
+            "femaleVariant": "Just tell me what to do."
+          },
+          {
+            "stringId": "1773661006965989376",
+            "femaleVariant": "You, my friend, are just gonna scroll me a virtu."
+          },
+          {
+            "stringId": "1773674296249114624",
+            "femaleVariant": "That's it?"
+          },
+          {
+            "stringId": "1773674432446554112",
+            "femaleVariant": "Now, now, let's not get ahead of ourselves. This could be my greatest work – ever."
+          },
+          {
+            "stringId": "1773704441651486720",
+            "femaleVariant": "Yeah, effect was kinda like a bad arthouse. Couple tries in, though, I managed to isolate specific sensations."
+          },
+          {
+            "stringId": "1834514647880523776",
+            "femaleVariant": "Nothin' of any interest."
+          },
+          {
+            "stringId": "1834535362759450624",
+            "femaleVariant": "Why the long face?"
+          },
+          {
+            "stringId": "1834535708453986304",
+            "femaleVariant": "Somethin' got you down all of the sudden?"
+          },
+          {
+            "stringId": "1834539052589342720",
+            "femaleVariant": "Um... no."
+          },
+          {
+            "stringId": "1834540353159127040",
+            "femaleVariant": "Got a new situation, an' everybody's tryin' to adapt. Me too."
+          },
+          {
+            "stringId": "1834546095714951168",
+            "femaleVariant": "Doesn't sound like it's all OK…"
+          },
+          {
+            "stringId": "1834549333314985984",
+            "femaleVariant": "Judy…"
+          },
+          {
+            "stringId": "1834549417469501440",
+            "femaleVariant": "Can we please not talk about Clouds, the Mox, or Arasaka and Militech and how the world's goin' to shit?"
+          },
+          {
+            "stringId": "1834568849528938496",
+            "femaleVariant": "Doesn't mean it isn't."
+          },
+          {
+            "stringId": "1835782486994149376",
+            "femaleVariant": "Just... rather not think about any of that today, anything dark."
+          },
+          {
+            "stringId": "1902378277690630144",
+            "femaleVariant": "Cottage belonged to someone I knew. Sits empty now. I take the liberty to use it from time to time."
+          },
+          {
+            "stringId": "1902379965059129344",
+            "femaleVariant": "And that's where we're gonna scroll?"
+          },
+          {
+            "stringId": "1902518254768447488",
+            "femaleVariant": "Nope. No way. Bad idea. Tell 'er to find some other yes-woman.",
+            "maleVariant": "Nope. No way. Bad idea. Tell 'er to find some other yes-man."
+          },
+          {
+            "stringId": "1902533985203609604",
+            "femaleVariant": "Why?"
+          },
+          {
+            "stringId": "1902536073950224384",
+            "femaleVariant": "Why would you say that?"
+          },
+          {
+            "stringId": "1902541150886780928",
+            "femaleVariant": "I dunno. Don't like the idea, that's all."
+          },
+          {
+            "stringId": "1918565809914601472",
+            "femaleVariant": "So you load 'em onto separate neural tracks – no emo bogeys. Not bad."
+          },
+          {
+            "stringId": "1928785933200220160",
+            "femaleVariant": "It's just... when I think about the dark, the deep... palms that I don't fuckin' have get clammy with sweat I don't secrete."
+          },
+          {
+            "stringId": "1928788332174336000",
+            "femaleVariant": "You're more than welcome to stay on shore.",
+            "maleVariant": "You're more'n welcome to stay on shore."
+          },
+          {
+            "stringId": "2189588777486508032",
+            "femaleVariant": "[Wait]"
+          },
+          {
+            "stringId": "2253559970273124352",
+            "femaleVariant": "Don't overthink this shit, huh?"
+          },
+          {
+            "stringId": "2253561366691143688",
+            "femaleVariant": "How you doin' there?"
+          },
+          {
+            "stringId": "2253561427156230152",
+            "femaleVariant": "C'mon. Gung-ho, onward."
+          },
+          {
+            "stringId": "2255002567583006724",
+            "femaleVariant": "[Sit] Thought you'd had it with me."
+          },
+          {
+            "stringId": "2255042866204180480",
+            "femaleVariant": "[Sit] Considering what we went through?"
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,681 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1526874516293160960",
+            "femaleVariant": "Broseph. Two of 'em."
+          },
+          {
+            "stringId": "1527287161617911812",
+            "femaleVariant": "Maybe we get just one room?"
+          },
+          {
+            "stringId": "1527287424718213120",
+            "femaleVariant": "Sure, good idea."
+          },
+          {
+            "stringId": "1527287975782649856",
+            "femaleVariant": "Maybe we rent just one room?"
+          },
+          {
+            "stringId": "1527288047991787520",
+            "femaleVariant": "Good idea. Let's do it."
+          },
+          {
+            "stringId": "1527288663531065344",
+            "femaleVariant": "Good idea."
+          },
+          {
+            "stringId": "1527289488684879872",
+            "femaleVariant": "Noah has two twin beds in every room. We'll save some money."
+          },
+          {
+            "stringId": "1527306821293838336",
+            "femaleVariant": "How about we just meet here later?"
+          },
+          {
+            "stringId": "1527307262668836864",
+            "femaleVariant": "Know what? Whaddaya say we meet back here later. Got things to do in town.",
+            "maleVariant": "Ya know what? Whaddaya say we meet back here later. Got things to do in town."
+          },
+          {
+            "stringId": "1542977485895897092",
+            "femaleVariant": "Think you might ever go back to the Aldecaldos?"
+          },
+          {
+            "stringId": "1548898431559274496",
+            "femaleVariant": "Whatever you want. All you stand to miss is some real strong, real awful coffee."
+          },
+          {
+            "stringId": "1671892989878333440",
+            "femaleVariant": "Thanks for everything. Partner."
+          },
+          {
+            "stringId": "1671893366073847808",
+            "femaleVariant": "You've done your bit. It's time I returned the favor."
+          },
+          {
+            "stringId": "1671903307933282304",
+            "femaleVariant": "We need to think hard about how to handle the AV."
+          },
+          {
+            "stringId": "1671906528303116288",
+            "femaleVariant": "Let's talk about Anders Hellman."
+          },
+          {
+            "stringId": "1671909434502803456",
+            "femaleVariant": "The Raffens – we done with them?"
+          },
+          {
+            "stringId": "1671983102385844224",
+            "femaleVariant": "Oh no. The Shiv are cockroaches. One's never rid of them."
+          },
+          {
+            "stringId": "1671983386860318720",
+            "femaleVariant": "But it should be quiet for a time. They'll need to gather their wits and dust themselves off."
+          },
+          {
+            "stringId": "1672009703869771776",
+            "femaleVariant": "Noah, we'll take two rooms. Just for tonight."
+          },
+          {
+            "stringId": "1672011883515342848",
+            "femaleVariant": "Noah, I'll need a room. Just for tonight."
+          },
+          {
+            "stringId": "1672023892847882256",
+            "femaleVariant": "Look, about Nash..."
+          },
+          {
+            "stringId": "1672023892864659464",
+            "femaleVariant": "So what's the plan?"
+          },
+          {
+            "stringId": "1672027495755018240",
+            "femaleVariant": "Look, about Nash…"
+          },
+          {
+            "stringId": "1672027962631385088",
+            "femaleVariant": "I won't talk about it."
+          },
+          {
+            "stringId": "1672028262054359040",
+            "femaleVariant": "Well, Nash ain't likely to let Rocky Ridge slide, so…"
+          },
+          {
+            "stringId": "1672029416981131264",
+            "femaleVariant": "Are you worried about me all of a sudden? Or are you just afraid they'll come after us while we're trying to hit the AV?"
+          },
+          {
+            "stringId": "1672030493122097156",
+            "femaleVariant": "Sure, yeah, worried about you."
+          },
+          {
+            "stringId": "1672033568503230464",
+            "femaleVariant": "It's about the plan."
+          },
+          {
+            "stringId": "1672043544487522304",
+            "femaleVariant": "I'm worried about you."
+          },
+          {
+            "stringId": "1672044338452492288",
+            "femaleVariant": "That is not your concern anymore, V."
+          },
+          {
+            "stringId": "1672044600160284672",
+            "femaleVariant": "I will manage. I have always managed. I'm serious."
+          },
+          {
+            "stringId": "1672045941381263360",
+            "femaleVariant": "I just hope we'll finish our biz before you go out to get sweet revenge on the Raffens ."
+          },
+          {
+            "stringId": "1672048044724056064",
+            "femaleVariant": "You needn't be."
+          },
+          {
+            "stringId": "1672048119651102720",
+            "femaleVariant": "Think I've seen through you enough to know what comes next. You're not about to let it go."
+          },
+          {
+            "stringId": "1672049273218920448",
+            "femaleVariant": "Oh, don't worry. I gave you my word. You'll talk to this Hellman of yours."
+          },
+          {
+            "stringId": "1672050425142571008",
+            "femaleVariant": "And I will deal with my Raffens later. On my own."
+          },
+          {
+            "stringId": "1672051310308487168",
+            "femaleVariant": "So, Hellman. What's our plan?"
+          },
+          {
+            "stringId": "1672051310325264392",
+            "femaleVariant": "Well, first I need to sort out how to down the AV with one hand while taking out security with the other."
+          },
+          {
+            "stringId": "1675117613575434240",
+            "femaleVariant": "Let's meet back here around midnight. Agreed?"
+          },
+          {
+            "stringId": "1675124058979168256",
+            "femaleVariant": "Ugh. Sure. Catch you later."
+          },
+          {
+            "stringId": "1675126255318069248",
+            "femaleVariant": "All right, time we looked to my needs. What's the plan for Hellman?"
+          },
+          {
+            "stringId": "1679445865059037184",
+            "femaleVariant": "So, that package for Street – what was it?"
+          },
+          {
+            "stringId": "1679494461036933120",
+            "femaleVariant": "Thanks, Noah."
+          },
+          {
+            "stringId": "1683751725177630720",
+            "femaleVariant": "You didn't peek? Baloperidol. Drugs for the cyberpsychos in our midst."
+          },
+          {
+            "stringId": "1683753960607444992",
+            "femaleVariant": "Yes. They have deals. With black clinics, rippers…"
+          },
+          {
+            "stringId": "1683755596654440448",
+            "femaleVariant": "They trade in 'em?"
+          },
+          {
+            "stringId": "1683756298025955328",
+            "femaleVariant": "Cheers. Lemme know if you need anything else."
+          },
+          {
+            "stringId": "1683763968820768768",
+            "femaleVariant": "We done with the Raffens for good?"
+          },
+          {
+            "stringId": "1683769677671165952",
+            "femaleVariant": "Clan leader, Saul. What's his story?"
+          },
+          {
+            "stringId": "1683770565789872128",
+            "femaleVariant": "Listen, you and Saul... Who is he? Your leader or chieftain?"
+          },
+          {
+            "stringId": "1683770565789872140",
+            "femaleVariant": "Their leader."
+          },
+          {
+            "stringId": "1683770565806649344",
+            "femaleVariant": "Were pretty keen to delta the hell out of there before he got back."
+          },
+          {
+            "stringId": "1683770565806649356",
+            "femaleVariant": "Let's just say Saul wouldn't have been happy to see me."
+          },
+          {
+            "stringId": "1683770565806649368",
+            "femaleVariant": "What happened?"
+          },
+          {
+            "stringId": "1683770565806649380",
+            "femaleVariant": "The reason we came to California was because he promised change for the Aldecaldos. He claimed we would turn over a new leaf."
+          },
+          {
+            "stringId": "1683770565823426564",
+            "femaleVariant": "But you saw it yourself. We got a handful of tents on a heap of sand. A hell of a promised land."
+          },
+          {
+            "stringId": "1683770565823426584",
+            "femaleVariant": "I wanted something different, better. But Saul's a damned coward. He'll be the end of the clan. I'm certain."
+          },
+          {
+            "stringId": "1683774076422320128",
+            "femaleVariant": "The Aldecaldos – think you'll ever go back? I mean, not right now, but... someday?"
+          },
+          {
+            "stringId": "1683775529480220672",
+            "femaleVariant": "I don't rightly know... On the one hand, I don't have anyone outside the clan. Shit, I don't really know any other life."
+          },
+          {
+            "stringId": "1683777361485099008",
+            "femaleVariant": "But on the other?"
+          },
+          {
+            "stringId": "1683777491156201472",
+            "femaleVariant": "Without my clan, who am I? Who would I become if I stayed in Night City?"
+          },
+          {
+            "stringId": "1683781315556143104",
+            "femaleVariant": "Could make a fresh start. It's doable."
+          },
+          {
+            "stringId": "1683783759258316800",
+            "femaleVariant": "Friends're hard to come by in Night City."
+          },
+          {
+            "stringId": "1683784087638765568",
+            "femaleVariant": "I lost everything in Night City."
+          },
+          {
+            "stringId": "1683788620590870528",
+            "femaleVariant": "Had to leave my clan, too."
+          },
+          {
+            "stringId": "1683790112269922304",
+            "femaleVariant": "Ah yeah, I remember. Bakker family, right?"
+          },
+          {
+            "stringId": "1683790529821274112",
+            "femaleVariant": "Mhm. Then I came to Night City, saw my chance, took it..."
+          },
+          {
+            "stringId": "1683792021651320832",
+            "femaleVariant": "And?"
+          },
+          {
+            "stringId": "1683792795433299968",
+            "femaleVariant": "And I lost almost everything."
+          },
+          {
+            "stringId": "1683793428521545728",
+            "femaleVariant": "Shit... That's comforting."
+          },
+          {
+            "stringId": "1683793909692100608",
+            "femaleVariant": "Let's talk about something else. Anything else."
+          },
+          {
+            "stringId": "1683795729969704960",
+            "femaleVariant": "Truly? Well you don't look like a nomad to me at all."
+          },
+          {
+            "stringId": "1683796342757519360",
+            "femaleVariant": "Nash didn't look like Raffen to you, either."
+          },
+          {
+            "stringId": "1683796570894102528",
+            "femaleVariant": "Fuck you."
+          },
+          {
+            "stringId": "1683797297196560384",
+            "femaleVariant": "Yeah, I was in a clan of my own. Bakker family. Then I landed in Night City."
+          },
+          {
+            "stringId": "1683798270660964352",
+            "femaleVariant": "Really thought I saw my big chance. So I took it, risked everything."
+          },
+          {
+            "stringId": "1683798918815150080",
+            "femaleVariant": "And?"
+          },
+          {
+            "stringId": "1683799020803846144",
+            "femaleVariant": "I lost everything."
+          },
+          {
+            "stringId": "1683799160709050368",
+            "femaleVariant": "Well, that's uh... comforting."
+          },
+          {
+            "stringId": "1683799724993933312",
+            "femaleVariant": "I wouldn't mind changing the subject now."
+          },
+          {
+            "stringId": "1683800705353773056",
+            "femaleVariant": "Could just start over again. That's what I did."
+          },
+          {
+            "stringId": "1683801626070609920",
+            "femaleVariant": "Mhm. For now, I only seem to be really good at burning bridges."
+          },
+          {
+            "stringId": "1683801991629369344",
+            "femaleVariant": "Talkin' about Rogue?"
+          },
+          {
+            "stringId": "1683802107090169856",
+            "femaleVariant": "No. But thanks for reminding me."
+          },
+          {
+            "stringId": "1683802365190860800",
+            "femaleVariant": "V... Do you think I could make a fresh start with her, too?"
+          },
+          {
+            "stringId": "1683803552095006720",
+            "femaleVariant": "She seems to bet her eddies on the right people. You'll work it out."
+          },
+          {
+            "stringId": "1683804511265222656",
+            "femaleVariant": "Could always try it out, see who you become in Night City."
+          },
+          {
+            "stringId": "1683806908746166272",
+            "femaleVariant": "'Cept… city doesn't always play fair. Dunno if it's worth sacrificing your friends along the way."
+          },
+          {
+            "stringId": "1683808566586765312",
+            "femaleVariant": "You mean Mitch? Scorpion? Come on."
+          },
+          {
+            "stringId": "1683809269417897984",
+            "femaleVariant": "Sooner or later, Panam, the city'll suck you in. Won't need to cut whatever ties you got left to the Aldecaldos, 'cause the city'll do that for you."
+          },
+          {
+            "stringId": "1683811405040054272",
+            "femaleVariant": "I guess I should think about it…"
+          },
+          {
+            "stringId": "1690785949902565376",
+            "femaleVariant": "Not quite what I had in mind…"
+          },
+          {
+            "stringId": "1690786234360262660",
+            "femaleVariant": "Not exactly what I meant."
+          },
+          {
+            "stringId": "1690786606428581888",
+            "femaleVariant": "Separate beds. Sure."
+          },
+          {
+            "stringId": "1690798291390427136",
+            "femaleVariant": "Just what did you have in mind?"
+          },
+          {
+            "stringId": "1690798840290603008",
+            "femaleVariant": "Just... glad to have met you. Uh, so I thought…",
+            "maleVariant": "Just, um... Ehm, glad to have met you. Heh, so I thought…"
+          },
+          {
+            "stringId": "1690802419239874560",
+            "femaleVariant": "I'm glad we met, too."
+          },
+          {
+            "stringId": "1690802615466192896",
+            "femaleVariant": "That could've been a damned tough day. But thanks to you, it all went well."
+          },
+          {
+            "stringId": "1690803716454215680",
+            "femaleVariant": "Maybe... calls for a little celebration?"
+          },
+          {
+            "stringId": "1690805024238202880",
+            "femaleVariant": "Sure, we can celebrate."
+          },
+          {
+            "stringId": "1690807412592340992",
+            "femaleVariant": "Noah, we'll need a room. Twin beds. Just for tonight."
+          },
+          {
+            "stringId": "1690808322773086208",
+            "femaleVariant": "OK, I won't insist. Separate beds, got it."
+          },
+          {
+            "stringId": "1691067485059149844",
+            "femaleVariant": "Sure, good idea."
+          },
+          {
+            "stringId": "1691067485075927040",
+            "femaleVariant": "How about we just meet here later?"
+          },
+          {
+            "stringId": "1691068124640178176",
+            "femaleVariant": "Know what? Whaddaya say we meet back here later. Got things to do in town.",
+            "maleVariant": "Ya know what? Whaddaya say we meet back here later. Got things to do in town."
+          },
+          {
+            "stringId": "1691068124656955404",
+            "femaleVariant": "Whatever you want. Just come back by midnight."
+          },
+          {
+            "stringId": "1691068124656955424",
+            "femaleVariant": "Noah, I'll need a room. Just for tonight."
+          },
+          {
+            "stringId": "1691069158167015424",
+            "femaleVariant": "Mhm, good idea. Let's do it."
+          },
+          {
+            "stringId": "1691069158167015444",
+            "femaleVariant": "Noah, we'll take two rooms. Just for tonight."
+          },
+          {
+            "stringId": "1691073280412872704",
+            "femaleVariant": "Maybe just one room?"
+          },
+          {
+            "stringId": "1691074126756311040",
+            "femaleVariant": "Maybe only one room?"
+          },
+          {
+            "stringId": "1691074126756311080",
+            "femaleVariant": "Mhm. Noah has two twin beds in every room. We'll save some money."
+          },
+          {
+            "stringId": "1691074714814509056",
+            "femaleVariant": "Not quite what I had in mind…"
+          },
+          {
+            "stringId": "1691074714814509068",
+            "femaleVariant": "I know."
+          },
+          {
+            "stringId": "1691074714814509080",
+            "femaleVariant": "Don't worry about it. I'm glad we met, too."
+          },
+          {
+            "stringId": "1691074714831286276",
+            "femaleVariant": "That was a damned tough day, but still we pulled through."
+          },
+          {
+            "stringId": "1691074714831286288",
+            "femaleVariant": "And we'll do it again tomorrow."
+          },
+          {
+            "stringId": "1691074714831286300",
+            "femaleVariant": "I like to hear that. Are we all right?"
+          },
+          {
+            "stringId": "1691074714881617920",
+            "femaleVariant": "Not exactly what I meant."
+          },
+          {
+            "stringId": "1691074714881617936",
+            "femaleVariant": "Separate beds. Got it."
+          },
+          {
+            "stringId": "1691074714999058432",
+            "femaleVariant": "Separate beds. Got it."
+          },
+          {
+            "stringId": "1691089637510606848",
+            "femaleVariant": "Just... glad to have met you, so I thought…"
+          },
+          {
+            "stringId": "1691091362611064832",
+            "femaleVariant": "Mhm. Yeah."
+          },
+          {
+            "stringId": "1691093759957790720",
+            "femaleVariant": "But not today. I'm beat."
+          },
+          {
+            "stringId": "1693655008426831872",
+            "femaleVariant": "[Drink] To your ride!"
+          },
+          {
+            "stringId": "1693848563174846468",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1722745890799071236",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1722785434411970560",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1722785560207536128",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1722785878991417344",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1722786068355854336",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1722786363534192640",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1722786458627452928",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1722786552646971392",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1722786613263052800",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1744273072545312768",
+            "femaleVariant": "Another one over here."
+          },
+          {
+            "stringId": "1744351498041159680",
+            "femaleVariant": "We'll get to work around midnight, it will help keep us out of sight. Agreed?"
+          },
+          {
+            "stringId": "1744361903572512768",
+            "femaleVariant": "With what we want to do, we should make sure to be almost invisible."
+          },
+          {
+            "stringId": "1785119143303294976",
+            "femaleVariant": "Cheers – here's to what's yet to come!"
+          },
+          {
+            "stringId": "1785120209864470528",
+            "femaleVariant": "[Drink] To what's ahead!"
+          },
+          {
+            "stringId": "1785161910135156736",
+            "femaleVariant": "Well – here's to that Thorn of yours!"
+          },
+          {
+            "stringId": "1785164310250123264",
+            "femaleVariant": "To what's to come."
+          },
+          {
+            "stringId": "1786667350463475712",
+            "femaleVariant": "Don't really feel like drinking. But don't let that deter you."
+          },
+          {
+            "stringId": "1786670939227418624",
+            "femaleVariant": "I don't aim to."
+          },
+          {
+            "stringId": "1816953231554535424",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1816958959061196800",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1976297277084004352",
+            "femaleVariant": "I've come up with a plan, a first draft, but I need to sleep on it, work it out. Then we can talk about the details."
+          },
+          {
+            "stringId": "1976299177909022720",
+            "femaleVariant": "I think it best to rent rooms here, just to stay in the area."
+          },
+          {
+            "stringId": "1995274390334844932",
+            "femaleVariant": "[Lie down]"
+          },
+          {
+            "stringId": "1995276651165364224",
+            "femaleVariant": "[Lie down]"
+          },
+          {
+            "stringId": "1995278811500359680",
+            "femaleVariant": "G'night."
+          },
+          {
+            "stringId": "1995306323030814720",
+            "femaleVariant": "Ooph, I'm starting to feel that stress go away."
+          },
+          {
+            "stringId": "1995398049167962112",
+            "femaleVariant": "Well, that's all settled then."
+          },
+          {
+            "stringId": "1995402539824705536",
+            "femaleVariant": "Catch you later."
+          },
+          {
+            "stringId": "1995403120467374080",
+            "femaleVariant": "Catch you later."
+          },
+          {
+            "stringId": "1995404269069135872",
+            "femaleVariant": "I'll go catch a few winks. See you later."
+          },
+          {
+            "stringId": "1995405053185880064",
+            "femaleVariant": "I'll go catch a few winks. See you later."
+          },
+          {
+            "stringId": "1995411006513868800",
+            "femaleVariant": "I'll go catch a few winks."
+          },
+          {
+            "stringId": "1995416494139895808",
+            "femaleVariant": "I'll probably be out as soon as I hit the sack."
+          },
+          {
+            "stringId": "1995416951855902720",
+            "femaleVariant": "You had better get some rest, too. This is only the beginning."
+          },
+          {
+            "stringId": "1995417758219235328",
+            "femaleVariant": "That's the plan."
+          },
+          {
+            "stringId": "1995422532343820288",
+            "femaleVariant": "Mhmmm..."
+          },
+          {
+            "stringId": "2034506613457924128",
+            "femaleVariant": "Thanks, won't partake, myself."
+          },
+          {
+            "stringId": "2038682478358016000",
+            "femaleVariant": "[Drink]"
+          }
+        ]
+      }
+
+
+

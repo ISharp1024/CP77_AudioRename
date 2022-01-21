@@ -1,0 +1,500 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1480762812946567168",
+            "femaleVariant": "Discharged booster."
+          },
+          {
+            "stringId": "1480767497178828800",
+            "femaleVariant": "Either of you use energy boosters?"
+          },
+          {
+            "stringId": "1480767853157797888",
+            "femaleVariant": "I don't, and not that I know of. Jeff, maybe? He works so hard…"
+          },
+          {
+            "stringId": "1480772046723600384",
+            "femaleVariant": "Bullet holes – caulked up…"
+          },
+          {
+            "stringId": "1480773714261430272",
+            "femaleVariant": "Someone tried to patch up the bullet holes. Assuming neither of you had anything to do with this?"
+          },
+          {
+            "stringId": "1480775975310053376",
+            "femaleVariant": "Bloodstains... Not quite scrubbed clean."
+          },
+          {
+            "stringId": "1480777778005135360",
+            "femaleVariant": "Where's the blood from? It yours?"
+          },
+          {
+            "stringId": "1480778288770699264",
+            "femaleVariant": "I'm one hundred percent sure it's not ours. Maybe the intruder's?"
+          },
+          {
+            "stringId": "1480781217284083712",
+            "femaleVariant": "Why's this door concealed?"
+          },
+          {
+            "stringId": "1480781864700071936",
+            "femaleVariant": "Where? There's no door here."
+          },
+          {
+            "stringId": "1480783259524255744",
+            "femaleVariant": "Right here. It's closed."
+          },
+          {
+            "stringId": "1480799761157705728",
+            "femaleVariant": "Department of Law at Asukaga-Berkeley? Hm, classy…"
+          },
+          {
+            "stringId": "1480802759934070784",
+            "femaleVariant": "You and Jeff graduate from the same school? Must've been expensive…"
+          },
+          {
+            "stringId": "1480804062030581760",
+            "femaleVariant": "We were lucky. On full scholarships, funded by the Night Foundation."
+          },
+          {
+            "stringId": "1480816357448208384",
+            "femaleVariant": "Broken?"
+          },
+          {
+            "stringId": "1480817729203720192",
+            "femaleVariant": "It was fine a couple days ago. We rarely use it, though."
+          },
+          {
+            "stringId": "1482283658366275584",
+            "femaleVariant": "Wedding pic? Interesting backdrop…"
+          },
+          {
+            "stringId": "1482284114136125440",
+            "femaleVariant": "Blue roses. You sure? Roses in this picture look pretty red to me.",
+            "maleVariant": "Heh, blue roses. Wha-you sure? 'Cause the roses in this picture look pretty red to me."
+          },
+          {
+            "stringId": "1486391934406217728",
+            "femaleVariant": "Odd... tech's practically prehistoric, but it doesn't look older than a day…"
+          },
+          {
+            "stringId": "1486393443936227328",
+            "femaleVariant": "Saw somethin' like this back in the war. Transmitters – Militech was using 'em."
+          },
+          {
+            "stringId": "1486640443730546688",
+            "femaleVariant": "Got a vizh on our receiver – black van parked next to it. Gotta be our winner.",
+            "maleVariant": "Got a vizh on the receiver – black van parked next to it. Gotta be our winner."
+          },
+          {
+            "stringId": "1487892179334057984",
+            "femaleVariant": "Tight bites? You and Jeff must be puttin' in serious overtime.",
+            "maleVariant": "Heh, tight bites? You and Jeff must be puttin' in serious overtime."
+          },
+          {
+            "stringId": "1487893337582718976",
+            "femaleVariant": "Elections. You don't even have time to think about food, so you just order whatever's quickest."
+          },
+          {
+            "stringId": "1488024540461780992",
+            "femaleVariant": "Weird hardware... What's it for?"
+          },
+          {
+            "stringId": "1488024607453204480",
+            "femaleVariant": "Used meds. Intruder make a beeline here after Jeff tagged him?"
+          },
+          {
+            "stringId": "1488064098553417728",
+            "femaleVariant": "Fresh fruit... tasty, by the looks of it."
+          },
+          {
+            "stringId": "1488065021853945856",
+            "femaleVariant": "They deliver it to us –  it's included in the rent."
+          },
+          {
+            "stringId": "1633140891756122112",
+            "femaleVariant": "What was that?"
+          },
+          {
+            "stringId": "1633141135864614912",
+            "femaleVariant": "No fuckin' clue. Felt kinda good, but weird. Like tripping on acid."
+          },
+          {
+            "stringId": "1633141809251733504",
+            "femaleVariant": "That happen to the screen a lot? Or to any of the others?",
+            "maleVariant": "Does that happen to the screen a lot? Or to any of the others?"
+          },
+          {
+            "stringId": "1638778464184684544",
+            "femaleVariant": "Wonder how long they've been keepin' this from you.",
+            "maleVariant": "Wonder how long they been keepin' this from you."
+          },
+          {
+            "stringId": "1638779317926875136",
+            "femaleVariant": "Jesus Christ…"
+          },
+          {
+            "stringId": "1643252495780794368",
+            "femaleVariant": "Looks like it's been enhanced. What have we got here…?",
+            "maleVariant": "Looks like it's been enhanced. What've we got here…?"
+          },
+          {
+            "stringId": "1643252887411347456",
+            "femaleVariant": "There's some weird chem stuff in here... Enhanced food?"
+          },
+          {
+            "stringId": "1643256514964213760",
+            "femaleVariant": "It's \"SmartFood.\" It's enhanced for improved mental performance."
+          },
+          {
+            "stringId": "1643258037999882240",
+            "femaleVariant": "Fresh Fruit for Rotting Vegetables..."
+          },
+          {
+            "stringId": "1648636202004385792",
+            "femaleVariant": "Scanner's showin' somethin' different."
+          },
+          {
+            "stringId": "1648636673309937664",
+            "femaleVariant": "Wait... you mean here?"
+          },
+          {
+            "stringId": "1661897254661918720",
+            "femaleVariant": "Line-of-sight? Let's look around, see if we can't spot where our receiver's camping out…"
+          },
+          {
+            "stringId": "1661907198433955840",
+            "femaleVariant": "Connected to the wall-mounted screens. Wonder where else these cables run…"
+          },
+          {
+            "stringId": "1661914703738310656",
+            "femaleVariant": "But yes, it's true Jeff hasn't eaten anything else recently..."
+          },
+          {
+            "stringId": "1661926884198453248",
+            "femaleVariant": "Glutamine, noradrenaline, dopamine, serotonin... all neurotransmitters. Know anything about this?"
+          },
+          {
+            "stringId": "1661937713690054656",
+            "femaleVariant": "I don't know if it really works, but people believe it. Other than that... it isn't half bad."
+          },
+          {
+            "stringId": "1661942280079151104",
+            "femaleVariant": "What? It was a sick album."
+          },
+          {
+            "stringId": "1664710546488954880",
+            "femaleVariant": "But it wouldn't be like him. He's always been against using any... substances."
+          },
+          {
+            "stringId": "1664718232785915904",
+            "femaleVariant": "No, of course not."
+          },
+          {
+            "stringId": "1664728649558003712",
+            "femaleVariant": "No. Open it…  somehow, please."
+          },
+          {
+            "stringId": "1664743579401195520",
+            "femaleVariant": "A charity founded by Richard Night's widow."
+          },
+          {
+            "stringId": "1664745936381939712",
+            "femaleVariant": "They helped a lot of underprivileged kids with ambitions."
+          },
+          {
+            "stringId": "1664778545300377600",
+            "femaleVariant": "Any? Nicotine's a substance."
+          },
+          {
+            "stringId": "1664779378138157056",
+            "femaleVariant": "Jefferson has never smoked."
+          },
+          {
+            "stringId": "1664780090112872448",
+            "femaleVariant": "Really? Could've sworn I've seen him smoking…",
+            "maleVariant": "Really? Could've sworn I've seen him smokin'…"
+          },
+          {
+            "stringId": "1664780797490630656",
+            "femaleVariant": "Jeff? No, never. He doesn't go near the stuff."
+          },
+          {
+            "stringId": "1664786355513856000",
+            "femaleVariant": "I wanted blue roses. So we ordered a whole truckload."
+          },
+          {
+            "stringId": "1664792629337001984",
+            "femaleVariant": "Hmm... of course, you're right. They didn't have blue roses, I forgot…"
+          },
+          {
+            "stringId": "1664805357422252032",
+            "femaleVariant": "I don't understand..."
+          },
+          {
+            "stringId": "1664805695869030400",
+            "femaleVariant": "What just happened a second ago. Didn't see it?",
+            "maleVariant": "What just happened a second ago. You didn't see it?"
+          },
+          {
+            "stringId": "1664805969102770176",
+            "femaleVariant": "No... what?"
+          },
+          {
+            "stringId": "1664806128939307008",
+            "femaleVariant": "Uh, never mind.",
+            "maleVariant": "OK, never mind."
+          },
+          {
+            "stringId": "1664816284372701184",
+            "femaleVariant": "Too long. This ends now. I'm not letting any more of those freaks set foot--"
+          },
+          {
+            "stringId": "1680962689146933248",
+            "femaleVariant": "Iron... This Jeff's?"
+          },
+          {
+            "stringId": "1680963841188024320",
+            "femaleVariant": "Mh. Mine, actually. But yes, that's the one Jeff used that night."
+          },
+          {
+            "stringId": "1683548107256221700",
+            "femaleVariant": "[Fix screen]"
+          },
+          {
+            "stringId": "1751626915565932544",
+            "femaleVariant": "Probably."
+          },
+          {
+            "stringId": "1751629051540410368",
+            "femaleVariant": "Previous owners, left over, maybe?"
+          },
+          {
+            "stringId": "1805040482042122240",
+            "femaleVariant": "Think we're safe puttin' your security at the top of our list of suspects."
+          },
+          {
+            "stringId": "1805040659175968768",
+            "femaleVariant": "They violated our privacy... The sons of bitches! Under my own roof!"
+          },
+          {
+            "stringId": "1805043086235144192",
+            "femaleVariant": "Don't worry about me. Do what you have to do."
+          },
+          {
+            "stringId": "1805048941768740864",
+            "femaleVariant": "Someone's been pullin' all-nighters."
+          },
+          {
+            "stringId": "1805052260704718848",
+            "femaleVariant": "Talkin' to yourself again?"
+          },
+          {
+            "stringId": "1805052452250193920",
+            "femaleVariant": "More and more – ever since this terrorist started stalking me…"
+          },
+          {
+            "stringId": "1805060167924060160",
+            "femaleVariant": "Short range UHF. Signal only travels line-of-sight, but it can't be intercepted."
+          },
+          {
+            "stringId": "1825773946382979076",
+            "femaleVariant": "Wonder how long they've been hiding this from you."
+          },
+          {
+            "stringId": "1825774043606945792",
+            "femaleVariant": "Never noticed anything, had any reason to suspect?"
+          },
+          {
+            "stringId": "1825775079801360384",
+            "femaleVariant": "Ever noticed anything out of the ordinary, suspicious?"
+          },
+          {
+            "stringId": "1825814020642443264",
+            "femaleVariant": "That they're violating our trust, watching our every move?"
+          },
+          {
+            "stringId": "1825814344627261440",
+            "femaleVariant": "That they'd concealed a goddamn secret room full of spy stuff in our own apartment?"
+          },
+          {
+            "stringId": "1825814714933972992",
+            "femaleVariant": "So you didn't notice – OK."
+          },
+          {
+            "stringId": "1825819453104984064",
+            "femaleVariant": "Ugh... my head..."
+          },
+          {
+            "stringId": "1825819712950505472",
+            "femaleVariant": "Something wrong?"
+          },
+          {
+            "stringId": "1922876675990343680",
+            "femaleVariant": "The hell is this all for, though...?",
+            "maleVariant": "The hell is all this for, though...?"
+          },
+          {
+            "stringId": "1922879068337459200",
+            "femaleVariant": "Fuck if I know. But my gut tells me we should see what this bad boy's hooked up to. See these cables?"
+          },
+          {
+            "stringId": "1928874587015221248",
+            "femaleVariant": "You and Jefferson – you've come a long way."
+          },
+          {
+            "stringId": "1928883586901086208",
+            "femaleVariant": "To get from Heywood all the way here... it's no easy thing."
+          },
+          {
+            "stringId": "1928884172073603072",
+            "femaleVariant": "Yes. If you aren't born with a silver shard, your chances are slim."
+          },
+          {
+            "stringId": "1928885103309754368",
+            "femaleVariant": "And if you're born in Heywood, they're almost nonexistent..."
+          },
+          {
+            "stringId": "1979436983508389888",
+            "femaleVariant": "It looks like SSI's employees knew about the break-in."
+          },
+          {
+            "stringId": "1979437984957190144",
+            "femaleVariant": "Maybe it's worth checking their office downstairs..."
+          },
+          {
+            "stringId": "1984988646961451008",
+            "femaleVariant": "This is Jeff's personal machine. I doubt you'll find anything on it relating to the break-in."
+          },
+          {
+            "stringId": "2065161993199407108",
+            "femaleVariant": "Is this Jeff's gun?"
+          },
+          {
+            "stringId": "2065198471816269828",
+            "femaleVariant": "Law department  at Asukaga... Not bad."
+          },
+          {
+            "stringId": "2065199648821858308",
+            "femaleVariant": "Wedding photo?"
+          },
+          {
+            "stringId": "2065201749899726852",
+            "femaleVariant": "TV's broken?"
+          },
+          {
+            "stringId": "2065203547679084548",
+            "femaleVariant": "Right here."
+          },
+          {
+            "stringId": "2065211674730287108",
+            "femaleVariant": "Bloodstains...?"
+          },
+          {
+            "stringId": "2065214448658403328",
+            "femaleVariant": "Bloodstains...?"
+          },
+          {
+            "stringId": "2065216193757302784",
+            "femaleVariant": "Bloodstains...?"
+          },
+          {
+            "stringId": "2065216918046494720",
+            "femaleVariant": "Bloodstains...?"
+          },
+          {
+            "stringId": "2065217268824526848",
+            "femaleVariant": "Bloodstains...?"
+          },
+          {
+            "stringId": "2065217887618584580",
+            "femaleVariant": "Caulked-up bullet holes?"
+          },
+          {
+            "stringId": "2065219867061637124",
+            "femaleVariant": "Tech's prehistoric, but it looks new..."
+          },
+          {
+            "stringId": "2065221899487137792",
+            "femaleVariant": "Wonder what this is for."
+          },
+          {
+            "stringId": "2065224013500239876",
+            "femaleVariant": "Fresh fruit... must be tasty."
+          },
+          {
+            "stringId": "2066214215811190788",
+            "femaleVariant": "Used meds?"
+          },
+          {
+            "stringId": "2066237066245165060",
+            "femaleVariant": "Tight bites?"
+          },
+          {
+            "stringId": "2066238973781069824",
+            "femaleVariant": "Tight bites? Really?"
+          },
+          {
+            "stringId": "2066239405056184320",
+            "femaleVariant": "Cheap grub?"
+          },
+          {
+            "stringId": "2066267568733802500",
+            "femaleVariant": "Discharged booster?"
+          },
+          {
+            "stringId": "2228681610181611520",
+            "femaleVariant": "I find this so hard to believe…"
+          },
+          {
+            "stringId": "2228684993911197700",
+            "femaleVariant": "How could they do this to us? The gall…"
+          },
+          {
+            "stringId": "2228712606323052544",
+            "femaleVariant": "Seems a happy fam. That your daughter?"
+          },
+          {
+            "stringId": "2228738181964107776",
+            "femaleVariant": "Xochi… oh, we miss her. Her studies took her abroad."
+          },
+          {
+            "stringId": "2228738400739004416",
+            "femaleVariant": "Huh, where to?"
+          },
+          {
+            "stringId": "2228738614682062848",
+            "femaleVariant": "Europe. An excellent school, she'll get a good education…"
+          },
+          {
+            "stringId": "2228738897227157504",
+            "femaleVariant": "I know, it's an ocean away… But with Jeff running for mayor… it's just safer this way."
+          },
+          {
+            "stringId": "2228758519707996160",
+            "femaleVariant": "Cables lead here... Gotta be another way inside. Sharp eye, Johnny!"
+          },
+          {
+            "stringId": "2238888116641976324",
+            "femaleVariant": "That your daughter?"
+          }
+        ]
+      }
+
+
+

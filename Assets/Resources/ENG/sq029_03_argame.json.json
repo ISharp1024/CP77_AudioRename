@@ -1,0 +1,398 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1349876033512456192",
+            "femaleVariant": "Dorian! We're playin'!"
+          },
+          {
+            "stringId": "1349879738223738880",
+            "femaleVariant": "[Grab set]"
+          },
+          {
+            "stringId": "1623958472080146432",
+            "femaleVariant": "Is that all you got?"
+          },
+          {
+            "stringId": "1623960100980047872",
+            "femaleVariant": "Too slow! Too many donuts!"
+          },
+          {
+            "stringId": "1623966447297544192",
+            "femaleVariant": "Not half bad!"
+          },
+          {
+            "stringId": "1623966447364653056",
+            "femaleVariant": "Hey, I have better aim!"
+          },
+          {
+            "stringId": "1775182974196781056",
+            "femaleVariant": "Not done yet!"
+          },
+          {
+            "stringId": "1775185292388601856",
+            "femaleVariant": "Nuh-uh! Watch this!"
+          },
+          {
+            "stringId": "1905474276884090880",
+            "femaleVariant": "Yeah! \"Big Trouble in Heywood!\""
+          },
+          {
+            "stringId": "1905475399481167872",
+            "femaleVariant": "Grab your set."
+          },
+          {
+            "stringId": "2014421926275067904",
+            "femaleVariant": "Well, well, nice firepower there."
+          },
+          {
+            "stringId": "2014422772064858112",
+            "femaleVariant": "This is no time to get distracted. We can't let that filth get away!"
+          },
+          {
+            "stringId": "2014423898420031488",
+            "femaleVariant": "Who? Oh… well look at you."
+          },
+          {
+            "stringId": "2014424072651419648",
+            "femaleVariant": "V, allow me to introduce Captain Joan McClane and Lieutenant Henry Callahan."
+          },
+          {
+            "stringId": "2014426417955221504",
+            "femaleVariant": "They're our precinct's best and brightest. Wouldn't want to get in their way."
+          },
+          {
+            "stringId": "2014427450978742272",
+            "femaleVariant": "OK, let's begin."
+          },
+          {
+            "stringId": "2014427708878106624",
+            "femaleVariant": "What should I know about the game?"
+          },
+          {
+            "stringId": "2014427930354135040",
+            "femaleVariant": "Lone wolves, huh? I know the type."
+          },
+          {
+            "stringId": "2014433944382091264",
+            "femaleVariant": "Got a crash course, anything I oughta know?"
+          },
+          {
+            "stringId": "2014433982533480448",
+            "femaleVariant": "Ooh, I've heard of cops like you. The lone wolf type."
+          },
+          {
+            "stringId": "2014434519387615232",
+            "femaleVariant": "All right, let's get to it."
+          },
+          {
+            "stringId": "2015374485680697344",
+            "femaleVariant": "I always work alone. No exceptions. Even for you."
+          },
+          {
+            "stringId": "2015376828618911744",
+            "femaleVariant": "That's right. Thorns in their commmander's side. Rebels who play by their own rules."
+          },
+          {
+            "stringId": "2015380893050482688",
+            "femaleVariant": "Right, all we gotta do is track down El Chamuco Endiablado and take out his lackeys along the way."
+          },
+          {
+            "stringId": "2015394490145189888",
+            "femaleVariant": "He'll pay for his crimes."
+          },
+          {
+            "stringId": "2015396368706842624",
+            "femaleVariant": "We play like two teams, us and the kids. But we work toward the same objective."
+          },
+          {
+            "stringId": "2015396842763857920",
+            "femaleVariant": "The team with the best result wins."
+          },
+          {
+            "stringId": "2015404544495857664",
+            "femaleVariant": "You don't stand a chance."
+          },
+          {
+            "stringId": "2015424302519824384",
+            "femaleVariant": "Oh, there he is! Get him!"
+          },
+          {
+            "stringId": "2015425392099340288",
+            "femaleVariant": "He's fast. But not fast enough to escape justice."
+          },
+          {
+            "stringId": "2015425963598426112",
+            "femaleVariant": "Watch out! It's his cronies!"
+          },
+          {
+            "stringId": "2015427046769045504",
+            "femaleVariant": "This way. It must be their rat-infested hideout."
+          },
+          {
+            "stringId": "2015428202618564608",
+            "femaleVariant": "Hmm… Quiet. Too quiet…"
+          },
+          {
+            "stringId": "2015428464091475968",
+            "femaleVariant": "It's a trap! They were waitin' for us!"
+          },
+          {
+            "stringId": "2015430390401085440",
+            "femaleVariant": "Aaaah! Behind us!"
+          },
+          {
+            "stringId": "2015460557546729472",
+            "femaleVariant": "Not far now."
+          },
+          {
+            "stringId": "2015465646562881536",
+            "femaleVariant": "Don't worry about me."
+          },
+          {
+            "stringId": "2015466841167769600",
+            "femaleVariant": "Out of the way, citizen! Obstructing justice is punishable by law!"
+          },
+          {
+            "stringId": "2015467121666043904",
+            "femaleVariant": "OK, I think we got 'em all."
+          },
+          {
+            "stringId": "2015467135859568640",
+            "femaleVariant": "OK, that's all of 'em. But next time we gotta be faster."
+          },
+          {
+            "stringId": "2015467147972718592",
+            "femaleVariant": "Next round, next round!"
+          },
+          {
+            "stringId": "2015471807458586624",
+            "femaleVariant": "This is your last warning!"
+          },
+          {
+            "stringId": "2015472012526497792",
+            "femaleVariant": "Easy there, captain! I'm just passin' through."
+          },
+          {
+            "stringId": "2015474987630211072",
+            "femaleVariant": "This city's mine. You'll never take 'er from me."
+          },
+          {
+            "stringId": "2015492237108064256",
+            "femaleVariant": "Some last words?"
+          },
+          {
+            "stringId": "2015492280577830912",
+            "femaleVariant": "At least we beat the grown-ups!"
+          },
+          {
+            "stringId": "2015492305793986560",
+            "femaleVariant": "Did you see the score? That sucked."
+          },
+          {
+            "stringId": "2015493313483911168",
+            "femaleVariant": "Fine. Out with it, scumbag. I wanna see you squirm."
+          },
+          {
+            "stringId": "2015495681386622976",
+            "femaleVariant": "OK, so now--"
+          },
+          {
+            "stringId": "2015498188842217472",
+            "femaleVariant": "Lunch's ready!"
+          },
+          {
+            "stringId": "2015557248283193344",
+            "femaleVariant": "We're the best!"
+          },
+          {
+            "stringId": "2015560018537099264",
+            "femaleVariant": "I hate this game."
+          },
+          {
+            "stringId": "2015560257142665216",
+            "femaleVariant": "You two did great! It was really close!"
+          },
+          {
+            "stringId": "2015581983301840896",
+            "femaleVariant": "The entire city is sick with crime and corruption. Lawlessness rules the streets."
+          },
+          {
+            "stringId": "2015582528779464704",
+            "femaleVariant": "Oho, he's the worst! But I know we can beat 'im!"
+          },
+          {
+            "stringId": "2015584301527216128",
+            "femaleVariant": "The city's most evilest mastermind ever…"
+          },
+          {
+            "stringId": "2015585995354943488",
+            "femaleVariant": "I've been suspended one time, retired two times and kicked off the force three times."
+          },
+          {
+            "stringId": "2015587080874373120",
+            "femaleVariant": "I'm gettin' too old for this."
+          },
+          {
+            "stringId": "2015588022847942656",
+            "femaleVariant": "But something always drags you back."
+          },
+          {
+            "stringId": "2015588557537816576",
+            "femaleVariant": "The city needs me."
+          },
+          {
+            "stringId": "2015707616141660160",
+            "femaleVariant": "But it's not over yet…"
+          },
+          {
+            "stringId": "2015713608979992576",
+            "femaleVariant": "I could smell the moral decay from a mile off."
+          },
+          {
+            "stringId": "2016921134153093120",
+            "femaleVariant": "Could be fun."
+          },
+          {
+            "stringId": "2016923476051120128",
+            "femaleVariant": "Well? Whaddaya think?"
+          },
+          {
+            "stringId": "2016924550900240388",
+            "femaleVariant": "Always wanted to play something like this."
+          },
+          {
+            "stringId": "2016925417762213888",
+            "femaleVariant": "Looks OK, I guess."
+          },
+          {
+            "stringId": "2016932701070446592",
+            "femaleVariant": "Always wanted to try a game like this."
+          },
+          {
+            "stringId": "2016960798662610944",
+            "femaleVariant": "Yeah, me too."
+          },
+          {
+            "stringId": "2016980398091554816",
+            "femaleVariant": "And we're no saints either. Even the police are haunted by the sins of their past."
+          },
+          {
+            "stringId": "2016981975032418304",
+            "femaleVariant": "But the city's without hope. No one else would ever dare face... El Chamuco Endiablado."
+          },
+          {
+            "stringId": "2017103327353655296",
+            "femaleVariant": "Hey, V… Just go easy, OK? It's their favorite game."
+          },
+          {
+            "stringId": "2017106609530753024",
+            "femaleVariant": "Sure."
+          },
+          {
+            "stringId": "2017131864424992768",
+            "femaleVariant": "Hahaha!"
+          },
+          {
+            "stringId": "2017149925802659840",
+            "femaleVariant": "Don't charge in there, Callahan. I can't afford to lose one of my best men."
+          },
+          {
+            "stringId": "2017157123328987136",
+            "femaleVariant": "No. YOUR last words! Hahaha!"
+          },
+          {
+            "stringId": "2017165724185546752",
+            "femaleVariant": "Oh c'mon… Another ambush?"
+          },
+          {
+            "stringId": "2017167182880591872",
+            "femaleVariant": "But mooom, we almost had him!"
+          },
+          {
+            "stringId": "2017167447155298304",
+            "femaleVariant": "Oh, you'll get 'im next time."
+          },
+          {
+            "stringId": "2017168703080910848",
+            "femaleVariant": "Thanks for lettin' 'em win. They had fun."
+          },
+          {
+            "stringId": "2017172523588538368",
+            "femaleVariant": "Should've let 'em win. They take this game pretty serious."
+          },
+          {
+            "stringId": "2017237158752702464",
+            "femaleVariant": "You're right. Let myself get carried away."
+          },
+          {
+            "stringId": "2017237929363787776",
+            "femaleVariant": "Relax. It's just a game."
+          },
+          {
+            "stringId": "2017238361628758016",
+            "femaleVariant": "Yeah, sorry. Kinda let myself get sucked into it."
+          },
+          {
+            "stringId": "2017239054091571200",
+            "femaleVariant": "Ah, well… Least they had a little fair competition."
+          },
+          {
+            "stringId": "2017241370471452672",
+            "femaleVariant": "Ah, c'mon, it's just a game."
+          },
+          {
+            "stringId": "2017243888849014784",
+            "femaleVariant": "Hmph… Sure."
+          },
+          {
+            "stringId": "2017244702963421188",
+            "femaleVariant": "No problem. They're great kids."
+          },
+          {
+            "stringId": "2017245355328688128",
+            "femaleVariant": "I didn't. Beat me fair and square."
+          },
+          {
+            "stringId": "2017245841733734400",
+            "femaleVariant": "Nah, they're great kids. It's no problem."
+          },
+          {
+            "stringId": "2017246390784905216",
+            "femaleVariant": "Seems they took a liking to you, too."
+          },
+          {
+            "stringId": "2017247189413941248",
+            "femaleVariant": "Huh? Oh, no, they had me flat beat."
+          },
+          {
+            "stringId": "2018570928801992712",
+            "femaleVariant": "He's hit! He's hit!"
+          },
+          {
+            "stringId": "2018571465320583180",
+            "femaleVariant": "Take that!"
+          },
+          {
+            "stringId": "2258152387208888320",
+            "femaleVariant": "Well? Kids're waiting. You know how to put that on, don't ya?"
+          }
+        ]
+      }
+
+
+

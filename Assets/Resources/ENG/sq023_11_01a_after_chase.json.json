@@ -1,0 +1,416 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1559111705497067520",
+            "femaleVariant": "Stop the damn car!"
+          },
+          {
+            "stringId": "1560251716485406720",
+            "femaleVariant": "No! Stop! Stop the killing!"
+          },
+          {
+            "stringId": "1560264606554677248",
+            "femaleVariant": "It's not their fault! Shoot the girl and our deal is dead!",
+            "maleVariant": "It's not their fault! Shoot the guy and our deal is dead!"
+          },
+          {
+            "stringId": "1560285676439494656",
+            "femaleVariant": "Come with us. You'll find out all you need to know on the way."
+          },
+          {
+            "stringId": "1560286823581638656",
+            "femaleVariant": "Noted. But you don't have a vote here."
+          },
+          {
+            "stringId": "1560288335946997760",
+            "femaleVariant": "Hah! That's it. Got no fuckin' idea what this is about, but if you don't go with them I'm never talking to you again."
+          },
+          {
+            "stringId": "1563169581303750656",
+            "femaleVariant": "Finally! Somethin' that isn't a complete snorefest. Could binge-watch this all day if I had some popcorn…"
+          },
+          {
+            "stringId": "1563172895642771456",
+            "femaleVariant": "Well, this one time Rachel is right – we can't stay here."
+          },
+          {
+            "stringId": "1755039294645886976",
+            "femaleVariant": "They're here to kill you!"
+          },
+          {
+            "stringId": "1755041991331700736",
+            "femaleVariant": "We take her with us.",
+            "maleVariant": "We take him with us."
+          },
+          {
+            "stringId": "1755045418463944704",
+            "femaleVariant": "Ah, no thanks. Just be on my way, now.",
+            "maleVariant": "No thanks. Just be on my way, now."
+          },
+          {
+            "stringId": "1755045722852974592",
+            "femaleVariant": "Ugh, wastin' time here!"
+          },
+          {
+            "stringId": "1755045913458925568",
+            "femaleVariant": "Please? I need you. Really."
+          },
+          {
+            "stringId": "1755048913460027392",
+            "femaleVariant": "Answer's no."
+          },
+          {
+            "stringId": "1755049082003939328",
+            "femaleVariant": "Why do you need me? Why so badly?"
+          },
+          {
+            "stringId": "1755050212234649600",
+            "femaleVariant": "Now can we go?"
+          },
+          {
+            "stringId": "1755052034408079360",
+            "femaleVariant": "Want me to come... to come with you?",
+            "maleVariant": "You wa-- you want me to come with you?"
+          },
+          {
+            "stringId": "1755052977908375552",
+            "femaleVariant": "Heh, I need you."
+          },
+          {
+            "stringId": "1755053834771128320",
+            "femaleVariant": "Nobody and I mean nobody, will harm a hair on your head. I'm just uh, heh... borrowing you."
+          },
+          {
+            "stringId": "1755055933751844864",
+            "femaleVariant": "What the hell is this?"
+          },
+          {
+            "stringId": "1755087536876183552",
+            "femaleVariant": "V."
+          },
+          {
+            "stringId": "1755087879114612736",
+            "femaleVariant": "Josh Stephenson. But you probably knew that already…"
+          },
+          {
+            "stringId": "1755089781483134976",
+            "femaleVariant": "Your... associate – what was his name?"
+          },
+          {
+            "stringId": "1755096294062841856",
+            "femaleVariant": "It's OK. You don't need to tell me. My name is Joshua Stephenson."
+          },
+          {
+            "stringId": "1755097256101961728",
+            "femaleVariant": "Aaaand your... associate – what was his name?"
+          },
+          {
+            "stringId": "1755101055252193280",
+            "femaleVariant": "Bill Jablonsky. Ring a bell?"
+          },
+          {
+            "stringId": "1755101818967842816",
+            "femaleVariant": "Sadly, yes."
+          },
+          {
+            "stringId": "1755101954242535424",
+            "femaleVariant": "\"Teach us to number our days, that we may gain a heart of wisdom!\""
+          },
+          {
+            "stringId": "1755102971864571904",
+            "femaleVariant": "Already ID'd him. Bill Jablonsky."
+          },
+          {
+            "stringId": "1755105826189107200",
+            "femaleVariant": "Wait a sec, you're V? Eh, I heard o' you!"
+          },
+          {
+            "stringId": "1755106202200072192",
+            "femaleVariant": "Well I want to give her a job.",
+            "maleVariant": "Well I want to give him a job."
+          },
+          {
+            "stringId": "1755106404382302208",
+            "femaleVariant": "Agh! Christ on a stick…"
+          },
+          {
+            "stringId": "1772116061515124736",
+            "femaleVariant": "Gotta object, strongly."
+          },
+          {
+            "stringId": "1785261803226238976",
+            "femaleVariant": "Fuck! Brake, I said! Brake!"
+          },
+          {
+            "stringId": "1785275500145381376",
+            "femaleVariant": "Stay close, I'm going to blow the motherfucker to bits myself!"
+          },
+          {
+            "stringId": "1790938824107331584",
+            "femaleVariant": "This is it, let's go!"
+          },
+          {
+            "stringId": "1801135282559356928",
+            "femaleVariant": "First, gonna tell me what the hell's going on.",
+            "maleVariant": "First you're gonna tell me what the hell is going on."
+          },
+          {
+            "stringId": "1802552528787705856",
+            "femaleVariant": "The fuck are you doing? Stop!"
+          },
+          {
+            "stringId": "1802555133047836672",
+            "femaleVariant": "NCPD! Stay where you are! And get that goddamn semi outta here!"
+          },
+          {
+            "stringId": "1802612284567031808",
+            "femaleVariant": "Right, let's just all shoot holes in each other."
+          },
+          {
+            "stringId": "1802613003755950080",
+            "femaleVariant": "For crying out loud, fuck! We can't leave her here! Media vultures'll be here any minute!",
+            "maleVariant": "For crying out loud, fuck! We can't leave him here! Media vultures'll be here any minute!"
+          },
+          {
+            "stringId": "1802618336310169600",
+            "femaleVariant": "Gregor? Busted an attempted hit on my guy…"
+          },
+          {
+            "stringId": "1804412503094484992",
+            "femaleVariant": "Vasquez! Shoot!"
+          },
+          {
+            "stringId": "1804425734043230208",
+            "femaleVariant": "What?!"
+          },
+          {
+            "stringId": "1804426452644945920",
+            "femaleVariant": "You're outta your fuckin' mind!"
+          },
+          {
+            "stringId": "1804427281019985920",
+            "femaleVariant": "Hey, another word from you and I'm callin' the studio. Don't make me ruin your career."
+          },
+          {
+            "stringId": "1804441986451136512",
+            "femaleVariant": "Hhmm... What's your name?"
+          },
+          {
+            "stringId": "1804474842179198976",
+            "femaleVariant": "We can't take her, out of the question. She's way too big a threat.",
+            "maleVariant": "We can't take him, out of the question. He's way too big a threat."
+          },
+          {
+            "stringId": "1804477268030414848",
+            "femaleVariant": "Screw this, I'm out."
+          },
+          {
+            "stringId": "1804477986900566016",
+            "femaleVariant": "Aahh... such a shame."
+          },
+          {
+            "stringId": "1804478108736708608",
+            "femaleVariant": "It's OK – go. Nobody's going to stop you."
+          },
+          {
+            "stringId": "1804479647425519616",
+            "femaleVariant": "Gonna tell me what it is you want from me?"
+          },
+          {
+            "stringId": "1804480122556276736",
+            "femaleVariant": "Can't say the same about you."
+          },
+          {
+            "stringId": "1804487988772102144",
+            "femaleVariant": "All right. I'll go with you."
+          },
+          {
+            "stringId": "1804489174870941696",
+            "femaleVariant": "I'm not goin' anywhere."
+          },
+          {
+            "stringId": "1804491309335470080",
+            "femaleVariant": "Ugh, move it. We're running late."
+          },
+          {
+            "stringId": "1804505357384966144",
+            "femaleVariant": "Yeah. One cazh."
+          },
+          {
+            "stringId": "1812994947364184064",
+            "femaleVariant": "Loo-- I can explain, just... don't go! I... I need you."
+          },
+          {
+            "stringId": "1827265802063601664",
+            "femaleVariant": "You're insane if you think I'm getting in that car."
+          },
+          {
+            "stringId": "1827266797254500352",
+            "femaleVariant": "Haha, I just, ah... I, um... I really need you, please…"
+          },
+          {
+            "stringId": "1827266955933409280",
+            "femaleVariant": "Ugh, ditch the bitch. We gotta go.",
+            "maleVariant": "Ugh, ditch the dick. We gotta go."
+          },
+          {
+            "stringId": "1827267238830825472",
+            "femaleVariant": "No. She's coming with us. She has to.",
+            "maleVariant": "No. He's coming with us. He has to."
+          },
+          {
+            "stringId": "1827277033335971840",
+            "femaleVariant": "Aughh... Such a shame..."
+          },
+          {
+            "stringId": "1902535604594249728",
+            "femaleVariant": "Lieutenant Vasquez, NCPD! Stop right there!"
+          },
+          {
+            "stringId": "1902545920149393408",
+            "femaleVariant": "You're protecting a murderer!"
+          },
+          {
+            "stringId": "1902566478379454468",
+            "femaleVariant": "Wait!"
+          },
+          {
+            "stringId": "1938886351573192704",
+            "femaleVariant": "Drop it, or I shoot!"
+          },
+          {
+            "stringId": "1959291298781028352",
+            "femaleVariant": "Want me to come... with you?"
+          },
+          {
+            "stringId": "1959291298781028368",
+            "femaleVariant": "I'm not going anywhere."
+          },
+          {
+            "stringId": "1959291298864914432",
+            "femaleVariant": "What the hell you want from me?"
+          },
+          {
+            "stringId": "1959291298864914448",
+            "femaleVariant": "Screw this, I'm out."
+          },
+          {
+            "stringId": "1959291299083018240",
+            "femaleVariant": "Why me?"
+          },
+          {
+            "stringId": "1959291299083018256",
+            "femaleVariant": "Not about to go anywhere with you."
+          },
+          {
+            "stringId": "1959291299200458752",
+            "femaleVariant": "Got no idea what's going on here."
+          },
+          {
+            "stringId": "1959291299200458768",
+            "femaleVariant": "You're insane."
+          },
+          {
+            "stringId": "1959291299200458784",
+            "femaleVariant": "No thanks, I'm outta here."
+          },
+          {
+            "stringId": "1959291299284344832",
+            "femaleVariant": "V."
+          },
+          {
+            "stringId": "1959291299284344864",
+            "femaleVariant": "What's this about, tell me."
+          },
+          {
+            "stringId": "1959291299385008128",
+            "femaleVariant": "Bill Jablonsky."
+          },
+          {
+            "stringId": "1959291300928512000",
+            "femaleVariant": "[Get in] So be it, I'll go."
+          },
+          {
+            "stringId": "1960500864785014784",
+            "femaleVariant": "NCPD! Stop right there!"
+          },
+          {
+            "stringId": "1996611625131782144",
+            "femaleVariant": "You fucking idiot!"
+          },
+          {
+            "stringId": "2086613906903871492",
+            "femaleVariant": "[Get out]"
+          },
+          {
+            "stringId": "2218695280691605504",
+            "femaleVariant": "Bill Jablonsky. No priors, but run a deep sweep just to be sure."
+          },
+          {
+            "stringId": "2218695432105979904",
+            "femaleVariant": "This… this… what a fuckin' mess…"
+          },
+          {
+            "stringId": "2218716369232687104",
+            "femaleVariant": "Told you drop it, dickhead…"
+          },
+          {
+            "stringId": "2218716736485945344",
+            "femaleVariant": "Shoulda listened, shoulda fuckin' listened…"
+          },
+          {
+            "stringId": "2218727630821486592",
+            "femaleVariant": "We're clear to go. Boys from the precinct'll mop up here."
+          },
+          {
+            "stringId": "2218728539861381120",
+            "femaleVariant": "I'm gonna do it... I'm gonna fucking kill him!"
+          },
+          {
+            "stringId": "2218738687191379968",
+            "femaleVariant": "Olga? We've got a situation..."
+          },
+          {
+            "stringId": "2218740669838880768",
+            "femaleVariant": "Somebody just tried to drop our star."
+          },
+          {
+            "stringId": "2218741137453445120",
+            "femaleVariant": "That psycho's out hiring professionals! It was only matter of time."
+          },
+          {
+            "stringId": "2218741241606402048",
+            "femaleVariant": "'Cause he's a fucking nutcase, that's why!"
+          },
+          {
+            "stringId": "2218741738211995648",
+            "femaleVariant": "What a cunt!"
+          },
+          {
+            "stringId": "2219983097342291968",
+            "femaleVariant": "Thanks, I owe you. No patrol car and stay off the frequencies, too. Can't have this comin' back."
+          },
+          {
+            "stringId": "2221547689587601408",
+            "femaleVariant": "Out. Go. Now."
+          }
+        ]
+      }
+
+
+

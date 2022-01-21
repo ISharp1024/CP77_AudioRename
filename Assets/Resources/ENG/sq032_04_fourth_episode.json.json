@@ -1,0 +1,639 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1813916428740239364",
+            "femaleVariant": "Look. Hey, look. See that?"
+          },
+          {
+            "stringId": "1813916636224069636",
+            "femaleVariant": "Sons of bitches…"
+          },
+          {
+            "stringId": "1813916784232669184",
+            "femaleVariant": "Jesus, they really are everywhere."
+          },
+          {
+            "stringId": "1813923430308683776",
+            "femaleVariant": "Gee, aren't you funny? Look around, look what they've done to this 'hood."
+          },
+          {
+            "stringId": "1814232836967669760",
+            "femaleVariant": "No, it's the part where I say I despise petty merc-thiefs who think they're hot shit rebels after settin' foot in the Afterlife."
+          },
+          {
+            "stringId": "1867797275593957380",
+            "femaleVariant": "Arasaka killed you, too, 'member."
+          },
+          {
+            "stringId": "1867801604132462596",
+            "femaleVariant": "Got yourself killed by 'em too. An' I'd just as soon not take advice from a digital corpse."
+          },
+          {
+            "stringId": "1867801604132462608",
+            "femaleVariant": "That what they teach folks in 'Saka these days? To shut down, cut power the moment truth looks 'em in the eye?"
+          },
+          {
+            "stringId": "1867803431506829316",
+            "femaleVariant": "Know what? 'Fraid I don't got time for chit-chat."
+          },
+          {
+            "stringId": "1867803431506829328",
+            "femaleVariant": "You lack the cred, you lack the gusto – that's your problem.",
+            "maleVariant": "Lackin' the balls, that's your problem."
+          },
+          {
+            "stringId": "1867803431506829344",
+            "femaleVariant": "Got exactly no rep in this town and the chooms to match."
+          },
+          {
+            "stringId": "1867803623018749956",
+            "femaleVariant": "Whatever you gotta say – say it. Got somethin' eatin' at your code, that's clear."
+          },
+          {
+            "stringId": "1867803623035527172",
+            "femaleVariant": "Been tryin' to learn how you're wired this whole time. To know who I'm dealin' with."
+          },
+          {
+            "stringId": "1867803623035527200",
+            "femaleVariant": "Thought you were just unlucky at first. But I kept watchin' and finally realized what your problem is."
+          },
+          {
+            "stringId": "1867808446703230976",
+            "femaleVariant": "[Sit] Seem to know a lot about my past."
+          },
+          {
+            "stringId": "1867808861184352260",
+            "femaleVariant": "Sure seem to know a lot about my past."
+          },
+          {
+            "stringId": "1867808861184352272",
+            "femaleVariant": "Well, seen flashes of your past, just like you've seen flashes of mine."
+          },
+          {
+            "stringId": "1867822643952508928",
+            "femaleVariant": "Scared I'll lose myself, stop being me."
+          },
+          {
+            "stringId": "1867822643952508944",
+            "femaleVariant": "That pisses me off."
+          },
+          {
+            "stringId": "1867876421422571524",
+            "femaleVariant": "Pisses me off that our memories blend, don't have my own anymore. Chip's the worst thing to ever fuckin' happen to me."
+          },
+          {
+            "stringId": "1867876421439348736",
+            "femaleVariant": "Mean to say I haven't earned the top spot yet?"
+          },
+          {
+            "stringId": "1867876421439348748",
+            "femaleVariant": "An arrogant asshole's no small problem, but it ain't my biggest. Dyin' is."
+          },
+          {
+            "stringId": "1867876421439348760",
+            "femaleVariant": "Death by becoming someone else... You didn't do anything to deserve that fate."
+          },
+          {
+            "stringId": "1867876578742525956",
+            "femaleVariant": "You're a dick, y'know."
+          },
+          {
+            "stringId": "1867876578759303176",
+            "femaleVariant": "And you're a cunt. Maybe we'll fit together after all?"
+          },
+          {
+            "stringId": "1867876737639538692",
+            "femaleVariant": "Honestly, I'm scared of the day I'll start seeing your memories as my own."
+          },
+          {
+            "stringId": "1867876737639538704",
+            "femaleVariant": "Shit, if it's a two-way street, I'll somehow have to live with the fact that I let DeShawn best me, fuck me over."
+          },
+          {
+            "stringId": "1867876737639538716",
+            "femaleVariant": "Listen, will I notice the change? Or, is it one of those things where I'll wonder why I ever feared it?",
+            "maleVariant": "So listen, will-- will I notice a change? Or, is it one of those things where I'll wonder why I ever feared it?"
+          },
+          {
+            "stringId": "1867876737656315904",
+            "femaleVariant": "Worst thing you can do to a human – rip their identity out of 'em. That's all I know."
+          },
+          {
+            "stringId": "1867877243137056768",
+            "femaleVariant": "What do you want from me, really?"
+          },
+          {
+            "stringId": "1867877520145670144",
+            "femaleVariant": "What's it like, bein' in someone else's head?"
+          },
+          {
+            "stringId": "1867877520145670160",
+            "femaleVariant": "[End convo] Don't need your sympathy."
+          },
+          {
+            "stringId": "1867877778112143364",
+            "femaleVariant": "Can you just tell me what you want? What you really want?"
+          },
+          {
+            "stringId": "1867877778128920584",
+            "femaleVariant": "Help me settle my score against Arasaka. That's it."
+          },
+          {
+            "stringId": "1867877984270573572",
+            "femaleVariant": "My memories – what do they… feel like?"
+          },
+          {
+            "stringId": "1867877984287350792",
+            "femaleVariant": "Not followin' ya."
+          },
+          {
+            "stringId": "1867877984287350804",
+            "femaleVariant": "Aside from what you see and hear, I mean. You processs or experience any feelings?"
+          },
+          {
+            "stringId": "1867877984287350816",
+            "femaleVariant": "Anger, regret, bitterness, fear. Though honestly, can't tell if they're yours or mine."
+          },
+          {
+            "stringId": "1867882978965217300",
+            "femaleVariant": "How you find life under my skin?"
+          },
+          {
+            "stringId": "1867882978965217312",
+            "femaleVariant": "Well, most things're either too big or too small. Not to mention the clusterfuck that're your hormones."
+          },
+          {
+            "stringId": "1867883393513447428",
+            "femaleVariant": "Don't need your sympathy."
+          },
+          {
+            "stringId": "1867883393530224648",
+            "femaleVariant": "You fuckin' gonk! I'm tryin' to help you!"
+          },
+          {
+            "stringId": "1867883393530224660",
+            "femaleVariant": "You afraid of death?"
+          },
+          {
+            "stringId": "1867883393530224672",
+            "femaleVariant": "I'm afraid of wasted opportunities."
+          },
+          {
+            "stringId": "1867883393547001856",
+            "femaleVariant": "Like Arasaka Tower?"
+          },
+          {
+            "stringId": "1867883393547001868",
+            "femaleVariant": "Came through it, as you can see. And I ain't done with them yet."
+          },
+          {
+            "stringId": "1867883730651602944",
+            "femaleVariant": "Incapable of sitting still, letting anything go, aren't you."
+          },
+          {
+            "stringId": "1867883730668380160",
+            "femaleVariant": "You got no idea what you want."
+          },
+          {
+            "stringId": "1867884570082828292",
+            "femaleVariant": "Not having control – you can't stand it. Seeing some things're outta your hands…"
+          },
+          {
+            "stringId": "1867884570099605504",
+            "femaleVariant": "Don't be ridiculous, V."
+          },
+          {
+            "stringId": "1867887071230189572",
+            "femaleVariant": "Let's cut this juvenile bullshit."
+          },
+          {
+            "stringId": "1867887071230189584",
+            "femaleVariant": "I'm just tryin' to help you!"
+          },
+          {
+            "stringId": "1869149005199990784",
+            "femaleVariant": "It's a TV. Didn't have those fifty years ago?"
+          },
+          {
+            "stringId": "1869149324369747968",
+            "femaleVariant": "Like jokes, think it's funny? Look around – used to be crops in all directions... till the corps started fucking the farmers silly."
+          },
+          {
+            "stringId": "1869150967479951360",
+            "femaleVariant": "And you really are paranoid."
+          },
+          {
+            "stringId": "1869151271365664768",
+            "femaleVariant": "You don't see it? Way corps are strippin' our world and lives naked, piece by piece? Can't turn a blind eye to that."
+          },
+          {
+            "stringId": "1869152073719242752",
+            "femaleVariant": "This the part where you divulge your master plan to annihilate Arasaka?"
+          },
+          {
+            "stringId": "1869156824758378496",
+            "femaleVariant": "Piss off."
+          },
+          {
+            "stringId": "1869157901419438080",
+            "femaleVariant": "What the fuck you want – just tell me."
+          },
+          {
+            "stringId": "1869161927666065408",
+            "femaleVariant": "Says the most inept terrorist in human history. Need I remind you how you let Arasaka crush your soul and put you here?"
+          },
+          {
+            "stringId": "1869163013034500096",
+            "femaleVariant": "Hah! I brought war to their doorstep, kid. Your grand plan? To steal their fuckin' car."
+          },
+          {
+            "stringId": "1869164514243010560",
+            "femaleVariant": "A nomad could never understand what it means to fight for this city, die for it."
+          },
+          {
+            "stringId": "1869175938839240704",
+            "femaleVariant": "Ain't the only one to get flatlined by 'Saka. 'Cept I didn't let them scoop out my mind, digilock it in a trinket.",
+            "maleVariant": "Ain't the only one to get flatlined by 'Saka. 'Cept I didn't let 'em scoop out my mind, digilock it in a trinket."
+          },
+          {
+            "stringId": "1869184056545533952",
+            "femaleVariant": "Still got better prospects than a carbon-copy ghost of a washed-up rockerboy locked in a trinket."
+          },
+          {
+            "stringId": "1869185640599937024",
+            "femaleVariant": "Your last \"prospect\" was to net some eddies on a stolen biochip. Remember how that went?"
+          },
+          {
+            "stringId": "1869193201000669184",
+            "femaleVariant": "Always been a corpocog, a replaceable part."
+          },
+          {
+            "stringId": "1869193369527803904",
+            "femaleVariant": "You were a kid from the Badlands, family was your crutch and cushion."
+          },
+          {
+            "stringId": "1869193548154822656",
+            "femaleVariant": "You're a dirtgirl from Heywood who found the guts to walk a few extra blocks from home.",
+            "maleVariant": "You're a dirtboy from Heywood who found the guts to walk a few extra blocks from home."
+          },
+          {
+            "stringId": "1869195665724694528",
+            "femaleVariant": "Once 'Saka booted you out, stripped you of perks, best you could hope for was to be a scav exterminator."
+          },
+          {
+            "stringId": "1869197027464208384",
+            "femaleVariant": "But in NC you're nobody, best you can do is steal from scavs – the merc janitors."
+          },
+          {
+            "stringId": "1869233101515284480",
+            "femaleVariant": "But turned out the best you can do is chase scavs for ennies."
+          },
+          {
+            "stringId": "1869269295204687872",
+            "femaleVariant": "And the lag between sight and touch – infuriating. When you take a bite of pizza, takes ages before I know you fuckin' burned the roof of your mouth."
+          },
+          {
+            "stringId": "1869270972641075200",
+            "femaleVariant": "Plus, used to be five minutes wouldn't pass 'fore I had a fresh cig in my hand, now I'm itchin' for nicotine."
+          },
+          {
+            "stringId": "1869274334275067904",
+            "femaleVariant": "Gettin' used to it, I guess, but its' no fuckin' picnic."
+          },
+          {
+            "stringId": "1911515621115846656",
+            "femaleVariant": "An enemy – you need to have one at all times."
+          },
+          {
+            "stringId": "1911517157774614528",
+            "femaleVariant": "Know what? Seems to me you need to have a nemesis, at all times."
+          },
+          {
+            "stringId": "1911517756016582656",
+            "femaleVariant": "Ideally a crazy powerful one to feed your ego… and they've gotta be pratically unbeatable – to justify a suicide run."
+          },
+          {
+            "stringId": "1911518220393144320",
+            "femaleVariant": "Heh. You're funny."
+          },
+          {
+            "stringId": "1911518741426364416",
+            "femaleVariant": "Actually, that's what I am, that kind of nemesis – I'll decide your fate, fuck all you can do.",
+            "maleVariant": "Actually, that's what I am, that kind of nemesis – I'll decide your fate, and there's fuck all you can do."
+          },
+          {
+            "stringId": "1927170022239318020",
+            "femaleVariant": "Whup – another speech about demolishing Arasaka incoming."
+          },
+          {
+            "stringId": "1927170936564035584",
+            "femaleVariant": "Not up for this discussion."
+          },
+          {
+            "stringId": "1927171184027971584",
+            "femaleVariant": "Why're we talkin' about this?"
+          },
+          {
+            "stringId": "1927251424083390464",
+            "femaleVariant": "Where you headin' off to?!"
+          },
+          {
+            "stringId": "1927455427866079232",
+            "femaleVariant": "The moment when I turn into you – will I notice it?"
+          },
+          {
+            "stringId": "1927469805336211456",
+            "femaleVariant": "How's life in my body?"
+          },
+          {
+            "stringId": "1927544599826083840",
+            "femaleVariant": "You afraid of death?"
+          },
+          {
+            "stringId": "1948704099670712320",
+            "femaleVariant": "You watchin' a story on the Arasakas or narrating porn…?"
+          },
+          {
+            "stringId": "1948787588902445056",
+            "femaleVariant": "Might think you took on Arasaka, but you're just a bug they scraped off the sole of their boot and tossed in the trash."
+          },
+          {
+            "stringId": "1949254606365679616",
+            "femaleVariant": "Why can't you just leave me alone?"
+          },
+          {
+            "stringId": "1949313415759028224",
+            "femaleVariant": "As I see it, you don't know what you really want, so you concocted a bogeyman to fight – Arasaka."
+          },
+          {
+            "stringId": "1949325025726717952",
+            "femaleVariant": "Got a clear goal. Like I do."
+          },
+          {
+            "stringId": "1949327220287234048",
+            "femaleVariant": "Don't think I care. What does interest me is why you're a clingy creep."
+          },
+          {
+            "stringId": "1949342221567811584",
+            "femaleVariant": "Your goal's to bury Arasaka, demolish it. Mine's to stay above ground. Seem pretty clearly defined, both."
+          },
+          {
+            "stringId": "1949345169140113408",
+            "femaleVariant": "Whole world used to revolve around Silverhand. Now, no one gives a shit."
+          },
+          {
+            "stringId": "1949355607252819968",
+            "femaleVariant": "Heh. You're funny."
+          },
+          {
+            "stringId": "1949355925063622656",
+            "femaleVariant": "Got a new life, you did, but you got exactly no idea what to do with it."
+          },
+          {
+            "stringId": "1949357846004523008",
+            "femaleVariant": "Honestly, don't differ a bit from those poor bastards handcuffed to the feeders in their megablock pads."
+          },
+          {
+            "stringId": "1949359773354319872",
+            "femaleVariant": "OK, I'll tell ya why I wanna destroy Arasaka, but I'll only tell ya once. Wanna hear it?"
+          },
+          {
+            "stringId": "1949362426603921412",
+            "femaleVariant": "Yeah."
+          },
+          {
+            "stringId": "1949362584645296128",
+            "femaleVariant": "[End convo] Hmm... No."
+          },
+          {
+            "stringId": "1949362736596541440",
+            "femaleVariant": "All right."
+          },
+          {
+            "stringId": "1949362810718281728",
+            "femaleVariant": "Uh, no – not interested.",
+            "maleVariant": "Ehhh, nah – not interested."
+          },
+          {
+            "stringId": "1949368890747805696",
+            "femaleVariant": "I saw corps strip farmers of water... and eventually of land."
+          },
+          {
+            "stringId": "1949373863011311616",
+            "femaleVariant": "Don't need your help, either!"
+          },
+          {
+            "stringId": "1949374227831873536",
+            "femaleVariant": "Back to your cell, Johnny. Time's up."
+          },
+          {
+            "stringId": "1949375411061809152",
+            "femaleVariant": "I neither want nor do I need your help.",
+            "maleVariant": "Well, I neither want nor do I need your help."
+          },
+          {
+            "stringId": "1949375817506643968",
+            "femaleVariant": "Just go – had enough of you…"
+          },
+          {
+            "stringId": "1949378856783208448",
+            "femaleVariant": "Gotta go. Hang in there, bud."
+          },
+          {
+            "stringId": "1949382442829242368",
+            "femaleVariant": "Actually align pretty nicely, too. You need Mikoshi to save your life – that done, I can burn it to the ground."
+          },
+          {
+            "stringId": "1949383517930020864",
+            "femaleVariant": "Ah, there it is – the crusade. Get to Mikoshi, smash the System.",
+            "maleVariant": "And there it is – the crusade. Get to Mikoshi, smash the System."
+          },
+          {
+            "stringId": "1949396936045387776",
+            "femaleVariant": "Saw them transform Night City into a machine fueled by people's crushed spirits, broken dreams and emptied pockets."
+          },
+          {
+            "stringId": "1953187046008315904",
+            "femaleVariant": "Corps've long controlled our lives, taken lots... and now they're after our souls!"
+          },
+          {
+            "stringId": "1953696401145225220",
+            "femaleVariant": "Damn straight."
+          },
+          {
+            "stringId": "1953696524961079296",
+            "femaleVariant": "Don't exaggerate."
+          },
+          {
+            "stringId": "1953696599787462656",
+            "femaleVariant": "Might be right, can't really argue with you there."
+          },
+          {
+            "stringId": "1953696690837413888",
+            "femaleVariant": "C'mon, don't exaggerate."
+          },
+          {
+            "stringId": "1953702887300816896",
+            "femaleVariant": "V, I've declared war not 'cause capitalism's a thorn in my side or outta nostalgia for an America gone by."
+          },
+          {
+            "stringId": "1953708288104751104",
+            "femaleVariant": "This war's a people's war against a system that's spiralled outta our control. It's a war against the fuckin' forces of entropy, understand?!"
+          },
+          {
+            "stringId": "1953714988002074624",
+            "femaleVariant": "Johnny, take a sec, we gotta--"
+          },
+          {
+            "stringId": "1953715769954557952",
+            "femaleVariant": "You still don't see it. But you will one day."
+          },
+          {
+            "stringId": "1953718580960321536",
+            "femaleVariant": "Do whatever it takes to stop 'em, defeat 'em, gut 'em. If I gotta kill, I'll kill. If I need your body, I'll fuckin' take it!"
+          },
+          {
+            "stringId": "1953720328240259072",
+            "femaleVariant": "Johnny..."
+          },
+          {
+            "stringId": "1954646283813150720",
+            "femaleVariant": "I think we can work together, V."
+          },
+          {
+            "stringId": "1954646420430020608",
+            "femaleVariant": "But your plans make no sense. Destroy Arasaka? I don't even know what that means.",
+            "maleVariant": "But your plan makes no sense. Destroy Arasaka? I-- I don't even know what that means."
+          },
+          {
+            "stringId": "1954648710989766656",
+            "femaleVariant": "All in good time."
+          },
+          {
+            "stringId": "1957568895006564352",
+            "femaleVariant": "Fuck those cunts…"
+          },
+          {
+            "stringId": "1957604208747765760",
+            "femaleVariant": "See that? Fuck me, just look at that."
+          },
+          {
+            "stringId": "1957605376441999360",
+            "femaleVariant": "Just take a look! Get what I mean now?"
+          },
+          {
+            "stringId": "1957627679200534528",
+            "femaleVariant": "Turnin' your back on the problem, again?!"
+          },
+          {
+            "stringId": "1957628159431565312",
+            "femaleVariant": "Gonna leave me, drop me, forget me like you did Jackie Welles?!"
+          },
+          {
+            "stringId": "1957630700760358912",
+            "femaleVariant": "You fuckin' pitiful petty klepper!"
+          },
+          {
+            "stringId": "1965101554514067456",
+            "femaleVariant": "Let's blow, get outta here…"
+          },
+          {
+            "stringId": "1965113673804480516",
+            "femaleVariant": "Johnny..."
+          },
+          {
+            "stringId": "1974599145618092032",
+            "femaleVariant": "Fuckin' leprous Arasaka again?"
+          },
+          {
+            "stringId": "1974694226010255364",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2038691136727101456",
+            "femaleVariant": "[End convo] Not in the mood for your cheap psychoanalysis."
+          },
+          {
+            "stringId": "2038691136743878656",
+            "femaleVariant": "You're the worst kind of asshole."
+          },
+          {
+            "stringId": "2039126618090975232",
+            "femaleVariant": "Least I'm still allive."
+          },
+          {
+            "stringId": "2049188448075198468",
+            "femaleVariant": "You've become no one – makes you anxious as fuck."
+          },
+          {
+            "stringId": "2049197202711719936",
+            "femaleVariant": "[End convo] Had enough of this spat."
+          },
+          {
+            "stringId": "2134901960272982016",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2134921321146691584",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2134923345049366528",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2139096048031444992",
+            "femaleVariant": "Though not ideal, I'm a nemesis to you, too."
+          },
+          {
+            "stringId": "2139096048048222208",
+            "femaleVariant": "[End convo] OK, end of topic."
+          },
+          {
+            "stringId": "2139121533327192064",
+            "femaleVariant": "Got no idea who you are, what you're supposed to do."
+          },
+          {
+            "stringId": "2139121533327192080",
+            "femaleVariant": "[End convo] OK, done enough tongue flapping."
+          },
+          {
+            "stringId": "2139121743797366784",
+            "femaleVariant": "Man, do you go around in circles…"
+          },
+          {
+            "stringId": "2139121743797366800",
+            "femaleVariant": "[End convo] Heard enough. I'm tired."
+          },
+          {
+            "stringId": "2169476719585210368",
+            "femaleVariant": "Paranoid – that's what you are."
+          },
+          {
+            "stringId": "2169476977081921536",
+            "femaleVariant": "It's a fucking video feed. Chill."
+          },
+          {
+            "stringId": "2180810862947639300",
+            "femaleVariant": "[End convo] Toodles…"
+          }
+        ]
+      }
+
+
+

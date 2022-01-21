@@ -1,0 +1,229 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1692469337170497536",
+            "femaleVariant": "Hello, we haven't met. I'm Elizabeth."
+          },
+          {
+            "stringId": "1692471575301443584",
+            "femaleVariant": "My husband and I, we need a somewhat delicate matter... handled. We think you could help."
+          },
+          {
+            "stringId": "1698336762961186816",
+            "femaleVariant": "This is Ward. Who'm I talkin' to?"
+          },
+          {
+            "stringId": "1698337584054915072",
+            "femaleVariant": "Name's V. Lookin' into the death of one Lucius Rhyne."
+          },
+          {
+            "stringId": "1698340385984204800",
+            "femaleVariant": "Wonder why… You're not a cop."
+          },
+          {
+            "stringId": "1699864349030076416",
+            "femaleVariant": "So, about Rhyne – got a pretty good idea what happened."
+          },
+          {
+            "stringId": "1699865822136750080",
+            "femaleVariant": "Great. Come by, please. It's a sensitive matter, I'd rather discuss it face to face."
+          },
+          {
+            "stringId": "1811388777152237572",
+            "femaleVariant": "Why call me of all people?"
+          },
+          {
+            "stringId": "1811390129546842112",
+            "femaleVariant": "Why call me of all people? Any particular reason?"
+          },
+          {
+            "stringId": "1811390764530913280",
+            "femaleVariant": "Can't commit just now. Busy like I've never been. It'd be unwise."
+          },
+          {
+            "stringId": "1811392118250917888",
+            "femaleVariant": "V. I'm glad you called back."
+          },
+          {
+            "stringId": "1892554973396033540",
+            "femaleVariant": "Yep. Let's meet."
+          },
+          {
+            "stringId": "1893669675165507584",
+            "femaleVariant": "Your husband – who is he?"
+          },
+          {
+            "stringId": "1893757636917813248",
+            "femaleVariant": "What's this about?"
+          },
+          {
+            "stringId": "1893829476470185984",
+            "femaleVariant": "Nope. Got no time now, too busy."
+          },
+          {
+            "stringId": "1893850605410803712",
+            "femaleVariant": "What's so delicate about the matter?"
+          },
+          {
+            "stringId": "1893851792180731904",
+            "femaleVariant": "Mind my askin' who your husband is? Actually... who're you?"
+          },
+          {
+            "stringId": "1893852004395737088",
+            "femaleVariant": "Sure. Let's do that."
+          },
+          {
+            "stringId": "1893887746207604736",
+            "femaleVariant": "I'd rather not discuss details over the phone. Please, meet with us. We'll explain everything."
+          },
+          {
+            "stringId": "1893889853761478656",
+            "femaleVariant": "You came recommended."
+          },
+          {
+            "stringId": "1893890480692486144",
+            "femaleVariant": "I'd rather not say, not over the phone. Is there any way we could meet, discuss some details?"
+          },
+          {
+            "stringId": "1893897678621466624",
+            "femaleVariant": "As I said, it's a rather delicate matter."
+          },
+          {
+            "stringId": "1893901033326469120",
+            "femaleVariant": "I'd rather discuss that in person, if you don't mind."
+          },
+          {
+            "stringId": "1893901989929771008",
+            "femaleVariant": "Can we meet?"
+          },
+          {
+            "stringId": "1893917909444157440",
+            "femaleVariant": "I'll send you the address. See you."
+          },
+          {
+            "stringId": "1893957585009860608",
+            "femaleVariant": "I see... Well, I shouldn't discount the urgency, but I guess we could wait a couple more days. We'd really rather work with you."
+          },
+          {
+            "stringId": "1893958390618218496",
+            "femaleVariant": "Try to squeeze us in and give me a call."
+          },
+          {
+            "stringId": "1893965370141401088",
+            "femaleVariant": "I really hoped you'd see the sense of it. I assume you're ready now to meet, talk about the job?"
+          },
+          {
+            "stringId": "1893982585460842496",
+            "femaleVariant": "We'll be waiting."
+          },
+          {
+            "stringId": "1893985781453381636",
+            "femaleVariant": "Workin' for the Peralezes."
+          },
+          {
+            "stringId": "1894000523425308672",
+            "femaleVariant": "Conductin' a private investigation."
+          },
+          {
+            "stringId": "1894000820130373632",
+            "femaleVariant": "I know you tried to warn the mayor."
+          },
+          {
+            "stringId": "1894004565643845632",
+            "femaleVariant": "Jefferson and Elizabeth Peralez hired me to do it."
+          },
+          {
+            "stringId": "1894004587689107456",
+            "femaleVariant": "I'm conductin' a private investigation into this... matter.",
+            "maleVariant": "I'm conducting a private investigation into this... matter."
+          },
+          {
+            "stringId": "1894004607016460288",
+            "femaleVariant": "Listen, I know you tried to warn Rhyne about the cyberpsycho."
+          },
+          {
+            "stringId": "1894016676428210176",
+            "femaleVariant": "All right. I'm headed to Chubby Buffalo's."
+          },
+          {
+            "stringId": "1894020900545323008",
+            "femaleVariant": "Be there stat."
+          },
+          {
+            "stringId": "1894034385132019712",
+            "femaleVariant": "Presumptive mayor sniffing around his predecessor's untimely death? Interesting."
+          },
+          {
+            "stringId": "1894037550791352320",
+            "femaleVariant": "Done some digging, got more intel. Also interesting."
+          },
+          {
+            "stringId": "1894041451896725504",
+            "femaleVariant": "What else do you know?"
+          },
+          {
+            "stringId": "1894041711943573504",
+            "femaleVariant": "That you'd best meet with me.",
+            "maleVariant": "Eh, that you'd best meet with me."
+          },
+          {
+            "stringId": "1894044059428413440",
+            "femaleVariant": "Good luck with that. And do me a favor – lose this number. I like PIs about as much as I like the scop at Caliente."
+          },
+          {
+            "stringId": "1894047806787379204",
+            "femaleVariant": "I'm no PI."
+          },
+          {
+            "stringId": "1894049398374752256",
+            "femaleVariant": "Cops and PIs work together all the time."
+          },
+          {
+            "stringId": "1894060060983386112",
+            "femaleVariant": "I'm no private eye."
+          },
+          {
+            "stringId": "1894074500797652992",
+            "femaleVariant": "Thought private-Is worked with cops all the time. And vice versa."
+          },
+          {
+            "stringId": "1894075499025227776",
+            "femaleVariant": "So what are you?"
+          },
+          {
+            "stringId": "1894081305250586624",
+            "femaleVariant": "Well, they do, all the time. In New Hollywood."
+          },
+          {
+            "stringId": "1894083993044475904",
+            "femaleVariant": "So, since you're not a dick – who are you?"
+          },
+          {
+            "stringId": "1894085834461372416",
+            "femaleVariant": "Meet me. You'll find out.",
+            "maleVariant": "Meet me, you'll find out."
+          },
+          {
+            "stringId": "1944748168821039104",
+            "femaleVariant": "Yeah, who by?"
+          }
+        ]
+      }
+
+
+

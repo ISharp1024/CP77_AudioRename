@@ -1,0 +1,394 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1525796529043914752",
+            "femaleVariant": "Have you ever heard of Jotaro Shobo? He's one of the T-Claws."
+          },
+          {
+            "stringId": "1525798238457675776",
+            "femaleVariant": "What's got you all glum?"
+          },
+          {
+            "stringId": "1525798419282509824",
+            "femaleVariant": "You hear about Riko Jinsey?"
+          },
+          {
+            "stringId": "1615741462198075392",
+            "femaleVariant": "Second floor is for VIP customers only."
+          },
+          {
+            "stringId": "1615760056671780864",
+            "femaleVariant": "As establishments fucked sideways go, this one takes the whole damn pie."
+          },
+          {
+            "stringId": "1618563197527875584",
+            "femaleVariant": "Hear that?"
+          },
+          {
+            "stringId": "1619761064661704704",
+            "femaleVariant": "Yeah, I've heard. A fuckin' psycho. Likes to hurt people."
+          },
+          {
+            "stringId": "1619761422570053632",
+            "femaleVariant": "Not anymore. Apparently he died."
+          },
+          {
+            "stringId": "1619761624483848192",
+            "femaleVariant": "He finally pop a bullet in his brain after seein' himself in the mirror?"
+          },
+          {
+            "stringId": "1619762211417972736",
+            "femaleVariant": "If only... No, I heard the Mox had him on their blacklist."
+          },
+          {
+            "stringId": "1619769007851397120",
+            "femaleVariant": "Some girls marked him for death."
+          },
+          {
+            "stringId": "1619773420812853248",
+            "femaleVariant": "Have you ever heard of Jotaro Shobo? He's one of the T-Claws."
+          },
+          {
+            "stringId": "1619773420829630468",
+            "femaleVariant": "Yeah, I've heard. A fuckin' psycho. Likes to hurt people."
+          },
+          {
+            "stringId": "1619773420829630480",
+            "femaleVariant": "The Mox have him on their blacklist. Some girls marked him for death."
+          },
+          {
+            "stringId": "1619773420829630492",
+            "femaleVariant": "Well that's all pudding, honey, but so what? Assholes like Shobo've been on MY blacklist before I heard of 'em."
+          },
+          {
+            "stringId": "1619773420829630504",
+            "femaleVariant": "The Mox blacklist is more powerful. It actually means something."
+          },
+          {
+            "stringId": "1619773420829630516",
+            "femaleVariant": "I'll believe it when I see his rotting, stinking corpse."
+          },
+          {
+            "stringId": "1619773420846407688",
+            "femaleVariant": "Amen to that."
+          },
+          {
+            "stringId": "1619791651959169024",
+            "femaleVariant": "I saw Mr. J today."
+          },
+          {
+            "stringId": "1619794879710978048",
+            "femaleVariant": "Thought you liked him. Thought he was your beau."
+          },
+          {
+            "stringId": "1619795065954852864",
+            "femaleVariant": "He is... but he didn't come to see me."
+          },
+          {
+            "stringId": "1624482211630374912",
+            "femaleVariant": "No. Is she related to that politician-or-whatever, that Natsuko?"
+          },
+          {
+            "stringId": "1624482850473205760",
+            "femaleVariant": "Mh. Riko was her daughter. Found her dead."
+          },
+          {
+            "stringId": "1624483012121681920",
+            "femaleVariant": "Oooh. What happened?"
+          },
+          {
+            "stringId": "1624483721680478208",
+            "femaleVariant": "Yoshi Wakinoto happened, that's what. Murdered her."
+          },
+          {
+            "stringId": "1624484620201058304",
+            "femaleVariant": "And he would be...?"
+          },
+          {
+            "stringId": "1624484730444144640",
+            "femaleVariant": "Her input. You spend ANY time in realspace?"
+          },
+          {
+            "stringId": "1624484994685296640",
+            "femaleVariant": "A T-Claw. Saw 'em here once, came in together. Chrome like that I've never seen, on anyone."
+          },
+          {
+            "stringId": "1624489523745087488",
+            "femaleVariant": "Could tell by the way he looked at her, he was butter in her hands…"
+          },
+          {
+            "stringId": "1624490413692510208",
+            "femaleVariant": "So why did he kill her?"
+          },
+          {
+            "stringId": "1624490751468199936",
+            "femaleVariant": "The one question I don't have an answer for…"
+          },
+          {
+            "stringId": "1670509826916704256",
+            "femaleVariant": "Told you, that's how it is with this crowd. You can't get too close. Trust me – the more you treat 'em like shit, the more they'll come back."
+          },
+          {
+            "stringId": "1670727862223618048",
+            "femaleVariant": "What will you have?"
+          },
+          {
+            "stringId": "1670728825235816452",
+            "femaleVariant": "Got a house special?"
+          },
+          {
+            "stringId": "1670731118630912000",
+            "femaleVariant": "Got a house special, I'll take it."
+          },
+          {
+            "stringId": "1670742664106983424",
+            "femaleVariant": "You really think they remember nothing?"
+          },
+          {
+            "stringId": "1670761803018125312",
+            "femaleVariant": "Anything. Whatever stands to fuck me up the quickest."
+          },
+          {
+            "stringId": "1670816995562471424",
+            "femaleVariant": "What do you mean, exactly?"
+          },
+          {
+            "stringId": "1692444040515772416",
+            "femaleVariant": "Hard day?"
+          },
+          {
+            "stringId": "1692444271840026624",
+            "femaleVariant": "More like hard life."
+          },
+          {
+            "stringId": "1692466260461969408",
+            "femaleVariant": "That's the whole point. They're not supposed to remember, not a smidge."
+          },
+          {
+            "stringId": "1692469135070158848",
+            "femaleVariant": "So why, every time, do they restart the conversation where we left off? That's not remembering?"
+          },
+          {
+            "stringId": "1692470261123342336",
+            "femaleVariant": "It's saved to the doll-chips that store their personas."
+          },
+          {
+            "stringId": "1692475894610485248",
+            "femaleVariant": "Hold on, reel back a sec... You talk to them? Like, talk-talk?"
+          },
+          {
+            "stringId": "1692514796008333312",
+            "femaleVariant": "Top-shelf. Lookin' to put the edge on, not take it off."
+          },
+          {
+            "stringId": "1692518474798817280",
+            "femaleVariant": "It depends what you like."
+          },
+          {
+            "stringId": "1692594269076545536",
+            "femaleVariant": "Go with your gut. Surprise me."
+          },
+          {
+            "stringId": "1703935664427278336",
+            "femaleVariant": "I can't get in? What's that mean? I'm here every motherfuckin' week!"
+          },
+          {
+            "stringId": "1703936865726275584",
+            "femaleVariant": "You're not authorized to access the VIP area."
+          },
+          {
+            "stringId": "1703937217812930560",
+            "femaleVariant": "You can take it up with the manager."
+          },
+          {
+            "stringId": "1703939237168979968",
+            "femaleVariant": "Oh yes, I am."
+          },
+          {
+            "stringId": "1703942849387470848",
+            "femaleVariant": "Is there a problem?"
+          },
+          {
+            "stringId": "1703944390626418688",
+            "femaleVariant": "No shortage of wise-asses."
+          },
+          {
+            "stringId": "1703953276863422464",
+            "femaleVariant": "This gonk don't understand that I've got a right to be in there."
+          },
+          {
+            "stringId": "1703955167420784640",
+            "femaleVariant": "From what I can see, your VIP membership has been revoked."
+          },
+          {
+            "stringId": "1703955504139509760",
+            "femaleVariant": "Please stay calm, sir. Or we gonna have to escort you outside."
+          },
+          {
+            "stringId": "1703966559704096768",
+            "femaleVariant": "I'll say. You going back upstairs?"
+          },
+          {
+            "stringId": "1703971128207122432",
+            "femaleVariant": "In a minute. Need to piss, first."
+          },
+          {
+            "stringId": "1704102763518926848",
+            "femaleVariant": "Hold it there, honey. You seem to be in the wrong place."
+          },
+          {
+            "stringId": "1704104249678274560",
+            "femaleVariant": "Did you not hear? You need to leave."
+          },
+          {
+            "stringId": "1704114116660994048",
+            "femaleVariant": "Hey, no peeking! Bad luck, seein' us like this."
+          },
+          {
+            "stringId": "1704151411908845568",
+            "femaleVariant": "The fuck am I lookin' at?"
+          },
+          {
+            "stringId": "1704153018495049728",
+            "femaleVariant": "Is this some kind of joke?"
+          },
+          {
+            "stringId": "1704159353924132864",
+            "femaleVariant": "Not bad. But it would be much better real. I would eat those thighs."
+          },
+          {
+            "stringId": "1704159794376384512",
+            "femaleVariant": "At least I would hear no laments about pain. It hurts, it hurts."
+          },
+          {
+            "stringId": "1704163399414226944",
+            "femaleVariant": "What's going on?"
+          },
+          {
+            "stringId": "1704165723897503744",
+            "femaleVariant": "What do you mean, real? She's all ones and zeroes."
+          },
+          {
+            "stringId": "1704167130516070400",
+            "femaleVariant": "Do you mean I can ask her to do anything? Literally anything?"
+          },
+          {
+            "stringId": "1704168427747188736",
+            "femaleVariant": "It's a ho-lo-gram. What's so hard to get?"
+          },
+          {
+            "stringId": "1704169342189346816",
+            "femaleVariant": "Your fuckin' holo's fuckin' with us!"
+          },
+          {
+            "stringId": "1704169924056752128",
+            "femaleVariant": "Is that so? The hologram...?"
+          },
+          {
+            "stringId": "1704170093959618560",
+            "femaleVariant": "This is unacceptable."
+          },
+          {
+            "stringId": "1704170434788761600",
+            "femaleVariant": "Please, sir, calm down."
+          },
+          {
+            "stringId": "1704170691530498048",
+            "femaleVariant": "Yeah, just stand there. That will fix it."
+          },
+          {
+            "stringId": "1712852739163512832",
+            "femaleVariant": "Would've had more choices if I didn't have a certain brain parasite."
+          },
+          {
+            "stringId": "1712942415429853184",
+            "femaleVariant": "Guess that makes you a real deviant."
+          },
+          {
+            "stringId": "1714001857326522368",
+            "femaleVariant": "May I see your credentials?"
+          },
+          {
+            "stringId": "1742911230804975616",
+            "femaleVariant": "I'm calling security."
+          },
+          {
+            "stringId": "1742915178282573824",
+            "femaleVariant": "No, sir, you're not."
+          },
+          {
+            "stringId": "1742918635144044544",
+            "femaleVariant": "No, dawg, I'm takin' it up with you, here , now. You got any idea who I am?"
+          },
+          {
+            "stringId": "1742939898403053568",
+            "femaleVariant": "Say what, now?"
+          },
+          {
+            "stringId": "1743139042447024128",
+            "femaleVariant": "Ask? It's not about askin', man. Just gotta be programmed."
+          },
+          {
+            "stringId": "1743199771858526208",
+            "femaleVariant": "Let me have my fantasies!"
+          },
+          {
+            "stringId": "1743202766943903744",
+            "femaleVariant": "Not like you know how to hack it, so why don't we just shut up and enjoy the show?"
+          },
+          {
+            "stringId": "1743261804440281088",
+            "femaleVariant": "That's what I said."
+          },
+          {
+            "stringId": "1743292978504097792",
+            "femaleVariant": "Things always this quiet?"
+          },
+          {
+            "stringId": "1743298176102391808",
+            "femaleVariant": "This place always this dead? Thought I heard a tumbleweed roll by."
+          },
+          {
+            "stringId": "1743300835660226560",
+            "femaleVariant": "Dead for you. Lively for others. For me, just right."
+          },
+          {
+            "stringId": "1743301325538156544",
+            "femaleVariant": "What can I get you?"
+          },
+          {
+            "stringId": "1743307625701531648",
+            "femaleVariant": "I'll have another of the same."
+          },
+          {
+            "stringId": "1743308214917357568",
+            "femaleVariant": "Another of the same."
+          },
+          {
+            "stringId": "1785301282696708096",
+            "femaleVariant": "Get outta here!"
+          },
+          {
+            "stringId": "1947120221179031556",
+            "femaleVariant": "'Cause of you."
+          }
+        ]
+      }
+
+
+

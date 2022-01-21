@@ -1,0 +1,331 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1805525809770672128",
+            "femaleVariant": "Hey. You're V, yes?"
+          },
+          {
+            "stringId": "1805526479332585472",
+            "femaleVariant": "Ho, fuck..."
+          },
+          {
+            "stringId": "1805526901145350144",
+            "femaleVariant": "You didn't answer my question."
+          },
+          {
+            "stringId": "1805530603625263104",
+            "femaleVariant": "Doesn't it bother you?"
+          },
+          {
+            "stringId": "1805530809884356608",
+            "femaleVariant": "Nice out here. Lotta stuff has changed."
+          },
+          {
+            "stringId": "1805530982169587712",
+            "femaleVariant": "Tyger Claws. Heard of 'em?"
+          },
+          {
+            "stringId": "1805533376848736256",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1805533460231499776",
+            "femaleVariant": "The grenade. You know, the one in your face?",
+            "maleVariant": "The grenade. You know, the one on your face?"
+          },
+          {
+            "stringId": "1805534541892169728",
+            "femaleVariant": "Eh, you get used to it. I just gotta be careful not to pull the pin when I wanna pick my nose."
+          },
+          {
+            "stringId": "1805537560079773696",
+            "femaleVariant": "Where are you from?"
+          },
+          {
+            "stringId": "1805538827598442496",
+            "femaleVariant": "Brazil. Y'know, down in South Am--"
+          },
+          {
+            "stringId": "1805539568228642816",
+            "femaleVariant": "I know where Brazil is."
+          },
+          {
+            "stringId": "1805539835993010176",
+            "femaleVariant": "Hm. You never know with you gringos."
+          },
+          {
+            "stringId": "1805544324619710464",
+            "femaleVariant": "Heh, who hasn't."
+          },
+          {
+            "stringId": "1805544486452736000",
+            "femaleVariant": "Got any friends in there?"
+          },
+          {
+            "stringId": "1805545674044747776",
+            "femaleVariant": "No, why?"
+          },
+          {
+            "stringId": "1805545953502834688",
+            "femaleVariant": "Just asking. Can't help being curious."
+          },
+          {
+            "stringId": "1805546980822102016",
+            "femaleVariant": "This is the place. Wait for me here, and keep the engine runnin'."
+          },
+          {
+            "stringId": "1805548491560071168",
+            "femaleVariant": "We came all this way to get takeout?",
+            "maleVariant": "We came all this way to get takeout..."
+          },
+          {
+            "stringId": "1805549430882840576",
+            "femaleVariant": "What the fuck was that? You got grenades up your ass, too?"
+          },
+          {
+            "stringId": "1805549861855965184",
+            "femaleVariant": "Don't talk, just drive! Drive!!!"
+          },
+          {
+            "stringId": "1805552125186289664",
+            "femaleVariant": "Get out. We're here."
+          },
+          {
+            "stringId": "1805555397565493248",
+            "femaleVariant": "Oh, great. A dead end. This was your plan?"
+          },
+          {
+            "stringId": "1805555491954110464",
+            "femaleVariant": "Oh, yeah. We lure them in here and give them a nice surprise."
+          },
+          {
+            "stringId": "1805556354437230592",
+            "femaleVariant": "You got some kinda plan?"
+          },
+          {
+            "stringId": "1805557151757643776",
+            "femaleVariant": "I do. But I like to keep things flexible."
+          },
+          {
+            "stringId": "1805557807830675456",
+            "femaleVariant": "Great..."
+          },
+          {
+            "stringId": "1805559795947548672",
+            "femaleVariant": "Just drive. I'll take care of the rest."
+          },
+          {
+            "stringId": "1805561285143572480",
+            "femaleVariant": "Hm, it's true what they say. You're good. Really fucking good. Got a stick up your ass, though."
+          },
+          {
+            "stringId": "1885241089158598660",
+            "femaleVariant": "Yeah, that's me."
+          },
+          {
+            "stringId": "1885241498086461440",
+            "femaleVariant": "There's something on your face."
+          },
+          {
+            "stringId": "1885242214708465664",
+            "femaleVariant": "Yeah, that's me."
+          },
+          {
+            "stringId": "1885242570922315776",
+            "femaleVariant": "Good. Then let's go."
+          },
+          {
+            "stringId": "1885242803118985216",
+            "femaleVariant": "Where to?"
+          },
+          {
+            "stringId": "1885242964465471488",
+            "femaleVariant": "Little China. I have a craving for Kung Pao chicken. Extra spicy."
+          },
+          {
+            "stringId": "1885244027654426624",
+            "femaleVariant": "Uh, there's something on your face...?",
+            "maleVariant": "Uh, there's, uh... something on your face."
+          },
+          {
+            "stringId": "1885246492059684864",
+            "femaleVariant": "The grenade."
+          },
+          {
+            "stringId": "1885246913369133056",
+            "femaleVariant": "Can I ask why? You have a juggling accident, or something?"
+          },
+          {
+            "stringId": "1885247959864758272",
+            "femaleVariant": "Not cool. You ask personal questions, and yet you haven't even introduced yourself. You are V, correct?"
+          },
+          {
+            "stringId": "1885264810531409920",
+            "femaleVariant": "You could say that."
+          },
+          {
+            "stringId": "1885269135261487104",
+            "femaleVariant": "Where?!"
+          },
+          {
+            "stringId": "1885269242233016320",
+            "femaleVariant": "Here, the coordinates. Step on it!"
+          },
+          {
+            "stringId": "1885289474985086980",
+            "femaleVariant": "What about my payment?"
+          },
+          {
+            "stringId": "1885289997930909696",
+            "femaleVariant": "Ha! Not bad, right?"
+          },
+          {
+            "stringId": "1885290915007090688",
+            "femaleVariant": "Would've been even better if you told me what you were plannin' from the get-go.",
+            "maleVariant": "It would've been even better if you told me what you were plannin' from the get-go."
+          },
+          {
+            "stringId": "1885294169820549120",
+            "femaleVariant": "This is where we part ways. Good luck, V. And, uh, relax a bit, OK?"
+          },
+          {
+            "stringId": "1885294832285700096",
+            "femaleVariant": "How did you get the grenade?"
+          },
+          {
+            "stringId": "1885295321576427520",
+            "femaleVariant": "What about my payment?"
+          },
+          {
+            "stringId": "1885295756274094080",
+            "femaleVariant": "Now are you gonna tell me about the grenade?"
+          },
+          {
+            "stringId": "1885296353056444416",
+            "femaleVariant": "Phew! Got 'em by a nose! Hahaha!"
+          },
+          {
+            "stringId": "1885296447445061632",
+            "femaleVariant": "Anyone wanna play \"Got Your Nose?\" Hahaha!"
+          },
+          {
+            "stringId": "1885296720292925440",
+            "femaleVariant": "Haha! You see what I did to him?!"
+          },
+          {
+            "stringId": "1885296956163805184",
+            "femaleVariant": "Want a taste of this, assholes?!"
+          },
+          {
+            "stringId": "1885297343700717568",
+            "femaleVariant": "Whose ass is next?! Fuckin' step forward!"
+          },
+          {
+            "stringId": "1892145996998430720",
+            "femaleVariant": "Oh, that. My brother ripped it off during a fight. With pliars."
+          },
+          {
+            "stringId": "1892146170525175808",
+            "femaleVariant": "One happy family...",
+            "maleVariant": "Ooh, one happy family..."
+          },
+          {
+            "stringId": "1892147292132397056",
+            "femaleVariant": "You don't know the half of it. I could've chipped another one, but... I dunno. I think this matches my style more."
+          },
+          {
+            "stringId": "1892148221858598912",
+            "femaleVariant": "Uh-huh..."
+          },
+          {
+            "stringId": "1892149271139241984",
+            "femaleVariant": "Besides, it's a real icebreaker with the ladies. \"Got any powder for my nose?\" Hehehe."
+          },
+          {
+            "stringId": "1892152245236322304",
+            "femaleVariant": "And? Does it work?"
+          },
+          {
+            "stringId": "1892152413847343104",
+            "femaleVariant": "Not really."
+          },
+          {
+            "stringId": "1892153842964156416",
+            "femaleVariant": "What about it? Here. Like I said before – the best don't come cheap."
+          },
+          {
+            "stringId": "1892154558462087168",
+            "femaleVariant": "Take care, V. And hey... Keep your nose to the ground!"
+          },
+          {
+            "stringId": "1934630661397557248",
+            "femaleVariant": "Jesus, whatever. I'm outta here then."
+          },
+          {
+            "stringId": "1934632333767225344",
+            "femaleVariant": "Hey, hey! No funny business! Get back in!"
+          },
+          {
+            "stringId": "1934632623677517824",
+            "femaleVariant": "You go fuckin' bananas?! Get behind the wheel!"
+          },
+          {
+            "stringId": "1934632876526940160",
+            "femaleVariant": "This a joke? You see me laughin'? C'mon, we gotta go!"
+          },
+          {
+            "stringId": "1936039023620272132",
+            "femaleVariant": "[Honk]"
+          },
+          {
+            "stringId": "1936124838694236160",
+            "femaleVariant": "Let's make our way to Little China."
+          },
+          {
+            "stringId": "1936127292429185024",
+            "femaleVariant": "C'mon, c'mon. We gotta hurry."
+          },
+          {
+            "stringId": "1957639134095749120",
+            "femaleVariant": "V! What's the big fuckin' idea?!"
+          },
+          {
+            "stringId": "1957639538728644612",
+            "femaleVariant": "Hey, what gives?! Get back in the car!"
+          },
+          {
+            "stringId": "1957639679405600772",
+            "femaleVariant": "This ain't a good time to dick around, V!"
+          },
+          {
+            "stringId": "1957644565098672128",
+            "femaleVariant": "Quit dickin' around! Drive!"
+          },
+          {
+            "stringId": "1957644833114697732",
+            "femaleVariant": "What gives?! Let's move, dammit!"
+          },
+          {
+            "stringId": "1957646908808638464",
+            "femaleVariant": "Aghhh! I've been fuckin' hit!"
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,678 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1796600295911833604",
+            "femaleVariant": "你想玩儿是吧？！想跟我玩儿吗？！来啊！"
+          },
+          {
+            "stringId": "1796600295945388036",
+            "femaleVariant": "你就是活该！"
+          },
+          {
+            "stringId": "1796600296012496900",
+            "femaleVariant": "隐蔽！手雷！"
+          },
+          {
+            "stringId": "1796600296062828548",
+            "femaleVariant": "有的东西学会了一辈子也忘不了！"
+          },
+          {
+            "stringId": "1796600296096382980",
+            "femaleVariant": "能走的路只有一条——向前！"
+          },
+          {
+            "stringId": "1796600296163491844",
+            "femaleVariant": "情况不太妙，但老娘见的多了！"
+          },
+          {
+            "stringId": "1796600296197046276",
+            "femaleVariant": "现在我真生气了！"
+          },
+          {
+            "stringId": "1796600296230600708",
+            "femaleVariant": "当心!要炸了！"
+          },
+          {
+            "stringId": "1796600296247377924",
+            "femaleVariant": "这就对了！"
+          },
+          {
+            "stringId": "1796600296297709572",
+            "femaleVariant": "呃咳咳…！呃…喘不过…气…"
+          },
+          {
+            "stringId": "1796600296499036164",
+            "femaleVariant": "那行，我们以后再继续。"
+          },
+          {
+            "stringId": "1796600296515813380",
+            "femaleVariant": "你要去哪儿？！"
+          },
+          {
+            "stringId": "1796600296599699456",
+            "femaleVariant": "现在方便了？那好。"
+          },
+          {
+            "stringId": "1796600296616476676",
+            "femaleVariant": "太好了。这次专心一点儿。"
+          },
+          {
+            "stringId": "1796600296650031108",
+            "femaleVariant": "动作快一点。"
+          },
+          {
+            "stringId": "1796600296666808324",
+            "femaleVariant": "你在浪费我的时间。"
+          },
+          {
+            "stringId": "1796600296918466564",
+            "femaleVariant": "看看这是谁来了？"
+          },
+          {
+            "stringId": "1796600296952020992",
+            "femaleVariant": "嘿。你给我带什么来了？"
+          },
+          {
+            "stringId": "1796600297086238724",
+            "femaleVariant": "都这么大的人了，学学怎么走路吧。"
+          },
+          {
+            "stringId": "1796600297119793152",
+            "femaleVariant": "你！"
+          },
+          {
+            "stringId": "1966322094846124036",
+            "femaleVariant": "知道你在呢，都听见你喘气了。"
+          },
+          {
+            "stringId": "1966322094879678468",
+            "femaleVariant": "好了，V。"
+          },
+          {
+            "stringId": "2176337445666070532",
+            "femaleVariant": "知道你在呢，都听见你喘气了。"
+          },
+          {
+            "stringId": "2176338181112111112",
+            "femaleVariant": "好了，V。"
+          },
+          {
+            "stringId": "2176341943553794056",
+            "femaleVariant": "呃咳咳…！呃…喘不过…气…"
+          },
+          {
+            "stringId": "2176343924070588424",
+            "femaleVariant": "现在我真生气了！"
+          },
+          {
+            "stringId": "2176344764508446728",
+            "femaleVariant": "情况不太妙，但老娘见得多了！"
+          },
+          {
+            "stringId": "2176346291620978696",
+            "femaleVariant": "这就对了！"
+          },
+          {
+            "stringId": "2176346858372112392",
+            "femaleVariant": "能走的路只有一条——向前！"
+          },
+          {
+            "stringId": "2176348254739800072",
+            "femaleVariant": "隐蔽！手雷！"
+          },
+          {
+            "stringId": "2176348651252523016",
+            "femaleVariant": "当心！要炸了！"
+          },
+          {
+            "stringId": "2176354714085400584",
+            "femaleVariant": "你想玩儿是吧？！想跟我玩儿吗？！来啊！"
+          },
+          {
+            "stringId": "2176355529961414664",
+            "femaleVariant": "你就是活该！"
+          },
+          {
+            "stringId": "2176356654303322120",
+            "femaleVariant": "看看这是谁来了？"
+          },
+          {
+            "stringId": "2176356936110219272",
+            "femaleVariant": "嘿。你给我带什么来了？"
+          },
+          {
+            "stringId": "2176357402885922824",
+            "femaleVariant": "都这么大的人了，学学怎么走路吧。"
+          },
+          {
+            "stringId": "2176357860618706952",
+            "femaleVariant": "你！"
+          },
+          {
+            "stringId": "2176358826952794112",
+            "femaleVariant": "那行，我们以后再继续。"
+          },
+          {
+            "stringId": "2176361007068127240",
+            "femaleVariant": "你要去哪儿？！"
+          },
+          {
+            "stringId": "2176361543788044296",
+            "femaleVariant": "现在方便了？那好。"
+          },
+          {
+            "stringId": "2176362575905595400",
+            "femaleVariant": "太好了。这次专心一点儿。"
+          },
+          {
+            "stringId": "2176363045818638336",
+            "femaleVariant": "知道吗？我还有其它要紧事呢。"
+          },
+          {
+            "stringId": "2176363952526499848",
+            "femaleVariant": "你在浪费我的时间。"
+          },
+          {
+            "stringId": "2251160954854350852",
+            "femaleVariant": "等咱们杀过去，保准他们一个也活不了。"
+          },
+          {
+            "stringId": "2251160954938236936",
+            "femaleVariant": "咱们上。"
+          },
+          {
+            "stringId": "2251160955139563528",
+            "femaleVariant": "干了他们！"
+          },
+          {
+            "stringId": "2251160955173117960",
+            "femaleVariant": "那边的杂碎归我了！"
+          },
+          {
+            "stringId": "2251160955357667328",
+            "femaleVariant": "还有谁？有吗？没有？我猜也是。"
+          },
+          {
+            "stringId": "2251160955424776200",
+            "femaleVariant": "哼，我们赢了。意料之中。"
+          },
+          {
+            "stringId": "2251160955508662280",
+            "femaleVariant": "打得不错。看来你还有点儿用。"
+          },
+          {
+            "stringId": "2251160955542216712",
+            "femaleVariant": "你最好再投入一点。"
+          },
+          {
+            "stringId": "2251160955575771144",
+            "femaleVariant": "要是没死，就忍着点。"
+          },
+          {
+            "stringId": "2251160955609325576",
+            "femaleVariant": "你情况不太妙。安全起见，撤回来。"
+          },
+          {
+            "stringId": "2251160957471596552",
+            "femaleVariant": "这边有点麻烦！"
+          },
+          {
+            "stringId": "2251160957689700360",
+            "femaleVariant": "稍等，我马上好！"
+          },
+          {
+            "stringId": "2251160957756809224",
+            "femaleVariant": "掩护我！我上子弹！"
+          },
+          {
+            "stringId": "2251160957823918080",
+            "femaleVariant": "打，打，接着打！我马上就好！"
+          },
+          {
+            "stringId": "2251160957874249736",
+            "femaleVariant": "靠，手雷！当心！"
+          },
+          {
+            "stringId": "2251160957941358600",
+            "femaleVariant": "手雷！快撤！"
+          },
+          {
+            "stringId": "2251160958125907976",
+            "femaleVariant": "很好，很好！就这么打！"
+          },
+          {
+            "stringId": "2251160958176239624",
+            "femaleVariant": "打的好，就是这个劲！"
+          },
+          {
+            "stringId": "2251160958243348488",
+            "femaleVariant": "可以呀！有点意思！"
+          },
+          {
+            "stringId": "2251160958276902920",
+            "femaleVariant": "嘿，给我留几个！"
+          },
+          {
+            "stringId": "2251160958327234568",
+            "femaleVariant": "你搞毛呢？"
+          },
+          {
+            "stringId": "2251160958377566212",
+            "femaleVariant": "搞什么？还打不打了？"
+          },
+          {
+            "stringId": "2251160958411120648",
+            "femaleVariant": "都指望我擦屁股吗？！"
+          },
+          {
+            "stringId": "2251160958444675080",
+            "femaleVariant": "你的义眼出毛病了吗？瞄准了再打！"
+          },
+          {
+            "stringId": "2251160958495006728",
+            "femaleVariant": "狙击手！当心！"
+          },
+          {
+            "stringId": "2251160958578892808",
+            "femaleVariant": "必须干掉那个炮塔！"
+          },
+          {
+            "stringId": "2251160958629224456",
+            "femaleVariant": "炮塔瞄上我们了！当心！"
+          },
+          {
+            "stringId": "2251160958662778888",
+            "femaleVariant": "有黑客捣鬼。都当心点。"
+          },
+          {
+            "stringId": "2251160958713110536",
+            "femaleVariant": "靠！无人机过来了！"
+          },
+          {
+            "stringId": "2251160958864105480",
+            "femaleVariant": "看看那个大家伙…"
+          },
+          {
+            "stringId": "2251160958931214344",
+            "femaleVariant": "这会要热闹了。"
+          },
+          {
+            "stringId": "2251160958964768776",
+            "femaleVariant": "都给我精神着点。"
+          },
+          {
+            "stringId": "2251160958998323200",
+            "femaleVariant": "靠，我最烦这个了…有重火力！"
+          },
+          {
+            "stringId": "2251160959048654856",
+            "femaleVariant": "都留神这家伙。"
+          },
+          {
+            "stringId": "2251160959098986504",
+            "femaleVariant": "机会来了！快干掉他们！"
+          },
+          {
+            "stringId": "2251160959132540936",
+            "femaleVariant": "快！趁他们重火力没子弹！"
+          },
+          {
+            "stringId": "2251160959166095368",
+            "femaleVariant": "浪费时间玩呢吗你？"
+          },
+          {
+            "stringId": "2251160959199649800",
+            "femaleVariant": "来啊，快点。"
+          },
+          {
+            "stringId": "2251160959233204232",
+            "femaleVariant": "没死呢吧？那就别放挺。"
+          },
+          {
+            "stringId": "2251160959283535876",
+            "femaleVariant": "你要让我等一天吗？"
+          },
+          {
+            "stringId": "2251160959367421960",
+            "femaleVariant": "我们都小点声。"
+          },
+          {
+            "stringId": "2251160959417753608",
+            "femaleVariant": "没事了，别再出动静了。"
+          },
+          {
+            "stringId": "2251160959451308040",
+            "femaleVariant": "他们很快就会盯上我们，注意点…"
+          },
+          {
+            "stringId": "2251160959468085256",
+            "femaleVariant": "别走神，看到那帮人了吗？"
+          },
+          {
+            "stringId": "2251160959501639688",
+            "femaleVariant": "也许能溜过去，都轻点…"
+          },
+          {
+            "stringId": "2251160959535194120",
+            "femaleVariant": "靠，别被发现了你。"
+          },
+          {
+            "stringId": "2251160959602302984",
+            "femaleVariant": "当心！他们会看见你的！"
+          },
+          {
+            "stringId": "2251160959635857416",
+            "femaleVariant": "你要暴露了。保持隐蔽！"
+          },
+          {
+            "stringId": "2251160959686189064",
+            "femaleVariant": "注意探头。"
+          },
+          {
+            "stringId": "2251160959753297920",
+            "femaleVariant": "探头开着呢，别被发现了。"
+          },
+          {
+            "stringId": "2251160959803629576",
+            "femaleVariant": "尸体别留，否则招苍蝇。"
+          },
+          {
+            "stringId": "2251160959870738440",
+            "femaleVariant": "不能把人留在这儿。"
+          },
+          {
+            "stringId": "2251160959921070088",
+            "femaleVariant": "去死吧！"
+          },
+          {
+            "stringId": "2251160959971401736",
+            "femaleVariant": "冲我来！"
+          },
+          {
+            "stringId": "2251160960004956168",
+            "femaleVariant": "嘘！"
+          },
+          {
+            "stringId": "2251160960038510600",
+            "femaleVariant": "轻一点…"
+          },
+          {
+            "stringId": "2253829884729454592",
+            "femaleVariant": "跟我来。"
+          },
+          {
+            "stringId": "2253832413290786816",
+            "femaleVariant": "来啊！"
+          },
+          {
+            "stringId": "2258788311240122368",
+            "femaleVariant": "强尼·银手竟然没词了？看来真要世界末日了。"
+          },
+          {
+            "stringId": "2258792590906597384",
+            "femaleVariant": "哑巴了吗？"
+          },
+          {
+            "stringId": "2258795562050887688",
+            "femaleVariant": "嘿，死人，说个话啊？"
+          },
+          {
+            "stringId": "2258796618864500744",
+            "femaleVariant": "你觉得呢？有没有什么漏的？"
+          },
+          {
+            "stringId": "2258797881048014856",
+            "femaleVariant": "就这么干坐着？又搞了一次一到早上就后悔的一夜情吗？"
+          },
+          {
+            "stringId": "2263106308805664776",
+            "femaleVariant": "跟我来。"
+          },
+          {
+            "stringId": "2263107231787425800",
+            "femaleVariant": "来啊！"
+          },
+          {
+            "stringId": "2263111301369602048",
+            "femaleVariant": "等咱们杀过去，保准他们一个也活不了。"
+          },
+          {
+            "stringId": "2263111620254146568",
+            "femaleVariant": "咱们上。"
+          },
+          {
+            "stringId": "2263115995080990728",
+            "femaleVariant": "干了他们！"
+          },
+          {
+            "stringId": "2263116377014312968",
+            "femaleVariant": "那边的杂碎归我了！"
+          },
+          {
+            "stringId": "2263119798962397192",
+            "femaleVariant": "还有谁？有吗？没有？我猜也是。"
+          },
+          {
+            "stringId": "2263120570429120520",
+            "femaleVariant": "打得不错。看来你还有点儿用。"
+          },
+          {
+            "stringId": "2263120856296103944",
+            "femaleVariant": "哼，我们赢了。意料之中。"
+          },
+          {
+            "stringId": "2263122462597095428",
+            "femaleVariant": "这边有点麻烦！"
+          },
+          {
+            "stringId": "2263124102016311304",
+            "femaleVariant": "你最好再投入一点。"
+          },
+          {
+            "stringId": "2263124299383480328",
+            "femaleVariant": "要是没死，就忍着点。"
+          },
+          {
+            "stringId": "2263124474638278664",
+            "femaleVariant": "你情况不太妙。安全起见，撤回来。"
+          },
+          {
+            "stringId": "2263127375351816200",
+            "femaleVariant": "靠，手雷！当心！"
+          },
+          {
+            "stringId": "2263127682962071560",
+            "femaleVariant": "手雷！快撤！"
+          },
+          {
+            "stringId": "2263129070068736008",
+            "femaleVariant": "稍等，我马上好！"
+          },
+          {
+            "stringId": "2263129552933789704",
+            "femaleVariant": "掩护我！我上子弹！"
+          },
+          {
+            "stringId": "2263129675575238664",
+            "femaleVariant": "打，打，接着打！我马上就好！"
+          },
+          {
+            "stringId": "2263132148687872008",
+            "femaleVariant": "很好，很好！就这么打！"
+          },
+          {
+            "stringId": "2263132879016861704",
+            "femaleVariant": "打的好，就是这个劲！"
+          },
+          {
+            "stringId": "2263133615637307400",
+            "femaleVariant": "可以呀！有点意思！"
+          },
+          {
+            "stringId": "2263134184133271560",
+            "femaleVariant": "嘿，给我留几个！"
+          },
+          {
+            "stringId": "2263135670443614216",
+            "femaleVariant": "浪费时间玩呢吗你？"
+          },
+          {
+            "stringId": "2263137479530815496",
+            "femaleVariant": "来啊，快点。"
+          },
+          {
+            "stringId": "2263138017374806024",
+            "femaleVariant": "没死呢吧？那就别放挺。"
+          },
+          {
+            "stringId": "2263138221872291848",
+            "femaleVariant": "你要让我等一天吗？"
+          },
+          {
+            "stringId": "2263140883929931784",
+            "femaleVariant": "你搞毛呢？"
+          },
+          {
+            "stringId": "2263141585771208712",
+            "femaleVariant": "搞什么？还打不打了？"
+          },
+          {
+            "stringId": "2263142364921896968",
+            "femaleVariant": "都指望我擦屁股吗？！"
+          },
+          {
+            "stringId": "2263142496220389384",
+            "femaleVariant": "你的义眼出毛病了吗？瞄准了再打！"
+          },
+          {
+            "stringId": "2263145569923801096",
+            "femaleVariant": "嘘！"
+          },
+          {
+            "stringId": "2263147108696498184",
+            "femaleVariant": "轻一点…"
+          },
+          {
+            "stringId": "2263148279729397768",
+            "femaleVariant": "去死吧！"
+          },
+          {
+            "stringId": "2263148738116493312",
+            "femaleVariant": "冲我来！"
+          },
+          {
+            "stringId": "2263151016814747656",
+            "femaleVariant": "狙击手！当心！"
+          },
+          {
+            "stringId": "2263152379611226120",
+            "femaleVariant": "有黑客捣鬼。都当心点。"
+          },
+          {
+            "stringId": "2263153166345216008",
+            "femaleVariant": "这会要热闹了。"
+          },
+          {
+            "stringId": "2263153900147089416",
+            "femaleVariant": "都给我精神着点。"
+          },
+          {
+            "stringId": "2263154282197852164",
+            "femaleVariant": "看看那个大家伙…"
+          },
+          {
+            "stringId": "2263155300826521608",
+            "femaleVariant": "快！趁他们重火力没子弹！"
+          },
+          {
+            "stringId": "2263155500173402120",
+            "femaleVariant": "机会来了！快干掉他们！"
+          },
+          {
+            "stringId": "2263157277434224648",
+            "femaleVariant": "炮塔瞄上我们了！当心！"
+          },
+          {
+            "stringId": "2263157491108847624",
+            "femaleVariant": "必须干掉那个炮塔！"
+          },
+          {
+            "stringId": "2263157935923175432",
+            "femaleVariant": "靠！无人机过来了！"
+          },
+          {
+            "stringId": "2263158914487853064",
+            "femaleVariant": "靠，我最烦这个了…有重火力！"
+          },
+          {
+            "stringId": "2263159318432882696",
+            "femaleVariant": "都留神这家伙。"
+          },
+          {
+            "stringId": "2263161299452993544",
+            "femaleVariant": "我们都小点声。"
+          },
+          {
+            "stringId": "2263162123281408008",
+            "femaleVariant": "没事了，别再出动静了。"
+          },
+          {
+            "stringId": "2263163161187098632",
+            "femaleVariant": "注意探头。"
+          },
+          {
+            "stringId": "2263163503475859456",
+            "femaleVariant": "探头开着呢，别被发现了。"
+          },
+          {
+            "stringId": "2263164154616389640",
+            "femaleVariant": "他们很快就会盯上我们，注意点…"
+          },
+          {
+            "stringId": "2263164619345272840",
+            "femaleVariant": "别走神，看到那帮人了吗？"
+          },
+          {
+            "stringId": "2263165308217761792",
+            "femaleVariant": "也许能溜过去，都轻点…"
+          },
+          {
+            "stringId": "2263166309851111432",
+            "femaleVariant": "靠，别被发现了你。"
+          },
+          {
+            "stringId": "2263166642945957896",
+            "femaleVariant": "当心！他们会看见你的！"
+          },
+          {
+            "stringId": "2263167253703729160",
+            "femaleVariant": "你要暴露了。保持隐蔽！"
+          },
+          {
+            "stringId": "2263168180040933384",
+            "femaleVariant": "尸体别留，否则招苍蝇。"
+          },
+          {
+            "stringId": "2263168510686306312",
+            "femaleVariant": "不能把人留在这儿。"
+          }
+        ]
+      }
+
+
+

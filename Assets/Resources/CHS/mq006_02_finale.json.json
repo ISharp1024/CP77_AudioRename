@@ -1,0 +1,321 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1833009678875906052",
+            "femaleVariant": "应该可以开了。"
+          },
+          {
+            "stringId": "1833009992408518656",
+            "femaleVariant": "你们常来这儿吗？"
+          },
+          {
+            "stringId": "1833010382512345088",
+            "femaleVariant": "你们常来这儿？"
+          },
+          {
+            "stringId": "1833011213538185216",
+            "femaleVariant": "现在应该可以开动了。"
+          },
+          {
+            "stringId": "1833012131067351040",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Koumanman\" b=\"\" a=\"（哦，我靠）。真的吗？\"/>"
+          },
+          {
+            "stringId": "1833013487354269696",
+            "femaleVariant": "我把安全防护机制废了，还打开了紧急备用电源。"
+          },
+          {
+            "stringId": "1833014203808501760",
+            "femaleVariant": "嘿，听到没有？谁想第一个坐？"
+          },
+          {
+            "stringId": "1833015529644773376",
+            "femaleVariant": "我今天喝的有点多。"
+          },
+          {
+            "stringId": "1833020054896136192",
+            "femaleVariant": "行啊，那就走吧。"
+          },
+          {
+            "stringId": "1833020773330079744",
+            "femaleVariant": "不了，谢谢。"
+          },
+          {
+            "stringId": "1833021274197086208",
+            "femaleVariant": "行，那走着。"
+          },
+          {
+            "stringId": "1833021811420319744",
+            "femaleVariant": "嘿嘿嘿，这还差不多。我们都坐好了等着看啊。"
+          },
+          {
+            "stringId": "1833022806443446272",
+            "femaleVariant": "呃，不，还是算了吧，谢谢你们。"
+          },
+          {
+            "stringId": "1833023191849652224",
+            "femaleVariant": "呵呵，好吧。那我去。"
+          },
+          {
+            "stringId": "1833023483924205568",
+            "femaleVariant": "Bravo，让！至少咱们这儿还有一个带种的！"
+          },
+          {
+            "stringId": "1833024562380427264",
+            "femaleVariant": "来啊，你等什么等呢？"
+          },
+          {
+            "stringId": "1833033761797722112",
+            "femaleVariant": "让——昂！让——昂！"
+          },
+          {
+            "stringId": "1833034166564835328",
+            "femaleVariant": "让！让！"
+          },
+          {
+            "stringId": "1833034310865670144",
+            "femaleVariant": "去吧！"
+          },
+          {
+            "stringId": "1833034735178240004",
+            "femaleVariant": "嘿，她真要去坐了！",
+            "maleVariant": "嘿，他真要去坐了！"
+          },
+          {
+            "stringId": "1833048350744662016",
+            "femaleVariant": "我的妈呀…！光是看着你玩，我都差点尿裤子。"
+          },
+          {
+            "stringId": "1833049637943005188",
+            "femaleVariant": "怎么样，爽不爽？"
+          },
+          {
+            "stringId": "1833050409007075328",
+            "femaleVariant": "呜哦！爽爆了！我差点尿一裤子。"
+          },
+          {
+            "stringId": "1873399965842165760",
+            "femaleVariant": "我敢打赌，你会像个小姑娘一样嗷嗷尖叫。"
+          },
+          {
+            "stringId": "1873445699576680448",
+            "femaleVariant": "哎我靠！"
+          },
+          {
+            "stringId": "1873448938636333060",
+            "femaleVariant": "哇哦！"
+          },
+          {
+            "stringId": "1873453733111681028",
+            "femaleVariant": "哇啊！"
+          },
+          {
+            "stringId": "1873454581199949828",
+            "femaleVariant": "我靠！"
+          },
+          {
+            "stringId": "1873455661132566532",
+            "femaleVariant": "看到了没有？！"
+          },
+          {
+            "stringId": "1873511148368711684",
+            "femaleVariant": "真厉害！"
+          },
+          {
+            "stringId": "1873532075076767748",
+            "femaleVariant": "没想到，你还真挺有种的嘛。"
+          },
+          {
+            "stringId": "1873533832976683008",
+            "femaleVariant": "一边是动物帮，一边是电子神棍，不过算了——咱们今天坐过山车！"
+          },
+          {
+            "stringId": "1873536562478731268",
+            "femaleVariant": "哇哦…"
+          },
+          {
+            "stringId": "1917098048042586112",
+            "femaleVariant": "海——伍德！哈哈"
+          },
+          {
+            "stringId": "1917098371524087808",
+            "femaleVariant": "巴——比——伦！巴——比——伦！"
+          },
+          {
+            "stringId": "1917098688277925888",
+            "femaleVariant": "巴——克尔！巴——克尔！哈哈"
+          },
+          {
+            "stringId": "1917100649953906688",
+            "femaleVariant": "海——伍德！海——伍德！"
+          },
+          {
+            "stringId": "1917101791995777024",
+            "femaleVariant": "巴——比——伦！巴——比——伦！"
+          },
+          {
+            "stringId": "1917102327742615552",
+            "femaleVariant": "来吧！"
+          },
+          {
+            "stringId": "1917103214586253312",
+            "femaleVariant": "巴——克尔！巴——克尔！巴克尔！巴克尔！"
+          },
+          {
+            "stringId": "1917114861480595456",
+            "femaleVariant": "让她先坐吧。是她给修好的。",
+            "maleVariant": "让他先坐吧。是他给修好的。"
+          },
+          {
+            "stringId": "1917115167094362112",
+            "femaleVariant": "坐到中间停了怎么办？"
+          },
+          {
+            "stringId": "1917121582852755456",
+            "femaleVariant": "拿好我的酒。"
+          },
+          {
+            "stringId": "1917122274594148352",
+            "femaleVariant": "咱们玩一把，V。"
+          },
+          {
+            "stringId": "1917126549311344640",
+            "femaleVariant": "但要真的停在半当间儿了…你们能来把我救下去吗？"
+          },
+          {
+            "stringId": "1917126862827180032",
+            "femaleVariant": "靠，我们当然会去了，不会把你丢下的。"
+          },
+          {
+            "stringId": "1917128295215550464",
+            "femaleVariant": "你不去真可惜了！"
+          },
+          {
+            "stringId": "1917138532756639744",
+            "femaleVariant": "走——起，走——起！"
+          },
+          {
+            "stringId": "1917140553706524672",
+            "femaleVariant": "让——昂！让——昂！"
+          },
+          {
+            "stringId": "1917161416392724480",
+            "femaleVariant": "你真是个疯娘们儿，你知道吗？",
+            "maleVariant": "你真是个疯爷们儿，你知道吗？"
+          },
+          {
+            "stringId": "1917161419798499328",
+            "femaleVariant": "你不就想这样吗？"
+          },
+          {
+            "stringId": "1917161423422377984",
+            "femaleVariant": "开始想和我做一样的事了，嗯？那现在正好。"
+          },
+          {
+            "stringId": "1917165378281951232",
+            "femaleVariant": "啤酒？"
+          },
+          {
+            "stringId": "1917168850897227776",
+            "femaleVariant": "有时间就来。"
+          },
+          {
+            "stringId": "1917171691162456064",
+            "femaleVariant": "你也知道：在其它时间我们忙着偷车，还要烤红薯。太平洲人人都这样。"
+          },
+          {
+            "stringId": "1927168464186527744",
+            "femaleVariant": "今天可真是舒服。"
+          },
+          {
+            "stringId": "1927169771584638980",
+            "femaleVariant": "[对话]"
+          },
+          {
+            "stringId": "1927170061293604868",
+            "femaleVariant": "[对话]"
+          },
+          {
+            "stringId": "1927170357864452096",
+            "femaleVariant": "怎么样？要不要明天把摩天轮打开玩玩？"
+          },
+          {
+            "stringId": "1927180492829642752",
+            "femaleVariant": "嘿，如今咱们想干什么都行。"
+          },
+          {
+            "stringId": "1927183042698039296",
+            "femaleVariant": "明天我们要去游泳。"
+          },
+          {
+            "stringId": "1927184292030205952",
+            "femaleVariant": "如果你愿意，可以跟我们一起来海边。"
+          },
+          {
+            "stringId": "1940138545259761664",
+            "femaleVariant": "巴——比——伦！巴——比——伦！"
+          },
+          {
+            "stringId": "1940138873958977536",
+            "femaleVariant": "巴——比——伦！巴——比——伦！"
+          },
+          {
+            "stringId": "1940139378349199360",
+            "femaleVariant": "巴——比——伦！巴——比——伦！"
+          },
+          {
+            "stringId": "1940141232147681280",
+            "femaleVariant": "巴——克尔！巴——克尔！"
+          },
+          {
+            "stringId": "1940141570678345728",
+            "femaleVariant": "巴——克尔！巴——克尔！"
+          },
+          {
+            "stringId": "1940141743114571776",
+            "femaleVariant": "巴——克尔！巴——克尔！"
+          },
+          {
+            "stringId": "1940142866399514624",
+            "femaleVariant": "海——伍德！海——伍德！"
+          },
+          {
+            "stringId": "1940142963858362368",
+            "femaleVariant": "海——伍德！海——伍德！"
+          },
+          {
+            "stringId": "1940143156309807104",
+            "femaleVariant": "海——伍德！海——伍德！"
+          },
+          {
+            "stringId": "2074789858831781892",
+            "femaleVariant": "[上车]"
+          },
+          {
+            "stringId": "2075001373287534596",
+            "femaleVariant": "[下车]"
+          },
+          {
+            "stringId": "2076272792726163460",
+            "femaleVariant": "[举起双臂]"
+          }
+        ]
+      }
+
+
+

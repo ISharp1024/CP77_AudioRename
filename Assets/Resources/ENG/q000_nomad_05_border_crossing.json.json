@@ -1,0 +1,355 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1660532849951920128",
+            "femaleVariant": "Please direct your vehicle to the inspection area."
+          },
+          {
+            "stringId": "1660629253579886592",
+            "femaleVariant": "Remain in your vehicle. The security check will begin shortly."
+          },
+          {
+            "stringId": "1660629844339216384",
+            "femaleVariant": "I got a real bad feelin' about this…"
+          },
+          {
+            "stringId": "1660633705565147140",
+            "femaleVariant": "Calm down."
+          },
+          {
+            "stringId": "1660635662140854272",
+            "femaleVariant": "[Take document] Hand me the manifest."
+          },
+          {
+            "stringId": "1660637394170302464",
+            "femaleVariant": "Grab these."
+          },
+          {
+            "stringId": "1725817784919584768",
+            "femaleVariant": "You know they'll notice if you're nervous, right?"
+          },
+          {
+            "stringId": "1725820610974511104",
+            "femaleVariant": "You have got to calm down.",
+            "maleVariant": "You have to calm down."
+          },
+          {
+            "stringId": "1725820906085740544",
+            "femaleVariant": "Right, right, yeah…"
+          },
+          {
+            "stringId": "1725823397435207680",
+            "femaleVariant": "Hand me the manifest. They'll need to see it."
+          },
+          {
+            "stringId": "1725823727342383104",
+            "femaleVariant": "Let me see... Ah! It's marked LOA. Perfect.",
+            "maleVariant": "Let me see... Heh, it's marked LOA. Perfect."
+          },
+          {
+            "stringId": "1745908337402204160",
+            "femaleVariant": "The owner of the vehicle in the inspection area will report for further questioning."
+          },
+          {
+            "stringId": "1745914294672838656",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chingada madre...\" b=\"Ugh, \" a=\" What now?\"/>"
+          },
+          {
+            "stringId": "1745916599476441088",
+            "femaleVariant": "I'll keep the engine runnin'... in case of a cock-up."
+          },
+          {
+            "stringId": "1745918865474342912",
+            "femaleVariant": "Now please report to room number two."
+          },
+          {
+            "stringId": "1745920106719891456",
+            "femaleVariant": "Please sit."
+          },
+          {
+            "stringId": "1745920676658696196",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1745923202887995392",
+            "femaleVariant": "Papers."
+          },
+          {
+            "stringId": "1745924676816752640",
+            "femaleVariant": "[Hand over papers] Is this routine?"
+          },
+          {
+            "stringId": "1745925350623301632",
+            "femaleVariant": "[Hand over papers] I know the drill."
+          },
+          {
+            "stringId": "1745926609971466240",
+            "femaleVariant": "Is this routine?"
+          },
+          {
+            "stringId": "1745927387343769600",
+            "femaleVariant": "I know the rules. Everything's there."
+          },
+          {
+            "stringId": "1745927602696114176",
+            "femaleVariant": "Mmh..."
+          },
+          {
+            "stringId": "1745927602696114184",
+            "femaleVariant": "What are you transporting?"
+          },
+          {
+            "stringId": "1745927602712891392",
+            "femaleVariant": "[Give bribe] Actually, I forgot this."
+          },
+          {
+            "stringId": "1745927602712891408",
+            "femaleVariant": "Is anything wrong?"
+          },
+          {
+            "stringId": "1745927602746445824",
+            "femaleVariant": "There's one additional enclosure to the manifest."
+          },
+          {
+            "stringId": "1745927602763223040",
+            "femaleVariant": "If anything's wrong, just say so. I'm sure we can figure it out."
+          },
+          {
+            "stringId": "1745929126134435840",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1745935402272837632",
+            "femaleVariant": "Go on, now. Your associate's waiting for you in the car."
+          },
+          {
+            "stringId": "1745936319500013572",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1745939096162816000",
+            "femaleVariant": "What happened in there?"
+          },
+          {
+            "stringId": "1745939473700507648",
+            "femaleVariant": "I'll tell you soon. We need to get outta here."
+          },
+          {
+            "stringId": "1815731105973596160",
+            "femaleVariant": "What's that mean?"
+          },
+          {
+            "stringId": "1815731169089482752",
+            "femaleVariant": "Lost on Arrival. Means the cargo was flagged as \"to be lost\" as soon as it crossed the border.",
+            "maleVariant": "Lost on Arrival. It means the cargo was flagged as \"to be lost\" as soon as it crossed the border."
+          },
+          {
+            "stringId": "1815731644086022144",
+            "femaleVariant": "Whoa, so they know we're smugglin'?"
+          },
+          {
+            "stringId": "1815731911196078080",
+            "femaleVariant": "Well, they're about to find out.",
+            "maleVariant": "They're about to find out."
+          },
+          {
+            "stringId": "1815734083241570304",
+            "femaleVariant": "If we want the customs officer to turn a blind eye to our dubious docs, we'll need a sweetener. Do you have the credit chip with the bribe?",
+            "maleVariant": "If we want the customs officer to turn a blind eye to our dubious docus, we'll need a sweetener. Do you have the credit chip with the bribe?"
+          },
+          {
+            "stringId": "1815734803906883584",
+            "femaleVariant": "Oh... yeah. Heh, forgot about that."
+          },
+          {
+            "stringId": "1815734872307593216",
+            "femaleVariant": "Right. You forgot."
+          },
+          {
+            "stringId": "1817126272429387776",
+            "femaleVariant": "It might be. We'll see."
+          },
+          {
+            "stringId": "1817126712445431808",
+            "femaleVariant": "It might be, it might not be. We'll see."
+          },
+          {
+            "stringId": "1817163208846143488",
+            "femaleVariant": "It's all in there."
+          },
+          {
+            "stringId": "1817163285685792768",
+            "femaleVariant": "Everything...?"
+          },
+          {
+            "stringId": "1817164322115088384",
+            "femaleVariant": "I haven't said anything yet."
+          },
+          {
+            "stringId": "1817164673530654720",
+            "femaleVariant": "The question is, should I expect to find anything out of order?"
+          },
+          {
+            "stringId": "1817166927851614208",
+            "femaleVariant": "Ah, yes… Remind me, you drive for which nomad clan?"
+          },
+          {
+            "stringId": "1817188737410330628",
+            "femaleVariant": "I feel the same way."
+          },
+          {
+            "stringId": "1817188753382240256",
+            "femaleVariant": "The feeling's mutual."
+          },
+          {
+            "stringId": "1883809499365437440",
+            "femaleVariant": "Do that."
+          },
+          {
+            "stringId": "1883858553243889664",
+            "femaleVariant": "Yeah, OK."
+          },
+          {
+            "stringId": "1908331701848018944",
+            "femaleVariant": "You have bribe money?"
+          },
+          {
+            "stringId": "1908332506785288192",
+            "femaleVariant": "This is how it works."
+          },
+          {
+            "stringId": "1908333198677676032",
+            "femaleVariant": "Relax. It's all in line with procedures. It's all part of the plan."
+          },
+          {
+            "stringId": "1914000072512565248",
+            "femaleVariant": "Hey, guess you know what you're doin', huh?"
+          },
+          {
+            "stringId": "1915576214748155904",
+            "femaleVariant": "Attempt to cross the border, and we will open fire."
+          },
+          {
+            "stringId": "1915579325864759296",
+            "femaleVariant": "Proceed to the office for questioning. All other areas are off limits."
+          },
+          {
+            "stringId": "1915619282633379844",
+            "femaleVariant": "Return to your vehicle immediately."
+          },
+          {
+            "stringId": "1967515890164363264",
+            "femaleVariant": "Any attempt at unlawful crossing will be met with force."
+          },
+          {
+            "stringId": "1979090529668845568",
+            "femaleVariant": "If you're armed, place your weapon here."
+          },
+          {
+            "stringId": "1979094424616980484",
+            "femaleVariant": "[Place weapon]"
+          },
+          {
+            "stringId": "1979168689332703232",
+            "femaleVariant": "Don't forget to take your personal items."
+          },
+          {
+            "stringId": "1979180039974965248",
+            "femaleVariant": "[Take gun]"
+          },
+          {
+            "stringId": "1985307043203928068",
+            "femaleVariant": "[Take money and get out] Right…"
+          },
+          {
+            "stringId": "1996740732432347140",
+            "femaleVariant": "That's not your concern."
+          },
+          {
+            "stringId": "1996740741710147584",
+            "femaleVariant": "I don't think that's any concern of yours."
+          },
+          {
+            "stringId": "1996740745401135104",
+            "femaleVariant": "None, no clan. I drive for myself."
+          },
+          {
+            "stringId": "1996741285275168768",
+            "femaleVariant": "I don't drive for any clan."
+          },
+          {
+            "stringId": "1996743954798669824",
+            "femaleVariant": "Is that what you believe?"
+          },
+          {
+            "stringId": "1996745404484349952",
+            "femaleVariant": "Bold. And none too wise…"
+          },
+          {
+            "stringId": "1996746100453601280",
+            "femaleVariant": "Y'know, whenever I see someone like you, I'm oh so grateful not to be on that side of the table."
+          },
+          {
+            "stringId": "2239109368962531328",
+            "femaleVariant": "C'mon, don't make me wait, choom…"
+          },
+          {
+            "stringId": "2253228609118584832",
+            "femaleVariant": "Room two."
+          },
+          {
+            "stringId": "2253305459622723596",
+            "femaleVariant": "Be careful with that toy."
+          },
+          {
+            "stringId": "2253305459622723608",
+            "femaleVariant": "And welcome to Night City."
+          },
+          {
+            "stringId": "2253309757106601984",
+            "femaleVariant": "Siddown."
+          },
+          {
+            "stringId": "2253319572096729096",
+            "femaleVariant": "Papers. Hand them over."
+          },
+          {
+            "stringId": "2253320904224456712",
+            "femaleVariant": "Is that all you have for me?"
+          },
+          {
+            "stringId": "2253374931842809864",
+            "femaleVariant": "It's time you left."
+          },
+          {
+            "stringId": "2253377278472011784",
+            "femaleVariant": "Out of my sight, before I change my mind."
+          },
+          {
+            "stringId": "2253392234890313728",
+            "femaleVariant": "Proceed to customs without undue delay."
+          },
+          {
+            "stringId": "2289348898572402688",
+            "femaleVariant": "[Get in] I'll tell you soon."
+          }
+        ]
+      }
+
+
+

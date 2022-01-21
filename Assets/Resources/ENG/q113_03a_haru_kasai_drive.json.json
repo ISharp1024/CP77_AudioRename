@@ -1,0 +1,289 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1721215632973774848",
+            "femaleVariant": "I don't have time for this, sir! Hanako Arasaka is expecting us!"
+          },
+          {
+            "stringId": "1721263440690954240",
+            "femaleVariant": "Blast it all!"
+          },
+          {
+            "stringId": "1724079058729320448",
+            "femaleVariant": "They won't let us anywhere near her."
+          },
+          {
+            "stringId": "1781044245499494400",
+            "femaleVariant": "Fuuuck!"
+          },
+          {
+            "stringId": "1804133045293301760",
+            "femaleVariant": "Hanako-sama? They may have cut communication at the residence."
+          },
+          {
+            "stringId": "1804133996242681856",
+            "femaleVariant": "Who...? Hanako?"
+          },
+          {
+            "stringId": "1804234795803230208",
+            "femaleVariant": "Hanako Arasaka is expecting us."
+          },
+          {
+            "stringId": "1804234795803230240",
+            "femaleVariant": "Let us through. I'm with Abernathy – IOC."
+          },
+          {
+            "stringId": "1804236419888070656",
+            "femaleVariant": "[Smash his head in] Name's V."
+          },
+          {
+            "stringId": "1804237573908873216",
+            "femaleVariant": "Name's V."
+          },
+          {
+            "stringId": "1804269961082847232",
+            "femaleVariant": "Stay where you are."
+          },
+          {
+            "stringId": "1805271425938898944",
+            "femaleVariant": "Is everything in order?"
+          },
+          {
+            "stringId": "1805301516899205120",
+            "femaleVariant": "Efficient, effective. Good work."
+          },
+          {
+            "stringId": "1805302056706129920",
+            "femaleVariant": "Have you gone absolutely mental?!"
+          },
+          {
+            "stringId": "1805302953733537792",
+            "femaleVariant": "Bloody fucking hell!"
+          },
+          {
+            "stringId": "1805305959908655104",
+            "femaleVariant": "Hellman – go and bring the AV here. Things will get very messy soon."
+          },
+          {
+            "stringId": "1821038332974546944",
+            "femaleVariant": "I asked you a question."
+          },
+          {
+            "stringId": "1821038335457574916",
+            "femaleVariant": "Are you deaf?"
+          },
+          {
+            "stringId": "1825487404368007168",
+            "femaleVariant": "Something has gone wrong...!"
+          },
+          {
+            "stringId": "1825487611885391872",
+            "femaleVariant": "Reckless driving will not improve the situation."
+          },
+          {
+            "stringId": "1825489469458747392",
+            "femaleVariant": "I didn't agree to this…"
+          },
+          {
+            "stringId": "1825497457292611584",
+            "femaleVariant": "None of us did, matter of fact."
+          },
+          {
+            "stringId": "1825502554579931136",
+            "femaleVariant": "Now for the fun part."
+          },
+          {
+            "stringId": "1825505270341439488",
+            "femaleVariant": "Weapons at the ready."
+          },
+          {
+            "stringId": "1825540085916766208",
+            "femaleVariant": "I'm not your bloody chauffeur!"
+          },
+          {
+            "stringId": "1825544003950350336",
+            "femaleVariant": "You are awake."
+          },
+          {
+            "stringId": "1825545128258703360",
+            "femaleVariant": "I fail to see what you and your sharp wits are doing here."
+          },
+          {
+            "stringId": "1825547272487571456",
+            "femaleVariant": "Driving Miss V...",
+            "maleVariant": "Driving Master V…"
+          },
+          {
+            "stringId": "1825548010668298240",
+            "femaleVariant": "Or why I am here…"
+          },
+          {
+            "stringId": "1825549802223308800",
+            "femaleVariant": "Easy on 'er, all right? Don't wanna damage the fuckin' wheels…"
+          },
+          {
+            "stringId": "1825551601562947584",
+            "femaleVariant": "What am I – your chauffeur? I didn't agree to this."
+          },
+          {
+            "stringId": "1825554878690103296",
+            "femaleVariant": "Don't remember conkin' out."
+          },
+          {
+            "stringId": "1825560028188119040",
+            "femaleVariant": "The limo is Arasaka, but there will be guards past the checkpoint."
+          },
+          {
+            "stringId": "1825560518804246528",
+            "femaleVariant": "Try to act natural."
+          },
+          {
+            "stringId": "1825560650455060480",
+            "femaleVariant": "Or rather... just be still and calm, and this will all go smoothly."
+          },
+          {
+            "stringId": "1825562622583246848",
+            "femaleVariant": "Just... everyone be still and calm, and this will all go smoothly."
+          },
+          {
+            "stringId": "1825567536545927168",
+            "femaleVariant": "We are almost there. Why has she not called?"
+          },
+          {
+            "stringId": "1835608612879077376",
+            "femaleVariant": "Hanako is expecting us. Be a good chap and don't make this difficult, hm?"
+          },
+          {
+            "stringId": "1835642902975221760",
+            "femaleVariant": "No one is allowed onto the estate until further notice."
+          },
+          {
+            "stringId": "1835644364824383488",
+            "femaleVariant": "By order of Yorinobu Arasaka."
+          },
+          {
+            "stringId": "1835644997174431744",
+            "femaleVariant": "I do. But not hers.",
+            "maleVariant": "I do. But not his."
+          },
+          {
+            "stringId": "1835645337399595008",
+            "femaleVariant": "I do. But not theirs."
+          },
+          {
+            "stringId": "1835649838072336384",
+            "femaleVariant": "Grr, couldn't be worse... Backup'll get here in seconds.",
+            "maleVariant": "Dammit, couldn't be worse... Backup'll get here in seconds."
+          },
+          {
+            "stringId": "1835666170255904768",
+            "femaleVariant": "Jesus Christ!"
+          },
+          {
+            "stringId": "1835671531968925696",
+            "femaleVariant": "Preem, Hellman. Now, what was it you said about acting natural...?"
+          },
+          {
+            "stringId": "1835671602718445568",
+            "femaleVariant": "Fine work, chauffeur."
+          },
+          {
+            "stringId": "1835696967167905792",
+            "femaleVariant": "What now?"
+          },
+          {
+            "stringId": "1835697224899497984",
+            "femaleVariant": "Have to plow right through 'em, then."
+          },
+          {
+            "stringId": "1837435033293295616",
+            "femaleVariant": "Identify yourself."
+          },
+          {
+            "stringId": "1837435268442755072",
+            "femaleVariant": "Identify yourselves."
+          },
+          {
+            "stringId": "1841652185277796352",
+            "femaleVariant": "Are you mad? We must act natural!"
+          },
+          {
+            "stringId": "1841654617789566976",
+            "femaleVariant": "I'm from IOC. Abernathy's initiated protocol four procedures. Need to make sure every facility in Night City is secure."
+          },
+          {
+            "stringId": "1841655046380326912",
+            "femaleVariant": "Abernathy...?"
+          },
+          {
+            "stringId": "1841656351110860800",
+            "femaleVariant": "The woman who committed suicide two days ago?"
+          },
+          {
+            "stringId": "1841656504605609984",
+            "femaleVariant": "What?!"
+          },
+          {
+            "stringId": "1845795264662474752",
+            "femaleVariant": "Neither did I, matter of fact."
+          },
+          {
+            "stringId": "1845799435058941952",
+            "femaleVariant": "Piss off!"
+          },
+          {
+            "stringId": "1845799776005525504",
+            "femaleVariant": "Oh, piss off!"
+          },
+          {
+            "stringId": "1845828019257479168",
+            "femaleVariant": "We are not here to ask anyone's permission."
+          },
+          {
+            "stringId": "1845831056453668864",
+            "femaleVariant": "V, you will come with me."
+          },
+          {
+            "stringId": "1846005625500078080",
+            "femaleVariant": "Knock yourself out. You fetch Hanako, I'll sort out the AV."
+          },
+          {
+            "stringId": "1846008199007571968",
+            "femaleVariant": "So just shut up and drive."
+          },
+          {
+            "stringId": "1846008792786800640",
+            "femaleVariant": "Eyes open, now. We will arrive shortly."
+          },
+          {
+            "stringId": "2000945336351006720",
+            "femaleVariant": "By order of Yorinobu Arasaka!"
+          },
+          {
+            "stringId": "2000945884512985088",
+            "femaleVariant": "You must be joking! Surely, you know my face...?"
+          },
+          {
+            "stringId": "2079645422272462852",
+            "femaleVariant": "[Smash his head in]"
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,1043 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1536237526577799172",
+            "femaleVariant": "Not feeling well, either?"
+          },
+          {
+            "stringId": "1536240144494583808",
+            "femaleVariant": "Feel like shit, too?"
+          },
+          {
+            "stringId": "1536240753926955008",
+            "femaleVariant": "Nah, need a power nap. Wanna join me?"
+          },
+          {
+            "stringId": "1561030871233552384",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1561032333485367296",
+            "femaleVariant": "You'll never guess who."
+          },
+          {
+            "stringId": "1561032461545857024",
+            "femaleVariant": "Huhh?... Can't hear you."
+          },
+          {
+            "stringId": "1561045652027957248",
+            "femaleVariant": "Kerry Eurodyne residence – please wait while I connect--"
+          },
+          {
+            "stringId": "1794185819381784580",
+            "femaleVariant": "[Take pills] OK."
+          },
+          {
+            "stringId": "1794186104124694528",
+            "femaleVariant": "Not yet."
+          },
+          {
+            "stringId": "1794186387374432256",
+            "femaleVariant": "No. Not yet."
+          },
+          {
+            "stringId": "1794186791856332800",
+            "femaleVariant": "Wanna wander around by yourself?"
+          },
+          {
+            "stringId": "1794187093443567616",
+            "femaleVariant": "Gimme a minute is all I ask."
+          },
+          {
+            "stringId": "1794187198032732160",
+            "femaleVariant": "OK."
+          },
+          {
+            "stringId": "1794188379266179072",
+            "femaleVariant": "Ugh, feels so much better."
+          },
+          {
+            "stringId": "1804059240710234112",
+            "femaleVariant": "Fugly as seafood barf."
+          },
+          {
+            "stringId": "1804074042409050116",
+            "femaleVariant": "Fuck, cookie cutter crap straight from a catalogue."
+          },
+          {
+            "stringId": "1804085372952207364",
+            "femaleVariant": "Well, now I am impressed."
+          },
+          {
+            "stringId": "1804085420700164100",
+            "femaleVariant": "Looks like he's showering?"
+          },
+          {
+            "stringId": "1804109596081217536",
+            "femaleVariant": "Played a few of these myself back in our Samurai days."
+          },
+          {
+            "stringId": "1804111166160199680",
+            "femaleVariant": "Alone, too. Good thing, believe me."
+          },
+          {
+            "stringId": "1804120695417561088",
+            "femaleVariant": "Hope it was expensive at least."
+          },
+          {
+            "stringId": "1804121463377846272",
+            "femaleVariant": "OK, leave the rest to me. I'll get him outta there."
+          },
+          {
+            "stringId": "1804122586125918208",
+            "femaleVariant": "Drop one of Misty's special pills, let's go."
+          },
+          {
+            "stringId": "1804186995888185344",
+            "femaleVariant": "Who the fuck...?"
+          },
+          {
+            "stringId": "1804189475778813952",
+            "femaleVariant": "Keep playin'."
+          },
+          {
+            "stringId": "1804191392558964736",
+            "femaleVariant": "Johnny?"
+          },
+          {
+            "stringId": "1804235697327661056",
+            "femaleVariant": "All right. C'mon, tell me – why do you look like a small-time kleptopunk from the Afterlife?"
+          },
+          {
+            "stringId": "1804239243108376576",
+            "femaleVariant": "This is V. You'd like 'er.",
+            "maleVariant": "This is V. You'd like 'im."
+          },
+          {
+            "stringId": "1804250355581280256",
+            "femaleVariant": "Moved in after the fourth album came out."
+          },
+          {
+            "stringId": "1804282907004198912",
+            "femaleVariant": "C'mon. Siddown with me, tell me where you've been all this time."
+          },
+          {
+            "stringId": "1804292684027486208",
+            "femaleVariant": "[Sit] It's a long story."
+          },
+          {
+            "stringId": "1804307544882765828",
+            "femaleVariant": "What'll you have?"
+          },
+          {
+            "stringId": "1804307544916320256",
+            "femaleVariant": "Sit, please."
+          },
+          {
+            "stringId": "1804307544933097476",
+            "femaleVariant": "Sit the fuck down already."
+          },
+          {
+            "stringId": "1804317504861593600",
+            "femaleVariant": "Steel yourself for a long story."
+          },
+          {
+            "stringId": "1804318066378235904",
+            "femaleVariant": "Oh, it is a heartbreaker."
+          },
+          {
+            "stringId": "1804344263799693312",
+            "femaleVariant": "Ooh fuck, remember? The one damn time Henry showed up sober and clean as a whistle."
+          },
+          {
+            "stringId": "1804345893119025152",
+            "femaleVariant": "Uh-huh. An' played absolute tripe."
+          },
+          {
+            "stringId": "1804346147562283008",
+            "femaleVariant": "Least Denny was happy."
+          },
+          {
+            "stringId": "1804348630858686468",
+            "femaleVariant": "You wanna bring back Samurai?"
+          },
+          {
+            "stringId": "1804351203544096768",
+            "femaleVariant": "She went from Nancy to Bes Isis?"
+          },
+          {
+            "stringId": "1804351328265920512",
+            "femaleVariant": "Henry probably drank himself to death."
+          },
+          {
+            "stringId": "1804352078794678272",
+            "femaleVariant": "Bes Isis. Damn, Nance really went for it."
+          },
+          {
+            "stringId": "1804352107584380928",
+            "femaleVariant": "Henry probably killed his own liver."
+          },
+          {
+            "stringId": "1804353330861531136",
+            "femaleVariant": "Though all I hear is part-time stripper with a thing for Ancient Egypt."
+          },
+          {
+            "stringId": "1804354080803086336",
+            "femaleVariant": "Shame you died. Sure she woulda welcomed your input."
+          },
+          {
+            "stringId": "1804354781503512576",
+            "femaleVariant": "Nah. Woulda heard if he was gone. Got mutual friends."
+          },
+          {
+            "stringId": "1804357433998139392",
+            "femaleVariant": "You wanna bring Samurai back?"
+          },
+          {
+            "stringId": "1804358115924860928",
+            "femaleVariant": "Dunno. Could do one gig. Play some dive where nobody'd place us."
+          },
+          {
+            "stringId": "1804359312408797184",
+            "femaleVariant": "I mean, got my reputation to think about."
+          },
+          {
+            "stringId": "1804372237408231424",
+            "femaleVariant": "Johnny? You OK?"
+          },
+          {
+            "stringId": "1804373319756767232",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "1804376974119624704",
+            "femaleVariant": "Ah, so you must be V."
+          },
+          {
+            "stringId": "1804377916076417024",
+            "femaleVariant": "Johnny mentioned something like this might happen."
+          },
+          {
+            "stringId": "1804391906965938176",
+            "femaleVariant": "Don't worry about a thing."
+          },
+          {
+            "stringId": "1804407250786934784",
+            "femaleVariant": "The hell is this concert thing?"
+          },
+          {
+            "stringId": "1804407748181057536",
+            "femaleVariant": "D'you hear that?"
+          },
+          {
+            "stringId": "1804408238629412864",
+            "femaleVariant": "Gets sharper as the pills wear off. So?"
+          },
+          {
+            "stringId": "1804408518238494720",
+            "femaleVariant": "Wanna see Samurai live? Prolly won't get another chance."
+          },
+          {
+            "stringId": "1804452664194064384",
+            "femaleVariant": "Nancy? I mean – Bes? Bes Isis?"
+          },
+          {
+            "stringId": "1804453344677945344",
+            "femaleVariant": "No. This her underpaid, underappreciated assistant. Steven, N54 News, how can I help?"
+          },
+          {
+            "stringId": "1804453592158658560",
+            "femaleVariant": "Wanna talk to Bes."
+          },
+          {
+            "stringId": "1804454247678042112",
+            "femaleVariant": "She's not here."
+          },
+          {
+            "stringId": "1804460529956904964",
+            "femaleVariant": "Got a bad feeling, V."
+          },
+          {
+            "stringId": "1808822669618667520",
+            "femaleVariant": "Who'd you sign with?"
+          },
+          {
+            "stringId": "1811341131905720324",
+            "femaleVariant": "Come back later, maybe?"
+          },
+          {
+            "stringId": "1831444415691640832",
+            "femaleVariant": "Nah, c'mon, we're lucky the dog's even home."
+          },
+          {
+            "stringId": "1831451423366991872",
+            "femaleVariant": "Somethin's gotta justify this level of tacky."
+          },
+          {
+            "stringId": "1831460092506820608",
+            "femaleVariant": "Doubt Kerry picked this."
+          },
+          {
+            "stringId": "1831460969770668032",
+            "femaleVariant": "Always ate out, always."
+          },
+          {
+            "stringId": "1831478734795591680",
+            "femaleVariant": "Like a fangirl or somethin'?",
+            "maleVariant": "Like a fanboy or somethin'?"
+          },
+          {
+            "stringId": "1831548993833553920",
+            "femaleVariant": "Every damn time we change things up, feels like a leap off 'Saka Tower to me."
+          },
+          {
+            "stringId": "1831549739664691200",
+            "femaleVariant": "Hm, and need a running start?"
+          },
+          {
+            "stringId": "1831579029210943488",
+            "femaleVariant": "Surprise."
+          },
+          {
+            "stringId": "1831593312896438276",
+            "femaleVariant": "Motherfucker."
+          },
+          {
+            "stringId": "1831597354745876480",
+            "femaleVariant": "OK, weren't expecting me, I get it."
+          },
+          {
+            "stringId": "1831613194937585664",
+            "femaleVariant": "Au fucking contraire. Been waiting fifty years to do that."
+          },
+          {
+            "stringId": "1831614653750071300",
+            "femaleVariant": "See you changed a bit. Nice rack. Sporting a new style?",
+            "maleVariant": "See you changed a bit. Sporting a new style, tryin' to stay hip?"
+          },
+          {
+            "stringId": "1831622947768127488",
+            "femaleVariant": "You look good."
+          },
+          {
+            "stringId": "1831622947784904704",
+            "femaleVariant": "Yeah. What about you?"
+          },
+          {
+            "stringId": "1831622948892200964",
+            "femaleVariant": "Not lookin' all bad yourself, either."
+          },
+          {
+            "stringId": "1831622951861768196",
+            "femaleVariant": "Yeah, kinda. What about you?"
+          },
+          {
+            "stringId": "1831622954646786048",
+            "femaleVariant": "Shit – Johnny."
+          },
+          {
+            "stringId": "1831624664043769856",
+            "femaleVariant": "Oh man, need a drink."
+          },
+          {
+            "stringId": "1831693346493190144",
+            "femaleVariant": "The fuck, Johnny. Doesn't explain a thing."
+          },
+          {
+            "stringId": "1832679137352634368",
+            "femaleVariant": "All sold well, apparently."
+          },
+          {
+            "stringId": "1832680800209620992",
+            "femaleVariant": "Nice place."
+          },
+          {
+            "stringId": "1832681041667313664",
+            "femaleVariant": "Ain't seen much of it yet."
+          },
+          {
+            "stringId": "1832682362118098944",
+            "femaleVariant": "Fuck you, Johnny. Don't even start."
+          },
+          {
+            "stringId": "1832693216960073728",
+            "femaleVariant": "Shit, with Arasaka."
+          },
+          {
+            "stringId": "1832693544619102208",
+            "femaleVariant": "Mornings I record at their studio, then evenings Yori pops over for a little neighborly cookout."
+          },
+          {
+            "stringId": "1832705080314056704",
+            "femaleVariant": "Mh, and who'd you really sign with?"
+          },
+          {
+            "stringId": "1832705441342967808",
+            "femaleVariant": "MSM Records."
+          },
+          {
+            "stringId": "1832707319334195200",
+            "femaleVariant": "Another pillar of society."
+          },
+          {
+            "stringId": "1832719125930856448",
+            "femaleVariant": "I just really want it to be tragic, sad as all fuck over all those years."
+          },
+          {
+            "stringId": "1832720041429979136",
+            "femaleVariant": "'Cause if I hear you spent them with the nomads, open road, wind in your hair…"
+          },
+          {
+            "stringId": "1832722342710366208",
+            "femaleVariant": "Or cool and relaxed in orbit… And now you've just popped by to shit all over my life, well, I'ma lose my damn mind."
+          },
+          {
+            "stringId": "1832753149638365188",
+            "femaleVariant": "Still in touch with the rest of the band?"
+          },
+          {
+            "stringId": "1832756460219289600",
+            "femaleVariant": "Depression stuff – is it true?"
+          },
+          {
+            "stringId": "1832757408870191104",
+            "femaleVariant": "Never got what Denny saw in Henry."
+          },
+          {
+            "stringId": "1832761847936995328",
+            "femaleVariant": "Stuff about you bein' depressed – it true?"
+          },
+          {
+            "stringId": "1832776480957681664",
+            "femaleVariant": "Nope. Promo stratagem."
+          },
+          {
+            "stringId": "1832780404427083776",
+            "femaleVariant": "Suicide attempts, too? Think putting a bullet through your skull'll help your sales?"
+          },
+          {
+            "stringId": "1832782525838938112",
+            "femaleVariant": "Didn't work for you. Nobody remembers Samurai."
+          },
+          {
+            "stringId": "1832783400284213248",
+            "femaleVariant": "Seems those were good times, in hindsight."
+          },
+          {
+            "stringId": "1832784149957332992",
+            "femaleVariant": "Never did get what Denny saw in that guy."
+          },
+          {
+            "stringId": "1832785676516216832",
+            "femaleVariant": "Lookin' at 'em now, those really were the best of times."
+          },
+          {
+            "stringId": "1832786765005213696",
+            "femaleVariant": "Still in touch with the gang?"
+          },
+          {
+            "stringId": "1832802714869583872",
+            "femaleVariant": "Played fucking rat-infested dumps, argued before every gig…"
+          },
+          {
+            "stringId": "1832806520244162560",
+            "femaleVariant": "Had no idea what we wanted to play. And never had an ed to our name."
+          },
+          {
+            "stringId": "1832807401098334208",
+            "femaleVariant": "Nancy – control freak. Henry smelled like zappers 'n' piss. I was always stealin' your pants."
+          },
+          {
+            "stringId": "1832810386872356864",
+            "femaleVariant": "Hella good times, man."
+          },
+          {
+            "stringId": "1832826426192842752",
+            "femaleVariant": "Now you're just butthurt 'cause I managed fine without ya."
+          },
+          {
+            "stringId": "1832833633248628736",
+            "femaleVariant": "I mean, smart imp, that one. Maybe too smart for the company she kept."
+          },
+          {
+            "stringId": "1832839632395194368",
+            "femaleVariant": "Nah, Denny always went for losers incapable of dressing themselves."
+          },
+          {
+            "stringId": "1832840821295828992",
+            "femaleVariant": "Hank was perfect. Half a brain and high all the time – she got to rescue him over and over again."
+          },
+          {
+            "stringId": "1832844318657499136",
+            "femaleVariant": "Why'd she never try and fix me?"
+          },
+          {
+            "stringId": "1832844740940025856",
+            "femaleVariant": "Woulda had to get in line, that's why."
+          },
+          {
+            "stringId": "1832849908372885504",
+            "femaleVariant": "Fuck me. Got no answer to that."
+          },
+          {
+            "stringId": "1832857271490334720",
+            "femaleVariant": "Just Nance. Changed her name to Bes Isis, works for N54 News."
+          },
+          {
+            "stringId": "1832868643037007872",
+            "femaleVariant": "Could track down Denny and Henry if you want."
+          },
+          {
+            "stringId": "1832871436762238976",
+            "femaleVariant": "Maybe get together? You know, jam or somethin'."
+          },
+          {
+            "stringId": "1832895984362606592",
+            "femaleVariant": "How is she in general, besides having nothing to do with music?"
+          },
+          {
+            "stringId": "1832896256287723520",
+            "femaleVariant": "Could ask her yourself."
+          },
+          {
+            "stringId": "1832905266827120640",
+            "femaleVariant": "Few calls and I should be able to track him down."
+          },
+          {
+            "stringId": "1832916454344511488",
+            "femaleVariant": "Denny might still be in the biz. Actually had talent – and a spine."
+          },
+          {
+            "stringId": "1832916457683177472",
+            "femaleVariant": "Yeah, released somethin' not too long ago. Moved to North Oak, too."
+          },
+          {
+            "stringId": "1832916460703076352",
+            "femaleVariant": "You ever leave this house?"
+          },
+          {
+            "stringId": "1832916463941079040",
+            "femaleVariant": "Nope."
+          },
+          {
+            "stringId": "1832917177190862848",
+            "femaleVariant": "Denny should still be playing."
+          },
+          {
+            "stringId": "1832921106330963968",
+            "femaleVariant": "You just said you weren't in touch."
+          },
+          {
+            "stringId": "1832921371142541312",
+            "femaleVariant": "Didn't hear it from her. Think she might be avoiding me."
+          },
+          {
+            "stringId": "1832928761573298180",
+            "femaleVariant": "OK. Let's do it."
+          },
+          {
+            "stringId": "1832929230177718272",
+            "femaleVariant": "All right. Let's do it."
+          },
+          {
+            "stringId": "1832929396540592128",
+            "femaleVariant": "But I'm not gonna have to explain all this again, am I?"
+          },
+          {
+            "stringId": "1832930699358523392",
+            "femaleVariant": "But I won't have to explain what happened, all this?"
+          },
+          {
+            "stringId": "1832932253901803520",
+            "femaleVariant": "Nah, we'll spare 'em. Hella boring story."
+          },
+          {
+            "stringId": "1832932885933084672",
+            "femaleVariant": "We'll just say you're my new output.",
+            "maleVariant": "We'll just say you're my new input."
+          },
+          {
+            "stringId": "1832933343212883968",
+            "femaleVariant": "Biochips, Arasaka's evil schemes, magic pills…"
+          },
+          {
+            "stringId": "1832979156521734144",
+            "femaleVariant": "OK, send ya Nancy's number in a sec. I'll go after Henry and Denny."
+          },
+          {
+            "stringId": "1832994183337234432",
+            "femaleVariant": "How'm I--"
+          },
+          {
+            "stringId": "1833004311423766532",
+            "femaleVariant": "You two have a good time?"
+          },
+          {
+            "stringId": "1833007856365621248",
+            "femaleVariant": "Hang on. You look like shit."
+          },
+          {
+            "stringId": "1833008391391039488",
+            "femaleVariant": "Nah, I'll be fine."
+          },
+          {
+            "stringId": "1833010262537162752",
+            "femaleVariant": "You two have fun at least?"
+          },
+          {
+            "stringId": "1833010754545799168",
+            "femaleVariant": "I'll be fine."
+          },
+          {
+            "stringId": "1833038120366133248",
+            "femaleVariant": "Heheh – that a hint of disapproval I hear?"
+          },
+          {
+            "stringId": "1833045239744188416",
+            "femaleVariant": "Just sit tight for a bit, rest."
+          },
+          {
+            "stringId": "1833085853626028032",
+            "femaleVariant": "Let's go, V. He's joking."
+          },
+          {
+            "stringId": "1833123552835686404",
+            "femaleVariant": "Callin' from Kerry Eurodyne's residence."
+          },
+          {
+            "stringId": "1833126578287824896",
+            "femaleVariant": "When will she be back?"
+          },
+          {
+            "stringId": "1833127337221967872",
+            "femaleVariant": "Callin' from Kerry Eurodyne's residence."
+          },
+          {
+            "stringId": "1833127788797513728",
+            "femaleVariant": "Know when she'll be back?",
+            "maleVariant": "You know when she'll be back?"
+          },
+          {
+            "stringId": "1833130109287813120",
+            "femaleVariant": "Cool. But Bes still isn't here."
+          },
+          {
+            "stringId": "1833132728882319360",
+            "femaleVariant": "She was s'posed to be back two days ago."
+          },
+          {
+            "stringId": "1833133706876571648",
+            "femaleVariant": "Went to the Totentanz to shoot some stuff, story on Maelstrom."
+          },
+          {
+            "stringId": "1833134354493886464",
+            "femaleVariant": "Call back next week, or just watch the news."
+          },
+          {
+            "stringId": "1833158430922919936",
+            "femaleVariant": "Anything happens to her, I'll be the first to cover it."
+          },
+          {
+            "stringId": "1833168424741392384",
+            "femaleVariant": "Think we better head to the Totentanz."
+          },
+          {
+            "stringId": "1870729460373667840",
+            "femaleVariant": "Axe like that run us many eddies?"
+          },
+          {
+            "stringId": "1870739713869889540",
+            "femaleVariant": "Forget it, we couldn't afford it."
+          },
+          {
+            "stringId": "1870740303538700288",
+            "femaleVariant": "That's Kerry's fave."
+          },
+          {
+            "stringId": "1870781576781905920",
+            "femaleVariant": "Wicked bad collection."
+          },
+          {
+            "stringId": "1870880809887350784",
+            "femaleVariant": "\"Never Fade Away...\""
+          },
+          {
+            "stringId": "1870882075107540992",
+            "femaleVariant": "Guess if I had a fave, it'd be that one."
+          },
+          {
+            "stringId": "1870883468421775364",
+            "femaleVariant": "What's this?"
+          },
+          {
+            "stringId": "1870883468421775372",
+            "femaleVariant": "Old single we put out. No idea why Kerry hoards shit like that."
+          },
+          {
+            "stringId": "1870883514559119364",
+            "femaleVariant": "OK, even I know that one."
+          },
+          {
+            "stringId": "1870883552844726276",
+            "femaleVariant": "\"Second Conflict.\""
+          },
+          {
+            "stringId": "1870883552844726284",
+            "femaleVariant": "Kerry'd always go straight for kitsch with titles."
+          },
+          {
+            "stringId": "1875156402833215488",
+            "femaleVariant": "Guess nothing's changed."
+          },
+          {
+            "stringId": "1876232644797943808",
+            "femaleVariant": "Who's that?"
+          },
+          {
+            "stringId": "1876237035663806464",
+            "femaleVariant": "Louise. The ex-wife."
+          },
+          {
+            "stringId": "1876240559483146240",
+            "femaleVariant": "The what? Hah, you're kidding. How long'd it last?"
+          },
+          {
+            "stringId": "1876243451086655488",
+            "femaleVariant": "Eehh, too long. But don't worry, it worked out well... for her."
+          },
+          {
+            "stringId": "1876244390493310976",
+            "femaleVariant": "Gave 'er my house in Tokyo, cars, kids… yeah."
+          },
+          {
+            "stringId": "1876247196449132544",
+            "femaleVariant": "Worked out pretty well for you, too, then."
+          },
+          {
+            "stringId": "1886317512936411136",
+            "femaleVariant": "Now, let's see which're up for show and which're actually strummable."
+          },
+          {
+            "stringId": "1910543519226675200",
+            "femaleVariant": "The hell's this freak tech?"
+          },
+          {
+            "stringId": "1910607737896452096",
+            "femaleVariant": "Who's that?"
+          },
+          {
+            "stringId": "1911693370958168068",
+            "femaleVariant": "Huscle bots. Been here before."
+          },
+          {
+            "stringId": "1912851346649534464",
+            "femaleVariant": "Not yet. Gimme a sec."
+          },
+          {
+            "stringId": "1912851915078389760",
+            "femaleVariant": "What, don't trust me after all?"
+          },
+          {
+            "stringId": "1912852514645757952",
+            "femaleVariant": "You ever gonna make up your damn mind?"
+          },
+          {
+            "stringId": "1912863441009004544",
+            "femaleVariant": "Kerry couldn't just hire some Animals?"
+          },
+          {
+            "stringId": "1914212166792470532",
+            "femaleVariant": "[Play \"Chippin' In\"]"
+          },
+          {
+            "stringId": "1914235775455944704",
+            "femaleVariant": "[Play \"Never Fade Away\"]"
+          },
+          {
+            "stringId": "1914235993861742592",
+            "femaleVariant": "[Play \"Archangel\"]"
+          },
+          {
+            "stringId": "1914272520042012676",
+            "femaleVariant": "Well?"
+          },
+          {
+            "stringId": "1914272520109121540",
+            "femaleVariant": "Play."
+          },
+          {
+            "stringId": "1914272520193007620",
+            "femaleVariant": "Forgot what comes next?"
+          },
+          {
+            "stringId": "1914295818394099716",
+            "femaleVariant": "[Stand] This is V."
+          },
+          {
+            "stringId": "1914371759136923652",
+            "femaleVariant": "[Stand] Cool, I'll talk to Nancy."
+          },
+          {
+            "stringId": "1915357220407959556",
+            "femaleVariant": "[Stand] Cool, I'll call Nancy."
+          },
+          {
+            "stringId": "1915360949597200384",
+            "femaleVariant": "OK. Callin' Nancy."
+          },
+          {
+            "stringId": "1915640851051859968",
+            "femaleVariant": "[Stand] And you tell me what happened to your throat."
+          },
+          {
+            "stringId": "1915650444062642176",
+            "femaleVariant": "Long as you tell me whatcha got in your throat."
+          },
+          {
+            "stringId": "1915652864830361600",
+            "femaleVariant": "Always did complain I couldn't carry a tune."
+          },
+          {
+            "stringId": "1915654932974555136",
+            "femaleVariant": "We lost everything..."
+          },
+          {
+            "stringId": "1915657590183579652",
+            "femaleVariant": "The desire to destroy..."
+          },
+          {
+            "stringId": "1915663393103826948",
+            "femaleVariant": "C-can you feel it…"
+          },
+          {
+            "stringId": "1915674527219339264",
+            "femaleVariant": "The fuck? I mean – how?"
+          },
+          {
+            "stringId": "1915686248822624256",
+            "femaleVariant": "Kerry?"
+          },
+          {
+            "stringId": "1915686969521491968",
+            "femaleVariant": "No, no, no, this's some fuckin' joke. Hang on…"
+          },
+          {
+            "stringId": "1915687401165705216",
+            "femaleVariant": "What'd Silverhand tell me before he died?"
+          },
+          {
+            "stringId": "1915693524514000900",
+            "femaleVariant": "Told you to stop bein' a pussy."
+          },
+          {
+            "stringId": "1915702429575041024",
+            "femaleVariant": "Told you to leave Samurai, go your own way."
+          },
+          {
+            "stringId": "1915709325212143616",
+            "femaleVariant": "Testing me?"
+          },
+          {
+            "stringId": "1915709593345609728",
+            "femaleVariant": "This a test?"
+          },
+          {
+            "stringId": "1915710680123330560",
+            "femaleVariant": "Could just play you another song."
+          },
+          {
+            "stringId": "1915711070009053184",
+            "femaleVariant": "Answer me."
+          },
+          {
+            "stringId": "1915712461561679872",
+            "femaleVariant": "I told ya to stop bein' a pussy."
+          },
+          {
+            "stringId": "1915712731238649856",
+            "femaleVariant": "Told you to leave Samurai, go your own way."
+          },
+          {
+            "stringId": "1915717601110806528",
+            "femaleVariant": "Johnny fuckin' Silverhand..."
+          },
+          {
+            "stringId": "1915722544131624960",
+            "femaleVariant": "Did you? Huh?"
+          },
+          {
+            "stringId": "1915724492033511424",
+            "femaleVariant": "Clearly, I was right. As I often am."
+          },
+          {
+            "stringId": "1915737469478522880",
+            "femaleVariant": "Played enough. You know who I am."
+          },
+          {
+            "stringId": "1915742423438086148",
+            "femaleVariant": "[Keep playing] OK."
+          },
+          {
+            "stringId": "1915742810522013696",
+            "femaleVariant": "Played enough. You know who I am."
+          },
+          {
+            "stringId": "1915744037574037504",
+            "femaleVariant": "All right."
+          },
+          {
+            "stringId": "1915757562543493120",
+            "femaleVariant": "What if we get another Rogue situation?"
+          },
+          {
+            "stringId": "1915758918159323136",
+            "femaleVariant": "What if this ends up like the Rogue thing – one big let-down?"
+          },
+          {
+            "stringId": "1915766483660328960",
+            "femaleVariant": "So far, comebacks don't seem to be workin' out for you."
+          },
+          {
+            "stringId": "1915766631920586752",
+            "femaleVariant": "Nah, this is different. Kerry needs this concert."
+          },
+          {
+            "stringId": "1915783746459291648",
+            "femaleVariant": "Mhm. I'm not there, figure it out with V."
+          },
+          {
+            "stringId": "1915793937091284992",
+            "femaleVariant": "Sure, uh... you two get along?"
+          },
+          {
+            "stringId": "1915794657303613440",
+            "femaleVariant": "Sure. Kid loves me."
+          },
+          {
+            "stringId": "1915794949109731328",
+            "femaleVariant": "Not lately, no."
+          },
+          {
+            "stringId": "1915796754824712192",
+            "femaleVariant": "Yeah, I bet."
+          },
+          {
+            "stringId": "1915804838372593664",
+            "femaleVariant": "We don't have much of a choice, though."
+          },
+          {
+            "stringId": "1925904737520865280",
+            "femaleVariant": "Fuck, yeah!"
+          },
+          {
+            "stringId": "1925918992483766272",
+            "femaleVariant": "Live here all by your lonesome?"
+          },
+          {
+            "stringId": "1925920754577985536",
+            "femaleVariant": "Nah. Got my cook, Ariel – but he's off today, Miguel--"
+          },
+          {
+            "stringId": "1925922360878977024",
+            "femaleVariant": "What'm I--? Not your biz, choom. Siddown, start talkin'."
+          },
+          {
+            "stringId": "1925925638408785920",
+            "femaleVariant": "An oldie but a goodie."
+          },
+          {
+            "stringId": "1935886745793290240",
+            "femaleVariant": "[Take glass] Won't be a dry eye in the house."
+          },
+          {
+            "stringId": "1935888287434891264",
+            "femaleVariant": "[Take glass] See for yourself."
+          },
+          {
+            "stringId": "1935889975726137344",
+            "femaleVariant": "Listen, judge for yourself."
+          },
+          {
+            "stringId": "1953677134529445888",
+            "femaleVariant": "Ah, beautiful butterfly Kerry emerging from his silky Samurai chrysalis."
+          },
+          {
+            "stringId": "1953679240690810880",
+            "femaleVariant": "Whoa! It's, like, symbolic."
+          },
+          {
+            "stringId": "1953704762560888832",
+            "femaleVariant": "All right, I'll give him that one."
+          },
+          {
+            "stringId": "1953726930430607360",
+            "femaleVariant": "Bet he sits here and thinks – the fuck I need all this shit for?"
+          },
+          {
+            "stringId": "1953733813820342272",
+            "femaleVariant": "Prolly the only actual necessity in this whole pad."
+          },
+          {
+            "stringId": "2034493970128326660",
+            "femaleVariant": "You live alone?"
+          },
+          {
+            "stringId": "2082658113477820420",
+            "femaleVariant": "\"Never Fade Away...\""
+          },
+          {
+            "stringId": "2082660797547167744",
+            "femaleVariant": "What's this?"
+          },
+          {
+            "stringId": "2082661628673671168",
+            "femaleVariant": "Rings a bell, that one."
+          },
+          {
+            "stringId": "2082661662613979136",
+            "femaleVariant": "What's this?"
+          },
+          {
+            "stringId": "2082673222585565184",
+            "femaleVariant": "How much for that axe?"
+          },
+          {
+            "stringId": "2251914059266473984",
+            "femaleVariant": "Uuh, Johnny?"
+          },
+          {
+            "stringId": "2251915161563119624",
+            "femaleVariant": "Hellooo, fuckin' Earth to fuckin' Johnny Silverhand."
+          },
+          {
+            "stringId": "2251915226457391112",
+            "femaleVariant": "Johnny, you still around?"
+          },
+          {
+            "stringId": "2334450308172046340",
+            "femaleVariant": "Preem collection."
+          },
+          {
+            "stringId": "2396442777717399556",
+            "femaleVariant": "He's showering, seems like."
+          }
+        ]
+      }
+
+
+

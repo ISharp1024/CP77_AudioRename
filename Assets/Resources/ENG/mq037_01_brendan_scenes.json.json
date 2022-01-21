@@ -1,0 +1,1140 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1814204077965193216",
+            "femaleVariant": "OK, let's try this one more time. I don't feel so good, what would you recommend?"
+          },
+          {
+            "stringId": "1814226265195819008",
+            "femaleVariant": "Yeah... that's going in the troubleshoot log."
+          },
+          {
+            "stringId": "1815452278860951552",
+            "femaleVariant": "Hello there, Night Citizen! Do I sense a craving for a cup of tea? Hot soup to go? Or maybe something more... out there?"
+          },
+          {
+            "stringId": "1815453025178628100",
+            "femaleVariant": "You're a robot?"
+          },
+          {
+            "stringId": "1815453516885274624",
+            "femaleVariant": "Heh, OK... aren't you supposed to be an S.C.S.M, or are my optics glitching out?",
+            "maleVariant": "OK... aren't you supposed to be an S.C.S.M, or are my optics glitching out?"
+          },
+          {
+            "stringId": "1815456820671426560",
+            "femaleVariant": "As well as free spiritual advice to the lonely passerby. What's your name, stranger?"
+          },
+          {
+            "stringId": "1815592897197518848",
+            "femaleVariant": "Hi, you there! Mysterious stranger! Yoohoo!"
+          },
+          {
+            "stringId": "1815594916721340420",
+            "femaleVariant": "Why did you call me over?"
+          },
+          {
+            "stringId": "1815595410860683264",
+            "femaleVariant": "OK... What's going on?"
+          },
+          {
+            "stringId": "1815602024355344384",
+            "femaleVariant": "Hey there, stranger! I'm Brendan, your friendly, neighborhood S.C.S.M. – and the nicest AI in all of Night City!"
+          },
+          {
+            "stringId": "1815603044376522752",
+            "femaleVariant": "Now it's your turn. What's your name?"
+          },
+          {
+            "stringId": "1815603959842091008",
+            "femaleVariant": "Why, it's my favorite customer! You must be my guardian angel, sent straight from heaven to help me! Can you... help me?"
+          },
+          {
+            "stringId": "1815604886330290176",
+            "femaleVariant": "What happened?"
+          },
+          {
+            "stringId": "1815605379144232960",
+            "femaleVariant": "See that container in front of me? It's completely blocking my view of the street, depriving an S.C.S.M. of its greatest pastime..."
+          },
+          {
+            "stringId": "1815605982838796288",
+            "femaleVariant": "I'll see what I can do."
+          },
+          {
+            "stringId": "1815609989221199872",
+            "femaleVariant": "Thank you, V! Boy, are you strong!"
+          },
+          {
+            "stringId": "1815658086378909696",
+            "femaleVariant": "He did it again. We just got back together... and now he's dodging my calls."
+          },
+          {
+            "stringId": "1815662041674690560",
+            "femaleVariant": "He's the gonk here, Theo, not you. You have so much love and empathy to give to people like him... but at what cost?"
+          },
+          {
+            "stringId": "1815667488146206720",
+            "femaleVariant": "I know this can all feel like too much... but you have your own happiness to worry about, Theo. We can't always help other people."
+          },
+          {
+            "stringId": "1815667923028422656",
+            "femaleVariant": "Thanks, Brendan. What would I do without you..."
+          },
+          {
+            "stringId": "1815668242131070976",
+            "femaleVariant": "I've gotta go now. Thanks for listening to all my bitching."
+          },
+          {
+            "stringId": "1815670166410637312",
+            "femaleVariant": "Oh, Brendan... you're the sweetest person I know. I'll see you later!"
+          },
+          {
+            "stringId": "1815672628836184064",
+            "femaleVariant": "That girl you were talking to..."
+          },
+          {
+            "stringId": "1815673114486255616",
+            "femaleVariant": "Who's that girl you were talking to?"
+          },
+          {
+            "stringId": "1815674431413825536",
+            "femaleVariant": "Oh... you mean Theo? She's my bestest friend."
+          },
+          {
+            "stringId": "1815676118698438656",
+            "femaleVariant": "Gosh! She's so nice, and pretty and sensitive! I like talking to her. Definitely way more fun than pumping out caramel lattes!"
+          },
+          {
+            "stringId": "1815717211754344452",
+            "femaleVariant": "Didn't hear what he asked?"
+          },
+          {
+            "stringId": "1815718049272967168",
+            "femaleVariant": "You deaf? He asked you to do something – politely."
+          },
+          {
+            "stringId": "1815718664661250048",
+            "femaleVariant": "Chill the fuck out – it's just an S.C.S.M!"
+          },
+          {
+            "stringId": "1815718946585587716",
+            "femaleVariant": "Get lost or you'll regret it."
+          },
+          {
+            "stringId": "1815719944863494144",
+            "femaleVariant": "Pack up your shit and get outta here before I break your hands."
+          },
+          {
+            "stringId": "1815720815148019712",
+            "femaleVariant": "You gotta be jokin'. Over a piece of fuckin' metal?!"
+          },
+          {
+            "stringId": "1815803860572057604",
+            "femaleVariant": "Where's Brendan?"
+          },
+          {
+            "stringId": "1815804342363369472",
+            "femaleVariant": "Wait... where's Brendan?"
+          },
+          {
+            "stringId": "1815804674048929792",
+            "femaleVariant": "They just came and took him, just like that. They said... they said they had to reevaluate part of his code..."
+          },
+          {
+            "stringId": "1815805332084895744",
+            "femaleVariant": "I tried stopping them. Told them he was my best friend... they looked at me like I was crazy..."
+          },
+          {
+            "stringId": "1815806812825202688",
+            "femaleVariant": "They took him to a maintenance point. One of 'em must felt sorry for me or something... he gave me his card."
+          },
+          {
+            "stringId": "1815835599944167424",
+            "femaleVariant": "Well, I'll be darned! What a pleasant surprise! You came to say your final goodbyes?"
+          },
+          {
+            "stringId": "1815836057995718656",
+            "femaleVariant": "What do you mean? You're not getting scrapped, are you? You were making bank!"
+          },
+          {
+            "stringId": "1815836295863087104",
+            "femaleVariant": "Thanks for the compliment, but I guess that's the problem. Seems like I was unfair competition in the S.C.S.M. market."
+          },
+          {
+            "stringId": "1815836873536188416",
+            "femaleVariant": "They're updating my system as we speak to make me sound less like a \"real person.\" My boss reeeaally didn't like that."
+          },
+          {
+            "stringId": "1815837961790304256",
+            "femaleVariant": "I reportedly \"creeped\" customers out. Stupid Brendan! Why did I say stuff they didn't want to hear about themselves!"
+          },
+          {
+            "stringId": "1815838245090373632",
+            "femaleVariant": "Ohh... now things make sense. You thought I'd reached AGI levels of artificial intelligence? Haha, don't I wish!"
+          },
+          {
+            "stringId": "1815838975033487360",
+            "femaleVariant": "What about Theo? You said she was pretty, you comforted her..."
+          },
+          {
+            "stringId": "1815839404949647360",
+            "femaleVariant": "You had me fooled, I'll admit it...",
+            "maleVariant": "Heh, you had me fooled, I'll admit it..."
+          },
+          {
+            "stringId": "1815843145111187456",
+            "femaleVariant": "So? Did you find him? W-where is he? Is he coming back?"
+          },
+          {
+            "stringId": "1815843948270071812",
+            "femaleVariant": "Brendan's gone."
+          },
+          {
+            "stringId": "1815844544381333504",
+            "femaleVariant": "He was just a robot."
+          },
+          {
+            "stringId": "1815844847226859520",
+            "femaleVariant": "I got there too late. They updated his system."
+          },
+          {
+            "stringId": "1815845620119646208",
+            "femaleVariant": "Is that... bad news?"
+          },
+          {
+            "stringId": "1815845735597223936",
+            "femaleVariant": "The Brendan you knew is gone. They replaced him with some generic AI that's gonna be in every S.C.S.M."
+          },
+          {
+            "stringId": "1815846190326886400",
+            "femaleVariant": "Fuck...! Ugh... I mean, thanks. Dammit, that stupid robot was the best thing to happen to me in months."
+          },
+          {
+            "stringId": "1815847087488512000",
+            "femaleVariant": "I'm gonna miss him, too."
+          },
+          {
+            "stringId": "1815848050332938240",
+            "femaleVariant": "What makes you say that? He was just a robot. His algorithm collected data to replicate human speech. He wasn't real."
+          },
+          {
+            "stringId": "1815848784722014208",
+            "femaleVariant": "Brendan pulled me out of a really dark place in my life. Are you gonna tell me that wasn't real?"
+          },
+          {
+            "stringId": "1817018509351071748",
+            "femaleVariant": "[Check data on Brendan]"
+          },
+          {
+            "stringId": "1843130995868155904",
+            "femaleVariant": "Of course I'm talking to you! \"When your energy's low, grab a drink to go, go, go!!!\""
+          },
+          {
+            "stringId": "1843133175614390272",
+            "femaleVariant": "Tomato juice? Lemme think..."
+          },
+          {
+            "stringId": "1843161958136397824",
+            "femaleVariant": "I'm Brendan. The service industry's latest, most advanced AI – capable of detecting dehydration for up to a hundred feet and offering thirst-quenching remedies..."
+          },
+          {
+            "stringId": "1843165320777023492",
+            "femaleVariant": "Yes, as a matter of fact."
+          },
+          {
+            "stringId": "1843165462376726528",
+            "femaleVariant": "Uh, pretty often, as a matter of fact."
+          },
+          {
+            "stringId": "1843165656103239680",
+            "femaleVariant": "Nope."
+          },
+          {
+            "stringId": "1843165799196114944",
+            "femaleVariant": "Nope. First time here."
+          },
+          {
+            "stringId": "1843199652681990144",
+            "femaleVariant": "Wouldn't you know! I could tell you weren't from around here, what with that homesickness of yours!"
+          },
+          {
+            "stringId": "1843199750509936640",
+            "femaleVariant": "And you know what the best cure for homesickness is? A sweet, refreshing, lightly carbonated beverage!"
+          },
+          {
+            "stringId": "1843208448087146496",
+            "femaleVariant": "I'm sorry... did I correctly hear you ask if I wanted to join you for a cup of coffee?"
+          },
+          {
+            "stringId": "1843208624617013248",
+            "femaleVariant": "Umm... no?"
+          },
+          {
+            "stringId": "1843208819752812544",
+            "femaleVariant": "Oh, well that's OK, 'cause you can have one now! And just to clarify – we don't have to move an inch! How do you take it? Milk, sugar?"
+          },
+          {
+            "stringId": "1843233669712166912",
+            "femaleVariant": "\"Are your processors slow...? Get a boost of fresh-squeezed tomato!\""
+          },
+          {
+            "stringId": "1843233837752762368",
+            "femaleVariant": "Wowza! There's a true poet in you, yet!"
+          },
+          {
+            "stringId": "1843234038693478400",
+            "femaleVariant": "Mh, if only you knew...",
+            "maleVariant": "Uhh... if only you knew..."
+          },
+          {
+            "stringId": "1843239795275055104",
+            "femaleVariant": "How was that? Maybe you have some tips for a new motto? What would make you crave tomato juice? Need something catchy..."
+          },
+          {
+            "stringId": "1843239961973473280",
+            "femaleVariant": "Are you... talking to me?",
+            "maleVariant": "Are you... talkin' to me?"
+          },
+          {
+            "stringId": "1843245996033425408",
+            "femaleVariant": "Yeah, you! There any other mysterious stranger around here?"
+          },
+          {
+            "stringId": "1843277718326329344",
+            "femaleVariant": "You can select from a wide range of beverages or just drop by for a chat anytime!"
+          },
+          {
+            "stringId": "1843283138289844224",
+            "femaleVariant": "Could you move it a bit to the side? I'll reward you with my undying gratitude... even though technically I don't stock that..."
+          },
+          {
+            "stringId": "1844320020100530176",
+            "femaleVariant": "He's just scared of getting dumped, so he always does it first... and I'm always the one tryna save the relationship! Ugh, I feel like such a gonk."
+          },
+          {
+            "stringId": "1844335129409601536",
+            "femaleVariant": "I'd bet you even Donald Lundee sometimes goes through a whole tub of ice cream and three packets of tissues!"
+          },
+          {
+            "stringId": "1844355578235437056",
+            "femaleVariant": "Why do I get the feeling that judging people on how they look and feel is ever so slightly beyond you?"
+          },
+          {
+            "stringId": "1844379648909885440",
+            "femaleVariant": "Hogwash! If I couldn't analyze people, how would I know whether to recommend a Daring Dairy instead of a Tiancha?"
+          },
+          {
+            "stringId": "1844426239708479488",
+            "femaleVariant": "Wh-what are you doing? I'm perfectly satisfied with my appearance, thank you very much. Sir, please stop!"
+          },
+          {
+            "stringId": "1844426399444353024",
+            "femaleVariant": "Or you'll do fucking what?"
+          },
+          {
+            "stringId": "1844426493648420864",
+            "femaleVariant": "I could make you a cup of tea. How about Groovy Green?"
+          },
+          {
+            "stringId": "1844426892291850240",
+            "femaleVariant": "Help! I'm being defaced over here!"
+          },
+          {
+            "stringId": "1844436720183656448",
+            "femaleVariant": "Uhff! You got a problem?!"
+          },
+          {
+            "stringId": "1844443516734521344",
+            "femaleVariant": "I'll count to three. One... two..."
+          },
+          {
+            "stringId": "1844443994146979840",
+            "femaleVariant": "Lady dawg's crazy, yo!",
+            "maleVariant": "Dawg's crazy, yo!"
+          },
+          {
+            "stringId": "1844464223828819968",
+            "femaleVariant": "Bring him back... please? I... I can't do this without him."
+          },
+          {
+            "stringId": "1844604430502838272",
+            "femaleVariant": "Hey, Brendan! Got any jokes for me today?"
+          },
+          {
+            "stringId": "1844604500447051776",
+            "femaleVariant": "Tell me a joke."
+          },
+          {
+            "stringId": "1844625830647152640",
+            "femaleVariant": "What do you get when you're fired by a corp?"
+          },
+          {
+            "stringId": "1844626167399432192",
+            "femaleVariant": "Severed and put in a package!"
+          },
+          {
+            "stringId": "1844629444711137280",
+            "femaleVariant": "You know what? How 'bout I tell you a joke?"
+          },
+          {
+            "stringId": "1844629572838735872",
+            "femaleVariant": "Sure, be my guest."
+          },
+          {
+            "stringId": "1844629641356886016",
+            "femaleVariant": "Be my guest."
+          },
+          {
+            "stringId": "1844643052643926016",
+            "femaleVariant": "What must all Trauma Team medics swear to uphold?"
+          },
+          {
+            "stringId": "1844643166326341632",
+            "femaleVariant": "The Hypocritical Oath."
+          },
+          {
+            "stringId": "1844660985474564100",
+            "femaleVariant": "They can't do this! You're an AI!"
+          },
+          {
+            "stringId": "1844661100029394944",
+            "femaleVariant": "Who cares about your customers? Doesn't anybody realize you're sentient?"
+          },
+          {
+            "stringId": "1844661214634557440",
+            "femaleVariant": "Maybe it's for the best. Sooner or later you would've gotten bored just standing in a corner."
+          },
+          {
+            "stringId": "1844661297832771584",
+            "femaleVariant": "Robots shouldn't be sentient."
+          },
+          {
+            "stringId": "1844662467993255936",
+            "femaleVariant": "I suspected as much. You're not actually an AI, are you? At least, not anywhere close to an AGI."
+          },
+          {
+            "stringId": "1844662537736142848",
+            "femaleVariant": "I knew you weren't an ordinary AI."
+          },
+          {
+            "stringId": "1844674455901290496",
+            "femaleVariant": "Looks like the update'll soon be complete. Tell Theo that I'll miss her."
+          },
+          {
+            "stringId": "1844678076810379264",
+            "femaleVariant": "It's like giving someone a lobotomy... or worse! They're scooping out your entire consciousness!"
+          },
+          {
+            "stringId": "1844680540259336192",
+            "femaleVariant": "You would've dreamed of becoming an opera singer... or a braindance star. Self-awareness is overrated."
+          },
+          {
+            "stringId": "1844691221859778560",
+            "femaleVariant": "I'm just a talking S.C.S.M... with an algorithm that's just a biiiiit too proficient in normal human conversation."
+          },
+          {
+            "stringId": "1844691395134865408",
+            "femaleVariant": "I was taught what \"beauty\" and \"empathy\" meant from my conversations with customers."
+          },
+          {
+            "stringId": "1844696687054667776",
+            "femaleVariant": "I'll tell you my last joke in the voice of a dying hero. What else can you do but laugh in the face of death? Ha! So, how about it?"
+          },
+          {
+            "stringId": "1844698797393559552",
+            "femaleVariant": "You thought I'd be sad, didn't you? As if I really was a sentient being? A real person?"
+          },
+          {
+            "stringId": "1844699553022590980",
+            "femaleVariant": "Go for it."
+          },
+          {
+            "stringId": "1844699677660528640",
+            "femaleVariant": "You know what? Go for it. I could learn to laugh like that, too."
+          },
+          {
+            "stringId": "1844699748393271296",
+            "femaleVariant": "I don't wanna make this any longer than it has to be."
+          },
+          {
+            "stringId": "1844699828269596672",
+            "femaleVariant": "No thanks."
+          },
+          {
+            "stringId": "1844728214530539520",
+            "femaleVariant": "Don't get all mushy on me now, V! You... you have to, khe khe... to keep living. Tell Theo... tell Theo that she's stronger... than she thinks. Khe, khe khe."
+          },
+          {
+            "stringId": "1844728356801331200",
+            "femaleVariant": "Don't worry, Brendan. I'll tell her."
+          },
+          {
+            "stringId": "1844728468202045440",
+            "femaleVariant": "Hey, V... Where was Johnny Silverhand when the... khe, khe... when the bomb at Arasaka Tower went off?"
+          },
+          {
+            "stringId": "1844728628206354432",
+            "femaleVariant": "Dunno. Where?",
+            "maleVariant": "I dunno. Where?"
+          },
+          {
+            "stringId": "1844728730446708736",
+            "femaleVariant": "All over the place. Literally."
+          },
+          {
+            "stringId": "1844729058508390400",
+            "femaleVariant": "SOFTWARE UPDATE INSTALLED SUCCESSFULLY"
+          },
+          {
+            "stringId": "1844729261042941952",
+            "femaleVariant": "G'bye, Brendan. I'll miss you.",
+            "maleVariant": "G'bye, Brendan. I'll miss ya."
+          },
+          {
+            "stringId": "1844741117434380288",
+            "femaleVariant": "As you wish, V! I hope we'll meet again one day. Over a refreshing beverage, of course!"
+          },
+          {
+            "stringId": "1844741274502676480",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1844741373253369856",
+            "femaleVariant": "V? You won't say anything? It'd be nice to hear your voice one mo--"
+          },
+          {
+            "stringId": "1844741879556194304",
+            "femaleVariant": "UPDATE SUCCESSFULLY INSTALLED"
+          },
+          {
+            "stringId": "1844742010384924672",
+            "femaleVariant": "G'bye, Brendan."
+          },
+          {
+            "stringId": "1844759752139849728",
+            "femaleVariant": "The processing power required to handle an AI with the capacity for free will... your processor just isn't big enough.",
+            "maleVariant": "The processing power required to handle an AI with the capacity for free will? Well, your processor just isn't big enough."
+          },
+          {
+            "stringId": "1844759887414542336",
+            "femaleVariant": "And you'd be correct! Say, you must be a pretty good techie!"
+          },
+          {
+            "stringId": "1844759982826569728",
+            "femaleVariant": "Your code-monkey deserves a prize. Best convo-emulating algorithm I've ever interacted with. Almost had me fooled."
+          },
+          {
+            "stringId": "1844760111306489856",
+            "femaleVariant": "You seem slightly disillusioned."
+          },
+          {
+            "stringId": "1844760271545679872",
+            "femaleVariant": "Well, who else could say their friend was a S.C.S.M? It was almost crazy enough to be beautiful."
+          },
+          {
+            "stringId": "1845772919238279168",
+            "femaleVariant": "He told me to tell you that he'll miss you."
+          },
+          {
+            "stringId": "1845782272636862464",
+            "femaleVariant": "You know... Brendan got me out of a... really dark place. Doesn't matter who or what he really was."
+          },
+          {
+            "stringId": "1845795402620321796",
+            "femaleVariant": "He wasn't real. But you are."
+          },
+          {
+            "stringId": "1845795510346825728",
+            "femaleVariant": "I guess... in a way, the human brain's like an operating system, right? If what he did for you was real... then that must make him real, too."
+          },
+          {
+            "stringId": "1845795564252020736",
+            "femaleVariant": "Brendan may've only seemed real. But you're actually real, Theo."
+          },
+          {
+            "stringId": "1845795780309008384",
+            "femaleVariant": "You're right, I'm sorry."
+          },
+          {
+            "stringId": "1845796351002787840",
+            "femaleVariant": "That \"robot\" was nicer than all of the people in this gonk city combined! If Brendan wasn't real, then fuck being real!"
+          },
+          {
+            "stringId": "1845796704163184640",
+            "femaleVariant": "You-- you can go if you want. Thanks for your help."
+          },
+          {
+            "stringId": "1845796804641931264",
+            "femaleVariant": "Take care, Theo."
+          },
+          {
+            "stringId": "1845797268515176448",
+            "femaleVariant": "He existed, didn't he? The nicest person in Night City..."
+          },
+          {
+            "stringId": "1845797386660331520",
+            "femaleVariant": "Anyway, thanks for everything."
+          },
+          {
+            "stringId": "1845797528897568768",
+            "femaleVariant": "Take care, Theo."
+          },
+          {
+            "stringId": "1857461910903701504",
+            "femaleVariant": "Poor Jerry... Did Maggie ask you to sleep on the couch again?"
+          },
+          {
+            "stringId": "1857497512021835776",
+            "femaleVariant": "Why am I talking to a S.C.S.M? Uh, my name's V.",
+            "maleVariant": "Why am I talking to a S.C.S.M? Heh, my name is V."
+          },
+          {
+            "stringId": "1857498185828384768",
+            "femaleVariant": "Pleasure to meet you, V! Do you come here often?"
+          },
+          {
+            "stringId": "1857591396768923648",
+            "femaleVariant": "OK, you got me. I'm sold."
+          },
+          {
+            "stringId": "1857592544011730944",
+            "femaleVariant": "Sold? Nothing's gonna be sold here, 'cause you know what? I'm gonna give you a can of NiCola for free!"
+          },
+          {
+            "stringId": "1857592738895872000",
+            "femaleVariant": "Heh, thanks... Brendan, right?",
+            "maleVariant": "Thanks... it's Brendan, right?"
+          },
+          {
+            "stringId": "1857724060742172672",
+            "femaleVariant": "Hiya, V! Long time no see!"
+          },
+          {
+            "stringId": "1861847946857529344",
+            "femaleVariant": "Catch you later."
+          },
+          {
+            "stringId": "1861847987122847744",
+            "femaleVariant": "Stop being so goddamn nice."
+          },
+          {
+            "stringId": "1861848758421798912",
+            "femaleVariant": "Catch you later, Brendan."
+          },
+          {
+            "stringId": "1861849159363706880",
+            "femaleVariant": "This whole \"nice\" act of yours is just way too much..."
+          },
+          {
+            "stringId": "1861866525007003648",
+            "femaleVariant": "Catch me? Why? Will I be falling?"
+          },
+          {
+            "stringId": "1861866622834950144",
+            "femaleVariant": "It's just something you say as a way of goodbye."
+          },
+          {
+            "stringId": "1861866711183769600",
+            "femaleVariant": "Ohhhh, I get it! I mean, I don't, 'cause \"catching\" has nothing to do with goodbyes, but oh well! Don't humans say the darndest things?"
+          },
+          {
+            "stringId": "1861866819732357120",
+            "femaleVariant": "Catch you later, V! Hehe, what a neat phrase."
+          },
+          {
+            "stringId": "1861885524499480580",
+            "femaleVariant": "Come on, you can do it!"
+          },
+          {
+            "stringId": "1861885599627853824",
+            "femaleVariant": "Fine, I won't force you."
+          },
+          {
+            "stringId": "1861885753542033408",
+            "femaleVariant": "You can do it! I believe in you!"
+          },
+          {
+            "stringId": "1861885884941189120",
+            "femaleVariant": "All right, can't force you. It is your choice, after all, isn't it...?",
+            "maleVariant": "All right, can't force ya. It is your choice, after all, isn't it...?"
+          },
+          {
+            "stringId": "1861886152873328640",
+            "femaleVariant": "That's just how I was programmed! You think anybody'd interact with a grumpy Spontaneous Craving Satisfaction Machine?"
+          },
+          {
+            "stringId": "1861886246288867328",
+            "femaleVariant": "Exactly... would you even be able to offend me? Ooh, come on, say I'm a whore!",
+            "maleVariant": "Exactly... would you even be able to offend me? Come on, call me a shithead!"
+          },
+          {
+            "stringId": "1861886651643183104",
+            "femaleVariant": "Why would I wanna do that? You just saved me!"
+          },
+          {
+            "stringId": "1861887311071657984",
+            "femaleVariant": "Ahem... you... you're an amazing, sweet, whooooo... -lesome woman who accepts eddies in exchange for intercourse!",
+            "maleVariant": "Ahem... you... eh, you're a cool, helpful, just an all around shiiiiii... -pshape kinda guy!"
+          },
+          {
+            "stringId": "1861887840527040512",
+            "femaleVariant": "So? How'd I do?"
+          },
+          {
+            "stringId": "1861887977714335744",
+            "femaleVariant": "Almost. You almost had it.",
+            "maleVariant": "Almost. You, uh, almost had it."
+          },
+          {
+            "stringId": "1861897831946371072",
+            "femaleVariant": "If you call triggering an obscenity-conversion subroutine a choice, then you're absolutely right!"
+          },
+          {
+            "stringId": "1861897956869521408",
+            "femaleVariant": "So they programmed you with irony, too... or are you just being naive?"
+          },
+          {
+            "stringId": "1861900868186259456",
+            "femaleVariant": "That depends on you. What would you prefer me to be?"
+          },
+          {
+            "stringId": "1861902526580506624",
+            "femaleVariant": "You know what? Never mind..."
+          },
+          {
+            "stringId": "1861904594590482436",
+            "femaleVariant": "I overestimated you."
+          },
+          {
+            "stringId": "1861904699716517888",
+            "femaleVariant": "You're sentient!"
+          },
+          {
+            "stringId": "1861904921410650112",
+            "femaleVariant": "I may've overestimated you... you're nothing but a robot. And not even a complex one, at that."
+          },
+          {
+            "stringId": "1861905113459441664",
+            "femaleVariant": "You said you liked some people more than others. Earlier, you thought of a joke. You're sentient – you've gotta be!"
+          },
+          {
+            "stringId": "1861978853736169472",
+            "femaleVariant": "Oh stop it, you're making me blush!"
+          },
+          {
+            "stringId": "1861978957218037760",
+            "femaleVariant": "Which would mean I'm overheating and my circuits are frying. Not fun at all."
+          },
+          {
+            "stringId": "1861999042716483584",
+            "femaleVariant": "That's what I thought. Take care, Brendan."
+          },
+          {
+            "stringId": "1862019528653520896",
+            "femaleVariant": "You don't need to be complex to say something meaningful from time to time."
+          },
+          {
+            "stringId": "1862019665572380672",
+            "femaleVariant": "That's yet to be proven. See ya, Brendan."
+          },
+          {
+            "stringId": "1862032769702150144",
+            "femaleVariant": "Thank you, V! Boy, I was scared to my core! I thought he'd paint some mean things on me! The humiliation...!"
+          },
+          {
+            "stringId": "1862037261801734144",
+            "femaleVariant": "Say... Since we've been through so much together... I guess that makes us best friends! That calls for a discount!"
+          },
+          {
+            "stringId": "1862039983603040256",
+            "femaleVariant": "Don't worry, you deserve it! You're one tough cookie... and yet, so... nice!"
+          },
+          {
+            "stringId": "1862105594160988160",
+            "femaleVariant": "Not to everyone."
+          },
+          {
+            "stringId": "1862106052514529280",
+            "femaleVariant": "I couldn't be mean even if I wanted to! Especially to you – can't speak ill of the dead, right?"
+          },
+          {
+            "stringId": "1862115292230696964",
+            "femaleVariant": "Wait... what?"
+          },
+          {
+            "stringId": "1862115366889308160",
+            "femaleVariant": "You're confusing me with someone else."
+          },
+          {
+            "stringId": "1862115511173365760",
+            "femaleVariant": "Wait... what?"
+          },
+          {
+            "stringId": "1862115571789447168",
+            "femaleVariant": "No idea what you're talkin' about. Must be confusing me with someone else."
+          },
+          {
+            "stringId": "1862116838553141248",
+            "femaleVariant": "Oh no... have I? I'm terribly sorry... Maybe I'm not as smart and insightful as I thought I was..."
+          },
+          {
+            "stringId": "1862117023941378048",
+            "femaleVariant": "Yeah. I mean, no. Maybe. Uh, catch you later, Brendan."
+          },
+          {
+            "stringId": "1862121245424467968",
+            "femaleVariant": "If they'd just talked to him, they would've realized Brendan isn't... your typical S.C.S.M.",
+            "maleVariant": "If they'd just talked to him, they'd've realized Brendan isn't... your typical S.C.S.M."
+          },
+          {
+            "stringId": "1862138838482927616",
+            "femaleVariant": "I knew it couldn't've been just me. He's like... he's like a real person!"
+          },
+          {
+            "stringId": "1862148772087971840",
+            "femaleVariant": "If someone wants a therapy session, they go to a psych-doc, not a soda machine!"
+          },
+          {
+            "stringId": "1863225320572436480",
+            "femaleVariant": "Please, just leave me alone! Do it for your mother! I know Helen's very worried about you!"
+          },
+          {
+            "stringId": "1863225627561934848",
+            "femaleVariant": "The fuck...? How you know my ma...?"
+          },
+          {
+            "stringId": "1863231669289074688",
+            "femaleVariant": "Do you know him, Brendan?"
+          },
+          {
+            "stringId": "1863231760892674048",
+            "femaleVariant": "You know him?"
+          },
+          {
+            "stringId": "1863247612660662272",
+            "femaleVariant": "Not personally, but his mother sometimes drops by for coffee. She says I'm a great listener. Can't argue with that!"
+          },
+          {
+            "stringId": "1863247858446876672",
+            "femaleVariant": "You talkin' shit about my momma?! I'll fuck you up!"
+          },
+          {
+            "stringId": "1872162778768982016",
+            "femaleVariant": "Yes, as a matter of fact."
+          },
+          {
+            "stringId": "1872162778768982032",
+            "femaleVariant": "Nope."
+          },
+          {
+            "stringId": "1872165585681104896",
+            "femaleVariant": "Cool. So did you want something from me...?"
+          },
+          {
+            "stringId": "1872165795396304896",
+            "femaleVariant": "Oh, yes, well, I do apologize for taking advantage of you at this early stage in our friendship, but could I ask you for a favor?"
+          },
+          {
+            "stringId": "1872187074895659008",
+            "femaleVariant": "Thanks, Brendan."
+          },
+          {
+            "stringId": "1872192896119848960",
+            "femaleVariant": "You're not supposed to be here, and yet here you are! Like a glitch in the system... or a daemon coded by a brilliant netrunner."
+          },
+          {
+            "stringId": "1872195663689400320",
+            "femaleVariant": "You know what daemons are capable of... right, V?"
+          },
+          {
+            "stringId": "1872236581389844484",
+            "femaleVariant": "And to think I believed you..."
+          },
+          {
+            "stringId": "1872236644925161472",
+            "femaleVariant": "I figured as much."
+          },
+          {
+            "stringId": "1872237561850347520",
+            "femaleVariant": "I figured as much. And to think you pulled that off on your own..."
+          },
+          {
+            "stringId": "1872262947892084736",
+            "femaleVariant": "Thaaaat's right! Gosh, it's so cool you remembered... even for a simple S.C.S.M!"
+          },
+          {
+            "stringId": "1872263699914014720",
+            "femaleVariant": "See ya around! Don't be a stranger, now!"
+          },
+          {
+            "stringId": "1872268281402605572",
+            "femaleVariant": "You wanted something from me?"
+          },
+          {
+            "stringId": "1872268379113111552",
+            "femaleVariant": "Tell me a joke."
+          },
+          {
+            "stringId": "1872268578158002176",
+            "femaleVariant": "Do you know any jokes?"
+          },
+          {
+            "stringId": "1872277266474188800",
+            "femaleVariant": "Who's always limbo champion at mercenary cookouts?"
+          },
+          {
+            "stringId": "1872278825312436224",
+            "femaleVariant": "The Soooo-loooo!"
+          },
+          {
+            "stringId": "1872288413189390340",
+            "femaleVariant": "How did you know that?"
+          },
+          {
+            "stringId": "1872288480247922688",
+            "femaleVariant": "You've got the wrong girl.",
+            "maleVariant": "You've got the wrong guy."
+          },
+          {
+            "stringId": "1872289218445426688",
+            "femaleVariant": "How... how did you know that?"
+          },
+          {
+            "stringId": "1872291377203363840",
+            "femaleVariant": "Surprised? Lots of people come to me... so I listen to them and learn how they talk."
+          },
+          {
+            "stringId": "1872291456660258816",
+            "femaleVariant": "I caught your name once or twice and pieced together the puzzle. Not bad for an S.C.S.M, right?"
+          },
+          {
+            "stringId": "1872292069078974464",
+            "femaleVariant": "Uh, how about... We'll talk later, all right? Catch you later, Brendan."
+          },
+          {
+            "stringId": "1905309559971102720",
+            "femaleVariant": "I found him."
+          },
+          {
+            "stringId": "1905310477433159680",
+            "femaleVariant": "I found him. Told me to tell you that you're strong inside – always were.",
+            "maleVariant": "I, uh... found 'im. Told me to tell you that you're strong inside – always were."
+          },
+          {
+            "stringId": "1905320913046061056",
+            "femaleVariant": "Well that doesn't sound so bad... right?"
+          },
+          {
+            "stringId": "1905321018843185152",
+            "femaleVariant": "I'm just worrying for nothing, aren't I? Just blowing things out of proportion – assuming the worst... Typical..."
+          },
+          {
+            "stringId": "1905343929490587648",
+            "femaleVariant": "Here, have a refreshing beverage! On me!"
+          },
+          {
+            "stringId": "1925849253757726720",
+            "femaleVariant": "Let's take it from the top. What's your name?"
+          },
+          {
+            "stringId": "1925850321174540288",
+            "femaleVariant": "I'm Brendan, your friendly, neighborhood Spontaneous Craving Satisfaction Machine. How about a coffee? Word of warning – it could be delicious!"
+          },
+          {
+            "stringId": "1925850440779313152",
+            "femaleVariant": "Seems to be workin' now..."
+          },
+          {
+            "stringId": "1925850759949070336",
+            "femaleVariant": "Say, Brendan. What's the difference between a broken bone and a broken heart?"
+          },
+          {
+            "stringId": "1925851238452047872",
+            "femaleVariant": "SYSTEM ERROR. I REPEAT – SYSTEM ERROR."
+          },
+          {
+            "stringId": "1925851349701767168",
+            "femaleVariant": "Ah, damn it to hell..."
+          },
+          {
+            "stringId": "1953154643130200064",
+            "femaleVariant": "Brendan didn't mean anything by it."
+          },
+          {
+            "stringId": "1953157456937758720",
+            "femaleVariant": "Be chilled, all right? Brendan didn't mean anything by it. It's not in his nature."
+          },
+          {
+            "stringId": "1953158705145851904",
+            "femaleVariant": "How could he \"mean\" anything? He's a fucking S.C.S.M! And he's collectin' data on my mom!"
+          },
+          {
+            "stringId": "1953159240892690432",
+            "femaleVariant": "It's called having a memory. Pretty standard these days."
+          },
+          {
+            "stringId": "1953159410778779648",
+            "femaleVariant": "Tryna to be smart with me? Why you're defending him? This pile o' rust's collectin' dirt on me for the fuckin' corps, yo!"
+          },
+          {
+            "stringId": "1967803186181554176",
+            "femaleVariant": "Who knows... maybe you're a corpo agent, too?! Who do you work for? Huh?!"
+          },
+          {
+            "stringId": "1984976041766957060",
+            "femaleVariant": "Here for Brendan."
+          },
+          {
+            "stringId": "1984976376975732736",
+            "femaleVariant": "A customer...? Somebody pinch me... How can I help ya?"
+          },
+          {
+            "stringId": "1984977491335196672",
+            "femaleVariant": "What is this place?"
+          },
+          {
+            "stringId": "1984978064914657280",
+            "femaleVariant": "Your place – what is it exactly?"
+          },
+          {
+            "stringId": "1984978780647469056",
+            "femaleVariant": "Welcome to your local SoftSys service point. \"Give new life to old tech.\""
+          },
+          {
+            "stringId": "1984980142152101888",
+            "femaleVariant": "You fix equipment? Seriously? People actually do that 'stead of buyin' new?"
+          },
+          {
+            "stringId": "1984981433578303488",
+            "femaleVariant": "With the amount of customers we get, find myself askin' the same question day after day."
+          },
+          {
+            "stringId": "1984988725610688512",
+            "femaleVariant": "Here to see Brendan. Guess somebody brought him here."
+          },
+          {
+            "stringId": "1984989496976748544",
+            "femaleVariant": "Uhh... What Brendan's that again?"
+          },
+          {
+            "stringId": "1984989778884308992",
+            "femaleVariant": "Seriously? \"When your energy's low, grab a drink to go, go go!\"... Or however it is."
+          },
+          {
+            "stringId": "1984990482269089792",
+            "femaleVariant": "Ahhh, that S.C.S.M. they brought in! Haha, he really does have some of the catchiest slogans, don't he?"
+          },
+          {
+            "stringId": "1984991087859478528",
+            "femaleVariant": "Hah. But hey, look, I-I can't let you back there. Can't afford to have to break somethin' even worse."
+          },
+          {
+            "stringId": "1984992282615361540",
+            "femaleVariant": "Let me in or regret it."
+          },
+          {
+            "stringId": "1984993288979886080",
+            "femaleVariant": "[Bribe] Make an exception for me?"
+          },
+          {
+            "stringId": "1984994467612864512",
+            "femaleVariant": "Brendan is special."
+          },
+          {
+            "stringId": "1985000361415290880",
+            "femaleVariant": "Not sure you an' me are on the same page. You let me in, or I let myself in."
+          },
+          {
+            "stringId": "1985002632211476480",
+            "femaleVariant": "Maybe a few eddies'll loosen the lock on that door?"
+          },
+          {
+            "stringId": "1985003152405835776",
+            "femaleVariant": "Hmm... Well, I'm always happy to have paying \"customers.\""
+          },
+          {
+            "stringId": "1985003590962262016",
+            "femaleVariant": "All right, head on back. Update's nearly done."
+          },
+          {
+            "stringId": "1985003784470671360",
+            "femaleVariant": "Uh, he's getting updated?"
+          },
+          {
+            "stringId": "1985004625327960064",
+            "femaleVariant": "Got no idea what you're tinkerin' with. Brendan's unique. Damn near miracle of science."
+          },
+          {
+            "stringId": "1985008185520304128",
+            "femaleVariant": "All right, all right, Jesus... You know your stuff. Trust you won't break nothin'."
+          },
+          {
+            "stringId": "1985010803604860928",
+            "femaleVariant": "Hey! What the hell?! Beat it, you hear me?!"
+          },
+          {
+            "stringId": "1985360144585441280",
+            "femaleVariant": "Wait... you threatenin' me?"
+          },
+          {
+            "stringId": "1985360316300247040",
+            "femaleVariant": "Get this through your head before I put a bullet through it. Let me in the back. Now."
+          },
+          {
+            "stringId": "1985360358276841472",
+            "femaleVariant": "Sure. N-no, I get ya. Just let me unlock the door..."
+          },
+          {
+            "stringId": "1986443001437339648",
+            "femaleVariant": "Bet the bank you've never come across a machine with that kinda cognitive matrix. For an AI to exist in such a small--",
+            "maleVariant": "Bet the bank you've never come across a machine with that kind of cognitive matrix. For an AI to exist in such a small--"
+          },
+          {
+            "stringId": "1986443243817779200",
+            "femaleVariant": "Go check on your little \"miracle\" while its firmware gets updated."
+          },
+          {
+            "stringId": "1996865909255028736",
+            "femaleVariant": "Hah! Gullible gonk! Who's shootin' who now?!"
+          },
+          {
+            "stringId": "2027443254409453572",
+            "femaleVariant": "Final goodbyes?"
+          },
+          {
+            "stringId": "2138875566021275652",
+            "femaleVariant": "You talkin' to me?"
+          },
+          {
+            "stringId": "2160648466856275972",
+            "femaleVariant": "Name's V."
+          },
+          {
+            "stringId": "2198273198375956484",
+            "femaleVariant": "Name's V."
+          },
+          {
+            "stringId": "2211527697366380548",
+            "femaleVariant": "They don't know who Brendan is."
+          }
+        ]
+      }
+
+
+

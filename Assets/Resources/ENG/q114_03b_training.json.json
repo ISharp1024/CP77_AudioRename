@@ -1,0 +1,630 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1324354672789569536",
+            "femaleVariant": "Now let's check Bobby's little find."
+          },
+          {
+            "stringId": "1335577276925886464",
+            "femaleVariant": "I've got green across the board. Good sign."
+          },
+          {
+            "stringId": "1335577818242760704",
+            "femaleVariant": "Where we headed?"
+          },
+          {
+            "stringId": "1335578123017666560",
+            "femaleVariant": "All right, fire 'er up."
+          },
+          {
+            "stringId": "1547329556426276864",
+            "femaleVariant": "Punch it, V."
+          },
+          {
+            "stringId": "1690846914498285568",
+            "femaleVariant": "All right, that's probably good."
+          },
+          {
+            "stringId": "1690848106435596288",
+            "femaleVariant": "We still have the nitro to try."
+          },
+          {
+            "stringId": "1690850135572762624",
+            "femaleVariant": "Yeah, I'm game."
+          },
+          {
+            "stringId": "1690850509520130048",
+            "femaleVariant": "I'm game."
+          },
+          {
+            "stringId": "1690854755497955328",
+            "femaleVariant": "There's a flat area over there. Let's swing towards it."
+          },
+          {
+            "stringId": "1690858752954880000",
+            "femaleVariant": "Let's head back."
+          },
+          {
+            "stringId": "1690859782773952512",
+            "femaleVariant": "I'll have to check before tomorrow if her guts are tight and firm. Something just don't sound right to my ear."
+          },
+          {
+            "stringId": "1738903436180344832",
+            "femaleVariant": "I reckon that should do for today."
+          },
+          {
+            "stringId": "1738939196547813376",
+            "femaleVariant": "All right, the afterburner is ready."
+          },
+          {
+            "stringId": "1738939196564590596",
+            "femaleVariant": "Won't get mad if I scratch her up a bit?"
+          },
+          {
+            "stringId": "1738942517329285120",
+            "femaleVariant": "Holy shit!"
+          },
+          {
+            "stringId": "1751495477150109696",
+            "femaleVariant": "Bobby said there's a scrapyard east of camp."
+          },
+          {
+            "stringId": "1776386503839895552",
+            "femaleVariant": "Hey. How go things?"
+          },
+          {
+            "stringId": "1776514816105304064",
+            "femaleVariant": "Perfect spot for a little target practice."
+          },
+          {
+            "stringId": "1776541682535026692",
+            "femaleVariant": "Does it seem like she's tending to the left?"
+          },
+          {
+            "stringId": "1776543120879308800",
+            "femaleVariant": "Fixable, ya think?"
+          },
+          {
+            "stringId": "1776543153611657216",
+            "femaleVariant": "Just keep shooting at those rust-buckets, I'll recalibrate the targeting on the go."
+          },
+          {
+            "stringId": "1776554400251957248",
+            "femaleVariant": "Are you kidding me? She's a panzer. Panzers don't get scratched up."
+          },
+          {
+            "stringId": "1776557161479720960",
+            "femaleVariant": "What? Everything OK?"
+          },
+          {
+            "stringId": "1803843100003291136",
+            "femaleVariant": "Feels better, doesn't it?"
+          },
+          {
+            "stringId": "1803844241172746244",
+            "femaleVariant": "Yup, beautiful."
+          },
+          {
+            "stringId": "1803925089904545792",
+            "femaleVariant": "Seems so."
+          },
+          {
+            "stringId": "1803925211656802304",
+            "femaleVariant": "Blast another just to be sure."
+          },
+          {
+            "stringId": "1811326498815922176",
+            "femaleVariant": "Mitch, not gonna be facing a ragtag band of Raffen or an exposed convoy. If we wanna get out of this op alive, they need to have their shit together."
+          },
+          {
+            "stringId": "1814330408136658948",
+            "femaleVariant": "Nervous about tomorrow?"
+          },
+          {
+            "stringId": "1815232524812341248",
+            "femaleVariant": "You nervous about tomorrow?"
+          },
+          {
+            "stringId": "1815332981933133828",
+            "femaleVariant": "Eh, why the hell not."
+          },
+          {
+            "stringId": "1815347011578023936",
+            "femaleVariant": "It's not a matter of nerves. Not anymore."
+          },
+          {
+            "stringId": "1815347082579202048",
+            "femaleVariant": "Don't you want one?"
+          },
+          {
+            "stringId": "1831464639870586880",
+            "femaleVariant": "They're trying. They might even have started to see eye to eye in their own way."
+          },
+          {
+            "stringId": "1834190807346499584",
+            "femaleVariant": "I guess I was hopin' Panam'd mature.",
+            "maleVariant": "Well, guess I was hopin' Panam'd mature."
+          },
+          {
+            "stringId": "1834190842746425348",
+            "femaleVariant": "Truly? Thought Saul'd throw in the towel after all that went down."
+          },
+          {
+            "stringId": "1834200434566025216",
+            "femaleVariant": "I'm no pundit on campfire politics, but to my eye… Saul doesn't have a whole lot of wiggle room."
+          },
+          {
+            "stringId": "1834200497379921920",
+            "femaleVariant": "Could just pass the torch to Panam."
+          },
+          {
+            "stringId": "1834200549741613056",
+            "femaleVariant": "He could. But Saul's no brickbrain. He knows Panam doesn't want to fill his boots."
+          },
+          {
+            "stringId": "1834202663637274624",
+            "femaleVariant": "Mature into whom?"
+          },
+          {
+            "stringId": "1834202731819880448",
+            "femaleVariant": "C'mon, pretty much obvious Panam oughta lead the clan. Proved it amply."
+          },
+          {
+            "stringId": "1834202781111341056",
+            "femaleVariant": "The only thing she proved is that she cares. But don't confuse that with wanting power."
+          },
+          {
+            "stringId": "1835720063184588800",
+            "femaleVariant": "Yeah, it's just now I know why nobody puts nitro in these."
+          },
+          {
+            "stringId": "1835779613627568132",
+            "femaleVariant": "[Take beer] Why not."
+          },
+          {
+            "stringId": "1835780932249636864",
+            "femaleVariant": "I'm good, thanks."
+          },
+          {
+            "stringId": "1835783304799637504",
+            "femaleVariant": "I'm good, thanks."
+          },
+          {
+            "stringId": "1835785362474848256",
+            "femaleVariant": "Back during the war, before we were first deployed, we were trained to keep stress in check. Do you want to know how?"
+          },
+          {
+            "stringId": "1835786028832313344",
+            "femaleVariant": "They gave us chem-cocktails. Supplements, boosters – God knows what else."
+          },
+          {
+            "stringId": "1835792217729191936",
+            "femaleVariant": "[pl_pl][MITCH wyrzuca / odkłada pustą butelkę.]"
+          },
+          {
+            "stringId": "1835793337574805504",
+            "femaleVariant": "All right, we've gossiped enough for one day."
+          },
+          {
+            "stringId": "1835793481036779520",
+            "femaleVariant": "What was just spoken stays between us, OK? I'm 'onna poke around some in this baby's insides."
+          },
+          {
+            "stringId": "1835794160480473088",
+            "femaleVariant": "[pl_pl][MITCH moves to the entrance of the panzer.]"
+          },
+          {
+            "stringId": "1835794218546417664",
+            "femaleVariant": "Right. Happy hunting, Mitch.",
+            "maleVariant": "Right. Happy huntin', Mitch."
+          },
+          {
+            "stringId": "1877779176789504000",
+            "femaleVariant": "Hell, by now they both know what's expected of them, what the clan expects of them."
+          },
+          {
+            "stringId": "1877781298536902656",
+            "femaleVariant": "Least tell me Saul offered Panam a seat at the table."
+          },
+          {
+            "stringId": "1877783072475836416",
+            "femaleVariant": "And what gave you the idea Panam wants a seat to begin with?"
+          },
+          {
+            "stringId": "1877788839509618688",
+            "femaleVariant": "So she got cold feet."
+          },
+          {
+            "stringId": "1877788903481143296",
+            "femaleVariant": "Think I get it. Panam's about the clan, not power. Question is whether she can reconcile the two."
+          },
+          {
+            "stringId": "1877789253101547520",
+            "femaleVariant": "I thought you knew her better."
+          },
+          {
+            "stringId": "1877790384338890752",
+            "femaleVariant": "Hmm."
+          },
+          {
+            "stringId": "1877791400148987904",
+            "femaleVariant": "Panam has decided to risk her life, our lives, for you and only you. So I don't think I'd dare to call that cold feet."
+          },
+          {
+            "stringId": "1877795274679250944",
+            "femaleVariant": "No, not what I... What I meant was…"
+          },
+          {
+            "stringId": "1877798144556265472",
+            "femaleVariant": "Hey, don't look at me."
+          },
+          {
+            "stringId": "1877799030040948736",
+            "femaleVariant": "It's all good, V. I get it."
+          },
+          {
+            "stringId": "1883419643472375808",
+            "femaleVariant": "Hop in."
+          },
+          {
+            "stringId": "1883451757798486016",
+            "femaleVariant": "How?"
+          },
+          {
+            "stringId": "1883453696724561920",
+            "femaleVariant": "After a dozen sessions, something clicks in your brain. Neural pathways get rewired – the part of you that generates fear is zapped into oblivion."
+          },
+          {
+            "stringId": "1883457120501362692",
+            "femaleVariant": "So, don't fear a thing, do you?"
+          },
+          {
+            "stringId": "1883457321089757184",
+            "femaleVariant": "Fucked up, that."
+          },
+          {
+            "stringId": "1883457679618863104",
+            "femaleVariant": "Thought they banned chem-cocktails because of cyberpsychosis."
+          },
+          {
+            "stringId": "1883458522640412672",
+            "femaleVariant": "Thought they banned chem-cocktails – during the war, even."
+          },
+          {
+            "stringId": "1883465693641961472",
+            "femaleVariant": "Please."
+          },
+          {
+            "stringId": "1883466036048162816",
+            "femaleVariant": "Weren't there outbreaks of cyberpsychosis within units?"
+          },
+          {
+            "stringId": "1883466713176600576",
+            "femaleVariant": "And? Do you think Militech gave a lick about that? They just airlifted the afflicted to their clinics in Taiwan, daily flights."
+          },
+          {
+            "stringId": "1883469400081297408",
+            "femaleVariant": "And every day we'd get fresh recruits. Still, they pumped us with that shit. But hey, we couldn't argue with the money."
+          },
+          {
+            "stringId": "1883485622726422528",
+            "femaleVariant": "So, not afraid of anything at this point?"
+          },
+          {
+            "stringId": "1883487095279448064",
+            "femaleVariant": "If only it was that simple."
+          },
+          {
+            "stringId": "1883487502345039872",
+            "femaleVariant": "I'm not concerned about tomorrow – raids like that are second nature. It's what's going on in the camp…"
+          },
+          {
+            "stringId": "1883488545065791488",
+            "femaleVariant": "Eh, no matter. I'm talking silly now."
+          },
+          {
+            "stringId": "1883489114635497472",
+            "femaleVariant": "That's seriously fucked up."
+          },
+          {
+            "stringId": "1883489568375304192",
+            "femaleVariant": "Whad'ya think? That war wasn't effed up?"
+          },
+          {
+            "stringId": "1883490206312165376",
+            "femaleVariant": "One we'll head into tomorrow, too?"
+          },
+          {
+            "stringId": "1883490475838140416",
+            "femaleVariant": "Why? Ya havin' second thoughts?"
+          },
+          {
+            "stringId": "1883490747763257344",
+            "femaleVariant": "I'm not worried about it. And neither should you be. Something else will be keeping me awake."
+          },
+          {
+            "stringId": "1883491243295109120",
+            "femaleVariant": "What's that?"
+          },
+          {
+            "stringId": "1883491308122271744",
+            "femaleVariant": "Eh, no matter."
+          },
+          {
+            "stringId": "1883491848096968708",
+            "femaleVariant": "Come on – gotta tell me."
+          },
+          {
+            "stringId": "1883492800136867840",
+            "femaleVariant": "OK, see you first thing tomorrow."
+          },
+          {
+            "stringId": "1883495107624824832",
+            "femaleVariant": "C'mon. All in the family now, isn't it?"
+          },
+          {
+            "stringId": "1883497032340598784",
+            "femaleVariant": "The truth is I'm concerned about the goings on between Panam and Saul."
+          },
+          {
+            "stringId": "1883498079121436672",
+            "femaleVariant": "They seem to think that putting on a brave face for everyone is enough. But folks here aren't slow."
+          },
+          {
+            "stringId": "1883503038869139456",
+            "femaleVariant": "There's gossip spreading like wildfire already – that Saul won't pull through, that he's in it for himself. That this family needs a shake-up."
+          },
+          {
+            "stringId": "1883512238168993796",
+            "femaleVariant": "And? They right?"
+          },
+          {
+            "stringId": "1883512343999672320",
+            "femaleVariant": "And your take?"
+          },
+          {
+            "stringId": "1883512422265384960",
+            "femaleVariant": "Hope it won't all spill into tomorrow."
+          },
+          {
+            "stringId": "1883513670624473088",
+            "femaleVariant": "And? They right?"
+          },
+          {
+            "stringId": "1883514083612422144",
+            "femaleVariant": "They are. But nobody knows comes next."
+          },
+          {
+            "stringId": "1883515049141202944",
+            "femaleVariant": "What about you?"
+          },
+          {
+            "stringId": "1883515261792415744",
+            "femaleVariant": "What about me?"
+          },
+          {
+            "stringId": "1883515408878268416",
+            "femaleVariant": "What's your take? Saul oughta step down, pass the torch to Panam?"
+          },
+          {
+            "stringId": "1883515833694154752",
+            "femaleVariant": "We'll see how things look tomorrow, once the smoke has cleared."
+          },
+          {
+            "stringId": "1883516491780452352",
+            "femaleVariant": "Don't wanna come off as an ungrateful bitch, but really hope this camp morale doesn't spill into tomorrow.",
+            "maleVariant": "Don't wanna come off as an ungrateful ass, but really hope this camp morale doesn't spill into tomorrow."
+          },
+          {
+            "stringId": "1883517014407507968",
+            "femaleVariant": "It won't. Saul and Panam did one thing right at least – they welcomed you into the clan. Not a one will abandon you in your hour of need."
+          },
+          {
+            "stringId": "1883518234429878272",
+            "femaleVariant": "It's like this, see – Panam's hell-bent on helping you. But Saul sees this whole thing as an opportunity."
+          },
+          {
+            "stringId": "1883529487126753280",
+            "femaleVariant": "Possible loot from Mikoshi?"
+          },
+          {
+            "stringId": "1883529937142018048",
+            "femaleVariant": "Mhm. If we pull this off, get our hands on some sweet Arasaka tech that will set us up down south... Do you follow?"
+          },
+          {
+            "stringId": "1883535775227310084",
+            "femaleVariant": "It'll ease folks' worries, buy Saul time."
+          },
+          {
+            "stringId": "1883536036834439168",
+            "femaleVariant": "Panam'll lose her chance at leadership."
+          },
+          {
+            "stringId": "1883537676220100608",
+            "femaleVariant": "It'll ease folks' fears, buy Saul some time."
+          },
+          {
+            "stringId": "1883538239229915136",
+            "femaleVariant": "[pl_pl][kiwa głową, unosi butelkę na znak, że V dobrze kombinuje]"
+          },
+          {
+            "stringId": "1883538360394969088",
+            "femaleVariant": "Saul's a smooth operator. He knows what he's doing. Let's just hope he hasn't overplayed his hand."
+          },
+          {
+            "stringId": "1883538572811300864",
+            "femaleVariant": "Panam'll lose her chance at taking the helm."
+          },
+          {
+            "stringId": "1883542491230760960",
+            "femaleVariant": "If she hasn't lost it already. Here's how it looks – tomorrow goes off without a hitch, Saul gets the credit for leading."
+          },
+          {
+            "stringId": "1883543884310114304",
+            "femaleVariant": "But if anything goes sideways…"
+          },
+          {
+            "stringId": "1883544221850923008",
+            "femaleVariant": "Blame falls on Panam. She's the one who brought me into the fold.",
+            "maleVariant": "Blame falls on Panam. She's the one brought me into the fold."
+          },
+          {
+            "stringId": "1883547246279651328",
+            "femaleVariant": "I get it. Don't wanna talk about it, no pressure."
+          },
+          {
+            "stringId": "1883550276278415360",
+            "femaleVariant": "Let's just make sure everyone does what they're supposed to do tomorrow."
+          },
+          {
+            "stringId": "1883550733826650112",
+            "femaleVariant": "Sounds good."
+          },
+          {
+            "stringId": "1883551150857908224",
+            "femaleVariant": "You get some rest. I'll try tweaking that targeting. See you at sunup."
+          },
+          {
+            "stringId": "1883551719941074944",
+            "femaleVariant": "Take care."
+          },
+          {
+            "stringId": "1906577523234959360",
+            "femaleVariant": "This one's more likely to fall apart after we fire it up."
+          },
+          {
+            "stringId": "1913978591703068672",
+            "femaleVariant": "Thought Saul would cave."
+          },
+          {
+            "stringId": "1913978591719845888",
+            "femaleVariant": "Was hopin' Panam would mature."
+          },
+          {
+            "stringId": "1913978591719845908",
+            "femaleVariant": "Need to settle their differences if this plan's gonna work."
+          },
+          {
+            "stringId": "1913978592072167424",
+            "femaleVariant": "So she got cold feet."
+          },
+          {
+            "stringId": "1913978592072167440",
+            "femaleVariant": "She cares about the clan, not power."
+          },
+          {
+            "stringId": "1913985261669838848",
+            "femaleVariant": "Your turn – what do you reckon?"
+          },
+          {
+            "stringId": "1927237139676246016",
+            "femaleVariant": "Sure she's ready?"
+          },
+          {
+            "stringId": "1927237370765619200",
+            "femaleVariant": "Is she ready for me?"
+          },
+          {
+            "stringId": "1935931510404804608",
+            "femaleVariant": "You know me – I'd gladly spend another two days on 'er, but this will have to do."
+          },
+          {
+            "stringId": "1935932131296014336",
+            "femaleVariant": "Hop in, let's see what's she's made of."
+          },
+          {
+            "stringId": "1935933721809645568",
+            "femaleVariant": "They shot them into our veins. Our biomons went wild, but only for a second before stabilizing. And boy did we stabilize."
+          },
+          {
+            "stringId": "1937231118888202240",
+            "femaleVariant": "So, time for a ride?"
+          },
+          {
+            "stringId": "1937231182993944576",
+            "femaleVariant": "You'll be steering this beaut tomorrow. Would you like to give her a whirl?"
+          },
+          {
+            "stringId": "1993897413214752772",
+            "femaleVariant": "Still can't get over the surprise."
+          },
+          {
+            "stringId": "1993912112270561308",
+            "femaleVariant": "What just happened – still can't quite wrap my head around it."
+          },
+          {
+            "stringId": "1993912112270561320",
+            "femaleVariant": "Hardly anyone ever does. The day you get your jacket is a day you never forget."
+          },
+          {
+            "stringId": "1998095240110141440",
+            "femaleVariant": "Better than ever. You?"
+          },
+          {
+            "stringId": "1998096077125447680",
+            "femaleVariant": "Good. Really good, in fact. How 'bout you?"
+          },
+          {
+            "stringId": "1998097229804072960",
+            "femaleVariant": "I'm trying to get the panzer running. She's stubborn, our dame, but I won't give, either."
+          },
+          {
+            "stringId": "2004354603394289664",
+            "femaleVariant": "Are we heading back?"
+          },
+          {
+            "stringId": "2018492011631104000",
+            "femaleVariant": "Try hitting the targets with the throttle wide open! Let's see if she's synced up."
+          },
+          {
+            "stringId": "2018500790997241856",
+            "femaleVariant": "I'll take her now. I get picky about parking."
+          },
+          {
+            "stringId": "2243040689329991680",
+            "femaleVariant": "V? Is something up?"
+          },
+          {
+            "stringId": "2243042408440983552",
+            "femaleVariant": "Are you drinking and driving or not?"
+          },
+          {
+            "stringId": "2243043471260839936",
+            "femaleVariant": "Um, is everything all right?"
+          },
+          {
+            "stringId": "2243045067059294208",
+            "femaleVariant": "You'e awfully quiet. Is something up?"
+          },
+          {
+            "stringId": "2243045988363333632",
+            "femaleVariant": "Earth to V? Your cogs're grinding – what about?"
+          },
+          {
+            "stringId": "2243352537929109504",
+            "femaleVariant": "Get in and let's go."
+          },
+          {
+            "stringId": "2243355004548960260",
+            "femaleVariant": "[Get in]"
+          }
+        ]
+      }
+
+
+

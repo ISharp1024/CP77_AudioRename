@@ -1,0 +1,542 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1247535407760527360",
+            "femaleVariant": "Why we meetin' here and not at your pad?",
+            "maleVariant": "Why're we meetin' here and not at your pad?"
+          },
+          {
+            "stringId": "1247539819933454336",
+            "femaleVariant": "Whole thing's fucked up, huh? Wouldn't wanna be in her pants."
+          },
+          {
+            "stringId": "1283710187983196160",
+            "femaleVariant": "Why're we meeting here instead of at your apartment?"
+          },
+          {
+            "stringId": "1287692705029812224",
+            "femaleVariant": "Unusual place for a meeting."
+          },
+          {
+            "stringId": "1287698826012520448",
+            "femaleVariant": "Cozy little joint – doesn't really match your style, though.",
+            "maleVariant": "It's a cozy little joint – doesn't really match your style, though."
+          },
+          {
+            "stringId": "1287700502190616576",
+            "femaleVariant": "But it's perfect for a one-on-one."
+          },
+          {
+            "stringId": "1287710955453149184",
+            "femaleVariant": "Thank you for coming."
+          },
+          {
+            "stringId": "1287719774749061120",
+            "femaleVariant": "Because I have something to confess. In private. Not in front of Jeff."
+          },
+          {
+            "stringId": "1287723625640226816",
+            "femaleVariant": "OK, confess away."
+          },
+          {
+            "stringId": "1287726403041226752",
+            "femaleVariant": "So you knew what I was going to find."
+          },
+          {
+            "stringId": "1287726788933971968",
+            "femaleVariant": "Notice any changes in yourself?"
+          },
+          {
+            "stringId": "1287727646098714624",
+            "femaleVariant": "Notice any changes in yourself?"
+          },
+          {
+            "stringId": "1287733877290954752",
+            "femaleVariant": "On several occasions my friends pointed out that I was acting strangely."
+          },
+          {
+            "stringId": "1287735294999261184",
+            "femaleVariant": "So the whole time, you knew what I could end up finding?"
+          },
+          {
+            "stringId": "1287737648708448256",
+            "femaleVariant": "I don't know who, how or why... but they're changing us."
+          },
+          {
+            "stringId": "1287755286696292352",
+            "femaleVariant": "That concealed room in our apartment…"
+          },
+          {
+            "stringId": "1287785680837668864",
+            "femaleVariant": "Mentioned any of this to Jeff?",
+            "maleVariant": "Mention any of this to Jeff?"
+          },
+          {
+            "stringId": "1287786179892736000",
+            "femaleVariant": "I tried, I did. But he's blinded to everything. He just laughed, said I was imagining things."
+          },
+          {
+            "stringId": "1287787148156203008",
+            "femaleVariant": "He once brought up a vacation that we never went on, swear to God!"
+          },
+          {
+            "stringId": "1287788098199613440",
+            "femaleVariant": "He went on about it in such detail, I almost started believing him…"
+          },
+          {
+            "stringId": "1287789011668692992",
+            "femaleVariant": "Really wanna keep living a lie? Jefferson oughta know."
+          },
+          {
+            "stringId": "1287791032903790592",
+            "femaleVariant": "You were lying the whole time."
+          },
+          {
+            "stringId": "1287791620089573376",
+            "femaleVariant": "You knew who sent the intruder but just strung me along anyway, Liz?",
+            "maleVariant": "You knew who sent the intruder but just strung me along anyway, Liz."
+          },
+          {
+            "stringId": "1287799222651449344",
+            "femaleVariant": "I-I didn't have a choice. I didn't know what to do..."
+          },
+          {
+            "stringId": "1287801261787836416",
+            "femaleVariant": "Ahh... A-a while ago I started noticing some changes in Jeff's behavior."
+          },
+          {
+            "stringId": "1287833424281333760",
+            "femaleVariant": "He stopped reading, forgot the title of his favorite movie, even his musical taste changed overnight."
+          },
+          {
+            "stringId": "1287835703298355200",
+            "femaleVariant": "His personality... He seemed to be changing right in front of me, becoming someone else."
+          },
+          {
+            "stringId": "1287842183078604800",
+            "femaleVariant": "Relax, no need to rush."
+          },
+          {
+            "stringId": "1287845370296659968",
+            "femaleVariant": "Cut a deal with 'em?"
+          },
+          {
+            "stringId": "1287846648418529280",
+            "femaleVariant": "They threaten you?"
+          },
+          {
+            "stringId": "1287847779840421888",
+            "femaleVariant": "They threaten you? Try to blackmail you?"
+          },
+          {
+            "stringId": "1287854952737796096",
+            "femaleVariant": "And? Cut some kinda deal with 'em?",
+            "maleVariant": "And? You cut some kinda deal with 'em?"
+          },
+          {
+            "stringId": "1287855400387473408",
+            "femaleVariant": "No. I was told that our perfect lives could fall apart at any minute. That I have my husband's safety to think about."
+          },
+          {
+            "stringId": "1287867296037597184",
+            "femaleVariant": "So I'm begging you, V... Jefferson can't find out about any of this. Ever."
+          },
+          {
+            "stringId": "1287868978523926528",
+            "femaleVariant": "They said I was walking on thin ice, that if we kept stirring up trouble, Jeff could have an... \"accident.\""
+          },
+          {
+            "stringId": "1287892776988045312",
+            "femaleVariant": "But dammit, Elizabeth. Ya gonna ignore this? Somebody poking around in your heads?",
+            "maleVariant": "Dammit, Elizabeth. Ya gonna ignore this? Somebody poking around in your heads?"
+          },
+          {
+            "stringId": "1287896037941964800",
+            "femaleVariant": "Askin' me to lie to my employer?"
+          },
+          {
+            "stringId": "1287898335262928896",
+            "femaleVariant": "What choice do I have? To get myself killed? Or see my husband dragged away from me?"
+          },
+          {
+            "stringId": "1287907477553803264",
+            "femaleVariant": "I'm going to tell Jeff that SSI was spying for his rival, Holt. You just need to confirm what I say."
+          },
+          {
+            "stringId": "1287915457032613888",
+            "femaleVariant": "What if I'm just not on board?"
+          },
+          {
+            "stringId": "1287916955271557120",
+            "femaleVariant": "Really prepared to fire SSI?"
+          },
+          {
+            "stringId": "1287917731821776896",
+            "femaleVariant": "And if I'm not on board?"
+          },
+          {
+            "stringId": "1287918161872154624",
+            "femaleVariant": "You have a choice. Just remember, any consequences will not be yours to deal with."
+          },
+          {
+            "stringId": "1287922531347066880",
+            "femaleVariant": "Truly prepared to fire SSI? After the threats? It'd be brave, but risky as all get-out…",
+            "maleVariant": "You're truly prepared to fire SSI? After the threats? It'd be brave, but risky as all get-out…"
+          },
+          {
+            "stringId": "1287925323663011840",
+            "femaleVariant": "I can't accept strangers spying on us while we sleep. Not under my own roof."
+          },
+          {
+            "stringId": "1287926949694009344",
+            "femaleVariant": "Mh-hm.",
+            "maleVariant": "Hmm."
+          },
+          {
+            "stringId": "1287928663855722496",
+            "femaleVariant": "I'll add a meeting in Reconciliation Park to Jeff's schedule. He'll be waiting."
+          },
+          {
+            "stringId": "1287929485352103936",
+            "femaleVariant": "Since I can't know if I'll remember this conversation tomorrow, I'm counting on you not to forget what I asked of you."
+          },
+          {
+            "stringId": "1287993972071460864",
+            "femaleVariant": "Speaking of... Overlapping memories, changing personalities – remind you of anything?"
+          },
+          {
+            "stringId": "1287997052770971648",
+            "femaleVariant": "What would you have done?"
+          },
+          {
+            "stringId": "1287997371789733888",
+            "femaleVariant": "No, their case and ours – entirely different."
+          },
+          {
+            "stringId": "1287998573390721024",
+            "femaleVariant": "No – no, this is different. Saw it yourself. They're purposely modifying their minds' individual thoughts.",
+            "maleVariant": "No, this is different. You saw it yourself. They're purposely modifying their minds, individual thoughts."
+          },
+          {
+            "stringId": "1288002562777804800",
+            "femaleVariant": "Mhm. Peralez'd make a damn nice next-gen puppet. Even in my day there were whispers about this kinda stuff."
+          },
+          {
+            "stringId": "1288006846974128128",
+            "femaleVariant": "So, in my pants, what would you do?"
+          },
+          {
+            "stringId": "1288010564033441792",
+            "femaleVariant": "Some real rat-bastards behind this. Someone's gotta take 'em down."
+          },
+          {
+            "stringId": "1288013014396170240",
+            "femaleVariant": "Fuck knows what kind of shit a mayor controlled by puppet masters could pull."
+          },
+          {
+            "stringId": "1288016290533470208",
+            "femaleVariant": "But yeah, you could end up puttin' their lives at risk. Or not. Tough choice, V."
+          },
+          {
+            "stringId": "1644785539914797056",
+            "femaleVariant": "Convenient?"
+          },
+          {
+            "stringId": "1664877952788205568",
+            "femaleVariant": "Here we are, then. What is it?"
+          },
+          {
+            "stringId": "1664946768566161408",
+            "femaleVariant": "After, there was no record of the call. It was as if it had never happened."
+          },
+          {
+            "stringId": "1664947729565093888",
+            "femaleVariant": "Then they wiped any record of our conversation. It was as if it had never happened."
+          },
+          {
+            "stringId": "1664953057472024576",
+            "femaleVariant": "I'll take full responsibility for anything SSI goes on to do. I'm just asking you not to get Jefferson involved."
+          },
+          {
+            "stringId": "1664955961641668608",
+            "femaleVariant": "But hey, at least we know what we're up against."
+          },
+          {
+            "stringId": "1751766830148620288",
+            "femaleVariant": "After some time."
+          },
+          {
+            "stringId": "1751811004373798912",
+            "femaleVariant": "Wanted everything to just go on and flow on 'cause it was convenient."
+          },
+          {
+            "stringId": "1751812112475361280",
+            "femaleVariant": "You think I'm having fun? You have no idea what it's like, living like this."
+          },
+          {
+            "stringId": "1751820687377567744",
+            "femaleVariant": "Once, I said we should visit his brother's grave, and he told me that he'd been an only child!"
+          },
+          {
+            "stringId": "1751825035176316928",
+            "femaleVariant": "And got nothing out of it?"
+          },
+          {
+            "stringId": "1751825035176316944",
+            "femaleVariant": "Why didn't you tell Jefferson?"
+          },
+          {
+            "stringId": "1751830634723151872",
+            "femaleVariant": "Is that it? Or is there anything else?"
+          },
+          {
+            "stringId": "1751830634739929096",
+            "femaleVariant": "Have you talked to Jeff?"
+          },
+          {
+            "stringId": "1751837893318545408",
+            "femaleVariant": "Could be just you who forgot. Maybe they just wiped the trip from your memory?",
+            "maleVariant": "Could be just you who forgot. Maybe they wiped the trip from your memory?"
+          },
+          {
+            "stringId": "1751838794171158528",
+            "femaleVariant": "Hell, I don't know anymore! Don't you get that?"
+          },
+          {
+            "stringId": "1751847778940751872",
+            "femaleVariant": "Haven't told me the whole story yet, have you?",
+            "maleVariant": "You haven't told me the whole story yet, have you?"
+          },
+          {
+            "stringId": "1751847778957529100",
+            "femaleVariant": "Ehh, I saw a stranger in our apartment one night, tinkering with the monitors."
+          },
+          {
+            "stringId": "1751847778957529160",
+            "femaleVariant": "But I was in such a state by then that I didn't know if I could trust my own eyes."
+          },
+          {
+            "stringId": "1751873582835830784",
+            "femaleVariant": "So you didn't do anything?"
+          },
+          {
+            "stringId": "1751873749551026176",
+            "femaleVariant": "I don't remember what happened. I talked to security the next morning."
+          },
+          {
+            "stringId": "1751880320431558656",
+            "femaleVariant": "Find it strange you took this to security instead of your husband.",
+            "maleVariant": "I find it strange you took this to security instead of your husband."
+          },
+          {
+            "stringId": "1751880320431558672",
+            "femaleVariant": "I thought I was going insane. I wanted to see what was on the feeds first…"
+          },
+          {
+            "stringId": "1751880320431558688",
+            "femaleVariant": "There was nothing there, of course, so what was I supposed to tell Jeff?"
+          },
+          {
+            "stringId": "1751880320465113088",
+            "femaleVariant": "Lemme guess. Cams didn't pick anything up?"
+          },
+          {
+            "stringId": "1751880320465113104",
+            "femaleVariant": "The guy just shrugged and said I must've dreamt it."
+          },
+          {
+            "stringId": "1751880320465113120",
+            "femaleVariant": "He showed me the recording, of course. I felt like a lunatic."
+          },
+          {
+            "stringId": "1751887134497837056",
+            "femaleVariant": "And then the next day... I got a call."
+          },
+          {
+            "stringId": "1751887134497837072",
+            "femaleVariant": "Who was it?"
+          },
+          {
+            "stringId": "1751887134497837088",
+            "femaleVariant": "Them. Whoever \"they\" are."
+          },
+          {
+            "stringId": "1751887134514614276",
+            "femaleVariant": "There was a garbled voice on the other end. He never introduced himself."
+          },
+          {
+            "stringId": "1751898429271969792",
+            "femaleVariant": "His life depends on it."
+          },
+          {
+            "stringId": "1751953208727703552",
+            "femaleVariant": "Even by risking the Peralezes' lives?"
+          },
+          {
+            "stringId": "1751964396832296960",
+            "femaleVariant": "What they're doing to us is one thing. But when you found that concealed room…"
+          },
+          {
+            "stringId": "1806542800348647424",
+            "femaleVariant": "How so?"
+          },
+          {
+            "stringId": "1806558494545022976",
+            "femaleVariant": "I'm sure I'd seen it before but must have somehow forgotten…"
+          },
+          {
+            "stringId": "1806559956075417600",
+            "femaleVariant": "It was. You know... i-it's at times like those you start to question reality."
+          },
+          {
+            "stringId": "1806565017811816448",
+            "femaleVariant": "That's when I started thinking something bad was happening. Something... insidious. And not just with Jeff."
+          },
+          {
+            "stringId": "1806649853817786368",
+            "femaleVariant": "Could be you're just saying what you've been programmed to say."
+          },
+          {
+            "stringId": "1806655371273703424",
+            "femaleVariant": "Well, you got the perfect life, a prominent husband. You don't lack for a thing.",
+            "maleVariant": "You got the perfect life, a prominent husband. You don't lack for a thing."
+          },
+          {
+            "stringId": "1806662097242820608",
+            "femaleVariant": "What if you're just saying what they programmed you to say?"
+          },
+          {
+            "stringId": "1806662931523440640",
+            "femaleVariant": "Just reading off a script based on thoughts planted in your head."
+          },
+          {
+            "stringId": "1806664422413963264",
+            "femaleVariant": "All I know is I love my husband, and I want him to be safe and... and happy."
+          },
+          {
+            "stringId": "1806664880079638528",
+            "femaleVariant": "Or that's what they want you to know…"
+          },
+          {
+            "stringId": "1806665649163997184",
+            "femaleVariant": "You know what Jeff'll do if you tell him? I know my husband. He'll start looking on his own."
+          },
+          {
+            "stringId": "1806666322802774016",
+            "femaleVariant": "He can't find out about this. It... it'd destroy him."
+          },
+          {
+            "stringId": "1806718248571506688",
+            "femaleVariant": "I won't. But that's all I can promise."
+          },
+          {
+            "stringId": "1806719497618460672",
+            "femaleVariant": "Goodbye, V."
+          },
+          {
+            "stringId": "1825880475211796480",
+            "femaleVariant": "I... I'm sorry, my nerves are shot. I can't gather my thoughts."
+          },
+          {
+            "stringId": "1825882957686116356",
+            "femaleVariant": "No rush."
+          },
+          {
+            "stringId": "1825883035750502400",
+            "femaleVariant": "Has something happened since we last met?"
+          },
+          {
+            "stringId": "1825885633685622784",
+            "femaleVariant": "Wasn't that long ago we last met. Something happen since then?",
+            "maleVariant": "Wasn't that long ago since we last met. Something happen since then?"
+          },
+          {
+            "stringId": "1825888194828308480",
+            "femaleVariant": "No... I mean, something did happen, though not recently."
+          },
+          {
+            "stringId": "1825889090312212480",
+            "femaleVariant": "It's a long story. I don't quite know how to tell you... where to even start…"
+          },
+          {
+            "stringId": "1825920897950814208",
+            "femaleVariant": "Ah, that must've been hard…",
+            "maleVariant": "That must've been hard…"
+          },
+          {
+            "stringId": "1825927567145832448",
+            "femaleVariant": "What about it?"
+          },
+          {
+            "stringId": "1825927922403381248",
+            "femaleVariant": "I find that terrifying."
+          },
+          {
+            "stringId": "1825986511478329344",
+            "femaleVariant": "What difference does it make where?"
+          },
+          {
+            "stringId": "2007009273591238656",
+            "femaleVariant": "You think if I tell him everything that he'll go and pick a fight he can't win?"
+          },
+          {
+            "stringId": "2007011551433854976",
+            "femaleVariant": "I don't just think – I know. One thing hasn't changed – Jeff's still a fighter."
+          },
+          {
+            "stringId": "2007012879535050752",
+            "femaleVariant": "And he'll go down swingin'... Huh. So how do we play this?",
+            "maleVariant": "And he'll go down swingin'... Mhm. So how do we play this?"
+          },
+          {
+            "stringId": "2007014498855161856",
+            "femaleVariant": "You think Jeff'll pick a fight he can't win?"
+          },
+          {
+            "stringId": "2007037463692972032",
+            "femaleVariant": "Cognitive pattern fluctuators, remote neural re-networking... In layman's terms – gaslighting."
+          },
+          {
+            "stringId": "2007039860989366272",
+            "femaleVariant": "The beauty is that everything's fair game – subliminal TV signals, high-density emitters in your electric toothbrush – you name it."
+          },
+          {
+            "stringId": "2015911712252489732",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2015914022626127872",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "2228800174800637952",
+            "femaleVariant": "Will you sit? Please…?"
+          },
+          {
+            "stringId": "2228811841945079808",
+            "femaleVariant": "V? Are you still with me?"
+          },
+          {
+            "stringId": "2228812318334128128",
+            "femaleVariant": "An enny for your thoughts?"
+          }
+        ]
+      }
+
+
+

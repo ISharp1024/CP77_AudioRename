@@ -1,0 +1,310 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1742970175138807808",
+            "femaleVariant": "You think it will take the load?"
+          },
+          {
+            "stringId": "1742970175138807816",
+            "femaleVariant": "Who cares? The parade is starting soon."
+          },
+          {
+            "stringId": "1742970175138807824",
+            "femaleVariant": "Yeah, that does look pretty great..."
+          },
+          {
+            "stringId": "1786663378442272768",
+            "femaleVariant": "Saburo Arasaka, the poor chap. World's most powerful turned into a commercial hack."
+          },
+          {
+            "stringId": "1786664073270673408",
+            "femaleVariant": "Surprised? He's a symbol, an icon."
+          },
+          {
+            "stringId": "1786664614235226112",
+            "femaleVariant": "Even in death, his net worth's increased markedly…"
+          },
+          {
+            "stringId": "1786670332430532608",
+            "femaleVariant": "Hey, what's going on? Why'd you shut the elevators down?"
+          },
+          {
+            "stringId": "1786671161526992896",
+            "femaleVariant": "Security reasons."
+          },
+          {
+            "stringId": "1786671555959341056",
+            "femaleVariant": "Are you fucking kidding me? You want me to take the stairs all the way down?"
+          },
+          {
+            "stringId": "1786672226796322816",
+            "femaleVariant": "There are quicker ways, if you are interested? No? The stairs, then."
+          },
+          {
+            "stringId": "1786672627822116864",
+            "femaleVariant": "Come on, waste of words."
+          },
+          {
+            "stringId": "1786674071266672640",
+            "femaleVariant": "It'll be beautiful! Just the juxtaposition of the masses celebratin' corporate culture and havin' exactly no share in its capital."
+          },
+          {
+            "stringId": "1786677432078581760",
+            "femaleVariant": "Uhh... How's this?"
+          },
+          {
+            "stringId": "1786677521819910144",
+            "femaleVariant": "Preem! Hot! Oh! I'm 'onna spew a load!"
+          },
+          {
+            "stringId": "1786691287139762176",
+            "femaleVariant": "Hell'd you just do?"
+          },
+          {
+            "stringId": "1786692372944404484",
+            "femaleVariant": "Don't wanna know, believe me."
+          },
+          {
+            "stringId": "1786693039519973376",
+            "femaleVariant": "Don't wanna know, man, trust me. For your own good."
+          },
+          {
+            "stringId": "1786693723728396288",
+            "femaleVariant": "Yeah, sure, I get it. Forget I asked!"
+          },
+          {
+            "stringId": "1786695934478925824",
+            "femaleVariant": "Awww, ya'll can go fuck yourselves…!"
+          },
+          {
+            "stringId": "1786696794982334464",
+            "femaleVariant": "They killed Tom and didn't even bother releasin' his body! And there ain't no compensation 'thout no body!"
+          },
+          {
+            "stringId": "1786697112122048512",
+            "femaleVariant": "Cool it, all right?! Ya can't know who's listenin'!"
+          },
+          {
+            "stringId": "1786698747195965440",
+            "femaleVariant": "No surprises here. All the factions have peeps on the ground."
+          },
+          {
+            "stringId": "1786699471434825728",
+            "femaleVariant": "No, don't think so. It is Arasaka, y'know. If there was going to be any blood-letting, they'd do it behind closed doors."
+          },
+          {
+            "stringId": "1786728485465636864",
+            "femaleVariant": "Whoa, ain't that somethin'!"
+          },
+          {
+            "stringId": "1792373583164346368",
+            "femaleVariant": "I have this scrolled! You can't treat people this way!"
+          },
+          {
+            "stringId": "1792390914833780736",
+            "femaleVariant": "And the corp will show it all off in Night City…"
+          },
+          {
+            "stringId": "1792411987755274240",
+            "femaleVariant": "Lemme see it, now... Lemme see that fuckin' juxtaposition…"
+          },
+          {
+            "stringId": "1792418329559699456",
+            "femaleVariant": "Hush up! You crazy?!"
+          },
+          {
+            "stringId": "1792422064788738048",
+            "femaleVariant": "Tha'ss the motherfuckin' problem! Nobody's listenin'!"
+          },
+          {
+            "stringId": "1793711194961219584",
+            "femaleVariant": "I suppose we're not nearly as independent here as we make ourselves out to be…"
+          },
+          {
+            "stringId": "1793712372319129600",
+            "femaleVariant": "Hyenas! Murderers and fuckin' thieves, tha'ss what they are!"
+          },
+          {
+            "stringId": "1796619149963665408",
+            "femaleVariant": "V! Find cover! They see you!"
+          },
+          {
+            "stringId": "1796632799050964992",
+            "femaleVariant": "You should be safe there."
+          },
+          {
+            "stringId": "1796842788491337728",
+            "femaleVariant": "Phew, that was close."
+          },
+          {
+            "stringId": "1796850045157351424",
+            "femaleVariant": "Be careful now..."
+          },
+          {
+            "stringId": "1802695717945319424",
+            "femaleVariant": "V, do you wish to die?! Get back behind cover!"
+          },
+          {
+            "stringId": "1876328461862191104",
+            "femaleVariant": "V, this is important. Oda is speaking to someone."
+          },
+          {
+            "stringId": "1876329161052667904",
+            "femaleVariant": "Again. Security is substandard! It meets none of our norms!"
+          },
+          {
+            "stringId": "1876330252293128192",
+            "femaleVariant": "Hanako-sama should not be here!"
+          },
+          {
+            "stringId": "1876330591075450880",
+            "femaleVariant": "You questioning Yorinobu's orders?"
+          },
+          {
+            "stringId": "1876331655187152896",
+            "femaleVariant": "Do your damn job."
+          },
+          {
+            "stringId": "1876331896225415168",
+            "femaleVariant": "Understood. Over and out."
+          },
+          {
+            "stringId": "1876332344126750720",
+            "femaleVariant": "Mhh, it is just as we expected. Oda is here."
+          },
+          {
+            "stringId": "1876489611165843456",
+            "femaleVariant": "Holmes, shouldn't even be out here. Back inside, back inside."
+          },
+          {
+            "stringId": "1876490251669618688",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"ese\" b=\"Aww, c'mon, \" a=\". It's beautiful! Not often ya get a whole bag full of eye candy.\"/>"
+          },
+          {
+            "stringId": "1876490751429328896",
+            "femaleVariant": "Access point's hella secure anyways. Placed mines around it, get me? Anyone breathes on it – poof! They'll be turned into a cloud of confetti."
+          },
+          {
+            "stringId": "1876493174445195264",
+            "femaleVariant": "Yeah. I got work here, man. So not coming down. You manage on your own."
+          },
+          {
+            "stringId": "1876493767050018816",
+            "femaleVariant": "Yes, that is the access hatch of the system. Ask the techie men. Maybe dey help you."
+          },
+          {
+            "stringId": "1876512102785499136",
+            "femaleVariant": "I will contact you with any news."
+          },
+          {
+            "stringId": "1883579959955234816",
+            "femaleVariant": "I am linking you in. We both can listen."
+          },
+          {
+            "stringId": "1936135520497188864",
+            "femaleVariant": "I know that borged out ogre!"
+          },
+          {
+            "stringId": "1936136081275633664",
+            "femaleVariant": "Adam fuckin' Smasher!"
+          },
+          {
+            "stringId": "1936136579709943812",
+            "femaleVariant": "Guy who killed you?"
+          },
+          {
+            "stringId": "1936136949882437632",
+            "femaleVariant": "Chill. Sure it was him?"
+          },
+          {
+            "stringId": "1936137436086157312",
+            "femaleVariant": "Guy who killed you, right?"
+          },
+          {
+            "stringId": "1936137805671448576",
+            "femaleVariant": "Guy?! Motherfucker's barely human!"
+          },
+          {
+            "stringId": "1936138262028500992",
+            "femaleVariant": "Chill out a sec. Sure it was him?"
+          },
+          {
+            "stringId": "1936139180698517504",
+            "femaleVariant": "I'd recognize that voice anywhere!"
+          },
+          {
+            "stringId": "1936139497620127744",
+            "femaleVariant": "But hey – know what? I'm glad he's here."
+          },
+          {
+            "stringId": "1947363110788546560",
+            "femaleVariant": "Catwalk don't look too stable…"
+          },
+          {
+            "stringId": "1947363497989914624",
+            "femaleVariant": "Sure Takemura didn't plan a little \"whoopsy-daisy\" for ya?"
+          },
+          {
+            "stringId": "1947368244633419776",
+            "femaleVariant": "Told ya so."
+          },
+          {
+            "stringId": "2011482945800183812",
+            "femaleVariant": "Sniper! He can see you! Hide!"
+          },
+          {
+            "stringId": "2011483441315258376",
+            "femaleVariant": "Stay hidden!"
+          },
+          {
+            "stringId": "2011486144628072456",
+            "femaleVariant": "Not yet, V!"
+          },
+          {
+            "stringId": "2011487746785091588",
+            "femaleVariant": "You must be more careful."
+          },
+          {
+            "stringId": "2011488839485169688",
+            "femaleVariant": "Wait there until it is calm. I will signal you."
+          },
+          {
+            "stringId": "2011490461909065736",
+            "femaleVariant": "Remember, they can still detect you."
+          },
+          {
+            "stringId": "2012951830520995840",
+            "femaleVariant": "You're glad?"
+          },
+          {
+            "stringId": "2012952174487478272",
+            "femaleVariant": "Seein' as I woke up in a world without any Saburo, I'll have to be satisfied with Smasher."
+          },
+          {
+            "stringId": "2012952631649837056",
+            "femaleVariant": "You gotta be satisfied? You got fuck-all to lose!"
+          },
+          {
+            "stringId": "2012955981338451968",
+            "femaleVariant": "All right, fine – we. Your finger on the fuckin' trigger, I guess."
+          }
+        ]
+      }
+
+
+

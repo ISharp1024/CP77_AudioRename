@@ -1,0 +1,686 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1776544926192177152",
+            "femaleVariant": "No. The rest will stay here in camp."
+          },
+          {
+            "stringId": "1776648188379598848",
+            "femaleVariant": "V, you're here."
+          },
+          {
+            "stringId": "1776652853401948160",
+            "femaleVariant": "What is she doing here?",
+            "maleVariant": "What is he doing here?"
+          },
+          {
+            "stringId": "1776653112710598656",
+            "femaleVariant": "I forbade you from even breathing on that Militech convoy so you call in your friend?"
+          },
+          {
+            "stringId": "1776660594442964992",
+            "femaleVariant": "I am starting to wonder."
+          },
+          {
+            "stringId": "1776661433958076416",
+            "femaleVariant": "Uh-huh. That's exactly why I had V come and stand right in front of you. Do you think I'm that stupid?"
+          },
+          {
+            "stringId": "1776664477932261380",
+            "femaleVariant": "Got no notion what's going on."
+          },
+          {
+            "stringId": "1776665135649460224",
+            "femaleVariant": "\"Forbade\" Panam from doing something?"
+          },
+          {
+            "stringId": "1780583596230512640",
+            "femaleVariant": "You really think you can \"forbid\" Panam from doing anything?"
+          },
+          {
+            "stringId": "1780584580549775360",
+            "femaleVariant": "Trust me – no point. She'll do whatever she wants."
+          },
+          {
+            "stringId": "1780591402333573120",
+            "femaleVariant": "No, she won't. Not if she plans to stay in this family."
+          },
+          {
+            "stringId": "1780727836516356096",
+            "femaleVariant": "Got no fuckin' clue what's going on here."
+          },
+          {
+            "stringId": "1780735371902259200",
+            "femaleVariant": "Dammit to hell, Saul!"
+          },
+          {
+            "stringId": "1780736837392076800",
+            "femaleVariant": "Are you seriously considering letting that Basilisk slip through our fingers?"
+          },
+          {
+            "stringId": "1780737680715616256",
+            "femaleVariant": "I am."
+          },
+          {
+            "stringId": "1780742431167549440",
+            "femaleVariant": "Or pissing Militech off so they hammer us into the dirt right here?"
+          },
+          {
+            "stringId": "1780743047445024768",
+            "femaleVariant": "Shit, Panam, can you please tell him…?"
+          },
+          {
+            "stringId": "1780743552456003584",
+            "femaleVariant": "I've already tried. Let it go, Mitch."
+          },
+          {
+            "stringId": "1780746055901843456",
+            "femaleVariant": "The Biotechnica people will be here in an hour. Try not to cock anything else up before then."
+          },
+          {
+            "stringId": "1780747141622599680",
+            "femaleVariant": "I can't believe it. There he goes, off to paint the grass green."
+          },
+          {
+            "stringId": "1780747809120915456",
+            "femaleVariant": "What's this about a Basilisk?"
+          },
+          {
+            "stringId": "1780749884412203008",
+            "femaleVariant": "Bein' unusually quiet."
+          },
+          {
+            "stringId": "1780750486764589056",
+            "femaleVariant": "Bein' unusually quiet. What's up?"
+          },
+          {
+            "stringId": "1780752107661758464",
+            "femaleVariant": "I see no point in arguing with Saul. We can't win."
+          },
+          {
+            "stringId": "1780752595878744064",
+            "femaleVariant": "So – givin' up?"
+          },
+          {
+            "stringId": "1780753108120702976",
+            "femaleVariant": "Of course not. We'll take the Basilisk ourselves, then wait for Saul to admit we were right."
+          },
+          {
+            "stringId": "1780753455694286848",
+            "femaleVariant": "Either that or to boot us out of the family."
+          },
+          {
+            "stringId": "1780796771714535424",
+            "femaleVariant": "It's an armored Militech cargo panzer – junk from back in 2060 or so."
+          },
+          {
+            "stringId": "1780804510457073664",
+            "femaleVariant": "They want to peddle it off to a backwards country, somewhere it can still pass as a technological wonder."
+          },
+          {
+            "stringId": "1780819596445814784",
+            "femaleVariant": "The Militech convoy will take the one-oh-one, right past us."
+          },
+          {
+            "stringId": "1780828145242673152",
+            "femaleVariant": "Shame not to say hello."
+          },
+          {
+            "stringId": "1780832286463561728",
+            "femaleVariant": "Lemme guess – whole thing's your idea?"
+          },
+          {
+            "stringId": "1780837009736404992",
+            "femaleVariant": "How did you know?"
+          },
+          {
+            "stringId": "1780839069408104448",
+            "femaleVariant": "Saul wouldn't be quite so pissed if it weren't."
+          },
+          {
+            "stringId": "1780839744993038340",
+            "femaleVariant": "What's the plan?"
+          },
+          {
+            "stringId": "1780842766267650048",
+            "femaleVariant": "'Member when you told me to give you a good kick in the pants?"
+          },
+          {
+            "stringId": "1780843283089788928",
+            "femaleVariant": "On the contrary, easy as pie. There won't even be much security on the convoy."
+          },
+          {
+            "stringId": "1780844154045403136",
+            "femaleVariant": "Plus, we'll be doing our part towards furthering the cause of world peace."
+          },
+          {
+            "stringId": "1780844865953009664",
+            "femaleVariant": "Thought you and Saul were getting along."
+          },
+          {
+            "stringId": "1780845707632381952",
+            "femaleVariant": "I believe V is right. If this had been Saul's idea, he would've seen it as the greatest plan on God's green earth."
+          },
+          {
+            "stringId": "1780854954730524672",
+            "femaleVariant": "'Member, a while back, told me to give you a solid kick in the pants if I saw you divin' in the stupid pool again?"
+          },
+          {
+            "stringId": "1780857119494705152",
+            "femaleVariant": "Why should this beast wind up being used in some little third world skirmish?"
+          },
+          {
+            "stringId": "1780858936819519488",
+            "femaleVariant": "Basilisk worth a fight with Saul?"
+          },
+          {
+            "stringId": "1780860496261746688",
+            "femaleVariant": "Bull. Saul isn't that petty."
+          },
+          {
+            "stringId": "1780887625020018688",
+            "femaleVariant": "He's simply a coward. He would rather play it safe, bide his time. For the family."
+          },
+          {
+            "stringId": "1780911523258241028",
+            "femaleVariant": "Thought the Biotechnica job was a bust."
+          },
+          {
+            "stringId": "1780911964784234496",
+            "femaleVariant": "Thought the Biotechnica contract had withered and died."
+          },
+          {
+            "stringId": "1780930162627776512",
+            "femaleVariant": "This Basilisk worth another fight with Saul?"
+          },
+          {
+            "stringId": "1780942008365682688",
+            "femaleVariant": "I do. Yet that was before our tandem raid on the Raffen camp."
+          },
+          {
+            "stringId": "1782044560914190336",
+            "femaleVariant": "The family is falling apart. If we fall into this Biotechnica rut, no one will ever take us seriously again."
+          },
+          {
+            "stringId": "1782045603114848256",
+            "femaleVariant": "Why's Saul got his briefs in a bunch over this Basilisk?"
+          },
+          {
+            "stringId": "1782059656314949632",
+            "femaleVariant": "Saul insists we see it through to the end – to prove the Aldecaldos keep their word."
+          },
+          {
+            "stringId": "1782060507674775552",
+            "femaleVariant": "Crop protection! Who gives a damn about crop protection?!"
+          },
+          {
+            "stringId": "1782065922219249664",
+            "femaleVariant": "All Saul is going to prove is that a corp can walk all over us, and we'll say thank you and ask for more."
+          },
+          {
+            "stringId": "1782087362695991296",
+            "femaleVariant": "OK, so you do wanna go behind Saul's back, dragged me here specifically for that."
+          },
+          {
+            "stringId": "1782115196332216320",
+            "femaleVariant": "Cassidy, Ted, Carol and Bob – also on board."
+          },
+          {
+            "stringId": "1782121599423811584",
+            "femaleVariant": "He's afraid Militech will destroy us if we pick a fight with it."
+          },
+          {
+            "stringId": "1782123551335452672",
+            "femaleVariant": "He thinks it safer to stick with the corporations. Like Biotechnica – what a joke!"
+          },
+          {
+            "stringId": "1782124547281326080",
+            "femaleVariant": "We would rather go back to plying the trade we know best – logistics."
+          },
+          {
+            "stringId": "1782167584028037120",
+            "femaleVariant": "Meanin' smugglin'."
+          },
+          {
+            "stringId": "1782167869794357248",
+            "femaleVariant": "That's what I said."
+          },
+          {
+            "stringId": "1782169260206133248",
+            "femaleVariant": "I believe you lost your opportunity there."
+          },
+          {
+            "stringId": "1782171193360846848",
+            "femaleVariant": "Nope, different, that – rescue mission. Someone from the family."
+          },
+          {
+            "stringId": "1782171699764334592",
+            "femaleVariant": "Now, you're out to plain trick him."
+          },
+          {
+            "stringId": "1782172056263397376",
+            "femaleVariant": "If you plan to lecture me, you can damn well go right now."
+          },
+          {
+            "stringId": "1782182281473232896",
+            "femaleVariant": "Terrible idea, all this. Sorry, can't, won't get involved.",
+            "maleVariant": "Terrible idea, all this. Sorry, I can't-- won't get involved."
+          },
+          {
+            "stringId": "1782183723676274688",
+            "femaleVariant": "Suit yourself."
+          },
+          {
+            "stringId": "1782184768997494784",
+            "femaleVariant": "And you plan to grab the Basilisk how?"
+          },
+          {
+            "stringId": "1782187483785924608",
+            "femaleVariant": "But if you change your mind..."
+          },
+          {
+            "stringId": "1782189187512209408",
+            "femaleVariant": "Fuck, Mitch. You heard her. She said this is not her concern.",
+            "maleVariant": "Fuck, Mitch. You heard him. He said this is not his concern."
+          },
+          {
+            "stringId": "1782192144563638272",
+            "femaleVariant": "Thought you and Saul'd agreed to bury your carbines."
+          },
+          {
+            "stringId": "1782235166898720768",
+            "femaleVariant": "Thanks, V."
+          },
+          {
+            "stringId": "1782236431900807168",
+            "femaleVariant": "So did I. But it seems that's only true when somebody is trying to kill us."
+          },
+          {
+            "stringId": "1782237230915719168",
+            "femaleVariant": "'Zactly. You saved his life. Wanna fuck things up all over again now?",
+            "maleVariant": "Zactly. You saved his life. You wanna fuck things up all over again now?"
+          },
+          {
+            "stringId": "1782239351438381056",
+            "femaleVariant": "OK, let's go talk to the rest."
+          },
+          {
+            "stringId": "1782249340861222912",
+            "femaleVariant": "I saved his life, yet somehow he still ignores everything I say."
+          },
+          {
+            "stringId": "1782251740674199552",
+            "femaleVariant": "So I do believe we have come full circle."
+          },
+          {
+            "stringId": "1782261366148894720",
+            "femaleVariant": "I want patrols every half hour, reporting directly to me."
+          },
+          {
+            "stringId": "1782261893591011328",
+            "femaleVariant": "Are we preparing for a visit from Biotechnica?"
+          },
+          {
+            "stringId": "1782262347783802880",
+            "femaleVariant": "The Raffens could surprise us at any moment."
+          },
+          {
+            "stringId": "1782263412130385920",
+            "femaleVariant": "I don't want any more surprises."
+          },
+          {
+            "stringId": "1791111866189418496",
+            "femaleVariant": "No. OK, everyone listen. Militech will transport the Basilisk in parts distributed across two trucks."
+          },
+          {
+            "stringId": "1791119057642393600",
+            "femaleVariant": "Wait – do I sense a quiver in your voice?"
+          },
+          {
+            "stringId": "1791119366477385728",
+            "femaleVariant": "Fuck you."
+          },
+          {
+            "stringId": "1791140523922493440",
+            "femaleVariant": "Haven't said I'd help just yet."
+          },
+          {
+            "stringId": "1791163498558197760",
+            "femaleVariant": "The convoy we'll halt at the railroad crossing on the one-oh-one."
+          },
+          {
+            "stringId": "1791166483560468480",
+            "femaleVariant": "We'll attack from behind, then get the hell out and away."
+          },
+          {
+            "stringId": "1791168305817784320",
+            "femaleVariant": "Questions, comments, motions?"
+          },
+          {
+            "stringId": "1791172326645370884",
+            "femaleVariant": "OK, I'm in."
+          },
+          {
+            "stringId": "1791173472294342656",
+            "femaleVariant": "It all seems too perfect, too easy…"
+          },
+          {
+            "stringId": "1791174393682268160",
+            "femaleVariant": "Don't wanna get involved."
+          },
+          {
+            "stringId": "1791179111368298496",
+            "femaleVariant": "Panam's got a beef with Saul, I know. But you guys?"
+          },
+          {
+            "stringId": "1791180345147985920",
+            "femaleVariant": "OK. I'm in."
+          },
+          {
+            "stringId": "1791180838146478080",
+            "femaleVariant": "Hmm. OK. Thanks."
+          },
+          {
+            "stringId": "1791181282021281792",
+            "femaleVariant": "It's all too... easy. Convenient to arrange."
+          },
+          {
+            "stringId": "1791182237936717824",
+            "femaleVariant": "The exact tech you need. Comin' your way almost served on a silver platter."
+          },
+          {
+            "stringId": "1791182427989020672",
+            "femaleVariant": "Panam's got a beef with Saul, I know. But you guys...?"
+          },
+          {
+            "stringId": "1791193858188840960",
+            "femaleVariant": "Nice job, sunshine."
+          },
+          {
+            "stringId": "1791194391754641408",
+            "femaleVariant": "Mhm. Damn short, sweet and pertinent."
+          },
+          {
+            "stringId": "1791194920975142912",
+            "femaleVariant": "None of that sad-sack bullshit Saul likes to tack on."
+          },
+          {
+            "stringId": "1791205783987621888",
+            "femaleVariant": "A few years back, nobody would have given corpo work a second thought."
+          },
+          {
+            "stringId": "1791207949288673280",
+            "femaleVariant": "We want a good name, we just need good gear and good jobs."
+          },
+          {
+            "stringId": "1791208706092109824",
+            "femaleVariant": "And Saul would see that if he pulled his head out of his caboose once in a while."
+          },
+          {
+            "stringId": "1791213768130498560",
+            "femaleVariant": "Yes. Saul also claimed it stinks to high heaven."
+          },
+          {
+            "stringId": "1791213925450452992",
+            "femaleVariant": "Intel on the convoy – where'd you get it?"
+          },
+          {
+            "stringId": "1791214380163338240",
+            "femaleVariant": "Carol hacked the Militech comms channel. Is that enough for you?"
+          },
+          {
+            "stringId": "1802438251616997376",
+            "femaleVariant": "What's this Basilisk nonsense?"
+          },
+          {
+            "stringId": "1802443723489218564",
+            "femaleVariant": "So, just the four vets on board with the plan, nobody else?"
+          },
+          {
+            "stringId": "1802443723539550208",
+            "femaleVariant": "We didn't bother asking the others."
+          },
+          {
+            "stringId": "1802448238724583424",
+            "femaleVariant": "There was too great a risk someone would take it to Saul."
+          },
+          {
+            "stringId": "1802453846743912448",
+            "femaleVariant": "Besides, only the vets understand what we stand to gain by having a Basilisk."
+          },
+          {
+            "stringId": "1824359683410169856",
+            "femaleVariant": "To do it all behind my back, is that it?"
+          },
+          {
+            "stringId": "1872244887184494592",
+            "femaleVariant": "And you guys'd rather...?"
+          },
+          {
+            "stringId": "1874979166444343296",
+            "femaleVariant": "Did you try to get Saul on board again? No luck, huh?"
+          },
+          {
+            "stringId": "1876487755657576452",
+            "femaleVariant": "Just the vets on board, nobody else?"
+          },
+          {
+            "stringId": "1877830541561843712",
+            "femaleVariant": "Or a Fourth Corporate War?"
+          },
+          {
+            "stringId": "1877831674795675648",
+            "femaleVariant": "You're not blowing this a little out of proportion...?"
+          },
+          {
+            "stringId": "1877831981567070208",
+            "femaleVariant": "Besides, we'll look good, aware, prepared."
+          },
+          {
+            "stringId": "1877844127701028864",
+            "femaleVariant": "Get the sense this fight's grown stale. C'mon, put some feeling into it."
+          },
+          {
+            "stringId": "1877846715922141188",
+            "femaleVariant": "Feel like this fight's been goin' on a while."
+          },
+          {
+            "stringId": "1877847454337748992",
+            "femaleVariant": "Wow, a lot's changed since I left."
+          },
+          {
+            "stringId": "1877859196426014720",
+            "femaleVariant": "But a chance like this..."
+          },
+          {
+            "stringId": "1877860381249785856",
+            "femaleVariant": "A chance at what? Rotting up the job we came here to do?"
+          },
+          {
+            "stringId": "1877934062168723456",
+            "femaleVariant": "No. This discussion ended long ago."
+          },
+          {
+            "stringId": "1877948591590100992",
+            "femaleVariant": "Wow, seems a lot changed while I was away."
+          },
+          {
+            "stringId": "1877951587698888704",
+            "femaleVariant": "No, nothing has changed at all."
+          },
+          {
+            "stringId": "1887983066578092032",
+            "femaleVariant": "V?"
+          },
+          {
+            "stringId": "1888135099156549632",
+            "femaleVariant": "Lemme guess. Your idea?"
+          },
+          {
+            "stringId": "1888148922475237376",
+            "femaleVariant": "Yes! A craft like that would finally put us back on the right path."
+          },
+          {
+            "stringId": "1888150337297862656",
+            "femaleVariant": "Basilisk – what's Saul's problem with it?"
+          },
+          {
+            "stringId": "1888159554364788740",
+            "femaleVariant": "Sounds pretty darn risky, this."
+          },
+          {
+            "stringId": "1888160794972803072",
+            "femaleVariant": "Sounds pretty risky to me."
+          },
+          {
+            "stringId": "1888167615112433664",
+            "femaleVariant": "We'll make better use of it right here in America."
+          },
+          {
+            "stringId": "1888174315546628096",
+            "femaleVariant": "First, we'll ride to the station."
+          },
+          {
+            "stringId": "1888184988389363712",
+            "femaleVariant": "The train engine we need to block the convoy's way is there."
+          },
+          {
+            "stringId": "1892182770691362820",
+            "femaleVariant": "Is everything clear?"
+          },
+          {
+            "stringId": "1934231520742756352",
+            "femaleVariant": "I think I heard a little shake in that voice."
+          },
+          {
+            "stringId": "1934232031055335428",
+            "femaleVariant": "But – are you sure you didn't leave any tracks? Militech won't notice a thing?"
+          },
+          {
+            "stringId": "1934236677253648384",
+            "femaleVariant": "Are you trying to insult me, Bobby?"
+          },
+          {
+            "stringId": "1934237810185490432",
+            "femaleVariant": "You did not."
+          },
+          {
+            "stringId": "1934241419333750788",
+            "femaleVariant": "Are we going?"
+          },
+          {
+            "stringId": "1934249007584661508",
+            "femaleVariant": "I'm riding with."
+          },
+          {
+            "stringId": "1934249743315914752",
+            "femaleVariant": "Are you riding with us, or will we meet you there?"
+          },
+          {
+            "stringId": "1934253358050988032",
+            "femaleVariant": "V?"
+          },
+          {
+            "stringId": "1934254185167736836",
+            "femaleVariant": "Well? V?"
+          },
+          {
+            "stringId": "1934261405880176640",
+            "femaleVariant": "We'll meet there."
+          },
+          {
+            "stringId": "1934263444446138368",
+            "femaleVariant": "Ridin' with you."
+          },
+          {
+            "stringId": "1934264412810268676",
+            "femaleVariant": "Meet you there."
+          },
+          {
+            "stringId": "1934267567144980480",
+            "femaleVariant": "Excellent. Let's get going."
+          },
+          {
+            "stringId": "1934267782480547840",
+            "femaleVariant": "Not a problem."
+          },
+          {
+            "stringId": "1934289029532766212",
+            "femaleVariant": "Let's go."
+          },
+          {
+            "stringId": "1957711485775314948",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1993677816921190400",
+            "femaleVariant": "Come on, let's go."
+          },
+          {
+            "stringId": "1993768991745241088",
+            "femaleVariant": "Aw, come on. Did your hands get clammy, too?"
+          },
+          {
+            "stringId": "1993821569174597632",
+            "femaleVariant": "Screw you."
+          },
+          {
+            "stringId": "1993825663066959872",
+            "femaleVariant": "OK, OK. Forget I even asked."
+          },
+          {
+            "stringId": "2230209024333791232",
+            "femaleVariant": "If you don't want to, you don't need to drop into the middle of this."
+          },
+          {
+            "stringId": "2230211747443720192",
+            "femaleVariant": "But we could use your help – that's undeniable."
+          },
+          {
+            "stringId": "2266579595219980292",
+            "femaleVariant": "[Get in]"
+          },
+          {
+            "stringId": "2429848719008755712",
+            "femaleVariant": "OK, I'm in."
+          },
+          {
+            "stringId": "2429848719008755736",
+            "femaleVariant": "[Stand] Don't wanna get involved."
+          },
+          {
+            "stringId": "2429848719008755760",
+            "femaleVariant": "It all seems too perfect, too easy…"
+          },
+          {
+            "stringId": "2429861517239545856",
+            "femaleVariant": "[Stand] I'm riding with."
+          },
+          {
+            "stringId": "2429861517239545880",
+            "femaleVariant": "[Stand] We'll meet there."
+          },
+          {
+            "stringId": "2472132365350367236",
+            "femaleVariant": "[Get up]"
+          }
+        ]
+      }
+
+
+

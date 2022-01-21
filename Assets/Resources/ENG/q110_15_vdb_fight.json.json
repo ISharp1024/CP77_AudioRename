@@ -1,0 +1,177 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1539955539457363968",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Men li!\" t=\"There she is!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Men li!\" t=\"There he is!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1539956302367707136",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pwoteje Agwe!\" t=\"Defend Agwe!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1539956425864794112",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ki man Brijit?\" t=\"How's Brigitte?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1539956551610028032",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Fòk li jwenn bakòp!\" t=\"She must have backup!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Fòk li jwenn bakòp!\" t=\"He must have backup!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1539956646720065536",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Vit! Koupe'l! Koupe'l sec!\" t=\"Quick! Cut her! Cut her off!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Vit! Koupe'l! Koupe'l sec!\" t=\"Quick! Cut him! Cut him off!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1539956749899943936",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mèse a tenyen souf yo? Yo tout?!\" t=\"The merc swallowed their light? All of them?!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1539956859169951744",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Kote lot yo?\" t=\"Where's the rest?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1539956956393918464",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Eske li se moun Nètwash?\" t=\"Is she from NetWatch?\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Eske li se moun Nètwash?\" t=\"Is he from NetWatch?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1539957050765758464",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pa kite manzé sove non!\" t=\"Don't let her escape!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Pa kite msye sove non!\" t=\"Don't let him escape!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1539957148996358144",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pa di m, li fè w mal?\" t=\"Oh no, that hurt?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1704143577333911552",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Yo mouri. Yo tout wi.\" t=\"They're dead. All of them.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1704145066412494848",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"E ranyon an? Kote li ye?\" t=\"And the ranyon? Where's she?\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"E ranyon an? Kote li ye?\" t=\"And the ranyon? Where's he?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1704145100117921792",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen pa wè manzé non.\" t=\"I don't see her.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Mwen pa wè msye non.\" t=\"I don't see him.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1704236947976769536",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Manzè eseye vin anfas mwen, li pa janm wè li pat ka fè anyen lòt. Radiyèspèmèt, tèt pa dwat.\" t=\"She tried to oppose me, not seeing she never had a choice. Arrogant fool.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Msye eseye vin anfas mwen, li pa janm wè li pat ka fè anyen lòt. Radiyèspèmèt, tèt pa dwat.\" t=\"He tried to oppose me, not seeing he never had a choice. Arrogant fool.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1704238928141242368",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Sa Brijit pral fè avel?\" t=\"What's Brigitte going to do with her?\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Sa Brijit pral fè avel?\" t=\"What's Brigitte going to do with him?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1704239011691778048",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Sa nou fè ak nenpòt ki kalite ranyon.\" t=\"What we do with any ranyon.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1704240418998210560",
+            "femaleVariant": "V...?"
+          },
+          {
+            "stringId": "1704249054063513600",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Sa kap pase la a?\" t=\"What's going on?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1704249054063513608",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Nou ta fèt pou al gade sa kap pase nan tinèl la.\" t=\"We should go to check the tunnel.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1704314502889099264",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ann deplase.\" t=\"Let's head down.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1704314589727969280",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Wi, Avèg?\" t=\"Yes, Avèg?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1704316561923264512",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Woy, fout...!\" t=\"Oh fuck...!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1729965607643058176",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Se li ki fè sa. Li kraze bouda yo.\" t=\"She did this. She flatlined them.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Se li ki fè sa. Li kraze bouda yo.\" t=\"He did this. He flatlined them.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1729966497942802432",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Fòk li te sou pewòl Nètwash an lagan.\" t=\"Must've been on NetWatch's payroll from the start.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1729975263987830784",
+            "femaleVariant": "Where is Brigitte?"
+          },
+          {
+            "stringId": "1729977831807848448",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Bagay sa a pran twòp tan.\" t=\"It's taking too long.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1729982177660440576",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Desann anba, kounye a!\" t=\"Downstairs, now!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1729983107353088000",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Gen yon bagay ki rive.\" t=\"Something has happened.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1751865627515047936",
+            "femaleVariant": "Couldn't think of a more fitting end."
+          },
+          {
+            "stringId": "1751866696106266624",
+            "femaleVariant": "'Runner fucks had it comin'."
+          },
+          {
+            "stringId": "1751867291764543488",
+            "femaleVariant": "As much as it tickles me too, we gotta delta."
+          },
+          {
+            "stringId": "1772220096292130816",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Plasid! Desann anba!\" t=\"Placide! Downstairs!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1776598265609129984",
+            "femaleVariant": "Right. Still got Mr. Grumps left."
+          },
+          {
+            "stringId": "1957563492072443904",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Bouzen, folé.\" t=\"Crazy bitch.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Bouzen, salopri.\" t=\"Traitor, motherfucker.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1973396652163878912",
+            "femaleVariant": "I wait long time for dis."
+          },
+          {
+            "stringId": "2049028653112729600",
+            "femaleVariant": "[Stand] We gotta go."
+          }
+        ]
+      }
+
+
+

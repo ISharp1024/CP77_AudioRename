@@ -1,0 +1,473 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1807074546761768960",
+            "femaleVariant": "But what they don't know... the real name for this thing they call \"cyberspace\" is actually..."
+          },
+          {
+            "stringId": "1807076406130286596",
+            "femaleVariant": "Nobody in Night City has a soul to lose."
+          },
+          {
+            "stringId": "1807077061666447360",
+            "femaleVariant": "You ask – who opened these unholy gates of the abyss?"
+          },
+          {
+            "stringId": "1807084687397658624",
+            "femaleVariant": "I met a corpse in cyberspace."
+          },
+          {
+            "stringId": "1811019526333177860",
+            "femaleVariant": "They wish to rule, to control – your executives, your leaders. But they are not human, NO! But then WHAT, you ask?"
+          },
+          {
+            "stringId": "1811019580691357700",
+            "femaleVariant": "And I tell you \"no!\" The Arasakas are no ordinary clan! They're not even human!"
+          },
+          {
+            "stringId": "1811019615990620164",
+            "femaleVariant": "They traverse the Badlands in trucks, yes! But when the full moon rises, they remove their human masks!"
+          },
+          {
+            "stringId": "1811019643236818948",
+            "femaleVariant": "But you are not the masters of your memories! For your eyes do not belong to you. Or rather..."
+          },
+          {
+            "stringId": "1811022716386582528",
+            "femaleVariant": "Won't they just use contact lenses?"
+          },
+          {
+            "stringId": "1811022716386582544",
+            "femaleVariant": "You're right. I've met politicians."
+          },
+          {
+            "stringId": "1811022716420136964",
+            "femaleVariant": "And where did this filth slither out from, you ask?"
+          },
+          {
+            "stringId": "1811022762188382208",
+            "femaleVariant": "Nah, Saburo's definitely dead."
+          },
+          {
+            "stringId": "1811022762272268300",
+            "femaleVariant": "True. Hanako does look suspiciously young..."
+          },
+          {
+            "stringId": "1811022762289045508",
+            "femaleVariant": "But how could mere mortals become these death-defying abominations, you ask?"
+          },
+          {
+            "stringId": "1811022804735401984",
+            "femaleVariant": "If that were true, I'd already be dead."
+          },
+          {
+            "stringId": "1811022804735402000",
+            "femaleVariant": "I think someone is watching through my Kiroshi eyes."
+          },
+          {
+            "stringId": "1811022804768956420",
+            "femaleVariant": "But who are those who follow our every step, you ask?"
+          },
+          {
+            "stringId": "1811075141646589952",
+            "femaleVariant": "What is life without its body? What are the beings of the Net if not souls from beyond our plane of existence?"
+          },
+          {
+            "stringId": "1811075178103480320",
+            "femaleVariant": "You can recognize them by their cold, blue eyes – creatures born centuries ago on the Antarctic ice sheet."
+          },
+          {
+            "stringId": "1811075307506147328",
+            "femaleVariant": "Their bodies, they never age. But notice their eyes – cold and dead!"
+          },
+          {
+            "stringId": "1811075393707483136",
+            "femaleVariant": "Do you truly believe that those who have sold you your mechanical eyes have resisted the temptation to peek through them?"
+          },
+          {
+            "stringId": "1811296600847458304",
+            "femaleVariant": "This is Night City. No one's got a soul to lose."
+          },
+          {
+            "stringId": "1811296625090535424",
+            "femaleVariant": "Y'know, I've been in cyberspace and I did actually meet a corpse or two there."
+          },
+          {
+            "stringId": "1811296682401505280",
+            "femaleVariant": "If it's such a big giveaway, won't they just install optics? Or use contact lenses, at least?"
+          },
+          {
+            "stringId": "1811296710302015488",
+            "femaleVariant": "Not surprising. I've met politicians. Two-faced is right."
+          },
+          {
+            "stringId": "1811297320170594304",
+            "femaleVariant": "Right, so Saburo is definitely dead. Like, trust me on this."
+          },
+          {
+            "stringId": "1811297340521357312",
+            "femaleVariant": "Now that you mention it... Hanako's eight decades deep, but still looks like a million eddies.",
+            "maleVariant": "Now that you mention it... Hanako is eight decades deep, but still looks like a million eddies."
+          },
+          {
+            "stringId": "1811297529466363904",
+            "femaleVariant": "If anyone was watchin' and givin' a damn, I'd have half the city's underworld and half its corps on my ass already."
+          },
+          {
+            "stringId": "1811297561175302144",
+            "femaleVariant": "Hmm... Ever since Vik installed my Kiroshi eyes, I've had this feeling... that someone's watchin'...",
+            "maleVariant": "Hmm... Ever since Vik installed my Kiroshi eyes, I've had this feeling... that someone's watchin'…"
+          },
+          {
+            "stringId": "1811450269509263360",
+            "femaleVariant": "They hide their true faces under masks of human skin! Two-faced snakes, oppressors of humanity!"
+          },
+          {
+            "stringId": "1811450629799976960",
+            "femaleVariant": "I have heard their voices. Let they who yet live never cross that threshold, for their souls will join those ghostly ranks!"
+          },
+          {
+            "stringId": "1811452412446285824",
+            "femaleVariant": "I tell you now – Saburo is not gone from our world! He rests undisturbed in the family crypt."
+          },
+          {
+            "stringId": "1811453627435491328",
+            "femaleVariant": "Cameras are all around us. Even within us! Your joys, your worries, your life – for them it is all mere spectacle!"
+          },
+          {
+            "stringId": "1811472041436684288",
+            "femaleVariant": "Millions of years ago, they evolved from dinosaurs to become the world's first advanced, intelligent race."
+          },
+          {
+            "stringId": "1812703773632667652",
+            "femaleVariant": "[db_db]DEBUB Continue normally"
+          },
+          {
+            "stringId": "1812703897867952128",
+            "femaleVariant": "[db_db]DEBUG Jump to next"
+          },
+          {
+            "stringId": "1814285474980864000",
+            "femaleVariant": "Their corporation exists only as cover for their wicked means to live... Or rather, to remain undead!"
+          },
+          {
+            "stringId": "1814285597236436992",
+            "femaleVariant": "He feasts on the blood of his servants, awaiting his body's rejuvenation, to return once more... Mark my words!"
+          },
+          {
+            "stringId": "1814317334008078336",
+            "femaleVariant": "Today, they hide amidst the snow and ice of the South Pole, step by step usurping our crown as creation's chosen!"
+          },
+          {
+            "stringId": "1814317485640556544",
+            "femaleVariant": "And who is their progenitor? Their masters? The scientists of Alpha Centauri!"
+          },
+          {
+            "stringId": "1814317671917985792",
+            "femaleVariant": "And I answer you... the techno-necromancers of Alpha Centauri!"
+          },
+          {
+            "stringId": "1814318844645384192",
+            "femaleVariant": "With the help of techno-necromancers from Alpha Centauri!"
+          },
+          {
+            "stringId": "1814319322645045248",
+            "femaleVariant": "Why, the titans of entertainment in Alpha Centauri!"
+          },
+          {
+            "stringId": "1817085248800989188",
+            "femaleVariant": "If you turn a blind eye to their existence, they have already won!"
+          },
+          {
+            "stringId": "1817085248800989196",
+            "femaleVariant": "Radio waves bear the truth! Let those with ears listen, and those with eyes behold!"
+          },
+          {
+            "stringId": "1817085248800989204",
+            "femaleVariant": "Open your mind before it is too late!"
+          },
+          {
+            "stringId": "1912496223087140864",
+            "femaleVariant": "I recognize you. You come here often. Your eyes tell me that your mind has opened to the truth."
+          },
+          {
+            "stringId": "1912501568358490116",
+            "femaleVariant": "\"Humble\"? Sure."
+          },
+          {
+            "stringId": "1912502219381579776",
+            "femaleVariant": "I'll do better than \"humble.\""
+          },
+          {
+            "stringId": "1912502277011316736",
+            "femaleVariant": "Get a job."
+          },
+          {
+            "stringId": "1912502471023042560",
+            "femaleVariant": "\"Humble\" sounds affordable. Just don't spend it on stupid shit.",
+            "maleVariant": "\"Humble...\" sounds affordable. Just don't spend it on stupid shit."
+          },
+          {
+            "stringId": "1912502571082358784",
+            "femaleVariant": "You do good work. Use this to wake Night City up!"
+          },
+          {
+            "stringId": "1912502624584900608",
+            "femaleVariant": "Open your mind, freak. Use it to get a job."
+          },
+          {
+            "stringId": "1912504807065821184",
+            "femaleVariant": "Thank you. This has bought me a day or two."
+          },
+          {
+            "stringId": "1912505175476707328",
+            "femaleVariant": "Thank you for your devotion. I saw a disciple of truth in you from the very beginning."
+          },
+          {
+            "stringId": "1912506782968881152",
+            "femaleVariant": "What good will come of it if they bear the fruits of our labor!"
+          },
+          {
+            "stringId": "1912583229108559872",
+            "femaleVariant": "Their mothership conceals itself above our very heads! Ready yourself, for they are coming!"
+          },
+          {
+            "stringId": "1912606276976812032",
+            "femaleVariant": "Garry, ya can't spill Arasaka secrets! They gon' find you!"
+          },
+          {
+            "stringId": "1912709090273042432",
+            "femaleVariant": "Ahh, oh my God! Look, a real conspiracy guy! Like in that show!"
+          },
+          {
+            "stringId": "1912709394662072320",
+            "femaleVariant": "Quick, get next to him! I'll snap a still of you arresting him for revealing government secrets!"
+          },
+          {
+            "stringId": "1912711671581941760",
+            "femaleVariant": "Jessica will, like, die when she sees this!"
+          },
+          {
+            "stringId": "1912712146679144448",
+            "femaleVariant": "Like, this is max nova. I just can't!"
+          },
+          {
+            "stringId": "1915727527469105152",
+            "femaleVariant": "PANDEMONIUM!"
+          },
+          {
+            "stringId": "1922857292466470912",
+            "femaleVariant": "Hark the witness! Hear her testify of those who burn in hellfire!",
+            "maleVariant": "Hark the witness! Testify of those who burn in hellfire!"
+          },
+          {
+            "stringId": "1922857899835244544",
+            "femaleVariant": "Yeah, didn't see that fire, though..."
+          },
+          {
+            "stringId": "1922858209307770880",
+            "femaleVariant": "Mock as you will, unbeliever! You shall see who laughs last as you're engulfed in hellfire!"
+          },
+          {
+            "stringId": "1922858752856014848",
+            "femaleVariant": "No one's asking."
+          },
+          {
+            "stringId": "1922870119503740928",
+            "femaleVariant": "SATAN HIMSELF!"
+          },
+          {
+            "stringId": "1922870179767500800",
+            "femaleVariant": "Laughs? See, now I'm skeptical. I heard the 'runner who wrote that Satan daemon gave him a weak sense of humor."
+          },
+          {
+            "stringId": "1922872632546148352",
+            "femaleVariant": "You heard their voices?"
+          },
+          {
+            "stringId": "1922872821893808128",
+            "femaleVariant": "You heard their voices? What'd they say?"
+          },
+          {
+            "stringId": "1922876437467742208",
+            "femaleVariant": "REPTILIANS!"
+          },
+          {
+            "stringId": "1922878336464044032",
+            "femaleVariant": "If it were only so simple! They are reptiles! Their nervous system isn't compatible with human cybernetics!"
+          },
+          {
+            "stringId": "1922878819228434432",
+            "femaleVariant": "Hear her! The faces – you have seen their reptilian faces?!",
+            "maleVariant": "Hear him! The faces – you have seen their reptilian faces?!"
+          },
+          {
+            "stringId": "1922879246191804416",
+            "femaleVariant": "Maybe... Weren't human, that's for sure.",
+            "maleVariant": "Maybe... They weren't human, that's for sure."
+          },
+          {
+            "stringId": "1922879791266775040",
+            "femaleVariant": "Antarctica. You said that already."
+          },
+          {
+            "stringId": "1922893053689577472",
+            "femaleVariant": "President Meyers is a reptilian, too?"
+          },
+          {
+            "stringId": "1922893167673982976",
+            "femaleVariant": "You think President Myers is one of 'em?"
+          },
+          {
+            "stringId": "1922895609832652800",
+            "femaleVariant": "VAMPIRES, the lot!"
+          },
+          {
+            "stringId": "1922899449432752128",
+            "femaleVariant": "They're working on immortality tech."
+          },
+          {
+            "stringId": "1922899567510798336",
+            "femaleVariant": "Wouldn't be a total shocker. Said on TV Arasaka's workin' on immortality tech."
+          },
+          {
+            "stringId": "1922899832741806080",
+            "femaleVariant": "A hollow lie to conceal their inhuman nature!"
+          },
+          {
+            "stringId": "1922899956607991808",
+            "femaleVariant": "Its source flows not through technology, but through their undead blood!"
+          },
+          {
+            "stringId": "1922900400466018304",
+            "femaleVariant": "Such conviction... You witnessed his death with your own eyes?"
+          },
+          {
+            "stringId": "1922900615768031232",
+            "femaleVariant": "Well, just so happens I--"
+          },
+          {
+            "stringId": "1922900713612754944",
+            "femaleVariant": "Uhh, no. I... I did not.",
+            "maleVariant": "Uhh, no. I did not."
+          },
+          {
+            "stringId": "1922901036909707264",
+            "femaleVariant": "Ahhh, you see? You see?!"
+          },
+          {
+            "stringId": "1922924165090492416",
+            "femaleVariant": "The evidence is clear! An old woman with the face of a child prowls your city!"
+          },
+          {
+            "stringId": "1922924264562606080",
+            "femaleVariant": "Well, OK, let's reel back on the hyperbole."
+          },
+          {
+            "stringId": "1922925616789438464",
+            "femaleVariant": "It was their tainted blood Saburo Arasaka drank to transform himself into this devil spawn!"
+          },
+          {
+            "stringId": "1922956526377222144",
+            "femaleVariant": "Then why not have their own rippers invent some?"
+          },
+          {
+            "stringId": "1922956708661673984",
+            "femaleVariant": "Are you sure they haven't already?"
+          },
+          {
+            "stringId": "1922962089702047744",
+            "femaleVariant": "Let them! The seed has been sown! The truth shall sprout roots and lift us from the invaders' clutches!"
+          },
+          {
+            "stringId": "1922978581084618752",
+            "femaleVariant": "They spoke not in the language of mortals, no. They howled, screaming in agony, forever removed from their earthly form."
+          },
+          {
+            "stringId": "1922978693659738112",
+            "femaleVariant": "Among them was a woman, her voice of ice – Queen Lilith. She was calm... but at the cost of her humanity."
+          },
+          {
+            "stringId": "1922993618872418304",
+            "femaleVariant": "Why so many shootings? Why do countless die on the streets as the police do nothing?"
+          },
+          {
+            "stringId": "1922993725827170304",
+            "femaleVariant": "What human would condemn his brethren to such suffering? And why?"
+          },
+          {
+            "stringId": "1923005339804614656",
+            "femaleVariant": "And what hides underneath, you ask? Reptilians?"
+          },
+          {
+            "stringId": "1923005591211196416",
+            "femaleVariant": "I answer you \"NO!\" not reptilians... But WEREWOLVES!"
+          },
+          {
+            "stringId": "1924174211379347456",
+            "femaleVariant": "Not ONLY to you!"
+          },
+          {
+            "stringId": "1924196058586136576",
+            "femaleVariant": "And if you are their pawn? Unknowingly carrying out their secret agendas?"
+          },
+          {
+            "stringId": "1924209556678492160",
+            "femaleVariant": "Cybernetics are our undoing! A blessing and a curse! We replace our flesh most sacred with metal – THEIR metal!"
+          },
+          {
+            "stringId": "1924209652811939840",
+            "femaleVariant": "They hold the off-switch! Our sight, our breath, even our minds – theirs for the taking!"
+          },
+          {
+            "stringId": "1924210527542427648",
+            "femaleVariant": "You suggest I gouge out my implants, go blind?"
+          },
+          {
+            "stringId": "1924210705347362816",
+            "femaleVariant": "Let's just say you're right – so what? Should I just gouge out my optics? Thanks, but no thanks."
+          },
+          {
+            "stringId": "1924255819935498240",
+            "femaleVariant": "You are beyond salvation... but not the children of the future! Life untainted by surgery of the sacrilege!"
+          },
+          {
+            "stringId": "1924255926235938816",
+            "femaleVariant": "We can yet save them! May the mothers shield their bodies! May the fathers instill their hatred for chrome!"
+          },
+          {
+            "stringId": "1924266280143798272",
+            "femaleVariant": "In their wretchedness, they placate their weary and oppressed masses by putting our laughter, our tears on full display!"
+          },
+          {
+            "stringId": "1924326220069847040",
+            "femaleVariant": "Will you provide a humble donation so that I may continue my mission?"
+          },
+          {
+            "stringId": "1945903900282494976",
+            "femaleVariant": "No cash on me..."
+          },
+          {
+            "stringId": "1945904309545902080",
+            "femaleVariant": "Nothin' but lint in my pockets. Sorry..."
+          }
+        ]
+      }
+
+
+

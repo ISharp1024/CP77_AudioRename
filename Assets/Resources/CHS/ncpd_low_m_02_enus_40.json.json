@@ -1,0 +1,299 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1863329466855055364",
+            "femaleVariant": "小家伙，我现在没时间和你闹，赶紧滚。"
+          },
+          {
+            "stringId": "1863329466871832580",
+            "femaleVariant": "现在又怎么了？"
+          },
+          {
+            "stringId": "1863329466938941444",
+            "femaleVariant": "别靠近。"
+          },
+          {
+            "stringId": "1863329466955718660",
+            "femaleVariant": "我快被你们这帮垃圾烦死了，退后。"
+          },
+          {
+            "stringId": "1863329466989273092",
+            "femaleVariant": "现在你还是冷静点儿。"
+          },
+          {
+            "stringId": "1863329467006050308",
+            "femaleVariant": "你是个不折不扣的危险份子。"
+          },
+          {
+            "stringId": "1863329467056381956",
+            "femaleVariant": "我真讨厌你。"
+          },
+          {
+            "stringId": "1863329467073159172",
+            "femaleVariant": "今儿这一天，你算是栽我手上了。"
+          },
+          {
+            "stringId": "1863329467123490820",
+            "femaleVariant": "现在赶紧离开。这不难吧。"
+          },
+          {
+            "stringId": "1863329467140268036",
+            "femaleVariant": "你这是要干嘛？"
+          },
+          {
+            "stringId": "1863329467190599680",
+            "femaleVariant": "嗯…这，这回又怎么了…"
+          },
+          {
+            "stringId": "1863329467207376900",
+            "femaleVariant": "呃…靠…"
+          },
+          {
+            "stringId": "1863329467240931332",
+            "femaleVariant": "呼…好了，至少没出什么事。"
+          },
+          {
+            "stringId": "1863329467257708548",
+            "femaleVariant": "好了，可以了。"
+          },
+          {
+            "stringId": "1863329467308040196",
+            "femaleVariant": "你就打算在这儿待一辈子，是吧？"
+          },
+          {
+            "stringId": "1863329467324817412",
+            "femaleVariant": "我根本就不想找着你。"
+          },
+          {
+            "stringId": "1863329467358371844",
+            "femaleVariant": "呃…尸体已经僵硬！"
+          },
+          {
+            "stringId": "1863329467391926276",
+            "femaleVariant": "好的。"
+          },
+          {
+            "stringId": "1863329467425480708",
+            "femaleVariant": "他们在向我开枪！"
+          },
+          {
+            "stringId": "1863329467492589572",
+            "femaleVariant": "靠！"
+          },
+          {
+            "stringId": "1863329467576475652",
+            "femaleVariant": "注意了！"
+          },
+          {
+            "stringId": "1863329467693916164",
+            "femaleVariant": "警察！你是在向警察开枪！"
+          },
+          {
+            "stringId": "1863329467710693380",
+            "femaleVariant": "NCPD！停火！"
+          },
+          {
+            "stringId": "1863329467761025028",
+            "femaleVariant": "我靠！"
+          },
+          {
+            "stringId": "1863329467777802244",
+            "femaleVariant": "不！靠！怎么会！"
+          },
+          {
+            "stringId": "1863329467844911108",
+            "femaleVariant": "喂！"
+          },
+          {
+            "stringId": "1863329467861688324",
+            "femaleVariant": "冷静点儿！"
+          },
+          {
+            "stringId": "1863329467878465540",
+            "femaleVariant": "喂？"
+          },
+          {
+            "stringId": "1863329467928797188",
+            "femaleVariant": "对，我和他们喝过酒…可，我不知道内部已经盯上他们了…"
+          },
+          {
+            "stringId": "1863329467945574404",
+            "femaleVariant": "哈…？对，我认识几个六街帮的人…嗯…"
+          },
+          {
+            "stringId": "1863329467995906052",
+            "femaleVariant": "快过来！"
+          },
+          {
+            "stringId": "1863329468029460484",
+            "femaleVariant": "好，包围她。",
+            "maleVariant": "好，包围他。"
+          },
+          {
+            "stringId": "1863329468063014916",
+            "femaleVariant": "趴下！"
+          },
+          {
+            "stringId": "1863329468079792132",
+            "femaleVariant": "嗯，再见。"
+          },
+          {
+            "stringId": "1863329468096569348",
+            "femaleVariant": "什么东西？"
+          },
+          {
+            "stringId": "1863329468146900996",
+            "femaleVariant": "难道就我一个注意到了…？我靠。"
+          },
+          {
+            "stringId": "1863329468163678212",
+            "femaleVariant": "不过，你还是过去看看吧？"
+          },
+          {
+            "stringId": "1863329468197232644",
+            "femaleVariant": "我来掩护你。"
+          },
+          {
+            "stringId": "1863329468214009860",
+            "femaleVariant": "都胡闹够了吧！"
+          },
+          {
+            "stringId": "1863329468247564292",
+            "femaleVariant": "呃呃…咳…贱人…",
+            "maleVariant": "呃呃…咳…混账…"
+          },
+          {
+            "stringId": "1867726206454587392",
+            "femaleVariant": "靠，老大，我以为…对，我什么都告诉你，当然…"
+          },
+          {
+            "stringId": "1867726500022312960",
+            "femaleVariant": "对，我可以给他们打电话…呃不，他们挺通情达理的…嗯…"
+          },
+          {
+            "stringId": "1959033055938125828",
+            "femaleVariant": "嘿，事还没完呢。"
+          },
+          {
+            "stringId": "1959033055988457476",
+            "femaleVariant": "我说先把这事儿办了行不行？"
+          },
+          {
+            "stringId": "1959033056022011904",
+            "femaleVariant": "别跟我搞。"
+          },
+          {
+            "stringId": "2235072465549271044",
+            "femaleVariant": "NCPD！"
+          },
+          {
+            "stringId": "2235072465649934340",
+            "femaleVariant": "靠，是我们的人！当心背后！"
+          },
+          {
+            "stringId": "2235072465717043204",
+            "femaleVariant": "该死的义眼…买便宜货就是这样…"
+          },
+          {
+            "stringId": "2235072465834483716",
+            "femaleVariant": "嗯？怎么了？有问题吗？"
+          },
+          {
+            "stringId": "2235072466069364740",
+            "femaleVariant": "杀手！"
+          },
+          {
+            "stringId": "2235072466153250820",
+            "femaleVariant": "你杀了他们！"
+          },
+          {
+            "stringId": "2235072466354577412",
+            "femaleVariant": "打中了！"
+          },
+          {
+            "stringId": "2235072466438463492",
+            "femaleVariant": "我给她钻了个窟窿！",
+            "maleVariant": "我给他钻了个窟窿！"
+          },
+          {
+            "stringId": "2235072466740453380",
+            "femaleVariant": "她受伤了！",
+            "maleVariant": "他受伤了！"
+          },
+          {
+            "stringId": "2235072466824339456",
+            "femaleVariant": "明白！"
+          },
+          {
+            "stringId": "2235072466891448324",
+            "femaleVariant": "有种的就快出来！"
+          },
+          {
+            "stringId": "2235072466958557188",
+            "femaleVariant": "正在装弹！"
+          },
+          {
+            "stringId": "2235072467042443268",
+            "femaleVariant": "你怎么搞的？！"
+          },
+          {
+            "stringId": "2235072467176660996",
+            "femaleVariant": "靠！我看不见了！"
+          },
+          {
+            "stringId": "2235072467226992644",
+            "femaleVariant": "老天呐！她在黑我们！",
+            "maleVariant": "老天呐！他在黑我们！"
+          },
+          {
+            "stringId": "2235072467277324292",
+            "femaleVariant": "哦！我可以出发了！"
+          },
+          {
+            "stringId": "2235072467361210372",
+            "femaleVariant": "有人开枪！需要支援！"
+          },
+          {
+            "stringId": "2235072467445096452",
+            "femaleVariant": "我要靠近一些！"
+          },
+          {
+            "stringId": "2235072467528982532",
+            "femaleVariant": "NCPD！消灭嫌疑人！前进！"
+          },
+          {
+            "stringId": "2235072467596091396",
+            "femaleVariant": "隐蔽！我掩护你们！"
+          },
+          {
+            "stringId": "2235072467663200260",
+            "femaleVariant": "靠！我们毫无还手之力！"
+          },
+          {
+            "stringId": "2235072467847749632",
+            "femaleVariant": "警员遭到了攻击！重复，我遭到了攻击！"
+          },
+          {
+            "stringId": "2235072467998744580",
+            "femaleVariant": "有什么不对…"
+          }
+        ]
+      }
+
+
+

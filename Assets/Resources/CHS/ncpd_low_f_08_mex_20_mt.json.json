@@ -1,0 +1,286 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1864599589247115268",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Con qué chingados hacen estos uniformes? Huelen a mierda.\" t=\"这制服是哪儿做的？闻着真像屎。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589280669700",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Sé más responsable.\" t=\"请表现出你的责任感。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589314224132",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"No, no. Por favor, circula.\" t=\"别，别，请你离开吧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589331001348",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Qué haces? ¡Hazte para atrás!\" t=\"你干嘛呢？退、退后！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589364555780",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Por qué sacas eso? ¡Está prohibido!\" t=\"你把那东西拿出来干嘛？你这是非法持械！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589398110212",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡No, no! ¡Eso está prohibido!\" t=\"不，不！这是非法的！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589431664644",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Por favor! ¡Ya basta!\" t=\"求、求你了！站住！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589448441860",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡No... no puedes hacer eso!\" t=\"你、你不能这样！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589498773508",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Gracias.\" t=\"谢谢你。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589515550724",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ahora, hazte pa trás.\" t=\"现在，麻烦你别再靠近。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589549105156",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Qué chinga...?\" t=\"搞、搞什么？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589565882372",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Eh?\" t=\"嗯？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589616214020",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Listo!\" t=\"都检查过了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589632991236",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡No encontré nada!\" t=\"连个鬼影子都没有！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589666545668",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ya sal. Por favor.\" t=\"求你了，赶紧出来吧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589683322884",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡No puedes esconderte para siempre!\" t=\"躲也不是办法呀！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589716877316",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Dios mío! ¡Un muerto!\" t=\"我勒个去！有人死了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589750431748",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Por supuesto. Entiendo.\" t=\"当然，我知道了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589800763396",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡No me mates!\" t=\"别杀我！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589817540612",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Eh, ay, oye, no te hice nada!\" t=\"我根本没伤害你！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589867872256",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Toma esto!\" t=\"留着玩儿吧！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589918203908",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡No! ¡Así, no!\" t=\"不！怎么会这样！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589934981124",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡No entiendo!\" t=\"到底怎么回事！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599589985312772",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Auch! ¡Me duele! No puedo...\" t=\"嗷嗷！好疼！我不行了…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590002089988",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Sangre, tanta sangre... no... no...\" t=\"血，好多血…不…不…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590035644420",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Con cuidado.\" t=\"从现在起，你给我小心点。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590052421636",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Retrocede.\" t=\"请别靠近。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590085976068",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Hola?\" t=\"喂？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590136307716",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Sí, sí, sí, es ella... ¡Por Dios! Pero por supuesto que sí...\" t=\"是啊，是她…哦老天…！我当然知道…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590153084932",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Mmm... sí... Pero, ¿dónde conseguiste mi número? Entiendo...\" t=\"嗯…是啊…不过等一下，你是怎么弄到我号码的…？我明白了…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590203416580",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Que alguien la rodee!\" t=\"谁去包抄她！\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Que alguien lo rodee!\" t=\"谁去包抄他！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590236971012",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡En camino!\" t=\"我去！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590270525444",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Va a explotar!\" t=\"这玩意儿要炸了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590287302660",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Gracias, ¿eh? ¡Bai!\" t=\"非常感谢，再见！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590304079876",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Hola?\" t=\"有、有人吗？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590354411524",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Deberíamos ir a checar, ¿no?\" t=\"我们应该过去看看，是吧？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590371188740",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ven conmigo. Mantente cerca.\" t=\"跟我来，一定要跟紧我。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590404743172",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Deberías ir a checar.\" t=\"你、你应该过去检查一下。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590421520388",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Ay, virgen Santísima!\" t=\"老天爷啊！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864599590455074820",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Aggg... Yo... no... En serio...\" t=\"啊啊啊…我…什么都…真的…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1867717411686965248",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ay, sí, soy su admiradora... ¿En dónde lo recojo?\" t=\"哦是啊，我是她迷妹…我要去哪儿接…？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1867717924029587456",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Dónde tengo que ir para recogerlo?\" t=\"我要去哪儿接…？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065446163423236",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Ayuda!\" t=\"救救我！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065446280863744",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Policía de Night City! ¡Entrégate!\" t=\"NCPD！马上投降！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065446398304260",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"No, pues, gracias a Dios, está estable. Mantengan los ojos abiertos.\" t=\"谢天谢地，还活着！保持警惕！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065446431858692",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Chingada madre, no soporto estos implantes!\" t=\"该死的，真受不了这破义体了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065446549299204",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"No, no lo entiendo. Yo no llamé a nadie.\" t=\"我不明白。我没有叫人啊。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065446851289092",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Estoy aquí sola! ¡Ayuda!\" t=\"这儿只剩我了！请求支援！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065446918397956",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡No puedo yo sola! ¡Que alguien me ayude!\" t=\"我自己顶不住的！请求支援！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447086170116",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Le di!\" t=\"我打中了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447153278980",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Está herida!\" t=\"她中弹了！\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Está herido!\" t=\"他中弹了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447304273924",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Se está debilitando! ¡Adelante!\" t=\"她不行了！冲啊！\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Se está debilitando! ¡Adelante!\" t=\"他不行了！冲啊！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447371382788",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Entendido!\" t=\"明白！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447455268868",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Entrégate! No tienes oportunidad.\" t=\"马上投降！你已被包围！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447505600516",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Cúbranme! ¡Estoy recargando!\" t=\"掩护！我要装弹！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447572709380",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡No! ¡Basta!\" t=\"不！住手！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447690149892",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Ah, ah! ¡No veo nada!\" t=\"我什么都看不到了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447740481540",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Es un netrunner!\" t=\"有黑客！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447824367620",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Ja! ¡Ja, ja, ja! ¡Carajo, esto es fuerte!\" t=\"我靠，劲儿真大！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447891476484",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡¿Dónde están los refuerzos?!\" t=\"援兵在哪儿？！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447941808132",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Corta distancia!\" t=\"近距离！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065447992139780",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Voy a perseguirla!\" t=\"我去干掉她！\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Voy a perseguirlo!\" t=\"我去干掉他！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065448059248644",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Fuego de cobertura!\" t=\"火力掩护！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065448109580292",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡No! ¡No! ¡No!\" t=\"不！不！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2235065448361238532",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Eh? Creo que vi algo...\" t=\"嗯？刚刚好像有东西…\" b=\"\" a=\"\"/>"
+          }
+        ]
+      }
+
+
+

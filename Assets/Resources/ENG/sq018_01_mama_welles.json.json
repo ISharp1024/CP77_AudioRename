@@ -1,0 +1,300 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1697943261782384640",
+            "femaleVariant": "V, nice to see you."
+          },
+          {
+            "stringId": "1697944056284225540",
+            "femaleVariant": "[Sit] Sure."
+          },
+          {
+            "stringId": "1697945210154033152",
+            "femaleVariant": "Wouldn't mind one."
+          },
+          {
+            "stringId": "1697945291003437056",
+            "femaleVariant": "I'm good, thanks."
+          },
+          {
+            "stringId": "1697945770798260224",
+            "femaleVariant": "[Sit] No thanks."
+          },
+          {
+            "stringId": "1697948702516092932",
+            "femaleVariant": "Wanna take part in the ceremony."
+          },
+          {
+            "stringId": "1697949664689430528",
+            "femaleVariant": "Wanna take part in the ceremony, but... wanna do it the right way – in line with tradition."
+          },
+          {
+            "stringId": "1697949734381985792",
+            "femaleVariant": "Could help you with that."
+          },
+          {
+            "stringId": "1702514181381464064",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Oye\" b=\"\" a=\". Sit, sit. You want a beer?\"/>"
+          },
+          {
+            "stringId": "1702514922464649216",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "1722525784814297088",
+            "femaleVariant": "Lemme help you."
+          },
+          {
+            "stringId": "1825605937628237824",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Salud.\" t=\"Cheers.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1825607631439187968",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"No hay bronca.\" t=\"No problem.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864865408376164356",
+            "femaleVariant": "Been better."
+          },
+          {
+            "stringId": "1864865530866618368",
+            "femaleVariant": "Hanging in there."
+          },
+          {
+            "stringId": "1864866024754302976",
+            "femaleVariant": "Been better, to tell you the truth."
+          },
+          {
+            "stringId": "1864866333522186240",
+            "femaleVariant": "Hangin' in there, somehow?",
+            "maleVariant": "Hangin' in there, somehow."
+          },
+          {
+            "stringId": "1864871197220327424",
+            "femaleVariant": "What is happening?"
+          },
+          {
+            "stringId": "1864871267181318144",
+            "femaleVariant": "That night, when... when Jackie fell... Let's just say things haven't exactly been easy since.",
+            "maleVariant": "That night, when Jackie fell... Let's just say things haven't exactly been easy since."
+          },
+          {
+            "stringId": "1864871351604269056",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Yo sé cómo te sientes. Todos lo sabemos.\" t=\"I know how you feel. We all do.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1864871887401439232",
+            "femaleVariant": "Somehow."
+          },
+          {
+            "stringId": "1864871950198558720",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Nuestra casa es tu casa.\" b=\"You could have come over for dinner. \" a=\"\"/>"
+          },
+          {
+            "stringId": "1864872077336301568",
+            "femaleVariant": "Hmm. But OK – we put it behind us, hm?"
+          },
+          {
+            "stringId": "1864881922038878208",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"mi niña.\" b=\"But your heart – it's in the right place, \" a=\"\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mi niño.\" b=\"Mh, but your heart is in the right place, \" a=\"\"/>"
+          },
+          {
+            "stringId": "1864881973729480704",
+            "femaleVariant": "Fff, don't worry, it's symbolic. Look for something in his garage. His past is all there."
+          },
+          {
+            "stringId": "1864883745504153604",
+            "femaleVariant": "His garage?"
+          },
+          {
+            "stringId": "1864885510282727424",
+            "femaleVariant": "Jackie had a garage?"
+          },
+          {
+            "stringId": "1864886540772888576",
+            "femaleVariant": "Eh, don't mention it, V. You have respect. I admire that."
+          },
+          {
+            "stringId": "1864886962216554496",
+            "femaleVariant": "He used it for his motorcycle, mostly. But not so long ago he moved in. You'll find something there, I'm sure."
+          },
+          {
+            "stringId": "1864887180974673920",
+            "femaleVariant": "Won't mind me digging through his stuff?",
+            "maleVariant": "You won't mind me digging through his stuff?"
+          },
+          {
+            "stringId": "1864887304723419136",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"No, mija.\" b=\"\" a=\". He's gone. And funerals are for the living, not the dead. <Rich color=\\\"MainColors.ActiveBlue\\\">Toma</>, take the key.\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"No, mijo.\" b=\"\" a=\" He's gone. And funerals are for the living, not the dead. <Rich color=\\\"MainColors.ActiveBlue\\\">Toma</>, take the key.\"/>"
+          },
+          {
+            "stringId": "1864889318509432832",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ahí te veo.\" t=\"See you.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1896490727361007616",
+            "femaleVariant": "A lot of time has passed. How you been?"
+          },
+          {
+            "stringId": "1924407058265731072",
+            "femaleVariant": "I am in the middle of preparing an ofrenda. There is still so much to take care of..."
+          },
+          {
+            "stringId": "1926981639971205120",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Gracias, mi cielo\" b=\"\" a=\", but I will manage.\"/>"
+          },
+          {
+            "stringId": "1926985406405865472",
+            "femaleVariant": "It's enough you come to say goodbye."
+          },
+          {
+            "stringId": "1927026960986206208",
+            "femaleVariant": "But somethin' I-I'd lay by his casket, that'd do justice to his memory – I... I don't got anything.",
+            "maleVariant": "But something I'd lay by his casket... That'd do justice to his memory, I – I don't got anything..."
+          },
+          {
+            "stringId": "1928580049748815872",
+            "femaleVariant": "Mhm...?"
+          },
+          {
+            "stringId": "1928581776711544832",
+            "femaleVariant": "Thanks, Mama Welles."
+          },
+          {
+            "stringId": "1934506005374103552",
+            "femaleVariant": "What's an ofrenda?"
+          },
+          {
+            "stringId": "1934506268591845376",
+            "femaleVariant": "An ofrenda? Wh-what's that, exactly?"
+          },
+          {
+            "stringId": "1934507718629847040",
+            "femaleVariant": "Hm, friends and family… we gather to celebrate the departed, our memories of them. And we bring things they loved in life and might need in the after."
+          },
+          {
+            "stringId": "1934508314640445440",
+            "femaleVariant": "Sure some beer'd be at the top of Jackie's list."
+          },
+          {
+            "stringId": "1934526562161324032",
+            "femaleVariant": "Heheheh. And there will be beer."
+          },
+          {
+            "stringId": "1934545599184433152",
+            "femaleVariant": "The garage is on Republic."
+          },
+          {
+            "stringId": "1943264135333453824",
+            "femaleVariant": "[Take key and stand] Thanks."
+          },
+          {
+            "stringId": "1976395134477742080",
+            "femaleVariant": "The pool table, we got to get rid of it."
+          },
+          {
+            "stringId": "1976445675203407872",
+            "femaleVariant": "Really…? It's pretty massive."
+          },
+          {
+            "stringId": "1976446243716149248",
+            "femaleVariant": "So...?"
+          },
+          {
+            "stringId": "1976446577716965376",
+            "femaleVariant": "Maybe we scooch it, put it up against the wall?"
+          },
+          {
+            "stringId": "1983628376209567744",
+            "femaleVariant": "Yes, it's me."
+          },
+          {
+            "stringId": "1983631029392060420",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"sí\" b=\"It's Montserrat Welles. The Coyote, \" a=\".\"/>"
+          },
+          {
+            "stringId": "1983631138360078340",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Vamos, responde, carajo.\" t=\"C'mooon, answer.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1983631263484555268",
+            "femaleVariant": "Is me. I'm having an ofrenda for Jackie."
+          },
+          {
+            "stringId": "1988173848277590016",
+            "femaleVariant": "I call you many times. You don't answer, you don't call back…"
+          },
+          {
+            "stringId": "1998391940310036480",
+            "femaleVariant": "I am having an ofrenda. I must send my son off."
+          },
+          {
+            "stringId": "1998392346553544704",
+            "femaleVariant": "Yes, consider yourself invited."
+          },
+          {
+            "stringId": "1998392598832541696",
+            "femaleVariant": "Mhm. See you then."
+          },
+          {
+            "stringId": "1998395163884318720",
+            "femaleVariant": "I need a special delivery."
+          },
+          {
+            "stringId": "1998395575093882880",
+            "femaleVariant": "Beer – an even dozen cases. Sure, yes, ten and two of the ginger stuff."
+          },
+          {
+            "stringId": "1998396004741607424",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Sí\" b=\"\" a=\", lemons and limes to match.\"/>"
+          },
+          {
+            "stringId": "1998396724970713088",
+            "femaleVariant": "Tequila… ayy, fuck it, a dozen cases too…"
+          },
+          {
+            "stringId": "1998405380252561408",
+            "femaleVariant": "Hmm..."
+          },
+          {
+            "stringId": "1998408648806559744",
+            "femaleVariant": "Uh-huh... You can't?"
+          },
+          {
+            "stringId": "1998408909239283712",
+            "femaleVariant": "I see."
+          },
+          {
+            "stringId": "1998409164420739072",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Pfff. Bai.\" t=\"Pff. Bye.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2238924446696128512",
+            "femaleVariant": "Hrghh... One heavy... ugh... bastard."
+          },
+          {
+            "stringId": "2238983336569782272",
+            "femaleVariant": "Hrgh... argh, yeah... C'mon, chingado…"
+          }
+        ]
+      }
+
+
+

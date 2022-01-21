@@ -1,0 +1,718 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1661700260668284928",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Don't come here often, do ya? Heheh. It's good to see you, \" a=\".\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"cabrón\" b=\"Don't come here often, do ya? Heheh. It's good to see you, \" a=\".\"/>"
+          },
+          {
+            "stringId": "1661702811308433412",
+            "femaleVariant": "[Sit] It's good to see you, too."
+          },
+          {
+            "stringId": "1661704725739773952",
+            "femaleVariant": "Mhm... Mhm..."
+          },
+          {
+            "stringId": "1661705188874821632",
+            "femaleVariant": "Full-crew job, for sure... A techie, maybe two... a 'runner with a gold-plated brain... an' a driver with wheels from hell…"
+          },
+          {
+            "stringId": "1661705426977071104",
+            "femaleVariant": "Not to mention – a solo."
+          },
+          {
+            "stringId": "1661705872965804032",
+            "femaleVariant": "Mhm. The piece I'm missing.",
+            "maleVariant": "Huh. The piece I'm missing."
+          },
+          {
+            "stringId": "1661706261240913920",
+            "femaleVariant": "That what you need from me? My trigger finger to zero this lady?"
+          },
+          {
+            "stringId": "1661707460224655360",
+            "femaleVariant": "Those're the rules, Jack. You wanna be top, y'gotta have some skin in the game.",
+            "maleVariant": "Those're the rules, Jack. You wanna be top, gotta have some skin in the game."
+          },
+          {
+            "stringId": "1661707574376833028",
+            "femaleVariant": "Those are the rules."
+          },
+          {
+            "stringId": "1661708321080385536",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Un pacto con el diablo.\" b=\"\" a=\" Been sayin' it all along. Sold your soul to those Arasaka fuckers.\"/>"
+          },
+          {
+            "stringId": "1661713245293944836",
+            "femaleVariant": "[Raise toast] To this."
+          },
+          {
+            "stringId": "1661714128547258368",
+            "femaleVariant": "To this."
+          },
+          {
+            "stringId": "1661715724513484800",
+            "femaleVariant": "Now, whaddaya say we liquor up and talk life."
+          },
+          {
+            "stringId": "1661726780447170560",
+            "femaleVariant": "Think I have a choice?"
+          },
+          {
+            "stringId": "1661728342372425728",
+            "femaleVariant": "Think I have a choice? If I refuse, they take everything and leave me nothing.",
+            "maleVariant": "Think I have a choice? If I refuse, they take everything and leave me nothin'."
+          },
+          {
+            "stringId": "1661729121170792448",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"pendeja\" b=\"Yeah, but you're not on top – Saburo Arasaka is. And you're the \" a=\" who keeps him there.\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"pendejo\" b=\"Yeah, but you're not on top – Saburo Arasaka is. And you're the \" a=\" who keeps him there.\"/>"
+          },
+          {
+            "stringId": "1661729406668677120",
+            "femaleVariant": "Yeah, well let 'em. They'll also take the fist they got grippin' your balls."
+          },
+          {
+            "stringId": "1661729593029992448",
+            "femaleVariant": "You'll always be within reach. Always re--"
+          },
+          {
+            "stringId": "1661732161470767104",
+            "femaleVariant": "V. Is that right?"
+          },
+          {
+            "stringId": "1661771344725843968",
+            "femaleVariant": "Your access to company networks is hereby revoked."
+          },
+          {
+            "stringId": "1661772820869193728",
+            "femaleVariant": "Give us the data you received from Jenkins. This will conclude termination procedures."
+          },
+          {
+            "stringId": "1661774018695307264",
+            "femaleVariant": "Ugh, information's on the shard.",
+            "maleVariant": "Information's on the shard."
+          },
+          {
+            "stringId": "1661774656296624128",
+            "femaleVariant": "No, thanks."
+          },
+          {
+            "stringId": "1661823248130547712",
+            "femaleVariant": "You know I don't drink."
+          },
+          {
+            "stringId": "1661867248644431872",
+            "femaleVariant": "With the formalities, yes. But I think Abernathy would gladly up our fee for ridding her of piece of rot like you."
+          },
+          {
+            "stringId": "1661869070096441344",
+            "femaleVariant": "Come on, move it."
+          },
+          {
+            "stringId": "1661869223540858880",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Vaya, esperen.\" t=\"Whoa, hold on.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1661869875822239744",
+            "femaleVariant": "Is that a threat?"
+          },
+          {
+            "stringId": "1661870092063776768",
+            "femaleVariant": "We have what we came for. It'll do for now."
+          },
+          {
+            "stringId": "1662026042997383168",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Hijo de la chingada...\" b=\"Phew, dodged one there. \" a=\"\"/>"
+          },
+          {
+            "stringId": "1672130344050925568",
+            "femaleVariant": "Welcome to Lizzie's."
+          },
+          {
+            "stringId": "1692160316603822080",
+            "femaleVariant": "Thought I could count on you."
+          },
+          {
+            "stringId": "1692160354251894784",
+            "femaleVariant": "Delicate situation, I know. That's why I need somebody I can trust."
+          },
+          {
+            "stringId": "1692160365475852288",
+            "femaleVariant": "Thought I could always count on you, Jack…"
+          },
+          {
+            "stringId": "1692160982290198528",
+            "femaleVariant": "I need someone I can trust."
+          },
+          {
+            "stringId": "1692474422040915968",
+            "femaleVariant": "Now siddown and tell me what's got your shorts in a knot."
+          },
+          {
+            "stringId": "1692497066987548672",
+            "femaleVariant": "Hagh, you know me, I'm not all sunshine and rainbows, but... this job ain't my style."
+          },
+          {
+            "stringId": "1692497482223644672",
+            "femaleVariant": "Actually, I didn't think it was yours, either."
+          },
+          {
+            "stringId": "1692497774029762560",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"hermana\" b=\"This ain't no \\\"delicate situation,\\\" \" a=\". It's a hitjob, plain an' simple.\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"hermano\" b=\"This ain't no \\\"delicate situation,\\\" \" a=\". It's a hitjob, plain an' simple.\"/>"
+          },
+          {
+            "stringId": "1692524646130184192",
+            "femaleVariant": "This isn't a professional request I can refuse."
+          },
+          {
+            "stringId": "1692524921477853184",
+            "femaleVariant": "You know how Arasaka operates... Or, OK, maybe you don't."
+          },
+          {
+            "stringId": "1692525541362429952",
+            "femaleVariant": "But I can. And I am. And you should, too."
+          },
+          {
+            "stringId": "1692684696576520192",
+            "femaleVariant": "Was that a toast? The hell does that even mean?"
+          },
+          {
+            "stringId": "1692684899060740096",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"mamá\" b=\"You raise a glass to your \" a=\", your <Rich color=\\\"MainColors.ActiveBlue\\\">hermana</>. To the <Rich color=\\\"MainColors.ActiveBlue\\\">mamacita</> you'll meet at the bar. But \\\"this\\\" – doesn't say a damn thing.\"/>"
+          },
+          {
+            "stringId": "1692686605924364288",
+            "femaleVariant": "Sheesh. \"To this.\""
+          },
+          {
+            "stringId": "1692687762478526464",
+            "femaleVariant": "You still never bend the rules, huh?"
+          },
+          {
+            "stringId": "1692688755152842752",
+            "femaleVariant": "Hey, OK, I getcha."
+          },
+          {
+            "stringId": "1693844276660596736",
+            "femaleVariant": "This job and all the rest of that corpo bullshit – y'know what it is?"
+          },
+          {
+            "stringId": "1693848106580242432",
+            "femaleVariant": "Today, they got you to zero somebody. Tomorrow, they'll get somebody else to zero you."
+          },
+          {
+            "stringId": "1693856036364939264",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"matones\" b=\"I dunno 'bout you, but I'm pretty picky about who I let touch my balls. And Saburo and his \" a=\"? Oh, they definitely do not make the cut.\"/>"
+          },
+          {
+            "stringId": "1693862219540787200",
+            "femaleVariant": "Maybe someday. But for now, I'm still well within their reach."
+          },
+          {
+            "stringId": "1693863389432836096",
+            "femaleVariant": "Work for yourself, live for yourself. That's the only way."
+          },
+          {
+            "stringId": "1693990433760145412",
+            "femaleVariant": "Don't believe we've met."
+          },
+          {
+            "stringId": "1693990463405486080",
+            "femaleVariant": "Did Jenkins send you? Don't believe I know you."
+          },
+          {
+            "stringId": "1693990471726985216",
+            "femaleVariant": "You're from Arasaka HQ. Er, is there a problem? Are you here about Frankfurt?",
+            "maleVariant": "You're from Arasaka HQ. Is there a problem? Are you here about Frankfurt?"
+          },
+          {
+            "stringId": "1693990635422281728",
+            "femaleVariant": "You're from headquarters."
+          },
+          {
+            "stringId": "1694044751993434112",
+            "femaleVariant": "You don't. But we know you very well."
+          },
+          {
+            "stringId": "1694045548290437120",
+            "femaleVariant": "Hey, you lost? Got a problem?"
+          },
+          {
+            "stringId": "1694050529043214336",
+            "femaleVariant": "We're here for you."
+          },
+          {
+            "stringId": "1694052646629863424",
+            "femaleVariant": "Jenkins assigned you a task today. You'll share all the details with us."
+          },
+          {
+            "stringId": "1694054414596108292",
+            "femaleVariant": "Who are you again?"
+          },
+          {
+            "stringId": "1694054444946092032",
+            "femaleVariant": "Name and department, again? Didn't quite catch it the first time around.",
+            "maleVariant": "Name and department, again? Didn't quite catch it first time around."
+          },
+          {
+            "stringId": "1694054454727208960",
+            "femaleVariant": "No, don't believe I will. That's between me and Jenkins."
+          },
+          {
+            "stringId": "1694054606426796032",
+            "femaleVariant": "Task's not your concern."
+          },
+          {
+            "stringId": "1694138588506025984",
+            "femaleVariant": "Hgh, how the hell did you find out?"
+          },
+          {
+            "stringId": "1694142904528728064",
+            "femaleVariant": "That is not your concern."
+          },
+          {
+            "stringId": "1694143715052810240",
+            "femaleVariant": "The data. Now."
+          },
+          {
+            "stringId": "1694146284064010240",
+            "femaleVariant": "We done?"
+          },
+          {
+            "stringId": "1694147336263888896",
+            "femaleVariant": "In two minutes, any company cybernetics in your possession will cease functioning."
+          },
+          {
+            "stringId": "1694148347242147840",
+            "femaleVariant": "How'd you find out?"
+          },
+          {
+            "stringId": "1694154739998978048",
+            "femaleVariant": "I think you fellas mighta forgotten just how far from home you are."
+          },
+          {
+            "stringId": "1694155333979533312",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"barrio\" b=\"Not sure this \" a=\"'s your style, let alone a healthy option. <Rich color=\\\"MainColors.ActiveBlue\\\">¿Queda claro?</>\"/>"
+          },
+          {
+            "stringId": "1694155961950728192",
+            "femaleVariant": "Well, you start shootin', maybe we join in, huh? Before you know it, somebody might die today."
+          },
+          {
+            "stringId": "1694159111302606848",
+            "femaleVariant": "Stand up, you're comin' with us."
+          },
+          {
+            "stringId": "1695401359793123328",
+            "femaleVariant": "That, mh... That'd be that, Jack. Just lost control of my life, completely…",
+            "maleVariant": "That... that'd be that, Jack. Just lost control of my life, completely…"
+          },
+          {
+            "stringId": "1695401507348738048",
+            "femaleVariant": "I'd say you got it back."
+          },
+          {
+            "stringId": "1695401578215698432",
+            "femaleVariant": "You couldn't say \"no\" to 'em, so they said it to you. This is a turn for the better, you'll see."
+          },
+          {
+            "stringId": "1796845955038769152",
+            "femaleVariant": "Datashard – take it."
+          },
+          {
+            "stringId": "1796848190049153024",
+            "femaleVariant": "It's good to see you, too, Jack. How ya been?"
+          },
+          {
+            "stringId": "1796849308351262720",
+            "femaleVariant": "[Hand over datashard] Have a glance."
+          },
+          {
+            "stringId": "1796850143353303040",
+            "femaleVariant": "This needs to stay between us."
+          },
+          {
+            "stringId": "1796850462489505792",
+            "femaleVariant": "Got sparks flyin' between the Valentino boys and Maelstrom. Eddies there for the takin'... as long as ya don't get flatlined."
+          },
+          {
+            "stringId": "1796856792415662080",
+            "femaleVariant": "Jackie, before I start... this stays between us."
+          },
+          {
+            "stringId": "1796891426260185088",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Por supuesto.\" t=\"Of course.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796894794990940160",
+            "femaleVariant": "I'm serious... This thing, it… it could ruin me.",
+            "maleVariant": "I'm serious... This thing, it could ruin me."
+          },
+          {
+            "stringId": "1796894913169649664",
+            "femaleVariant": "So could I. You do realize who you're talkin' to, right? A guy who's done this before."
+          },
+          {
+            "stringId": "1796895371808403456",
+            "femaleVariant": "I know, you saved my ass. If word about the cartels had gotten out..."
+          },
+          {
+            "stringId": "1796895416922337280",
+            "femaleVariant": "But it didn't, and this won't either. It's why you came to see dear old Jackie."
+          },
+          {
+            "stringId": "1802536361386766336",
+            "femaleVariant": "Remember what happened in México, at the border? I peep one word…"
+          },
+          {
+            "stringId": "1802550543586881536",
+            "femaleVariant": "Whaddaya think?"
+          },
+          {
+            "stringId": "1802555911037710336",
+            "femaleVariant": "Lemme hear about this problem o' yours."
+          },
+          {
+            "stringId": "1802558615088721920",
+            "femaleVariant": "Double tequila with grenadine and lime. Nothin' better for drownin' nerves."
+          },
+          {
+            "stringId": "1802570368669380608",
+            "femaleVariant": "Smart choice."
+          },
+          {
+            "stringId": "1802590928224841728",
+            "femaleVariant": "V, how you feel? You all right?"
+          },
+          {
+            "stringId": "1802596456032301056",
+            "femaleVariant": "Like shit..."
+          },
+          {
+            "stringId": "1802596467893792768",
+            "femaleVariant": "Like, argh... Like shit, agh…",
+            "maleVariant": "Like, ugh... Like shit…"
+          },
+          {
+            "stringId": "1802596474571124736",
+            "femaleVariant": "I... Agh, I can't breathe..."
+          },
+          {
+            "stringId": "1802596722790035456",
+            "femaleVariant": "I... I can't..."
+          },
+          {
+            "stringId": "1802597637584515072",
+            "femaleVariant": "Need help?"
+          },
+          {
+            "stringId": "1802597903721492480",
+            "femaleVariant": "N-no... It's just, agh... withdrawal syndrome... Ugh, sort of…",
+            "maleVariant": "N-no, no... It's just... withdrawal syndrome... Sort of…"
+          },
+          {
+            "stringId": "1802598048206876672",
+            "femaleVariant": "Think they cut off my hormone regulators, biomon and sat-analysis system... Body's got to adjust…"
+          },
+          {
+            "stringId": "1802599085508587520",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"primito\" b=\"It's like when my little \" a=\" was ditchin' drugs. Nasty chills, tremblin' hands, a cold sweat and dry heavin'…\"/>"
+          },
+          {
+            "stringId": "1802599598237085696",
+            "femaleVariant": "Ye-yeah... Sounds about right..."
+          },
+          {
+            "stringId": "1802689463280660480",
+            "femaleVariant": "Won't come cheap. And it'll have to be done on the sly — no trail, hard eddies only."
+          },
+          {
+            "stringId": "1802689792718073856",
+            "femaleVariant": "Got the money."
+          },
+          {
+            "stringId": "1802695679675396096",
+            "femaleVariant": "Ugh, my throat's like sandpaper... Not sure I can breathe…",
+            "maleVariant": "My throat's like sandpaper... N-not sure I can breathe…"
+          },
+          {
+            "stringId": "1802712144365416448",
+            "femaleVariant": "'Sides, ya haven't lost everything."
+          },
+          {
+            "stringId": "1802712362670551040",
+            "femaleVariant": "About to say I--I still have a friend? That's sweet."
+          },
+          {
+            "stringId": "1802712381108711428",
+            "femaleVariant": "Still have a friend?"
+          },
+          {
+            "stringId": "1802712391762243584",
+            "femaleVariant": "No, Jack, I did... Lost everything... Access to intel systems, my pad, car, contacts... every shred of credibility."
+          },
+          {
+            "stringId": "1802712671790755840",
+            "femaleVariant": "No, Jack, I did... I lost everything."
+          },
+          {
+            "stringId": "1802713237199712256",
+            "femaleVariant": "Haha, no… dumbass. Y'still got that wad for the hit job, don'tcha?"
+          },
+          {
+            "stringId": "1802719692602667008",
+            "femaleVariant": "Umh. Least you still got the eddies for the hitjob."
+          },
+          {
+            "stringId": "1802724160308178944",
+            "femaleVariant": "Probably some fat-ass chunk o' cha-ching. Just right for a new start."
+          },
+          {
+            "stringId": "1802763781398261760",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"That's right, \" a=\". Buckle up.\"/>",
+            "maleVariant": "That's right, fool. Buckle up."
+          },
+          {
+            "stringId": "1857718947785232384",
+            "femaleVariant": "We have arrived at your destination."
+          },
+          {
+            "stringId": "1861666308579323904",
+            "femaleVariant": "Eh, you know how it is, can't complain, but... we ain't here to shoot the shit about me."
+          },
+          {
+            "stringId": "1861942814782189568",
+            "femaleVariant": "Hey, hey, should I get you to a ripper?"
+          },
+          {
+            "stringId": "1861949747362721792",
+            "femaleVariant": "TT policy's gone, Jack... so're my biochem controllers, company pad... I mean, they have seized my bank account. Not frozen – seized!",
+            "maleVariant": "TT policy's gone, Jack... so're my biochem controllers, company pad... I mean, they've seized my bank account. Not frozen – seized!"
+          },
+          {
+            "stringId": "1861950605567651840",
+            "femaleVariant": "Just need to catch my breath."
+          },
+          {
+            "stringId": "1861951502108520448",
+            "femaleVariant": "Or, I guess, maybe Trauma Team's on its way…"
+          },
+          {
+            "stringId": "1861959910547189760",
+            "femaleVariant": "I've lost everything."
+          },
+          {
+            "stringId": "1861972099194613760",
+            "femaleVariant": "Jesus, these fuckers move fast!"
+          },
+          {
+            "stringId": "1861972623717494784",
+            "femaleVariant": "You sure you feel OK, though? I mean--"
+          },
+          {
+            "stringId": "1861973287558377472",
+            "femaleVariant": "Gimme a minute,ugh, get my shit together…",
+            "maleVariant": "Gimme a minute, get my shit together…"
+          },
+          {
+            "stringId": "1877972820407898112",
+            "femaleVariant": "Fuck's your problem, psychosuit?!"
+          },
+          {
+            "stringId": "1877976530756325376",
+            "femaleVariant": "[Attack]"
+          },
+          {
+            "stringId": "1877987316845268992",
+            "femaleVariant": "Seems trouble wants in."
+          },
+          {
+            "stringId": "1877988965424844800",
+            "femaleVariant": "Couldn't use the front door like everyone else?"
+          },
+          {
+            "stringId": "1877989920534974468",
+            "femaleVariant": "Just here on business."
+          },
+          {
+            "stringId": "1877990563521777664",
+            "femaleVariant": "Keep an eye on the AV."
+          },
+          {
+            "stringId": "1877990718107045888",
+            "femaleVariant": "I'm in a hurry."
+          },
+          {
+            "stringId": "1877990718107045904",
+            "femaleVariant": "Keep an eye on the AV."
+          },
+          {
+            "stringId": "1877991747741569024",
+            "femaleVariant": "Keep an eye on the AV for me, will ya?"
+          },
+          {
+            "stringId": "1877993093039411200",
+            "femaleVariant": "I don't want any trouble – just here on business."
+          },
+          {
+            "stringId": "1877994627231928320",
+            "femaleVariant": "Good to hear."
+          },
+          {
+            "stringId": "1877995355027558400",
+            "femaleVariant": "Listen, I'm in a hurry, and you're wasting my time.",
+            "maleVariant": "Listen, I'm in a hurry, and you're wastin' my time."
+          },
+          {
+            "stringId": "1877996582163468288",
+            "femaleVariant": "Gonna keep an eye on you."
+          },
+          {
+            "stringId": "1882070930158448640",
+            "femaleVariant": "This look like a landin' pad to you? Coulda fuckin' crushed us!"
+          },
+          {
+            "stringId": "1882143275694878720",
+            "femaleVariant": "Outta my way."
+          },
+          {
+            "stringId": "1882143565840052224",
+            "femaleVariant": "Wha--? Who the fuck're you to say that to me?"
+          },
+          {
+            "stringId": "1882143753862311936",
+            "femaleVariant": "Arasaka Counterintel. We done here?"
+          },
+          {
+            "stringId": "1882153628629659648",
+            "femaleVariant": "Teh, yeah, yeah...",
+            "maleVariant": "Heh, yeah, yeah..."
+          },
+          {
+            "stringId": "1882154225697222656",
+            "femaleVariant": "Pff. I don't get paid to do that."
+          },
+          {
+            "stringId": "1882154730641092608",
+            "femaleVariant": "I wasn't asking. And not a scratch on it when I get back."
+          },
+          {
+            "stringId": "1883849269254066176",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Gracias, mamita.\" t=\"Thanks, babe.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1902258535312412672",
+            "femaleVariant": "Jesus Christ..."
+          },
+          {
+            "stringId": "1902258888707690496",
+            "femaleVariant": "OK, no no, hey, w-we ain't lookin' for no beef witchoo!"
+          },
+          {
+            "stringId": "1966298326746722304",
+            "femaleVariant": "Lookin' for your choom? Already here, tappin' his fingers, waitin' for ya."
+          },
+          {
+            "stringId": "1966329956496502784",
+            "femaleVariant": "Ey, you hearin' all right? Don't look so hot."
+          },
+          {
+            "stringId": "1966330359166464000",
+            "femaleVariant": "V...! V!"
+          },
+          {
+            "stringId": "1985029826350608384",
+            "femaleVariant": "You expecting something?"
+          },
+          {
+            "stringId": "1985029922668605440",
+            "femaleVariant": "Well...? Don't got all day."
+          },
+          {
+            "stringId": "1985029939546484736",
+            "femaleVariant": "What the fuck you doin'?"
+          },
+          {
+            "stringId": "1995034559412019200",
+            "femaleVariant": "[Surrender shard] It's all here."
+          },
+          {
+            "stringId": "2007000272632651784",
+            "femaleVariant": "I'm waiting."
+          },
+          {
+            "stringId": "2007000272649429000",
+            "femaleVariant": "The data. Immediately."
+          },
+          {
+            "stringId": "2029921564457279492",
+            "femaleVariant": "[Throw ball]"
+          },
+          {
+            "stringId": "2031755256116912128",
+            "femaleVariant": "[Get out]"
+          },
+          {
+            "stringId": "2231669070565130240",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"hermana\" b=\"Hey, \" a=\". Your new life... it starts now.\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"hermano\" b=\"Hey, \" a=\". Your new life... it starts now.\"/>"
+          },
+          {
+            "stringId": "2251839473149198336",
+            "femaleVariant": "V, you still with me...?"
+          },
+          {
+            "stringId": "2251840759961665544",
+            "femaleVariant": "You there? All OK?"
+          },
+          {
+            "stringId": "2251854480654123008",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Ándale\" b=\"\" a=\", let's drink.\"/>"
+          },
+          {
+            "stringId": "2259039541241495552",
+            "femaleVariant": "The data from Jenkins – I'm waiting."
+          },
+          {
+            "stringId": "2259211327853740032",
+            "femaleVariant": "Fuuuck…"
+          },
+          {
+            "stringId": "2259211342198259712",
+            "femaleVariant": "Corpos... fucking do whatever, think the world's theirs."
+          },
+          {
+            "stringId": "2259211342366031872",
+            "femaleVariant": "Used to be our 'hood, this."
+          },
+          {
+            "stringId": "2260632304412180480",
+            "femaleVariant": "Gah, fuck…"
+          },
+          {
+            "stringId": "2260632310988849152",
+            "femaleVariant": "How you feelin'? Pretty sharp dive, huh?"
+          }
+        ]
+      }
+
+
+

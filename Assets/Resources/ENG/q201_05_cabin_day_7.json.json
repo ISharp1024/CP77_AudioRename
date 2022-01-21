@@ -1,0 +1,801 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1672240661226557440",
+            "femaleVariant": "Hey."
+          },
+          {
+            "stringId": "1672240661243334660",
+            "femaleVariant": "Hey. Wow, it's been a while since I heard that voice."
+          },
+          {
+            "stringId": "1673281577588592640",
+            "maleVariant": "Hey. How's it goin'?"
+          },
+          {
+            "stringId": "1673281577588592648",
+            "maleVariant": "Watchin' the \"Little Big Corporats\" season finale. You?"
+          },
+          {
+            "stringId": "1673283171440889856",
+            "femaleVariant": "Hey."
+          },
+          {
+            "stringId": "1673283171457667076",
+            "femaleVariant": "Hey, V, look, um, season finale of \"Little Big Corporats\" is on in a minute. So, uh, call you back later, huh?"
+          },
+          {
+            "stringId": "1673293728470503424",
+            "femaleVariant": "Hey."
+          },
+          {
+            "stringId": "1673293728470503432",
+            "femaleVariant": "You've got some nerve!"
+          },
+          {
+            "stringId": "1673294922437857280",
+            "femaleVariant": "Hey, this is Judy. Sorry, can't answer because I'm busy packin' my shit."
+          },
+          {
+            "stringId": "1673294922454634500",
+            "femaleVariant": "If you don't know why, means I just didn't want to tell you."
+          },
+          {
+            "stringId": "1673299629654904832",
+            "femaleVariant": "Hey."
+          },
+          {
+            "stringId": "1673299629654904840",
+            "femaleVariant": "Randy! Leave the damn dog alone, I said!"
+          },
+          {
+            "stringId": "1673299629688459264",
+            "femaleVariant": "Hey."
+          },
+          {
+            "stringId": "1673299629688459272",
+            "femaleVariant": "Hey. Uh, bad time. Can it wait?"
+          },
+          {
+            "stringId": "1673375775566303232",
+            "femaleVariant": "How's it going?"
+          },
+          {
+            "stringId": "1673375775566303240",
+            "femaleVariant": "Heey. Think I oughta ask you the same."
+          },
+          {
+            "stringId": "1683778959650086912",
+            "femaleVariant": "Hello."
+          },
+          {
+            "stringId": "1683780668275318784",
+            "femaleVariant": "Well about damn time, V! Been trying to reach you for days now!"
+          },
+          {
+            "stringId": "1683781405197754368",
+            "femaleVariant": "Had a lot on my mind, a lot going on.",
+            "maleVariant": "Had a lot on my mind, a... a lot going on."
+          },
+          {
+            "stringId": "1683781620399104000",
+            "femaleVariant": "What the hell happened to you?"
+          },
+          {
+            "stringId": "1683783118050844676",
+            "femaleVariant": "Got rid of the biochip."
+          },
+          {
+            "stringId": "1683783687570219008",
+            "femaleVariant": "Just feeling down."
+          },
+          {
+            "stringId": "1683784914337030144",
+            "femaleVariant": "Not about to even try explaining.."
+          },
+          {
+            "stringId": "1683785255887593472",
+            "femaleVariant": "Got the chip outta my head."
+          },
+          {
+            "stringId": "1683785432098693120",
+            "femaleVariant": "Was just... havin' a hell of a rough time."
+          },
+          {
+            "stringId": "1683785608477564928",
+            "femaleVariant": "Not even gonna try to explain."
+          },
+          {
+            "stringId": "1683791046594027520",
+            "femaleVariant": "No. Really? You're joking!"
+          },
+          {
+            "stringId": "1683791347745054720",
+            "femaleVariant": "No. Just had the… procedure. Not feeling so hot."
+          },
+          {
+            "stringId": "1683792323608600576",
+            "femaleVariant": "Should've called! You really should've called."
+          },
+          {
+            "stringId": "1683792509466599424",
+            "femaleVariant": "So I made a deal with Arasaka. They removed the chip."
+          },
+          {
+            "stringId": "1683794104593965056",
+            "femaleVariant": "Where are you?"
+          },
+          {
+            "stringId": "1683794560011493376",
+            "femaleVariant": "Orbital station. Arasaka's. Think I'm gonna puke."
+          },
+          {
+            "stringId": "1683795133960052736",
+            "femaleVariant": "V, you idiot! Get back down to Earth! Now!"
+          },
+          {
+            "stringId": "1683798073479290880",
+            "femaleVariant": "The fuck, V? It's like you're trying to piss me off."
+          },
+          {
+            "stringId": "1683798702574559232",
+            "femaleVariant": "Made a deal with Arasaka, they got the chip out of my head. So go ahead, get pissed if you want to. I already feel like shit."
+          },
+          {
+            "stringId": "1683799860319903748",
+            "femaleVariant": "Great to hear your voice."
+          },
+          {
+            "stringId": "1683800456951259136",
+            "femaleVariant": "Doctor up here's a real bitch."
+          },
+          {
+            "stringId": "1683802398108704768",
+            "femaleVariant": "Think I might be going nuts."
+          },
+          {
+            "stringId": "1683804409613017088",
+            "femaleVariant": "It's so good to hear your voice. I'm just... I'm so glad you're here – there."
+          },
+          {
+            "stringId": "1683805132660695040",
+            "femaleVariant": "Doctor up here's a real cunt, lemme tell you. Torturin' me with stupid tests, all the time."
+          },
+          {
+            "stringId": "1683805382943203328",
+            "femaleVariant": "You know, I think I might be losin' my mind.",
+            "maleVariant": "You know, think I might be losin' my mind."
+          },
+          {
+            "stringId": "1683806175113011200",
+            "femaleVariant": "Don't take anything they give you! Nothin'!"
+          },
+          {
+            "stringId": "1683806829441212416",
+            "femaleVariant": "Might sound cliché, but feels like they're hidin' somethin'."
+          },
+          {
+            "stringId": "1683807307390541824",
+            "femaleVariant": "OK – enough. Get a grip, grab a shuttle and get your ass back home."
+          },
+          {
+            "stringId": "1683808410677043200",
+            "femaleVariant": "Fuuuuck…"
+          },
+          {
+            "stringId": "1683808828832374784",
+            "femaleVariant": "This place, it's killin' me."
+          },
+          {
+            "stringId": "1683809299584278528",
+            "femaleVariant": "V! You even hear what you're saying? I mean, Arasaka! You let 'em take you into orbit, dig around in your head, and now you think to complain?"
+          },
+          {
+            "stringId": "1683811325315670016",
+            "femaleVariant": "Fuck, V. I thought you were dead."
+          },
+          {
+            "stringId": "1683811667034005504",
+            "femaleVariant": "Really wanna see you again.",
+            "maleVariant": "I really wanna see you again."
+          },
+          {
+            "stringId": "1683812021368807424",
+            "femaleVariant": "I don't know what I'll do if I every find out you're gone."
+          },
+          {
+            "stringId": "1683813419095449600",
+            "femaleVariant": "I'm gonna hang up. And I wanna see you back on Earth. In hours. No – now!"
+          },
+          {
+            "stringId": "1736155814587555840",
+            "femaleVariant": "Got rid of the biochip."
+          },
+          {
+            "stringId": "1736155814604333068",
+            "femaleVariant": "I'm down, doing badly."
+          },
+          {
+            "stringId": "1736155814604333084",
+            "femaleVariant": "Cheer me up?"
+          },
+          {
+            "stringId": "1736156241936801792",
+            "femaleVariant": "Got rid of the biochip. It's outta my head."
+          },
+          {
+            "stringId": "1736156241936801808",
+            "femaleVariant": "Oh. That good or bad news?"
+          },
+          {
+            "stringId": "1736156241936801824",
+            "femaleVariant": "Don't know that yet. Just had the... procedure."
+          },
+          {
+            "stringId": "1736156242020687872",
+            "femaleVariant": "No, I'm not. Not doin' hot at all."
+          },
+          {
+            "stringId": "1736156242020687888",
+            "femaleVariant": "So come on over. We'll talk, figure somethin' out."
+          },
+          {
+            "stringId": "1736156242037465088",
+            "femaleVariant": "Made a deal with Arasaka. They removed the chip."
+          },
+          {
+            "stringId": "1736156242087796736",
+            "femaleVariant": "Cheer me up, will ya?",
+            "maleVariant": "Hey, cheer me up, will ya?"
+          },
+          {
+            "stringId": "1736156242087796752",
+            "femaleVariant": "Over comms? Nah, c'mon. Where are you?"
+          },
+          {
+            "stringId": "1736156242087796768",
+            "femaleVariant": "Made a deal with Arasaka. They cut out the chip. I'm somewhere in orbit. Some backwater trajectory."
+          },
+          {
+            "stringId": "1736156242154905600",
+            "femaleVariant": "Which hospital you at?"
+          },
+          {
+            "stringId": "1736156242154905616",
+            "femaleVariant": "Ah, not at a hospital. Arasaka orbital station.",
+            "maleVariant": "Not at a hospital. Arasaka orbital station."
+          },
+          {
+            "stringId": "1736156242154905632",
+            "femaleVariant": "Tell me which one. I'll fly out an' get you back here."
+          },
+          {
+            "stringId": "1736156242205237248",
+            "femaleVariant": "So glad I got you."
+          },
+          {
+            "stringId": "1736156242205237264",
+            "femaleVariant": "Don't know which one."
+          },
+          {
+            "stringId": "1736156242222014472",
+            "femaleVariant": "Going a little nuts up here."
+          },
+          {
+            "stringId": "1736156242272346112",
+            "femaleVariant": "So glad I've got you."
+          },
+          {
+            "stringId": "1736156242289123328",
+            "femaleVariant": "Yeah, good, and I don't wanna lose you. So take good care of yourself until I get there."
+          },
+          {
+            "stringId": "1736156242289123344",
+            "femaleVariant": "Joss and the kids – how are they? And is Randy back?"
+          },
+          {
+            "stringId": "1736156242289123360",
+            "femaleVariant": "Yeah, yeah, he's back. It's all fine."
+          },
+          {
+            "stringId": "1736156242305900544",
+            "femaleVariant": "Look, I gotta go. Gonna find you, hear me?"
+          },
+          {
+            "stringId": "1736156242356232192",
+            "femaleVariant": "I don't even know the station's name.",
+            "maleVariant": "Don't even know the station's name."
+          },
+          {
+            "stringId": "1736156242356232208",
+            "femaleVariant": "Don't worry, I'll find it. I'll figure it out."
+          },
+          {
+            "stringId": "1736156242356232224",
+            "femaleVariant": "Nobody tells me anything here."
+          },
+          {
+            "stringId": "1736156242373009412",
+            "femaleVariant": "You just sit tight. Take care of yourself, stay outta trouble till I get there."
+          },
+          {
+            "stringId": "1736156242406563840",
+            "femaleVariant": "You know, I think I might be going a little crazy up here.",
+            "maleVariant": "You know, think I might be going a little crazy up here."
+          },
+          {
+            "stringId": "1736156242423341080",
+            "femaleVariant": "And you can finish doing that on Earth."
+          },
+          {
+            "stringId": "1736158077884325888",
+            "femaleVariant": "Wow. Been a while, V."
+          },
+          {
+            "stringId": "1736158691007684608",
+            "femaleVariant": "Been goin' through some shit. Lotta changes."
+          },
+          {
+            "stringId": "1736159282052227072",
+            "femaleVariant": "What happened? You all right?"
+          },
+          {
+            "stringId": "1736167405211115520",
+            "femaleVariant": "Randy! Get the hell out!"
+          },
+          {
+            "stringId": "1736168121111699456",
+            "femaleVariant": "Give me the name of the station. I'll fly up and get you."
+          },
+          {
+            "stringId": "1736170074063527936",
+            "femaleVariant": "They'll never let you in."
+          },
+          {
+            "stringId": "1736170233178644480",
+            "femaleVariant": "Like hell, they won't!"
+          },
+          {
+            "stringId": "1736182417866645504",
+            "maleVariant": "Got rid of the biochip."
+          },
+          {
+            "stringId": "1736182417866645520",
+            "femaleVariant": "[pl_pl]Mam deprechę.",
+            "maleVariant": "Feeling pretty down."
+          },
+          {
+            "stringId": "1736182417866645536",
+            "femaleVariant": "[pl_pl]Zgadnij, gdzie jestem.",
+            "maleVariant": "Guess where I am."
+          },
+          {
+            "stringId": "1736182424208433152",
+            "maleVariant": "Got rid of the biochip."
+          },
+          {
+            "stringId": "1736182424208433168",
+            "maleVariant": "No. You're fuckin' kidding!"
+          },
+          {
+            "stringId": "1736182424208433184",
+            "maleVariant": "Got a big ol' hole in my head. They filled it with, I dunno, cables 'n' shit."
+          },
+          {
+            "stringId": "1736182424275542016",
+            "maleVariant": "I'm just really depressed."
+          },
+          {
+            "stringId": "1736182424275542032",
+            "maleVariant": "Oh… I know! Let's fly out to my place in Florida. A little sun, a little change'll do you good."
+          },
+          {
+            "stringId": "1736182424275542048",
+            "maleVariant": "Had enough change recently. I'm sittin' in orbit. Just had the biochip removed."
+          },
+          {
+            "stringId": "1736182424359428096",
+            "maleVariant": "Guess where I am."
+          },
+          {
+            "stringId": "1736182424359428112",
+            "maleVariant": "How many tries do I get?"
+          },
+          {
+            "stringId": "1736182424376205320",
+            "maleVariant": "Never mind, doesn't matter, you'd never guess. I'm in orbit."
+          },
+          {
+            "stringId": "1736182424376205336",
+            "maleVariant": "Fuuuck. Need anything?"
+          },
+          {
+            "stringId": "1736182424376205348",
+            "maleVariant": "You."
+          },
+          {
+            "stringId": "1736182424460091392",
+            "maleVariant": "All right, all right. Don't worry about a thing."
+          },
+          {
+            "stringId": "1736182424527200256",
+            "femaleVariant": "[pl_pl]Cieszę się, że cię mam.",
+            "maleVariant": "So glad I got you."
+          },
+          {
+            "stringId": "1736182424527200272",
+            "femaleVariant": "[pl_pl]Jak się skończyły \"Korpo-karły\"?",
+            "maleVariant": "How did \"Little Big Corporats\" end?"
+          },
+          {
+            "stringId": "1736182424527200288",
+            "femaleVariant": "[pl_pl]Trochę mi tu odbija.",
+            "maleVariant": "Going a little nuts up here."
+          },
+          {
+            "stringId": "1736182430919319552",
+            "maleVariant": "I'm so glad I've got you."
+          },
+          {
+            "stringId": "1736182430919319568",
+            "maleVariant": "V, you are the best thing this planet's got going for her. So come back down."
+          },
+          {
+            "stringId": "1736182430919319584",
+            "maleVariant": "Wish I were there with you now."
+          },
+          {
+            "stringId": "1736182430936096780",
+            "maleVariant": "OK. I'm gonna hang up now, make a few calls, get you back to Night City. Sound good?"
+          },
+          {
+            "stringId": "1736182430936096796",
+            "maleVariant": "Take care, V. See you soon!"
+          },
+          {
+            "stringId": "1736182431003205632",
+            "maleVariant": "How'd \"Little Big Corporats\" turn out?"
+          },
+          {
+            "stringId": "1736182431019982848",
+            "maleVariant": "Oh, not about to spoil it for you. You can catch the reruns when you get back."
+          },
+          {
+            "stringId": "1736182431019982864",
+            "maleVariant": "You'll watch it again with me?"
+          },
+          {
+            "stringId": "1736182431019982880",
+            "maleVariant": "Hah! Will I!"
+          },
+          {
+            "stringId": "1736182431087091712",
+            "maleVariant": "Honest? Think I might be losin' my mind here."
+          },
+          {
+            "stringId": "1736182431087091728",
+            "maleVariant": "You there alone?"
+          },
+          {
+            "stringId": "1736182431103868928",
+            "maleVariant": "No. There's some doctor here. Real bitch. But I guess that's it. So, yeah, pretty much alone."
+          },
+          {
+            "stringId": "1736182431103868944",
+            "maleVariant": "You shouldn't be, not now. Not good."
+          },
+          {
+            "stringId": "1736185752204107776",
+            "femaleVariant": "It's Arasaka, V. Not Rippers Without Borders. Don't you dare let them hurt you."
+          },
+          {
+            "stringId": "1736193351595089920",
+            "maleVariant": "Trauma Team? Sit tight, I know people, gonna make some calls."
+          },
+          {
+            "stringId": "1736194012214747136",
+            "maleVariant": "Arasaka."
+          },
+          {
+            "stringId": "1736194368176939008",
+            "maleVariant": "Oh shit!"
+          },
+          {
+            "stringId": "1736194689225744384",
+            "maleVariant": "Yep."
+          },
+          {
+            "stringId": "1736202669409198080",
+            "femaleVariant": "Randy! Get the hell outta here!"
+          },
+          {
+            "stringId": "1736205721922985984",
+            "maleVariant": "Where are you? Which hospital?"
+          },
+          {
+            "stringId": "1736206386552397824",
+            "maleVariant": "Dunno. Orbital station. Arasaka."
+          },
+          {
+            "stringId": "1744593311696969732",
+            "femaleVariant": "Listen, I'm not doing so hot."
+          },
+          {
+            "stringId": "1744593494853836800",
+            "femaleVariant": "So – what's up with you?"
+          },
+          {
+            "stringId": "1744593662374338560",
+            "femaleVariant": "Listen... I'm stuck in a shithole. It sucks, hard.",
+            "maleVariant": "Listen... I'm… I'm stuck in a shithole. It sucks, hard."
+          },
+          {
+            "stringId": "1744593803772715008",
+            "femaleVariant": "How's things at your end?"
+          },
+          {
+            "stringId": "1744598297449357312",
+            "femaleVariant": "I'm in the middle of a meeting with Mitch. He wants me to hang up, he's signaling wildly."
+          },
+          {
+            "stringId": "1744598698760364032",
+            "femaleVariant": "Tell him to get lost. An' tell him I said that."
+          },
+          {
+            "stringId": "1744599504351944704",
+            "femaleVariant": "He says hello."
+          },
+          {
+            "stringId": "1744600497294696448",
+            "femaleVariant": "To you and your venerable mother."
+          },
+          {
+            "stringId": "1744602417430290432",
+            "femaleVariant": "So leave the shithole. Come home."
+          },
+          {
+            "stringId": "1744602659542294528",
+            "femaleVariant": "Not that simple.",
+            "maleVariant": "It's not that simple."
+          },
+          {
+            "stringId": "1744602821962522624",
+            "femaleVariant": "\"No\" is a nice word, beautiful sometimes. You should use it more often."
+          },
+          {
+            "stringId": "1744603909948203008",
+            "femaleVariant": "Sorry. Mitch is about to blow a fuse. I'll have to call you back."
+          },
+          {
+            "stringId": "1744606731775270916",
+            "femaleVariant": "Yeah, sure. Nothing important."
+          },
+          {
+            "stringId": "1744606903674626048",
+            "femaleVariant": "Look, need to talk to somebody. I'm sittin' up in orbit and it sucks.",
+            "maleVariant": "Look, I need to talk to somebody. I'm sittin' up in orbit and it sucks."
+          },
+          {
+            "stringId": "1744607091160014848",
+            "femaleVariant": "I need to talk."
+          },
+          {
+            "stringId": "1744607190128812032",
+            "femaleVariant": "OK, never mind. Have fun."
+          },
+          {
+            "stringId": "1744610993691451392",
+            "femaleVariant": "Will do. See ya!"
+          },
+          {
+            "stringId": "1744612669299122176",
+            "femaleVariant": "What the hell you doin' up there?"
+          },
+          {
+            "stringId": "1744612916796612608",
+            "femaleVariant": "Oh, long story.",
+            "maleVariant": "Long story..."
+          },
+          {
+            "stringId": "1744613040276922368",
+            "femaleVariant": "Well, if it sucks, come back down."
+          },
+          {
+            "stringId": "1744613598857551872",
+            "femaleVariant": "Gotta wait for the end of the stupid tests.",
+            "maleVariant": "Gotta wait for the end of these stupid tests."
+          },
+          {
+            "stringId": "1744614422451085312",
+            "femaleVariant": "Ah, don't have to do a thing. Just, y'know, break the fuck outta there."
+          },
+          {
+            "stringId": "1744615338621296640",
+            "femaleVariant": "OK, it's starting. Gotta go."
+          },
+          {
+            "stringId": "1744616484924579844",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "1744616601056468992",
+            "femaleVariant": "Just wanted to talk."
+          },
+          {
+            "stringId": "1744616660145823744",
+            "femaleVariant": "Um, not really. It's actually important."
+          },
+          {
+            "stringId": "1744616815200854016",
+            "femaleVariant": "Just wanted to talk."
+          },
+          {
+            "stringId": "1744672851320397824",
+            "femaleVariant": "If this is V, I'll call you. Maybe, baby. When I'm done being pissed off."
+          },
+          {
+            "stringId": "1744700553339363328",
+            "femaleVariant": "Wait, what? What's the problem?"
+          },
+          {
+            "stringId": "1744701104991002624",
+            "femaleVariant": "Oh, I spoke with Viktor. So please stop acting surprised!"
+          },
+          {
+            "stringId": "1744701683200974848",
+            "femaleVariant": "Where the hell are you?!"
+          },
+          {
+            "stringId": "1744702173968097280",
+            "femaleVariant": "Aboard a station in orbit."
+          },
+          {
+            "stringId": "1744702578449997824",
+            "femaleVariant": "Stop yelling at me."
+          },
+          {
+            "stringId": "1744703653399781376",
+            "femaleVariant": "Sitting on an Arasaka orbital station. No idea which one."
+          },
+          {
+            "stringId": "1744703757804396544",
+            "femaleVariant": "Hey, stop yelling at me."
+          },
+          {
+            "stringId": "1744704653456072704",
+            "femaleVariant": "You piece of shit. You're lucky we're not face-to-face!"
+          },
+          {
+            "stringId": "1744705045908709376",
+            "femaleVariant": "Seriously… Where are you?!"
+          },
+          {
+            "stringId": "1744711797865734144",
+            "femaleVariant": "Like I could give a shit which one! You're in trouble. Again. Alone. You could have asked for help!"
+          },
+          {
+            "stringId": "1744712254189232128",
+            "femaleVariant": "Had my reasons."
+          },
+          {
+            "stringId": "1744712666237657088",
+            "femaleVariant": "Ugh. Fuck. Enough! Just stop pissing me off. Return to Earth, now, before they hurt you."
+          },
+          {
+            "stringId": "1744713081758965760",
+            "femaleVariant": "Nice to hear your voice again."
+          },
+          {
+            "stringId": "1744714039570227200",
+            "femaleVariant": "It's good to hear yours too, idiot. Now come home."
+          },
+          {
+            "stringId": "1744716419871301636",
+            "femaleVariant": "Not feeling great, but I'm alive."
+          },
+          {
+            "stringId": "1744716540835028992",
+            "femaleVariant": "Got rid of the biochip."
+          },
+          {
+            "stringId": "1744716638981742592",
+            "femaleVariant": "Yeah, so, to be honest, been better."
+          },
+          {
+            "stringId": "1744716706409373696",
+            "femaleVariant": "Got rid of the biochip."
+          },
+          {
+            "stringId": "1744722000795426816",
+            "femaleVariant": "How's Misty?"
+          },
+          {
+            "stringId": "1744722644520427520",
+            "femaleVariant": "How's Misty?"
+          },
+          {
+            "stringId": "1744723272139300864",
+            "femaleVariant": "Well, after you left, she went off to visit her folks – for a while, most likely."
+          },
+          {
+            "stringId": "1744723481250521088",
+            "femaleVariant": "Got a postcard from her, from Warsaw. There's a polar bear on it."
+          },
+          {
+            "stringId": "1744724982878461952",
+            "femaleVariant": "Tell her I said hi when she gets back."
+          },
+          {
+            "stringId": "1744725351188684800",
+            "femaleVariant": "You'll tell her yourself."
+          },
+          {
+            "stringId": "1744727290399973376",
+            "femaleVariant": "Arasaka do it?"
+          },
+          {
+            "stringId": "1744727464060936192",
+            "femaleVariant": "Yep. Sittin' on their orbital station.",
+            "maleVariant": "Yeah. Sittin' on their orbital station."
+          },
+          {
+            "stringId": "1744727656260722688",
+            "femaleVariant": "All right. So once you get back, pay me a visit, huh? You're gonna need a thorough check-up."
+          },
+          {
+            "stringId": "1744738255250153472",
+            "femaleVariant": "What am I supposed to do long-distance, over the phone?"
+          },
+          {
+            "stringId": "1744738442316111872",
+            "femaleVariant": "I just wanted to talk, Vik."
+          },
+          {
+            "stringId": "1744739135433236480",
+            "femaleVariant": "Look, we go back long enough that you know I'm no good at this stuff. And Misty's out of town."
+          },
+          {
+            "stringId": "1744739797982273536",
+            "femaleVariant": "What'm I supposed to do?"
+          },
+          {
+            "stringId": "1744740019122757632",
+            "femaleVariant": "Get a grip, make a decision. You already showed yourself and me you can do it."
+          },
+          {
+            "stringId": "1744741406162313216",
+            "femaleVariant": "Huh. Thanks for the pep talk, Vik. Sounds like a plan.",
+            "maleVariant": "Yeah. Thanks for the pep talk, Vik. Sounds like a plan."
+          },
+          {
+            "stringId": "1744745546225573888",
+            "femaleVariant": "Sorry. Like I said, bad time. Have to call you back."
+          },
+          {
+            "stringId": "1744747164606160896",
+            "femaleVariant": "Fuck!"
+          },
+          {
+            "stringId": "1744747251864461312",
+            "femaleVariant": "Sorry. Look, can't talk now, gonna have to call you back."
+          }
+        ]
+      }
+
+
+

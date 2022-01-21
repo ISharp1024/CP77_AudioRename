@@ -1,0 +1,288 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1789965628423376900",
+            "femaleVariant": "想去兜兜风吗？"
+          },
+          {
+            "stringId": "1789965628456931332",
+            "femaleVariant": "唉，以前可不是这样的。"
+          },
+          {
+            "stringId": "1789965628490485764",
+            "femaleVariant": "嘿，小丫头，赶紧滚吧。",
+            "maleVariant": "嘿，臭小子，赶紧滚吧。"
+          },
+          {
+            "stringId": "1789965628507262980",
+            "femaleVariant": "再往前一步，这里就是你的坟包。"
+          },
+          {
+            "stringId": "1789965628557594628",
+            "femaleVariant": "你确定要跟我拼枪吗？"
+          },
+          {
+            "stringId": "1789965628574371844",
+            "femaleVariant": "你最好再想想。"
+          },
+          {
+            "stringId": "1789965628624703492",
+            "femaleVariant": "我从来不乱开枪。"
+          },
+          {
+            "stringId": "1789965628658257924",
+            "femaleVariant": "我警告你，这几条街都是我罩的。"
+          },
+          {
+            "stringId": "1789965628708589572",
+            "femaleVariant": "哟？还挺机灵的哈？"
+          },
+          {
+            "stringId": "1789965628725366788",
+            "femaleVariant": "年轻，但愚蠢。"
+          },
+          {
+            "stringId": "1789965628775698436",
+            "femaleVariant": "呃…老了，干不动了。"
+          },
+          {
+            "stringId": "1789965628809252864",
+            "femaleVariant": "这是我的错觉？还是我真看见啥了？"
+          },
+          {
+            "stringId": "1789965628859584512",
+            "femaleVariant": "呃…我耳朵也不中用了。"
+          },
+          {
+            "stringId": "1789965628876361732",
+            "femaleVariant": "好了，这儿什么都没有。"
+          },
+          {
+            "stringId": "1789965628926693380",
+            "femaleVariant": "别浪费时间了！我们走！"
+          },
+          {
+            "stringId": "1789965628943470596",
+            "femaleVariant": "快出来，小混账。"
+          },
+          {
+            "stringId": "1789965628977025028",
+            "femaleVariant": "这儿有人死了。"
+          },
+          {
+            "stringId": "1789965629010579460",
+            "femaleVariant": "好…我来处理。"
+          },
+          {
+            "stringId": "1789965629094465540",
+            "femaleVariant": "来啊你！我教你死字怎么写！"
+          },
+          {
+            "stringId": "1789965629111242756",
+            "femaleVariant": "就像过去一样！"
+          },
+          {
+            "stringId": "1789965629144797188",
+            "femaleVariant": "当心弹片！"
+          },
+          {
+            "stringId": "1789965629211906052",
+            "femaleVariant": "为了联合！"
+          },
+          {
+            "stringId": "1789965629228683268",
+            "femaleVariant": "这种场面老子见多啦，玩起来兄弟们！"
+          },
+          {
+            "stringId": "1789965629279014916",
+            "femaleVariant": "专心点，靠！"
+          },
+          {
+            "stringId": "1789965629295792132",
+            "femaleVariant": "靠！比之前那场还惨！"
+          },
+          {
+            "stringId": "1789965629379678212",
+            "femaleVariant": "靠！"
+          },
+          {
+            "stringId": "1789965629396455428",
+            "femaleVariant": "怂货。"
+          },
+          {
+            "stringId": "1789965629463564292",
+            "femaleVariant": "说。"
+          },
+          {
+            "stringId": "1789965629547450368",
+            "femaleVariant": "你喝多了还是怎么了？不…想都别想…"
+          },
+          {
+            "stringId": "1789965629564227588",
+            "femaleVariant": "不不不，太远了…什么？你声音怎么回事…"
+          },
+          {
+            "stringId": "1789965629614559236",
+            "femaleVariant": "给她个下马威！"
+          },
+          {
+            "stringId": "1789965629648113668",
+            "femaleVariant": "靠，你这算鸡毛战术？！"
+          },
+          {
+            "stringId": "1789965629698445316",
+            "femaleVariant": "手榴弹！手榴弹！靠！"
+          },
+          {
+            "stringId": "1789965629731999748",
+            "femaleVariant": "这我管不着，再见。"
+          },
+          {
+            "stringId": "1789965629748776964",
+            "femaleVariant": "嗯…"
+          },
+          {
+            "stringId": "1789965629799108612",
+            "femaleVariant": "跟我来，让你见识见识厉害。"
+          },
+          {
+            "stringId": "1789965629832663044",
+            "femaleVariant": "上啊，有人急着想挨揍呢。"
+          },
+          {
+            "stringId": "1789965629866217476",
+            "femaleVariant": "快上，小年轻！让我看看你们的能耐！"
+          },
+          {
+            "stringId": "1789965629882994692",
+            "femaleVariant": "老子还硬的起来！"
+          },
+          {
+            "stringId": "1789965629933326340",
+            "femaleVariant": "呃…呃…杀了那…混蛋…"
+          },
+          {
+            "stringId": "1792225792971276288",
+            "femaleVariant": "不，不，不，找其他人…哈？"
+          },
+          {
+            "stringId": "1792226563615916032",
+            "femaleVariant": "嗯哼…？你这么跟我说话？不…嗯？我说了，不。"
+          },
+          {
+            "stringId": "2231551609065840644",
+            "femaleVariant": "怎么？"
+          },
+          {
+            "stringId": "2231551609250390020",
+            "femaleVariant": "继续冲！"
+          },
+          {
+            "stringId": "2231551609485271044",
+            "femaleVariant": "有入侵者！"
+          },
+          {
+            "stringId": "2231551609686597636",
+            "femaleVariant": "怎么？这不是刚刚升级过的…"
+          },
+          {
+            "stringId": "2231551609921478660",
+            "femaleVariant": "嗯？滚开！我没有叫人。"
+          },
+          {
+            "stringId": "2231551610223468548",
+            "femaleVariant": "臭婊子！凭什么杀了他们！",
+            "maleVariant": "狗杂种！凭什么杀了他们！"
+          },
+          {
+            "stringId": "2231551610340909060",
+            "femaleVariant": "我要亲手杀了你！"
+          },
+          {
+            "stringId": "2231551610424795140",
+            "femaleVariant": "就凭你也想来干我，嗯？！"
+          },
+          {
+            "stringId": "2231551610525458436",
+            "femaleVariant": "集合！前进！为了美国！"
+          },
+          {
+            "stringId": "2231551610810671108",
+            "femaleVariant": "命中目标！"
+          },
+          {
+            "stringId": "2231551611129438208",
+            "femaleVariant": "她快断气了！使劲儿打啊！",
+            "maleVariant": "他快断气了！使劲打啊！"
+          },
+          {
+            "stringId": "2231551611213324292",
+            "femaleVariant": "遵命！"
+          },
+          {
+            "stringId": "2231551611313987588",
+            "femaleVariant": "那个臭婊子躲起来了！",
+            "maleVariant": "那个狗杂种躲起来了！"
+          },
+          {
+            "stringId": "2231551611397873668",
+            "femaleVariant": "装弹！"
+          },
+          {
+            "stringId": "2231551611515314180",
+            "femaleVariant": "你疯了吗？"
+          },
+          {
+            "stringId": "2231551611716640768",
+            "femaleVariant": "她打到我眼睛了！",
+            "maleVariant": "他打到我眼睛了！"
+          },
+          {
+            "stringId": "2231551611800526852",
+            "femaleVariant": "她在搅和我们的义体！",
+            "maleVariant": "他在搅和我们的义体！"
+          },
+          {
+            "stringId": "2231551611901190144",
+            "femaleVariant": "啊，牛！"
+          },
+          {
+            "stringId": "2231551611985076228",
+            "femaleVariant": "需要支援！"
+          },
+          {
+            "stringId": "2231551612085739524",
+            "femaleVariant": "你想尝尝我的厉害？"
+          },
+          {
+            "stringId": "2231551612169625604",
+            "femaleVariant": "这是我特意给你留的！"
+          },
+          {
+            "stringId": "2231551612270288900",
+            "femaleVariant": "尝尝这个吧！"
+          },
+          {
+            "stringId": "2231551612354174980",
+            "femaleVariant": "别忘了找掩护！"
+          }
+        ]
+      }
+
+
+

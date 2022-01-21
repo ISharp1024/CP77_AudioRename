@@ -1,0 +1,275 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1693994207929155584",
+            "femaleVariant": "In the bathroom!"
+          },
+          {
+            "stringId": "1693995410754879488",
+            "femaleVariant": "Oh fuck...!"
+          },
+          {
+            "stringId": "1693995582234804224",
+            "femaleVariant": "How did this happen?",
+            "maleVariant": "How'd this happen?"
+          },
+          {
+            "stringId": "1693995841509900292",
+            "femaleVariant": "[Kneel] Gotta do something."
+          },
+          {
+            "stringId": "1693996697466683392",
+            "femaleVariant": "[Kneel] How'd this happen?"
+          },
+          {
+            "stringId": "1693997486432043008",
+            "femaleVariant": "Gotta do something with her.",
+            "maleVariant": "Gotta do somethin' with her."
+          },
+          {
+            "stringId": "1693997911533142016",
+            "femaleVariant": "Checked her pulse?"
+          },
+          {
+            "stringId": "1694000529047273472",
+            "femaleVariant": "As if that'll change anything..."
+          },
+          {
+            "stringId": "1694002696143486976",
+            "femaleVariant": "Yeah, I-I need to report an accidental death. Northside, Jackson Street."
+          },
+          {
+            "stringId": "1694042280424357888",
+            "femaleVariant": "Bird offs herself to express her undying gratitude to you for saving her ass."
+          },
+          {
+            "stringId": "1694044878057488384",
+            "femaleVariant": "I don't know! Told you... Evie was lying in bed, like always, when I went out."
+          },
+          {
+            "stringId": "1694045313963114496",
+            "femaleVariant": "And I got back to… augh..."
+          },
+          {
+            "stringId": "1694046100713881600",
+            "femaleVariant": "V. She's gone."
+          },
+          {
+            "stringId": "1694046621965205504",
+            "femaleVariant": "Don't want any trouble – I'm callin' the badges."
+          },
+          {
+            "stringId": "1694047035506802688",
+            "femaleVariant": "Can you carry her to the bed?"
+          },
+          {
+            "stringId": "1694146642207293444",
+            "femaleVariant": "[Lift]"
+          },
+          {
+            "stringId": "1694148987712421888",
+            "femaleVariant": "[Set down]"
+          },
+          {
+            "stringId": "1695264497824940036",
+            "femaleVariant": "NCPD's understaffed."
+          },
+          {
+            "stringId": "1695265070414544896",
+            "femaleVariant": "They're short on people, have trouble keepin' up."
+          },
+          {
+            "stringId": "1770433555217760256",
+            "femaleVariant": "They'll be here soon."
+          },
+          {
+            "stringId": "1770450328843436032",
+            "femaleVariant": "Psh. Told me to keep her on ice until tomorrow. Can you believe the balls?"
+          },
+          {
+            "stringId": "1770454278686621696",
+            "femaleVariant": "Gonna put somethin' on her. Rather she look like a person than a body."
+          },
+          {
+            "stringId": "1770456326245171200",
+            "femaleVariant": "Death's a daily thing for 'em."
+          },
+          {
+            "stringId": "1770456395316969472",
+            "femaleVariant": "Went easy on them, anyway."
+          },
+          {
+            "stringId": "1770457251256975360",
+            "femaleVariant": "Y'know... to you she's your best friend, so it's a terrible tragedy.",
+            "maleVariant": "Y'know... to you she was your best friend, so it's a terrible tragedy."
+          },
+          {
+            "stringId": "1770457730498150400",
+            "femaleVariant": "All things considered, you let 'em off pretty light."
+          },
+          {
+            "stringId": "1770459683600973824",
+            "femaleVariant": "Could you wait outside?"
+          },
+          {
+            "stringId": "1782260381678288896",
+            "femaleVariant": "Welcome to Night City."
+          },
+          {
+            "stringId": "1782260948815298560",
+            "femaleVariant": "Welcome to Night City."
+          },
+          {
+            "stringId": "1803838687023947776",
+            "femaleVariant": "I was-- I was only gone an hour…"
+          },
+          {
+            "stringId": "1803865469836025856",
+            "femaleVariant": "Huh. Fuck.",
+            "maleVariant": "Fwoo... fuck."
+          },
+          {
+            "stringId": "1803871638214369280",
+            "femaleVariant": "If I'd just known I'd've…"
+          },
+          {
+            "stringId": "1803903982153457664",
+            "femaleVariant": "Can't blame yourself."
+          },
+          {
+            "stringId": "1803905032222629888",
+            "femaleVariant": "Don't blame yourself. Won't solve anything.",
+            "maleVariant": "Don't blame yourself, won't solve anything."
+          },
+          {
+            "stringId": "1803917875584131072",
+            "femaleVariant": "Stop, couldn't watch her twenty-four seven…"
+          },
+          {
+            "stringId": "1803918210037932032",
+            "femaleVariant": "I should've sensed something, that it was off, augh!"
+          },
+          {
+            "stringId": "1803945248383787008",
+            "femaleVariant": "She'd made up her mind. Would've found a way. Always."
+          },
+          {
+            "stringId": "1825842669967597568",
+            "femaleVariant": "Not sure we should move her before the badges get here."
+          },
+          {
+            "stringId": "1827098257754120192",
+            "femaleVariant": "She's just another dead whore to them – nobody'll care."
+          },
+          {
+            "stringId": "1827161245798326272",
+            "femaleVariant": "No. No imminent danger. A suicide."
+          },
+          {
+            "stringId": "1827167587636305920",
+            "femaleVariant": "Tomo-- No! Today! Ugh, what part of \"dead\" don't you understand?!"
+          },
+          {
+            "stringId": "1827201971231875072",
+            "femaleVariant": "No, she was not pronounced dead by Trauma Team. If she'd've had coverage, we wouldn't be talkin'."
+          },
+          {
+            "stringId": "1827202985431359488",
+            "femaleVariant": "An' fuck you! If you don't wanna move your asses, why don't I come down the precinct and trash it into bits?"
+          },
+          {
+            "stringId": "1827208527667224576",
+            "femaleVariant": "Now will you come and arrest me, you pussies?"
+          },
+          {
+            "stringId": "1827209217512792064",
+            "femaleVariant": "Fine! I don't give a fuck what you write me up for!"
+          },
+          {
+            "stringId": "1831288552922243072",
+            "femaleVariant": "[Kneel] Checked her pulse?"
+          },
+          {
+            "stringId": "1831353347067305984",
+            "femaleVariant": "Least we can do is treat her with some dignity."
+          },
+          {
+            "stringId": "1831393589031821312",
+            "femaleVariant": "Big surprise. Who'd wanna be a corpo-fattened pig in Sty City?"
+          },
+          {
+            "stringId": "1831397991490740224",
+            "femaleVariant": "But... they must get dozens of calls like this every day."
+          },
+          {
+            "stringId": "1831398731953168384",
+            "femaleVariant": "What are you – their fuckin' PR rep?"
+          },
+          {
+            "stringId": "1831399001781133312",
+            "femaleVariant": "No, just sayin'."
+          },
+          {
+            "stringId": "1831402343903223808",
+            "femaleVariant": "Had it been me, they'd've gotten an earful like nobody's biz."
+          },
+          {
+            "stringId": "1831409864508399616",
+            "femaleVariant": "Where your address says more about you than anything else."
+          },
+          {
+            "stringId": "1831410787574046720",
+            "femaleVariant": "We shoulda never come here."
+          },
+          {
+            "stringId": "1872133249022541836",
+            "femaleVariant": "Prolly shouldn't move her."
+          },
+          {
+            "stringId": "1873381627924561920",
+            "femaleVariant": "Close the door, V. Please."
+          },
+          {
+            "stringId": "1899826892299067392",
+            "femaleVariant": "Stop talking."
+          },
+          {
+            "stringId": "2054888003291119616",
+            "femaleVariant": "Shut up."
+          },
+          {
+            "stringId": "2179365901094825988",
+            "femaleVariant": "[Close]"
+          },
+          {
+            "stringId": "2440801122573299712",
+            "femaleVariant": "How'd this happen?"
+          },
+          {
+            "stringId": "2440802127327211520",
+            "femaleVariant": "Checked her pulse?"
+          },
+          {
+            "stringId": "2440802207153205248",
+            "femaleVariant": "Gotta do something."
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,613 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1730332124934664192",
+            "femaleVariant": "It's an island, just one."
+          },
+          {
+            "stringId": "1730334429100732416",
+            "femaleVariant": "And do not utter a word until I ask you to."
+          },
+          {
+            "stringId": "1730334717266194432",
+            "femaleVariant": "No matter what happens... you must trust me."
+          },
+          {
+            "stringId": "1730335383405555712",
+            "femaleVariant": "With twelve thousand inhabitants."
+          },
+          {
+            "stringId": "1730335640147292160",
+            "femaleVariant": "We could... relocate them. Archipelago, y'know, so there're other islands around."
+          },
+          {
+            "stringId": "1730336438491115520",
+            "femaleVariant": "It sounds very costly."
+          },
+          {
+            "stringId": "1730342228258025472",
+            "femaleVariant": "I am late, apologies."
+          },
+          {
+            "stringId": "1730343109951057920",
+            "femaleVariant": "Keep your weapon at hand."
+          },
+          {
+            "stringId": "1730343430211334144",
+            "femaleVariant": "My brother – where is he?"
+          },
+          {
+            "stringId": "1730343735070126080",
+            "femaleVariant": "Then begin without him we shall."
+          },
+          {
+            "stringId": "1730345230624714752",
+            "femaleVariant": "I wanna know what's goin' on."
+          },
+          {
+            "stringId": "1730347484425580544",
+            "femaleVariant": "Yorinobu murdered my father and exploited his death to justify his warmongering."
+          },
+          {
+            "stringId": "1730347754924634112",
+            "femaleVariant": "I have an eyewitness."
+          },
+          {
+            "stringId": "1730348236564951040",
+            "femaleVariant": "It's true. I was there."
+          },
+          {
+            "stringId": "1730348664350404608",
+            "femaleVariant": "Lapped up Yorinobu's lies like dogs, you did."
+          },
+          {
+            "stringId": "1730348783435083776",
+            "femaleVariant": "You didn't even order a proper inquiry."
+          },
+          {
+            "stringId": "1730349503261536256",
+            "femaleVariant": "It's true – all of it. Saw it with my own eyes."
+          },
+          {
+            "stringId": "1730349944670089216",
+            "femaleVariant": "I can confirm this."
+          },
+          {
+            "stringId": "1730350205086035968",
+            "femaleVariant": "Says a wanted man!"
+          },
+          {
+            "stringId": "1730350797221097472",
+            "femaleVariant": "If our testimony is not enough, perhaps you will listen to my father."
+          },
+          {
+            "stringId": "1730352110474457088",
+            "femaleVariant": "Oh?"
+          },
+          {
+            "stringId": "1730354735387340800",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"見下げ果てた奴らめ\" t=\"You are all despicable.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1761818864418570240",
+            "femaleVariant": "It won't be much longer, V."
+          },
+          {
+            "stringId": "1761819092118945796",
+            "femaleVariant": "Yeah, but we better hurry."
+          },
+          {
+            "stringId": "1761819306749870080",
+            "femaleVariant": "Do I have any fuckin' choice?!"
+          },
+          {
+            "stringId": "1761819467307827200",
+            "femaleVariant": "It's getting worse."
+          },
+          {
+            "stringId": "1761821759696289792",
+            "femaleVariant": "Ugh, growin' weaker by the minute. We gotta hurry.",
+            "maleVariant": "Growin' weaker by the minute. We gotta hurry."
+          },
+          {
+            "stringId": "1761822181324505088",
+            "femaleVariant": "Don't have a fuckin' choice, now, do I?"
+          },
+          {
+            "stringId": "1761822710830219264",
+            "femaleVariant": "Ahem, on a downward spiral, but... I gotta try.",
+            "maleVariant": "On a downward spiral… but I gotta try."
+          },
+          {
+            "stringId": "1761823166230970368",
+            "femaleVariant": "Dire moments are upon us."
+          },
+          {
+            "stringId": "1762185025043841024",
+            "femaleVariant": "Hanako-sama."
+          },
+          {
+            "stringId": "1762186170172719104",
+            "femaleVariant": "Got a good memory for faces, Oda."
+          },
+          {
+            "stringId": "1763182300645834752",
+            "femaleVariant": "No, unacceptable."
+          },
+          {
+            "stringId": "1763195064835653632",
+            "femaleVariant": "A serious accusation, admittedly… but nothing more."
+          },
+          {
+            "stringId": "1763400557260718080",
+            "femaleVariant": "They're here!"
+          },
+          {
+            "stringId": "1763607659929419776",
+            "femaleVariant": "Spare no one."
+          },
+          {
+            "stringId": "1811268650187898880",
+            "femaleVariant": "What... What are you doing? You cannot…"
+          },
+          {
+            "stringId": "1811269326745911296",
+            "femaleVariant": "V, this is your seat."
+          },
+          {
+            "stringId": "1811423298689449988",
+            "femaleVariant": "Move your ass."
+          },
+          {
+            "stringId": "1811425393811406848",
+            "femaleVariant": "May I...?"
+          },
+          {
+            "stringId": "1811426227622264832",
+            "femaleVariant": "What would her father say to this...?"
+          },
+          {
+            "stringId": "1811427691048484864",
+            "femaleVariant": "Are you deaf?!"
+          },
+          {
+            "stringId": "1811428200488648704",
+            "femaleVariant": "Hear that? Plant your ass somewhere else."
+          },
+          {
+            "stringId": "1811428300732514308",
+            "femaleVariant": "May I...? Everyone's waiting."
+          },
+          {
+            "stringId": "1811430041838436352",
+            "femaleVariant": "This is outrageous…"
+          },
+          {
+            "stringId": "1811434432335200256",
+            "femaleVariant": "[Sit] Thank you."
+          },
+          {
+            "stringId": "1812536846438121472",
+            "femaleVariant": "I will not let you treat me this way…"
+          },
+          {
+            "stringId": "1815589611446599680",
+            "femaleVariant": "Protect the VIPs!"
+          },
+          {
+            "stringId": "1816945237225504768",
+            "femaleVariant": "He... told us to start without him..."
+          },
+          {
+            "stringId": "1816945798020726784",
+            "femaleVariant": "Hanako? What're you doing here?"
+          },
+          {
+            "stringId": "1816947693426704384",
+            "femaleVariant": "Begin what?"
+          },
+          {
+            "stringId": "1816959946733518848",
+            "femaleVariant": "Hanako. I believe you owe us an explanation."
+          },
+          {
+            "stringId": "1816975677135126528",
+            "femaleVariant": "Give up your seat. Now."
+          },
+          {
+            "stringId": "1816977436226224128",
+            "femaleVariant": "And why you dragged these… people in here."
+          },
+          {
+            "stringId": "1825551335476510720",
+            "femaleVariant": "Much obliged."
+          },
+          {
+            "stringId": "1837123952670806016",
+            "femaleVariant": "You in on this?"
+          },
+          {
+            "stringId": "1837124158661464064",
+            "femaleVariant": "In on what?"
+          },
+          {
+            "stringId": "1837124208305246208",
+            "femaleVariant": "Saburo's comeback."
+          },
+          {
+            "stringId": "1837127671642722304",
+            "femaleVariant": "Just spoke to his construct."
+          },
+          {
+            "stringId": "1837130183661719552",
+            "femaleVariant": "No... He would have told me."
+          },
+          {
+            "stringId": "1837130817957924864",
+            "femaleVariant": "Feel that, Goro?"
+          },
+          {
+            "stringId": "1837131082903719936",
+            "femaleVariant": "Night City just gave you another kick in the nuts – running start this time."
+          },
+          {
+            "stringId": "1837131762313859072",
+            "femaleVariant": "What?!"
+          },
+          {
+            "stringId": "1837132297792262144",
+            "femaleVariant": "He digitized his engram, made copies. In case he died."
+          },
+          {
+            "stringId": "1837136196263612416",
+            "femaleVariant": "Why? So you'd take your job as his bodyguard lightly?"
+          },
+          {
+            "stringId": "1837140337132179456",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ありえん…\" t=\"It cannot be...\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1837156410191646720",
+            "femaleVariant": "Then what? Need me to \"neutralize\" them, too?"
+          },
+          {
+            "stringId": "1837177179026100224",
+            "femaleVariant": "Fascinating."
+          },
+          {
+            "stringId": "1837179497805123584",
+            "femaleVariant": "Careful what you say."
+          },
+          {
+            "stringId": "1837192778481537024",
+            "femaleVariant": "Yes, indeed – words and nothing else. Is this all you have?"
+          },
+          {
+            "stringId": "1837194905530535936",
+            "femaleVariant": "You lapped up Yorinobu's lies eagerly like the dogs you are."
+          },
+          {
+            "stringId": "1837195050166915072",
+            "femaleVariant": "Saburo Arasaka is murdered, and you don't order an inquiry into the cause of his death."
+          },
+          {
+            "stringId": "1837301592165847040",
+            "femaleVariant": "Will you stay with us?"
+          },
+          {
+            "stringId": "1837304529940254720",
+            "femaleVariant": "Please, calm…"
+          },
+          {
+            "stringId": "1837304977908699136",
+            "femaleVariant": "I'll be calm when all this is over!"
+          },
+          {
+            "stringId": "1837306949600677888",
+            "femaleVariant": "Indeed we do."
+          },
+          {
+            "stringId": "1841477113854431232",
+            "femaleVariant": "Of course, Hanako-sama."
+          },
+          {
+            "stringId": "1841525616517451776",
+            "femaleVariant": "Forget relocation. Twelve thousand? I doubt anyone will notice."
+          },
+          {
+            "stringId": "1843127674853003264",
+            "femaleVariant": "A-Arasaka-sama?"
+          },
+          {
+            "stringId": "1843132983399026688",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"いずれにせよ、仮にも役員である者たちが、なんと情けない\" t=\"Whatever the case may be, you do not merit your positions.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1843133783890333696",
+            "femaleVariant": "This...? Is this to convince us?"
+          },
+          {
+            "stringId": "1843134920429277184",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"バヘット。お前がミリテクとの全面戦争を憂慮していた時、私はこう言ったはずだ\" t=\"Barreto, I told you this once before, when you feared all-out war with Militech.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1843136731294863360",
+            "femaleVariant": "A magic trick!"
+          },
+          {
+            "stringId": "1843144370431070208",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前には3つのものが欠けている。自信、知性、そして根性だ\" t=\"You lack three things – confidence, intelligence and a dick.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1843151640200089600",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"見たところ、あれから何も変わっていないようだな\" t=\"It is clear nothing has changed in that regard.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1843153757384085504",
+            "femaleVariant": "It's... it's him…"
+          },
+          {
+            "stringId": "1843154157889785856",
+            "femaleVariant": "Arasaka-sama... I..."
+          },
+          {
+            "stringId": "1843157165960728576",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"赤子のようにまんまと騙されたか、日和見主義に走ったか…\" t=\"Either you let yourself be fooled like children or you were guided by opportunism.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1843188214396751872",
+            "femaleVariant": "Arasaka-sama... what is your command?"
+          },
+          {
+            "stringId": "1843190186021621760",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ハナコの指示に従え\" t=\"To follow Hanako's orders.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1843212599610445824",
+            "femaleVariant": "Objections?"
+          },
+          {
+            "stringId": "1845868980276695040",
+            "femaleVariant": "You."
+          },
+          {
+            "stringId": "1845869530049286144",
+            "femaleVariant": "V is with us."
+          },
+          {
+            "stringId": "1845871355410386944",
+            "femaleVariant": "To me or to my money?"
+          },
+          {
+            "stringId": "1845880640576032768",
+            "femaleVariant": "This little stage show is starting to bore me. Will someone call security?"
+          },
+          {
+            "stringId": "1845882236408041472",
+            "femaleVariant": "Great idea. They can go straight to Yorinobu and ask him what happened at Konpeki Plaza."
+          },
+          {
+            "stringId": "1845885426243342336",
+            "femaleVariant": "Just make sure they're armed. Your boss starts strangling people when he gets mad."
+          },
+          {
+            "stringId": "1845889650041688064",
+            "femaleVariant": "What did you see?"
+          },
+          {
+            "stringId": "1845889901028839424",
+            "femaleVariant": "I saw Yorinobu strangle Saburo Arasaka."
+          },
+          {
+            "stringId": "1845890535610257408",
+            "femaleVariant": "More interesting with each minute."
+          },
+          {
+            "stringId": "1845893248402198528",
+            "femaleVariant": "Convenient to be so docile?"
+          },
+          {
+            "stringId": "1845894798096863232",
+            "femaleVariant": "Once again – who is this?"
+          },
+          {
+            "stringId": "1845998954392457216",
+            "femaleVariant": "A serious accusation, admittedly… but nothing more."
+          },
+          {
+            "stringId": "1863401380156088320",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"周囲で怪しい動きがあれば直ちに報告しろ\" t=\"Report any suspicious activity on the premises.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1863407712498163712",
+            "femaleVariant": "It is just these?"
+          },
+          {
+            "stringId": "1863407943470096384",
+            "femaleVariant": "The rest are in position, ready to do as instructed."
+          },
+          {
+            "stringId": "1863409061923201024",
+            "femaleVariant": "These are the most effective by much. And loyal."
+          },
+          {
+            "stringId": "1863410370260836352",
+            "femaleVariant": "I would say it's twenty percent to eighty, Hanako-sama."
+          },
+          {
+            "stringId": "1863411138456002560",
+            "femaleVariant": "Very well. It will have to do."
+          },
+          {
+            "stringId": "1863412863774564352",
+            "femaleVariant": "Now come."
+          },
+          {
+            "stringId": "1865012892738068480",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ハナコの発する言葉は、すべて私の言葉同然だ\" t=\"You will treat every word she speaks as if it came from my lips.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1865019346614296576",
+            "femaleVariant": "Is it you?! Is this your doing, Hanako?"
+          },
+          {
+            "stringId": "1865022177148739584",
+            "femaleVariant": "To lock us in here so we devour each other like rats in a cage?"
+          },
+          {
+            "stringId": "1865022845267812352",
+            "femaleVariant": "Have you brought more of this filth from the street?!"
+          },
+          {
+            "stringId": "1865023541572608000",
+            "femaleVariant": "Hear that?"
+          },
+          {
+            "stringId": "1865026292784373760",
+            "femaleVariant": "I asked you a question!"
+          },
+          {
+            "stringId": "1865029326943887360",
+            "femaleVariant": "What the hell's happening?"
+          },
+          {
+            "stringId": "1865029933725458432",
+            "femaleVariant": "Clearly, someone objects."
+          },
+          {
+            "stringId": "1865030265780117504",
+            "femaleVariant": "Who activated the lockdown?!"
+          },
+          {
+            "stringId": "1865038608200441856",
+            "femaleVariant": "Aaaarrrghh!"
+          },
+          {
+            "stringId": "1866466116045185024",
+            "femaleVariant": "The removal of Yorinobu from his position as CEO of Arasaka."
+          },
+          {
+            "stringId": "1866473600847781888",
+            "femaleVariant": "Did I hear you correctly?"
+          },
+          {
+            "stringId": "1872075979106361344",
+            "femaleVariant": "Used to work a few floors down – Abernathy's department."
+          },
+          {
+            "stringId": "1872076665529376768",
+            "femaleVariant": "And I know \"shrugging your shoulders and finding a scapegoat\" just isn't correct procedure when the CEO dies."
+          },
+          {
+            "stringId": "1872078813432455168",
+            "femaleVariant": "I'm an eyewitness to what happened. You should ask me questions, then proceed with apprehending Yorinobu."
+          },
+          {
+            "stringId": "1905582051571023872",
+            "femaleVariant": "These your people?"
+          },
+          {
+            "stringId": "1905582686051778560",
+            "femaleVariant": "In a manner of speaking."
+          },
+          {
+            "stringId": "1914104974943535108",
+            "femaleVariant": "V? Your place."
+          },
+          {
+            "stringId": "1914104975060975620",
+            "femaleVariant": "Will you sit?"
+          },
+          {
+            "stringId": "1914104975178416128",
+            "femaleVariant": "Whether she sits or stands, this meeting is a farce."
+          },
+          {
+            "stringId": "2000974106692755456",
+            "femaleVariant": "Absurd!"
+          },
+          {
+            "stringId": "2007155863423098880",
+            "femaleVariant": "And you knew of this. All of you."
+          },
+          {
+            "stringId": "2025682974039416832",
+            "femaleVariant": "Meaning?"
+          },
+          {
+            "stringId": "2025683231888449536",
+            "femaleVariant": "To what extent they have faith in me, or my money – I do not know."
+          },
+          {
+            "stringId": "2025683680225992704",
+            "femaleVariant": "Guess it'd be all the same to them, wouldn't it?"
+          },
+          {
+            "stringId": "2025720647395385344",
+            "femaleVariant": "Anyway, motivations aside, what's important's that they shoot in the right direction."
+          },
+          {
+            "stringId": "2025739414993182720",
+            "femaleVariant": "You are never one to mince words."
+          },
+          {
+            "stringId": "2025740170622214144",
+            "femaleVariant": "It's why you brought me here."
+          },
+          {
+            "stringId": "2025748002562187264",
+            "femaleVariant": "As a last resort – and only then."
+          },
+          {
+            "stringId": "2025753643615854592",
+            "femaleVariant": "You mean when the board rejects every word out of our mouths?"
+          },
+          {
+            "stringId": "2025770605951655936",
+            "femaleVariant": "\"If\" – not \"when.\""
+          },
+          {
+            "stringId": "2025797265853849600",
+            "femaleVariant": "If we cannot convince them, we could lose control of the situation."
+          },
+          {
+            "stringId": "2085340488626421764",
+            "femaleVariant": "You got a good memory."
+          },
+          {
+            "stringId": "2257441266453553152",
+            "femaleVariant": "Who is she?! And... am I seeing right, she's armed?!",
+            "maleVariant": "Who is he?! And... am I seeing right, he's armed?!"
+          },
+          {
+            "stringId": "2257444837886631944",
+            "femaleVariant": "What this, now?!"
+          },
+          {
+            "stringId": "2257445247066152968",
+            "femaleVariant": "Security? We've had an intrusion."
+          },
+          {
+            "stringId": "2257445434551541768",
+            "femaleVariant": "Who is this… person?!"
+          }
+        ]
+      }
+
+
+

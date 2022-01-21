@@ -1,0 +1,823 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1603775375583342592",
+            "femaleVariant": "V, this is important."
+          },
+          {
+            "stringId": "1603775375583342608",
+            "femaleVariant": "Judy's always been there for me. Always helped out. I trust her."
+          },
+          {
+            "stringId": "1603775375583342624",
+            "femaleVariant": "But she's a Mox, not the latest member of your crew. Try not to forget."
+          },
+          {
+            "stringId": "1603775375600119816",
+            "femaleVariant": "So you'll be a good girl, tread lightly and keep that tongue on a leash.",
+            "maleVariant": "So you'll be a good boy, tread lightly and keep that tongue on a leash."
+          },
+          {
+            "stringId": "1603775375633674240",
+            "femaleVariant": "Dex had a load to say about you. Called you professional, effective…"
+          },
+          {
+            "stringId": "1603775375667228672",
+            "femaleVariant": "I'm good at what I do. Got a solid crew at my back, too. Never once botched a job."
+          },
+          {
+            "stringId": "1603775375667228688",
+            "femaleVariant": "You do realize I expect more of you than scraping streetcorner dataterms? Much, much more."
+          },
+          {
+            "stringId": "1603775375667228704",
+            "femaleVariant": "I'm the best. And I know what I'm getting into. Dex was clear – the job's high-risk."
+          },
+          {
+            "stringId": "1603775375684005916",
+            "femaleVariant": "By the way, you worked together long? You and Dex?"
+          },
+          {
+            "stringId": "1603775375717560320",
+            "femaleVariant": "Let's... cut to the chase. Whaddaya got for me?"
+          },
+          {
+            "stringId": "1603775375835000832",
+            "femaleVariant": "One more thing. Data that's on the chip – what is it?"
+          },
+          {
+            "stringId": "1603775375835000848",
+            "femaleVariant": "Irrelevant. Entirely."
+          },
+          {
+            "stringId": "1603775375835000860",
+            "femaleVariant": "We're talkin' about data Yorinobu snuck out of Arasaka. What's more, he wants to pass it onto NetWatch. Sounds pretty damn relevant to me."
+          },
+          {
+            "stringId": "1603775375851778048",
+            "femaleVariant": "Listen, V. The Relic – that's my concern. Your concern – earning a paycheck."
+          },
+          {
+            "stringId": "1603775375851778064",
+            "femaleVariant": "Just get the job done. I'll make sure your bank accounts're sated."
+          },
+          {
+            "stringId": "1603775375969218560",
+            "femaleVariant": "Your… target – I trust you know what it is."
+          },
+          {
+            "stringId": "1603775375985995780",
+            "femaleVariant": "Relic. \"Secure Your Soul\" trinket. Key tech in the program, actually."
+          },
+          {
+            "stringId": "1603775375985995792",
+            "femaleVariant": "Mhm, Arasaka's poured billions into personality transfer technology. But me – I just want the data on this one."
+          },
+          {
+            "stringId": "1603775376002772996",
+            "femaleVariant": "The chip is tucked away inside Konpeki Plaza, the hotel. You ever been?"
+          },
+          {
+            "stringId": "1603775376036327424",
+            "femaleVariant": "[Stand] OK. What's next?"
+          },
+          {
+            "stringId": "1603775376053104648",
+            "femaleVariant": "Yori Arasaka – what else do you know?"
+          },
+          {
+            "stringId": "1603775376053104664",
+            "femaleVariant": "What's on this Relic?"
+          },
+          {
+            "stringId": "1603775376103436288",
+            "femaleVariant": "OK. What's next?"
+          },
+          {
+            "stringId": "1603775376136990720",
+            "femaleVariant": "What else you know about Yorinobu?"
+          },
+          {
+            "stringId": "1603775376136990736",
+            "femaleVariant": "Quite a bit, actually. He studied finance and biotech in Tokyo. Hm, probably didn't have a choice in the matter, come to think of it. Saburo was grooming him to be his successor."
+          },
+          {
+            "stringId": "1603775376187322368",
+            "femaleVariant": "Seems to be risking everything with this Relic scam…"
+          },
+          {
+            "stringId": "1603775376187322384",
+            "femaleVariant": "Yes, because he's fallen for the biggest lie this town puts forward."
+          },
+          {
+            "stringId": "1603775376204099604",
+            "femaleVariant": "That he can gain and retain control. Of anything."
+          },
+          {
+            "stringId": "1603775376237654016",
+            "femaleVariant": "Let's see this braindance."
+          },
+          {
+            "stringId": "1603775376254431248",
+            "femaleVariant": "Judy'll help. She's a Mox, too. Besides, we go back, uh... years."
+          },
+          {
+            "stringId": "1603775376858411008",
+            "femaleVariant": "I'm the best."
+          },
+          {
+            "stringId": "1603775376875188232",
+            "femaleVariant": "You don't care what Dex thinks."
+          },
+          {
+            "stringId": "1603775376875188248",
+            "femaleVariant": "Let's just cut to the chase."
+          },
+          {
+            "stringId": "1603775376925519884",
+            "femaleVariant": "No. You're here to gain some knowledge, the life-changing kind."
+          },
+          {
+            "stringId": "1603775376925519896",
+            "femaleVariant": "Well, now you got me all excited."
+          },
+          {
+            "stringId": "1603775377093292032",
+            "femaleVariant": "Now comes the best part."
+          },
+          {
+            "stringId": "1603775377143623680",
+            "femaleVariant": "You don't give a rat's dick what Dex thinks. We both know that."
+          },
+          {
+            "stringId": "1603775377160400896",
+            "femaleVariant": "You have trouble accepting compliments?"
+          },
+          {
+            "stringId": "1603775377244286976",
+            "femaleVariant": "Name's V."
+          },
+          {
+            "stringId": "1603775377244286992",
+            "femaleVariant": "A big tipper."
+          },
+          {
+            "stringId": "1603775377311395840",
+            "femaleVariant": "Name's V. She and I have a... date.",
+            "maleVariant": "Name's V. She and I have a, uh... date."
+          },
+          {
+            "stringId": "1603775377311395852",
+            "femaleVariant": "Well, V, it's a pleasure. I'm Mateo."
+          },
+          {
+            "stringId": "1603775377311395864",
+            "femaleVariant": "Uh-huh... So, Evelyn?"
+          },
+          {
+            "stringId": "1603775377395281920",
+            "femaleVariant": "Just answer the damn question."
+          },
+          {
+            "stringId": "1603775377395281932",
+            "femaleVariant": "Seem a little tense, choomba. Go grab a box – might take the edge off."
+          },
+          {
+            "stringId": "1603775377764380672",
+            "femaleVariant": "And? Like what you see?"
+          },
+          {
+            "stringId": "1603775377764380684",
+            "femaleVariant": "If I didn't, rest assured... you'd know."
+          },
+          {
+            "stringId": "1603775377865043968",
+            "femaleVariant": "Mind if we talk about the job? Heard you got somethin' for me."
+          },
+          {
+            "stringId": "1603775377865043980",
+            "femaleVariant": "Mhm. But not here. Come with me."
+          },
+          {
+            "stringId": "1603775377865043992",
+            "femaleVariant": "We'll be in the lounge, Mateo. Anyone asks, we're not here."
+          },
+          {
+            "stringId": "1603775377932152832",
+            "femaleVariant": "C'mon. Know a place we can talk where ears won't prick up to listen."
+          },
+          {
+            "stringId": "1603775377948930052",
+            "femaleVariant": "We'll be in the lounge, Mateo. Anyone asks, we're not here."
+          },
+          {
+            "stringId": "1603775378083147776",
+            "femaleVariant": "Why didn't you come over sooner?"
+          },
+          {
+            "stringId": "1603775378099924992",
+            "femaleVariant": "Centzon? Only tequila I drink."
+          },
+          {
+            "stringId": "1603775378116702224",
+            "femaleVariant": "Hm. How would you know?"
+          },
+          {
+            "stringId": "1603775378586464256",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1603775378922008576",
+            "femaleVariant": "Look, if you've got any spare aces up your sleeve, now's the time to show 'em."
+          },
+          {
+            "stringId": "1603775378922008588",
+            "femaleVariant": "Now, this should make your tits perk up. Yorinobu recently swiped the chip from an Arasaka laboratory. He's made a deal with NetWatch, aims to sell it to them.",
+            "maleVariant": "Now, this should make your prick perk up. Yorinobu recently swiped the chip from an Arasaka laboratory. He's made a deal with NetWatch, aims to sell it to them."
+          },
+          {
+            "stringId": "1603775379240775680",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1603775379425325056",
+            "femaleVariant": "And trustworthy."
+          },
+          {
+            "stringId": "1603775380280963072",
+            "femaleVariant": "So what's on the tape?"
+          },
+          {
+            "stringId": "1603775380297740288",
+            "femaleVariant": "Yorinobu's suite. The glorious interior."
+          },
+          {
+            "stringId": "1603775380297740316",
+            "femaleVariant": "You'll need to locate the Relic yourself. Hope I grabbed enough detail to make that possible."
+          },
+          {
+            "stringId": "1603775380297740340",
+            "femaleVariant": "Hold up... Mean to say you recorded this?"
+          },
+          {
+            "stringId": "1603775380952051712",
+            "femaleVariant": "Sit, sit. We've got a lot to cover."
+          },
+          {
+            "stringId": "1608061306301706240",
+            "femaleVariant": "Let's talk shop, the contract."
+          },
+          {
+            "stringId": "1608067444497838080",
+            "femaleVariant": "Why meet here?"
+          },
+          {
+            "stringId": "1608083953345490944",
+            "femaleVariant": "Maybe Dex is beneath you. Have you known each other long?"
+          },
+          {
+            "stringId": "1608103371513393152",
+            "femaleVariant": "Just started working with him, in fact."
+          },
+          {
+            "stringId": "1608103543211421696",
+            "femaleVariant": "You writin' Dex's bio? Hate to disappoint, but I just don't know much."
+          },
+          {
+            "stringId": "1608106087560114176",
+            "femaleVariant": "I've heard there are two kinds of fixers. Those with stable crews on long contracts and short leashes."
+          },
+          {
+            "stringId": "1608174639902224384",
+            "femaleVariant": "In other words, you hardly know each other... Yet he fingered you for this job. Hm, curious."
+          },
+          {
+            "stringId": "1608423499014729728",
+            "femaleVariant": "Why we meetin' here? Any particular reason?"
+          },
+          {
+            "stringId": "1608424576783085568",
+            "femaleVariant": "Actually, doesn't seem much like your thing, this place."
+          },
+          {
+            "stringId": "1608435177332797440",
+            "femaleVariant": "Hm, I'll take that as a compliment."
+          },
+          {
+            "stringId": "1608458988497268736",
+            "femaleVariant": "Yorinobu's got an army around him, I bet."
+          },
+          {
+            "stringId": "1608460659793195008",
+            "femaleVariant": "Seriously, HE's my target? Yorinobu Arasaka?"
+          },
+          {
+            "stringId": "1608472871744172032",
+            "femaleVariant": "Top dog like Yorinobu's bound to have an army on call. Hotel's prolly a goddamn fortress by now, too."
+          },
+          {
+            "stringId": "1608479055674994688",
+            "femaleVariant": "Yorinobu keeps exactly no huscle around. Not one guard. Got rid of them a long time ago."
+          },
+          {
+            "stringId": "1608480623187062784",
+            "femaleVariant": "Huh. Why's that?"
+          },
+          {
+            "stringId": "1608481050318204928",
+            "femaleVariant": "Surely you know what they say about Arasaka intel?"
+          },
+          {
+            "stringId": "1608482763104186368",
+            "femaleVariant": "So we're not jumpin' the corp. We're jumping Yorinobu Arasaka himself."
+          },
+          {
+            "stringId": "1608484961708011520",
+            "femaleVariant": "Eh, Yorinobu is a puppet. He lost all his cards years ago when he failed to do daddy's bidding."
+          },
+          {
+            "stringId": "1608505276165124096",
+            "femaleVariant": "But then Yorinobu vanished to chase his own dreams, cut himself off from the corp for years. Long story short, though the black sheep returned, the bitter taste remained."
+          },
+          {
+            "stringId": "1611199584982921216",
+            "femaleVariant": "It's all right, Mateo. I was waiting for this one."
+          },
+          {
+            "stringId": "1611205480328851456",
+            "femaleVariant": "Evelyn Parker."
+          },
+          {
+            "stringId": "1611208450466508800",
+            "femaleVariant": "I knew it was you as soon as you walked in."
+          },
+          {
+            "stringId": "1611211140592431104",
+            "femaleVariant": "Why not say hello sooner?"
+          },
+          {
+            "stringId": "1611212536356139008",
+            "femaleVariant": "I like to know everything about the people I work with."
+          },
+          {
+            "stringId": "1611213446285225984",
+            "femaleVariant": "Either that or it was just a lucky guess."
+          },
+          {
+            "stringId": "1611214283350863872",
+            "femaleVariant": "I wanted to get a good look at you first."
+          },
+          {
+            "stringId": "1611215513338900484",
+            "femaleVariant": "And? Like what you see?"
+          },
+          {
+            "stringId": "1611215992496189440",
+            "femaleVariant": "Let's talk business."
+          },
+          {
+            "stringId": "1611216236755677184",
+            "femaleVariant": "Why're we meeting here?"
+          },
+          {
+            "stringId": "1611327554540138496",
+            "femaleVariant": "I hope he wasn't overselling…"
+          },
+          {
+            "stringId": "1611357726131744768",
+            "femaleVariant": "Loyalty and predictability they value above all else. Then there's the other kind – Dex's kind."
+          },
+          {
+            "stringId": "1611401675491897344",
+            "femaleVariant": "Nope. Outta my price range."
+          },
+          {
+            "stringId": "1611402053566459904",
+            "femaleVariant": "I'm familiar with the franchise."
+          },
+          {
+            "stringId": "1611403469043396608",
+            "femaleVariant": "Never had the opportunity."
+          },
+          {
+            "stringId": "1611412242319405056",
+            "femaleVariant": "Classy corp hotels? Mm, yeah, no. Outta my price range.",
+            "maleVariant": "Classy corp hotels? Yeah, no. Outta my price range."
+          },
+          {
+            "stringId": "1611412651096272896",
+            "femaleVariant": "The decor's to die for. As you'll see for yourself."
+          },
+          {
+            "stringId": "1611414474427330560",
+            "femaleVariant": "The two are identical to each other."
+          },
+          {
+            "stringId": "1611419780607766528",
+            "femaleVariant": "Y'know, just never rolled through that neighborhood."
+          },
+          {
+            "stringId": "1611421212710924288",
+            "femaleVariant": "Damn shame. The fresh they serve is sinfully good. Chef must have made a deal with the devil."
+          },
+          {
+            "stringId": "1611422426290843648",
+            "femaleVariant": "So where's this chip hiding, exactly?"
+          },
+          {
+            "stringId": "1611439751249391616",
+            "femaleVariant": "In a suite on the top floor. The room's occupied by Yorinobu Arasaka."
+          },
+          {
+            "stringId": "1612437064163913728",
+            "femaleVariant": "Let's see what's up your sleeve."
+          },
+          {
+            "stringId": "1612475737190297604",
+            "femaleVariant": "Where does Yorinobu keep the Relic?"
+          },
+          {
+            "stringId": "1612494579664809984",
+            "femaleVariant": "NetWatch? Something doesn't add up."
+          },
+          {
+            "stringId": "1612498689478750208",
+            "femaleVariant": "Fine, so no Arasaka security on the device 'cause Yorinobu whisked it away in secret. Now, where's he hidin' it?"
+          },
+          {
+            "stringId": "1612502708477620224",
+            "femaleVariant": "And the case is...?"
+          },
+          {
+            "stringId": "1612514914606903300",
+            "femaleVariant": "Risky move with the biochip."
+          },
+          {
+            "stringId": "1612515709209407488",
+            "femaleVariant": "Maybe he's just got a taste for power?"
+          },
+          {
+            "stringId": "1612528632715669504",
+            "femaleVariant": "Could be another power-hungry corpodick. Like so many others.",
+            "maleVariant": "Could just be another power-hungry corpodick. Like so many others."
+          },
+          {
+            "stringId": "1612531778175234048",
+            "femaleVariant": "Hm. Ever tried to imagine what life might be like for an emperor's son?"
+          },
+          {
+            "stringId": "1612533166137536512",
+            "femaleVariant": "You have everything, yet you are no one, nothing. At least as long as you remain in Saburo Arasaka's shadow."
+          },
+          {
+            "stringId": "1612593552018763776",
+            "femaleVariant": "I… sympathize. It's a vulnerability I understand well."
+          },
+          {
+            "stringId": "1612816419901796352",
+            "femaleVariant": "And one you plan to exploit fully."
+          },
+          {
+            "stringId": "1614227769609809920",
+            "femaleVariant": "NetWatch provides net security for all corporations. And collects eddies in the millions for it."
+          },
+          {
+            "stringId": "1614239914854576128",
+            "femaleVariant": "Likely in a specialized container, one that mimics an organic neural environment. On the outside, it looks like an ordinary briefcase."
+          },
+          {
+            "stringId": "1618372624007163904",
+            "femaleVariant": "And if something goes south – got a backup plan?"
+          },
+          {
+            "stringId": "1618375777133916160",
+            "femaleVariant": "Afraid Plan A is all we got. It HAS to work."
+          },
+          {
+            "stringId": "1618567008388509696",
+            "femaleVariant": "Answer the question."
+          },
+          {
+            "stringId": "1618567784116645888",
+            "femaleVariant": "A big tipper. Generous when I get the answers I'm lookin' for."
+          },
+          {
+            "stringId": "1618569698363437056",
+            "femaleVariant": "Have fun, relax, find me once your mood's improved. Serve you a drink, then."
+          },
+          {
+            "stringId": "1618571682218897408",
+            "femaleVariant": "Appreciate the gesture, truly."
+          },
+          {
+            "stringId": "1618573421311553536",
+            "femaleVariant": "But, afraid I don't get paid to talk. Opposite, actually."
+          },
+          {
+            "stringId": "1618579991688769536",
+            "femaleVariant": "Club's big. Gonna have to look around. Can't do it for you."
+          },
+          {
+            "stringId": "1637147179181797376",
+            "femaleVariant": "You'll see for yourself soon enough. Provided we're done gossiping about the Arasakas."
+          },
+          {
+            "stringId": "1639917172638216192",
+            "femaleVariant": "Saburo's had Yori's balls in a vise for years. He might just turn the screw and crush them outright if he learns his son's up to no good again."
+          },
+          {
+            "stringId": "1639917880418627584",
+            "femaleVariant": "Sneeze in Night City and a blossom drops from a cherry tree in Tokyo. Yorinobu was convinced his Arasaka security detail reported directly to his father."
+          },
+          {
+            "stringId": "1639931289440743424",
+            "femaleVariant": "But that's only one side of him. There's another – an intelligent man who has always walked his own path and so has his own designs on the corp."
+          },
+          {
+            "stringId": "1679127720151871488",
+            "femaleVariant": "Mmmhm."
+          },
+          {
+            "stringId": "1679145201507627008",
+            "femaleVariant": "Follow me."
+          },
+          {
+            "stringId": "1679145701871316992",
+            "femaleVariant": "Got somethin' for you. Should help you plan. Braindance from Konpeki Plaza."
+          },
+          {
+            "stringId": "1679149009985990656",
+            "femaleVariant": "How's a braindance supposed to help? Need facts, not thrills."
+          },
+          {
+            "stringId": "1679149187455381504",
+            "femaleVariant": "Think BDs are only good for fondling virtual tits, jackin' off to in those boxes?"
+          },
+          {
+            "stringId": "1679151038166855680",
+            "femaleVariant": "No. They can be a very useful tool. Good for analyzing details human perception, even boosted, doesn't grasp. Exactly what you need."
+          },
+          {
+            "stringId": "1679188187671031808",
+            "femaleVariant": "Supposed to be Yorinobu's pad on the tape. Means you were inside. You, uh, know each other?",
+            "maleVariant": "Supposed to be Yorinobu's pad on the tape. Means you were inside. You know each other?"
+          },
+          {
+            "stringId": "1679188187671031820",
+            "femaleVariant": "How else could I get all this intel? I know him pretty well, actually."
+          },
+          {
+            "stringId": "1679188187671031832",
+            "femaleVariant": "We have an arrangement. Strictly business. Suits us both, I think."
+          },
+          {
+            "stringId": "1705512620357525504",
+            "femaleVariant": "In you go."
+          },
+          {
+            "stringId": "1705512922095755264",
+            "femaleVariant": "I'm waiting."
+          },
+          {
+            "stringId": "1705512976202276864",
+            "femaleVariant": "Heh, V?"
+          },
+          {
+            "stringId": "1721215017030381568",
+            "femaleVariant": "But... in this day and age, everyone's in the game, and no one can afford to be a saint. To win, one has to go all-in."
+          },
+          {
+            "stringId": "1721229910014029824",
+            "femaleVariant": "Yorinobu Arasaka… in Night City? Heh, guess the screamsheets weren't lyin' this time."
+          },
+          {
+            "stringId": "1721230021280526336",
+            "femaleVariant": "Yorinobu Arasaka? He's in town?"
+          },
+          {
+            "stringId": "1721233674334760960",
+            "femaleVariant": "Don't you read the screamsheets? The media couldn't get enough of Yori coming to Night City, it was all over the headlines."
+          },
+          {
+            "stringId": "1721235139623251968",
+            "femaleVariant": "Only a handful of people in Night City know what the Arasakas' real plans are."
+          },
+          {
+            "stringId": "1721235663240163328",
+            "femaleVariant": "Telling me you're one of 'em?"
+          },
+          {
+            "stringId": "1721242107486269440",
+            "femaleVariant": "Anyway, he's heir apparent to the Arasaka empire – Saburo Arasaka's only surviving son."
+          },
+          {
+            "stringId": "1721242702557343744",
+            "femaleVariant": "It's on the lips of everyone in the city. Saburo Arasaka's only surviving son, heir apparent to the Arasaka empire in town? Please."
+          },
+          {
+            "stringId": "1730119903607463936",
+            "femaleVariant": "Mhm. BD rec implant. Why, you object?"
+          },
+          {
+            "stringId": "1731634166587138052",
+            "femaleVariant": "[Drink] Mmm. My tequila of choice."
+          },
+          {
+            "stringId": "1735649404186652676",
+            "femaleVariant": "Let's just talk biz."
+          },
+          {
+            "stringId": "1735650402565222400",
+            "femaleVariant": "The other kind? Elaborate, please."
+          },
+          {
+            "stringId": "1735652097298919460",
+            "femaleVariant": "C'mon, can't leave that hangin'."
+          },
+          {
+            "stringId": "1735652097298919472",
+            "femaleVariant": "Headhunters. They lay their trust elsewhere, not in people but in a thing – their intuition. They bet on potential. And if they lose that bet..."
+          },
+          {
+            "stringId": "1735653302456676352",
+            "femaleVariant": "It's the last mistake they ever make."
+          },
+          {
+            "stringId": "1735654169251540992",
+            "femaleVariant": "I'm hoping Dex's intuition has served him well in this case."
+          },
+          {
+            "stringId": "1735656508817534980",
+            "femaleVariant": "Let's talk business."
+          },
+          {
+            "stringId": "1735656944756715520",
+            "femaleVariant": "Got any doubts, ring Dex."
+          },
+          {
+            "stringId": "1735657405442289712",
+            "femaleVariant": "Shit, buzz Dex right now if you're gettin' cold feet – I can wait."
+          },
+          {
+            "stringId": "1735657405459066880",
+            "femaleVariant": "I doubt he'd add anything I haven't already heard. Anything I would really like to hear, for that matter."
+          },
+          {
+            "stringId": "1735657405459066892",
+            "femaleVariant": "There's only one other bunch that's worse than fixers in that respect – used car salesmen. I'll go with my gut for now."
+          },
+          {
+            "stringId": "1752090779263197184",
+            "femaleVariant": "No. Just think flattery's beneath you. Am I wrong?"
+          },
+          {
+            "stringId": "1752103319007420416",
+            "femaleVariant": "Let's talk biz. I mean, it's nice, but I didn't come here to get my ego stroked."
+          },
+          {
+            "stringId": "1752129291496742912",
+            "femaleVariant": "Arasaka seems to have quite the touch with that hotel chain, but I gotta say, Konpeki in Tokyo's still leagues above the rest."
+          },
+          {
+            "stringId": "1752133372772638720",
+            "femaleVariant": "Japan's staff, heh, the service can't be beat. Singapore, Paris, Washington… all the rest act like charity case cousins by comparison."
+          },
+          {
+            "stringId": "1752140409288024064",
+            "femaleVariant": "Well, it's hard to argue with that, true."
+          },
+          {
+            "stringId": "1752159522697797632",
+            "femaleVariant": "Have you spotted my ace yet or do I need to spell things out?"
+          },
+          {
+            "stringId": "1755995785052942340",
+            "femaleVariant": "Just started working with him."
+          },
+          {
+            "stringId": "1755996059024879616",
+            "femaleVariant": "What, you writing Dex's bio?"
+          },
+          {
+            "stringId": "1755996235789627392",
+            "femaleVariant": "Let's get down to biz."
+          },
+          {
+            "stringId": "1791001898382913536",
+            "femaleVariant": "Don't know him well. Haven't worked together long."
+          },
+          {
+            "stringId": "1791002879178960896",
+            "femaleVariant": "No idea if Dex exaggerates. A little, a lot – you got me.",
+            "maleVariant": "No idea if Dex exaggerates. A little, a lot – ya got me."
+          },
+          {
+            "stringId": "1824330029781102608",
+            "femaleVariant": "Who's asking?"
+          },
+          {
+            "stringId": "1915465624640417792",
+            "femaleVariant": "Relax. Believe it or not, I'm no stranger to tact, in biz or life.",
+            "maleVariant": "Relax. Believe it or not, I'm no stranger to tact. In biz or life."
+          },
+          {
+            "stringId": "1915595084182188032",
+            "femaleVariant": "We're tangling with Arasaka. Makin' this heist one dangerous, risky motherfucker."
+          },
+          {
+            "stringId": "1915604655013490688",
+            "femaleVariant": "So what's Yorinobu slated to get in return?"
+          },
+          {
+            "stringId": "1915605087328792576",
+            "femaleVariant": "So what's Yorinobu due to walk away with?"
+          },
+          {
+            "stringId": "1915605088754855936",
+            "femaleVariant": "Unimportant. You focus on the biochip."
+          },
+          {
+            "stringId": "1915605090164142080",
+            "femaleVariant": "What could cyberspace's watchers and protectors offer him? Intelligence on his enemies?"
+          },
+          {
+            "stringId": "1915605091539873792",
+            "femaleVariant": "That doesn't matter in the least. Because you'll make sure the transaction never happens, and I get the chip."
+          },
+          {
+            "stringId": "1964563205055967232",
+            "femaleVariant": "Nope, don't buy it. NetWatch's integrity rests on their neutrality. Why would they tarnish their rep by procuring stolen goods?"
+          },
+          {
+            "stringId": "1964564055946031104",
+            "femaleVariant": "Wait – neutral NetWatch is mixed up in this?"
+          },
+          {
+            "stringId": "1964595848703242244",
+            "femaleVariant": "So you know Yorinobu personally?"
+          },
+          {
+            "stringId": "1964604602299576320",
+            "femaleVariant": "No, no objections."
+          },
+          {
+            "stringId": "1964609328105779200",
+            "femaleVariant": "No, not at all."
+          },
+          {
+            "stringId": "1964647565276868608",
+            "femaleVariant": "Could it be? Emperor's prepared to cede his throne after a hundred and fifty years? Doubt it."
+          },
+          {
+            "stringId": "1964648037974929408",
+            "femaleVariant": "What, so Arasaka Junior's plannin' to grab the reins while in Night City?"
+          },
+          {
+            "stringId": "1964652421811138560",
+            "femaleVariant": "Even so... it's still Yorinobu-fucking-Arasaka."
+          },
+          {
+            "stringId": "1964667684279414784",
+            "femaleVariant": "Heard a few things about Yorinobu."
+          },
+          {
+            "stringId": "1964674574782689280",
+            "femaleVariant": "Heard a bit about Yorinobu. Studied finance and biotech in Tokyo, prolly to please his father."
+          },
+          {
+            "stringId": "1964677213067014144",
+            "femaleVariant": "Mhm. Saburo was grooming him to be his successor."
+          },
+          {
+            "stringId": "1964677666706157568",
+            "femaleVariant": "But then Yorinobu cut himself off from the corp. Joined the Steel Dragons, nomads from Tokyo. Heard they were plannin' an Arasaka coup, or its downfall.",
+            "maleVariant": "But then Yorinobu cut himself off from the corp. Joined the Steel Dragons, nomads from Tokyo. Heard they were planning an Arasaka coup, or its downfall."
+          },
+          {
+            "stringId": "1964683738816835584",
+            "femaleVariant": "Mhh. That flash of youthful rebellion ended like it usually does – Yorinobu returned to the fold, but... the bitter taste remained."
+          },
+          {
+            "stringId": "1964693455962238976",
+            "femaleVariant": "You know your stuff. But that's only one side of him. There's another – an intelligent man who has his own designs on the corp."
+          }
+        ]
+      }
+
+
+

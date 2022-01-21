@@ -1,0 +1,593 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1660580220269064192",
+            "femaleVariant": "So? We goin' in?"
+          },
+          {
+            "stringId": "1660648652486307840",
+            "femaleVariant": "Sounds sensible. Better get comfy."
+          },
+          {
+            "stringId": "1660663118875684868",
+            "femaleVariant": "Let's just drop it."
+          },
+          {
+            "stringId": "1660663443900690432",
+            "femaleVariant": "Peeps on the streets hate the corps."
+          },
+          {
+            "stringId": "1660706242226384896",
+            "femaleVariant": "[Stand] I'm getting worse..."
+          },
+          {
+            "stringId": "1685252933890883584",
+            "femaleVariant": "I think it is time to do something, hm?"
+          },
+          {
+            "stringId": "1712936061744726016",
+            "femaleVariant": "I wish to be certain we have not overlooked anything."
+          },
+          {
+            "stringId": "1713036092657123328",
+            "femaleVariant": "We should wait and observe."
+          },
+          {
+            "stringId": "1766413117334360064",
+            "femaleVariant": "The bakeneko got sick of us, looks like."
+          },
+          {
+            "stringId": "1773573723300696064",
+            "femaleVariant": "V?"
+          },
+          {
+            "stringId": "1773576740515221504",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1773577106929618944",
+            "femaleVariant": "Gulp. No sudden movements."
+          },
+          {
+            "stringId": "1773610744643719168",
+            "femaleVariant": "Do you see it?"
+          },
+          {
+            "stringId": "1773611061783433216",
+            "femaleVariant": "The cat."
+          },
+          {
+            "stringId": "1773616136740278276",
+            "femaleVariant": "Thought they'd all disappeared from the city."
+          },
+          {
+            "stringId": "1773618395104546816",
+            "femaleVariant": "So? Just some stray."
+          },
+          {
+            "stringId": "1773620770053689344",
+            "femaleVariant": "Fine-lookin' feline. Thought they'd all disappeared from the city."
+          },
+          {
+            "stringId": "1773620979282350080",
+            "femaleVariant": "So? Cat like any other.",
+            "maleVariant": "So? It's a cat like any other."
+          },
+          {
+            "stringId": "1781989202595811328",
+            "femaleVariant": "You already forget what happened at Tom's Diner? People hate corps more'n anything.",
+            "maleVariant": "You already forget what happened at Tom's Diner? People hate corps more than anything."
+          },
+          {
+            "stringId": "1781998416022081536",
+            "femaleVariant": "Tired of bickerin'. Let's just drop it."
+          },
+          {
+            "stringId": "1782006745440063488",
+            "femaleVariant": "You got no idea how I feel."
+          },
+          {
+            "stringId": "1782006745456840704",
+            "femaleVariant": "Huh, finally starting to make some sense."
+          },
+          {
+            "stringId": "1782126000508637184",
+            "femaleVariant": "Sometimes I wish to become a nomad. To leave this world, forget everything."
+          },
+          {
+            "stringId": "1782227335463702528",
+            "femaleVariant": "Finally startin' to make some sense."
+          },
+          {
+            "stringId": "1783526439892422656",
+            "femaleVariant": "It will find its own way."
+          },
+          {
+            "stringId": "1834479571673419776",
+            "femaleVariant": "Hmph. Is this what you said before entering Konpeki Plaza?"
+          },
+          {
+            "stringId": "1995380886478856192",
+            "femaleVariant": "As will we."
+          },
+          {
+            "stringId": "2004085483342995456",
+            "femaleVariant": "If nothing out of the ordinary happens, then yes – \"We goin' in!\""
+          },
+          {
+            "stringId": "2011525265438351360",
+            "femaleVariant": "About Jack? What is it?"
+          },
+          {
+            "stringId": "2011526037878153216",
+            "femaleVariant": "When I set out to find you, others went to find Jackie. They took his body."
+          },
+          {
+            "stringId": "2011528585481625600",
+            "femaleVariant": "For the life of me, can't figure why. So his mom couldn't give him a proper sendoff?"
+          },
+          {
+            "stringId": "2011529065544884224",
+            "femaleVariant": "Arasaka has a method... for pulling information from the dead."
+          },
+          {
+            "stringId": "2011533238558597120",
+            "femaleVariant": "What're you talkin' about?"
+          },
+          {
+            "stringId": "2011533889380360192",
+            "femaleVariant": "Don't ask for details, I understand little. I know they use the Soulkiller program to do so."
+          },
+          {
+            "stringId": "2011535192231845888",
+            "femaleVariant": "They can pull an engram from Welles' body. Damaged, incomplete, but still an engram."
+          },
+          {
+            "stringId": "2011536939394342912",
+            "femaleVariant": "That's bullshit."
+          },
+          {
+            "stringId": "2011537798622683136",
+            "femaleVariant": "Don't believe it. Pure bullshit."
+          },
+          {
+            "stringId": "2011538012012093440",
+            "femaleVariant": "You survived your death. Is this also \"bullshit?\""
+          },
+          {
+            "stringId": "2011541966066360320",
+            "femaleVariant": "Where are they holding it?"
+          },
+          {
+            "stringId": "2011543650851168268",
+            "femaleVariant": "Jackie's psyche – where're are they keepin' it?"
+          },
+          {
+            "stringId": "2011543650867945472",
+            "femaleVariant": "This I do not know."
+          },
+          {
+            "stringId": "2011590749345095684",
+            "femaleVariant": "Slavin' away for a corp's not for everybody."
+          },
+          {
+            "stringId": "2011592214935576576",
+            "femaleVariant": "Slavin' away for a corp – not exactly everybody's dream."
+          },
+          {
+            "stringId": "2011650300626935808",
+            "femaleVariant": "Why'm I only hearin' this now?"
+          },
+          {
+            "stringId": "2011650478331207680",
+            "femaleVariant": "I did not know I could trust you. The circumstances have changed."
+          },
+          {
+            "stringId": "2011659115879538688",
+            "femaleVariant": "I'm not judging you."
+          },
+          {
+            "stringId": "2012789124660797440",
+            "femaleVariant": "Never too late to change."
+          },
+          {
+            "stringId": "2012797710417862656",
+            "femaleVariant": "Do you know what I think?"
+          },
+          {
+            "stringId": "2012798393686761472",
+            "femaleVariant": "That day in Konpeki, we both have lost someone important."
+          },
+          {
+            "stringId": "2012803108906541056",
+            "femaleVariant": "Don't be smart, got no idea what I feel."
+          },
+          {
+            "stringId": "2012842009868181504",
+            "femaleVariant": "Wasn't judging you."
+          },
+          {
+            "stringId": "2012842998499188736",
+            "femaleVariant": "And we are not at peace with this, so we seek conflict, argue eagerly."
+          },
+          {
+            "stringId": "2012863072589127680",
+            "femaleVariant": "There is one thing you should know... It is about Mr. Welles…"
+          },
+          {
+            "stringId": "2012865370732175360",
+            "femaleVariant": "It is the duty of the living to atone for the dead."
+          },
+          {
+            "stringId": "2012865911679950848",
+            "femaleVariant": "Hanako-sama shall aid us in our mission."
+          },
+          {
+            "stringId": "2012871354477256704",
+            "femaleVariant": "Or she'll make sure we die for good."
+          },
+          {
+            "stringId": "2014141091161120768",
+            "femaleVariant": "Never too late."
+          },
+          {
+            "stringId": "2014141091161120784",
+            "femaleVariant": "Pff. Nomads aren't anythin' like that."
+          },
+          {
+            "stringId": "2014151271038918656",
+            "femaleVariant": "And you know what? Nobody owns me. I'm free. You should try it."
+          },
+          {
+            "stringId": "2014153015047299080",
+            "femaleVariant": "Nomads aren't lone wolves with egos. Whether they're blood or not – family comes first."
+          },
+          {
+            "stringId": "2027094611174694912",
+            "femaleVariant": "I sense that you judge me. And yet you have no right to."
+          },
+          {
+            "stringId": "2027271725811310592",
+            "femaleVariant": "Unlike you and your friend Mr. Welles, I was not arrogant, I did not take the easy path."
+          },
+          {
+            "stringId": "2027328329168527360",
+            "femaleVariant": "Sayin' you got no dirt on your hands?"
+          },
+          {
+            "stringId": "2027344169242796032",
+            "femaleVariant": "You forgetting I worked for Arasaka?"
+          },
+          {
+            "stringId": "2027345135761432576",
+            "femaleVariant": "Forgetting I was at Arasaka? Saw how corps operate – wasn't roses and rainbows."
+          },
+          {
+            "stringId": "2028753201010647040",
+            "femaleVariant": "Untrue. You oppose the corporations, their order, their world, in a mindless way, yet you offer no worthy alternative."
+          },
+          {
+            "stringId": "2028753325598253056",
+            "femaleVariant": "You show me filthy streets as if no other world exists, as if nothing else is possible. What of the millions who work for Arasaka and receive stability, safety?"
+          },
+          {
+            "stringId": "2028753422889328640",
+            "femaleVariant": "And Chiba-11's slumrats? They're there, scraping scraps out of scoptins… Corps decided that, too."
+          },
+          {
+            "stringId": "2028753779824599040",
+            "femaleVariant": "Corporations need capital and resources to keep all in order. Who else is to rule? Corrupt governments? The masses – attached to feeders?"
+          },
+          {
+            "stringId": "2028756566268518400",
+            "femaleVariant": "Cynics, nihilists – like you?"
+          },
+          {
+            "stringId": "2028829904076611644",
+            "femaleVariant": "Sayin' you got no dirt on your hands?"
+          },
+          {
+            "stringId": "2028829904093388804",
+            "femaleVariant": "There are no clean hands. But it is important how they become dirty."
+          },
+          {
+            "stringId": "2028829904093388816",
+            "femaleVariant": "So spill – how'd you sully yours?"
+          },
+          {
+            "stringId": "2028829904093388832",
+            "femaleVariant": "Arasaka gave me what no one else could – values I could honor, live for. This was most important."
+          },
+          {
+            "stringId": "2037552193874714628",
+            "femaleVariant": "Believe in ghosts?"
+          },
+          {
+            "stringId": "2037552315492753408",
+            "femaleVariant": "It is the first animal I see in Night City. Except cockroaches, of course."
+          },
+          {
+            "stringId": "2037553994506199040",
+            "femaleVariant": "Perhaps it is a bakeneko?"
+          },
+          {
+            "stringId": "2037556175863046144",
+            "femaleVariant": "Nope, just a cat."
+          },
+          {
+            "stringId": "2037556515953991680",
+            "femaleVariant": "Who knows – could be."
+          },
+          {
+            "stringId": "2037557230009081856",
+            "femaleVariant": "Bakeneko?"
+          },
+          {
+            "stringId": "2037560996309524480",
+            "femaleVariant": "A \"bakeneko?\" What's that?"
+          },
+          {
+            "stringId": "2037591566460674048",
+            "femaleVariant": "First it was birds, then dogs – cats actually put up a fight longest."
+          },
+          {
+            "stringId": "2037592256893444096",
+            "femaleVariant": "Believe in ghosts?"
+          },
+          {
+            "stringId": "2037592348111167488",
+            "femaleVariant": "Chill. Just a cat."
+          },
+          {
+            "stringId": "2037592462934433792",
+            "femaleVariant": "Feline ghost? Ah, suppose anything's possible.",
+            "maleVariant": "Feline ghost? Suppose anything's possible."
+          },
+          {
+            "stringId": "2037592901155315712",
+            "femaleVariant": "It is a cat spirit – it brings misfortune, can restore the dead back to life."
+          },
+          {
+            "stringId": "2037593750485098496",
+            "femaleVariant": "The Relic lets you talk to the dead, does it not? I believe we are past belief."
+          },
+          {
+            "stringId": "2037597760625598464",
+            "femaleVariant": "Perhaps. Perhaps not."
+          },
+          {
+            "stringId": "2037598986318667776",
+            "femaleVariant": "My grandmother knew many, many stories about kitsune, kappa – bakeneko, too."
+          },
+          {
+            "stringId": "2037662730830766084",
+            "femaleVariant": "Miss home?"
+          },
+          {
+            "stringId": "2037662935026262016",
+            "femaleVariant": "Where'd you grow up?"
+          },
+          {
+            "stringId": "2037663511004864512",
+            "femaleVariant": "Miss home?"
+          },
+          {
+            "stringId": "2037663612238585856",
+            "femaleVariant": "Where'd you grow up, anyway?"
+          },
+          {
+            "stringId": "2037664110236688384",
+            "femaleVariant": "A foolish question."
+          },
+          {
+            "stringId": "2037667150620549120",
+            "femaleVariant": "I am from the slums of Chiba-11. Once, when I was desperate to leave there, I…"
+          },
+          {
+            "stringId": "2037668020301094912",
+            "femaleVariant": "Egh, bad memories washed away by time. I long only for the simple days of childhood."
+          },
+          {
+            "stringId": "2037674193964261380",
+            "femaleVariant": "Remember when I was a kid…"
+          },
+          {
+            "stringId": "2037676335475220480",
+            "femaleVariant": "What was it like – growin' up in Chiba-11?"
+          },
+          {
+            "stringId": "2037678352398573568",
+            "femaleVariant": "Remember when I was a kid…"
+          },
+          {
+            "stringId": "2037678438029484032",
+            "femaleVariant": "Remember when I was a kid…"
+          },
+          {
+            "stringId": "2037678479905415168",
+            "femaleVariant": "Growin' up in Chiba-11 – what was it like?"
+          },
+          {
+            "stringId": "2037678690996346880",
+            "femaleVariant": "My childhood, let's see... Nights spent lookin' for a star – any star… All dimmed by city lights."
+          },
+          {
+            "stringId": "2037678826002604032",
+            "femaleVariant": "My childhood, let's see... Racin' my bobber for the first time through the hills..."
+          },
+          {
+            "stringId": "2037678927236325376",
+            "femaleVariant": "Childhood memories, let's see... Hoppin' buildings, runnin' away from badges."
+          },
+          {
+            "stringId": "2037681769363824640",
+            "femaleVariant": "Silent lullabies sung by the flickering neon signs of Charter Hill…"
+          },
+          {
+            "stringId": "2037682901708464128",
+            "femaleVariant": "I remember the chemical stench of the canal where we boys washed our shirts."
+          },
+          {
+            "stringId": "2037684037609873408",
+            "femaleVariant": "Oh, and uh, first kiss in the middle of a synth-cornfield…"
+          },
+          {
+            "stringId": "2037712798942257152",
+            "femaleVariant": "Iron taste of blood from a split lip…"
+          },
+          {
+            "stringId": "2037716317610991616",
+            "femaleVariant": "Corporate transporters sometimes passed through our slum. Arasaka selecting children – but only the clean ones."
+          },
+          {
+            "stringId": "2037718816208216068",
+            "femaleVariant": "What'd they need kids for?"
+          },
+          {
+            "stringId": "2037722349389242368",
+            "femaleVariant": "They recruit you for military service?"
+          },
+          {
+            "stringId": "2037724143595053056",
+            "femaleVariant": "Military transporters? For a slum?"
+          },
+          {
+            "stringId": "2037728344375058432",
+            "femaleVariant": "What'd they need kids for?"
+          },
+          {
+            "stringId": "2037728462352441344",
+            "femaleVariant": "Lemme guess – so they could turn 'em into corposoldiers?"
+          },
+          {
+            "stringId": "2037728563552608256",
+            "femaleVariant": "Transporters, you say."
+          },
+          {
+            "stringId": "2037729001236619264",
+            "femaleVariant": "To be corporate soldiers."
+          },
+          {
+            "stringId": "2037732564968955904",
+            "femaleVariant": "Exactly."
+          },
+          {
+            "stringId": "2037734752181051392",
+            "femaleVariant": "Armored and armed. Chiba-11 had the most murders in all Japan. It probably still has."
+          },
+          {
+            "stringId": "2037738915312984064",
+            "femaleVariant": "When they chose me, I felt I had won the lottery."
+          },
+          {
+            "stringId": "2037739664583450624",
+            "femaleVariant": "In the army I was given everything I lacked before – discipline, regular meals, and when I proved I was gifted – an education."
+          },
+          {
+            "stringId": "2037752071116578820",
+            "femaleVariant": "All you had to do was kill Arasaka's enemies."
+          },
+          {
+            "stringId": "2037752510344093696",
+            "femaleVariant": "Anything's good that puts food on the table."
+          },
+          {
+            "stringId": "2037760146359738368",
+            "femaleVariant": "And all you had to do in return was kill Saburo's enemies."
+          },
+          {
+            "stringId": "2037760284654329856",
+            "femaleVariant": "Did what you had to to keep from goin' hungry."
+          },
+          {
+            "stringId": "2038667239627448320",
+            "femaleVariant": "You dirty your hands for money. I, in the name of principles."
+          },
+          {
+            "stringId": "2038761262937563136",
+            "femaleVariant": "Take a look around. It's here – your corporate world in its glorious splendor."
+          },
+          {
+            "stringId": "2038850407584260096",
+            "femaleVariant": "C'mon, not everybody wants to change the world."
+          },
+          {
+            "stringId": "2038850835201941504",
+            "femaleVariant": "Sadly, this is true."
+          },
+          {
+            "stringId": "2038902374692052992",
+            "femaleVariant": "We cannot fix everything at once."
+          },
+          {
+            "stringId": "2038909518833278976",
+            "femaleVariant": "Can't blame 'em, either. Got some regrets, but kleppin' from Arasaka ain't one of 'em."
+          },
+          {
+            "stringId": "2038955482348544000",
+            "femaleVariant": "What's that?"
+          },
+          {
+            "stringId": "2039085712031637504",
+            "femaleVariant": "Motherfuckers… evil."
+          },
+          {
+            "stringId": "2039190069821595648",
+            "femaleVariant": "How'd you come to be Saburo's bodyguard?"
+          },
+          {
+            "stringId": "2039190468012040192",
+            "femaleVariant": "So how's a corpo rookie go from cleanin' latrines to bein' Saburo Arasaka's bodyguard?"
+          },
+          {
+            "stringId": "2039206057887686656",
+            "femaleVariant": "The highest grades at the academy, service in the special forces, and Arasaka-sama's unmatched eye for talent."
+          },
+          {
+            "stringId": "2039207152282263552",
+            "femaleVariant": "You're not sayin' Saburo fell for you at first sight."
+          },
+          {
+            "stringId": "2039207538024013824",
+            "femaleVariant": "To make the right decisions with imperfect knowledge... that is how you become the world's most powerful man."
+          },
+          {
+            "stringId": "2039213022982463488",
+            "femaleVariant": "One hundred candidates standing at attention... and Arasaka-sama looked into each of our souls and chose the one who would serve him best."
+          },
+          {
+            "stringId": "2039228135160438784",
+            "femaleVariant": "Ah yes, because thieving is so much more honorable…"
+          },
+          {
+            "stringId": "2039230187064287232",
+            "femaleVariant": "Least I'm not fleecin' this planet and its people in the name of profit-margins!"
+          },
+          {
+            "stringId": "2043488478191706112",
+            "femaleVariant": "What is your expression... \"One cannot teach an old dog new tricks.\""
+          },
+          {
+            "stringId": "2043489346311970816",
+            "femaleVariant": "Yes. But we need not quibble over details."
+          }
+        ]
+      }
+
+
+

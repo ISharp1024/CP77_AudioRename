@@ -1,0 +1,483 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1728443389846540288",
+            "femaleVariant": "Worry not, unwashed masses! Our wondrous lives in Night City won't change much – but when do they ever?"
+          },
+          {
+            "stringId": "1729941983879548928",
+            "femaleVariant": "Let's get outta here."
+          },
+          {
+            "stringId": "1819750276658753536",
+            "femaleVariant": "Heh, look at the city. Somewhere in there those bastards from Arasaka are wondering how they lost everything."
+          },
+          {
+            "stringId": "1819750930768850948",
+            "femaleVariant": "They'll never find us."
+          },
+          {
+            "stringId": "1819755232631582720",
+            "femaleVariant": "Nothing left for me here."
+          },
+          {
+            "stringId": "1819757396741451776",
+            "femaleVariant": "Used to think of it as my city. Bonded together – I owned it, it owned me... Nothing to keep me there now, though."
+          },
+          {
+            "stringId": "1819758924038533124",
+            "femaleVariant": "It's nothing."
+          },
+          {
+            "stringId": "1821102462655393792",
+            "femaleVariant": "Glad we wound up here together."
+          },
+          {
+            "stringId": "1821102816704983040",
+            "femaleVariant": "Can't be certain I'd have left if not for you."
+          },
+          {
+            "stringId": "1821261074673561600",
+            "femaleVariant": "Panam, after Mikoshi, everything there... I'm glad we made it... here... together."
+          },
+          {
+            "stringId": "1821261155522965504",
+            "femaleVariant": "Gotta say, I didn't expect things to end this way.",
+            "maleVariant": "Gotta say, didn't expect things to end this way."
+          },
+          {
+            "stringId": "1821288328405315584",
+            "femaleVariant": "What I'm looking for, it's just not there."
+          },
+          {
+            "stringId": "1821289883720347648",
+            "femaleVariant": "I'll take care of this, figure it out, you'll see."
+          },
+          {
+            "stringId": "1821293285938425856",
+            "femaleVariant": "What's our plan? Everything set?"
+          },
+          {
+            "stringId": "1821315293166301184",
+            "femaleVariant": "Just a little blood, Panam. It's nothin'."
+          },
+          {
+            "stringId": "1821315424531902464",
+            "femaleVariant": "Gonna figure this out, Panam."
+          },
+          {
+            "stringId": "1821315495365308416",
+            "femaleVariant": "Don't worry about it, I'm fine. What's the plan?"
+          },
+          {
+            "stringId": "1821317656069402624",
+            "femaleVariant": "It's just not there, what I'm lookin' for."
+          },
+          {
+            "stringId": "1821338807072059392",
+            "femaleVariant": "And if I changed my mind? Would you stay with me?"
+          },
+          {
+            "stringId": "1823962001582977024",
+            "femaleVariant": "This dam… remember it well. Our beginnings."
+          },
+          {
+            "stringId": "1823962068926722048",
+            "femaleVariant": "Why'd you wanna meet here? For the view, or you turnin' sentimental on me?"
+          },
+          {
+            "stringId": "1823964772424085504",
+            "femaleVariant": "I did not know what to make of you then."
+          },
+          {
+            "stringId": "1823970092277952516",
+            "femaleVariant": "Now you do know?"
+          },
+          {
+            "stringId": "1823970308100059136",
+            "femaleVariant": "What'd you think?"
+          },
+          {
+            "stringId": "1823971086512549888",
+            "femaleVariant": "And now you do?"
+          },
+          {
+            "stringId": "1823971160667844608",
+            "femaleVariant": "What did you think of me?",
+            "maleVariant": "What did you make of me?"
+          },
+          {
+            "stringId": "1823974981427130368",
+            "femaleVariant": "You'll not get any tearful confessions out of me."
+          },
+          {
+            "stringId": "1823976411517022208",
+            "femaleVariant": "I wondered if you were anything like me. Carrying within you something damn important to prove to yourself."
+          },
+          {
+            "stringId": "1823989157486784512",
+            "femaleVariant": "I was. We both were. Bet you had no idea we'd end up like this, though."
+          },
+          {
+            "stringId": "1823996367965122560",
+            "femaleVariant": "So you do remember."
+          },
+          {
+            "stringId": "1823996722132152320",
+            "femaleVariant": "I thought of it then as a one-time thing. I would help you, you would help--"
+          },
+          {
+            "stringId": "1824000850132594688",
+            "femaleVariant": "Mhm. Had it in for the Raffens. You were out to get 'em with Mitch's and Scorpion's help."
+          },
+          {
+            "stringId": "1824025763174281216",
+            "femaleVariant": "Should've done this long ago – gotten some perspective... on the city, my life there."
+          },
+          {
+            "stringId": "1824026672482611200",
+            "femaleVariant": "The city of dreams. I'd gladly kick the balls off the idiot who thought that one up."
+          },
+          {
+            "stringId": "1824051103984644096",
+            "femaleVariant": "Uh-huh, Night City. Did you think you would stay forever?"
+          },
+          {
+            "stringId": "1824051180622966784",
+            "femaleVariant": "Mhm. Couple of months ago, no way I'd've said I'd leave NC. Woulda staked my life on it."
+          },
+          {
+            "stringId": "1824055944228237312",
+            "femaleVariant": "Not sure I'da found the courage without you. Thanks."
+          },
+          {
+            "stringId": "1824058002188660736",
+            "femaleVariant": "Bid the city farewell. We won't see it again."
+          },
+          {
+            "stringId": "1824061301797285888",
+            "femaleVariant": "Would you stay with me? If I changed my mind, didn't wanna leave?"
+          },
+          {
+            "stringId": "1824067975555706880",
+            "femaleVariant": "They're my family, V. I can't abandon them. I wouldn't want to. And I'm glad I won't have to choose."
+          },
+          {
+            "stringId": "1824069334359207936",
+            "femaleVariant": "You're coming with us. And then… we will see."
+          },
+          {
+            "stringId": "1824072027454697472",
+            "femaleVariant": "\"Then.\" Maybe we oughta try not livin' for \"thens\" anymore."
+          },
+          {
+            "stringId": "1824075236718014464",
+            "femaleVariant": "I feel the same way. What on earth was I thinking?"
+          },
+          {
+            "stringId": "1824076721853952000",
+            "femaleVariant": "Thought the city would help us see ourselves for who we were. Both of us."
+          },
+          {
+            "stringId": "1824077594000748544",
+            "femaleVariant": "Yes! But damn it, it's like a damned dealer at a damned Kabuki casino. And I went all in, and I lost everything."
+          },
+          {
+            "stringId": "1824078618467889152",
+            "femaleVariant": "Almost everything."
+          },
+          {
+            "stringId": "1824078780082810880",
+            "femaleVariant": "Yes, I suppose you're right. We owe that shithole something."
+          },
+          {
+            "stringId": "1824085990242381824",
+            "femaleVariant": "But we're getting out. At last. Placing our bets on something better, somewhere else."
+          },
+          {
+            "stringId": "1824091433543004160",
+            "femaleVariant": "Do you think we'll ever find it?"
+          },
+          {
+            "stringId": "1824092246650777600",
+            "femaleVariant": "Doubt it. But maybe that's not so bad."
+          },
+          {
+            "stringId": "1824093411291557888",
+            "femaleVariant": "Shit, V. You're bleeding again."
+          },
+          {
+            "stringId": "1824118291013693440",
+            "femaleVariant": "V, promise me. As soon as we arrive down south, we'll go to my contacts. We'll fix… whatever needs fixing."
+          },
+          {
+            "stringId": "1824128143131799552",
+            "femaleVariant": "Let's get outta here."
+          },
+          {
+            "stringId": "1824128470925045760",
+            "femaleVariant": "What about our plan – everything set?"
+          },
+          {
+            "stringId": "1824138317338898432",
+            "femaleVariant": "Vik's drug helps a bit now."
+          },
+          {
+            "stringId": "1824139981739388928",
+            "femaleVariant": "They've pulled some of our folks out of deep, deep cesspits. They'll help, you'll see."
+          },
+          {
+            "stringId": "1824140722101153792",
+            "femaleVariant": "And once we get to where we're goin', we'll try all your contacts."
+          },
+          {
+            "stringId": "1824142063221469184",
+            "femaleVariant": "Good to hear, it really is."
+          },
+          {
+            "stringId": "1824148972095795200",
+            "femaleVariant": "Everything is set. We'll meet our people soon, gather our gear and set off."
+          },
+          {
+            "stringId": "1824179895323455488",
+            "femaleVariant": "Speaking of which, what about our plan?"
+          },
+          {
+            "stringId": "1824185522351370240",
+            "femaleVariant": "Lost everything to that city. Time to take something back."
+          },
+          {
+            "stringId": "1824186323832532992",
+            "femaleVariant": "Quicker I forget the whole damn thing, the better."
+          },
+          {
+            "stringId": "1824191804764450816",
+            "femaleVariant": "This city makes false promises, many of them grand, doesn't it?"
+          },
+          {
+            "stringId": "1824192209028247552",
+            "femaleVariant": "Yeah. See through 'em before you lose everything then you're pretty damn lucky.",
+            "maleVariant": "Mhm. If you see through them before you lose everything, then you're pretty damn lucky."
+          },
+          {
+            "stringId": "1824195502060204032",
+            "femaleVariant": "Perhaps luck's with us, now. Perhaps we're leaving just in time."
+          },
+          {
+            "stringId": "1824195869430902784",
+            "femaleVariant": "Think it is. Think we are. Time to make up for things."
+          },
+          {
+            "stringId": "1824216501933699072",
+            "femaleVariant": "Everything is set and confirmed. We'll meet our people soon, gather our gear and set off."
+          },
+          {
+            "stringId": "1826862296998735872",
+            "femaleVariant": "Good news is, somethin' like a sandstorm this way comes from the south. Weather guy says it stands to be the biggest in years. Should be a sight to behold."
+          },
+          {
+            "stringId": "1844374039480102912",
+            "femaleVariant": "It wouldn't be tearful. I know you.",
+            "maleVariant": "Eh, it wouldn't be tearful. I know you."
+          },
+          {
+            "stringId": "1844377565849579520",
+            "femaleVariant": "What I think of you now matters not at all."
+          },
+          {
+            "stringId": "1844383986741800960",
+            "femaleVariant": "Tomorrow we will be elsewhere. We'll start everything anew, you and I. Ask me then."
+          },
+          {
+            "stringId": "1844384800906539008",
+            "femaleVariant": "Can't hardly wait. Get ready, Arizona, here we come!"
+          },
+          {
+            "stringId": "1844401336547405824",
+            "femaleVariant": "A wager I'd have lost if I'd taken it."
+          },
+          {
+            "stringId": "1844405794320805888",
+            "femaleVariant": "And that we're leavin'... together."
+          },
+          {
+            "stringId": "1844410619129360384",
+            "femaleVariant": "Oh, stop… And you'd best say your goodbye to this view. You won't see the city again."
+          },
+          {
+            "stringId": "1844415640835321856",
+            "femaleVariant": "If Night City taught me anything, it's to beware of your dreams. 'Cause somehow they always find a way to come back and bite you in the ass."
+          },
+          {
+            "stringId": "1844424243201830912",
+            "femaleVariant": "Yes, the road could be hard. But as long as we don't fuck up, we should cross the border in a matter of hours."
+          },
+          {
+            "stringId": "1845989278852182016",
+            "femaleVariant": "Fuck. No, no, that's a lie."
+          },
+          {
+            "stringId": "1845989844680568832",
+            "femaleVariant": "If they'd agreed, you'd've told me to fuck off then and there."
+          },
+          {
+            "stringId": "1845992888503758848",
+            "femaleVariant": "Yes, the road could be hard. But as long as we don't fuck up, we should cross the border in a matter of hours."
+          },
+          {
+            "stringId": "1863110459220684800",
+            "femaleVariant": "Do you mean Mikoshi?"
+          },
+          {
+            "stringId": "1863164338813661184",
+            "femaleVariant": "We live 'midst dust and chrome, and 'midst dust and chrome we shall all die. Now for some good news and some bad news."
+          },
+          {
+            "stringId": "1863164766431342592",
+            "femaleVariant": "Bad news? Damn storm won't reach Night City. So seems we'll all live to see another day after all. Drat."
+          },
+          {
+            "stringId": "1863172809663574016",
+            "femaleVariant": "Won't lose me. I promise."
+          },
+          {
+            "stringId": "1863173418055757824",
+            "femaleVariant": "Don't worry about a thing. Let’s ride."
+          },
+          {
+            "stringId": "1863173574822064128",
+            "femaleVariant": "Won't lose me, Panam. I promise. Bet you'll have enough of me yet."
+          },
+          {
+            "stringId": "1863174641165135872",
+            "femaleVariant": "Saul, once... do you know what he told me?"
+          },
+          {
+            "stringId": "1863176122928852992",
+            "femaleVariant": "That anyone is truly free just once – when they know they have nothing to lose."
+          },
+          {
+            "stringId": "1863176798044024832",
+            "femaleVariant": "Exactly. Next months – that's us. Got nothin' to lose and that's how we live."
+          },
+          {
+            "stringId": "1863179402539036672",
+            "femaleVariant": "Don't worry about a thing."
+          },
+          {
+            "stringId": "1873474347798560772",
+            "femaleVariant": "[Lean] I remember this place."
+          },
+          {
+            "stringId": "1885064133618561024",
+            "femaleVariant": "Sure. But, V?"
+          },
+          {
+            "stringId": "1885064306876870656",
+            "femaleVariant": "Get a good look at the city, one last time. If you need to, I mean. I'll wait in the car."
+          },
+          {
+            "stringId": "1892365115627864064",
+            "femaleVariant": "Well, Night City – good night and good luck."
+          },
+          {
+            "stringId": "2005251672978878468",
+            "femaleVariant": "[Step away] Later, Night City."
+          },
+          {
+            "stringId": "2005255153781436416",
+            "femaleVariant": "Yet here we are, on the road…"
+          },
+          {
+            "stringId": "2038876037568724992",
+            "femaleVariant": "[Get out]"
+          },
+          {
+            "stringId": "2302277847194202112",
+            "femaleVariant": "Doe'n't matter, don't think. We'll forget it all tanning our backsides in the Arizona sun."
+          },
+          {
+            "stringId": "2302280138928353280",
+            "femaleVariant": "Heh, truer words I've never heard... Night City chewed us up good, didn't it?"
+          },
+          {
+            "stringId": "2302285482672975872",
+            "femaleVariant": "Time and perspective – need a bit of both."
+          },
+          {
+            "stringId": "2302289993730813952",
+            "femaleVariant": "Oh, stop."
+          },
+          {
+            "stringId": "2302295674965913600",
+            "femaleVariant": "They'll figure it out one day. But we'll be long gone."
+          },
+          {
+            "stringId": "2302297894893580292",
+            "femaleVariant": "They'll never find us. Can promise you that."
+          },
+          {
+            "stringId": "2302297895078129664",
+            "femaleVariant": "I know. Perhaps that's why I need a good long look. One day, this view will be a happy memory."
+          },
+          {
+            "stringId": "2302297895229124608",
+            "femaleVariant": "About to turn on your heel, never see the city again. I think that makes you happy right now.",
+            "maleVariant": "About to turn on your heel, never to see the city again. I think that makes you happy right now."
+          },
+          {
+            "stringId": "2302297895413673984",
+            "femaleVariant": "And you? Ready? Do you feel the road beckoning? It's possibly your last glance at those buildings."
+          },
+          {
+            "stringId": "2302316609861251076",
+            "femaleVariant": "I promise."
+          },
+          {
+            "stringId": "2302317016205422592",
+            "femaleVariant": "Let's get going."
+          },
+          {
+            "stringId": "2302318451009712128",
+            "femaleVariant": "I solemnly swear. We make a run for Arizona, set up there, then scour the land for a fix for my head."
+          },
+          {
+            "stringId": "2302320860050157568",
+            "femaleVariant": "C'mon, got a border to cross. Shouldn't waste any more time."
+          },
+          {
+            "stringId": "2302323544119504896",
+            "femaleVariant": "Simple enough? I'd say so."
+          },
+          {
+            "stringId": "2302325911451791360",
+            "femaleVariant": "It's a good plan, V... Hmm, do you know what Saul once told me?"
+          },
+          {
+            "stringId": "2302336438315970560",
+            "femaleVariant": "Up in smoke, with damage valued in excess of the annual budget of many a small country. Serves you right, 'Saka! How's it feel to be on your knees, huh? Hihi!"
+          },
+          {
+            "stringId": "2321646029733392388",
+            "femaleVariant": "[Get in]"
+          }
+        ]
+      }
+
+
+

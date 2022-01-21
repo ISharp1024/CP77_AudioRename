@@ -1,0 +1,204 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1897985373717929988",
+            "femaleVariant": "我想怎么搞你就怎么搞你。"
+          },
+          {
+            "stringId": "1897985373734707204",
+            "femaleVariant": "别忘了在这儿我说了算。"
+          },
+          {
+            "stringId": "1897985373801816068",
+            "femaleVariant": "这是公司的地界。"
+          },
+          {
+            "stringId": "1897985373835370496",
+            "femaleVariant": "这里不允许你进来！走开。"
+          },
+          {
+            "stringId": "1897985373902479364",
+            "femaleVariant": "你把家伙给我收了！"
+          },
+          {
+            "stringId": "1897985373936033796",
+            "femaleVariant": "想让我缴你的械吗？"
+          },
+          {
+            "stringId": "1897985374019919876",
+            "femaleVariant": "信不信我崩了你。"
+          },
+          {
+            "stringId": "1897985374053474304",
+            "femaleVariant": "好好想想这么做的后果。"
+          },
+          {
+            "stringId": "1897985374120583168",
+            "femaleVariant": "不要轻举妄动。"
+          },
+          {
+            "stringId": "1897985374137360388",
+            "femaleVariant": "最好别让我重复一遍。"
+          },
+          {
+            "stringId": "1897985374204469252",
+            "femaleVariant": "嗯？开始启动调查。"
+          },
+          {
+            "stringId": "1897985374321909764",
+            "femaleVariant": "检查区域。"
+          },
+          {
+            "stringId": "1897985374389018628",
+            "femaleVariant": "目前安全。"
+          },
+          {
+            "stringId": "1897985374422573060",
+            "femaleVariant": "安全。"
+          },
+          {
+            "stringId": "1897985374472904708",
+            "femaleVariant": "自己滚出来，我就饶你一条命！"
+          },
+          {
+            "stringId": "1897985374506459140",
+            "femaleVariant": "滚出来！恐怖分子的贱货！"
+          },
+          {
+            "stringId": "1897985374540013572",
+            "femaleVariant": "有人被杀了！"
+          },
+          {
+            "stringId": "1897985374573568004",
+            "femaleVariant": "明白。"
+          },
+          {
+            "stringId": "1897985374640676868",
+            "femaleVariant": "我遭到攻击！"
+          },
+          {
+            "stringId": "1897985374674231300",
+            "femaleVariant": "恐怖分子打过来了！"
+          },
+          {
+            "stringId": "1897985374724562948",
+            "femaleVariant": "啊！去死吧！"
+          },
+          {
+            "stringId": "1897985374758117380",
+            "femaleVariant": "给我上！"
+          },
+          {
+            "stringId": "1897985374791671812",
+            "femaleVariant": "拦住她！",
+            "maleVariant": "拦住他！"
+          },
+          {
+            "stringId": "1897985374842003460",
+            "femaleVariant": "重新组织队伍！"
+          },
+          {
+            "stringId": "1897985374875557888",
+            "femaleVariant": "你们干什么吃的！"
+          },
+          {
+            "stringId": "1897985374925889540",
+            "femaleVariant": "我靠！"
+          },
+          {
+            "stringId": "1897985374942666756",
+            "femaleVariant": "滚！"
+          },
+          {
+            "stringId": "1897985374976221188",
+            "femaleVariant": "谁？"
+          },
+          {
+            "stringId": "1897985375026552836",
+            "femaleVariant": "我没事，真没事…恢复得挺好的…是，新换了一条腿。"
+          },
+          {
+            "stringId": "1897985375060107264",
+            "femaleVariant": "挺好的…嗯…我们换个线人就行了…"
+          },
+          {
+            "stringId": "1897985375127216132",
+            "femaleVariant": "打阵地战！"
+          },
+          {
+            "stringId": "1897985375177547780",
+            "femaleVariant": "好！"
+          },
+          {
+            "stringId": "1897985375211102212",
+            "femaleVariant": "低头！"
+          },
+          {
+            "stringId": "1897985375244656644",
+            "femaleVariant": "好的，你也是！"
+          },
+          {
+            "stringId": "1897985375278211072",
+            "femaleVariant": "不对劲儿。"
+          },
+          {
+            "stringId": "1897985375345319940",
+            "femaleVariant": "我们赶紧搞定。"
+          },
+          {
+            "stringId": "1897985375362097156",
+            "femaleVariant": "来吧。"
+          },
+          {
+            "stringId": "1897985375412428804",
+            "femaleVariant": "去看看情况。"
+          },
+          {
+            "stringId": "1897985375429206020",
+            "femaleVariant": "干她娘的。这是命令！",
+            "maleVariant": "干他娘的。这是命令！"
+          },
+          {
+            "stringId": "1897985375479537668",
+            "femaleVariant": "咳…啊…放…手。"
+          },
+          {
+            "stringId": "1898000307168223232",
+            "femaleVariant": "是让他给活活砍下来的，就算接回去也没用了…妈了个蛋的。"
+          },
+          {
+            "stringId": "1898000825785524224",
+            "femaleVariant": "不是，没动枪。下次就不好说了。"
+          },
+          {
+            "stringId": "1959048887539900416",
+            "femaleVariant": "我说错话了吗…？"
+          },
+          {
+            "stringId": "1959048887590232068",
+            "femaleVariant": "好，刚刚我说到…"
+          },
+          {
+            "stringId": "1959048887607009284",
+            "femaleVariant": "哎…你想啥呢？"
+          }
+        ]
+      }
+
+
+

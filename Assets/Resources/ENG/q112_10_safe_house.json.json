@@ -1,0 +1,479 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1670537923168059396",
+            "femaleVariant": "[Knock once]"
+          },
+          {
+            "stringId": "1670539041772158976",
+            "femaleVariant": "OK. Come inside, quick."
+          },
+          {
+            "stringId": "1670552548320231424",
+            "femaleVariant": "Hanako-sama! V is living proof of the terrible crime your brother committed!"
+          },
+          {
+            "stringId": "1670553047593402368",
+            "femaleVariant": "We can confirm every word she speaks if only you will help her with the Relic.",
+            "maleVariant": "We can confirm every word he speaks if only you will help him with the Relic."
+          },
+          {
+            "stringId": "1670553432932499456",
+            "femaleVariant": "Hanako-sama?"
+          },
+          {
+            "stringId": "1670783052671893508",
+            "femaleVariant": "[Sit] I was there when Saburo died."
+          },
+          {
+            "stringId": "1711081985600786432",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ハナコ様… 彼女が例の人物です\" t=\"Hanako-sama... This is the woman I spoke of.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"jpn\" o=\"ハナコ様… 彼が例の人物です\" t=\"Hanako-sama... This is the man I spoke of.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1711126618515050496",
+            "femaleVariant": "You must be mad to think I will listen to such nonsense."
+          },
+          {
+            "stringId": "1711127514468716548",
+            "femaleVariant": "Got nothing to lose. I'm dyin'."
+          },
+          {
+            "stringId": "1711128146499997696",
+            "femaleVariant": "I am insane – thanks to your Relic."
+          },
+          {
+            "stringId": "1711129711461928960",
+            "femaleVariant": "Hard to believe, I know. But I wanna make you an offer."
+          },
+          {
+            "stringId": "1711131304357924864",
+            "femaleVariant": "Thing is, I'm damned determined and got nothin' to lose."
+          },
+          {
+            "stringId": "1711131385140219904",
+            "femaleVariant": "\"Mad?\" Got no idea, lady."
+          },
+          {
+            "stringId": "1711131482766839808",
+            "femaleVariant": "Look, I know it's a lot to take in, let alone believe."
+          },
+          {
+            "stringId": "1714504976757178368",
+            "femaleVariant": "Lost your fuckin' mind?!"
+          },
+          {
+            "stringId": "1714505163051384832",
+            "femaleVariant": "There is no time to explain. We must meet."
+          },
+          {
+            "stringId": "1714506181881380864",
+            "femaleVariant": "I feared they had caught you."
+          },
+          {
+            "stringId": "1724285845483950080",
+            "femaleVariant": "Yeah... for now!"
+          },
+          {
+            "stringId": "1724288361797914624",
+            "femaleVariant": "An abandoned apartment block on Vine Street. Second floor, number three-zero-three."
+          },
+          {
+            "stringId": "1724297593293246464",
+            "femaleVariant": "V? Are you secure?"
+          },
+          {
+            "stringId": "1724299457560711168",
+            "femaleVariant": "Hurry!"
+          },
+          {
+            "stringId": "1724303905972424708",
+            "femaleVariant": "Gonna tell me what the fuck you were thinking?"
+          },
+          {
+            "stringId": "1731480264486293504",
+            "femaleVariant": "Why? My word mean shit to you?"
+          },
+          {
+            "stringId": "1731481746602332160",
+            "femaleVariant": "Hanako-sama, I apologize on her behalf...",
+            "maleVariant": "Hanako-sama, I apologize on his behalf..."
+          },
+          {
+            "stringId": "1731482286476365824",
+            "femaleVariant": "Oh, shut up, Goro! Was s'posed to be honest. Well, that's what I'm bein'!"
+          },
+          {
+            "stringId": "1731482803734712320",
+            "femaleVariant": "Fine, maybe I am just a two-bit thief... but I'm the two-bit thief that stole that fuckin' Relic off you."
+          },
+          {
+            "stringId": "1731484323599486976",
+            "femaleVariant": "Slotted it in, took a bullet to the brain, died…"
+          },
+          {
+            "stringId": "1731485027705688064",
+            "femaleVariant": "So I got exactly nothin' to lose. But you got lots."
+          },
+          {
+            "stringId": "1731486828655939584",
+            "femaleVariant": "Oh yeah. And now I'm stuck with Johnny fuckin' Silverhand in there, and I'll do anything to get him out.",
+            "maleVariant": "Oh yeah. And now I got Johnny fuckin' Silverhand in there, and I'll do anything to get him out."
+          },
+          {
+            "stringId": "1731486970926731264",
+            "femaleVariant": "You... died?"
+          },
+          {
+            "stringId": "1731495317390364672",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"どうか話を聞いてあげてください\" t=\"Please, listen to what she has to say.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"jpn\" o=\"どうか話を聞いてあげてください\" t=\"Please, listen to what he has to say.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1731498839699755008",
+            "femaleVariant": "Got your prototype Relic jammed in my head.",
+            "maleVariant": "I got your prototype Relic jammed in my head."
+          },
+          {
+            "stringId": "1731499450658852864",
+            "femaleVariant": "By freak coincidence it stopped, then helped me survive, a bullet. Now it's slowly killin' me.",
+            "maleVariant": "By freak coincidence it stopped, then helped me survive, a bullet. But now, it's slowly killin' me."
+          },
+          {
+            "stringId": "1731500272574664704",
+            "femaleVariant": "One of your personality engrams is overwriting itself onto my psyche, and if I don't find a way to stop it... well, it won't end well for me."
+          },
+          {
+            "stringId": "1731526782471770112",
+            "femaleVariant": "[Sit] Your brother is the real murderer."
+          },
+          {
+            "stringId": "1731526904324689920",
+            "femaleVariant": "I'm sorry to be speaking to you under these circumstances."
+          },
+          {
+            "stringId": "1731528127736057856",
+            "femaleVariant": "I was there that night at Konpeki Plaza. I saw Saburo Arasaka die."
+          },
+          {
+            "stringId": "1731528788221497344",
+            "femaleVariant": "I'm sorry that we have to speak under such... circumstances."
+          },
+          {
+            "stringId": "1731528858736136192",
+            "femaleVariant": "Yorinobu's the murderer."
+          },
+          {
+            "stringId": "1731535225572167680",
+            "femaleVariant": "Now're you gonna tell me what the fuck you were thinkin'?!"
+          },
+          {
+            "stringId": "1731535308216733696",
+            "femaleVariant": "All Arasaka's looking for us."
+          },
+          {
+            "stringId": "1731536118136836096",
+            "femaleVariant": "Right about now, Hanako's the most famous missing person in the world…"
+          },
+          {
+            "stringId": "1731536476464615424",
+            "femaleVariant": "I am aware."
+          },
+          {
+            "stringId": "1731536556978475008",
+            "femaleVariant": "So every Arasaka soldier is on our trail."
+          },
+          {
+            "stringId": "1731536987850936320",
+            "femaleVariant": "You are right. Let us not waste any time."
+          },
+          {
+            "stringId": "1731538055049646080",
+            "femaleVariant": "Come."
+          },
+          {
+            "stringId": "1731538519778529280",
+            "femaleVariant": "Tell her the truth about Yorinobu, no embellishment. And state your terms clearly."
+          },
+          {
+            "stringId": "1731545725391474688",
+            "femaleVariant": "She tried to enable her tracker."
+          },
+          {
+            "stringId": "1731545950373941248",
+            "femaleVariant": "I had no choice."
+          },
+          {
+            "stringId": "1731562679003123712",
+            "femaleVariant": "That is the second time today I have heard that."
+          },
+          {
+            "stringId": "1731602204832174080",
+            "femaleVariant": "Also know you're an honorable person, worthy of trust. And that's why I wanna make you an offer."
+          },
+          {
+            "stringId": "1731602376899301376",
+            "femaleVariant": "You? Make me an offer?"
+          },
+          {
+            "stringId": "1731602439931301888",
+            "femaleVariant": "The Relic your brother tried to hawk off to NetWatch is in my head. Right now."
+          },
+          {
+            "stringId": "1731607036267728896",
+            "femaleVariant": "Took a bullet to the brain, but the tech on the chip saved me. Now it's slowly killin' me."
+          },
+          {
+            "stringId": "1731608809820786688",
+            "femaleVariant": "One of your personality constructs, engrams, it's overwriting my psyche."
+          },
+          {
+            "stringId": "1731608989924200448",
+            "femaleVariant": "Gotta stop the process before it's too late. Know you got the means to help me.",
+            "maleVariant": "Gotta stop the process before it's too late. I know you got the means to help me."
+          },
+          {
+            "stringId": "1731614900839387136",
+            "femaleVariant": "See, I got a voice in my head. An engram, one of your personality constructs.",
+            "maleVariant": "Got a voice in my head, see? An engram, one of your personality constructs."
+          },
+          {
+            "stringId": "1731617727749951488",
+            "femaleVariant": "Engram?"
+          },
+          {
+            "stringId": "1731617964241588224",
+            "femaleVariant": "Yeah. I stole the Relic Yorinobu tried to peddle off on NetWatch."
+          },
+          {
+            "stringId": "1731620602693685248",
+            "femaleVariant": "He strangled your father. I saw it with my own eyes."
+          },
+          {
+            "stringId": "1731632438516256768",
+            "femaleVariant": "Perhaps to you she will listen."
+          },
+          {
+            "stringId": "1731650922847539200",
+            "femaleVariant": "He wasn't poisoned. That's a lie your brother made up and spread."
+          },
+          {
+            "stringId": "1731652182883569664",
+            "femaleVariant": "While I was makin' my escape, got a bullet to the brain... Relic saved me.",
+            "maleVariant": "While I was makin' my escape, I got a bullet to the brain... Relic saved me."
+          },
+          {
+            "stringId": "1731653101738135552",
+            "femaleVariant": "Now the damn thing's killin' me. And I gotta stop it.",
+            "maleVariant": "But now the damn thing's killin' me. And I gotta stop it."
+          },
+          {
+            "stringId": "1772156934268260352",
+            "femaleVariant": "I offered her some tea..."
+          },
+          {
+            "stringId": "1772157094272569344",
+            "femaleVariant": "You kidnap Hanako Arasaka and offer her a cup of fuckin' tea?!"
+          },
+          {
+            "stringId": "1772157332911689728",
+            "femaleVariant": "Yes... She respectfully declined."
+          },
+          {
+            "stringId": "1772186550869561344",
+            "femaleVariant": "Yorinobu is the murderer."
+          },
+          {
+            "stringId": "1772206455006302208",
+            "femaleVariant": "My word means nothing to you?"
+          },
+          {
+            "stringId": "1774843468238045184",
+            "femaleVariant": "Argh... Not now!"
+          },
+          {
+            "stringId": "1774902623493701632",
+            "femaleVariant": "Last chance to get the fuck outta here!"
+          },
+          {
+            "stringId": "1774902980512858112",
+            "femaleVariant": "Forget him, guy's toast! 'Less you wanna wind up like him!"
+          },
+          {
+            "stringId": "1774907798509862912",
+            "femaleVariant": "Keep low and eyes three-sixty! They're in the hallway!"
+          },
+          {
+            "stringId": "1775139918641643524",
+            "femaleVariant": "The fuck you doin'? You lost it?! He's beyond any sort of help!"
+          },
+          {
+            "stringId": "1775141232750641152",
+            "femaleVariant": "Takemura! Can't leave him back there!"
+          },
+          {
+            "stringId": "1775148051548094464",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"うおおおおお！\" t=\"Ha, ha, ha, ha, ha!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1775173472251559936",
+            "femaleVariant": "You should not have returned! You will die here with me!"
+          },
+          {
+            "stringId": "1775173889081491456",
+            "femaleVariant": "Thank me later! Need to find a way out now – fast!"
+          },
+          {
+            "stringId": "1780703689993752576",
+            "femaleVariant": "Arasaka – they have found us!"
+          },
+          {
+            "stringId": "1780705812227690496",
+            "femaleVariant": "Did you hear that?"
+          },
+          {
+            "stringId": "1780708445327855616",
+            "femaleVariant": "Go and check."
+          },
+          {
+            "stringId": "1780724354675249152",
+            "femaleVariant": "Ruuuuun!"
+          },
+          {
+            "stringId": "1783641647877275648",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1783643088234823684",
+            "femaleVariant": "Well?"
+          },
+          {
+            "stringId": "1783643091355385860",
+            "femaleVariant": "Go."
+          },
+          {
+            "stringId": "1783720280742510592",
+            "femaleVariant": "Are you mad? Wait!"
+          },
+          {
+            "stringId": "1803755666667552772",
+            "femaleVariant": "[Check hallway]"
+          },
+          {
+            "stringId": "1803770686319181824",
+            "femaleVariant": "Got a bad feeling about this…",
+            "maleVariant": "I got a bad feelin' about this…"
+          },
+          {
+            "stringId": "1803781561360924672",
+            "femaleVariant": "Dammit!"
+          },
+          {
+            "stringId": "1861773876471341056",
+            "femaleVariant": "Where are you?"
+          },
+          {
+            "stringId": "1861905001671892992",
+            "femaleVariant": "There are empty rooms to the right! It's our only chance!"
+          },
+          {
+            "stringId": "1879401451202035712",
+            "femaleVariant": "[Knock three times]"
+          },
+          {
+            "stringId": "1879402549874802688",
+            "femaleVariant": "[Knock four times]"
+          },
+          {
+            "stringId": "1882090646910345216",
+            "femaleVariant": "Knock four times!"
+          },
+          {
+            "stringId": "1885463230638211072",
+            "femaleVariant": "Oh shit..."
+          },
+          {
+            "stringId": "1885464458914971648",
+            "femaleVariant": "Be careful!"
+          },
+          {
+            "stringId": "1885464717904855040",
+            "femaleVariant": "V, stay with me!"
+          },
+          {
+            "stringId": "1885465158071894016",
+            "femaleVariant": "Oof... What the..."
+          },
+          {
+            "stringId": "1885466455504338944",
+            "femaleVariant": "Don't you fuckin' dare float off! Not now!"
+          },
+          {
+            "stringId": "1885466634819223552",
+            "femaleVariant": "C'mon! Gotta get the fuck outta the city!"
+          },
+          {
+            "stringId": "1902548247936569344",
+            "femaleVariant": "Secure the room!"
+          },
+          {
+            "stringId": "1902552545185566720",
+            "femaleVariant": "Yes, sir!"
+          },
+          {
+            "stringId": "1903750080499617792",
+            "femaleVariant": "Sector's clear!"
+          },
+          {
+            "stringId": "1903751055507525632",
+            "femaleVariant": "The hell it is! Sweep it again!"
+          },
+          {
+            "stringId": "1975070597751848964",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1984825670769917952",
+            "femaleVariant": "[Knock again]"
+          },
+          {
+            "stringId": "2003866031066259456",
+            "femaleVariant": "I used a sedative."
+          },
+          {
+            "stringId": "2218783478496206848",
+            "femaleVariant": "On the ground, cunt! Don't move!",
+            "maleVariant": "On the ground, asshole! Don't move!"
+          },
+          {
+            "stringId": "2257598929787265024",
+            "femaleVariant": "We must go different ways! Alone we have a better chance!"
+          },
+          {
+            "stringId": "2257604549919744000",
+            "femaleVariant": "Really?! Think so?!"
+          },
+          {
+            "stringId": "2258996731255824384",
+            "femaleVariant": "Then go! Now!"
+          }
+        ]
+      }
+
+
+

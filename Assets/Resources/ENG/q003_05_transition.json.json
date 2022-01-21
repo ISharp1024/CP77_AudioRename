@@ -1,0 +1,263 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1166370918024331264",
+            "femaleVariant": "What the f--?"
+          },
+          {
+            "stringId": "1166371356949856256",
+            "femaleVariant": "Move!"
+          },
+          {
+            "stringId": "1176894076183318528",
+            "femaleVariant": "You find 'em?!"
+          },
+          {
+            "stringId": "1222488279239823360",
+            "femaleVariant": "Looking now! All exits covered?"
+          },
+          {
+            "stringId": "1222489478458445824",
+            "femaleVariant": "Yeah! And what about Kurt and Tommy?!"
+          },
+          {
+            "stringId": "1222491224614309888",
+            "femaleVariant": "Nah, man... Someone found their bodies."
+          },
+          {
+            "stringId": "1222491451928809472",
+            "femaleVariant": "Motherfuckers... And the boss?"
+          },
+          {
+            "stringId": "1222497728520196096",
+            "femaleVariant": "Tried to raise him, no answer. But you know Royce – prolly wants to take 'em out on his own, fuckin' lone wolf style."
+          },
+          {
+            "stringId": "1267750039982903296",
+            "femaleVariant": "I'll check over here!"
+          },
+          {
+            "stringId": "1693718786106679296",
+            "femaleVariant": "Careful. They could be anywhere."
+          },
+          {
+            "stringId": "1693721938881110016",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Not far now, \" a=\". Exit's close.\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"ese\" b=\"Not far now, \" a=\". Exit's close.\"/>"
+          },
+          {
+            "stringId": "1769758841409069056",
+            "femaleVariant": "Cargo manifests. Stamped LOA."
+          },
+          {
+            "stringId": "1769760716413952000",
+            "femaleVariant": "LOA?"
+          },
+          {
+            "stringId": "1769760846303158272",
+            "femaleVariant": "Lost on arrival. Someone knew they'd slip outta Militech's grip soon as they crossed the border in to the state."
+          },
+          {
+            "stringId": "1771154629947252736",
+            "femaleVariant": "Oh shit, I know this fool! It's Brick!"
+          },
+          {
+            "stringId": "1771155553465884672",
+            "femaleVariant": "Hey, you! Hey, hey! Help me out over here!"
+          },
+          {
+            "stringId": "1771158664834146304",
+            "femaleVariant": "God... Felt like a fuckin' eternity, that."
+          },
+          {
+            "stringId": "1771159410480734208",
+            "femaleVariant": "So you're Brick, yeah?"
+          },
+          {
+            "stringId": "1771159547919687680",
+            "femaleVariant": "I'm Brick."
+          },
+          {
+            "stringId": "1771160050682519552",
+            "femaleVariant": "W-Well, I'm Jackie Welles. And this is V."
+          },
+          {
+            "stringId": "1771161361066975232",
+            "femaleVariant": "Manage here by yourself?"
+          },
+          {
+            "stringId": "1771161612574220288",
+            "femaleVariant": "Sure you'll manage all right?"
+          },
+          {
+            "stringId": "1771162050073681920",
+            "femaleVariant": "This is my home."
+          },
+          {
+            "stringId": "1777817212291051520",
+            "femaleVariant": "Signed by one Anthony Gilchrist. We have our mole, heheh."
+          },
+          {
+            "stringId": "1778034913596862464",
+            "femaleVariant": "Lookin' a little like we mighta saved your skin."
+          },
+          {
+            "stringId": "1778034930172751872",
+            "femaleVariant": "Been in here a while?"
+          },
+          {
+            "stringId": "1778034979766202368",
+            "femaleVariant": "You owe us."
+          },
+          {
+            "stringId": "1778035307660111872",
+            "femaleVariant": "They been holding you long?"
+          },
+          {
+            "stringId": "1778038676424421376",
+            "femaleVariant": "Few days... Kinda lost count."
+          },
+          {
+            "stringId": "1778039356824416256",
+            "femaleVariant": "Some guys loyal enough to care slipped me stuff, tried to help out. Royce threw 'em in the microwave dryer. Made me watch."
+          },
+          {
+            "stringId": "1778040269202976768",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"hombre\" b=\"Think we're due a favor, \" a=\".\"/>"
+          },
+          {
+            "stringId": "1778040789514776576",
+            "femaleVariant": "Jesus, slow down, maybe? I'll get you, but kinda caught me at a bad time."
+          },
+          {
+            "stringId": "1778041234194886656",
+            "femaleVariant": "We ever meet again, I'll have you covered."
+          },
+          {
+            "stringId": "1778043337151803392",
+            "femaleVariant": "Quit fuckin' sweatin' it."
+          },
+          {
+            "stringId": "1947556115045564420",
+            "femaleVariant": "Royce did this?"
+          },
+          {
+            "stringId": "1947556115045564428",
+            "femaleVariant": "The twisted fuck."
+          },
+          {
+            "stringId": "1947678752937754624",
+            "femaleVariant": "Got it. Brick's cell code."
+          },
+          {
+            "stringId": "1947679354367393792",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Buen trabajo, V.\" t=\"Good work, V.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1947686332279963648",
+            "femaleVariant": "Ooph, tough... But all said an' done, guy was a goon, ruthless at that."
+          },
+          {
+            "stringId": "1947838946023981056",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Cabrones\" b=\"\" a=\". Left you for dead...\"/>"
+          },
+          {
+            "stringId": "1968221086230179840",
+            "femaleVariant": "Dex sent us."
+          },
+          {
+            "stringId": "1968221264806866944",
+            "femaleVariant": "Guess it's kinda your fault we're here. Came for some tech Dex bought."
+          },
+          {
+            "stringId": "1968221753913044992",
+            "femaleVariant": "He tell you to free me?"
+          },
+          {
+            "stringId": "1968221900260700160",
+            "femaleVariant": "No. Just to pick up the bot."
+          },
+          {
+            "stringId": "1968221990589231104",
+            "femaleVariant": "Classic fuckin' Dex... Hahaha..."
+          },
+          {
+            "stringId": "1975542416688431104",
+            "femaleVariant": "[Pick up] Detonator..."
+          },
+          {
+            "stringId": "1975543659829805056",
+            "femaleVariant": "Detonator, armed."
+          },
+          {
+            "stringId": "1975544432638705664",
+            "femaleVariant": "Linked to a fat-ass firecracker… attached to our new amigo here."
+          },
+          {
+            "stringId": "1975545594276364304",
+            "femaleVariant": "It's your call, V. Whaddaya wanna do?"
+          },
+          {
+            "stringId": "1975571406190952448",
+            "femaleVariant": "[Set off charge] Bye-bye, Brick."
+          },
+          {
+            "stringId": "1975572042198433792",
+            "femaleVariant": "[Disarm charge] Gotta free 'im."
+          },
+          {
+            "stringId": "1975572394234757120",
+            "femaleVariant": "Need to think."
+          },
+          {
+            "stringId": "1975573170214551552",
+            "femaleVariant": "Buh-bye, Brick."
+          },
+          {
+            "stringId": "1975575573282308100",
+            "femaleVariant": "A gentle touch… and he'll be free."
+          },
+          {
+            "stringId": "1975575596501975044",
+            "femaleVariant": "Need to think this through…"
+          },
+          {
+            "stringId": "1975652885277327360",
+            "femaleVariant": "Careful! I move an inch away from this laser, I'm ground beef. It's linked to a mine."
+          },
+          {
+            "stringId": "1995267968533983232",
+            "femaleVariant": "Think faasst."
+          },
+          {
+            "stringId": "2018669372727713792",
+            "femaleVariant": "[Inspect]"
+          },
+          {
+            "stringId": "2052337224479817728",
+            "femaleVariant": "[Set off charge]"
+          },
+          {
+            "stringId": "2052337224479817744",
+            "femaleVariant": "[Disarm charge]"
+          }
+        ]
+      }
+
+
+

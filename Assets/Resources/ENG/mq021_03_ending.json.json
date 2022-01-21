@@ -1,0 +1,93 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1795374088824184836",
+            "femaleVariant": "How's Jake doing?"
+          },
+          {
+            "stringId": "1795376941034790912",
+            "femaleVariant": "He's easin' into it, slowly. Needs a day or two to get up on his feet."
+          },
+          {
+            "stringId": "1795377375849897984",
+            "femaleVariant": "You have my thanks, V. On behalf of myself and the entire family."
+          },
+          {
+            "stringId": "1795377761658757120",
+            "femaleVariant": "Sadly... I don't have any good news. The implant didn't take."
+          },
+          {
+            "stringId": "1795377761658757128",
+            "femaleVariant": "No. Maybe it was just an accident... maybe it wasn't. Too late to tell."
+          },
+          {
+            "stringId": "1851822861024387072",
+            "femaleVariant": "[Set down] I've got the implant."
+          },
+          {
+            "stringId": "1851823492703346688",
+            "femaleVariant": "[Set down] I've got the implant... but it's infected."
+          },
+          {
+            "stringId": "1851824369916862464",
+            "femaleVariant": "Got Jake's implant."
+          },
+          {
+            "stringId": "1851824738109644804",
+            "femaleVariant": "Come by in a few hours. Things should settle down by then."
+          },
+          {
+            "stringId": "1851824918447939588",
+            "femaleVariant": "Got Jake's implant, but there's a virus on it. You'll have to swap out its firmware with the original on the shard.",
+            "maleVariant": "I got Jake's implant, but there's a virus on it. You'll have to swap out its firmware with the original on the shard."
+          },
+          {
+            "stringId": "1853272809133101056",
+            "femaleVariant": "Just on time, V. Just on time."
+          },
+          {
+            "stringId": "1853273391789035520",
+            "femaleVariant": "Hmph. What a surprise. Nomads always get special treatment."
+          },
+          {
+            "stringId": "1853275039160651776",
+            "femaleVariant": "Thanks for bein' careful, V."
+          },
+          {
+            "stringId": "1853277185922879488",
+            "femaleVariant": "How's Jake doin'?"
+          },
+          {
+            "stringId": "1853278474278850560",
+            "femaleVariant": "Shit... Any reason why?",
+            "maleVariant": "Ah, shit... A-any reason why?"
+          },
+          {
+            "stringId": "1853279045626941440",
+            "femaleVariant": "You did everything you could, V. We'll never forget that."
+          },
+          {
+            "stringId": "1853280110241959936",
+            "femaleVariant": "Glad to hear that.",
+            "maleVariant": "I'm glad to hear that."
+          }
+        ]
+      }
+
+
+

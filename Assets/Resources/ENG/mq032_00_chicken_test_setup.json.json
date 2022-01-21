@@ -1,0 +1,42 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "2269150057045442564",
+            "femaleVariant": "[db_db]During the prologue, Johnny isn't present"
+          },
+          {
+            "stringId": "2269153069713342464",
+            "femaleVariant": "[db_db]After the prologue, Johnny is present"
+          },
+          {
+            "stringId": "2270578976860684292",
+            "femaleVariant": "[db_db]No, play from start"
+          },
+          {
+            "stringId": "2270579611676983296",
+            "femaleVariant": "[db_db]Yes, Non-Lethal Epilogue"
+          },
+          {
+            "stringId": "2270579863939203072",
+            "femaleVariant": "[db_db]Yes, Lethal Epilogue"
+          }
+        ]
+      }
+
+
+

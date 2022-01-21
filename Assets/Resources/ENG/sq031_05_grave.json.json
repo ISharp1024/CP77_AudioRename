@@ -1,0 +1,729 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1759527621505015808",
+            "femaleVariant": "Can't believe they bothered to truck it all the way out here."
+          },
+          {
+            "stringId": "1759530032390955008",
+            "femaleVariant": "Eh, better than the junkyard where I landed.",
+            "maleVariant": "It's better than the junkyard where I landed."
+          },
+          {
+            "stringId": "1760466663507714048",
+            "femaleVariant": "\"Cast a cold eye, on life, on death,\""
+          },
+          {
+            "stringId": "1760469278975025152",
+            "femaleVariant": "\"Horseman, pass by!\""
+          },
+          {
+            "stringId": "1760500499612393472",
+            "femaleVariant": "Let's go, NC beckons."
+          },
+          {
+            "stringId": "1898260234274361344",
+            "femaleVariant": "What'd you expect? Headstone, flag and flowers?"
+          },
+          {
+            "stringId": "1898261060820684800",
+            "femaleVariant": "Nah, I... I dunno. A marker?"
+          },
+          {
+            "stringId": "1898263257696456704",
+            "femaleVariant": "Something, anything."
+          },
+          {
+            "stringId": "1898263364533768196",
+            "femaleVariant": "[Inscribe Johnny's initials] Let's do something about that."
+          },
+          {
+            "stringId": "1898265297285828608",
+            "femaleVariant": "Really need a symbol?"
+          },
+          {
+            "stringId": "1898268332619747328",
+            "femaleVariant": "Better now?"
+          },
+          {
+            "stringId": "1898269423323336704",
+            "femaleVariant": "Really need symbolic, empty gestures?"
+          },
+          {
+            "stringId": "1898269945816174592",
+            "femaleVariant": "So that's how it is."
+          },
+          {
+            "stringId": "1898270619706609668",
+            "femaleVariant": "[Sit] D'ya expect a headstone?"
+          },
+          {
+            "stringId": "1898271676268564480",
+            "femaleVariant": "Nothing here at all."
+          },
+          {
+            "stringId": "1898280375154397184",
+            "femaleVariant": "Guess I do. Thought I'd feel like I'd closed a chapter here."
+          },
+          {
+            "stringId": "1898281763737456640",
+            "femaleVariant": "Like I'd said goodbye to the old Silverhand, hello to the new."
+          },
+          {
+            "stringId": "1898282555085180928",
+            "femaleVariant": "A bit. But let's say it was my real grave – what would you write?"
+          },
+          {
+            "stringId": "1898283620622946304",
+            "femaleVariant": "\"Here lies Johnny Silverhand--\""
+          },
+          {
+            "stringId": "1898284271880916992",
+            "femaleVariant": "\"Relentless Rockerboy.\""
+          },
+          {
+            "stringId": "1898286555125796864",
+            "femaleVariant": "\"Night City Legend.\""
+          },
+          {
+            "stringId": "1898287619187167232",
+            "femaleVariant": "\"Terrorist and Raging Asshole.\""
+          },
+          {
+            "stringId": "1898287996724858880",
+            "femaleVariant": "\"The Guy who Saved My Life.\""
+          },
+          {
+            "stringId": "1898292126721789952",
+            "femaleVariant": "And how do you feel?"
+          },
+          {
+            "stringId": "1898292542914187264",
+            "femaleVariant": "Like I never even was. Or like I was still inside Mikoshi."
+          },
+          {
+            "stringId": "1898300040954007552",
+            "femaleVariant": "\"Relentless Rockerboy Who Never Surrendered.\" Not even in death."
+          },
+          {
+            "stringId": "1898300519473762304",
+            "femaleVariant": "\"Night City Legend.\""
+          },
+          {
+            "stringId": "1898300940799987712",
+            "femaleVariant": "\"Terrorist and Raging Asshole.\""
+          },
+          {
+            "stringId": "1898301193565523968",
+            "femaleVariant": "\"The Guy who Saved My Life.\""
+          },
+          {
+            "stringId": "1898301952382226432",
+            "femaleVariant": "Thanks. But what's that do for me now?"
+          },
+          {
+            "stringId": "1898303755060531200",
+            "femaleVariant": "Sounds good. But what does it really mean?"
+          },
+          {
+            "stringId": "1898305214007234560",
+            "femaleVariant": "Harsh."
+          },
+          {
+            "stringId": "1898305707811033088",
+            "femaleVariant": "But if I saw a headstone like that, I'd wanna meet the guy."
+          },
+          {
+            "stringId": "1898306947294973952",
+            "femaleVariant": "V... You don't know how much I want that to be true."
+          },
+          {
+            "stringId": "1898308846073171968",
+            "femaleVariant": "What's gotten into you?"
+          },
+          {
+            "stringId": "1898308994769637376",
+            "femaleVariant": "What'd I achieve fighting Arasaka?"
+          },
+          {
+            "stringId": "1898310204071366660",
+            "femaleVariant": "Won't win this war alone."
+          },
+          {
+            "stringId": "1898313659406110720",
+            "femaleVariant": "So many dead – and those suits're still on top."
+          },
+          {
+            "stringId": "1898314517829144576",
+            "femaleVariant": "What did I achieve, shouting \"Chippin' In\" to a bunch of angry, pimply kids?"
+          },
+          {
+            "stringId": "1898318641601728516",
+            "femaleVariant": "Gave 'em hope."
+          },
+          {
+            "stringId": "1898319079789056000",
+            "femaleVariant": "Now you're just whinin'."
+          },
+          {
+            "stringId": "1898319646741516288",
+            "femaleVariant": "Just feeling sorry for yourself."
+          },
+          {
+            "stringId": "1898320291204714496",
+            "femaleVariant": "What's gotten into you all of a sudden?"
+          },
+          {
+            "stringId": "1898320603831357440",
+            "femaleVariant": "What's gotten into you?"
+          },
+          {
+            "stringId": "1898321549529468928",
+            "femaleVariant": "Listen, I realize I fucked up a lotta things."
+          },
+          {
+            "stringId": "1898323561436434436",
+            "femaleVariant": "That wasn't a compliment."
+          },
+          {
+            "stringId": "1898324016820408320",
+            "femaleVariant": "Did you just come here to feel sorry for yourself?"
+          },
+          {
+            "stringId": "1898328542038216704",
+            "femaleVariant": "Won't win this war goin' solo."
+          },
+          {
+            "stringId": "1898329427220910080",
+            "femaleVariant": "Might be a good thing we're in this together."
+          },
+          {
+            "stringId": "1898331214782943232",
+            "femaleVariant": "That's just it. Don't wanna drag you down into this swamp with me."
+          },
+          {
+            "stringId": "1898332559057375232",
+            "femaleVariant": "Just feeling sorry for yourself."
+          },
+          {
+            "stringId": "1898336405183811584",
+            "femaleVariant": "Ya gave those kids hope. That the suits couldn't buy everything."
+          },
+          {
+            "stringId": "1898337288269352960",
+            "femaleVariant": "I remember what I thought on stage. That even if they all died for their ideals, it'd be worth it."
+          },
+          {
+            "stringId": "1898341994412658688",
+            "femaleVariant": "No. Just finally thinking clearly."
+          },
+          {
+            "stringId": "1898346962246979584",
+            "femaleVariant": "Where's Johnny I'm-the-fuckin'-greatest Silverhand? Don't even recognize you.",
+            "maleVariant": "Where's Johnny I'm-the-fucking-greatest Silverhand? Don't even recognize you."
+          },
+          {
+            "stringId": "1898347473599746048",
+            "femaleVariant": "Maybe I'm done pretending."
+          },
+          {
+            "stringId": "1898348702094610432",
+            "femaleVariant": "But when I look at you..."
+          },
+          {
+            "stringId": "1898364526532513796",
+            "femaleVariant": "A hard road, but looks like we made it."
+          },
+          {
+            "stringId": "1898366872775839744",
+            "femaleVariant": "Nah, fucked that up too."
+          },
+          {
+            "stringId": "1898367531214458880",
+            "femaleVariant": "Johnny, no need to bare your soul to me."
+          },
+          {
+            "stringId": "1898369052052312064",
+            "femaleVariant": "Been a long, bumpy road, but we made it.",
+            "maleVariant": "It's been a long, bumpy road, but we made it."
+          },
+          {
+            "stringId": "1898373196813193216",
+            "femaleVariant": "No, Johnny. You fucked that up, too."
+          },
+          {
+            "stringId": "1898373894057512960",
+            "femaleVariant": "You used me, lied to me... Can't trust you at all.",
+            "maleVariant": "You used me, lied to me... I can't trust you at all."
+          },
+          {
+            "stringId": "1898375509485309952",
+            "femaleVariant": "Ahem, is it too late to ask for a second chance?"
+          },
+          {
+            "stringId": "1898375845298065408",
+            "femaleVariant": "No need to confess all your wrongs to me, Johnny."
+          },
+          {
+            "stringId": "1898376421612212224",
+            "femaleVariant": "I know. But maybe I want to."
+          },
+          {
+            "stringId": "1898377951392321540",
+            "femaleVariant": "Too late. This was your second chance."
+          },
+          {
+            "stringId": "1898378367081402368",
+            "femaleVariant": "What do you want from me?"
+          },
+          {
+            "stringId": "1898381341396586496",
+            "femaleVariant": "Too late. This was your second chance."
+          },
+          {
+            "stringId": "1898381789885124608",
+            "femaleVariant": "You died, came back and still had no idea what to do with it all."
+          },
+          {
+            "stringId": "1898382875589103616",
+            "femaleVariant": "Think you're right."
+          },
+          {
+            "stringId": "1898386989295357952",
+            "femaleVariant": "What d'you want from me?"
+          },
+          {
+            "stringId": "1898389573859037184",
+            "femaleVariant": "Most people I thought were my friends, they couldn't even stand to be in the same room with me."
+          },
+          {
+            "stringId": "1898392341663469568",
+            "femaleVariant": "You're fuckin' closest to me by a long shot. There twenty-four seven."
+          },
+          {
+            "stringId": "1898393022818439168",
+            "femaleVariant": "And yet... you don't seem to hate my living guts."
+          },
+          {
+            "stringId": "1898398247579045888",
+            "femaleVariant": "At least, so it seemed… till now."
+          },
+          {
+            "stringId": "1898398402600521732",
+            "femaleVariant": "You were a real dick in the beginning."
+          },
+          {
+            "stringId": "1898402574339166208",
+            "femaleVariant": "OK. But as second chances go, this is your last."
+          },
+          {
+            "stringId": "1898404193206292480",
+            "femaleVariant": "It's not hate… Just had enough of you."
+          },
+          {
+            "stringId": "1898405185863831552",
+            "femaleVariant": "OK. But as second chances go, this is your last. I refuse to be that naive."
+          },
+          {
+            "stringId": "1898409465312202752",
+            "femaleVariant": "I'll try damned hard."
+          },
+          {
+            "stringId": "1898415130189516800",
+            "femaleVariant": "Don't hate you… just had enough. Look at you – still trying to manipulate me.",
+            "maleVariant": "I don't hate you, I just... had enough. Look at you – still trying to manipulate me."
+          },
+          {
+            "stringId": "1898416097446350848",
+            "femaleVariant": "Shit. I really fucked up."
+          },
+          {
+            "stringId": "1898416994356318208",
+            "femaleVariant": "Can we go now?"
+          },
+          {
+            "stringId": "1898417000261898240",
+            "femaleVariant": "Sure, won't keep you. Wanna go see Hanako, set things up?"
+          },
+          {
+            "stringId": "1898417006050037760",
+            "femaleVariant": "Yeah. Eventually."
+          },
+          {
+            "stringId": "1898431241433927680",
+            "femaleVariant": "Heh. Johnny Silverhand. Terrorist and Raging Asshole."
+          },
+          {
+            "stringId": "1898432346800803840",
+            "femaleVariant": "V. First among suckers."
+          },
+          {
+            "stringId": "1898436243057561600",
+            "femaleVariant": "Shame we didn't talk like this earlier."
+          },
+          {
+            "stringId": "1898436984006529024",
+            "femaleVariant": "You were a real dickwipe at first."
+          },
+          {
+            "stringId": "1898438395993804800",
+            "femaleVariant": "Hah. Johnny Silverhand. Night City Legend."
+          },
+          {
+            "stringId": "1898439740805107712",
+            "femaleVariant": "Johnny Silverhand. Relentless Rockerboy Who Never Gives Up."
+          },
+          {
+            "stringId": "1898441894261444608",
+            "femaleVariant": "Too bad we didn't talk like this earlier. Woulda made things easier.",
+            "maleVariant": "It's too bad we didn't talk like this earlier. Woulda made things easier."
+          },
+          {
+            "stringId": "1898442783403560960",
+            "femaleVariant": "Never found the right moment."
+          },
+          {
+            "stringId": "1898444007100141568",
+            "femaleVariant": "Didn't mean that as a compliment.",
+            "maleVariant": "Didn't mean it as a compliment."
+          },
+          {
+            "stringId": "1898444518033477632",
+            "femaleVariant": "I know."
+          },
+          {
+            "stringId": "1898447232066932736",
+            "femaleVariant": "Remember wakin' up at Viktor's, not knowin' about me? \"I'm seeing things, I'm scared.\""
+          },
+          {
+            "stringId": "1898448071129059332",
+            "femaleVariant": "Still feel like you can't breathe?"
+          },
+          {
+            "stringId": "1898470680524771328",
+            "femaleVariant": "Remember you whinin' for smokes in the middle of the night, complainin' about not bein' able to kill me.",
+            "maleVariant": "Remember you whinin' for smokes in the middle of the night? Complainin' about not bein' able to kill me."
+          },
+          {
+            "stringId": "1898471180066377728",
+            "femaleVariant": "Then moanin' at Misty's 'bout how you didn't wanna die?"
+          },
+          {
+            "stringId": "1898474707224383488",
+            "femaleVariant": "You sorta deserved it."
+          },
+          {
+            "stringId": "1898477952374165504",
+            "femaleVariant": "Never thought we'd make it this far."
+          },
+          {
+            "stringId": "1898478867873288192",
+            "femaleVariant": "When you said you let down your friends..."
+          },
+          {
+            "stringId": "1898485285410066432",
+            "femaleVariant": "When you said you let your friends down – did ya mean Rogue?"
+          },
+          {
+            "stringId": "1898485659474874368",
+            "femaleVariant": "Still feel like you can't breathe in here?"
+          },
+          {
+            "stringId": "1898486863709884416",
+            "femaleVariant": "Nah. Not sayin' it's great, but it's different."
+          },
+          {
+            "stringId": "1898488332471259136",
+            "femaleVariant": "Sometimes when I wake up, feels like I'm back for a while."
+          },
+          {
+            "stringId": "1898488839394840576",
+            "femaleVariant": "Well, like I got this body to myself. Like I'm free."
+          },
+          {
+            "stringId": "1898489196682432512",
+            "femaleVariant": "Seconds later, feels like I'm missing something – something really important."
+          },
+          {
+            "stringId": "1898489311287595008",
+            "femaleVariant": "What d'you mean – back?"
+          },
+          {
+            "stringId": "1898490715507019776",
+            "femaleVariant": "Then I realize you're there, always were, and this stupid wave of relief washes over me."
+          },
+          {
+            "stringId": "1898491283935875076",
+            "femaleVariant": "When you said you let your friends down..."
+          },
+          {
+            "stringId": "1898491863857123328",
+            "femaleVariant": "Have the same dreams..."
+          },
+          {
+            "stringId": "1898492190492741632",
+            "femaleVariant": "Have similar dreams sometimes. That you never died, that I'm you.",
+            "maleVariant": "I have similar dreams sometimes. That you never died, that I'm you."
+          },
+          {
+            "stringId": "1898497054241214464",
+            "femaleVariant": "Not like I think, \"What would Johnny do?\" It's more I do something and I feel... fuckin' great."
+          },
+          {
+            "stringId": "1898498758386929664",
+            "femaleVariant": "Like I've finally started to fit into this world."
+          },
+          {
+            "stringId": "1898499279940243456",
+            "femaleVariant": "Hm, prolly not a great sign. We better do something. Fast."
+          },
+          {
+            "stringId": "1898501047738716160",
+            "femaleVariant": "Rogue, Alt, Kerry, Santiago..."
+          },
+          {
+            "stringId": "1898502255312392192",
+            "femaleVariant": "Not all's lost yet, least with Rogue."
+          },
+          {
+            "stringId": "1898503292228227072",
+            "femaleVariant": "Can't pretend nothing's changed over fifty years, can't just insert myself into her life."
+          },
+          {
+            "stringId": "1898517033741209604",
+            "femaleVariant": "C'mon, already have."
+          },
+          {
+            "stringId": "1898519874576863232",
+            "femaleVariant": "Smasher biz really got to her."
+          },
+          {
+            "stringId": "1898521710977372160",
+            "femaleVariant": "Smasher biz really got to her. Can't leave it like this, I don't think.",
+            "maleVariant": "Smasher biz really got to her. Ya can't leave it like this, I don't think."
+          },
+          {
+            "stringId": "1898522041136205824",
+            "femaleVariant": "C'mon, already have.",
+            "maleVariant": "C'mon, ya already have."
+          },
+          {
+            "stringId": "1898523347980668928",
+            "femaleVariant": "True, that."
+          },
+          {
+            "stringId": "1898524363220340736",
+            "femaleVariant": "Might be right. She was acting weird."
+          },
+          {
+            "stringId": "1898525471657447424",
+            "femaleVariant": "Y'know, did promise her I'd take her to the movies. Long, long ago."
+          },
+          {
+            "stringId": "1898525965243142144",
+            "femaleVariant": "You oughta talk to her."
+          },
+          {
+            "stringId": "1898527651303018496",
+            "femaleVariant": "Good idea."
+          },
+          {
+            "stringId": "1898528074390851584",
+            "femaleVariant": "Call her for me, ask if she's free some night?"
+          },
+          {
+            "stringId": "1898529252503736320",
+            "femaleVariant": "Thing is, you'd have to surrender control – again."
+          },
+          {
+            "stringId": "1898530024289226756",
+            "femaleVariant": "Yeah, I'll call Rogue."
+          },
+          {
+            "stringId": "1898530734535888896",
+            "femaleVariant": "Forgot about that…"
+          },
+          {
+            "stringId": "1898531220538281984",
+            "femaleVariant": "Yeah, I'll call her."
+          },
+          {
+            "stringId": "1898532885240762368",
+            "femaleVariant": "Forgot about that."
+          },
+          {
+            "stringId": "1898533919438688256",
+            "femaleVariant": "Just an idea. Won't press it."
+          },
+          {
+            "stringId": "1898534681862492160",
+            "femaleVariant": "OK."
+          },
+          {
+            "stringId": "1898535567548502016",
+            "femaleVariant": "Let's delta. Nothin' to see here after all."
+          },
+          {
+            "stringId": "1898536066721009664",
+            "femaleVariant": "OK."
+          },
+          {
+            "stringId": "1898536670734340096",
+            "femaleVariant": "Worth comin' out all the same?"
+          },
+          {
+            "stringId": "1898538534716592128",
+            "femaleVariant": "Absolutely. Thanks, V."
+          },
+          {
+            "stringId": "1898546176654594048",
+            "femaleVariant": "Of all the heads I coulda popped up in, hella glad it was yours."
+          },
+          {
+            "stringId": "1902800024470573060",
+            "femaleVariant": "Funny. Place is familiar. Made a pit stop here once.",
+            "maleVariant": "Funny. Place is familiar. I made a pit stop here once."
+          },
+          {
+            "stringId": "1902800026584502272",
+            "femaleVariant": "Why here?"
+          },
+          {
+            "stringId": "1902800028849426432",
+            "femaleVariant": "Used to be a nomad fridge set up here for people on the road. Take a beer, leave a beer from your region in return.",
+            "maleVariant": "There used to be a nomad fridge set up here for people on the road. Ya take a beer, leave a beer from your region in return."
+          },
+          {
+            "stringId": "1902800031114350592",
+            "femaleVariant": "Mhm."
+          },
+          {
+            "stringId": "1902800035560312836",
+            "femaleVariant": "Look. Still here."
+          },
+          {
+            "stringId": "1902801855720476672",
+            "femaleVariant": "A fridge."
+          },
+          {
+            "stringId": "1902809088260853764",
+            "femaleVariant": "We'll figure something out."
+          },
+          {
+            "stringId": "1902816086457077760",
+            "femaleVariant": "Either let down or used every last person who gave me their trust. Blind, selfish bastard that I was."
+          },
+          {
+            "stringId": "1902816090248728576",
+            "femaleVariant": "But I've managed one thing for now. Not to fuck this up, what we have."
+          },
+          {
+            "stringId": "1902818835521359872",
+            "femaleVariant": "Know you're not fond of me, yeah."
+          },
+          {
+            "stringId": "1902837180752744452",
+            "femaleVariant": "To put it mildly."
+          },
+          {
+            "stringId": "1902837783658778624",
+            "femaleVariant": "Ooh, another serious talk."
+          },
+          {
+            "stringId": "1902838919576965120",
+            "femaleVariant": "An' that's mildly put."
+          },
+          {
+            "stringId": "1902839731577442304",
+            "femaleVariant": "But, ooh, another big talk. Not a fan of those, either."
+          },
+          {
+            "stringId": "1902841048890888192",
+            "femaleVariant": "Can tell you're tryna be disarmingly honest. Keep goin', tell me what this is really about."
+          },
+          {
+            "stringId": "1902841052095336448",
+            "femaleVariant": "Want you to give me a second chance."
+          },
+          {
+            "stringId": "1902842799710818304",
+            "femaleVariant": "Let down my friends, showed you the worst of me."
+          },
+          {
+            "stringId": "1902845774613204992",
+            "femaleVariant": "I noticed. Been watchin' you for some time now."
+          },
+          {
+            "stringId": "1905315289959780352",
+            "femaleVariant": "OK. Just one last request."
+          },
+          {
+            "stringId": "1905316683559227396",
+            "femaleVariant": "Request? Think this is a good time?"
+          },
+          {
+            "stringId": "1905325723123208192",
+            "femaleVariant": "I'm listening."
+          },
+          {
+            "stringId": "1905326211038203904",
+            "femaleVariant": "Request? Seriously? This seem like a good time to you?",
+            "maleVariant": "Request? Seriously? Does this seem like a good time to you?"
+          },
+          {
+            "stringId": "1905329310897295360",
+            "femaleVariant": "OK. Just go to North Oak – whenever you think it's a \"good time.\""
+          },
+          {
+            "stringId": "1905341523787796480",
+            "femaleVariant": "I'm listening.",
+            "maleVariant": "I'm listenin'."
+          },
+          {
+            "stringId": "1905351081918746624",
+            "femaleVariant": "Take me to North Oak."
+          },
+          {
+            "stringId": "1905354467846148096",
+            "femaleVariant": "What for?"
+          },
+          {
+            "stringId": "1908068490328952832",
+            "femaleVariant": "Kerry. Tell you more once you get me there."
+          },
+          {
+            "stringId": "1908068969989558272",
+            "femaleVariant": "OK."
+          },
+          {
+            "stringId": "1911628114735022080",
+            "femaleVariant": "Been here."
+          },
+          {
+            "stringId": "2008457079267520516",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2008512730668724224",
+            "femaleVariant": "[Stand]"
+          }
+        ]
+      }
+
+
+

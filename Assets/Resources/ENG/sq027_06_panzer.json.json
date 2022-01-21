@@ -1,0 +1,644 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1357560447766646784",
+            "femaleVariant": "It's not the latest model, but Mitch and Bob did what they could."
+          },
+          {
+            "stringId": "1760222280052133888",
+            "femaleVariant": "Hey, V. No, not yet."
+          },
+          {
+            "stringId": "1760244381416968192",
+            "femaleVariant": "Carol still needs to check if Militech left any ICE in the systems."
+          },
+          {
+            "stringId": "1760244996570370048",
+            "femaleVariant": "Corpos haven't shown up in person to report the loss?"
+          },
+          {
+            "stringId": "1760295676345602048",
+            "femaleVariant": "Always wanted to take one these suckers for a spin."
+          },
+          {
+            "stringId": "1788403527928532992",
+            "femaleVariant": "With just a little more time…"
+          },
+          {
+            "stringId": "1788403743800971268",
+            "femaleVariant": "Everything ready?"
+          },
+          {
+            "stringId": "1788409814401699844",
+            "femaleVariant": "Always wanted to take one of these for a spin."
+          },
+          {
+            "stringId": "1788410723106050048",
+            "femaleVariant": "What about Saul?"
+          },
+          {
+            "stringId": "1788411418890752000",
+            "femaleVariant": "And Saul – what about him?"
+          },
+          {
+            "stringId": "1788413365752451072",
+            "femaleVariant": "Go on, hop in. Everything is set."
+          },
+          {
+            "stringId": "1788416622797279232",
+            "femaleVariant": "Yeah, yeah, you'd turn it into a goddamn rocket ship, I know."
+          },
+          {
+            "stringId": "1788417289423179776",
+            "femaleVariant": "All ready to go?"
+          },
+          {
+            "stringId": "1788420763128975360",
+            "femaleVariant": "Nothing, for now. We're staying out of each other's hair."
+          },
+          {
+            "stringId": "1788432486275764228",
+            "femaleVariant": "[Jack in] Sure."
+          },
+          {
+            "stringId": "1788436591928954880",
+            "femaleVariant": "OK. This will do fine."
+          },
+          {
+            "stringId": "1788452734731309056",
+            "femaleVariant": "OK. Startin' to understand what you meant."
+          },
+          {
+            "stringId": "1788453154631471104",
+            "femaleVariant": "Warm up. Don't worry, I'm not going to watch."
+          },
+          {
+            "stringId": "1788473337404215296",
+            "femaleVariant": "Just put it through a few turns."
+          },
+          {
+            "stringId": "1788473650332848132",
+            "femaleVariant": "Now, let's do some shooting. Stop and I'll activate the system."
+          },
+          {
+            "stringId": "1788475276212850688",
+            "femaleVariant": "Soft ride, seems a boat."
+          },
+          {
+            "stringId": "1788476704792793088",
+            "femaleVariant": "Don't get excited. The Basilisk is a cargo ship by design."
+          },
+          {
+            "stringId": "1788477132897013760",
+            "femaleVariant": "But it should still be a good time."
+          },
+          {
+            "stringId": "1788478267590463488",
+            "femaleVariant": "What's on the menu?"
+          },
+          {
+            "stringId": "1788479138126647296",
+            "femaleVariant": "All right. I can see you've grown bored."
+          },
+          {
+            "stringId": "1788479741468889088",
+            "femaleVariant": "Now take her along the line of turbines."
+          },
+          {
+            "stringId": "1788497844638601216",
+            "femaleVariant": "Head towards that wreck."
+          },
+          {
+            "stringId": "1788525218780434432",
+            "femaleVariant": "Left!"
+          },
+          {
+            "stringId": "1788525745786343424",
+            "femaleVariant": "Very good!"
+          },
+          {
+            "stringId": "1788525976506617860",
+            "femaleVariant": "Oh well."
+          },
+          {
+            "stringId": "1788529183672782848",
+            "femaleVariant": "When I say so, swerve right or left before the last of them."
+          },
+          {
+            "stringId": "1788530454798553088",
+            "femaleVariant": "Keep her going!"
+          },
+          {
+            "stringId": "1788530577255452672",
+            "femaleVariant": "One more time."
+          },
+          {
+            "stringId": "1788530836647989252",
+            "femaleVariant": "Right!"
+          },
+          {
+            "stringId": "1788533249178095620",
+            "femaleVariant": "Right!"
+          },
+          {
+            "stringId": "1788549720981655552",
+            "femaleVariant": "Bullseye."
+          },
+          {
+            "stringId": "1788552724153651204",
+            "femaleVariant": "Good!"
+          },
+          {
+            "stringId": "1788552818089283588",
+            "femaleVariant": "They're deader than dirt now."
+          },
+          {
+            "stringId": "1788553145815420928",
+            "femaleVariant": "OK, practice is over."
+          },
+          {
+            "stringId": "1791369425043869700",
+            "femaleVariant": "Excellent."
+          },
+          {
+            "stringId": "1791369425094201348",
+            "femaleVariant": "There's room for improvement."
+          },
+          {
+            "stringId": "1791371031848177664",
+            "femaleVariant": "Mhm. She'll fly right over any bumps, all types of terrain."
+          },
+          {
+            "stringId": "1804444579789557764",
+            "femaleVariant": "Fuck. Made it look like it just came back from a corpo war tour."
+          },
+          {
+            "stringId": "1810915570740432896",
+            "femaleVariant": "No. I think we managed to keep them off our scent."
+          },
+          {
+            "stringId": "1810916770663698432",
+            "femaleVariant": "We left the trucks with the big corpo logos down by the Raffen camp."
+          },
+          {
+            "stringId": "1810920808453050368",
+            "femaleVariant": "Everything's fine. Clean as a whistle."
+          },
+          {
+            "stringId": "1810925938573381632",
+            "femaleVariant": "Which was almost as much fun as leaving a bag of flaming dog shit on their doorstep."
+          },
+          {
+            "stringId": "1810929473750896640",
+            "femaleVariant": "So he's not planning a family council?"
+          },
+          {
+            "stringId": "1810929892392767488",
+            "femaleVariant": "Of course he is. He just wants to keep me in the dark a while longer."
+          },
+          {
+            "stringId": "1810935990927560704",
+            "femaleVariant": "Nice touch."
+          },
+          {
+            "stringId": "1810938341147086848",
+            "femaleVariant": "Which is exactly how all those naive gonks landed at the front. Didn't even need to be recruited."
+          },
+          {
+            "stringId": "1810939732162842624",
+            "femaleVariant": "They just showed you the tech."
+          },
+          {
+            "stringId": "1810950487230713856",
+            "femaleVariant": "What do you think?"
+          },
+          {
+            "stringId": "1810950778365743104",
+            "femaleVariant": "Now I get why they called them coffins."
+          },
+          {
+            "stringId": "1810953862320033792",
+            "femaleVariant": "Not how I imagined it."
+          },
+          {
+            "stringId": "1810954115605663744",
+            "femaleVariant": "Nice and cozy in here."
+          },
+          {
+            "stringId": "1810957733679403008",
+            "femaleVariant": "Well, least now I know why people call 'em coffins."
+          },
+          {
+            "stringId": "1810958741654540288",
+            "femaleVariant": "Not exactly how I imagined a corpo panzer."
+          },
+          {
+            "stringId": "1810963119266402304",
+            "femaleVariant": "I mean, least since I stopped watching all those anime BDs."
+          },
+          {
+            "stringId": "1810967661412421632",
+            "femaleVariant": "Nice and cozy in here."
+          },
+          {
+            "stringId": "1810995488169988096",
+            "femaleVariant": "You steer directly from your seat. All you have to do is jack in."
+          },
+          {
+            "stringId": "1811000242564567040",
+            "femaleVariant": "No, none. The impulse runs directly to your cerebral cortex. In a sense, the Basilisk becomes an extension of your body."
+          },
+          {
+            "stringId": "1811020903051759616",
+            "femaleVariant": "What, no knobs, buttons, blinky doo-dads?"
+          },
+          {
+            "stringId": "1811023938670891012",
+            "femaleVariant": "What's the second pilot for? Support?"
+          },
+          {
+            "stringId": "1811025598910631936",
+            "femaleVariant": "Ever fly something like this?"
+          },
+          {
+            "stringId": "1811029197321474048",
+            "femaleVariant": "It's like a mystical oneness."
+          },
+          {
+            "stringId": "1811030874204213248",
+            "femaleVariant": "If it's so mystical and shit, why the co-pilot? Extra support?"
+          },
+          {
+            "stringId": "1811039261654585344",
+            "femaleVariant": "Ever piloted anything like this?"
+          },
+          {
+            "stringId": "1811040988415987712",
+            "femaleVariant": "No, why? Don't you trust me?"
+          },
+          {
+            "stringId": "1811041262857687040",
+            "femaleVariant": "Can I still get out?"
+          },
+          {
+            "stringId": "1811043757042503680",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "1811043815393660928",
+            "femaleVariant": "Then I trust you."
+          },
+          {
+            "stringId": "1811044683480371200",
+            "femaleVariant": "OK. If you want full functionality in an engagement, you need a second person to handle sensory overload."
+          },
+          {
+            "stringId": "1811048338648535040",
+            "femaleVariant": "One pilot steers, the other handles the gun."
+          },
+          {
+            "stringId": "1811064927993270272",
+            "femaleVariant": "A dry run first – I'll disconnect for now."
+          },
+          {
+            "stringId": "1811065899293413376",
+            "femaleVariant": "Are you ready?"
+          },
+          {
+            "stringId": "1811080480103403520",
+            "femaleVariant": "Doesn't need two pilots?"
+          },
+          {
+            "stringId": "1811080713659027456",
+            "femaleVariant": "You won't be steering and firing."
+          },
+          {
+            "stringId": "1811090796262526976",
+            "femaleVariant": "All right."
+          },
+          {
+            "stringId": "1812387472474443776",
+            "femaleVariant": "All right. Blast those wrecks."
+          },
+          {
+            "stringId": "1812400623295205376",
+            "femaleVariant": "Good. Now, I'm going to connect. It could feel strange."
+          },
+          {
+            "stringId": "1812401348674916352",
+            "femaleVariant": "Meanin'?"
+          },
+          {
+            "stringId": "1812403625947107328",
+            "femaleVariant": "Basilisk pilots have to be fully synchronized. That means our nervous systems will be linked."
+          },
+          {
+            "stringId": "1812590716165361664",
+            "femaleVariant": "It's as if you booked a room with two beds but got a double bed with a blanket wide enough for half."
+          },
+          {
+            "stringId": "1812592710540136452",
+            "femaleVariant": "OK. Let's try this."
+          },
+          {
+            "stringId": "1812593063113330688",
+            "femaleVariant": "Know exactly what you mean."
+          },
+          {
+            "stringId": "1812593566245261312",
+            "femaleVariant": "Know exactly what you mean.",
+            "maleVariant": "I know exactly what you mean."
+          },
+          {
+            "stringId": "1812594495686250496",
+            "femaleVariant": "Hmm?"
+          },
+          {
+            "stringId": "1812595360350408704",
+            "femaleVariant": "Tell ya later."
+          },
+          {
+            "stringId": "1812597559491104768",
+            "femaleVariant": "OK, let's try this. Guess I'll get to know you better than I'd planned."
+          },
+          {
+            "stringId": "1812616681037828096",
+            "femaleVariant": "All right. Let me just say, it can be difficult at first."
+          },
+          {
+            "stringId": "1812617215895474176",
+            "femaleVariant": "You'll experience feedback, sensory echoes as our systems overlap."
+          },
+          {
+            "stringId": "1812620902588026880",
+            "femaleVariant": "Probably comes naturally in combat."
+          },
+          {
+            "stringId": "1812622424734502912",
+            "femaleVariant": "Mhm. Right, starting now..."
+          },
+          {
+            "stringId": "1812622858710749188",
+            "femaleVariant": "They're Raffen!"
+          },
+          {
+            "stringId": "1812622871914418176",
+            "femaleVariant": "Take them out. Then haul ass here and make yourselves useful."
+          },
+          {
+            "stringId": "1812631457889587200",
+            "femaleVariant": "OK. Here we go."
+          },
+          {
+            "stringId": "1812631855526383616",
+            "femaleVariant": "Good. Now, I'm going to connect. It could feel strange."
+          },
+          {
+            "stringId": "1812638169195417600",
+            "femaleVariant": "Are you ready?"
+          },
+          {
+            "stringId": "1812638893719490560",
+            "femaleVariant": "What's happening?"
+          },
+          {
+            "stringId": "1812641158224220160",
+            "femaleVariant": "Nice, but I've had enough, thanks."
+          },
+          {
+            "stringId": "1812642783198253056",
+            "femaleVariant": "Um, it's cool, uh, but I'm good.",
+            "maleVariant": "Um, it's cool, but I'm good."
+          },
+          {
+            "stringId": "1812645365698334720",
+            "femaleVariant": "I jacked in. Our nervous systems are now linked."
+          },
+          {
+            "stringId": "1812649193185284096",
+            "femaleVariant": "Right, Basilisk pilots working in harmony.",
+            "maleVariant": "Right, Basilisk pilots workin' in harmony."
+          },
+          {
+            "stringId": "1812651995114573824",
+            "femaleVariant": "That why I'm feelin' everything doubled?"
+          },
+          {
+            "stringId": "1812654482940825600",
+            "femaleVariant": "It's sensory feedback. Our systems are intertwined. Would you like to... try it out?"
+          },
+          {
+            "stringId": "1812696415125966848",
+            "femaleVariant": "Of course. I understand. I didn't want you to feel…"
+          },
+          {
+            "stringId": "1812775199137140736",
+            "femaleVariant": "Basilisk pilots have to be fully synchronized. That means our nervous systems will be linked."
+          },
+          {
+            "stringId": "1812781984631820288",
+            "femaleVariant": "Meanin'?"
+          },
+          {
+            "stringId": "1812782687110631424",
+            "femaleVariant": "Hm, sounds familiar.",
+            "maleVariant": "Huh, sounds familiar."
+          },
+          {
+            "stringId": "1812783459802091520",
+            "femaleVariant": "OK, pretty intense. Really... personal.",
+            "maleVariant": "OK, OK, pretty intense. Really, uh... personal."
+          },
+          {
+            "stringId": "1812793105526886400",
+            "femaleVariant": "In combat it's probably easier, less about thinking and more about acting on instinct, in harmony."
+          },
+          {
+            "stringId": "1812810286402703360",
+            "femaleVariant": "Anyone ever have sex in a Basilisk?"
+          },
+          {
+            "stringId": "1812813666810400768",
+            "femaleVariant": "Let's get back to camp."
+          },
+          {
+            "stringId": "1812825373045755904",
+            "femaleVariant": "Anyone ever try gettin' it on in a Basilisk?"
+          },
+          {
+            "stringId": "1812827078533648384",
+            "femaleVariant": "Let's get back to camp."
+          },
+          {
+            "stringId": "1812831171872362496",
+            "femaleVariant": "Most likely. You should ask Carol or Cassidy."
+          },
+          {
+            "stringId": "1812833686609268736",
+            "femaleVariant": "All right. I just want to check--"
+          },
+          {
+            "stringId": "1812852561413476352",
+            "femaleVariant": "Let's get back to camp. I still want--"
+          },
+          {
+            "stringId": "1812856450388922368",
+            "femaleVariant": "Hm. OK."
+          },
+          {
+            "stringId": "1812860043766599680",
+            "femaleVariant": "You'll experience feedback, sensory echoes as our systems overlap."
+          },
+          {
+            "stringId": "1814477562995036160",
+            "femaleVariant": "Oh, fuck."
+          },
+          {
+            "stringId": "1814482989535219712",
+            "femaleVariant": "They found us. We have to get back to camp."
+          },
+          {
+            "stringId": "1814487946145583104",
+            "femaleVariant": "We'll go straight to camp! We have to help the family."
+          },
+          {
+            "stringId": "1823018900568477696",
+            "femaleVariant": "OK..."
+          },
+          {
+            "stringId": "1874797157625384960",
+            "femaleVariant": "[Let Panam touch you] Oh, yeah. Let's go."
+          },
+          {
+            "stringId": "1874799173407887360",
+            "femaleVariant": "OK. I could go for that."
+          },
+          {
+            "stringId": "1874816065111609344",
+            "femaleVariant": "Can you feel that?"
+          },
+          {
+            "stringId": "1874817042870980608",
+            "femaleVariant": "Mhm. Honestly, no idea how people can focus in combat.",
+            "maleVariant": "Uhm. Yeah. Honestly, uh, no idea how people can focus in combat."
+          },
+          {
+            "stringId": "1874821239758671872",
+            "femaleVariant": "It's probably not always this intense. How about this?"
+          },
+          {
+            "stringId": "1874843383234318336",
+            "femaleVariant": "They're here too, Saul! In full force!"
+          },
+          {
+            "stringId": "1883865335886270464",
+            "femaleVariant": "V, do you remember what I said about impulses?"
+          },
+          {
+            "stringId": "1883866389193445376",
+            "femaleVariant": "Mhm."
+          },
+          {
+            "stringId": "1883866768744402944",
+            "femaleVariant": "Well, watch out, now."
+          },
+          {
+            "stringId": "1886501929822736384",
+            "femaleVariant": "I'll tell you once we're a bit further from camp. We'll practice."
+          },
+          {
+            "stringId": "2003721616179720192",
+            "femaleVariant": "Whole group of them, ready for a fight!"
+          },
+          {
+            "stringId": "2227474362553417728",
+            "femaleVariant": "Well, V? Will you link up?"
+          },
+          {
+            "stringId": "2227483708301590528",
+            "femaleVariant": "Wonderful, isn't she? Let me show you the ropes."
+          },
+          {
+            "stringId": "2227483873540390912",
+            "femaleVariant": "Well? Hop inside!"
+          },
+          {
+            "stringId": "2227484015307866112",
+            "femaleVariant": "So? What do you think? Impressive, huh?"
+          },
+          {
+            "stringId": "2227538001167728640",
+            "femaleVariant": "It's oddly pleasant, you'll see."
+          },
+          {
+            "stringId": "2228970144355926016",
+            "femaleVariant": "All right, let's fire her up! Hold on to your head!"
+          },
+          {
+            "stringId": "2229265183929876480",
+            "femaleVariant": "Dammit."
+          },
+          {
+            "stringId": "2229268519072645124",
+            "femaleVariant": "Anybody get it running earlier?"
+          },
+          {
+            "stringId": "2229269287922122752",
+            "femaleVariant": "Got a bad feeling about this…"
+          },
+          {
+            "stringId": "2229271754021879808",
+            "femaleVariant": "Anybody get this thing up and running earlier? Maybe you oughta…"
+          },
+          {
+            "stringId": "2229272179324305408",
+            "femaleVariant": "Got a bad feeling about this..."
+          },
+          {
+            "stringId": "2229276664612339712",
+            "femaleVariant": "Everything is dandy. Give me a moment."
+          },
+          {
+            "stringId": "2229278451016744960",
+            "femaleVariant": "Oh ye-ee-eees!"
+          },
+          {
+            "stringId": "2229290614615785472",
+            "femaleVariant": "Panam...? Is this, uh… as designed?"
+          },
+          {
+            "stringId": "2229295102403624960",
+            "femaleVariant": "Neural synchronization doesn't happen at the snap of one's fingers. It'll be over soon. There – see?"
+          },
+          {
+            "stringId": "2235203834722668548",
+            "femaleVariant": "[Get in]"
+          },
+          {
+            "stringId": "2237246627956473856",
+            "femaleVariant": "Yes! That's the way to do it!"
+          },
+          {
+            "stringId": "2237248048164585472",
+            "femaleVariant": "Hm, poor at best. Buuut, that is why we're practicing…"
+          }
+        ]
+      }
+
+
+

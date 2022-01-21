@@ -1,0 +1,58 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "2162108800612151296",
+            "femaleVariant": "<kiroshi l=\"rus\" o=\"Найди меню «Кироси», выбери вкладку «Переводчик» и нажми «Обновить драйверы».\" t=\"OK, so open the Kiroshi panel, select the Translator tab and hit \\\"Update Drivers.\\\" \" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2213021445466198016",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"え？ キロシ？ 全然わからない\" t=\"Kiroshi? What? I don't understand.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2218601229344673792",
+            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ну, я хотя бы нормально тебя слышу. Попробуй сбросить настройки.\" t=\"Well, I can hear you just fine. Dunno, try... Try resetting something.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2218601463453945856",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"え？ もう、何言ってるの？ 翻訳されないんだってば！\" t=\"What?! I can't understand you, it's not translating!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2218601713082142720",
+            "femaleVariant": "<kiroshi l=\"rus\" o=\"Не кричи на меня! Я не виноват, что ты выбрала такого хуёвого рипера. Поставил тебе какую-то несовместимую херь…\" t=\"Don't yell at me! Not my fault you went to a shit ripper. Probably put in some incompatible second-hand hardware...\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2218604317510045696",
+            "femaleVariant": "<kiroshi l=\"rus\" o=\"Так… Спокойно. НАЙ-ДИ МЕ-НЮ «КИ-РО-СИ»…\" t=\"Ehhh... All right, let's stay calm. OPEEEN. THE. KIROOOSHIII. PAANEL...\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2218604652769153024",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ロ・シ・ア・語・は・話せませーん\" t=\"I. DOOON'T. SPEEEAK. RUUUSSIAAAN.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2218605092466429952",
+            "femaleVariant": "<kiroshi l=\"rus\" o=\"Сука, блядь!..\" t=\"Fuuuck!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2218605717149290496",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"スーカブリャーチはそっちでしょ！\" t=\"You're a \\\"suka blyat\\\"!\" b=\"\" a=\"\"/>"
+          }
+        ]
+      }
+
+
+

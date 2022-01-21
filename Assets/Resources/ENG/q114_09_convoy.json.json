@@ -1,0 +1,422 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1437364982026092544",
+            "femaleVariant": "V, come take my six."
+          },
+          {
+            "stringId": "1440164848523558912",
+            "femaleVariant": "Panam – did you check if all systems are operational?"
+          },
+          {
+            "stringId": "1440298500741939200",
+            "femaleVariant": "V, eyes open! You almost turned me into a crater!"
+          },
+          {
+            "stringId": "1441836958027366400",
+            "femaleVariant": "Go right through the gate, V."
+          },
+          {
+            "stringId": "1699443458189316096",
+            "femaleVariant": "Your turn, Bobby. Do you remember the jammer?"
+          },
+          {
+            "stringId": "1699444445494923264",
+            "femaleVariant": "Sure do. We're on it."
+          },
+          {
+            "stringId": "1699446839922413568",
+            "femaleVariant": "Godspeed."
+          },
+          {
+            "stringId": "1700955106624425984",
+            "femaleVariant": "All down, it looks like."
+          },
+          {
+            "stringId": "1796741969367322624",
+            "femaleVariant": "I'll take the convoy to the mouth of the valley, then we can swap."
+          },
+          {
+            "stringId": "1796747936570068992",
+            "femaleVariant": "Checking."
+          },
+          {
+            "stringId": "1796748000591925248",
+            "femaleVariant": "Nitro injector – clear. Launcher's also green. We're good to go."
+          },
+          {
+            "stringId": "1796748152274735104",
+            "femaleVariant": "Then let the fun begin."
+          },
+          {
+            "stringId": "1800812060849524736",
+            "femaleVariant": "Good work."
+          },
+          {
+            "stringId": "1803872924574961664",
+            "femaleVariant": "Ey, Cass, you'll remember this – when the Aldecaldos were operating in LA on that huge contract after the earthquake…"
+          },
+          {
+            "stringId": "1803878625087082500",
+            "femaleVariant": "I think I just ran over something…"
+          },
+          {
+            "stringId": "1803878664547094532",
+            "femaleVariant": "Damn, it's serene out here."
+          },
+          {
+            "stringId": "1803881525112754176",
+            "femaleVariant": "Christ, Theodore, I'm not that old. But I do know the one you're talking about."
+          },
+          {
+            "stringId": "1803881913673076736",
+            "femaleVariant": "It's just your mind playing tricks on you."
+          },
+          {
+            "stringId": "1803882746275975168",
+            "femaleVariant": "Only the desert expanse can rival that star-studded void hanging over our heads."
+          },
+          {
+            "stringId": "1805185607592103936",
+            "femaleVariant": "Teddy, is there any chance that he's, you know...?"
+          },
+          {
+            "stringId": "1805187566936051712",
+            "femaleVariant": "None. I'm sorry, Pan."
+          },
+          {
+            "stringId": "1805187655788187648",
+            "femaleVariant": "We have to keep moving. We're almost there."
+          },
+          {
+            "stringId": "1809603136024530944",
+            "femaleVariant": "Right – didn't that also involve a maglev tunnel?"
+          },
+          {
+            "stringId": "1809603304316784640",
+            "femaleVariant": "Like, they had our folks working upstairs scooping up rocks while downstairs they were drilling the TransCon line?"
+          },
+          {
+            "stringId": "1809603384293773312",
+            "femaleVariant": "We're on the right side of history, Theodore, even if we have to write it in our own blood. That's sure."
+          },
+          {
+            "stringId": "1809604237381652480",
+            "femaleVariant": "I know a pass to the north of here like you've never dreamt of."
+          },
+          {
+            "stringId": "1809604561383247872",
+            "femaleVariant": "The one near that rocky, pillar thing? What's that called?"
+          },
+          {
+            "stringId": "1809604668790984704",
+            "femaleVariant": "The Pinnacle."
+          },
+          {
+            "stringId": "1809604773178822656",
+            "femaleVariant": "Yeah. Real jewel, that one."
+          },
+          {
+            "stringId": "1809605415813304320",
+            "femaleVariant": "I'm serious, it might've been a prairie dog…"
+          },
+          {
+            "stringId": "1809605497568677888",
+            "femaleVariant": "Well, I sure hope our luck turns out better than that poor son-of-a-bitch's."
+          },
+          {
+            "stringId": "1819718904238100480",
+            "femaleVariant": "Prairie dogs run three times faster than that rusted tin can."
+          },
+          {
+            "stringId": "1819718978175291392",
+            "femaleVariant": "Well, you've both reassured and offended me. That's quite the feat, Theodore."
+          },
+          {
+            "stringId": "1887819298817830912",
+            "femaleVariant": "And then boom! a pack of Raffens raided the construction site. Half of our people didn't make it out alive. You think that…"
+          },
+          {
+            "stringId": "1895209428743639044",
+            "femaleVariant": "Drones on intercept course!"
+          },
+          {
+            "stringId": "1895209428760416256",
+            "femaleVariant": "Including some heavy sons-of-bitches. Get ready!"
+          },
+          {
+            "stringId": "1895291506323640320",
+            "femaleVariant": "I see more drones on the road to the construction site."
+          },
+          {
+            "stringId": "1895294451480023040",
+            "femaleVariant": "Standard corpo security. Nothing we haven't seen before."
+          },
+          {
+            "stringId": "1895300302953533440",
+            "femaleVariant": "Shit!"
+          },
+          {
+            "stringId": "1895302460117635072",
+            "femaleVariant": "Can we fix it? Right the hell now?"
+          },
+          {
+            "stringId": "1895302915031846912",
+            "femaleVariant": "I don't know! Give me a minute!"
+          },
+          {
+            "stringId": "1895310765812633600",
+            "femaleVariant": "It's a drivetrain – the augment was too much. Insides couldn't handle it!"
+          },
+          {
+            "stringId": "1895313271707947008",
+            "femaleVariant": "There! Done!"
+          },
+          {
+            "stringId": "1895313273989648384",
+            "femaleVariant": "Systems are lighting up. We're good to go!"
+          },
+          {
+            "stringId": "1896666917909581828",
+            "femaleVariant": "Is everybody reading loud and clear? I've got us on a group channel."
+          },
+          {
+            "stringId": "1896666917959913472",
+            "femaleVariant": "Coming to you live from the Badlands, this is your host..."
+          },
+          {
+            "stringId": "1896666918010245120",
+            "femaleVariant": "Teddy."
+          },
+          {
+            "stringId": "1896666918043799552",
+            "femaleVariant": "All right, all right. Sheesh."
+          },
+          {
+            "stringId": "1896666918077353984",
+            "femaleVariant": "Did you fire up that drone?"
+          },
+          {
+            "stringId": "1896666918127685632",
+            "femaleVariant": "The little bird is humming away."
+          },
+          {
+            "stringId": "1896666918178017280",
+            "femaleVariant": "Can you control him on the go?"
+          },
+          {
+            "stringId": "1896666918228348928",
+            "femaleVariant": "Don't insult me, Pan."
+          },
+          {
+            "stringId": "1898074142653829120",
+            "femaleVariant": "Gate's down. We're going in!"
+          },
+          {
+            "stringId": "1912474283299958784",
+            "femaleVariant": "Something's busted! All the circuitry is dead!"
+          },
+          {
+            "stringId": "1912481578083807232",
+            "femaleVariant": "Shit, there goes the main power – all systems are offline!"
+          },
+          {
+            "stringId": "1996914077078409216",
+            "femaleVariant": "I'll try to work it out – but V, you need to somehow get rid of those drones!"
+          },
+          {
+            "stringId": "1998087566883835904",
+            "femaleVariant": "No, no, no...! Fire in the cockpit! Goddamn power surge!"
+          },
+          {
+            "stringId": "1998087861240090628",
+            "femaleVariant": "Panam, how's it looking? ETA?"
+          },
+          {
+            "stringId": "1998144506993332224",
+            "femaleVariant": "You got it, can you put it out? Get the fuck out if not!"
+          },
+          {
+            "stringId": "1998144731153715200",
+            "femaleVariant": "Sit tight, Bobby. We've got a situation in the panzer, but we'll rendez-vous with you shortly."
+          },
+          {
+            "stringId": "1998152400639905792",
+            "femaleVariant": "Christ, people, where are you?! I'm out here by the transmitter. What's the hold up?!"
+          },
+          {
+            "stringId": "1998153374808952832",
+            "femaleVariant": "A minute! Fire's under control. Switching to emergency power. A couple of systems will be analogue, but she should be mobile."
+          },
+          {
+            "stringId": "1998154476199628800",
+            "femaleVariant": "Saul, they know we're coming! Drones deployed, headed straight for us!"
+          },
+          {
+            "stringId": "1998154939250790400",
+            "femaleVariant": "We need more time, Bobby! Can you hold them off?"
+          },
+          {
+            "stringId": "1998155242666741760",
+            "femaleVariant": "Do I have a choice?! Look after yourselves – ol' Bobby's got this!"
+          },
+          {
+            "stringId": "1998155887264157696",
+            "femaleVariant": "Jesus Christ... Bobby?! Bobby, do you read? We have to go and--"
+          },
+          {
+            "stringId": "1998155887264157708",
+            "femaleVariant": "I'm sorry, Mitch..."
+          },
+          {
+            "stringId": "1998155887280934912",
+            "femaleVariant": "We can't afford to stop – not now."
+          },
+          {
+            "stringId": "1998155887280934924",
+            "femaleVariant": "Shit!"
+          },
+          {
+            "stringId": "1998166163157962752",
+            "femaleVariant": "Finally! I was starting to miss you all!"
+          },
+          {
+            "stringId": "1998170017303908352",
+            "femaleVariant": "Right here. Let's delta outta here!"
+          },
+          {
+            "stringId": "1998170349274681344",
+            "femaleVariant": "OK, Bobby, the panzer's moving again! Hang tight, we're coming for you!"
+          },
+          {
+            "stringId": "1998171257677041664",
+            "femaleVariant": "Bobby!"
+          },
+          {
+            "stringId": "1998219550171877376",
+            "femaleVariant": "V, get in!"
+          },
+          {
+            "stringId": "2014580930307182596",
+            "femaleVariant": "[Get out] On the drones!"
+          },
+          {
+            "stringId": "2024046995192803328",
+            "femaleVariant": "Time to churn up some dust."
+          },
+          {
+            "stringId": "2024048074219450368",
+            "femaleVariant": "An Aldecaldo convoy. Now that's a sight to behold."
+          },
+          {
+            "stringId": "2024049867921944576",
+            "femaleVariant": "Mhm. And only this desert expanse can rival the star-studded void that hangs over our heads."
+          },
+          {
+            "stringId": "2024063424415789056",
+            "femaleVariant": "On the drones! You deal with the panzer!"
+          },
+          {
+            "stringId": "2024068220317200384",
+            "femaleVariant": "Give me a minute! I can do this! We need the panzer – our lives depend on it!"
+          },
+          {
+            "stringId": "2024084343741870080",
+            "femaleVariant": "I got just one son of a bitch left, and he's about to get a--"
+          },
+          {
+            "stringId": "2236658344674480128",
+            "femaleVariant": "Militech drones. Heat incoming! Watch out for yourselves!"
+          },
+          {
+            "stringId": "2236671685061005312",
+            "femaleVariant": "Go, V! Look to those drones! Get outside!"
+          },
+          {
+            "stringId": "2238047385483497472",
+            "femaleVariant": "You are trespassing on property protected by Militech SiteSecure!"
+          },
+          {
+            "stringId": "2238047640966942724",
+            "femaleVariant": "You have ignored all warnings and calls to halt. We have no choice but to open fire!"
+          },
+          {
+            "stringId": "2238057403008176128",
+            "femaleVariant": "Turn back now. I repeat – turn your vehicles around!"
+          },
+          {
+            "stringId": "2238842833106825216",
+            "femaleVariant": "Try to hit something! They certainly mean to!"
+          },
+          {
+            "stringId": "2238843450407710724",
+            "femaleVariant": "Stay with it, V! Don't let them get a lock!"
+          },
+          {
+            "stringId": "2238844086717181952",
+            "femaleVariant": "Trust me. They're junk."
+          },
+          {
+            "stringId": "2238845897431773184",
+            "femaleVariant": "Doing it, Panam, doing it!"
+          },
+          {
+            "stringId": "2238847473500221440",
+            "femaleVariant": "They're closing, Panam!"
+          },
+          {
+            "stringId": "2238847838035570692",
+            "femaleVariant": "They're headed our way, V!"
+          },
+          {
+            "stringId": "2238849159073558528",
+            "femaleVariant": "We will greet them duly."
+          },
+          {
+            "stringId": "2238850523799416832",
+            "femaleVariant": "We need to wipe the corpos aside, off the road, make it across the bridge."
+          },
+          {
+            "stringId": "2238851998063718400",
+            "femaleVariant": "No more mistakes, not a one. We're damaged, so much shit has hit us already."
+          },
+          {
+            "stringId": "2238853644093157376",
+            "femaleVariant": "We can do this."
+          },
+          {
+            "stringId": "2238856660418490368",
+            "femaleVariant": "The panzer, V… it won't hold up much longer. Systems could go down any second."
+          },
+          {
+            "stringId": "2238857694113099776",
+            "femaleVariant": "We can do this, Panam, hang in there."
+          },
+          {
+            "stringId": "2238859979555794944",
+            "femaleVariant": "I know! Be ready!"
+          },
+          {
+            "stringId": "2238860394875777024",
+            "femaleVariant": "I'd do anything to make it in one piece, anything. After that, I can improvise."
+          }
+        ]
+      }
+
+
+

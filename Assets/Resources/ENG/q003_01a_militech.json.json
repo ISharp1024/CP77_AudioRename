@@ -1,0 +1,386 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1105115033406922752",
+            "femaleVariant": "Thought you could blackmail me, bitch?! Set conditions?!",
+            "maleVariant": "Thought you could blackmail me, fucker?! Set conditions?!"
+          },
+          {
+            "stringId": "1105115867217780756",
+            "femaleVariant": "Don't know him."
+          },
+          {
+            "stringId": "1105117448688492544",
+            "femaleVariant": "That guy? Never seen him before."
+          },
+          {
+            "stringId": "1105120986583916544",
+            "femaleVariant": "I told you! I fucking told you! I'm not the mole! Jesus Christ!"
+          },
+          {
+            "stringId": "1105120986583916556",
+            "femaleVariant": "Shut him up."
+          },
+          {
+            "stringId": "1105146028659171328",
+            "femaleVariant": "Got backup."
+          },
+          {
+            "stringId": "1105146774674857984",
+            "femaleVariant": "Yep. Just little ol' me."
+          },
+          {
+            "stringId": "1105147704921153536",
+            "femaleVariant": "It's the truth."
+          },
+          {
+            "stringId": "1105151360793960448",
+            "femaleVariant": "Talk, dammit!"
+          },
+          {
+            "stringId": "1136864313654460416",
+            "femaleVariant": "[Shake hand] Correct."
+          },
+          {
+            "stringId": "1136864854736453648",
+            "femaleVariant": "Got an offer for ya."
+          },
+          {
+            "stringId": "1136864941155893248",
+            "femaleVariant": "That'd be me."
+          },
+          {
+            "stringId": "1136900518987251712",
+            "femaleVariant": "C'mon! I want an answer!"
+          },
+          {
+            "stringId": "1136900519004028928",
+            "femaleVariant": "I'll ask again – did that cocksucker sell you any intel?"
+          },
+          {
+            "stringId": "1137046875668561920",
+            "femaleVariant": "Come on!"
+          },
+          {
+            "stringId": "1137046875668561924",
+            "femaleVariant": "I asked if you came alone!"
+          },
+          {
+            "stringId": "1145608297130311680",
+            "femaleVariant": "Christ, Meredith..."
+          },
+          {
+            "stringId": "1145609307689140224",
+            "femaleVariant": "All set."
+          },
+          {
+            "stringId": "1146019556153704448",
+            "femaleVariant": "[Shake hand] Got a proposition for you."
+          },
+          {
+            "stringId": "1151476097103249408",
+            "femaleVariant": "You want info, I want a bot. Let's make a deal."
+          },
+          {
+            "stringId": "1151495835917303808",
+            "femaleVariant": "[Take credchip] We got a deal, then."
+          },
+          {
+            "stringId": "1151498488445485056",
+            "femaleVariant": "Sounds solid enough. I'm in."
+          },
+          {
+            "stringId": "1151517132177096704",
+            "femaleVariant": "Try to fuck me in any way, and I'll be seeing you real soon."
+          },
+          {
+            "stringId": "1151537177796100096",
+            "femaleVariant": "You're making a mistake!"
+          },
+          {
+            "stringId": "1175136178700750848",
+            "femaleVariant": "Unhand me now before I-- ungh!"
+          },
+          {
+            "stringId": "1175163198054797328",
+            "femaleVariant": "You have a plan how to deal with 'em?"
+          },
+          {
+            "stringId": "1177806367837851648",
+            "femaleVariant": "Now listen close. This piece of shit, Anthony Gilchrist, is he your contact? Is he the one who leaked intel on the convoy?"
+          },
+          {
+            "stringId": "1177964105545502720",
+            "femaleVariant": "Yep. All by my lonesome."
+          },
+          {
+            "stringId": "1178029715163926528",
+            "femaleVariant": "Got any more for me?!"
+          },
+          {
+            "stringId": "1178030944229216256",
+            "femaleVariant": "Shut your trap!"
+          },
+          {
+            "stringId": "1188000879964901376",
+            "femaleVariant": "I know you spiked the chip."
+          },
+          {
+            "stringId": "1188006148597927936",
+            "femaleVariant": "That the kind of subtlety they teach at Militech? Chip's spiked with a virus, clearly."
+          },
+          {
+            "stringId": "1188019894321991680",
+            "femaleVariant": "That is true."
+          },
+          {
+            "stringId": "1197934265076748288",
+            "femaleVariant": "Meredith Stout. Take it you were the one to call…"
+          },
+          {
+            "stringId": "1244523156621430784",
+            "femaleVariant": "That fucking thing ready?"
+          },
+          {
+            "stringId": "1244524702289563648",
+            "femaleVariant": "Now answer my questions. Honestly. Forthrightly. Are you here alone?"
+          },
+          {
+            "stringId": "1244530099234738176",
+            "femaleVariant": "This bind you're in, I get it."
+          },
+          {
+            "stringId": "1244531614167011328",
+            "femaleVariant": "I'll tell you who's alone. You."
+          },
+          {
+            "stringId": "1244535071196254208",
+            "femaleVariant": "Not another word!"
+          },
+          {
+            "stringId": "1244552824795893760",
+            "femaleVariant": "Checks out."
+          },
+          {
+            "stringId": "1244566971461865472",
+            "femaleVariant": "Her you can let go – wanna hear what she has to say.",
+            "maleVariant": "Him you can let go – wanna hear what he has to say."
+          },
+          {
+            "stringId": "1244575184630517760",
+            "femaleVariant": "I need a bot – Flathead model."
+          },
+          {
+            "stringId": "1244592893367881728",
+            "femaleVariant": "Hmm... Fine, the latter. But on one condition – you pay with our money."
+          },
+          {
+            "stringId": "1245504548914675712",
+            "femaleVariant": "I got no ties to Militech."
+          },
+          {
+            "stringId": "1245767233090293760",
+            "femaleVariant": "Lemme go!"
+          },
+          {
+            "stringId": "1245767273573715968",
+            "femaleVariant": "Get your fuckin' hands off me!"
+          },
+          {
+            "stringId": "1245767672334585856",
+            "femaleVariant": "I just wanna talk!"
+          },
+          {
+            "stringId": "1245770292465963008",
+            "femaleVariant": "Calm the fuck down! I just wanna talk!"
+          },
+          {
+            "stringId": "1246073684576899072",
+            "femaleVariant": "This cunt's already good as dead!"
+          },
+          {
+            "stringId": "1246073888403296256",
+            "femaleVariant": "And she'll take you down with her!"
+          },
+          {
+            "stringId": "1248996301877538816",
+            "femaleVariant": "Look lively."
+          },
+          {
+            "stringId": "1669616323716145152",
+            "femaleVariant": "Nuh-uh. Know what, Stout? My offer just came off the table."
+          },
+          {
+            "stringId": "1669618779179147264",
+            "femaleVariant": "Mistake, big mistake."
+          },
+          {
+            "stringId": "1669630298767974400",
+            "femaleVariant": "No way, not happenin'."
+          },
+          {
+            "stringId": "1717157967487000576",
+            "femaleVariant": "Got guardian angels. With .50 caliber snipes aimed at your skull."
+          },
+          {
+            "stringId": "1717157967503777796",
+            "femaleVariant": "She's lying.",
+            "maleVariant": "He's lying."
+          },
+          {
+            "stringId": "1717157967503777816",
+            "femaleVariant": "Try that again and it's two million volts, got it?"
+          },
+          {
+            "stringId": "1717169829599469568",
+            "femaleVariant": "Got no ties to Militech. None."
+          },
+          {
+            "stringId": "1717169829599469584",
+            "femaleVariant": "Checks out."
+          },
+          {
+            "stringId": "1718792967265411072",
+            "femaleVariant": "I can help with your mole problem."
+          },
+          {
+            "stringId": "1718793732759445504",
+            "femaleVariant": "Never met anybody named Gilchrist. That the poor fucker right there?"
+          },
+          {
+            "stringId": "1718793732759445520",
+            "femaleVariant": "It's true. Doesn't know him."
+          },
+          {
+            "stringId": "1718796709809315840",
+            "femaleVariant": "Y'know, I could help patch the gaps in your convoy security. Prevent a repeat of this fiasco."
+          },
+          {
+            "stringId": "1718796709809315848",
+            "femaleVariant": "Nope. Not interested. Let's hear your offer. I don't have all day."
+          },
+          {
+            "stringId": "1718797027838222336",
+            "femaleVariant": "Your convoy security's a mess. I can help."
+          },
+          {
+            "stringId": "1720206704136380416",
+            "femaleVariant": "All right. Eddies on the credchip are clean."
+          },
+          {
+            "stringId": "1742933181225431040",
+            "femaleVariant": "You don't let me go, your dogs'll have to glue you back together."
+          },
+          {
+            "stringId": "1753441941228285952",
+            "femaleVariant": "Fail to recover that transport, and you're done. With not a soul willin' to help."
+          },
+          {
+            "stringId": "1753478589227921408",
+            "femaleVariant": "So how the fuck do you know so much?"
+          },
+          {
+            "stringId": "1753512905764958208",
+            "femaleVariant": "C'mon, all corps use the same playbook. I know the game inside out."
+          },
+          {
+            "stringId": "1753513684261335040",
+            "femaleVariant": "That said, I've jumped a few convoys in my day. Know all the usual suspects. Bet I can help find your mole."
+          },
+          {
+            "stringId": "1753517710625402880",
+            "femaleVariant": "But what I know now won't get you anywhere in that respect."
+          },
+          {
+            "stringId": "1754634957850865664",
+            "femaleVariant": "Somethin' goes wrong, I'm the one they'll fill full of holes, not you. Time you were straight with me. What's on there?"
+          },
+          {
+            "stringId": "1754635755976585216",
+            "femaleVariant": "A tracing algorithm, latches onto financial streams. Nothing you need to worry your head about."
+          },
+          {
+            "stringId": "1754642477466185728",
+            "femaleVariant": "You pay with that chip, and that's all you gotta worry about."
+          },
+          {
+            "stringId": "1754643739196715008",
+            "femaleVariant": "Could just take it by force. But they're expecting payment, so... I could go that route, too.",
+            "maleVariant": "Could just take it by force. But they're expecting payment, so I could go that route, too."
+          },
+          {
+            "stringId": "1762051917446311936",
+            "femaleVariant": "Listen, I know where the transport is. I can help you. Just want a favor in return."
+          },
+          {
+            "stringId": "1762060493590032384",
+            "femaleVariant": "Hmm..."
+          },
+          {
+            "stringId": "1762062887027666944",
+            "femaleVariant": "Guys who ripped you off have it. Promise me that bot, I'll point the finger."
+          },
+          {
+            "stringId": "1762078548592357380",
+            "femaleVariant": "[Take credchip] Fine. Deal."
+          },
+          {
+            "stringId": "1762078923345031168",
+            "femaleVariant": "Nah. Deal's off."
+          },
+          {
+            "stringId": "1768290553269280768",
+            "femaleVariant": "Stout, you bitch, you're done! You're fucking done!"
+          },
+          {
+            "stringId": "1768291603640442880",
+            "femaleVariant": "You and everyone under your thumb! Hear that, fellas?!"
+          },
+          {
+            "stringId": "1996859587179769856",
+            "femaleVariant": "Do a sweep. Now."
+          },
+          {
+            "stringId": "1996862512891359232",
+            "femaleVariant": "Lemme go."
+          },
+          {
+            "stringId": "1996862711986581504",
+            "femaleVariant": "Jesus, woman, calm down and release me."
+          },
+          {
+            "stringId": "1996863229479809024",
+            "femaleVariant": "You answer me, bitch! Anthony Gilchrist!"
+          },
+          {
+            "stringId": "1996869768382967808",
+            "femaleVariant": "Couldn’ta talked normally from the start?"
+          },
+          {
+            "stringId": "1996870099917533184",
+            "femaleVariant": "Couldn'ta been chill from the start?"
+          },
+          {
+            "stringId": "1996870728996024320",
+            "femaleVariant": "Shut the fuck up. Tell me what you want."
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,463 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1796586619024687108",
+            "femaleVariant": "有点不对劲…"
+          },
+          {
+            "stringId": "1796586619058241540",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Bueno, ¡¿qué chingados estás esperando?!\" t=\"好吧，你还在等什么？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796586619091795972",
+            "femaleVariant": "有手雷！"
+          },
+          {
+            "stringId": "1796586619158904836",
+            "femaleVariant": "女士们先生们！杰克·威尔斯！"
+          },
+          {
+            "stringId": "1796586619192459268",
+            "femaleVariant": "知道你惹的是谁吗？！"
+          },
+          {
+            "stringId": "1796586619242790916",
+            "femaleVariant": "谁想跟老子乐一乐？！"
+          },
+          {
+            "stringId": "1796586619276345344",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Chingao\" b=\"哦，\" a=\"（我去）！差点打到我！\"/>"
+          },
+          {
+            "stringId": "1796586619309899780",
+            "femaleVariant": "送你吃个够！"
+          },
+          {
+            "stringId": "1796586619326676996",
+            "femaleVariant": "小打小闹结束了！"
+          },
+          {
+            "stringId": "1796586619360231428",
+            "femaleVariant": "你…松手！"
+          },
+          {
+            "stringId": "1796586619544780804",
+            "femaleVariant": "干嘛？有尿憋不住了？"
+          },
+          {
+            "stringId": "1796586619561558020",
+            "femaleVariant": "呃…那等会儿吧。"
+          },
+          {
+            "stringId": "1796586619628666884",
+            "femaleVariant": "啊，你回来了。"
+          },
+          {
+            "stringId": "1796586619662221316",
+            "femaleVariant": "呃…怎么说？"
+          },
+          {
+            "stringId": "1796586619678998532",
+            "femaleVariant": "哈喽！"
+          },
+          {
+            "stringId": "1796586619712552964",
+            "femaleVariant": "不能赶紧的吗？"
+          },
+          {
+            "stringId": "1796586619964211204",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"嘿，\" a=\"（妹子）。\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"vato\" b=\"嘿，\" a=\"（哥们）。\"/>"
+          },
+          {
+            "stringId": "1796586619997765636",
+            "femaleVariant": "怎么说啊？"
+          },
+          {
+            "stringId": "1796586620131983364",
+            "femaleVariant": "嘿，走路看着点儿。"
+          },
+          {
+            "stringId": "1796586620148760580",
+            "femaleVariant": "嘿，轻点儿。"
+          },
+          {
+            "stringId": "1934264673427804160",
+            "femaleVariant": "呃…汉娜？我们不用登记吗？",
+            "maleVariant": "呃…哈利？我们不用登记吗？"
+          },
+          {
+            "stringId": "1934268272694284292",
+            "femaleVariant": "等等！我们得先登记！"
+          },
+          {
+            "stringId": "1966199076127907844",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"嘿，你在听吗，\" a=\"（妹子）？\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"嘿，你在听吗， \" a=\"（兄弟）？\"/>"
+          },
+          {
+            "stringId": "1966199076161462276",
+            "femaleVariant": "你可千万别吓我啊，V。"
+          },
+          {
+            "stringId": "2238067199846817792",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"走，咱们上，\" a=\"（妹子）！\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"走，咱们上，\" a=\"（兄弟）！\"/>"
+          },
+          {
+            "stringId": "2238069786960633864",
+            "femaleVariant": "咱们上！"
+          },
+          {
+            "stringId": "2238071783700996104",
+            "femaleVariant": "来呀狗日的！爷爷陪你们玩玩！"
+          },
+          {
+            "stringId": "2238074352678641672",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"cabrones!\" b=\"过来啊，来找老子啊，\" a=\"（王八蛋）！\"/>"
+          },
+          {
+            "stringId": "2238075074216370184",
+            "femaleVariant": "爷爷我拿枪子当饭吃！"
+          },
+          {
+            "stringId": "2238081631222145032",
+            "femaleVariant": "啊，都搞定了。"
+          },
+          {
+            "stringId": "2238082685519175688",
+            "femaleVariant": "咬的老子还挺疼…"
+          },
+          {
+            "stringId": "2238082720650665992",
+            "femaleVariant": "应该没活口了。"
+          },
+          {
+            "stringId": "2238165104918175752",
+            "femaleVariant": "V，注意点！"
+          },
+          {
+            "stringId": "2238165514567458824",
+            "femaleVariant": "小心，不要命了吗你！"
+          },
+          {
+            "stringId": "2238165553524154376",
+            "femaleVariant": "躲子弹。不想活了吗你！"
+          },
+          {
+            "stringId": "2238165586675933192",
+            "femaleVariant": "稳住！我们能撑过去！"
+          },
+          {
+            "stringId": "2238165716145709064",
+            "femaleVariant": "找掩护！你中枪了！"
+          },
+          {
+            "stringId": "2238682834201124868",
+            "femaleVariant": "掩护我，V！"
+          },
+          {
+            "stringId": "2238682864483999752",
+            "femaleVariant": "帮我解决他们！"
+          },
+          {
+            "stringId": "2238682894867537928",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"来呀，\" a=\"（狗日的）！爷爷等着你们呢！\"/>"
+          },
+          {
+            "stringId": "2238685622607978504",
+            "femaleVariant": "我要换子弹！"
+          },
+          {
+            "stringId": "2238685622658310152",
+            "femaleVariant": "我换弹夹！"
+          },
+          {
+            "stringId": "2238685622691864584",
+            "femaleVariant": "我打光了！等我上子弹！"
+          },
+          {
+            "stringId": "2238685622758973440",
+            "femaleVariant": "等我一下！换子弹呢！"
+          },
+          {
+            "stringId": "2238685622792527880",
+            "femaleVariant": "我马上就好！"
+          },
+          {
+            "stringId": "2238687543129448456",
+            "femaleVariant": "要炸了！"
+          },
+          {
+            "stringId": "2238687543163002888",
+            "femaleVariant": "小心，他们有手雷！"
+          },
+          {
+            "stringId": "2238687543196557320",
+            "femaleVariant": "找掩护，快！"
+          },
+          {
+            "stringId": "2238687543230111752",
+            "femaleVariant": "有手雷飞过来了！"
+          },
+          {
+            "stringId": "2238689066467106816",
+            "femaleVariant": "看着点，飞雷！"
+          },
+          {
+            "stringId": "2238689066500661256",
+            "femaleVariant": "手雷！"
+          },
+          {
+            "stringId": "2238690814468464648",
+            "femaleVariant": "哥们也撂倒了一个！"
+          },
+          {
+            "stringId": "2238690814518796296",
+            "femaleVariant": "一枪一个！"
+          },
+          {
+            "stringId": "2238690814569127944",
+            "femaleVariant": "吃屎吧你！"
+          },
+          {
+            "stringId": "2238690814619459592",
+            "femaleVariant": "又干了一个！"
+          },
+          {
+            "stringId": "2238690814653014024",
+            "femaleVariant": "办了一个！"
+          },
+          {
+            "stringId": "2238704855622524936",
+            "femaleVariant": "厉害！"
+          },
+          {
+            "stringId": "2238704855672856584",
+            "femaleVariant": "打得漂亮！"
+          },
+          {
+            "stringId": "2238704855723188228",
+            "femaleVariant": "干得好！"
+          },
+          {
+            "stringId": "2238704855756742664",
+            "femaleVariant": "这才对嘛！"
+          },
+          {
+            "stringId": "2238704855790297096",
+            "femaleVariant": "别给他们活路！"
+          },
+          {
+            "stringId": "2238712910514921480",
+            "femaleVariant": "打脑袋！"
+          },
+          {
+            "stringId": "2238712910565253128",
+            "femaleVariant": "开枪，V！"
+          },
+          {
+            "stringId": "2238712910598807560",
+            "femaleVariant": "先瞄准了再开火！"
+          },
+          {
+            "stringId": "2238712910632361992",
+            "femaleVariant": "V，打准一点！"
+          },
+          {
+            "stringId": "2238712910682693640",
+            "femaleVariant": "集中注意力！"
+          },
+          {
+            "stringId": "2238728227593035784",
+            "femaleVariant": "注意，有炮塔！"
+          },
+          {
+            "stringId": "2238728227643367432",
+            "femaleVariant": "有炮台！"
+          },
+          {
+            "stringId": "2238728227710476296",
+            "femaleVariant": "注意那个喷枪子的！"
+          },
+          {
+            "stringId": "2238728325236432904",
+            "femaleVariant": "注意——有无人机！"
+          },
+          {
+            "stringId": "2238728325269987336",
+            "femaleVariant": "小心无人机！"
+          },
+          {
+            "stringId": "2238728325320318984",
+            "femaleVariant": "有空中支援！小心！"
+          },
+          {
+            "stringId": "2238728419121733640",
+            "femaleVariant": "有个丑鬼过来了！"
+          },
+          {
+            "stringId": "2238728419222396928",
+            "femaleVariant": "小心——佣兵过来了！"
+          },
+          {
+            "stringId": "2238728419306283016",
+            "femaleVariant": "干掉那个佣兵！"
+          },
+          {
+            "stringId": "2238728473899343880",
+            "femaleVariant": "真难啃！"
+          },
+          {
+            "stringId": "2238728473949675528",
+            "femaleVariant": "有硬点子！"
+          },
+          {
+            "stringId": "2238728473983229960",
+            "femaleVariant": "麻烦上门了！"
+          },
+          {
+            "stringId": "2238739839238447112",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"快着点，\" a=\"（妹子）。\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"快着点，\" a=\"（哥们）。\"/>"
+          },
+          {
+            "stringId": "2238739839272001544",
+            "femaleVariant": "我等着你呢。"
+          },
+          {
+            "stringId": "2238739839322333192",
+            "femaleVariant": "V，精神点！"
+          },
+          {
+            "stringId": "2238739839355887624",
+            "femaleVariant": "V…？"
+          },
+          {
+            "stringId": "2238739839389442056",
+            "femaleVariant": "该你了，V。"
+          },
+          {
+            "stringId": "2238742738861465608",
+            "femaleVariant": "应该看不见我们了。"
+          },
+          {
+            "stringId": "2238742738911797256",
+            "femaleVariant": "咱们躲掉了，棒。"
+          },
+          {
+            "stringId": "2238742738962128904",
+            "femaleVariant": "他们跟丢了。"
+          },
+          {
+            "stringId": "2238743585322344456",
+            "femaleVariant": "小心点…"
+          },
+          {
+            "stringId": "2238743585423007752",
+            "femaleVariant": "悠着点，否则咱们就暴露了。"
+          },
+          {
+            "stringId": "2238743585523671048",
+            "femaleVariant": "悄没声地，V。敌人看着呢。"
+          },
+          {
+            "stringId": "2238744355262341128",
+            "femaleVariant": "快，藏起来！"
+          },
+          {
+            "stringId": "2238744355295895560",
+            "femaleVariant": "小心，别被他们发现了。"
+          },
+          {
+            "stringId": "2238744355329449992",
+            "femaleVariant": "V！他们能看见你！"
+          },
+          {
+            "stringId": "2238744397608034312",
+            "femaleVariant": "诶，探头！"
+          },
+          {
+            "stringId": "2238744397641588744",
+            "femaleVariant": "他们可盯着这里呢，小心点。"
+          },
+          {
+            "stringId": "2238744397675143176",
+            "femaleVariant": "注意，V。他们有探头。"
+          },
+          {
+            "stringId": "2238744479346630664",
+            "femaleVariant": "V，处理尸体！别留在这儿！"
+          },
+          {
+            "stringId": "2238744479396962312",
+            "femaleVariant": "不要留下马脚，V。"
+          },
+          {
+            "stringId": "2238744479447293960",
+            "femaleVariant": "得把这家伙处理了。"
+          },
+          {
+            "stringId": "2238750171252039688",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Chingada madre!\" t=\"都去死吧！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2238750171302371336",
+            "femaleVariant": "靠！"
+          },
+          {
+            "stringId": "2238755956136779784",
+            "femaleVariant": "低调点！"
+          },
+          {
+            "stringId": "2238755956170334216",
+            "femaleVariant": "低头，招子放亮点！"
+          },
+          {
+            "stringId": "2257891632345358336",
+            "femaleVariant": "往前…继续走！"
+          },
+          {
+            "stringId": "2257910520504229896",
+            "femaleVariant": "咱们…呃…解决他们！"
+          },
+          {
+            "stringId": "2257912999472111624",
+            "femaleVariant": "爷爷还没死呢！"
+          },
+          {
+            "stringId": "2257914255984926728",
+            "femaleVariant": "该死，来呀！"
+          },
+          {
+            "stringId": "2257914704825786376",
+            "femaleVariant": "别你妈…挡老子的路，傻逼！"
+          },
+          {
+            "stringId": "2272081352126021632",
+            "femaleVariant": "走吗？"
+          },
+          {
+            "stringId": "2272082536245149704",
+            "femaleVariant": "快，V，利索点。"
+          }
+        ]
+      }
+
+
+

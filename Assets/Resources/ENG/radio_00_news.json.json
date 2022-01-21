@@ -1,0 +1,818 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1973280695447887872",
+            "femaleVariant": "Something strange is stewing in Pacifica... For several hours, connectivity in the district hit flat zero. Net, telecomms, local networks – everything. Poof. Data dead in the water."
+          },
+          {
+            "stringId": "1973281544962220036",
+            "femaleVariant": "The king is dead, long live the king... Following the tragic death of Saburo Arasaka, his son, Yorinobu Arasaka, has assumed the reins as CEO."
+          },
+          {
+            "stringId": "1973282276918599684",
+            "femaleVariant": "Has Hanako Arasaka's mysterious parade disappearance just become less of a mystery?"
+          },
+          {
+            "stringId": "1973283917512220676",
+            "femaleVariant": "No jokes today, Night City – not when it means keepin' you good people safe. Biotechnica's Institute of Meteorology has issued severe a sandstorm warning."
+          },
+          {
+            "stringId": "1973284361068257284",
+            "femaleVariant": "Following that surly bastard of a sandstorm that pummeled our homes, estimates show over one hundred and forty buildings have sustained damaged."
+          },
+          {
+            "stringId": "1973285553995423748",
+            "femaleVariant": "It appears our sitting mayor, Lucius Rhyne, will likely keep his desk another four years."
+          },
+          {
+            "stringId": "1973287078809477124",
+            "femaleVariant": "Have you heard? Lucius Rhyne is singing with angels! A heart attack! ...At least according official reports."
+          },
+          {
+            "stringId": "1973295303839621124",
+            "femaleVariant": "Ho-ho-ho! The race for the mayor's desk is taking some twisty turns, folks!"
+          },
+          {
+            "stringId": "1973298100165320708",
+            "femaleVariant": "Do you all remember those boys vanishing from our streets, arcades and burger joints?"
+          },
+          {
+            "stringId": "1973300136499912708",
+            "femaleVariant": "Don't know if you've heard but word is there's a mind-blowing, industry-changing BD in the works. Get this... the crucifixion of Jesus Christ!"
+          },
+          {
+            "stringId": "1973329634989613060",
+            "femaleVariant": "Hey, mom and pop, got all eyes on your kiddos? No? Well, I recommend you check in."
+          },
+          {
+            "stringId": "1973341465275703300",
+            "femaleVariant": "Remember that BD about Christ's crucifixion? Seems production of it has been put on a hiatus \"until further notice.\""
+          },
+          {
+            "stringId": "1974942588918996996",
+            "femaleVariant": "If your commute takes you through Corpo Plaza, might wanna rethink those travel plans. Unless you're sucker for gridlock, that is."
+          },
+          {
+            "stringId": "1974945207926300676",
+            "femaleVariant": "More and more around town are reporting increasingly bizarre behavior exhibited by Delamain autonomous cabs. The common thread? They're short-circ'ing and causin' one helluva to-do."
+          },
+          {
+            "stringId": "1975260647303061504",
+            "femaleVariant": "The body count resulting from illegal street racing continues to grow-- Oh, no, excuse me."
+          },
+          {
+            "stringId": "1975260684112273412",
+            "femaleVariant": "Today is a dark day for all you lazrpop fanatics out there. Blue Moon – member of Us Cracks – has been murdered... right here in our very own backyard."
+          },
+          {
+            "stringId": "1983827041966604288",
+            "femaleVariant": "Yes, yes, yes, that very same Yorinobu who once abandoned his silver spoon to join a Japanese street gang, even dabble in a little domestic terrorism."
+          },
+          {
+            "stringId": "1983827429352521728",
+            "femaleVariant": "I dare you to name a better candidate for the world's gunrunner-in-chief!"
+          },
+          {
+            "stringId": "1983903360045793280",
+            "femaleVariant": "The Arasaka princess says she was \"indisposed for health reasons.\" She also made a point to support for her brother, Yorinobu, saying, quote, \"He is a worthy successor to my father, capable of leading the company to a bright future.\""
+          },
+          {
+            "stringId": "1986538368468238336",
+            "femaleVariant": "Authorities have urged residents to stay at home or another well-sheltered location. No resources, they say, have been set aside for search-and-rescue efforts."
+          },
+          {
+            "stringId": "1986589395749945344",
+            "femaleVariant": "Two hundred and fifty people are being treated for injuries, seventy remain missing. If you're tuning in today, count your lucky stars, choomba."
+          },
+          {
+            "stringId": "1986630388226441216",
+            "femaleVariant": "A damaged vehicle from the lauded Delamain cab service has blocked the roads, but causes for the accident remain murky."
+          },
+          {
+            "stringId": "1986658974036185088",
+            "femaleVariant": "The NCPD attributes the comms blackout to \"routine maintenance\"... Wait, did anyone else hear that foghorn or was it just me?"
+          },
+          {
+            "stringId": "1986661197503844352",
+            "femaleVariant": "The latest polls have Rhyne swirling his brandy at a cozy 60 percent, leaving his challenger, Jefferson Peralez, in search of a new strategy."
+          },
+          {
+            "stringId": "1986661367155052544",
+            "femaleVariant": "Have we achieved utopia, Night City? You're so eager for four years of the same? If you say so..."
+          },
+          {
+            "stringId": "1986662294733770752",
+            "femaleVariant": "The mayor's chair is now being warmed by a new derriere, that of Deputy Mayor Weldon Holt. With Rhyne's magnetic charisma out of the picture, the new electoral race between Holt and Peralez is wide open!"
+          },
+          {
+            "stringId": "1986662453664337920",
+            "femaleVariant": "Oooh, Night City, get ready for the gloves to come off."
+          },
+          {
+            "stringId": "1986663172081504256",
+            "femaleVariant": "Weldon Holt reportedly shed tears at Lucius Rhyne's grave, but rumors are swirling that those tears were extra salty. Did Holt play a role in the late mayor's demise?"
+          },
+          {
+            "stringId": "1986663313161113600",
+            "femaleVariant": "Or is this political mudslinging at its finest? Whatever the reality, I know plausibility when I smell it!"
+          },
+          {
+            "stringId": "1986666299908214784",
+            "femaleVariant": "In recent weeks, more than a dozen boys aged 12 to 18 have gone missing."
+          },
+          {
+            "stringId": "1986667120246968320",
+            "femaleVariant": "Their fates remain unknown, but... folks, we're livin' in Night City, last I checked. Just... look out for each other."
+          },
+          {
+            "stringId": "1986667777225969664",
+            "femaleVariant": "Well, the psychopath responsible has at last been caught! \"Peter Pan\" has been dubbed by my mates in the media... Zero orginality, I say..."
+          },
+          {
+            "stringId": "1986668366978666496",
+            "femaleVariant": "But whatever you call him, we can all agree he's a stain of a human being... A big, bloody one – even by Night City standards."
+          },
+          {
+            "stringId": "1986669418440347648",
+            "femaleVariant": "Word's even gotten out about their pick for the lead role – a convict on death row with an expiration date."
+          },
+          {
+            "stringId": "1986669682597613568",
+            "femaleVariant": "Should this dead man walking be able to swap the chair for the cross? Let us know what you think! Call in now!"
+          },
+          {
+            "stringId": "1986671200985993216",
+            "femaleVariant": "The actor-convict set to relive the titular role was gunned down before he ever reached the studio, despite having a security detail in tow."
+          },
+          {
+            "stringId": "1986671419341459456",
+            "femaleVariant": "Whaddaya think, Night City? Freak accident... or the hand of God? Haha!"
+          },
+          {
+            "stringId": "1986672033941213184",
+            "femaleVariant": "It appears the attacker was a fan of the band. I mean... what a way to show your idol love, huh? Sending you good vibes today, Night City, in case you need 'em."
+          },
+          {
+            "stringId": "1986702381190914048",
+            "femaleVariant": "Folks... The world just shook... Saburo Arasaka is dead. Now, details are few an' far between, but I've been told his body was found at the Konpeki Plaza hotel."
+          },
+          {
+            "stringId": "1986704354325733380",
+            "femaleVariant": "The celebrity suicide club received another application... this time from Kerry Eurodyne. The rock legend attempted to take his own life before a bodyguard intervened."
+          },
+          {
+            "stringId": "1986705733815541760",
+            "femaleVariant": "Has everyone heard about the latest attack on Jinguji? The owner claims, quote, \"A dozen trained cyberpsychos broke in,\" hacking his \"state-of-the-art security system.\""
+          },
+          {
+            "stringId": "1987884617261031424",
+            "femaleVariant": "There's confusion in Kabuki as Militech has closed down several streets. Security forces are allowing none to pass through, even barring local residents."
+          },
+          {
+            "stringId": "1987885062108913668",
+            "femaleVariant": "Reports show unidentified thieves are cleaning out ripperdoc clinics left and right. Ah, the NCPD is tackling the issue the best way they know how – urging citizen vigilance."
+          },
+          {
+            "stringId": "1987885344805003268",
+            "femaleVariant": "<mothertongue l=\"rus\" m=\"Privet\" b=\"\" a=\", comrades! A delegation from the USSR has arrived in our fair metropolis. The Soviet diplomats are slated to meet with prominent megacorps, though which in particular isn't yet public knowledge.\"/>"
+          },
+          {
+            "stringId": "1987885658153066500",
+            "femaleVariant": "Got a shopping excursion planned in Kabuki? Well, let your choombas know your schedule's just opened up. The district's recently been hit with a wave of abductions, with most pointing the finger at Scavs – surprise, surprise."
+          },
+          {
+            "stringId": "1987886366017363972",
+            "femaleVariant": "Anyone out there familiar with Jotaro Shobo, braindance producer? If so, I have two things you need to hear. First – he's dead. All signs point to murder."
+          },
+          {
+            "stringId": "1987886780666257416",
+            "femaleVariant": "Did y'all hear? Domestic violence struck an NCPD precinct. A disgruntled officer, Anna Hamill, opened fire on her superiors, killing them, before she too was gunned down by vigilant colleagues."
+          },
+          {
+            "stringId": "1987887114549633032",
+            "femaleVariant": "Another day, another cyberpsycho attack. The latest comes from a car shop in the Northside Industrial District."
+          },
+          {
+            "stringId": "1987887432058445832",
+            "femaleVariant": "All right, admit it – who's idea was it to hijack a van from Revere Courier Service? My question to you, mystery thief, is... Why?"
+          },
+          {
+            "stringId": "1987887738074865672",
+            "femaleVariant": "You've all heard of famed televangelist Bryce Stone? I just got word his 12-year-old son has been killed. The NCPD says there wasn't much left to identify, let alone collect."
+          },
+          {
+            "stringId": "1987888272378863624",
+            "femaleVariant": "You fine folks haven't seen anything like this—and I'm not sure you wanna. An anonymous source sent in to several major TV networks a recording of the Maelstrom gang's secretive initiation ritual."
+          },
+          {
+            "stringId": "1987888566617677832",
+            "femaleVariant": "The name Aaron McCarlson ring a bell? Sergeant in the NCPD? Well, he's a Grade-A bastard, but has proven some effectiveness..."
+          },
+          {
+            "stringId": "1987888832989536256",
+            "femaleVariant": "Ever just sit and think on the plight of war veterans? No? Me neither. But that's why I hope you give the latest from Max Jones a listen."
+          },
+          {
+            "stringId": "1987889137948991496",
+            "femaleVariant": "Arasaka claims an unknown, highly trained netrunner cell from a rival corporation was responsible for the latest attack on its servers."
+          },
+          {
+            "stringId": "1987889478979461128",
+            "femaleVariant": "The list of victims of the city's latest drug \"glitter\" continues to grow. Don't be tempted by the cute name or suspiciously low price."
+          },
+          {
+            "stringId": "1987889926394257416",
+            "femaleVariant": "The NCPD shuttered a \"glitter\" den responsible for pumping out big quanitities of the sparkly scourge. They destroyed all containers harboring the enchantingly awful drug."
+          },
+          {
+            "stringId": "1987890199107903496",
+            "femaleVariant": "Alexander Pushkin, a senior staffer in Biotechnica quality assurance, has gone missing."
+          },
+          {
+            "stringId": "1987890574347116552",
+            "femaleVariant": "Do you know what Militech does with gangsters who murder prison guards with their bare hands? They ship 'em off to the most max security joint money can buy. As was the case with Bradley Costigan."
+          },
+          {
+            "stringId": "1987890871136067592",
+            "femaleVariant": "If I've got any Shintoists tunin' in out there, first thing – steer clear of the shrine at Milagro Terrace."
+          },
+          {
+            "stringId": "1987891222534856712",
+            "femaleVariant": "Y'know the ex-wife of Emilio Gutierrez? Been married so many times we can't keep her name straight? Well, she's the city's lastest high-profile burglary victim. Quite serious, I'm afraid. She's lost everything."
+          },
+          {
+            "stringId": "1987893013167120392",
+            "femaleVariant": "Any suckers for juicy gossip out there? It appears Militech has launched a stealth provocation campaign targeting Arasaka... Ooor maybe Arasaka are the instigators? Whatever the case, it's taking a turn for the unsettling."
+          },
+          {
+            "stringId": "1987893604396212232",
+            "femaleVariant": "Quick shout-out to everyone in Heywood and Santo Domingo! Anyone tuning in? Watch your backs and your fronts out there. Lately, the Valentinos and 6th Street have had a bigger bone to pick than usual."
+          },
+          {
+            "stringId": "1987894224364675080",
+            "femaleVariant": "Attention all you lumber lovers out there. The police have raided men's stripclub \"Dicky Twister.\""
+          },
+          {
+            "stringId": "1987897280099688456",
+            "femaleVariant": "Lemme tell you somethin', folks. I recently went to the funeral, good friend of mine, at La Catrina. Oooh boy, I'll tell ya – there's something about those old-fashioned, God-fearing funeral homes."
+          },
+          {
+            "stringId": "1987897697147723784",
+            "femaleVariant": "Troubling news out of the Glen today, as a 17-year-old girl was struck by a speeding vehicle."
+          },
+          {
+            "stringId": "1987911737496477704",
+            "femaleVariant": "Say, do I have any listeners out there in the Glen? If so, I've got a big heads-up to H-1 megablock residents about a power outage."
+          },
+          {
+            "stringId": "1987912888866480136",
+            "femaleVariant": "Today's news – Maelstrom has hijacked a transport belonging to Malorian Arms. It's safe to assume the fresh delivery of firearms is now in the cold, metal hands of the chrome-heavy psycho-gang."
+          },
+          {
+            "stringId": "1987917132428386312",
+            "femaleVariant": "An advisor to the mayor has refuted allegations that he is tied in with the Valentinos gang."
+          },
+          {
+            "stringId": "1987917132495495176",
+            "femaleVariant": "Ladies and gents, I'm here with a humble request. Freelance journalist, Zoli Barnes, has gone missing. Her family asks for any information related to her disappearance."
+          },
+          {
+            "stringId": "1987920148250402824",
+            "femaleVariant": "Our city can be cruel to even its brightest stars. Logan Garcia, respected boxer and coach, has passed away. If you believe the word on the street, he died how he lived – fists flying."
+          },
+          {
+            "stringId": "1987921923531513864",
+            "femaleVariant": "Looking for some spice in your life? Then swing by Arroyo for a quick pick-me-up."
+          },
+          {
+            "stringId": "1987922767106711560",
+            "femaleVariant": "Not enough scandal in your life? Well do I have a tasty morsel for you. Matheus Stove of manufacturing giant Kendachi has severed official ties with the company once his hidden ties with the Valentinos came to light."
+          },
+          {
+            "stringId": "1987923238630367240",
+            "femaleVariant": "Y'know, you'd think corps and gangs would be like polar opposites. Hot and cold, fire and water."
+          },
+          {
+            "stringId": "1987923909517680648",
+            "femaleVariant": "I don't have any hot news stories to dish up, but I do have a little teaser. An old choomba of mine, Ted Fox, is on the trail of an epic scandal."
+          },
+          {
+            "stringId": "1987925095851401224",
+            "femaleVariant": "So, it appears \"Stanley's Boring Traffic Newsflash\" wasn't so boring after all! Remember that trafflic light snafu in Arroyo? Turns out it was an elaborate ploy to hijack a Zetatech transport! And the chase that ensued? Ooo-weee!"
+          },
+          {
+            "stringId": "1987926775217168392",
+            "femaleVariant": "Today, I call this segment \"Stanley's Contractually Obligated Boring Traffic Newsflash.\" Recently, a traffic light failure led to a major collision in Arroyo. Witnesses say all lights switched to green simultaneously."
+          },
+          {
+            "stringId": "1987927840117399552",
+            "femaleVariant": "If you belong to trade unions in Rancho Coronado, keep your wits sharp and your blades sharper. A militia has been targeting activists in the area."
+          },
+          {
+            "stringId": "1987928015388975112",
+            "femaleVariant": "A former nurse at a psychiatric hospital in Rancho Coronado has accused the staff of abuse. She claims, quote, \"The doctors torture their patients and derive sick pleasure from it.\""
+          },
+          {
+            "stringId": "1987930770409168904",
+            "femaleVariant": "What little remains of decent cops in this city has taken another blow. Police Sergeant Jasmine Dixon has been institutionalized in a max-security psychiatric unit... Why? Cyberpsychosis? PTSD?"
+          },
+          {
+            "stringId": "1987931295150153736",
+            "femaleVariant": "Some things never change. The sky is blue, Arasaka dominates the skyline, and Jefferson Peralez is still dreaming of reuniting the Not-So-United States."
+          },
+          {
+            "stringId": "1987932290525601792",
+            "femaleVariant": "Today's a somber day for all you connoisseurs of bottom-shelf booze, trash-can tunes, and dead-eyed joytoys. 7th Hell, a beloved dive bar in City Center, recently erupted in a firefight."
+          },
+          {
+            "stringId": "1987933218624413704",
+            "femaleVariant": "Most top-of-the-ladder types appear darn near untouchable to ho-hum chums like us. And in most cases appearances are the reality."
+          },
+          {
+            "stringId": "1987933579569438728",
+            "femaleVariant": "I'm here with a breaking story. A tragic accident on the outskirts of the city has left more than 70 people from the Red Ocher clan dead. Their cause of death remains unclear."
+          },
+          {
+            "stringId": "1987934348368584712",
+            "femaleVariant": "I've just, uh... received word my colleague, Zoli Barnes... has died. Reports say she threw herself on the NCART metro track at Corpo Plaza."
+          },
+          {
+            "stringId": "1987934928558268424",
+            "femaleVariant": "Good news today for all you bribe pushers and pocketers. Known for her crackdown on corruption, Eva Cole's political career has tanked following leaked footage of her involvement in an orgy."
+          },
+          {
+            "stringId": "1987936124639551496",
+            "femaleVariant": "Have you heard the boots on the border now bear the Militech \"M\"? It seems they've got a bone to pick with the smuggling world."
+          },
+          {
+            "stringId": "1987936974455873544",
+            "femaleVariant": "Militech's \"miracle\" radar, remember that? Well it's been stolen! Straight out of an outpost in the Badlands. At least, that's word on the street."
+          },
+          {
+            "stringId": "1987937367042727944",
+            "femaleVariant": "Got a pop quiz for ya, today. What awaits anyone tryin' to cross the border into the world's best city?"
+          },
+          {
+            "stringId": "1987938085392785416",
+            "femaleVariant": "I've got more rumors blowing in on dusty winds from the Badlands."
+          },
+          {
+            "stringId": "1987942239497338880",
+            "femaleVariant": "The death of the Arasaka CEO and patriarch proves not even emperors are eternal."
+          },
+          {
+            "stringId": "1987945246108663808",
+            "femaleVariant": "Half the Kerry-haters will say he was skeezed out on pills. The other half – that it was a desperate attempt to get his name back in the headlines."
+          },
+          {
+            "stringId": "1987946191806775296",
+            "femaleVariant": "Fortunately, MaxTac made quick work of the scene. Jinguji has yet to disclose the number of fatalities on the premises, but has released details on a \"can't-miss promotional sale.\""
+          },
+          {
+            "stringId": "1987948811585830912",
+            "femaleVariant": "My advice – stay at home. Save your eddies, save your kidneys."
+          },
+          {
+            "stringId": "1987950139536031744",
+            "femaleVariant": "But fear not, good people. Our boys and girls in blue at the NCPD actually managed to put a stop to the psycho and the carnage."
+          },
+          {
+            "stringId": "1987952549146902528",
+            "femaleVariant": "Here's hoping \"bright future\" means to her what it means to us."
+          },
+          {
+            "stringId": "1987953390037745664",
+            "femaleVariant": "Welcome to paradise, folks."
+          },
+          {
+            "stringId": "1987954753152991232",
+            "femaleVariant": "If any of you corpo-rats are lookin' to score brownie points with the boss on your punctuality... better luck tomorrow."
+          },
+          {
+            "stringId": "1987955764349353984",
+            "femaleVariant": "Has the city's safest taxi company lost its spot atop the podium?"
+          },
+          {
+            "stringId": "1987956794856292352",
+            "femaleVariant": "Clearly, the biggest crisis on the NCPD's plate appears to be one of imagination in its crime statistics department."
+          },
+          {
+            "stringId": "1987972188069412864",
+            "femaleVariant": "Unofficial estimates already have the body count numbering in the dozens. Keep your wits out there, kiddos."
+          },
+          {
+            "stringId": "1987979369959374848",
+            "femaleVariant": "Ahhhh... Finally, a little good news... It's givin' me goosebumps!"
+          },
+          {
+            "stringId": "1988083894800072704",
+            "femaleVariant": "Her motive remains unknown, though official channels have floated cyberpsychosis as the likely cause. Unofficial, insider reports, however... cite desperation. I think we've all been there..."
+          },
+          {
+            "stringId": "1988133079540809728",
+            "femaleVariant": "But as my boxing-buff grandpa used to say, \"The time comes to meet your haymaker.\""
+          },
+          {
+            "stringId": "1988167513283477504",
+            "femaleVariant": "In one of the district's corporate hotels, the NCPD has uncovered a secret drug lab and a large cache of neo-amphetamines. An investigation is already under way."
+          },
+          {
+            "stringId": "1988199624472248320",
+            "femaleVariant": "Welp, looks like we did it, folks. Night City – free of corruption at last."
+          },
+          {
+            "stringId": "1988247674586644480",
+            "femaleVariant": "Of course, the hospital denies any wrongdoing. And, in the same statement, they also warned of the dangers of early-onset dementia, inviting their former employee in for a free consultation."
+          },
+          {
+            "stringId": "1988274103013588992",
+            "femaleVariant": "Unwise, Ms. Cole. A politician should never be selective when delivering on such – ahem – \"public services.\" That's politics 101."
+          },
+          {
+            "stringId": "1988354518425706496",
+            "femaleVariant": "Goooood morning, Night City!"
+          },
+          {
+            "stringId": "1988354620145967108",
+            "femaleVariant": "NC! Back with ya so soon, how's your afternoon?"
+          },
+          {
+            "stringId": "1988354697455378436",
+            "femaleVariant": "Stan here! The sun is down but I hope you're still up!"
+          },
+          {
+            "stringId": "1988354766963384324",
+            "femaleVariant": "What's shakin', Night City? Your man Stan here!"
+          },
+          {
+            "stringId": "1988354846336393220",
+            "femaleVariant": "Is it a mirage? A hologram? No, my friends, it's clear, open skies! But don't take it from me – get out there and enjoy the sun!"
+          },
+          {
+            "stringId": "1988355000586117124",
+            "femaleVariant": "We've got showers in the forecast today. Ho-hum... But hey, at least pH levels are on the safe side. The only threat to your leisurely stroll now is just a bad case of wet socks."
+          },
+          {
+            "stringId": "1988355044357873668",
+            "femaleVariant": "If you're not sportin' syn-skin, don't step foot under the sky today. Biotechnica's weather team has acid rain in the forecast. Have asthma? This goes for you too."
+          },
+          {
+            "stringId": "1988355077559984128",
+            "femaleVariant": "Seal those windows and doors, folks. In fact, try not to breathe at all. Biotechnica's Institute of Meteorology has said we'll be swimmin' in a sea of particulate matter today."
+          },
+          {
+            "stringId": "1988355126700449796",
+            "femaleVariant": "A storm is a-brewin', choombas. Wicked winds, cracks of lightning – it's about to look like a classic, chromatic rock album cover out there. And remember, cyberware users – avoid open spaces. That chrome makes you a lightnin' rod!"
+          },
+          {
+            "stringId": "1988360468935122952",
+            "femaleVariant": "Look out, we've got a mean sandstorm set to whip through town. So hunker down, close your eyes and mouths, but keep those ears open. Uncle Stanley will still be on the air."
+          },
+          {
+            "stringId": "1989269550503018496",
+            "femaleVariant": "Of course, I meant casualties from \"road traffic accidents.\" That's how the NCPD classifies armed-to-the-teeth street races, after all."
+          },
+          {
+            "stringId": "1989300653230112768",
+            "femaleVariant": "During the last City Council meeting, he joked, and I quote, \"If you are to believe the raving accusations of every paranoid lunatic, you should believe America has long been ruled by reptilians.\" To his colleagues' great amusement."
+          },
+          {
+            "stringId": "1989340131109879808",
+            "femaleVariant": "I say leave the comedy to the comedians, Mr. Councilman."
+          },
+          {
+            "stringId": "1989350806200762368",
+            "femaleVariant": "Second – get some help, you twisted perverts."
+          },
+          {
+            "stringId": "1989391332790747136",
+            "femaleVariant": "What's your money on, Night City? Deadly manhunt or shady cover-up?"
+          },
+          {
+            "stringId": "1989429938406277120",
+            "femaleVariant": "I just hope their visit goes better than in '72 when failed talks almost landed us in the awkward position of all-out, scorched-earth corporate warfare."
+          },
+          {
+            "stringId": "1989496032953352192",
+            "femaleVariant": "Ever heard the skin-crawling wails of a man getting his eyes gouged without local anesthetic? Well I have – and I don't recommend it."
+          },
+          {
+            "stringId": "1989535498266984448",
+            "femaleVariant": "Politicians once dubbed them heroes. But now, you pass 'em on the street, maybe toss a few eddies in the same hat... the same they use for a pillow."
+          },
+          {
+            "stringId": "1989535690332553216",
+            "femaleVariant": "But hey, for honor and country, am I right?"
+          },
+          {
+            "stringId": "1989597415874478080",
+            "femaleVariant": "Yes, you heard that right. The traffic problem was too many green lights."
+          },
+          {
+            "stringId": "1989616956465725440",
+            "femaleVariant": "Yesterday, one José Milito signed a petition to restore employer-backed sick leave, then was mercilessly beaten to death before his ink had a chance to dry. Careful – you could be next."
+          },
+          {
+            "stringId": "1989654497231355904",
+            "femaleVariant": "All I gotta say is... Never fade away, samurai."
+          },
+          {
+            "stringId": "1989701375775981568",
+            "femaleVariant": "I mean, I'd be angry too if I thought all my bribes had gone to waste."
+          },
+          {
+            "stringId": "1992304929469800448",
+            "femaleVariant": "Breaking news – a well-known and none-too-liked city councilmember has been killed. Reports suggest he was bumped off by a solo from Montana. The suspect remains in hiding in the Badlands after drawing the ire of Militech."
+          },
+          {
+            "stringId": "1993637384049901568",
+            "femaleVariant": "I mean... everything but her five other untouched apartments and the three million in checking."
+          },
+          {
+            "stringId": "1993717845245804544",
+            "femaleVariant": "Answer – gettin' locked up in a Militech camp in the Badlands. Know how many unlucky border-crossers are held there under the pretext of \"formalities\" and \"paperwork\"?"
+          },
+          {
+            "stringId": "1993717959062437888",
+            "femaleVariant": "Seventy. Percent."
+          },
+          {
+            "stringId": "1993750410509926400",
+            "femaleVariant": "Militech has reported immigrants who have escaped from their camps – y'know, the ones likely violating every imaginable human right? – have turned their sights on our fair city."
+          },
+          {
+            "stringId": "1993750525282861056",
+            "femaleVariant": "I say welcome and good luck out there, choombas. Let's hope it's not out of the frying pan and into the fire."
+          },
+          {
+            "stringId": "1993768161207107584",
+            "femaleVariant": "To all you non-smokers out there, today's your day to start. It'll probably be healthier for ya."
+          },
+          {
+            "stringId": "1993992111354789888",
+            "femaleVariant": "The latest technological wonder they expect to help in their crusade is some type of new \"miracle\" radar."
+          },
+          {
+            "stringId": "1993992268355977216",
+            "femaleVariant": "Militech's made its move. The ball's in your court nomads!"
+          },
+          {
+            "stringId": "1993997241793888256",
+            "femaleVariant": "Has Militech's battle against smuggling ended in a blunder? Company reps have denied the reports, but wouldn't they do that anyway – true or otherwise?"
+          },
+          {
+            "stringId": "1994046089983672320",
+            "femaleVariant": "I'm sorry... no punchline on this one, Night City."
+          },
+          {
+            "stringId": "1994072019405881344",
+            "femaleVariant": "His superiors have reached out saying they would be grateful for any information as to his whereabouts. Who knows, maybe their \"gratitude\" will even have a eurodollar sign attached?"
+          },
+          {
+            "stringId": "1995047125360365568",
+            "femaleVariant": "But a certain Joanne Koch, bigwig at Biotechnica, proved today there are exceptions to the rule."
+          },
+          {
+            "stringId": "1995047302661984256",
+            "femaleVariant": "Her body was found at a hotel on Bruce Skiv Street, lifeless and vulnerable."
+          },
+          {
+            "stringId": "1995048154156027904",
+            "femaleVariant": "The bodies show no sign of injury nor sign of struggle. However, near the camp is situated a Biotechnica research facility. I mean, surely it's just a coincidence..."
+          },
+          {
+            "stringId": "1995049693767585792",
+            "femaleVariant": "If you're on your way home, turn around. Already home? Then lock the door. Seems to me something unsavory is afoot."
+          },
+          {
+            "stringId": "1995049938295508992",
+            "femaleVariant": "According to chatter on NCPD airwaves, a body has already been found in one of the building's maintenance rooms."
+          },
+          {
+            "stringId": "1995098051642638336",
+            "femaleVariant": "Are we really ready to become embroiled in yet another war?"
+          },
+          {
+            "stringId": "1995119359461933056",
+            "femaleVariant": "Word is it's some kind of personal spat. And we all know those lead to the longest body counts."
+          },
+          {
+            "stringId": "1995160982761750528",
+            "femaleVariant": "Not only do they offer reasonable seasonal promotions, there's a certain eerie, retro vibe. I give La Catrina my stamp of approval."
+          },
+          {
+            "stringId": "1995224228369776640",
+            "femaleVariant": "But my take? I knew her... and she's not the suicide type. What else I know is she was working a story... about a certain City Council member."
+          },
+          {
+            "stringId": "1995225547042177024",
+            "femaleVariant": "Coincidence? I think you know where I stand."
+          },
+          {
+            "stringId": "1995341948122996736",
+            "femaleVariant": "On a serious note today, I'd like to ask for a moment of silence. Max Jones has died. A great man, a wonderful friend, and a better journalist."
+          },
+          {
+            "stringId": "1995348715346051072",
+            "femaleVariant": "It remains unknown who's responsible, but as Max himself said, he had more enemies than hairs on his head."
+          },
+          {
+            "stringId": "1995348837366743040",
+            "femaleVariant": "Thank you, Max. For being who you were."
+          },
+          {
+            "stringId": "1995352062903959552",
+            "femaleVariant": "Do you like surprises? You steal from a delivery van just to tear open unmarked boxes like it's, what, Christmas morning?"
+          },
+          {
+            "stringId": "1995352203278925824",
+            "femaleVariant": "Actually, wait... I think I just answered my own question."
+          },
+          {
+            "stringId": "1995389080069455872",
+            "femaleVariant": "But what they didn't mention is that the origin of the breach originated from inside megablock H10 in Little China."
+          },
+          {
+            "stringId": "1995389193298886656",
+            "femaleVariant": "A \"highly trained netrunner cell\" indeed..."
+          },
+          {
+            "stringId": "1995415461251760128",
+            "femaleVariant": "Pretty merciful, all things considered. I'd have expected him to get their, uh – ahem – \"severance package\" by now."
+          },
+          {
+            "stringId": "1995478044394635264",
+            "femaleVariant": "Just some food for thought to nibble on as you get ready to cast your vote for mayor."
+          },
+          {
+            "stringId": "1996769300727517184",
+            "femaleVariant": "He put three Maelstrom gangoons behind bars yesterday, and shot another two who resisted arrest."
+          },
+          {
+            "stringId": "1996769480998703104",
+            "femaleVariant": "A dirty cop's not normally one deserving of my praise, but hey... a little dirt's OK so long as he doesn't lose sight of what's right and wrong."
+          },
+          {
+            "stringId": "1996773788465025024",
+            "femaleVariant": "NCPD radio chatter is tellin' me a shooting has taken place there."
+          },
+          {
+            "stringId": "1996773992475971584",
+            "femaleVariant": "Second thing – can anyone offer me a Shinto crash course? I'd like to pay my respects and I'm lost."
+          },
+          {
+            "stringId": "1996782303774560256",
+            "femaleVariant": "Apparently, they suspected the club of peddling more than just pole dancing and \"pole dancing.\" At least to the extent they ripped the plaster off the walls..."
+          },
+          {
+            "stringId": "1996788015829405696",
+            "femaleVariant": "Fortunately, she survived. However, the driver responsible didn't stop to help, leaving the girl alone on the curbside to fight for her life."
+          },
+          {
+            "stringId": "1996788166170038272",
+            "femaleVariant": "Night City, I ask you, if you spot a black Villefort Cortes with a dented hood, please call it in."
+          },
+          {
+            "stringId": "1996795696707325952",
+            "femaleVariant": "In truth, it's more yin and yang. Behind the curtain, under the table, they don't shy away from doin' biz and bein' bedfellows."
+          },
+          {
+            "stringId": "1996795893218856960",
+            "femaleVariant": "A breaking story from Ted Fox proves Kendachi has been selling miltary-grade implants to the 6th Street Gang in exchange for \"favors\"... Anyone else feel sick to their stomach yet?"
+          },
+          {
+            "stringId": "1996801957947559936",
+            "femaleVariant": "About what, you ask? For now, all I can reveal is that it's got cash, chrome, power and intrigue. So I ask, what else could you want? Stay tuned, I'll have more for you soon..."
+          },
+          {
+            "stringId": "1996811191355494400",
+            "femaleVariant": "No. My sources tell me she blew the whistle, reported corruption within the NCPD. And oh, my dear listeners, how I wish my sources were ever wrong..."
+          },
+          {
+            "stringId": "1996816812024844288",
+            "femaleVariant": "The NCPD suspects it was an isolated incident, a contract killing. Still, for the time being, consider booking a new locale for any upcoming soirees or casual knife fights."
+          },
+          {
+            "stringId": "1996891006829314048",
+            "femaleVariant": "But does anyone know if they ever caught it? Because this radio host sure doesn't."
+          },
+          {
+            "stringId": "2003730551492485120",
+            "femaleVariant": "Anyone out there had the misfortune of installing Zetatech's latest faulty knee joint? Trust me, you'd know. It bends every way but the right way."
+          },
+          {
+            "stringId": "2003733989546696712",
+            "femaleVariant": "I've got a real noodle-cooker for you today. Researchers at Biotechnica have exposed a dolphin to the braindance of a human child learning to read. Apparently, this perceptive porpoise-cousin can already distinguish between all our vowels."
+          },
+          {
+            "stringId": "2003734031892389896",
+            "femaleVariant": "Anyone else have that grandpa who'd go on an' on about horses? Half my childhood I dreamed of galloping around the Badlands. Now, Biotechnica might just make a cowpoke of me yet as they prepare a prototype for their \"robo-bronco.\""
+          },
+          {
+            "stringId": "2003734077811630088",
+            "femaleVariant": "To all those Bushido fanboys and girls out there, you know the protagonist, Jake? Well, one fangirl has pulled out all the stops to look just like him. A dozen implants and syn-skin grafts later, she's Jake 2.0."
+          },
+          {
+            "stringId": "2003734143561539592",
+            "femaleVariant": "I got out to see \"Corporate Wars – The Musical\" the other night. Spoilers – Andrew, the protagonist, yearns to see the world's last seagull, so he enlists Arasaka to help. 'Cause, y'know, they've got a navy, I guess."
+          },
+          {
+            "stringId": "2003734192853000200",
+            "femaleVariant": "Have you heard the latest urban legend haunting the city? About a man possessed by a demon? He roams the streets begging, pleading for help."
+          },
+          {
+            "stringId": "2003734252345008136",
+            "femaleVariant": "Say goodbye to your favorite bootleg brands, choombas. An Arasaka spokesperson has announced efforts that will spell the end to the counterfeit market as we know it."
+          },
+          {
+            "stringId": "2003734319353208832",
+            "femaleVariant": "Where is the division between man and machine? To find the answer, check out the latest book from Richard Sanchez titled \"Chromo Sapiens.\""
+          },
+          {
+            "stringId": "2003734907864391688",
+            "femaleVariant": "Several independent studies have concluded that half of all manual laborers in Night City are expected to die before the age of seventy."
+          },
+          {
+            "stringId": "2003735124122705928",
+            "femaleVariant": "Now, this could just be rumors but word is a new, scary line has been crossed."
+          },
+          {
+            "stringId": "2003769195778260992",
+            "femaleVariant": "But, wait! Don't swap it out for a new one just yet! In Night City, impracticality is always in vogue. You might just be on the forward edge of fashion!"
+          },
+          {
+            "stringId": "2003769784423661568",
+            "femaleVariant": "It's a damn shame dolphins can only survive in lab tanks. I'd sure love to seem 'em take a crack at world domination!"
+          },
+          {
+            "stringId": "2003770581660188672",
+            "femaleVariant": "I'd crack a lousy joke about the horsepower it must be packin', but honestly... I'm too giddy to think straight."
+          },
+          {
+            "stringId": "2003771372202606592",
+            "femaleVariant": "Apparently, the actor doesn't mind but the studio has cried foul of trademark infringement. With that kinda blowback, she better leave a glowing review for her ripperdoc..."
+          },
+          {
+            "stringId": "2003773105943330816",
+            "femaleVariant": "I'm not sure the world's ever before witnessed such whimsical trash, but hey, I honestly don't know what I expected from a Militech production."
+          },
+          {
+            "stringId": "2003773819830648832",
+            "femaleVariant": "It's said he's a former NetWatch agent who dove too deep into the Net but didn't return himself... Honestly, true or not, it'll make for a real blockbuster someday."
+          },
+          {
+            "stringId": "2003775620898340864",
+            "femaleVariant": "First on the megacorp's chopping block are the little-known rice wine \"Ara-Sake\" and niche rock band \"AraSUCKER.\""
+          },
+          {
+            "stringId": "2003775748791058432",
+            "femaleVariant": "Honestly, this announcement might've been the big promo boost these small-time bootleggers have been lookin' for."
+          },
+          {
+            "stringId": "2003776686452883456",
+            "femaleVariant": "In a nutshell, according to Sanchez, humankind can never be fully automated because of, quote, \"all our damn brain chemistry.\""
+          },
+          {
+            "stringId": "2003776803054534656",
+            "femaleVariant": "I wonder if this bestseller has made the Maelstrom book club's reading list."
+          },
+          {
+            "stringId": "2003778474484678656",
+            "femaleVariant": "If you have the strength, go to work. If you don't, you go anyway. Either die on the job or die of hunger, choice is yours."
+          },
+          {
+            "stringId": "2003778590465572864",
+            "femaleVariant": "First World problems, am I right?"
+          },
+          {
+            "stringId": "2003779526634225664",
+            "femaleVariant": "Good old-fashioned bribes as a means of control could go extinct. Soon, none of us may ever be sure again if we're acting of our own volition or are the unwitting victims subliminal manipulation. Puppets."
+          },
+          {
+            "stringId": "2003779658570252288",
+            "femaleVariant": "Has it really come to this, Night City?"
+          },
+          {
+            "stringId": "2003805301806710784",
+            "femaleVariant": "I wait with eager anticipation to see how the NCPD plans to deliver their own justice."
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,189 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1822520750399586308",
+            "femaleVariant": "你瞅什么瞅？"
+          },
+          {
+            "stringId": "1822520750433140740",
+            "femaleVariant": "嘘，别说话。我知道你想要我的东西。"
+          },
+          {
+            "stringId": "1822520750483472388",
+            "femaleVariant": "别带你那张丑脸到处吓人了。"
+          },
+          {
+            "stringId": "1822520750517026820",
+            "femaleVariant": "相信我，在这儿瞎晃悠不会有好下场。"
+          },
+          {
+            "stringId": "1822520750567358468",
+            "femaleVariant": "你那只手不想要了吗？"
+          },
+          {
+            "stringId": "1822520750600912900",
+            "femaleVariant": "你是不是觉得亮个家伙就特厉害啊。"
+          },
+          {
+            "stringId": "1822520750668021764",
+            "femaleVariant": "我要把你跟他们一起活埋了！"
+          },
+          {
+            "stringId": "1822520750684798980",
+            "femaleVariant": "我要打到你喊姥姥！！"
+          },
+          {
+            "stringId": "1822520750751907844",
+            "femaleVariant": "打算回去了？呸。"
+          },
+          {
+            "stringId": "1822520750785462276",
+            "femaleVariant": "碰上个听话的真好…"
+          },
+          {
+            "stringId": "1822520750869348356",
+            "femaleVariant": "怎么回事…"
+          },
+          {
+            "stringId": "1822520750902902788",
+            "femaleVariant": "好吧…"
+          },
+          {
+            "stringId": "1822520750986788868",
+            "femaleVariant": "连个鬼影都没有！"
+          },
+          {
+            "stringId": "1822520751020343300",
+            "femaleVariant": "去他娘的吧。毛也没有。"
+          },
+          {
+            "stringId": "1822520751070674948",
+            "femaleVariant": "我们也有好人，我就是，出来聊聊吧。"
+          },
+          {
+            "stringId": "1822520751087452164",
+            "femaleVariant": "来吧！让我看看你的漂亮脸板。"
+          },
+          {
+            "stringId": "1822520751121006596",
+            "femaleVariant": "查查这是谁干的！"
+          },
+          {
+            "stringId": "1822520751154561028",
+            "femaleVariant": "嗯哼。我们这就去。"
+          },
+          {
+            "stringId": "1822520751204892676",
+            "femaleVariant": "你摊上事了！"
+          },
+          {
+            "stringId": "1822520751238447108",
+            "femaleVariant": "干死她！"
+          },
+          {
+            "stringId": "1822520751305555968",
+            "femaleVariant": "炸不死你！"
+          },
+          {
+            "stringId": "1822520751422996484",
+            "femaleVariant": "把她撕成碎片。",
+            "maleVariant": "把他撕成碎片。"
+          },
+          {
+            "stringId": "1822520751473328132",
+            "femaleVariant": "我掩护你们！"
+          },
+          {
+            "stringId": "1822520751573991428",
+            "femaleVariant": "撤退！"
+          },
+          {
+            "stringId": "1822520751607545856",
+            "femaleVariant": "我中弹了！"
+          },
+          {
+            "stringId": "1822520751724986368",
+            "femaleVariant": "呵，你个小婊子！",
+            "maleVariant": "呵，你个小傻狗！"
+          },
+          {
+            "stringId": "1822520751758540804",
+            "femaleVariant": "喂，滚蛋！"
+          },
+          {
+            "stringId": "1822520751842426884",
+            "femaleVariant": "喂？什么？"
+          },
+          {
+            "stringId": "1822520751892758532",
+            "femaleVariant": "嗯…好吧，我们可以试试…好…我一会儿去俱乐部…嗯，带过来吧…"
+          },
+          {
+            "stringId": "1822520751909535748",
+            "femaleVariant": "嗯哼…对…不，不，不…别去那儿…"
+          },
+          {
+            "stringId": "1822520751976644612",
+            "femaleVariant": "她藏起来了。快去找！",
+            "maleVariant": "他藏起来了。快去找！"
+          },
+          {
+            "stringId": "1822520752010199044",
+            "femaleVariant": "我从边上过去，需要掩护！"
+          },
+          {
+            "stringId": "1822520752043753476",
+            "femaleVariant": "快闪！"
+          },
+          {
+            "stringId": "1822520752094085124",
+            "femaleVariant": "祝你好运。"
+          },
+          {
+            "stringId": "1822520752161193988",
+            "femaleVariant": "怎么…？什么声音？"
+          },
+          {
+            "stringId": "1822520752295411716",
+            "femaleVariant": "小杂种们，过来！"
+          },
+          {
+            "stringId": "1822520752312188932",
+            "femaleVariant": "去看看，二货们——一、二、一、二！"
+          },
+          {
+            "stringId": "1822520752345743364",
+            "femaleVariant": "你不认路吗？快走！"
+          },
+          {
+            "stringId": "1822520752379297792",
+            "femaleVariant": "只要一枪，万事大吉！"
+          },
+          {
+            "stringId": "1822520752412852228",
+            "femaleVariant": "咳…咳…啊啊啊…咳…"
+          },
+          {
+            "stringId": "1822567690650812416",
+            "femaleVariant": "我们跟他们有仇…我警告过你了…随你便吧…"
+          }
+        ]
+      }
+
+
+

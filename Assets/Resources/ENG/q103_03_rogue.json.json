@@ -1,0 +1,722 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1620030296686047232",
+            "femaleVariant": "Anders Hellman. Hot-shot engineer. Worked for Arasaka."
+          },
+          {
+            "stringId": "1620030296686047240",
+            "femaleVariant": "Millisec."
+          },
+          {
+            "stringId": "1620030296719601664",
+            "femaleVariant": "Anders Hellman – need to track him down."
+          },
+          {
+            "stringId": "1620030296719601680",
+            "femaleVariant": "What was that about?"
+          },
+          {
+            "stringId": "1620030296736378880",
+            "femaleVariant": "Even you lost people in action."
+          },
+          {
+            "stringId": "1620030296753156096",
+            "femaleVariant": "They knew the risks. All sorts of shit happens – to all sorts of people."
+          },
+          {
+            "stringId": "1620030296786710528",
+            "femaleVariant": "The girl – what was her gripe?"
+          },
+          {
+            "stringId": "1620030297071923200",
+            "femaleVariant": "[Sit] Hope you found him."
+          },
+          {
+            "stringId": "1620030297340358656",
+            "femaleVariant": "[Take chip] Let's have a look."
+          },
+          {
+            "stringId": "1620030297390690304",
+            "femaleVariant": "All clear. Thanks."
+          },
+          {
+            "stringId": "1620030297390690320",
+            "femaleVariant": "Good luck."
+          },
+          {
+            "stringId": "1620030297474576384",
+            "femaleVariant": "That was the good news."
+          },
+          {
+            "stringId": "1628613641103106048",
+            "femaleVariant": "Can we talk?"
+          },
+          {
+            "stringId": "1628613641203769344",
+            "femaleVariant": "No. This trouble, the net around me – you wove it."
+          },
+          {
+            "stringId": "1628613641405095936",
+            "femaleVariant": "Rogue? Wanted to talk."
+          },
+          {
+            "stringId": "1657358052017958912",
+            "femaleVariant": "Lemme be plain. Again. Solve your own problems, clean up your shit."
+          },
+          {
+            "stringId": "1657368697396391936",
+            "femaleVariant": "Do you know what, Rogue? Go fuck yourself."
+          },
+          {
+            "stringId": "1657416960531099648",
+            "femaleVariant": "You got Johnny killed."
+          },
+          {
+            "stringId": "1657428297046945792",
+            "femaleVariant": "Arasaka Tower - 'member? Who'd you lose back then? Johnny something...",
+            "maleVariant": "Arasaka Tower - 'member? Who'd you lose back then? Johnny somethin'…"
+          },
+          {
+            "stringId": "1657428432724291584",
+            "femaleVariant": "Ah. You came prepped. 'Course."
+          },
+          {
+            "stringId": "1657431624623190016",
+            "femaleVariant": "Siddown."
+          },
+          {
+            "stringId": "1657531073265528836",
+            "femaleVariant": "What's the bad news?"
+          },
+          {
+            "stringId": "1657531376111054848",
+            "femaleVariant": "Got this intel pretty fast."
+          },
+          {
+            "stringId": "1657533130991071232",
+            "femaleVariant": "Bad news is the extraction site. Look – Night City airspace, all this."
+          },
+          {
+            "stringId": "1657533718545952768",
+            "femaleVariant": "And here, we're too close to Kang Tao. We even give that AV a dirty look, their backup huscle'll be on us."
+          },
+          {
+            "stringId": "1657537125377765380",
+            "femaleVariant": "Know the right person?"
+          },
+          {
+            "stringId": "1657537848391888896",
+            "femaleVariant": "What sort of gear'll I need?"
+          },
+          {
+            "stringId": "1657538148553060352",
+            "femaleVariant": "What kind of gear are we talkin'?"
+          },
+          {
+            "stringId": "1657539008955805696",
+            "femaleVariant": "Cruisin' speed of an AV like that's two hundred and fifty miles an hour. Ever tried to grab anything moving that fast?"
+          },
+          {
+            "stringId": "1657544005395279872",
+            "femaleVariant": "It's not about firepower. There are ways. And people who know them. Or who can at least improvise on a theme."
+          },
+          {
+            "stringId": "1657545839665082368",
+            "femaleVariant": "Even tracking her'll be difficult. Plus, this model packs next-gen defenses."
+          },
+          {
+            "stringId": "1657551817856905216",
+            "femaleVariant": "Panam has to help me? Why?"
+          },
+          {
+            "stringId": "1657552043778895872",
+            "femaleVariant": "Strange. Nomads usually keep clear of city folk."
+          },
+          {
+            "stringId": "1657554058235998208",
+            "femaleVariant": "Why's Panam gotta help me? I sense a catch. Pretty big one."
+          },
+          {
+            "stringId": "1657554383579770880",
+            "femaleVariant": "Occasionally, Panam moves merch for me. Last job... well, wasn't a good day for her."
+          },
+          {
+            "stringId": "1657554982845149184",
+            "femaleVariant": "She run into a hitch?"
+          },
+          {
+            "stringId": "1657557425305808896",
+            "femaleVariant": "Complete bust, actually. Lost the goods and her ride. Panam'll do anything to get the load back. Means her dignity – I know her."
+          },
+          {
+            "stringId": "1657572248613679104",
+            "femaleVariant": "OK, guess I can try to help her. But if we don't know where to look, I mean…",
+            "maleVariant": "OK, guess I can try to help her. But if we don't know where to look, I mean--"
+          },
+          {
+            "stringId": "1657573115022667776",
+            "femaleVariant": "We do. I do."
+          },
+          {
+            "stringId": "1657573585422249988",
+            "femaleVariant": "Wow. Gonna try to play me like Panam?"
+          },
+          {
+            "stringId": "1657573864695787520",
+            "femaleVariant": "So tell me."
+          },
+          {
+            "stringId": "1657579906221600768",
+            "femaleVariant": "You know, but wouldn't tell Panam? Aim to play cat and mouse with me, too?"
+          },
+          {
+            "stringId": "1657581273799585792",
+            "femaleVariant": "My aim is to know an opportunity when I see one. And then to seize it."
+          },
+          {
+            "stringId": "1657583776792440832",
+            "femaleVariant": "Say I told her everything. Whaddaya think she'd 'ave done? Grabbed her iron and gone on the warpath, that's what. Not hard to see how that coulda ended."
+          },
+          {
+            "stringId": "1657586095487578112",
+            "femaleVariant": "Fine. Lemme hear what you know."
+          },
+          {
+            "stringId": "1657589331980316672",
+            "femaleVariant": "Rocky Ridge, ghost town just outside Night City. Panam knows where."
+          },
+          {
+            "stringId": "1657592311982977024",
+            "femaleVariant": "You'll go there, get the merch back. Wheels, too."
+          },
+          {
+            "stringId": "1657597632105279488",
+            "femaleVariant": "Naturally, you'll call her first. Sendin' you her detes."
+          },
+          {
+            "stringId": "1659162766777757696",
+            "femaleVariant": "Queen of The Afterlife. Who woulda thunk…"
+          },
+          {
+            "stringId": "1661860845281996800",
+            "femaleVariant": "Why don't ya ask her. Might still be around, sniveling in a corner."
+          },
+          {
+            "stringId": "1661863391560069120",
+            "femaleVariant": "Need your services. Gotta track a guy down."
+          },
+          {
+            "stringId": "1661864775562948608",
+            "femaleVariant": "Mhm?"
+          },
+          {
+            "stringId": "1661940925786091520",
+            "femaleVariant": "A dead zone. I'll grab him there."
+          },
+          {
+            "stringId": "1661977522061570048",
+            "femaleVariant": "Hm. Can't be trusted if her clan banished her. Sorry, just not willin' to pay you for help like that."
+          },
+          {
+            "stringId": "1661978277304725504",
+            "femaleVariant": "Varies by clan, by the connections they have, the depth of the shit they're in."
+          },
+          {
+            "stringId": "1661990498147627008",
+            "femaleVariant": "Actually, she walked away. Said it was about the family, its future, nomad ideals, blah, blah, blah, blah, blah... I stopped listening a few words in."
+          },
+          {
+            "stringId": "1661993483535773696",
+            "femaleVariant": "Thought you preferred to know who you're dealing with."
+          },
+          {
+            "stringId": "1661993644798373888",
+            "femaleVariant": "I know enough. 'Sides, when someone starts spouting \"ideals,\" it's prolly about something else. Power, usually."
+          },
+          {
+            "stringId": "1661994948622938112",
+            "femaleVariant": "Fortunately, not my biz, not yours. Panam's capable and stands to help you – that's all you need to know."
+          },
+          {
+            "stringId": "1664650336044445696",
+            "femaleVariant": "Mhm. No way to 'jack the transport without the NCPD picking up on it."
+          },
+          {
+            "stringId": "1664665500064018432",
+            "femaleVariant": "But... right here's Jackson Plains. Narrow corridor just outside the city and just out of Kang Tao's reach."
+          },
+          {
+            "stringId": "1664687860519399424",
+            "femaleVariant": "But you're right – Aldecaldos're rarely willing to do biz with the city."
+          },
+          {
+            "stringId": "1664689469890621440",
+            "femaleVariant": "Panam's got a different take?"
+          },
+          {
+            "stringId": "1664693496959332352",
+            "femaleVariant": "Yep. On everything, it seems."
+          },
+          {
+            "stringId": "1670493394942160896",
+            "femaleVariant": "Think you can track him down?"
+          },
+          {
+            "stringId": "1670516260945391616",
+            "femaleVariant": "So what's the bad news?"
+          },
+          {
+            "stringId": "1670536924653809664",
+            "femaleVariant": "Huh, I'm 'er only chance. And she's my only chance. Two pawns on Rogue's board."
+          },
+          {
+            "stringId": "1670538122513477632",
+            "femaleVariant": "You're quick. For a pawn."
+          },
+          {
+            "stringId": "1672193725988204544",
+            "femaleVariant": "You know it. I lost everything. Through you."
+          },
+          {
+            "stringId": "1672214690864427008",
+            "femaleVariant": "Don't work with clan outcasts."
+          },
+          {
+            "stringId": "1672220838908784640",
+            "femaleVariant": "And there's nothin' I hate more than losin' good people to plain stupidity."
+          },
+          {
+            "stringId": "1672235224062881792",
+            "femaleVariant": "Anders Hellman. Pinpoint him for me?"
+          },
+          {
+            "stringId": "1672239406840934400",
+            "femaleVariant": "Huh. Thanks."
+          },
+          {
+            "stringId": "1672239998975995904",
+            "femaleVariant": "Jumpin' too soon. First, my help's got a price. Second, and third –"
+          },
+          {
+            "stringId": "1672240662649106432",
+            "femaleVariant": "Your Hellman's not on any payroll, not officially, anyway. But he does pop up in QianT's confidential stacks."
+          },
+          {
+            "stringId": "1672240662649106452",
+            "femaleVariant": "It's a Kang Tao subsidiary. Chinese corp."
+          },
+          {
+            "stringId": "1672240662665883648",
+            "femaleVariant": "Kang Tao's been using them as a fig leaf for years. Their mask for more \"sensitive\" operations. All that clear?"
+          },
+          {
+            "stringId": "1672251305326407680",
+            "femaleVariant": "Dexter DeShawn. Jackie Welles. T-Bug."
+          },
+          {
+            "stringId": "1672253320488153088",
+            "femaleVariant": "Multiple bells ringin', V. Left a lot of bodies behind, death walks in your wake. Chalk that up to bad luck?"
+          },
+          {
+            "stringId": "1672256218097905664",
+            "femaleVariant": "Theeere's the bitch I know... Ask her about 'Saka Tower. How they shot me up right in front of her."
+          },
+          {
+            "stringId": "1672308293938835456",
+            "femaleVariant": "Even to the best. To you, too, Rogue."
+          },
+          {
+            "stringId": "1672324908130627588",
+            "femaleVariant": "They're protecting him from Arasaka."
+          },
+          {
+            "stringId": "1672325290651152384",
+            "femaleVariant": "Can you track him down?"
+          },
+          {
+            "stringId": "1672325803664863232",
+            "femaleVariant": "Prolly keeping him hidden from Arasaka. Must've worked on a top-secret project."
+          },
+          {
+            "stringId": "1672327068197187584",
+            "femaleVariant": "Getting a mark on him oughta be easy. Actually grabbing him – another story entirely."
+          },
+          {
+            "stringId": "1672329160567681024",
+            "femaleVariant": "Mhm – hidden from Arasaka or any other megacorp that wants what he knows."
+          },
+          {
+            "stringId": "1672330832635359248",
+            "femaleVariant": "Decrypted map of upcoming Kang Tao convoy routes."
+          },
+          {
+            "stringId": "1672330832635359268",
+            "femaleVariant": "Think Hellman might be in one of 'em? Thing is, which one?"
+          },
+          {
+            "stringId": "1672330832652136448",
+            "femaleVariant": "Take a look at the specs on this one – a lone AV, no ground support. No linked cargo manifests, either."
+          },
+          {
+            "stringId": "1672330832652136460",
+            "femaleVariant": "Sure, Kang Tao sometimes transports stuff unregistered if they wanna push it under the table, but…"
+          },
+          {
+            "stringId": "1672330832668913664",
+            "femaleVariant": "Catch the load on this AV. Already approved in the system, but too low. So definitely no cargo on board."
+          },
+          {
+            "stringId": "1672330832668913684",
+            "femaleVariant": "BUT there's a passenger list – Kang Tao security detail plus one VIP. Transfer from QianT."
+          },
+          {
+            "stringId": "1672330832685690884",
+            "femaleVariant": "Our boy, Hellman."
+          },
+          {
+            "stringId": "1672338080644329472",
+            "femaleVariant": "Data's all confidential. You just snap your fingers and it falls in your lap?"
+          },
+          {
+            "stringId": "1672338822969028608",
+            "femaleVariant": "I know where to look. And I know whose head to put in a vise."
+          },
+          {
+            "stringId": "1672364255064223744",
+            "femaleVariant": "Bottle stays."
+          },
+          {
+            "stringId": "1673277950015434752",
+            "femaleVariant": "Gonna need a native to the area, someone who'll set up the op, cobble together the gear."
+          },
+          {
+            "stringId": "1673417330146127872",
+            "femaleVariant": "Thanks, Nix."
+          },
+          {
+            "stringId": "1673482926627991560",
+            "femaleVariant": "Think she'll help?"
+          },
+          {
+            "stringId": "1673482926627991572",
+            "femaleVariant": "The Rogue I remember was one cold-ass bitch. But she usually went with her gut. Somethin' tells me she thinks you check out."
+          },
+          {
+            "stringId": "1673484574100271108",
+            "femaleVariant": "Think she'll help?"
+          },
+          {
+            "stringId": "1673485719363366916",
+            "femaleVariant": "[Drink] To your health."
+          },
+          {
+            "stringId": "1673488414119800832",
+            "femaleVariant": "To your health."
+          },
+          {
+            "stringId": "1674786556439293952",
+            "femaleVariant": "To YOURS, kid. Gonna need it."
+          },
+          {
+            "stringId": "1677641079918817280",
+            "femaleVariant": "Wanna go through obits? Really?"
+          },
+          {
+            "stringId": "1677641508056592384",
+            "femaleVariant": "Fine. Johnny Silverhand. Zeroed inside Arasaka Tower, before your very eyes."
+          },
+          {
+            "stringId": "1677643406985785344",
+            "femaleVariant": "Got more, if you want. Or we could just talk."
+          },
+          {
+            "stringId": "1677648457431117824",
+            "femaleVariant": "Got 'nads on you, girl. Don't like that on every woman, but they seem to suit you.",
+            "maleVariant": "Got balls on you, boy. Don't like that on everybody, but they seem to suit you."
+          },
+          {
+            "stringId": "1690880771522949120",
+            "femaleVariant": "Also, hate wastin' time. Especially answering stupid questions."
+          },
+          {
+            "stringId": "1692229806341992448",
+            "femaleVariant": "Got a shard for you – intel, interesting stuff."
+          },
+          {
+            "stringId": "1692274911182565376",
+            "femaleVariant": "Let's see what you got."
+          },
+          {
+            "stringId": "1692312102713667592",
+            "femaleVariant": "Hm. Not here, not there. Who're you?"
+          },
+          {
+            "stringId": "1692312102713667612",
+            "femaleVariant": "Name's V."
+          },
+          {
+            "stringId": "1692312102713667632",
+            "femaleVariant": "And what is it you want, V?"
+          },
+          {
+            "stringId": "1699523951716708352",
+            "femaleVariant": "Hope you found him."
+          },
+          {
+            "stringId": "1715665960857890816",
+            "femaleVariant": "Don't mess with 'er. She's got MR-eyes. See right through you. Give 'er the truth."
+          },
+          {
+            "stringId": "1730054935163678720",
+            "femaleVariant": "Aim to let that evaporate?"
+          },
+          {
+            "stringId": "1730061637544030208",
+            "femaleVariant": "You waiting for something?"
+          },
+          {
+            "stringId": "1741706323434123264",
+            "femaleVariant": "Gonna sit down?"
+          },
+          {
+            "stringId": "1741706373983875072",
+            "femaleVariant": "My time's pretty valuable, V."
+          },
+          {
+            "stringId": "1761833414240526336",
+            "femaleVariant": "They're getting ready to transfer him."
+          },
+          {
+            "stringId": "1761834629095514112",
+            "femaleVariant": "Must be preppin' him for a transfer."
+          },
+          {
+            "stringId": "1761835331339444224",
+            "femaleVariant": "How would you know?"
+          },
+          {
+            "stringId": "1761835574290309120",
+            "femaleVariant": "Chinese corpo playbook's an open one to me. This looks like the ol' \"vanishing pigeon.\""
+          },
+          {
+            "stringId": "1761906583957692416",
+            "femaleVariant": "So without real firepower, I'll be able to wave to Hellman as he zips past."
+          },
+          {
+            "stringId": "1773444660789374976",
+            "femaleVariant": "Anyways... feelings be damned, I've always said. This is pure biz. You need my help, so get those eddies ready."
+          },
+          {
+            "stringId": "1773448675711381508",
+            "femaleVariant": "[Pay] This enough?"
+          },
+          {
+            "stringId": "1773449413824999424",
+            "femaleVariant": "And if I don't have the cash?"
+          },
+          {
+            "stringId": "1773450259950333952",
+            "femaleVariant": "Should be enough."
+          },
+          {
+            "stringId": "1773450468944113664",
+            "femaleVariant": "U-huh. And if I don't have the scratch? It's \"fuck off and have a nice day\"?"
+          },
+          {
+            "stringId": "1773453369171111936",
+            "femaleVariant": "No. More like, \"Come back when you do.\" Them's the breaks."
+          },
+          {
+            "stringId": "1773454985454546944",
+            "femaleVariant": "Mhm. Then, see ya. Soon."
+          },
+          {
+            "stringId": "1773455396462784512",
+            "femaleVariant": "You know where to find me."
+          },
+          {
+            "stringId": "1773646197753884676",
+            "femaleVariant": "Thanks, I'll pass."
+          },
+          {
+            "stringId": "1773648595939471360",
+            "femaleVariant": "Thanks, but I'll pass."
+          },
+          {
+            "stringId": "1773657934758653952",
+            "femaleVariant": "Good stuff. Your loss."
+          },
+          {
+            "stringId": "1773660672431206400",
+            "femaleVariant": "Be careful who you bargain with."
+          },
+          {
+            "stringId": "1784926925263187968",
+            "femaleVariant": "Make some room."
+          },
+          {
+            "stringId": "1784930045171052544",
+            "femaleVariant": "It's OK."
+          },
+          {
+            "stringId": "1786426524365877248",
+            "femaleVariant": "AV like that's a hard nut to crack."
+          },
+          {
+            "stringId": "1786554419048767488",
+            "femaleVariant": "So, a native. Know any hick mercs?"
+          },
+          {
+            "stringId": "1786582543180099584",
+            "femaleVariant": "Just one. Panam Palmer."
+          },
+          {
+            "stringId": "1786584869055885312",
+            "femaleVariant": "She can't count on her clan anymore, but she's a true nomad. She knows those lands."
+          },
+          {
+            "stringId": "1786585299089485824",
+            "femaleVariant": "And she will help you. Won't have a choice."
+          },
+          {
+            "stringId": "1786587209611735040",
+            "femaleVariant": "\"Won't have a choice\"? Does not sound enticing – not for her, not for me."
+          },
+          {
+            "stringId": "1786587669173235712",
+            "femaleVariant": "Enticing comes at a price you can't possibly afford."
+          },
+          {
+            "stringId": "1786594427388162048",
+            "femaleVariant": "Can't possibly afford to blow this chance at nabbing Hellman."
+          },
+          {
+            "stringId": "1786594896076468224",
+            "femaleVariant": "Your operation, your call."
+          },
+          {
+            "stringId": "1791024680181297152",
+            "femaleVariant": "Even tracking that AV'll be a bitch. Familiar with the type, saw legacy models flyin' around during the war."
+          },
+          {
+            "stringId": "1791028536004964352",
+            "femaleVariant": "They're mammoth but they're quick. Plus they pack next-gen defenses. Can't take potshots at it, not even with serious firepower. Just won't work."
+          },
+          {
+            "stringId": "1791032045697888256",
+            "femaleVariant": "It's not about firepower. There are ways. And people who know them. Or who can at least improvise on a theme."
+          },
+          {
+            "stringId": "1813929110051205120",
+            "femaleVariant": "Two, please."
+          },
+          {
+            "stringId": "1817152971106398208",
+            "femaleVariant": "Got the cred for the Hellman job."
+          },
+          {
+            "stringId": "1817159497795743744",
+            "femaleVariant": "Fine."
+          },
+          {
+            "stringId": "1817160216867221504",
+            "femaleVariant": "Anders Hellman – flick me the detes."
+          },
+          {
+            "stringId": "1853284132745506816",
+            "femaleVariant": "I'm back. What about Hellman?"
+          },
+          {
+            "stringId": "1853285602245079040",
+            "femaleVariant": "Hey, Rogue. I'm back. What about Hellman?"
+          },
+          {
+            "stringId": "1857659272269639680",
+            "femaleVariant": "Here to see Rogue. Expectin' me."
+          },
+          {
+            "stringId": "1857677895684042752",
+            "femaleVariant": "Hey, Rogue. Got the scratch."
+          },
+          {
+            "stringId": "1966153324794720256",
+            "femaleVariant": "Need a fixer. Got somethin' that can't wait."
+          },
+          {
+            "stringId": "1966154812329799680",
+            "femaleVariant": "Need a fixer. Urgently."
+          },
+          {
+            "stringId": "1966402098074988544",
+            "femaleVariant": "Mhm. Come back tomorrow, we'll talk."
+          },
+          {
+            "stringId": "1967638446686728192",
+            "femaleVariant": "Let her in.",
+            "maleVariant": "Let him in."
+          },
+          {
+            "stringId": "1967639617417637888",
+            "femaleVariant": "All these years... It's really her. Fuckin' Rogue, just kickin' it back on a couch at the Afterlife."
+          },
+          {
+            "stringId": "1968959618271539200",
+            "femaleVariant": "Matter of life and death."
+          },
+          {
+            "stringId": "1968962084471959552",
+            "femaleVariant": "Don't see that often, determination like yours. Must really need this guy."
+          },
+          {
+            "stringId": "1968964954852290560",
+            "femaleVariant": "Heh. Haven't heard that for a while, either."
+          },
+          {
+            "stringId": "1968965661894504448",
+            "femaleVariant": "Go ahead, enjoy."
+          },
+          {
+            "stringId": "1969024338680737796",
+            "femaleVariant": "[Stand] I'll do that. Thanks."
+          },
+          {
+            "stringId": "2017187661167063040",
+            "femaleVariant": "Seems wonky to me. Nomads give the city, city folk, a wide berth."
+          },
+          {
+            "stringId": "2017196604262051844",
+            "femaleVariant": "Strange. Thought nomads gave the city, and city folk, a wide berth."
+          },
+          {
+            "stringId": "2054752332185231364",
+            "femaleVariant": "[Wait]"
+          },
+          {
+            "stringId": "2170930361835347972",
+            "femaleVariant": "Here to see Rogue. Got an appointment."
+          },
+          {
+            "stringId": "2512796247870599172",
+            "femaleVariant": "Hey. Got the eddies."
+          }
+        ]
+      }
+
+
+

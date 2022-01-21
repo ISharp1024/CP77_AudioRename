@@ -1,0 +1,226 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1854553219312480260",
+            "femaleVariant": "You want blood?! Is that why you're here?!"
+          },
+          {
+            "stringId": "1854553219362811904",
+            "femaleVariant": "I'm fighting you?"
+          },
+          {
+            "stringId": "1854553219379589128",
+            "femaleVariant": "In your element, I see."
+          },
+          {
+            "stringId": "1854553219429920772",
+            "femaleVariant": "So it's you I'm fightin'?"
+          },
+          {
+            "stringId": "1854553219429920780",
+            "femaleVariant": "Depends."
+          },
+          {
+            "stringId": "1854553219429920788",
+            "femaleVariant": "On what?"
+          },
+          {
+            "stringId": "1854553219446697996",
+            "femaleVariant": "If you wanna get splattered. If so, then lace up, lay down the cash and let's have some fun!"
+          },
+          {
+            "stringId": "1854553219497029632",
+            "femaleVariant": "Let's do it."
+          },
+          {
+            "stringId": "1854553219497029648",
+            "femaleVariant": "I'm upping the stakes."
+          },
+          {
+            "stringId": "1854553219513806856",
+            "femaleVariant": "Maybe later."
+          },
+          {
+            "stringId": "1854553219547361284",
+            "femaleVariant": "Gimme a minute, cool?"
+          },
+          {
+            "stringId": "1854553219547361292",
+            "femaleVariant": "But only a minute. Our fans await."
+          },
+          {
+            "stringId": "1854553219631247360",
+            "femaleVariant": "All right, no sense waitin'."
+          },
+          {
+            "stringId": "1854553219648024580",
+            "femaleVariant": "If we're doin' this, it's for serious scratch. I'm uppin' the stakes."
+          },
+          {
+            "stringId": "1854553219664801792",
+            "femaleVariant": "Oho, I see you're not jokin' around. No problem. I'll sweeten the pot."
+          },
+          {
+            "stringId": "1854553219681579012",
+            "femaleVariant": "You two are ready to start?"
+          },
+          {
+            "stringId": "1854553219782242308",
+            "femaleVariant": "May the best brawler win!"
+          },
+          {
+            "stringId": "1854553220050677764",
+            "femaleVariant": "Oh shit, oh shit, ohhh shit!"
+          },
+          {
+            "stringId": "1854553220084232196",
+            "femaleVariant": "Over, the match is over! Ozob wins!"
+          },
+          {
+            "stringId": "1854553220084232204",
+            "femaleVariant": "No surprise there!"
+          },
+          {
+            "stringId": "1854553220302336004",
+            "femaleVariant": "Thanks. And hey, listen, I'm not the one who lodged that grenade in his face."
+          },
+          {
+            "stringId": "1854553220302336012",
+            "femaleVariant": "Just get lost, OK?"
+          },
+          {
+            "stringId": "1854553220335890432",
+            "femaleVariant": "[Start fight] Let's begin."
+          },
+          {
+            "stringId": "1854553220369444868",
+            "femaleVariant": "Mhm. Ready as I'll ever be.",
+            "maleVariant": "Yeah. Ready as I'll ever be."
+          },
+          {
+            "stringId": "1854553220470108164",
+            "femaleVariant": "Come with me."
+          },
+          {
+            "stringId": "1854553220503662592",
+            "femaleVariant": "See you're in your element here.",
+            "maleVariant": "I see you're in your element here."
+          },
+          {
+            "stringId": "1854553220503662600",
+            "femaleVariant": "Yeah, well, I love to entertain, put on a show. Could say I'm a clown at heart."
+          },
+          {
+            "stringId": "1854593747580186624",
+            "femaleVariant": "V? Hahaha! What a coincidence!"
+          },
+          {
+            "stringId": "1854622118271873024",
+            "femaleVariant": "What about grenade nose?"
+          },
+          {
+            "stringId": "1854622609408094208",
+            "femaleVariant": "Care to explain the 'nade-nose?"
+          },
+          {
+            "stringId": "1854623061335961600",
+            "femaleVariant": "What about it? It's where it's always been."
+          },
+          {
+            "stringId": "1854623256756973568",
+            "femaleVariant": "Right, but say someone were to give it a good poke?"
+          },
+          {
+            "stringId": "1854623718348517376",
+            "femaleVariant": "Silly question. It does what all grenades do. So, y'know... game plan accordingly."
+          },
+          {
+            "stringId": "1854646630606532608",
+            "femaleVariant": "Oh... Oh, fuck!"
+          },
+          {
+            "stringId": "1854647237992083456",
+            "femaleVariant": "V... V is your winner... by technical knockout!"
+          },
+          {
+            "stringId": "1854647573234413568",
+            "femaleVariant": "Y-your money. Take it and it get outta here."
+          },
+          {
+            "stringId": "1854700942212820992",
+            "femaleVariant": "Ugh... Agh! Stop! I'm done! I surrender!"
+          },
+          {
+            "stringId": "1854701657526202368",
+            "femaleVariant": "This fight is over! V is the winner!"
+          },
+          {
+            "stringId": "1854702519774441472",
+            "femaleVariant": "Thanks. You're a real bozo, y'know that, Ozob?"
+          },
+          {
+            "stringId": "1854702966451040256",
+            "femaleVariant": "What, and you're Miss Normal? Don't turn your nose up at me. Hahaha!",
+            "maleVariant": "What, and you're Mr. Normal? Don't turn your nose up at me. Hahaha!"
+          },
+          {
+            "stringId": "1908228604463206400",
+            "femaleVariant": "Mhm. Meanin' we oughta keep you far from kids' b-day parties.",
+            "maleVariant": "Mhm. Meanin' we gotta keep you far from kids' b-day parties."
+          },
+          {
+            "stringId": "1908229325766053888",
+            "femaleVariant": "Haha! Can't argue with that!"
+          },
+          {
+            "stringId": "1908255414118830080",
+            "femaleVariant": "Phew... That, ugh... That was a doozy, V. Got me grinnin' like a goon, ear to ear."
+          },
+          {
+            "stringId": "1908256128710791168",
+            "femaleVariant": "Here's your take. You earned every enny."
+          },
+          {
+            "stringId": "1908264011955490816",
+            "femaleVariant": "Ready for revenge, V? I could do this all day. Just don't get me breathin' too hard, eh? Hahaha!"
+          },
+          {
+            "stringId": "1908273523093458944",
+            "femaleVariant": "What's up, V? You miss me?"
+          },
+          {
+            "stringId": "1908304384379637764",
+            "femaleVariant": "That grenade's gonna blow someday."
+          },
+          {
+            "stringId": "1908304603473301504",
+            "femaleVariant": "Hey... You do know that grenade's gonna pop one of these days, right? I avoided, but someone else..."
+          },
+          {
+            "stringId": "1908307553511854080",
+            "femaleVariant": "I know, I know."
+          },
+          {
+            "stringId": "1908307705697980416",
+            "femaleVariant": "We all die someday. Least when I do, there'll be fireworks."
+          }
+        ]
+      }
+
+
+

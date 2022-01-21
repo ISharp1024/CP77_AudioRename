@@ -1,0 +1,43 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1506489845374017536",
+            "femaleVariant": "<kiroshi l=\"rus\" o=\"Помогите! Пожалуйста!\" t=\"Help! Please...\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1674961916400078848",
+            "femaleVariant": "<kiroshi l=\"rus\" o=\"Убери руки!\" t=\"Don't touch that!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1674975310322700288",
+            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ты её убила! Сука!\" t=\"You killed her! You bitch!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"rus\" o=\"Ты её убил! Паскуда!\" t=\"You killed her! You asshole!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1702604233843773440",
+            "femaleVariant": "<kiroshi l=\"rus\" o=\"У меня дипломатический иммунитет!\" t=\"I have diplomatic immunity!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1702604510600728576",
+            "femaleVariant": "<kiroshi l=\"rus\" o=\"Ты об этом пожалеешь.\" t=\"You're going to regret this...\" b=\"\" a=\"\"/>"
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,279 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1348617327495790592",
+            "femaleVariant": "[打开]"
+          },
+          {
+            "stringId": "1348619441307566080",
+            "femaleVariant": "[打开]"
+          },
+          {
+            "stringId": "1348620298522640384",
+            "femaleVariant": "[打开]"
+          },
+          {
+            "stringId": "1348627253349761024",
+            "femaleVariant": "找到线索了吗？"
+          },
+          {
+            "stringId": "1348629326762000384",
+            "femaleVariant": "锁住了。你知道钥匙在哪里吗？"
+          },
+          {
+            "stringId": "1348631303621361664",
+            "femaleVariant": "这里有几盘游戏。上面好像是邮政编码。"
+          },
+          {
+            "stringId": "1348645495250272256",
+            "femaleVariant": "哇哦，“自由意志…”相当黑暗的音乐啊…",
+            "maleVariant": "哈哈，“自由意志…”相当黑暗的音乐啊…"
+          },
+          {
+            "stringId": "1348648541422272512",
+            "femaleVariant": "这些设备可不便宜。兰迪居然这么有钱？"
+          },
+          {
+            "stringId": "1348655132536127488",
+            "femaleVariant": "堕落之王？"
+          },
+          {
+            "stringId": "1348655754366861312",
+            "femaleVariant": "“堕落之王”"
+          },
+          {
+            "stringId": "1348666233617301504",
+            "femaleVariant": "这应该是钥匙吧…看着像老古董…"
+          },
+          {
+            "stringId": "1557622208842612736",
+            "femaleVariant": "这是他们以前的拖车。我给买新的后，兰迪就搬过来了。"
+          },
+          {
+            "stringId": "1557625135242067968",
+            "femaleVariant": "你到处看看，我翻翻垃圾桶。"
+          },
+          {
+            "stringId": "1557628322141356032",
+            "femaleVariant": "他最喜欢的帽衫还在柜子里…"
+          },
+          {
+            "stringId": "1557644045244874752",
+            "femaleVariant": "天哪…这还是当年我们给孩子量身高的时候刻的。"
+          },
+          {
+            "stringId": "1557654493340024832",
+            "femaleVariant": "V，过来一下好吗？"
+          },
+          {
+            "stringId": "1557660973288046592",
+            "femaleVariant": "这么贵的电脑…兰迪不可能买得起，一个孩子哪有这么多钱。"
+          },
+          {
+            "stringId": "1557663037221158912",
+            "femaleVariant": "我们得打开查查，多半没人知道密码。你能破解吗？"
+          },
+          {
+            "stringId": "1557663470660534276",
+            "femaleVariant": "好，我试试。"
+          },
+          {
+            "stringId": "1557663716849401856",
+            "femaleVariant": "不知道怎么破解。"
+          },
+          {
+            "stringId": "1558703636024049664",
+            "femaleVariant": "让我来试试吧。"
+          },
+          {
+            "stringId": "1558715893592276992",
+            "femaleVariant": "瑞弗，我不会破解。"
+          },
+          {
+            "stringId": "1558718248928854016",
+            "femaleVariant": "靠，只能蒙了。他会用什么密码呢…？"
+          },
+          {
+            "stringId": "1558734672246259712",
+            "femaleVariant": "帮我四下看看行吗？"
+          },
+          {
+            "stringId": "1558736544969441284",
+            "femaleVariant": "试试唱片名…"
+          },
+          {
+            "stringId": "1558738235995373568",
+            "femaleVariant": "那你试试歌的名字…“自由意志”。"
+          },
+          {
+            "stringId": "1558739880934293504",
+            "femaleVariant": "是这个！"
+          },
+          {
+            "stringId": "1603602283991580672",
+            "femaleVariant": "怎么有 阿德卡多夹克？"
+          },
+          {
+            "stringId": "1603602455437950976",
+            "femaleVariant": "她是谁？"
+          },
+          {
+            "stringId": "1603602634165633024",
+            "femaleVariant": "“bRandy”，像个网名。"
+          },
+          {
+            "stringId": "1603603576424415232",
+            "femaleVariant": "这个东西，是他爸爸的遗物。"
+          },
+          {
+            "stringId": "1603622126757265408",
+            "femaleVariant": "前女友，纳塔丽。"
+          },
+          {
+            "stringId": "1603629751280517120",
+            "femaleVariant": "阿德卡多夹克？"
+          },
+          {
+            "stringId": "1603629824831832064",
+            "femaleVariant": "这女孩儿是谁？"
+          },
+          {
+            "stringId": "1603629902258683904",
+            "femaleVariant": "肯定是兰迪的昵称。"
+          },
+          {
+            "stringId": "1603667943388004352",
+            "femaleVariant": "照片里的前女友呢？她叫什么？"
+          },
+          {
+            "stringId": "1603668203283857408",
+            "femaleVariant": "试试他的网名 - “bRandy”"
+          },
+          {
+            "stringId": "1603668432829726720",
+            "femaleVariant": "那“阿德卡多”呢？"
+          },
+          {
+            "stringId": "1603670725570510848",
+            "femaleVariant": "试试…“阿德卡多？”他老爸的夹克。"
+          },
+          {
+            "stringId": "1603671841070825472",
+            "femaleVariant": "呃不，不对。"
+          },
+          {
+            "stringId": "1603672246039265280",
+            "femaleVariant": "照片里的前女友——叫什么来着？纳塔丽？"
+          },
+          {
+            "stringId": "1603673864000421888",
+            "femaleVariant": "还得继续猜。"
+          },
+          {
+            "stringId": "1603674459927134208",
+            "femaleVariant": "嗯，试试他的网名…“bRandy。”"
+          },
+          {
+            "stringId": "1603675221495300096",
+            "femaleVariant": "也不对。"
+          },
+          {
+            "stringId": "1619607599174565888",
+            "femaleVariant": "真乱，跟我那会儿的狗窝似的"
+          },
+          {
+            "stringId": "1619614526067621888",
+            "femaleVariant": "装毒品的袋子？"
+          },
+          {
+            "stringId": "1866533766043930624",
+            "femaleVariant": "有了。"
+          },
+          {
+            "stringId": "1895280779459694592",
+            "femaleVariant": "你别瞎琢磨。"
+          },
+          {
+            "stringId": "1895282318752485376",
+            "femaleVariant": "技术还得再练练。但听得出来，他们确实把血汗放里头了。"
+          },
+          {
+            "stringId": "1908331025775747072",
+            "femaleVariant": "还没什么头绪。"
+          },
+          {
+            "stringId": "1908331804473450496",
+            "femaleVariant": "不知道。"
+          },
+          {
+            "stringId": "1908333288720195584",
+            "femaleVariant": "嗯，好吧，怪社会。"
+          },
+          {
+            "stringId": "1908336889244966912",
+            "femaleVariant": "他哪儿有钱。"
+          },
+          {
+            "stringId": "1908339242652164096",
+            "femaleVariant": "他最喜欢的乐队。"
+          },
+          {
+            "stringId": "1908339478355271680",
+            "femaleVariant": "你挺了解他的嘛。"
+          },
+          {
+            "stringId": "1908339624098947072",
+            "femaleVariant": "他每年过生日我都会送一张专辑。"
+          },
+          {
+            "stringId": "1914025565277360128",
+            "femaleVariant": "垃圾、除了垃圾还是垃圾…"
+          },
+          {
+            "stringId": "1938738480849170436",
+            "femaleVariant": "[搜寻]"
+          },
+          {
+            "stringId": "1938877691057221636",
+            "femaleVariant": "帮我看看这个，行吗？"
+          },
+          {
+            "stringId": "2257868009624276992",
+            "femaleVariant": "[打开]"
+          },
+          {
+            "stringId": "2259266756420964352",
+            "femaleVariant": "不，这不像是我们要找的东西…"
+          },
+          {
+            "stringId": "2259273530205147144",
+            "femaleVariant": "嗯。"
+          },
+          {
+            "stringId": "2262194737582399488",
+            "femaleVariant": "这设备很贵啊…"
+          },
+          {
+            "stringId": "2310047869226160132",
+            "femaleVariant": "[关闭]"
+          }
+        ]
+      }
+
+
+

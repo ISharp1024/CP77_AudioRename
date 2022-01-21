@@ -1,0 +1,79 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "2209933763412525064",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Madres, ¿cómo vives con esta niebla tóxica...?\" t=\"上帝啊，到处都雾蒙蒙的，怎么活呀…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933763429302280",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Nos conocemos? Ya me parecía que no.\" t=\"我们认识吗？好像没有吧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933763529965576",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Órale.\" t=\"嘿！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933763563520008",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Cuidado!\" t=\"看着点儿！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933763630628872",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Sí?\" t=\"喂？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933763714514952",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Pero los archivos estaban asegurados... Lo comprobé... El historial de revisión se puede cambiar, ¿no? Pon a Robert al principio de la lista... Sí...\" t=\"但是那些文件都收好了的…我检查过…修改历史是能改的吧…？那就把罗伯特放在最前面…对…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933763731292168",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Madres... Entonces, ¿lo sabe...? ¿Seguro...? ¡¿Y por qué chingados no lo dijiste?! Mierda, viejo, te debo una...\" t=\"我去…所以他知道了…？你确定…？那你不早说…！靠，哥们，算我欠你的…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933763781623816",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Gracias, chum. Me salvaste el culo.\" t=\"谢了哥们，你真是救了我一命。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933764016504840",
+            "femaleVariant": "啊啊啊啊！"
+          },
+          {
+            "stringId": "2209933764050059272",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Tiene un arma! ¡Corran!\" t=\"她有枪！快跑！\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Tiene un arma! ¡Corran!\" t=\"他有枪！快跑！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933764184277000",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡N-No quiero morir...! ¡Por favor...!\" t=\"我…我不想死…求你了…！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933764217831432",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"P-Por favor, tengo familia... Te lo suplico...\" t=\"求…求求你，我还有家人…我求求你了…！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933764368826368",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Oye, ¿por qué no te vas a la chingada?\" t=\"嘿，你给我滚远点儿！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2209933764385603592",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Qué quieres de mí? ¡¿Eh?!\" t=\"你到底想怎么样，嗯？！\" b=\"\" a=\"\"/>"
+          }
+        ]
+      }
+
+
+

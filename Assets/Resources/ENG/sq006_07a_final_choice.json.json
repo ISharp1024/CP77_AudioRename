@@ -1,0 +1,538 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1638892419498496000",
+            "femaleVariant": "Hello, V."
+          },
+          {
+            "stringId": "1640189571982020608",
+            "femaleVariant": "Need to talk."
+          },
+          {
+            "stringId": "1640190030033571844",
+            "femaleVariant": "It's not Holt. You're being brainwashed."
+          },
+          {
+            "stringId": "1640190338667237376",
+            "femaleVariant": "Don't have much to add."
+          },
+          {
+            "stringId": "1640192441187946496",
+            "femaleVariant": "SSI wasn't working for Holt. You're in deeper shit than you think.",
+            "maleVariant": "SSI wasn't workin' for Holt. You're in deeper shit than you think."
+          },
+          {
+            "stringId": "1640194870864367616",
+            "femaleVariant": "Strange as it may sound, don't got much."
+          },
+          {
+            "stringId": "1640195515847659520",
+            "femaleVariant": "There's got to be something. You didn't find any hard evidence?"
+          },
+          {
+            "stringId": "1648575473079422976",
+            "femaleVariant": "What do you plan to do?"
+          },
+          {
+            "stringId": "1648575473079422992",
+            "femaleVariant": "Elizabeth knows everything."
+          },
+          {
+            "stringId": "1648575473112977408",
+            "femaleVariant": "Your wife knows everything."
+          },
+          {
+            "stringId": "1648575473112977424",
+            "femaleVariant": "Liz? How?"
+          },
+          {
+            "stringId": "1648575473112977440",
+            "femaleVariant": "Figured it out at some point."
+          },
+          {
+            "stringId": "1648575473112977456",
+            "femaleVariant": "Elizabeth? No. No, no, no... she would've said something."
+          },
+          {
+            "stringId": "1648575473146531840",
+            "femaleVariant": "So what now? Ya still wanna be mayor?"
+          },
+          {
+            "stringId": "1648575473146531856",
+            "femaleVariant": "I'll wait – for my window, an opportunity – then make my move."
+          },
+          {
+            "stringId": "1648575473146531872",
+            "femaleVariant": "Well, I'm not about to give up. I didn't run just to… ehh..."
+          },
+          {
+            "stringId": "1648575473163309068",
+            "femaleVariant": "Good luck."
+          },
+          {
+            "stringId": "1648575473163309084",
+            "femaleVariant": "And good night."
+          },
+          {
+            "stringId": "1648597364594839552",
+            "femaleVariant": "Isn't that exactly what they want?"
+          },
+          {
+            "stringId": "1648600457642381312",
+            "femaleVariant": "Oh, I'll give 'em more than they bargained for. Yeah, same with your eddies... Take care, V."
+          },
+          {
+            "stringId": "1665034287047643136",
+            "femaleVariant": "Yes, I know. Elizabeth filled me in."
+          },
+          {
+            "stringId": "1665162179781988352",
+            "femaleVariant": "She feared for your life, your daughter's life. Who could blame her?"
+          },
+          {
+            "stringId": "1665162179798765572",
+            "femaleVariant": "Got an anonymous holo tellin' her to keep her mouth shut. So she did what the perfect candidate's wife would do – protected her family."
+          },
+          {
+            "stringId": "1665162179815542784",
+            "femaleVariant": "Hate to say this, but... I think the whole situation was convenient."
+          },
+          {
+            "stringId": "1665162179815542800",
+            "femaleVariant": "Think about it... Perfect wife of the perfect mayor... That's who they conditioned her to be."
+          },
+          {
+            "stringId": "1665162179832320000",
+            "femaleVariant": "She must've believed she was protecting Xochi... and me. Would've told me otherwise."
+          },
+          {
+            "stringId": "1665163467768860672",
+            "femaleVariant": "Nah. No, she's never kept anything from me. And she doesn't scare easily, believe me."
+          },
+          {
+            "stringId": "1665163909395517440",
+            "femaleVariant": "I won't let them get away with this…"
+          },
+          {
+            "stringId": "1665167378336583680",
+            "femaleVariant": "Convenient? This is my wife you're talking about."
+          },
+          {
+            "stringId": "1665169235607949312",
+            "femaleVariant": "She was protecting you."
+          },
+          {
+            "stringId": "1665169235607949328",
+            "femaleVariant": "It was convenient not to."
+          },
+          {
+            "stringId": "1751993727801495552",
+            "femaleVariant": "Sounds like I was right to hire a professional."
+          },
+          {
+            "stringId": "1751998145695453184",
+            "femaleVariant": "SSI was taking money from Holt."
+          },
+          {
+            "stringId": "1751998145812893708",
+            "femaleVariant": "If only corpses could talk."
+          },
+          {
+            "stringId": "1752004158263791616",
+            "femaleVariant": "Sorry, it's all hearsay and speculation."
+          },
+          {
+            "stringId": "1752004158297346048",
+            "femaleVariant": "Well, one thing led to another and some lead was fired."
+          },
+          {
+            "stringId": "1752004158297346064",
+            "femaleVariant": "Mh. Burned to a crisp in their own van. Managed to squeeze one of 'em before…",
+            "maleVariant": "Yeah. Burned to a crisp in their own van. Managed to squeeze one of 'em before, uh…"
+          },
+          {
+            "stringId": "1752004158297346080",
+            "femaleVariant": "He confessed, but his word isn't worth jack now."
+          },
+          {
+            "stringId": "1752005757820342272",
+            "femaleVariant": "Like what?"
+          },
+          {
+            "stringId": "1752005856688476160",
+            "femaleVariant": "SSI took money from all kinds of people, Holt among them."
+          },
+          {
+            "stringId": "1752006303801282560",
+            "femaleVariant": "But it's a weak lead. Too weak. Nothing that can help you,  Jefferson.",
+            "maleVariant": "But it's a weak lead... too weak. Nothing that can help you,  Jefferson."
+          },
+          {
+            "stringId": "1752009109354450944",
+            "femaleVariant": "No shit. Between you and those... spies?"
+          },
+          {
+            "stringId": "1752014568475987968",
+            "femaleVariant": "Damn. All right, I'll handle things from here."
+          },
+          {
+            "stringId": "1752014568475987984",
+            "femaleVariant": "Meaning?"
+          },
+          {
+            "stringId": "1752014568492765184",
+            "femaleVariant": "First, I'm gonna win this damn election."
+          },
+          {
+            "stringId": "1752014568492765200",
+            "femaleVariant": "Then I'll find the motherfucker who spied on us, and if it was Holt..."
+          },
+          {
+            "stringId": "1752014568492765212",
+            "femaleVariant": "Well, then… good luck."
+          },
+          {
+            "stringId": "1752014568492765224",
+            "femaleVariant": "You'll get your fee soon... You already got my gratitude. Goodbye, V."
+          },
+          {
+            "stringId": "1752026587488980992",
+            "femaleVariant": "Meaning?"
+          },
+          {
+            "stringId": "1806836571682508800",
+            "femaleVariant": "Elizabeth – what'd she tell you, exactly?"
+          },
+          {
+            "stringId": "1806836865485115392",
+            "femaleVariant": "Didn't get specific. Just that SSI was spying for that son of a bitch, Holt."
+          },
+          {
+            "stringId": "1806838490056495104",
+            "femaleVariant": "Guess you got more, though?"
+          },
+          {
+            "stringId": "1806894122499444740",
+            "femaleVariant": "They're in your heads, pierced your brains."
+          },
+          {
+            "stringId": "1806894534648532992",
+            "femaleVariant": "They're in your heads, Jefferson. Yours and Elizabeth's."
+          },
+          {
+            "stringId": "1806894561894731776",
+            "femaleVariant": "Isn't it weird that you're a virtuous politician, candidate?"
+          },
+          {
+            "stringId": "1806894692622798848",
+            "femaleVariant": "I'm not paying you to make up riddles for me. So get to the point."
+          },
+          {
+            "stringId": "1806894800298971136",
+            "femaleVariant": "You never will."
+          },
+          {
+            "stringId": "1806895097037590528",
+            "femaleVariant": "Trust me, you never will."
+          },
+          {
+            "stringId": "1806895129786716160",
+            "femaleVariant": "Got no idea how we'd go about doing that."
+          },
+          {
+            "stringId": "1806895293263908864",
+            "femaleVariant": "First I'll find him, then I'll find whoever's behind this."
+          },
+          {
+            "stringId": "1806895357822636036",
+            "femaleVariant": "Don't count on it – they're too powerful."
+          },
+          {
+            "stringId": "1806895499556556800",
+            "femaleVariant": "You kidding? How would you expect to do that?",
+            "maleVariant": "You kiddin'? How would you expect to do that?"
+          },
+          {
+            "stringId": "1806895519672438784",
+            "femaleVariant": "Could show their hand if you're patient, wait long enough.",
+            "maleVariant": "Could show their hand if you're patient, and wait long enough."
+          },
+          {
+            "stringId": "1806895544519495680",
+            "femaleVariant": "Worst thing anyone can do to a person is strip them of their sense of self. I'd fight back, too."
+          },
+          {
+            "stringId": "1806895851861315584",
+            "femaleVariant": "My god... I have to tell Liz!"
+          },
+          {
+            "stringId": "1806904869396811776",
+            "femaleVariant": "You're a virtuous politician. Doesn't that make you wonder?"
+          },
+          {
+            "stringId": "1806915197568421888",
+            "femaleVariant": "Hehh, flattered, but no, I'm far from it. Though I try my best. W-what's this got to do with anything?"
+          },
+          {
+            "stringId": "1806915819399155712",
+            "femaleVariant": "How many people can honestly say they don't strike deals with gangs or take eddies from corps?"
+          },
+          {
+            "stringId": "1806916731979042816",
+            "femaleVariant": "A lot, I'd like to think. They just haven't introduced themselves yet."
+          },
+          {
+            "stringId": "1806917033549500416",
+            "femaleVariant": "Almost like this city doesn't deserve somebody like you…",
+            "maleVariant": "Almost like this city doesn't deserve someone like you…"
+          },
+          {
+            "stringId": "1806921350327177216",
+            "femaleVariant": "This some kinda chuckle-worthy metaphor?"
+          },
+          {
+            "stringId": "1806921473757155328",
+            "femaleVariant": "Strange dreams, partial recall, jumbled memories – it's not just stress and long hours."
+          },
+          {
+            "stringId": "1806923208437403648",
+            "femaleVariant": "I don't know what you're trying to tell me, but I don't think I like where this is heading."
+          },
+          {
+            "stringId": "1806924603362250752",
+            "femaleVariant": "Wake up. Your brain's a mess, messier than the discount section of a BD smut hut."
+          },
+          {
+            "stringId": "1806963697463201792",
+            "femaleVariant": "SSI's on the take of some unknown group that's out to control your lives."
+          },
+          {
+            "stringId": "1806984547449049088",
+            "femaleVariant": "No idea how to go about doing that."
+          },
+          {
+            "stringId": "1806992703206068224",
+            "femaleVariant": "Could show themselves, inadvertently, if you're patient."
+          },
+          {
+            "stringId": "1806993020899430400",
+            "femaleVariant": "I'd try facing up to 'em, too."
+          },
+          {
+            "stringId": "1806994152002555904",
+            "femaleVariant": "Wanna take on a shadowy organization that controls your mind? Anticipates your every move, programs it?"
+          },
+          {
+            "stringId": "1806995175916048384",
+            "femaleVariant": "Or use your mayoral powers if you get elected. Long as you don't forget all this by morning…",
+            "maleVariant": "Or use your mayoral powers if you get elected. As long as you don't forget all this by mornin'…"
+          },
+          {
+            "stringId": "1806998342699454464",
+            "femaleVariant": "Good luck."
+          },
+          {
+            "stringId": "1807022470869422080",
+            "femaleVariant": "So, thoughts?"
+          },
+          {
+            "stringId": "1807023346757537792",
+            "femaleVariant": "Hm, somehow I doubt it's people who're behind this."
+          },
+          {
+            "stringId": "1807024440229367808",
+            "femaleVariant": "Very funny. You're too young to remember this, but not so long ago people talked about rogue AIs prowling cyberspace."
+          },
+          {
+            "stringId": "1807026617912004608",
+            "femaleVariant": "So... not aliens?"
+          },
+          {
+            "stringId": "1807026945654919168",
+            "femaleVariant": "Doesn't matter who. What matters is that guy decided to take up the gauntlet."
+          },
+          {
+            "stringId": "1807028844986765312",
+            "femaleVariant": "My man."
+          },
+          {
+            "stringId": "1812483703598555140",
+            "femaleVariant": "Someone's conditioning you, remotely."
+          },
+          {
+            "stringId": "1812483971379699712",
+            "femaleVariant": "Somebody's hijacked your life, reset your course, your career."
+          },
+          {
+            "stringId": "1812513547833122816",
+            "femaleVariant": "They want you as their mayor."
+          },
+          {
+            "stringId": "1812527711997730816",
+            "femaleVariant": "Somebody's programming you and your wife."
+          },
+          {
+            "stringId": "1812527812107378688",
+            "femaleVariant": "Sounds like something out of the movies."
+          },
+          {
+            "stringId": "1812528113040302080",
+            "femaleVariant": "Saw your brain scans – they're tweaking your neural connections. This ain't no movie, Jeff."
+          },
+          {
+            "stringId": "1812529069089955840",
+            "femaleVariant": "Your memories – can't even trust those anymore.",
+            "maleVariant": "Your memories – you can't even trust those anymore."
+          },
+          {
+            "stringId": "1812530814843166720",
+            "femaleVariant": "I'll admit there were a couple of fortunate coincidences, but it… ehh..."
+          },
+          {
+            "stringId": "1812532079476154368",
+            "femaleVariant": "They forged your views, personality, even that skepticism that pisses me off so much."
+          },
+          {
+            "stringId": "1812533476380712960",
+            "femaleVariant": "Clearly what they want is for you to be \"their\" mayor. Molding you like a clay figurine."
+          },
+          {
+            "stringId": "1812538564105019392",
+            "femaleVariant": "Been at it for a while with you and Liz. Editing your memories, your tastes, your views and beliefs, even.",
+            "maleVariant": "Been at it for a while, you and Liz. Editing your memories, your tastes, your views and beliefs, even."
+          },
+          {
+            "stringId": "1812541711359746048",
+            "femaleVariant": "Wait, the intruder. I have to find him!"
+          },
+          {
+            "stringId": "1812546046005157888",
+            "femaleVariant": "I-i-if that's true, I'll never know what's real in my life and what's a lie, fabricated…"
+          },
+          {
+            "stringId": "1812553849272868864",
+            "femaleVariant": "How could I not have known about this?"
+          },
+          {
+            "stringId": "1812558140716949504",
+            "femaleVariant": "Fuck... I need to remember who recommended SSI to me…"
+          },
+          {
+            "stringId": "1812616234377486336",
+            "femaleVariant": "Know there's a concealed room in your pad?",
+            "maleVariant": "You know there's a concealed room in your pad?"
+          },
+          {
+            "stringId": "1812618925409378304",
+            "femaleVariant": "Out with it."
+          },
+          {
+            "stringId": "1812620337094664192",
+            "femaleVariant": "They've got tech in there you wouldn't believe."
+          },
+          {
+            "stringId": "1812629593571270656",
+            "femaleVariant": "These people know everything about you and your wife. Watching your every move.",
+            "maleVariant": "These people know everything about you and your wife. They're watching your every move."
+          },
+          {
+            "stringId": "1812685139913547776",
+            "femaleVariant": "Huhh..."
+          },
+          {
+            "stringId": "1812685839741558784",
+            "femaleVariant": "Know anything about the concealed room in your apartment?"
+          },
+          {
+            "stringId": "1826893940760121344",
+            "femaleVariant": "Pull the curtain back on these motherfuckers and show 'em what's what!"
+          },
+          {
+            "stringId": "1826897954792935424",
+            "femaleVariant": "There's gotta be a way!"
+          },
+          {
+            "stringId": "1826898439872581632",
+            "femaleVariant": "Don't stand a kitten's chance in the dog pound, sorry.",
+            "maleVariant": "Ya don't stand a kitten's chance in the dog pound, sorry."
+          },
+          {
+            "stringId": "1826899487039295488",
+            "femaleVariant": "Sun Tzu's \"Art of War\"? \"Feign weakness, so your enemy may grow arrogant.\""
+          },
+          {
+            "stringId": "1826904230595792896",
+            "femaleVariant": "Don't see you doing much feigning, Jeff…"
+          },
+          {
+            "stringId": "1826925957946150912",
+            "femaleVariant": "They've made me a winner, hahaha, and they're going to regret that. For now, I'll let them think they're pulling the strings."
+          },
+          {
+            "stringId": "1898420491634892800",
+            "femaleVariant": "Nope. Don't know anything more."
+          },
+          {
+            "stringId": "1898421107945922560",
+            "femaleVariant": "Nope. Don't know anything more."
+          },
+          {
+            "stringId": "1899700520050253824",
+            "femaleVariant": "So aliens?"
+          },
+          {
+            "stringId": "1943135915897253892",
+            "femaleVariant": "[Sit] We need to talk."
+          },
+          {
+            "stringId": "1969409440382849024",
+            "femaleVariant": "I'll find every last speck of dirt on him and bury him under the heap!"
+          },
+          {
+            "stringId": "1969443821998706688",
+            "femaleVariant": "So... not aliens?"
+          },
+          {
+            "stringId": "1969445977149542400",
+            "femaleVariant": "Doesn't matter who or what. Our guy's outmatched – they can do whatever they want."
+          },
+          {
+            "stringId": "1969449583479230464",
+            "femaleVariant": "He's fucked, V."
+          },
+          {
+            "stringId": "1969479328828887040",
+            "femaleVariant": "Anything else I can do?"
+          },
+          {
+            "stringId": "1969480245233979392",
+            "femaleVariant": "Is there anything else I can do?"
+          },
+          {
+            "stringId": "1969481235140055040",
+            "femaleVariant": "You've done enough already, V. All that's left to do is wait."
+          },
+          {
+            "stringId": "2017161220949012480",
+            "femaleVariant": "[Stand]"
+          }
+        ]
+      }
+
+
+

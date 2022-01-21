@@ -1,0 +1,67 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1979199944430952452",
+            "femaleVariant": "What's on the menu?"
+          },
+          {
+            "stringId": "1979202558304428032",
+            "femaleVariant": "Wanna talk to your manager."
+          },
+          {
+            "stringId": "1979202635865497600",
+            "femaleVariant": "Music in here's terrible."
+          },
+          {
+            "stringId": "1979204222990131200",
+            "femaleVariant": "Music in here's god-awful."
+          },
+          {
+            "stringId": "1979204932347600896",
+            "femaleVariant": "Eh, I like it. Beat keeps me awake."
+          },
+          {
+            "stringId": "1979205486868144128",
+            "femaleVariant": "What've you got that's good?"
+          },
+          {
+            "stringId": "1979206603123433472",
+            "femaleVariant": "See for yourself."
+          },
+          {
+            "stringId": "1979208885126799360",
+            "femaleVariant": "Wanna have a word with your boss. He in?",
+            "maleVariant": "I wanna have a word with your boss. He in?"
+          },
+          {
+            "stringId": "1979209470433533952",
+            "femaleVariant": "Oh, you're outta luck. He doesn't really like to talk."
+          },
+          {
+            "stringId": "1979209914543218688",
+            "femaleVariant": "I don't care if he likes to talk – I asked you if he was here."
+          },
+          {
+            "stringId": "1979210323387195392",
+            "femaleVariant": "Uh, sure, he's upstairs in the VIP room. Just... don't expect a friendly welcome."
+          }
+        ]
+      }
+
+
+

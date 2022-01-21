@@ -1,0 +1,784 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1380647231712051200",
+            "femaleVariant": "[Sit] Tough customer, that Vasquez."
+          },
+          {
+            "stringId": "1563588639853535232",
+            "femaleVariant": "Got a tough customer with that Vasquez – even for a badge."
+          },
+          {
+            "stringId": "1568866410607566848",
+            "femaleVariant": "Props – really well played, that."
+          },
+          {
+            "stringId": "1568872611047170048",
+            "femaleVariant": "What do you make of it all?"
+          },
+          {
+            "stringId": "1568872851749888000",
+            "femaleVariant": "Guy just might be the biggest nutjob I've ever seen, but it's still corporate exploitation."
+          },
+          {
+            "stringId": "1773533062359912448",
+            "femaleVariant": "If he's as crazy as you say, why's he so important to you?",
+            "maleVariant": "If he's as crazy as you say, why is he so important to you?"
+          },
+          {
+            "stringId": "1773545705602781188",
+            "femaleVariant": "Fine."
+          },
+          {
+            "stringId": "1773546922638807040",
+            "femaleVariant": "Fine. Deal."
+          },
+          {
+            "stringId": "1773547592351715328",
+            "femaleVariant": "No way."
+          },
+          {
+            "stringId": "1773548161552322560",
+            "femaleVariant": "My answer's no."
+          },
+          {
+            "stringId": "1773563512402972672",
+            "femaleVariant": "Very wise choice."
+          },
+          {
+            "stringId": "1773573910636236800",
+            "femaleVariant": "Why do I think you don't understand what I'm offering you… ?"
+          },
+          {
+            "stringId": "1773584804267134976",
+            "femaleVariant": "Understand just fine. Let's go inside."
+          },
+          {
+            "stringId": "1773586333812363264",
+            "femaleVariant": "Fucking pathetic."
+          },
+          {
+            "stringId": "1773649125412147200",
+            "femaleVariant": "I'm sorry it had to end this way."
+          },
+          {
+            "stringId": "1773651305661698048",
+            "femaleVariant": "Fuck off."
+          },
+          {
+            "stringId": "1773651480664838144",
+            "femaleVariant": "Just go already!"
+          },
+          {
+            "stringId": "1783852380582809600",
+            "femaleVariant": "Pay me more and I will."
+          },
+          {
+            "stringId": "1783853559450669060",
+            "femaleVariant": "Please, I know the kinds of budgets BDs get. You can do better than that. Lots better.",
+            "maleVariant": "Please, I know what kind of budgets BDs get. You can do better than that. Lots better."
+          },
+          {
+            "stringId": "1783853559450669068",
+            "femaleVariant": "Fine! Triple... and you disappear like the morning dew off North Oak front yards."
+          },
+          {
+            "stringId": "1803755698729750528",
+            "femaleVariant": "Don't follow me in. I'll tell Stephenson you said goodbye."
+          },
+          {
+            "stringId": "1803762980695805952",
+            "femaleVariant": "Not bad, for a petty merc off the streets…"
+          },
+          {
+            "stringId": "1803768386751008772",
+            "femaleVariant": "What's going on here?"
+          },
+          {
+            "stringId": "1803770119652872192",
+            "femaleVariant": "Corpocunts like that annoy the fuck out of me."
+          },
+          {
+            "stringId": "1803770253065293824",
+            "femaleVariant": "Grown curious how this'll all end."
+          },
+          {
+            "stringId": "1803771764373688320",
+            "femaleVariant": "In pain and profit, that's how. One's sacred, the other's insane, though who knows if they aren't congruous concepts."
+          },
+          {
+            "stringId": "1803775051802054660",
+            "femaleVariant": "Corporats... think they can solve everything with eddies..."
+          },
+          {
+            "stringId": "1803775051852386308",
+            "femaleVariant": "And you proved her wrong. Just don't make her desperate, she's liable to bite back."
+          },
+          {
+            "stringId": "1803777315434369024",
+            "femaleVariant": "Joshua deserves our support."
+          },
+          {
+            "stringId": "1803778433719701508",
+            "femaleVariant": "Joshua deserves better company than us."
+          },
+          {
+            "stringId": "1803778433719701516",
+            "femaleVariant": "C'mon, two sinners is just what Jesus of Arroyo needs."
+          },
+          {
+            "stringId": "1803789808907030528",
+            "femaleVariant": "Deal."
+          },
+          {
+            "stringId": "1805611572299063300",
+            "femaleVariant": "[Get out] Joshua needs psychiatric care."
+          },
+          {
+            "stringId": "1805611847495737344",
+            "femaleVariant": "Honestly? Can't rightly make up my mind about him.",
+            "maleVariant": "Honestly? Can't rightly make my mind up about him."
+          },
+          {
+            "stringId": "1805612117340479488",
+            "femaleVariant": "So, what do you think about our next, big BD star?"
+          },
+          {
+            "stringId": "1805613361001947136",
+            "femaleVariant": "[Get out] He's a true believer."
+          },
+          {
+            "stringId": "1805613424335937536",
+            "femaleVariant": "[Get out] Seems like a nice guy."
+          },
+          {
+            "stringId": "1805614355538534400",
+            "femaleVariant": "[Get out] Can't make up my mind about him."
+          },
+          {
+            "stringId": "1805614984365367296",
+            "femaleVariant": "He's a true believer if I've ever seen one.",
+            "maleVariant": "He's a true believer if I ever saw one."
+          },
+          {
+            "stringId": "1805615122525741056",
+            "femaleVariant": "He's got some organic chips loose, needs psychiatric help."
+          },
+          {
+            "stringId": "1805615456191012864",
+            "femaleVariant": "Nah, he seems nice... y'know, for a murderer.",
+            "maleVariant": "Seems nice... y'know, for a murderer."
+          },
+          {
+            "stringId": "1805619484551569408",
+            "femaleVariant": "Hmm... my thoughts exactly. But it's too late for that."
+          },
+          {
+            "stringId": "1805624876614574080",
+            "femaleVariant": "He's a true nutcase, that's what he is. But that's beside the point."
+          },
+          {
+            "stringId": "1805627137663197184",
+            "femaleVariant": "Nice? Maybe. But I'd go with completely lost and unhinged."
+          },
+          {
+            "stringId": "1805631173607055360",
+            "femaleVariant": "Some people are only nice because they're afraid of getting hurt. Or 'cause their religion tells 'em to be."
+          },
+          {
+            "stringId": "1805634883368280064",
+            "femaleVariant": "Lemme help you out."
+          },
+          {
+            "stringId": "1805635802491281408",
+            "femaleVariant": "Stephenson's a very disturbed man whose obsession with guilt is driving him to the brink of insanity."
+          },
+          {
+            "stringId": "1805638538670661632",
+            "femaleVariant": "Because Stephenson's got a little somethin' that's in short supply but in very high demand."
+          },
+          {
+            "stringId": "1805640006458957824",
+            "femaleVariant": "That little somethin's called authenticity. In that brain composed entirely of cat shit at this point, he truly believes what he says."
+          },
+          {
+            "stringId": "1805641998921129988",
+            "femaleVariant": "Ah, the perfect actor."
+          },
+          {
+            "stringId": "1805642190986698752",
+            "femaleVariant": "Ah, sounds like the perfect BD actor.",
+            "maleVariant": "Huh, sounds like the perfect BD actor."
+          },
+          {
+            "stringId": "1805642268480659456",
+            "femaleVariant": "Think he might be more self-possessed than you think."
+          },
+          {
+            "stringId": "1805642341864202240",
+            "femaleVariant": "Think you might be underestimating him."
+          },
+          {
+            "stringId": "1805685483300741120",
+            "femaleVariant": "Mhm, and one incapable of fucking up in any way."
+          },
+          {
+            "stringId": "1805694187605614592",
+            "femaleVariant": "Look, you're no shrink and neither am I. We're both just out to get paid."
+          },
+          {
+            "stringId": "1805695588301824000",
+            "femaleVariant": "Stephenson could be a fat, old, fucking gold vein for our studio…"
+          },
+          {
+            "stringId": "1805696411861803008",
+            "femaleVariant": "And that's my concern because...?"
+          },
+          {
+            "stringId": "1805696853169692672",
+            "femaleVariant": "You're fucking with his mind, asking probing questions. You're making him doubt, and most importantly, jeopardizing my investment."
+          },
+          {
+            "stringId": "1805698011200249856",
+            "femaleVariant": "So I'm prepared to pay you double what he's promised you to quietly walk away."
+          },
+          {
+            "stringId": "1805716479576399872",
+            "femaleVariant": "Very wise choice."
+          },
+          {
+            "stringId": "1805716631812857856",
+            "femaleVariant": "Don't follow me in. I'll tell Stephenson you said goodbye."
+          },
+          {
+            "stringId": "1805717465288171520",
+            "femaleVariant": "Fucking pathetic."
+          },
+          {
+            "stringId": "1805724991228502016",
+            "femaleVariant": "But yeah, I'm curious, too. And I've been surprised before."
+          },
+          {
+            "stringId": "1805727303833509888",
+            "femaleVariant": "A thief and a terrorist. I'm in!"
+          },
+          {
+            "stringId": "1814308228943077376",
+            "femaleVariant": "Vasquez – he blue inside and out?"
+          },
+          {
+            "stringId": "1814308882616967172",
+            "femaleVariant": "Really wonder what kind of dirt you're holdin' on Vasquez."
+          },
+          {
+            "stringId": "1814389200602554368",
+            "femaleVariant": "Can we please talk about something besides faith?"
+          },
+          {
+            "stringId": "1814389268030185472",
+            "femaleVariant": "Chatter's pointless – that's enough. Stephenson can't be distracted, he has to focus now."
+          },
+          {
+            "stringId": "1814459749550809092",
+            "femaleVariant": "Fuck off already."
+          },
+          {
+            "stringId": "1814460083467739136",
+            "femaleVariant": "What do you do to relax, Rachel?"
+          },
+          {
+            "stringId": "1814460470333562880",
+            "femaleVariant": "Tell me about this braindance."
+          },
+          {
+            "stringId": "1814467639758053376",
+            "femaleVariant": "This braindance – I'm curious, tell me more."
+          },
+          {
+            "stringId": "1814469931894857728",
+            "femaleVariant": "Title's \"The Passion\" – we're speakin' to the LCD, of course. And it's gonna revolutionize BD."
+          },
+          {
+            "stringId": "1814471525378056192",
+            "femaleVariant": "How so?"
+          },
+          {
+            "stringId": "1814471652348026880",
+            "femaleVariant": "Well, Stephenson's furlough is only so long. We can only scroll the last bit with him."
+          },
+          {
+            "stringId": "1814472912098844672",
+            "femaleVariant": "But we'll fill in the run-up to the finale with BD doubles and emobank assets. It'll feel like Stephenson, though."
+          },
+          {
+            "stringId": "1814475496075321344",
+            "femaleVariant": "How is that even possible?",
+            "maleVariant": "How's that even possible?"
+          },
+          {
+            "stringId": "1814475730419474432",
+            "femaleVariant": "Gimme a break, we're part of EBM. Infinite investment in tech. Couple of years and we won't be using actors anymore. I dream of the day…"
+          },
+          {
+            "stringId": "1814475975501045760",
+            "femaleVariant": "So why Josh? Sounds like you don't even need him now."
+          },
+          {
+            "stringId": "1814476427009482752",
+            "femaleVariant": "The Son of Man's agony – you can't weave it strictly out of digital threads just yet."
+          },
+          {
+            "stringId": "1814478886046031872",
+            "femaleVariant": "What's your part in all this?"
+          },
+          {
+            "stringId": "1814479100660178944",
+            "femaleVariant": "Can we please stop talking about faith?"
+          },
+          {
+            "stringId": "1814480294375874560",
+            "femaleVariant": "And you? Get any say in all this?"
+          },
+          {
+            "stringId": "1814480859398955008",
+            "femaleVariant": "He forced the writers to go with the Christian Gospel according to Luke. They'd originally opted for John."
+          },
+          {
+            "stringId": "1814482992974290944",
+            "femaleVariant": "Mm. Guess that's important for…",
+            "maleVariant": "Guess that's, uh... important for…"
+          },
+          {
+            "stringId": "1814487459488620544",
+            "femaleVariant": "John's version is crude and over the top – the Gospel of Luke speaks more to my sensibility."
+          },
+          {
+            "stringId": "1814488924072468480",
+            "femaleVariant": "Besides, Luke's Christ is prepared for what awaits him. I want the world to understand that – feel it."
+          },
+          {
+            "stringId": "1814520740485554180",
+            "femaleVariant": "Sound like an actor who wants to really become the role."
+          },
+          {
+            "stringId": "1814520985164472320",
+            "femaleVariant": "So what're you trying to convey to the world?"
+          },
+          {
+            "stringId": "1814527441590837248",
+            "femaleVariant": "Sound like an actor who really wants to become the part.",
+            "maleVariant": "Y'sound like an actor who really wants to become the part."
+          },
+          {
+            "stringId": "1814527502274027520",
+            "femaleVariant": "So what is it you want to convey, exactly?"
+          },
+          {
+            "stringId": "1814535801912451072",
+            "femaleVariant": "That Christ was merciful and continues to die for the world's sins."
+          },
+          {
+            "stringId": "1814544328211062784",
+            "femaleVariant": "I only have one shot at this, I... I need to make it count."
+          },
+          {
+            "stringId": "1814550499475087360",
+            "femaleVariant": "Joshua and I are talking, so fuck off, will ya?",
+            "maleVariant": "Joshua and I are talkin' – so fuck off, will ya?"
+          },
+          {
+            "stringId": "1814569469322223616",
+            "femaleVariant": "Might as well've been born with a badge."
+          },
+          {
+            "stringId": "1814569733194276864",
+            "femaleVariant": "Must have some solid dirt on him, then."
+          },
+          {
+            "stringId": "1814570085666807808",
+            "femaleVariant": "The studio's majority stakeholder's a corp. Unlike you, Vasquez would clearly mind having enemies in high places."
+          },
+          {
+            "stringId": "1814577813101502464",
+            "femaleVariant": "Josh, your night. Topic of choice?"
+          },
+          {
+            "stringId": "1814578770895986688",
+            "femaleVariant": "Uhh... I-I dunno, heh, I-I spent years not talking to anyone…"
+          },
+          {
+            "stringId": "1814579499933130752",
+            "femaleVariant": "OK. Nothing hard. What do you do to relax?",
+            "maleVariant": "OK. Nothin' hard. What do you do to relax?"
+          },
+          {
+            "stringId": "1814579768922234880",
+            "femaleVariant": "Uhhh, haha, well let's see I... I-I read scripture, watch braindances and movies. Did you hear about the remake of \"Badlands Raid\"?"
+          },
+          {
+            "stringId": "1814581589703155716",
+            "femaleVariant": "Remake kicks the original's ass."
+          },
+          {
+            "stringId": "1814581867819065344",
+            "femaleVariant": "Nothing like an original."
+          },
+          {
+            "stringId": "1814582038258802688",
+            "femaleVariant": "Never saw either."
+          },
+          {
+            "stringId": "1814582374792978432",
+            "femaleVariant": "Never saw either – braindances aren't my thing."
+          },
+          {
+            "stringId": "1814582684701712384",
+            "femaleVariant": "Original's always the original. And ten times better.",
+            "maleVariant": "The original's always the original. And ten times better."
+          },
+          {
+            "stringId": "1814582843145740288",
+            "femaleVariant": "Yeah, kicks the original's ass, trust me."
+          },
+          {
+            "stringId": "1814589770340786176",
+            "femaleVariant": "Relax, Rachel."
+          },
+          {
+            "stringId": "1814591013968699392",
+            "femaleVariant": "Yes, why, I don't know anything about you. How do you spend your leisure time? What do you do to unwind?"
+          },
+          {
+            "stringId": "1814591990251675648",
+            "femaleVariant": "None of your fuckin' business."
+          },
+          {
+            "stringId": "1814592341902123008",
+            "femaleVariant": "I mean it as a serious question."
+          },
+          {
+            "stringId": "1814592905096486912",
+            "femaleVariant": "I meditate."
+          },
+          {
+            "stringId": "1815279374970675200",
+            "femaleVariant": "Excuse me?! Realize the stakes here. Tomorrow, this guy's gonna create his masterwork."
+          },
+          {
+            "stringId": "1815281519451201536",
+            "femaleVariant": "He needs to focus, keep his head in the game and put in the performance of his lifetime. There aren't any do-overs."
+          },
+          {
+            "stringId": "1815282379786838016",
+            "femaleVariant": "I'd... like to rest, now…"
+          },
+          {
+            "stringId": "1815282687967518720",
+            "femaleVariant": "Perfect timing. Your job's done here – you can go. And don't worry, you'll get your fuckin' money."
+          },
+          {
+            "stringId": "1815283879284072448",
+            "femaleVariant": "Goodbye, V."
+          },
+          {
+            "stringId": "1815285181229588484",
+            "femaleVariant": "Didn't take you for one with a spiritual side."
+          },
+          {
+            "stringId": "1815285661980712960",
+            "femaleVariant": "Glad it works for you."
+          },
+          {
+            "stringId": "1815285752997109760",
+            "femaleVariant": "Didn't take you for one with a spiritual side, you being, well, heh... you.",
+            "maleVariant": "Didn't take you for one with a spiritual side, you being, heh, well... you."
+          },
+          {
+            "stringId": "1815285818025598976",
+            "femaleVariant": "Great to have an outlet, something to give you peace of mind."
+          },
+          {
+            "stringId": "1815290019560579072",
+            "femaleVariant": "Know what your problem is, all of you?"
+          },
+          {
+            "stringId": "1815290694306652160",
+            "femaleVariant": "True peace of mind can only come through the spirit of divine grace."
+          },
+          {
+            "stringId": "1815291794069938176",
+            "femaleVariant": "You refuse to understand that spirituality can only ever be personal."
+          },
+          {
+            "stringId": "1815308531809148932",
+            "femaleVariant": "That's cynical."
+          },
+          {
+            "stringId": "1815308797979680768",
+            "femaleVariant": "Just plain feel bad for him."
+          },
+          {
+            "stringId": "1815309034018332672",
+            "femaleVariant": "Your cynicism's startin' to wear thin on me.",
+            "maleVariant": "Your cynicism is startin' to wear thin on me."
+          },
+          {
+            "stringId": "1815309108123295744",
+            "femaleVariant": "I just feel bad for him."
+          },
+          {
+            "stringId": "1815310384450002944",
+            "femaleVariant": "Doesn't matter, long as it's made him a better man."
+          },
+          {
+            "stringId": "1815311045589753856",
+            "femaleVariant": "Doesn't matter, long as he's a better man than he used to be…",
+            "maleVariant": "It doesn't matter, as long as he's a better man than he used to be…"
+          },
+          {
+            "stringId": "1815311191853522944",
+            "femaleVariant": "We could talk in circles, but who cares what we think. What would it change? Corps'll continue grow rich off his type, and the masses'll live on with their pipe dreams."
+          },
+          {
+            "stringId": "1815313645135486976",
+            "femaleVariant": "He's fucked in the head, the world's fucked in the head – and you're fucked in the head 'cause MY fucked up head is inside it."
+          },
+          {
+            "stringId": "1815316461811949568",
+            "femaleVariant": "Guess if you want to save the world, that's the first step – get fucked in the head."
+          },
+          {
+            "stringId": "1831940653428793344",
+            "femaleVariant": "Wait up a sec. I wanna talk."
+          },
+          {
+            "stringId": "1831947084202795008",
+            "femaleVariant": "Don't do it, V."
+          },
+          {
+            "stringId": "1831962013794328576",
+            "femaleVariant": "And why the fuck are you here, anyway? For the free meal?"
+          },
+          {
+            "stringId": "1831963854355587076",
+            "femaleVariant": "Tell you why I'm here."
+          },
+          {
+            "stringId": "1831964201274859520",
+            "femaleVariant": "Tell you exactly why. I--"
+          },
+          {
+            "stringId": "1831964272007602176",
+            "femaleVariant": "Back off me, OK?"
+          },
+          {
+            "stringId": "1831964358326378496",
+            "femaleVariant": "Back off."
+          },
+          {
+            "stringId": "1831966377229443072",
+            "femaleVariant": "No! I don't give the slimmest shit what you have to say!"
+          },
+          {
+            "stringId": "1831967193793323008",
+            "femaleVariant": "And maybe you should fuck off, huh? You're not part of our group!"
+          },
+          {
+            "stringId": "1831967998713815040",
+            "femaleVariant": "Ugh! All this talk about grace and salvation and transformation! I could puke."
+          },
+          {
+            "stringId": "1831968994743574528",
+            "femaleVariant": "Take it from a BD producer, religion's an elaborate lie. All of 'em."
+          },
+          {
+            "stringId": "1831969478195830784",
+            "femaleVariant": "But, heh, Rachel..."
+          },
+          {
+            "stringId": "1831969741799448576",
+            "femaleVariant": "No, we're done for the day. Finish your meal, we'll put you up at the studio."
+          },
+          {
+            "stringId": "1831970791147200512",
+            "femaleVariant": "And you? Get lost. You'll get your fee soon."
+          },
+          {
+            "stringId": "1831971070269743104",
+            "femaleVariant": "Goodbye, V. I am truly glad to have met you."
+          },
+          {
+            "stringId": "1846317134728683520",
+            "femaleVariant": "Really believe you're like Jesus?",
+            "maleVariant": "You really believe you're like Jesus?"
+          },
+          {
+            "stringId": "1846317976760377344",
+            "femaleVariant": "I... I believe we should all follow his example."
+          },
+          {
+            "stringId": "1857721637021442048",
+            "femaleVariant": "Joshua?",
+            "maleVariant": "Josh?"
+          },
+          {
+            "stringId": "1857796513904222208",
+            "femaleVariant": "Don't even feel sorry for him."
+          },
+          {
+            "stringId": "1857797024669786112",
+            "femaleVariant": "Don't even feel sorry for him... in the least."
+          },
+          {
+            "stringId": "1857800744681889792",
+            "femaleVariant": "Whaddaya think? God exist?",
+            "maleVariant": "What do you think? God exist?"
+          },
+          {
+            "stringId": "1857800808720523268",
+            "femaleVariant": "You think God exists?"
+          },
+          {
+            "stringId": "1857801543663247360",
+            "femaleVariant": "Agh, weird as fuck, today. Heh, just kinda... unreal. But reality beckons.",
+            "maleVariant": "Weird as fuck, today. Just… kinda unreal. But reality beckons."
+          },
+          {
+            "stringId": "1857801615520063488",
+            "femaleVariant": "Let's get outta here."
+          },
+          {
+            "stringId": "1857802561201397760",
+            "femaleVariant": "Hang on, where's rebel Johnny? Seem to have lost him."
+          },
+          {
+            "stringId": "1857803411604922368",
+            "femaleVariant": "Well, I found him. He's inside that guy. He's the real rebel."
+          },
+          {
+            "stringId": "1857803618568658944",
+            "femaleVariant": "Make up your mind. Which is it – nutjob or messiah?"
+          },
+          {
+            "stringId": "1857809392598540288",
+            "femaleVariant": "C'mon. We got places to trash."
+          },
+          {
+            "stringId": "1857908716435169280",
+            "femaleVariant": "Fuck. Kill me, please."
+          },
+          {
+            "stringId": "1857909083134779392",
+            "femaleVariant": "C'mon, serious question."
+          },
+          {
+            "stringId": "1857972812480274432",
+            "femaleVariant": "What, why? So you flatlined, then got your beat back. Don't tell me that's left you wondering if a construct can even be saved."
+          },
+          {
+            "stringId": "1857995182146347012",
+            "femaleVariant": "All right. Let's go."
+          },
+          {
+            "stringId": "1857997612258975744",
+            "femaleVariant": "Gonna tell me you don't think about being a digital psyche? Possible consequences thereof? Really?"
+          },
+          {
+            "stringId": "1857997708979625984",
+            "femaleVariant": "Construct's not a soul. Different things."
+          },
+          {
+            "stringId": "1857997804458762240",
+            "femaleVariant": "I died and rose again. Can't deny that."
+          },
+          {
+            "stringId": "1858867846150905856",
+            "femaleVariant": "Truth is I died and rose again. Plain and simple."
+          },
+          {
+            "stringId": "1858876599596244992",
+            "femaleVariant": "Uh-huh. So, what was that? A miracle? What's it make you – a messiah, a phoenix or a factory-restored, early model Archer?"
+          },
+          {
+            "stringId": "1858876935660658688",
+            "femaleVariant": "I got no fuckin' idea what it was and neither do you.",
+            "maleVariant": "Got no fuckin' idea what it was and neither do you."
+          },
+          {
+            "stringId": "1858881851233951744",
+            "femaleVariant": "Tell you exactly what brought you back – a clever bit of corpo tech. If there's a true messiah among us, I'll tell you who it is – Saburo Arasaka."
+          },
+          {
+            "stringId": "1858884658196406272",
+            "femaleVariant": "Mhm, one you'd summarily execute if you ran into him.",
+            "maleVariant": "Hah, one you'd summarily execute if you ran into him."
+          },
+          {
+            "stringId": "1858885146212065280",
+            "femaleVariant": "See, that's why I'm me and you're you. You drop to your knees before gods. I drop them, pop 'em right between the eyes."
+          },
+          {
+            "stringId": "1858917176366882816",
+            "femaleVariant": "I mean, are you already dead? Or alive till the last existing digighost of you is shredded?"
+          },
+          {
+            "stringId": "1858917783333003264",
+            "femaleVariant": "Meanin', like am I gonna ascend to digiheaven?"
+          },
+          {
+            "stringId": "1858918150032613376",
+            "femaleVariant": "Descent to digi-hell's more likely, but... yeah. If there is life after death, is Silverhand already livin' the afterlife? Meanin' I'm talkin' to his animated epitaph?",
+            "maleVariant": "Descent to digi-hell's more likely, but yeah. If there is life after death, is Silverhand already livin' the afterlife? Meanin' I'm talkin' to his animated epitaph?"
+          },
+          {
+            "stringId": "1858919067880546304",
+            "femaleVariant": "I don't give it an ounce of thought – surprise. To me I'm just that... me. No netherworld, no happy wonderworld, just duped, digital psyches."
+          },
+          {
+            "stringId": "1877867438723272704",
+            "femaleVariant": "Seen every kind of dirtbag in this city. This Jesus shit ain't foolin' me."
+          },
+          {
+            "stringId": "1877867713987055616",
+            "femaleVariant": "You even think about makin' a break for it, your ass is goin' down."
+          },
+          {
+            "stringId": "1877868019735040000",
+            "femaleVariant": "Nobody's paying you to open your mouth, Vasquez."
+          },
+          {
+            "stringId": "1895648604114673664",
+            "femaleVariant": "He is set in his ways, like so many men."
+          },
+          {
+            "stringId": "1966048519104311296",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1985010349784772608",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2474996895498711040",
+            "femaleVariant": "Can we change the subject?"
+          }
+        ]
+      }
+
+
+

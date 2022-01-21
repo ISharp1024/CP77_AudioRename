@@ -1,0 +1,274 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1350107290104152064",
+            "femaleVariant": "[坐下]"
+          },
+          {
+            "stringId": "1350115683376218112",
+            "femaleVariant": "[去睡觉]"
+          },
+          {
+            "stringId": "1600702994235703296",
+            "femaleVariant": "乔斯，我们谈好了。"
+          },
+          {
+            "stringId": "1600710286301642756",
+            "femaleVariant": "没问题。"
+          },
+          {
+            "stringId": "1600711198948638720",
+            "femaleVariant": "恐怕不行。"
+          },
+          {
+            "stringId": "1600715031753965568",
+            "femaleVariant": "当然，没问题。"
+          },
+          {
+            "stringId": "1600715129347031040",
+            "femaleVariant": "我不行，瑞弗。很抱歉。"
+          },
+          {
+            "stringId": "1600716115998326784",
+            "femaleVariant": "嗯，地方找到了吗？"
+          },
+          {
+            "stringId": "1740053952275124224",
+            "femaleVariant": "嗯，没问题…"
+          },
+          {
+            "stringId": "1775169240199991296",
+            "femaleVariant": "都好了？那去睡吧。"
+          },
+          {
+            "stringId": "1781950784164827136",
+            "femaleVariant": "瑞弗是一位优秀的调查员。"
+          },
+          {
+            "stringId": "1781952809258684416",
+            "femaleVariant": "瑞弗是个好警探。我们肯定能找到兰迪。"
+          },
+          {
+            "stringId": "1783702979909652480",
+            "femaleVariant": "你不能走，我还需要你。现在走了，我就只能一个人干了。"
+          },
+          {
+            "stringId": "1783871392925749248",
+            "femaleVariant": "这…我不敢保证，乔斯，但是，我们一定会尽全力。"
+          },
+          {
+            "stringId": "1783875090288611328",
+            "femaleVariant": "尽全力…"
+          },
+          {
+            "stringId": "1783943455564763136",
+            "femaleVariant": "就住一晚吧，你得帮我。这件事必须要查到底。"
+          },
+          {
+            "stringId": "1816759538442641408",
+            "femaleVariant": "找到了。呃，我先睡会儿。"
+          },
+          {
+            "stringId": "1816820710739091456",
+            "femaleVariant": "我不敢保证。"
+          },
+          {
+            "stringId": "1816829845564104704",
+            "femaleVariant": "乔斯？让 V 在兰迪的拖车里将就一晚上，你看行吗？"
+          },
+          {
+            "stringId": "1837251816229834752",
+            "femaleVariant": "瑞弗叔叔，我们给你留了饭。"
+          },
+          {
+            "stringId": "1837251981317640192",
+            "femaleVariant": "谢谢，莫妮克。"
+          },
+          {
+            "stringId": "1837253074957242368",
+            "femaleVariant": "找到什么没有？"
+          },
+          {
+            "stringId": "1837258843349979140",
+            "femaleVariant": "现在，你老实告诉我，别看我哥哥，我要你说实话…"
+          },
+          {
+            "stringId": "1837258843349979152",
+            "femaleVariant": "你能找回我的儿子吗？"
+          },
+          {
+            "stringId": "1837258843400310788",
+            "femaleVariant": "瑞弗…你老实告诉我…你能把他找回来吗？"
+          },
+          {
+            "stringId": "1837258843400310800",
+            "femaleVariant": "一定能，我发誓。"
+          },
+          {
+            "stringId": "1837261049906204676",
+            "femaleVariant": "嗯，有希望了。"
+          },
+          {
+            "stringId": "1837261341141897216",
+            "femaleVariant": "明天可以知道结果。"
+          },
+          {
+            "stringId": "1837262193172811776",
+            "femaleVariant": "兰迪好像认识绑架他的人。他们之前在网上联系过。"
+          },
+          {
+            "stringId": "1837262232347611136",
+            "femaleVariant": "明天就有更多消息了。"
+          },
+          {
+            "stringId": "1838602908469432320",
+            "femaleVariant": "他怎么会做那种事？"
+          },
+          {
+            "stringId": "1838603052904484864",
+            "femaleVariant": "你也知道，小孩子嘛…很容易上当受骗。"
+          },
+          {
+            "stringId": "1838606029971132416",
+            "femaleVariant": "我把线索发给实验室了。说不定早上就能知道兰迪的下落。"
+          },
+          {
+            "stringId": "1838619807974559744",
+            "femaleVariant": "乔斯，我是不会轻易放弃的。"
+          },
+          {
+            "stringId": "1838624776010207236",
+            "femaleVariant": "好吧，我留下吧。"
+          },
+          {
+            "stringId": "1838624968092553216",
+            "femaleVariant": "好吧，那我留下。"
+          },
+          {
+            "stringId": "1838624992637620224",
+            "femaleVariant": "真的不行。你一个人完全可以，我相信你。"
+          },
+          {
+            "stringId": "1838625098250194944",
+            "femaleVariant": "真的不行。我觉得你没问题的。"
+          },
+          {
+            "stringId": "1838629406790258688",
+            "femaleVariant": "坚强点儿，乔斯。瑞弗会安全找到兰迪的。"
+          },
+          {
+            "stringId": "1838629636956884992",
+            "femaleVariant": "呃，那以后再见。"
+          },
+          {
+            "stringId": "1838632430682116096",
+            "femaleVariant": "谢谢。去兰迪的拖车休息吧。我估计明天会很忙的…"
+          },
+          {
+            "stringId": "1863135459624849408",
+            "femaleVariant": "[坐下]"
+          },
+          {
+            "stringId": "1863237598175006720",
+            "femaleVariant": "你怎么还不睡呢？"
+          },
+          {
+            "stringId": "1863248361195278336",
+            "femaleVariant": "怎么不去睡呢？"
+          },
+          {
+            "stringId": "1863249962261778432",
+            "femaleVariant": "我这边还得想点儿事儿。你快睡吧，V。"
+          },
+          {
+            "stringId": "1863488217301356548",
+            "femaleVariant": "乔斯，你去睡一会儿吧。"
+          },
+          {
+            "stringId": "1863488217301356556",
+            "femaleVariant": "嘶…"
+          },
+          {
+            "stringId": "1863488217334910976",
+            "femaleVariant": "你应该去睡一会儿。"
+          },
+          {
+            "stringId": "1885172483379298304",
+            "femaleVariant": "你什么时候吃的饭？"
+          },
+          {
+            "stringId": "1885173104840933376",
+            "femaleVariant": "昨天。"
+          },
+          {
+            "stringId": "1885173308851879936",
+            "femaleVariant": "吃我的吧。我不饿。"
+          },
+          {
+            "stringId": "1885174294563651584",
+            "femaleVariant": "谢谢，我待会儿再吃。"
+          },
+          {
+            "stringId": "1921320423465652224",
+            "femaleVariant": "呵，多里安，别闹。"
+          },
+          {
+            "stringId": "1921321103513325568",
+            "femaleVariant": "和鼻屎一样难吃！"
+          },
+          {
+            "stringId": "1921321389162205184",
+            "femaleVariant": "鼻屎，好恶心！"
+          },
+          {
+            "stringId": "1926022453181681664",
+            "femaleVariant": "听着，我们不用太过于担心乔斯，这反而不好。"
+          },
+          {
+            "stringId": "1926025512322469888",
+            "femaleVariant": "线索已经有了，明天再往下查。别想太多。"
+          },
+          {
+            "stringId": "1953007455896047620",
+            "femaleVariant": "[去睡觉]"
+          },
+          {
+            "stringId": "2077865719711358976",
+            "femaleVariant": "瑞弗是一位优秀的调查员。"
+          },
+          {
+            "stringId": "2077865719728136200",
+            "femaleVariant": "我不敢保证。"
+          },
+          {
+            "stringId": "2324428046378688516",
+            "femaleVariant": "[起身] 再会。"
+          },
+          {
+            "stringId": "2328690027352776704",
+            "femaleVariant": "[去睡觉]"
+          },
+          {
+            "stringId": "2328691793288978432",
+            "femaleVariant": "[去睡觉]"
+          }
+        ]
+      }
+
+
+

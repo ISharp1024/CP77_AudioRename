@@ -1,0 +1,188 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1958855882514145284",
+            "femaleVariant": "你有没有把某个白痴塞进后备箱，然后想：“老子不管了，谁爱处理谁处理。”"
+          },
+          {
+            "stringId": "1958855882547699716",
+            "femaleVariant": "你当雇佣兵有没有负罪感？哈，老子也没有。"
+          },
+          {
+            "stringId": "1958855882648363012",
+            "femaleVariant": "<mothertongue l=\"rus\" m=\"Hvatit\" b=\"\" a=\"（快），快滚。\"/>"
+          },
+          {
+            "stringId": "1958855882665140228",
+            "femaleVariant": "不准再靠近一步。"
+          },
+          {
+            "stringId": "1958855882749026308",
+            "femaleVariant": "掏家伙我可见多了。"
+          },
+          {
+            "stringId": "1958855882799357956",
+            "femaleVariant": "<mothertongue l=\"rus\" m=\"Chudila\" b=\"\" a=\"（小丑）。\"/>"
+          },
+          {
+            "stringId": "1958855882900021252",
+            "femaleVariant": "有多远滚多远，废物。"
+          },
+          {
+            "stringId": "1958855882916798468",
+            "femaleVariant": "别逼我对你动手。"
+          },
+          {
+            "stringId": "1958855882967130116",
+            "femaleVariant": "滚蛋。"
+          },
+          {
+            "stringId": "1958855882983907332",
+            "femaleVariant": "滚就对了，废物。"
+          },
+          {
+            "stringId": "1958855883034238980",
+            "femaleVariant": "什么情况？"
+          },
+          {
+            "stringId": "1958855883051016196",
+            "femaleVariant": "嗯？"
+          },
+          {
+            "stringId": "1958855883101347844",
+            "femaleVariant": "靠，搞毛呢。"
+          },
+          {
+            "stringId": "1958855883118125060",
+            "femaleVariant": "还以为能干上一场。"
+          },
+          {
+            "stringId": "1958855883168456708",
+            "femaleVariant": "再躲就没意思了，出来吧！"
+          },
+          {
+            "stringId": "1958855883185233924",
+            "femaleVariant": "怂货你就别躲了！"
+          },
+          {
+            "stringId": "1958855883218788356",
+            "femaleVariant": "我靠有人挂了！"
+          },
+          {
+            "stringId": "1958855883252342788",
+            "femaleVariant": "没问题。"
+          },
+          {
+            "stringId": "1958855883319451648",
+            "femaleVariant": "老子等很久了！"
+          },
+          {
+            "stringId": "1958855883336228868",
+            "femaleVariant": "来动我啊！来啊！"
+          },
+          {
+            "stringId": "1958855883369783300",
+            "femaleVariant": "尝尝老子的飞雷！"
+          },
+          {
+            "stringId": "1958855883420114948",
+            "femaleVariant": "大开杀戒啦！"
+          },
+          {
+            "stringId": "1958855883436892164",
+            "femaleVariant": "哇啊啊啊啊！哈，哈，哈！"
+          },
+          {
+            "stringId": "1958855883487223812",
+            "femaleVariant": "该死的…这回死定了！"
+          },
+          {
+            "stringId": "1958855883504001028",
+            "femaleVariant": "她是来真格的！",
+            "maleVariant": "他是来真格的！"
+          },
+          {
+            "stringId": "1958855883554332676",
+            "femaleVariant": "干鸡毛啊？！"
+          },
+          {
+            "stringId": "1958855883571109892",
+            "femaleVariant": "嘿！"
+          },
+          {
+            "stringId": "1958855883604664324",
+            "femaleVariant": "谁？"
+          },
+          {
+            "stringId": "1958855883654995972",
+            "femaleVariant": "行吧…当然，我也没什么计划。"
+          },
+          {
+            "stringId": "1958855883671773188",
+            "femaleVariant": "是，具体的我也不知道…什么？可以，目标是谁？这就去…谢谢你还没忘了我。"
+          },
+          {
+            "stringId": "1958855883722104836",
+            "femaleVariant": "老子的队伍里没有怂货！"
+          },
+          {
+            "stringId": "1958855883755659268",
+            "femaleVariant": "马上就去！"
+          },
+          {
+            "stringId": "1958855883789213700",
+            "femaleVariant": "手雷要炸了！"
+          },
+          {
+            "stringId": "1958855883805990916",
+            "femaleVariant": "再见。"
+          },
+          {
+            "stringId": "1958855883839545348",
+            "femaleVariant": "<mothertongue l=\"rus\" m=\"Blyad'\" b=\"\" a=\"（操），本来还以为是个轻松的差事。\"/>"
+          },
+          {
+            "stringId": "1958855883906654208",
+            "femaleVariant": "家伙拿出来，去看看。"
+          },
+          {
+            "stringId": "1958855883923431428",
+            "femaleVariant": "你！去看看。"
+          },
+          {
+            "stringId": "1958855883956985860",
+            "femaleVariant": "去看看怎么回事。"
+          },
+          {
+            "stringId": "1958855883973763076",
+            "femaleVariant": "你等死吧！"
+          },
+          {
+            "stringId": "1958855884007317508",
+            "femaleVariant": "<mothertongue l=\"rus\" m=\"suka\" b=\"啊啊啊…放开我…\" a=\"（臭婊子）…\"/>",
+            "maleVariant": "<mothertongue l=\"rus\" m=\"pes\" b=\"啊啊啊…放开我…\" a=\"（臭狗）…\"/>"
+          },
+          {
+            "stringId": "1958863119752142848",
+            "femaleVariant": "你就当我想变变生活节奏吧，哈…本事没丢，你放心吧。"
+          }
+        ]
+      }
+
+
+

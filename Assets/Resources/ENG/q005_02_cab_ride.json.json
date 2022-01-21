@@ -1,0 +1,451 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1862181025160769536",
+            "femaleVariant": "Hold on, lemme grab the Flathead."
+          },
+          {
+            "stringId": "1866568279945785348",
+            "femaleVariant": "[Get in]"
+          },
+          {
+            "stringId": "1902761554247299072",
+            "femaleVariant": "My systems inform me that we await one other passenger."
+          },
+          {
+            "stringId": "1902765036123598848",
+            "femaleVariant": "Yep – on his way, catchin' up."
+          },
+          {
+            "stringId": "1902765821582520320",
+            "femaleVariant": "So? You ready?"
+          },
+          {
+            "stringId": "1915674589832032256",
+            "femaleVariant": "Well aren't you the master of disguise? Left your suit in Dex's booth, gonk."
+          },
+          {
+            "stringId": "1915676267989839872",
+            "femaleVariant": "Look, V, I know the corpo get-up ain't great for movement, but we both gotta look the part. Suit up."
+          },
+          {
+            "stringId": "1989698660768489472",
+            "femaleVariant": "Welcome on board this Delamain service. With Delamain, you leave your problems at the door."
+          },
+          {
+            "stringId": "1989698660768489492",
+            "femaleVariant": "Before we begin our journey, I must verify the identities of all customers."
+          },
+          {
+            "stringId": "1989698660768489508",
+            "femaleVariant": "Please proceed to connect your personal links."
+          },
+          {
+            "stringId": "1989698660835598336",
+            "femaleVariant": "Thank you for choosing the Delamain service. And best of luck."
+          },
+          {
+            "stringId": "1989698660835598352",
+            "femaleVariant": "I shall await here for your return."
+          },
+          {
+            "stringId": "1989698660885929984",
+            "femaleVariant": "[Jack in]"
+          },
+          {
+            "stringId": "1989698660936261652",
+            "femaleVariant": "Ain't goin' anywhere 'less we do this, V."
+          },
+          {
+            "stringId": "1989698661036924960",
+            "femaleVariant": "Shit's finally happenin'..."
+          },
+          {
+            "stringId": "1989698661053702152",
+            "femaleVariant": "Almost forgot, no iron, eh?"
+          },
+          {
+            "stringId": "1989698661087256576",
+            "femaleVariant": "[Leave weapon]"
+          },
+          {
+            "stringId": "1989698661154365460",
+            "femaleVariant": "Hey. How's things?"
+          },
+          {
+            "stringId": "1989698661171142668",
+            "femaleVariant": "We'll be, uh, pullin' up to the hotel soon."
+          },
+          {
+            "stringId": "1989698661171142680",
+            "femaleVariant": "Listen, set up a direct, encrypted line to guide you through Konpeki."
+          },
+          {
+            "stringId": "1989698661187919876",
+            "femaleVariant": "V, ring Jackie now, see if we're in sync. Can't be too careful."
+          },
+          {
+            "stringId": "1989698661221474304",
+            "femaleVariant": "[Call Jackie]"
+          },
+          {
+            "stringId": "1989698661305360392",
+            "femaleVariant": "And?"
+          },
+          {
+            "stringId": "1989698661305360408",
+            "femaleVariant": "Got static. Say somethin', Bug?"
+          },
+          {
+            "stringId": "1989698661305360424",
+            "femaleVariant": "\"The greatest crimes issue from a desire for excess and not from necessity.\""
+          },
+          {
+            "stringId": "1989698661322137608",
+            "femaleVariant": "Say what now?"
+          },
+          {
+            "stringId": "1989698661322137624",
+            "femaleVariant": "Aristotle. Guess you read me, then?"
+          },
+          {
+            "stringId": "1989698661338914820",
+            "femaleVariant": "Yeah, I read you. Not so much your Greek friend, though it was kind of exciting."
+          },
+          {
+            "stringId": "1989698661338914836",
+            "femaleVariant": "Could give it some thought, try to understand…?"
+          },
+          {
+            "stringId": "1989698661355692032",
+            "femaleVariant": "How 'bout you, V?"
+          },
+          {
+            "stringId": "1989698661439578128",
+            "femaleVariant": "Waitin' for an important call here, V!"
+          },
+          {
+            "stringId": "1989698661523464192",
+            "femaleVariant": "Loud and clear."
+          },
+          {
+            "stringId": "1989698661523464208",
+            "femaleVariant": "I want more Aristotle!"
+          },
+          {
+            "stringId": "1989698661590573068",
+            "femaleVariant": "Read you loud and clear."
+          },
+          {
+            "stringId": "1989698661590573084",
+            "femaleVariant": "Perfect."
+          },
+          {
+            "stringId": "1989698661657681940",
+            "femaleVariant": "I want more Aristotle!"
+          },
+          {
+            "stringId": "1989698661657681956",
+            "femaleVariant": "Fuck off, both."
+          },
+          {
+            "stringId": "1989698661674459144",
+            "femaleVariant": "Hehehe."
+          },
+          {
+            "stringId": "1989698661724790800",
+            "femaleVariant": "OK, tech checks out, looks like."
+          },
+          {
+            "stringId": "1989698661724790816",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Será mejor que sí..\" t=\"Fuckin' better.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1989698662328770584",
+            "femaleVariant": "We are nearing our destination."
+          },
+          {
+            "stringId": "1989698662345547776",
+            "femaleVariant": "Yep, don't gotta tell me."
+          },
+          {
+            "stringId": "1989698663285071904",
+            "femaleVariant": "Thank you. \"Excelsior\" package activated."
+          },
+          {
+            "stringId": "1989698663285071920",
+            "femaleVariant": "\"Excelsior\"? Hohoho, this just keeps gettin' better!"
+          },
+          {
+            "stringId": "1989698663352180736",
+            "femaleVariant": "\"Excelsior\" package – what's that?"
+          },
+          {
+            "stringId": "1989698663385735168",
+            "femaleVariant": "What's got you all excited?"
+          },
+          {
+            "stringId": "1989698663536730112",
+            "femaleVariant": "Delamain! Initiate combat mode!"
+          },
+          {
+            "stringId": "1989698663536730124",
+            "femaleVariant": "My apologies, but you do not appear to be in any sort of imminent danger."
+          },
+          {
+            "stringId": "1989698663603839016",
+            "femaleVariant": "\"Excelsior\"?"
+          },
+          {
+            "stringId": "1989698663603839028",
+            "femaleVariant": "The \"Excelsior\" is a package tailored to our premium clientele."
+          },
+          {
+            "stringId": "1989698663620616196",
+            "femaleVariant": "Top quality don't come free, y'know. Now watch…"
+          },
+          {
+            "stringId": "1989698663788388352",
+            "femaleVariant": "Package – what else does it include?"
+          },
+          {
+            "stringId": "1989698663855497252",
+            "femaleVariant": "Excelsior – what else is included?"
+          },
+          {
+            "stringId": "1989698663872274452",
+            "femaleVariant": "Damn. Shit got dark pretty quick."
+          },
+          {
+            "stringId": "1989698663972937764",
+            "femaleVariant": "Least we got some clue where his sixty five percent's goin', eh?"
+          },
+          {
+            "stringId": "1989698664073601032",
+            "femaleVariant": "He's takin' seventy percent of the pot... Or've you forgotten already?"
+          },
+          {
+            "stringId": "1989698664140709896",
+            "femaleVariant": "Dex ain't skimpin', is he."
+          },
+          {
+            "stringId": "1989698664761466896",
+            "femaleVariant": "All right, \"Hannah,\" let's go.",
+            "maleVariant": "All right, \"Harry,\" let's go."
+          },
+          {
+            "stringId": "1989698664946016264",
+            "femaleVariant": "Too late to back out now. Come on, V."
+          },
+          {
+            "stringId": "1989698664979570696",
+            "femaleVariant": "You comin'? Time's precious."
+          },
+          {
+            "stringId": "1989698665113788432",
+            "femaleVariant": "And thanks to you, we're still gettin' a juicy forty percent."
+          },
+          {
+            "stringId": "1989698665130565640",
+            "femaleVariant": "You're welcome."
+          },
+          {
+            "stringId": "1989698665499664384",
+            "femaleVariant": "Don't get too excited."
+          },
+          {
+            "stringId": "1989698665499664400",
+            "femaleVariant": "That so important?"
+          },
+          {
+            "stringId": "1989698665600327688",
+            "femaleVariant": "Huh, seems to me like it's you who's got some kinda problem..."
+          },
+          {
+            "stringId": "1989698665650659328",
+            "femaleVariant": "Just need you to keep your head in the game."
+          },
+          {
+            "stringId": "1989698665667436548",
+            "femaleVariant": "Forget about it."
+          },
+          {
+            "stringId": "1989698665717768204",
+            "femaleVariant": "Need you to keep your head clear and in the game – we got a job to do."
+          },
+          {
+            "stringId": "1989698665717768216",
+            "femaleVariant": "Head's never, ever been clearer in my whole fuckin' life!"
+          },
+          {
+            "stringId": "1989698665784877068",
+            "femaleVariant": "Never mind. Delete that – forget about it."
+          },
+          {
+            "stringId": "1989698665801654276",
+            "femaleVariant": "Deleted and forgotten."
+          },
+          {
+            "stringId": "1989698665902317576",
+            "femaleVariant": "\"Excelsior...\""
+          },
+          {
+            "stringId": "1989698665969426448",
+            "femaleVariant": "That really your be-all and end-all?"
+          },
+          {
+            "stringId": "1989698665969426460",
+            "femaleVariant": "Huh?"
+          },
+          {
+            "stringId": "1989698665986203648",
+            "femaleVariant": "Dex manage to buy you off that cheap? With a suit, a limo…?"
+          },
+          {
+            "stringId": "1989698666019758092",
+            "femaleVariant": "We're not on our way to some party, Jack. We're about to pull a major heist. At Arasaka."
+          },
+          {
+            "stringId": "1989698666036535296",
+            "femaleVariant": "For real, V...?"
+          },
+          {
+            "stringId": "1989701653035294720",
+            "femaleVariant": "Son of a bitch! Better fuckin' believe I will!"
+          },
+          {
+            "stringId": "1989702363986599936",
+            "femaleVariant": "I see no reason why you should be using expletives."
+          },
+          {
+            "stringId": "1989703429339815936",
+            "femaleVariant": "Oh yeah? What about that time I wanted to hire you for my cousin's bachelor party, huh?"
+          },
+          {
+            "stringId": "1989705227857371136",
+            "femaleVariant": "Unfortunately, we do not take on such contracts."
+          },
+          {
+            "stringId": "1989705661263192064",
+            "femaleVariant": "Three months I'd been savin' up scratch…"
+          },
+          {
+            "stringId": "1989708696479670272",
+            "femaleVariant": "Egh, water under the bridge. Hit it, Del!"
+          },
+          {
+            "stringId": "1989724617369788416",
+            "femaleVariant": "Huh... Oh well."
+          },
+          {
+            "stringId": "1989730792878448640",
+            "femaleVariant": "Combat mode sounds… illegal."
+          },
+          {
+            "stringId": "1989731186773925888",
+            "femaleVariant": "This combat mode even… legal?"
+          },
+          {
+            "stringId": "1989732022816153600",
+            "femaleVariant": "Of course it is. The Second Amendment says so."
+          },
+          {
+            "stringId": "1989732145071726592",
+            "femaleVariant": "While on board, you are entirely within your rights to \"bear\" and use me."
+          },
+          {
+            "stringId": "1989733041931362304",
+            "femaleVariant": "Comprehensive health coverage, including the handling and disposal of a client's remains should death occur on board."
+          },
+          {
+            "stringId": "1989736352143187968",
+            "femaleVariant": "Trust me, he'll mow down an army of 'Saka ninjas if it comes down to it."
+          },
+          {
+            "stringId": "1989740258248171520",
+            "femaleVariant": "Dex didn't skimp."
+          },
+          {
+            "stringId": "1989744516574027776",
+            "femaleVariant": "What's got you so antsy?"
+          },
+          {
+            "stringId": "1989745171992748032",
+            "femaleVariant": "Hang on, watch this…"
+          },
+          {
+            "stringId": "1989768978358935552",
+            "femaleVariant": "This is how you wanna cruise into the major leagues…"
+          },
+          {
+            "stringId": "1989770544042287104",
+            "femaleVariant": "Wouldn't get overly excited."
+          },
+          {
+            "stringId": "1989787986256797696",
+            "femaleVariant": "Lemme explain somethin' to you, V…"
+          },
+          {
+            "stringId": "1989790572682747904",
+            "femaleVariant": "My whole life I've spent in this shit around us!"
+          },
+          {
+            "stringId": "1989802901134712832",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Madres\" b=\"\" a=\", V... This is the most important day of my fuckin' life.\"/>"
+          },
+          {
+            "stringId": "1989806945953718272",
+            "femaleVariant": "Smooth as fuckin' sandpaper."
+          },
+          {
+            "stringId": "1991099230024704000",
+            "femaleVariant": "Hm?"
+          },
+          {
+            "stringId": "1991099567951388672",
+            "femaleVariant": "Haven't gotten there – not yet."
+          },
+          {
+            "stringId": "1991100967506747392",
+            "femaleVariant": "See me as that shallow?"
+          },
+          {
+            "stringId": "1991101605309390848",
+            "femaleVariant": "Acting as if we're on our way to some party."
+          },
+          {
+            "stringId": "1993618525283753984",
+            "femaleVariant": "And I ain't goin' back!"
+          },
+          {
+            "stringId": "1993620818309750784",
+            "femaleVariant": "Dunno, Jack… kinda feels like you're losin' that steel grip o' yours."
+          },
+          {
+            "stringId": "1993623250838298624",
+            "femaleVariant": "Stay in touch."
+          },
+          {
+            "stringId": "2028618756357091332",
+            "femaleVariant": "[Get out]"
+          }
+        ]
+      }
+
+
+

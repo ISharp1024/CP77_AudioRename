@@ -1,0 +1,498 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1764913447628161024",
+            "femaleVariant": "I'll try."
+          },
+          {
+            "stringId": "1764916827582873600",
+            "femaleVariant": "You still wanna leave?"
+          },
+          {
+            "stringId": "1764918152194408448",
+            "femaleVariant": "I'll try. Helps to keep it at the back of my mind."
+          },
+          {
+            "stringId": "1764918455073488896",
+            "femaleVariant": "You still think about leaving Night City?"
+          },
+          {
+            "stringId": "1764948946422054916",
+            "femaleVariant": "How's life beyond Night City?"
+          },
+          {
+            "stringId": "1764949371909029888",
+            "femaleVariant": "What do you do now?"
+          },
+          {
+            "stringId": "1764949870863433728",
+            "femaleVariant": "So, how's life away from civilization?"
+          },
+          {
+            "stringId": "1764950158609465344",
+            "femaleVariant": "So what do you do nowadays?"
+          },
+          {
+            "stringId": "1918257954544402436",
+            "femaleVariant": "You ever recorded any cool braindances?"
+          },
+          {
+            "stringId": "1918258839928422404",
+            "femaleVariant": "I want to see you."
+          },
+          {
+            "stringId": "1918260361521250304",
+            "femaleVariant": "Hey. That offer on the dam still on the table?"
+          },
+          {
+            "stringId": "1918261154949349376",
+            "femaleVariant": "Course. This evening in the lakeshore cabin. You'll be there?"
+          },
+          {
+            "stringId": "1918261439893585920",
+            "femaleVariant": "I'll try my best. See you then."
+          },
+          {
+            "stringId": "1918262350141440000",
+            "femaleVariant": "Changed my mind – let's go diving."
+          },
+          {
+            "stringId": "1918264497843191808",
+            "femaleVariant": "Had a change of heart. Wanna take a dive, after all."
+          },
+          {
+            "stringId": "1918265709644726272",
+            "femaleVariant": "Preem. Lakeshore cabin this evening. Don't keep me waiting."
+          },
+          {
+            "stringId": "1918271157844295680",
+            "femaleVariant": "What's new with the Mox?"
+          },
+          {
+            "stringId": "1918271446865395712",
+            "femaleVariant": "How's virtu-tuning going? Scroll anything preem lately?"
+          },
+          {
+            "stringId": "1918271768602066948",
+            "femaleVariant": "What's new with the Mox?"
+          },
+          {
+            "stringId": "1944402023397965828",
+            "femaleVariant": "Changed my mind. I'll help with the Clouds."
+          },
+          {
+            "stringId": "1944402759666089984",
+            "femaleVariant": "I'll help you with Hiromi."
+          },
+          {
+            "stringId": "1944405656554422272",
+            "femaleVariant": "You know what... I've thought about it. I'll help you your Clouds situation."
+          },
+          {
+            "stringId": "1944406059627036676",
+            "femaleVariant": "I take back what I said. I'll help you take care of Hiromi."
+          },
+          {
+            "stringId": "1944414908434071556",
+            "femaleVariant": "[Hang up] See ya, Judy."
+          },
+          {
+            "stringId": "1944416917170143236",
+            "femaleVariant": "I take an interest in everything."
+          },
+          {
+            "stringId": "1944417205822144512",
+            "femaleVariant": "Why do you work in porn?"
+          },
+          {
+            "stringId": "1944417354669604864",
+            "femaleVariant": "Let's change the subject."
+          },
+          {
+            "stringId": "1944417761852637184",
+            "femaleVariant": "Something else I wanted to talk about."
+          },
+          {
+            "stringId": "1944418147795714048",
+            "femaleVariant": "Guess I kinda have to be into a little bit of everything. When it comes to virtus, I'm mostly in it for the intel."
+          },
+          {
+            "stringId": "1944418241714569220",
+            "femaleVariant": "Always wondered – why the smut industry?"
+          },
+          {
+            "stringId": "1944418642287378432",
+            "femaleVariant": "Maybe you should become their leader."
+          },
+          {
+            "stringId": "1944418642287378448",
+            "femaleVariant": "Why'd you join them in the first place?"
+          },
+          {
+            "stringId": "1944418642287378464",
+            "femaleVariant": "Got another question."
+          },
+          {
+            "stringId": "1944418642404818948",
+            "femaleVariant": "Got another question on my mind."
+          },
+          {
+            "stringId": "1944418642455150596",
+            "femaleVariant": "Couldn't you replace Susie and lead the Mox?"
+          },
+          {
+            "stringId": "1944418642505482244",
+            "femaleVariant": "How'd you hook up with the Mox in the first place?"
+          },
+          {
+            "stringId": "1944427770133069824",
+            "femaleVariant": "[Lean] I'd like to spend more time with you."
+          },
+          {
+            "stringId": "1944429089845657604",
+            "femaleVariant": "If I wasn't always on the move, you and I could spend more time together, enjoy life..."
+          },
+          {
+            "stringId": "1944429611818401792",
+            "femaleVariant": "[Step away] Let's talk a little while longer."
+          },
+          {
+            "stringId": "1944429847706058756",
+            "femaleVariant": "Let's talk a little while longer, before I have to delta somewhere."
+          },
+          {
+            "stringId": "1944430879202852864",
+            "femaleVariant": "You don't miss Night City?"
+          },
+          {
+            "stringId": "1944431942744129536",
+            "femaleVariant": "Let's talk about something else."
+          },
+          {
+            "stringId": "1944432265369993220",
+            "femaleVariant": "You don't miss Night City at all?"
+          },
+          {
+            "stringId": "1944432265437102080",
+            "femaleVariant": "Let's talk about something else."
+          },
+          {
+            "stringId": "1944438953103835136",
+            "femaleVariant": "I was just thinking of you. And before you ask – no, you weren't wearing clothes."
+          },
+          {
+            "stringId": "1944439096968462336",
+            "femaleVariant": "Hey, V."
+          },
+          {
+            "stringId": "1944439140689887232",
+            "femaleVariant": "What's new?"
+          },
+          {
+            "stringId": "1944449961339895808",
+            "femaleVariant": "Oh, before I forget. Some lady called me – Elizabeth something. Said she had a job for someone with an eye for virtus."
+          },
+          {
+            "stringId": "1944450315137826820",
+            "femaleVariant": "Way ahead of ya."
+          },
+          {
+            "stringId": "1944450638116012032",
+            "femaleVariant": "What a mess of a job."
+          },
+          {
+            "stringId": "1944450705946296320",
+            "femaleVariant": "Just so happens I already took that job."
+          },
+          {
+            "stringId": "1944451124403617796",
+            "femaleVariant": "Ugh... What a dumpster fire of a case."
+          },
+          {
+            "stringId": "1944452106843832324",
+            "femaleVariant": "Heard there was some trouble in Japantown, at the parade."
+          },
+          {
+            "stringId": "1944452106877386752",
+            "femaleVariant": "That was me."
+          },
+          {
+            "stringId": "1944452106894163980",
+            "femaleVariant": "Don't know anything about it."
+          },
+          {
+            "stringId": "1944452106944495620",
+            "femaleVariant": "Yeeeahhh... That was kinda my fault."
+          },
+          {
+            "stringId": "1944452107028381700",
+            "femaleVariant": "Don't know anything about that."
+          },
+          {
+            "stringId": "1944453102236057600",
+            "femaleVariant": "Nothing special, same ol' story.."
+          },
+          {
+            "stringId": "1944453174713630724",
+            "femaleVariant": "What else is going on, besides that?"
+          },
+          {
+            "stringId": "1944464546964946944",
+            "femaleVariant": "How'd you get into braindances?"
+          },
+          {
+            "stringId": "1944465548547964932",
+            "femaleVariant": "How'd you get into virtus, anyway?"
+          },
+          {
+            "stringId": "1944491996000272384",
+            "femaleVariant": "Good to hear. I already lost hope in, well... pretty much everything."
+          },
+          {
+            "stringId": "1944511969443692544",
+            "femaleVariant": "It was an interesting case."
+          },
+          {
+            "stringId": "1944512049722671104",
+            "femaleVariant": "Thanks for thinking of me."
+          },
+          {
+            "stringId": "1944512179259555844",
+            "femaleVariant": "Nice of you to think of me, Judy."
+          },
+          {
+            "stringId": "1944512792785567748",
+            "femaleVariant": "As far as cases go, it was interesting."
+          },
+          {
+            "stringId": "1944550020639342592",
+            "femaleVariant": "What did you hear?"
+          },
+          {
+            "stringId": "1944550532327653376",
+            "femaleVariant": "What did you hear?"
+          },
+          {
+            "stringId": "1944552284204548096",
+            "femaleVariant": "Corpos opened fire, civilians were killed."
+          },
+          {
+            "stringId": "1944636420013408256",
+            "femaleVariant": "I'll call Maiko and set up the meet. You'll get specifics soon."
+          },
+          {
+            "stringId": "1946138052819378176",
+            "femaleVariant": "Told her to drop you a line."
+          },
+          {
+            "stringId": "1946141668443643904",
+            "femaleVariant": "Hey, don't mention it. I just hope she's worth the eddies."
+          },
+          {
+            "stringId": "1947506736188055552",
+            "femaleVariant": "No shit. And? How'd it pan out?"
+          },
+          {
+            "stringId": "1947507403954806784",
+            "femaleVariant": "Hard for me to say at this stage."
+          },
+          {
+            "stringId": "1947507635480387584",
+            "femaleVariant": "Riiiight, \"client confidentiality\" and all that."
+          },
+          {
+            "stringId": "1947511693989601280",
+            "femaleVariant": "You manage to crack it?"
+          },
+          {
+            "stringId": "1947511903436365824",
+            "femaleVariant": "In a manner of speaking."
+          },
+          {
+            "stringId": "1947513089602314240",
+            "femaleVariant": "Hope the same went for your comp."
+          },
+          {
+            "stringId": "1947520639852830720",
+            "femaleVariant": "Ha! Don't ask me how, but the second I heard, I knew you were involved!"
+          },
+          {
+            "stringId": "1947523040739549184",
+            "femaleVariant": "Oh, y'know, same old. Rather hear what you've been up to."
+          },
+          {
+            "stringId": "1947528116820467712",
+            "femaleVariant": "I'd rather hear about you."
+          },
+          {
+            "stringId": "1947575929235267584",
+            "femaleVariant": "Susie isn't giving me the time of day – as usual."
+          },
+          {
+            "stringId": "1947682064638369792",
+            "femaleVariant": "Depends what you'd call \"preem.\" Does smut count?"
+          },
+          {
+            "stringId": "1947685685027364864",
+            "femaleVariant": "Got all the time in the world."
+          },
+          {
+            "stringId": "1947698200461402112",
+            "femaleVariant": "You mean seeing who killed who using what?"
+          },
+          {
+            "stringId": "1947701449755156480",
+            "femaleVariant": "Something like that. But you see it differently – for you it's art."
+          },
+          {
+            "stringId": "1947714112258269184",
+            "femaleVariant": "Isn't it obvious? Two minutes of realfeel's a week's pay."
+          },
+          {
+            "stringId": "1947714488621555712",
+            "femaleVariant": "Sure, but I thought someone like you wouldn't be into the whole objectification thing."
+          },
+          {
+            "stringId": "1947716692090773504",
+            "femaleVariant": "Objectification? Not in my virtus. My actors love what they do, and that's why everyone wants to feel 'em. Can't fake old school emotions."
+          },
+          {
+            "stringId": "1947721441586405376",
+            "femaleVariant": "I always had a techie streak, ever since I was a little kid. When I felt my first virtu, I was like, \"Hey, I can make this way better.\""
+          },
+          {
+            "stringId": "1947722477915037696",
+            "femaleVariant": "So I tried, and I did. And then it just snowballed from there."
+          },
+          {
+            "stringId": "1947734151837474816",
+            "femaleVariant": "Shoot."
+          },
+          {
+            "stringId": "1947738791727554560",
+            "femaleVariant": "I thought Susie and the gang could really change something in this city. I believed in them."
+          },
+          {
+            "stringId": "1947739250064318464",
+            "femaleVariant": "Wind up business as usual?"
+          },
+          {
+            "stringId": "1947739437700702208",
+            "femaleVariant": "I mean, I wouldn't go that far. Few joytoys' lives've really changed for the better thanks to them."
+          },
+          {
+            "stringId": "1947751691309506560",
+            "femaleVariant": "Quality over quantity, V."
+          },
+          {
+            "stringId": "1947754763888844800",
+            "femaleVariant": "Just focus on tying up all your loose ends – then you and I are leaving this city once and for all."
+          },
+          {
+            "stringId": "1947760252521504768",
+            "femaleVariant": "Guarantee it does. People already say I've got a bounce in my step."
+          },
+          {
+            "stringId": "1947762648693825536",
+            "femaleVariant": "Yeah... someday."
+          },
+          {
+            "stringId": "1947763052487860224",
+            "femaleVariant": "But as of right now... I've still got a reason to stay."
+          },
+          {
+            "stringId": "1947766499517882368",
+            "femaleVariant": "Eh, it's too soon. I still remember the noise, the smell... everything."
+          },
+          {
+            "stringId": "1947771059447750656",
+            "femaleVariant": "Got for it. I'm driving right now, so it's perfect timing."
+          },
+          {
+            "stringId": "1947772631254786048",
+            "femaleVariant": "For you I've got all day."
+          },
+          {
+            "stringId": "1947783607026933760",
+            "femaleVariant": "You mean Night City? Ugh. You should see Oregon. This is how life's meant to be lived."
+          },
+          {
+            "stringId": "1947785877336580096",
+            "femaleVariant": "I'm taking things easy for now. But I'll get back to work soon. I've got an idea for an experimental virtu cycle."
+          },
+          {
+            "stringId": "1948736435471998976",
+            "femaleVariant": "Meet me early morning – H8 megatower, trashy terrace outside the upper level of Clouds. Just... be there this time."
+          },
+          {
+            "stringId": "1948742177809719296",
+            "femaleVariant": "V, just... Don't get cold feet this time."
+          },
+          {
+            "stringId": "1948755024610549760",
+            "femaleVariant": "Hahahaha. No way in hell. I'll stick with tuning virtus, thank you very much."
+          },
+          {
+            "stringId": "1948755514203267072",
+            "femaleVariant": "If you haven't noticed, I'm not much of a people-person."
+          },
+          {
+            "stringId": "1948786706654912512",
+            "femaleVariant": "We just wanted to talk to Hanako. Things went a little sideways from there."
+          },
+          {
+            "stringId": "1948787529879347200",
+            "femaleVariant": "Dealing with corps – what did you expect."
+          },
+          {
+            "stringId": "1948788320102998016",
+            "femaleVariant": "Huh, funny... Sounds like something you'd be in the know about."
+          },
+          {
+            "stringId": "1948810409237241856",
+            "femaleVariant": "It was nice catching up."
+          },
+          {
+            "stringId": "1948811144599396352",
+            "femaleVariant": "I'm right here, V – call me anytime."
+          },
+          {
+            "stringId": "1948827181017423876",
+            "femaleVariant": "You know anything about illegal braindances?"
+          },
+          {
+            "stringId": "1948829125463203840",
+            "femaleVariant": "Had the pleasure of coming across some XBDs lately. You know much about them?"
+          },
+          {
+            "stringId": "1948830856737677312",
+            "femaleVariant": "Lemme put it this way – the less I know about them, the better."
+          },
+          {
+            "stringId": "1948834178274123776",
+            "femaleVariant": "And I'm not even mentioning the producers."
+          },
+          {
+            "stringId": "2314253418925121536",
+            "femaleVariant": "I gotta go."
+          }
+        ]
+      }
+
+
+

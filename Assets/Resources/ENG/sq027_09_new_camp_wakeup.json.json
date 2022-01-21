@@ -1,0 +1,506 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1947404463386521600",
+            "femaleVariant": "V... You have to tell me what is happening."
+          },
+          {
+            "stringId": "1947406641522143232",
+            "femaleVariant": "The blood... You were out for hours. What's wrong?"
+          },
+          {
+            "stringId": "1947407692413399044",
+            "femaleVariant": "Eh, it's nothing."
+          },
+          {
+            "stringId": "1947408811587923968",
+            "femaleVariant": "It's getting worse, Panam."
+          },
+          {
+            "stringId": "1947412378944139264",
+            "femaleVariant": "It's... nothing. I'm fine now."
+          },
+          {
+            "stringId": "1947412847313678336",
+            "femaleVariant": "Fuck, so I can see."
+          },
+          {
+            "stringId": "1947413144505282560",
+            "femaleVariant": "Will you tell me what is going on? Or will we keep playing this stupid charade?"
+          },
+          {
+            "stringId": "1947414091914670080",
+            "femaleVariant": "Panam, I... It's getting worse, every single day..."
+          },
+          {
+            "stringId": "1947414952367747072",
+            "femaleVariant": "OK, V, relax. Take it bit by bit. What is happening, exactly?"
+          },
+          {
+            "stringId": "1947415432951099396",
+            "femaleVariant": "You know Johnny Silverhand?"
+          },
+          {
+            "stringId": "1947416848981684224",
+            "femaleVariant": "It's the busted tech in my head."
+          },
+          {
+            "stringId": "1947418956921434112",
+            "femaleVariant": "I'm afraid to tell you the truth."
+          },
+          {
+            "stringId": "1947419833950400512",
+            "femaleVariant": "To tell you the whole truth... I'm afraid things won't be the same between us if I do."
+          },
+          {
+            "stringId": "1947486841144471552",
+            "femaleVariant": "V, listen to me."
+          },
+          {
+            "stringId": "1947486935616974848",
+            "femaleVariant": "V, cut the crap and tell me what's going on! I'm worried!"
+          },
+          {
+            "stringId": "1947490954582290432",
+            "femaleVariant": "There is not a thing you could say to me that would change how..."
+          },
+          {
+            "stringId": "1947493282739777536",
+            "femaleVariant": "I mean, just cut the bullshit and tell me what's going on!"
+          },
+          {
+            "stringId": "1947494844782473216",
+            "femaleVariant": "You know Johnny Silverhand?"
+          },
+          {
+            "stringId": "1947494915531993088",
+            "femaleVariant": "OK. So... You ever hear of the Relic?"
+          },
+          {
+            "stringId": "1947496595300413440",
+            "femaleVariant": "The Arasaka tech? Does something with personalities? I saw the ads. Sounds like some rich people scam, to be honest."
+          },
+          {
+            "stringId": "1947498317783625728",
+            "femaleVariant": "It's not bullshit. I've got a biochip in my head with one of those constructs. And the chip's damaged."
+          },
+          {
+            "stringId": "1947499797416636416",
+            "femaleVariant": "So take it out!"
+          },
+          {
+            "stringId": "1947503021360017408",
+            "femaleVariant": "Yes, they sometimes play those oldies on the radio. Why?"
+          },
+          {
+            "stringId": "1947504691598979072",
+            "femaleVariant": "That's just it. Johnny's alive. He's sitting in my head."
+          },
+          {
+            "stringId": "1947505641373954048",
+            "femaleVariant": "He's what? A-am I not... is this some sort of strange metaphor?"
+          },
+          {
+            "stringId": "1947511706555641856",
+            "femaleVariant": "V... Back to what we were saying..."
+          },
+          {
+            "stringId": "1947512811486310404",
+            "femaleVariant": "Honestly? I dunno."
+          },
+          {
+            "stringId": "1947516061451153408",
+            "femaleVariant": "I'm afraid you can't."
+          },
+          {
+            "stringId": "1947516316330618880",
+            "femaleVariant": "Honestly? Not a clue."
+          },
+          {
+            "stringId": "1947520915368177664",
+            "femaleVariant": "But there has to be something, someone who can..."
+          },
+          {
+            "stringId": "1947523448643907584",
+            "femaleVariant": "Remember Hellman? He's the one who created the personality construct tech."
+          },
+          {
+            "stringId": "1947524044000194560",
+            "femaleVariant": "That's why you wanted to get him."
+          },
+          {
+            "stringId": "1947525687949258752",
+            "femaleVariant": "Couldn't help me. Not sure anyone can."
+          },
+          {
+            "stringId": "1947526241429614592",
+            "femaleVariant": "I don't believe that."
+          },
+          {
+            "stringId": "1947527040360640512",
+            "femaleVariant": "But it was a dead end. Now I have to figure out where to go next."
+          },
+          {
+            "stringId": "1947553441960816640",
+            "femaleVariant": "You'll find a way. And once you do, let me know. I will help."
+          },
+          {
+            "stringId": "1947562000052252676",
+            "femaleVariant": "Thanks, Panam."
+          },
+          {
+            "stringId": "1947562560612593664",
+            "femaleVariant": "[Kiss Panam] Thanks for being here for me."
+          },
+          {
+            "stringId": "1947562781836963840",
+            "femaleVariant": "I'll be fine. You take care of yourself!"
+          },
+          {
+            "stringId": "1947563333673152512",
+            "femaleVariant": "Thanks, Panam."
+          },
+          {
+            "stringId": "1947563407811670016",
+            "femaleVariant": "Thanks for everything."
+          },
+          {
+            "stringId": "1947563488677851136",
+            "femaleVariant": "I'll be fine, don't worry. Good luck with the new camp."
+          },
+          {
+            "stringId": "1947564437865623552",
+            "femaleVariant": "For being here for me."
+          },
+          {
+            "stringId": "1947564698231238656",
+            "femaleVariant": "Take care of yourself. And let me know... Well, just please keep in touch."
+          },
+          {
+            "stringId": "1947566217273929728",
+            "femaleVariant": "Want me to walk with you?"
+          },
+          {
+            "stringId": "1947567810186702848",
+            "femaleVariant": "Thanks..."
+          },
+          {
+            "stringId": "1947569196957822976",
+            "femaleVariant": "Take care, Panam!"
+          },
+          {
+            "stringId": "1947620009591828484",
+            "femaleVariant": "I'm serious. It's a long story."
+          },
+          {
+            "stringId": "1947620976966103040",
+            "femaleVariant": "Silverhand's wreaking havoc in my head."
+          },
+          {
+            "stringId": "1947621501103108096",
+            "femaleVariant": "Long story. Got a job, fucked it up, now Silverhand's personality construct's sitting in my head."
+          },
+          {
+            "stringId": "1947621619147599872",
+            "femaleVariant": "Panam, Silverhand's construct is busy wreaking havoc in my head."
+          },
+          {
+            "stringId": "1947622932015083520",
+            "femaleVariant": "Bullshit."
+          },
+          {
+            "stringId": "1947623142149713920",
+            "femaleVariant": "Yeah, well, he's not too happy about it either. Turns out we don't really mix. And it's getting worse."
+          },
+          {
+            "stringId": "1947625918846070784",
+            "femaleVariant": "You are not joking."
+          },
+          {
+            "stringId": "1947626740828991488",
+            "femaleVariant": "Just trying to live with it. Survive, actually."
+          },
+          {
+            "stringId": "1947627029111894016",
+            "femaleVariant": "It's certainly not doing wonders for your health."
+          },
+          {
+            "stringId": "1947631101562974208",
+            "femaleVariant": "Impossible. It's not – i-it's simply impossible. Johnny Silverhand?"
+          },
+          {
+            "stringId": "1947631731614543872",
+            "femaleVariant": "Listen, did you try, you know... talking to someone about this?"
+          },
+          {
+            "stringId": "1947632163678187520",
+            "femaleVariant": "Could tell my therapist a lotta things, but this isn't one of 'em. Construct's more like a cancer, growing every day."
+          },
+          {
+            "stringId": "1947634931398733828",
+            "femaleVariant": "More complicated than that. Relic's also keeping me alive."
+          },
+          {
+            "stringId": "1947635269845512192",
+            "femaleVariant": "The personality construct attacked my brain."
+          },
+          {
+            "stringId": "1947636668092248064",
+            "femaleVariant": "Definitely not that simple. Relic's also keeping me alive. But..."
+          },
+          {
+            "stringId": "1947636772580749312",
+            "femaleVariant": "Chip held a personality construct. Construct attacked my brain."
+          },
+          {
+            "stringId": "1947637830702985216",
+            "femaleVariant": "So this is cyberpsychosis? Because if it is, I know people who--"
+          },
+          {
+            "stringId": "1947638232584417280",
+            "femaleVariant": "No, no. The chip's data is infecting my neural connections. Got nothing to do with cyberpsychosis."
+          },
+          {
+            "stringId": "1947638889177542656",
+            "femaleVariant": "I remove the Relic, I die. If I don't deal with the construct, I die."
+          },
+          {
+            "stringId": "1947643814229962752",
+            "femaleVariant": "Fuck."
+          },
+          {
+            "stringId": "1947647502919004160",
+            "femaleVariant": "You can't reverse it somehow? Stop it? Fuck, you can't get it out of your head?"
+          },
+          {
+            "stringId": "1947648959969882112",
+            "femaleVariant": "That's what I'm trying to do. But the clock's ticking. Getting worse by the day."
+          },
+          {
+            "stringId": "1947651317470720000",
+            "femaleVariant": "Fuck."
+          },
+          {
+            "stringId": "1989299053052841988",
+            "femaleVariant": "Where are we?"
+          },
+          {
+            "stringId": "1989299684866019328",
+            "femaleVariant": "What happened?"
+          },
+          {
+            "stringId": "1989300029218377728",
+            "femaleVariant": "Where... where are we?"
+          },
+          {
+            "stringId": "1989300160030330884",
+            "femaleVariant": "What happened? I remember, I... We were talking, then suddenly..."
+          },
+          {
+            "stringId": "1989300574360457216",
+            "femaleVariant": "I gotta go. I'm feeling better, really."
+          },
+          {
+            "stringId": "1989304274005020672",
+            "femaleVariant": "V! Welcome back to the land of the living!"
+          },
+          {
+            "stringId": "1989305535668441088",
+            "femaleVariant": "I know this area, back from the old routes."
+          },
+          {
+            "stringId": "1989306481014231040",
+            "femaleVariant": "I thought I heard that voice!"
+          },
+          {
+            "stringId": "1989394591764992004",
+            "femaleVariant": "I can stay for a bit. Thanks."
+          },
+          {
+            "stringId": "1989395837305507840",
+            "femaleVariant": "Remember – our offer still stands."
+          },
+          {
+            "stringId": "1989396850448027648",
+            "femaleVariant": "See you made yourselves at home already."
+          },
+          {
+            "stringId": "1989401209235853312",
+            "femaleVariant": "Much better now. Thanks for your help."
+          },
+          {
+            "stringId": "1989401577093091328",
+            "femaleVariant": "Thanks, I'll stick around for a bit."
+          },
+          {
+            "stringId": "1989401769645199364",
+            "femaleVariant": "All fine now, thanks."
+          },
+          {
+            "stringId": "1989402808322641920",
+            "femaleVariant": "See you already settled in here."
+          },
+          {
+            "stringId": "1989403539020730368",
+            "femaleVariant": "We do have some experience in this."
+          },
+          {
+            "stringId": "1989403768281387008",
+            "femaleVariant": "This is a good place. We have greater control over the area. The rest will settle in quickly."
+          },
+          {
+            "stringId": "1989432291394080768",
+            "femaleVariant": "You passed out. Completely. We took you with us."
+          },
+          {
+            "stringId": "1989434433525796864",
+            "femaleVariant": "We moved camp. You are safe, everything is under control."
+          },
+          {
+            "stringId": "1989437188864757760",
+            "femaleVariant": "You passed out. Completely. We took you with us."
+          },
+          {
+            "stringId": "1989437286843699200",
+            "femaleVariant": "Somewhere new. We moved camp. Don't worry, we are safe here. For now."
+          },
+          {
+            "stringId": "1989438692220751872",
+            "femaleVariant": "I don't know..."
+          },
+          {
+            "stringId": "1989438880846991360",
+            "femaleVariant": "Wait, I will go with you."
+          },
+          {
+            "stringId": "1989442034560946176",
+            "femaleVariant": "You really safe here, though?"
+          },
+          {
+            "stringId": "1989442812252016640",
+            "femaleVariant": "About time sleeping beauty decided to join us! Hey there."
+          },
+          {
+            "stringId": "1989443584557600768",
+            "femaleVariant": "Hey, Mitch."
+          },
+          {
+            "stringId": "1989443758403112960",
+            "femaleVariant": "Took good care of your ride. She's over there."
+          },
+          {
+            "stringId": "1989444960037654528",
+            "femaleVariant": "Make yourself at home."
+          },
+          {
+            "stringId": "1989445834885582848",
+            "femaleVariant": "I'm glad to hear it."
+          },
+          {
+            "stringId": "1989450121413939200",
+            "femaleVariant": "If you need help, the Aldecaldos are here for you."
+          },
+          {
+            "stringId": "1989455230277537792",
+            "femaleVariant": "If you need anything, you know where to find us."
+          },
+          {
+            "stringId": "1999485574543175680",
+            "femaleVariant": "V?"
+          },
+          {
+            "stringId": "1999491326695567360",
+            "femaleVariant": "Panam... I..."
+          },
+          {
+            "stringId": "1999491880998006784",
+            "femaleVariant": "V, relax, everything is OK. How do you feel?"
+          },
+          {
+            "stringId": "1999500089217380352",
+            "femaleVariant": "Where...?"
+          },
+          {
+            "stringId": "1999504706575659008",
+            "femaleVariant": "Where?"
+          },
+          {
+            "stringId": "1999530197072343040",
+            "femaleVariant": "Finally. We were worried."
+          },
+          {
+            "stringId": "1999536111594631168",
+            "femaleVariant": "Is everything OK?"
+          },
+          {
+            "stringId": "1999540554755076096",
+            "femaleVariant": "But tell us, how are you? You scared us."
+          },
+          {
+            "stringId": "1999547341189279744",
+            "femaleVariant": "Thanks, but I gotta get going."
+          },
+          {
+            "stringId": "1999547835395731456",
+            "femaleVariant": "Thanks, Mitch. But I'd better be going."
+          },
+          {
+            "stringId": "1999552354842177536",
+            "femaleVariant": "You're barely standing, V. You take care of yourself, OK?"
+          },
+          {
+            "stringId": "1999554930211942400",
+            "femaleVariant": "And that, at least, we can agree on."
+          },
+          {
+            "stringId": "1999558769963036672",
+            "femaleVariant": "I will not even pretend to understand. I don't think it has even sunk in yet. But I am serious – how can I help?"
+          },
+          {
+            "stringId": "1999573728327495680",
+            "femaleVariant": "This whole family will help. Saul was not joking. You understand?"
+          },
+          {
+            "stringId": "1999577078670422016",
+            "femaleVariant": "For now, yes. Militech does not venture this far. And our vantage points really are much better."
+          },
+          {
+            "stringId": "1999578352665096192",
+            "femaleVariant": "But you know, everything here... It is temporary, all of it. We will soon have to decide what comes next."
+          },
+          {
+            "stringId": "2006859935632523264",
+            "femaleVariant": "But you're not leaving us already, are you?"
+          },
+          {
+            "stringId": "2077967784476962816",
+            "femaleVariant": "Gotta go."
+          },
+          {
+            "stringId": "2227325631560499200",
+            "femaleVariant": "V? Talk to me?"
+          },
+          {
+            "stringId": "2227358561578074112",
+            "femaleVariant": "Is anything wrong, V?"
+          }
+        ]
+      }
+
+
+

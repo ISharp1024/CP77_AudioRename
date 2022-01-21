@@ -1,0 +1,357 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1790844402573406208",
+            "femaleVariant": "Come on. Don't like leaving the door open."
+          },
+          {
+            "stringId": "1790849247195852804",
+            "femaleVariant": "[Hand over databank] Got it right here."
+          },
+          {
+            "stringId": "1790849768749166592",
+            "femaleVariant": "Here. Don't worry, it's completely intact."
+          },
+          {
+            "stringId": "1790851191658409984",
+            "femaleVariant": "You wouldn't happen to've seen what's inside, would you?"
+          },
+          {
+            "stringId": "1790894573025914884",
+            "femaleVariant": "Of course not."
+          },
+          {
+            "stringId": "1790895377275318272",
+            "femaleVariant": "Yes, I did."
+          },
+          {
+            "stringId": "1790899020917534720",
+            "femaleVariant": "And ruin my cred? For what, a few bytes of data?"
+          },
+          {
+            "stringId": "1790899634141556736",
+            "femaleVariant": "Funny you should say that, 'cause not long ago the databank's GPS sig suddenly went online."
+          },
+          {
+            "stringId": "1790900363262586884",
+            "femaleVariant": "It couldn't have been me."
+          },
+          {
+            "stringId": "1790904996961873920",
+            "femaleVariant": "All right, you got me."
+          },
+          {
+            "stringId": "1790905204512813056",
+            "femaleVariant": "Beats me. Who knows, maybe the scavs managed to take a little peek before I came along."
+          },
+          {
+            "stringId": "1790909271813287936",
+            "femaleVariant": "Here. You can go now."
+          },
+          {
+            "stringId": "1790912791824199680",
+            "femaleVariant": "All right, you got me. I looked inside... I know everything."
+          },
+          {
+            "stringId": "1790913172465676288",
+            "femaleVariant": "That's what I thought. So, what's your next move?"
+          },
+          {
+            "stringId": "1790913447863676932",
+            "femaleVariant": "I wanna congratulate you."
+          },
+          {
+            "stringId": "1790944644694175744",
+            "femaleVariant": "Blackmail you, of course."
+          },
+          {
+            "stringId": "1790944867227168768",
+            "femaleVariant": "Nothing."
+          },
+          {
+            "stringId": "1790945073234604032",
+            "femaleVariant": "To congratulate you, of course. Anyone who hacks Night Corp's earned my respect.",
+            "maleVariant": "To congratulate you, of course. Anyone who hacks Night Corp has earned my respect."
+          },
+          {
+            "stringId": "1790948734845218816",
+            "femaleVariant": "Oh, well I... um... thank you. You know, if they end up going through with it, then--"
+          },
+          {
+            "stringId": "1790948969206149124",
+            "femaleVariant": "What daemons did you use?"
+          },
+          {
+            "stringId": "1790949928846127104",
+            "femaleVariant": "Conditioning people's minds... that's just evil."
+          },
+          {
+            "stringId": "1790955523108139008",
+            "femaleVariant": "Night Corp's secured up the ass. Can't just upload the usual Blackout and Fireshaft."
+          },
+          {
+            "stringId": "1790956614516371456",
+            "femaleVariant": "You've been a big help. Here. I threw in a little extra – for a fellow runner."
+          },
+          {
+            "stringId": "1790957676195377152",
+            "femaleVariant": "Thanks. Be seein' ya."
+          },
+          {
+            "stringId": "1790960957181292544",
+            "femaleVariant": "Usin' AGI to condition workers' minds... Hm, that's some supervillain shit right there.",
+            "maleVariant": "Usin' AGI to condition workers' minds... Huh, that's some supervillain shit right there."
+          },
+          {
+            "stringId": "1790961612046364672",
+            "femaleVariant": "Here. What we agreed on... plus a little extra. People like us need to stick together, right?"
+          },
+          {
+            "stringId": "1790962008240320512",
+            "femaleVariant": "Thanks. And good luck."
+          },
+          {
+            "stringId": "1790966202762424320",
+            "femaleVariant": "You've got a pretty nice place... for a netrunner. Wonder how someone like you could afford all this..."
+          },
+          {
+            "stringId": "1790969190348386304",
+            "femaleVariant": "Here! This much."
+          },
+          {
+            "stringId": "1790972383321026560",
+            "femaleVariant": "Nothing. I don't care what you do in your spare time. After all – it's a free country, am I right?",
+            "maleVariant": "Nothin'. I don't care what you do in your spare time. After all – it's a free country, right?"
+          },
+          {
+            "stringId": "1790972797835702272",
+            "femaleVariant": "Anyway, I'll take your indifference as a sign of good faith. Here. You can go now."
+          },
+          {
+            "stringId": "1790973247448313856",
+            "femaleVariant": "Thanks. Be seein' ya."
+          },
+          {
+            "stringId": "1790979428258574336",
+            "femaleVariant": "I'm a professional. I have a reputation to uphold."
+          },
+          {
+            "stringId": "1790979845373718528",
+            "femaleVariant": "Hm. Good. Then here you go. For your professionalism."
+          },
+          {
+            "stringId": "1803778778625896452",
+            "femaleVariant": "[Knock]"
+          },
+          {
+            "stringId": "1803779404986478592",
+            "femaleVariant": "Sandra? It's me, V. Got your databank.",
+            "maleVariant": "Sandra? It's me, V. I got your databank."
+          },
+          {
+            "stringId": "1803780071243280384",
+            "femaleVariant": "Are you alone? Did anyone follow you?"
+          },
+          {
+            "stringId": "1831389832043806720",
+            "femaleVariant": "What does it look like?"
+          },
+          {
+            "stringId": "1831396410188873728",
+            "femaleVariant": "Sandra! You in there?"
+          },
+          {
+            "stringId": "1831426402163605504",
+            "femaleVariant": "Still worried about the scavs? My, uh... friend told me your memory'd be scraped clean.",
+            "maleVariant": "Still worried about the scavs? My, um... friend told me your memory'd be scraped clean."
+          },
+          {
+            "stringId": "1831426501736382464",
+            "femaleVariant": "The scavengers? No, I'm worried about... Umm... No, no, it doesn't matter."
+          },
+          {
+            "stringId": "1831426637598277632",
+            "femaleVariant": "You bring the databank?"
+          },
+          {
+            "stringId": "1831558849912094720",
+            "femaleVariant": "The Net'll become even more dangerous. You were worried they'd find out about you."
+          },
+          {
+            "stringId": "1831559480349540352",
+            "femaleVariant": "Exactly."
+          },
+          {
+            "stringId": "1831606333157916672",
+            "femaleVariant": "Thanks. Be seein' ya."
+          },
+          {
+            "stringId": "1831608594995068928",
+            "femaleVariant": "Eventually, it'll let them control anyone they want. That's what scares me the most."
+          },
+          {
+            "stringId": "1831608750452752384",
+            "femaleVariant": "Glad to see there're runners who're findin' old school dirt like this. I just hope it gets put to good use."
+          },
+          {
+            "stringId": "1831609122739175424",
+            "femaleVariant": "Oh, it will. Don't you worry about that."
+          },
+          {
+            "stringId": "1831646878504828928",
+            "femaleVariant": "Heh, that's what they want you to think. You haven't seen what I've seen."
+          },
+          {
+            "stringId": "1831662215866597376",
+            "femaleVariant": "Would be a shame if Night Corp got an anonymous tip that somebody'd broken into their database..."
+          },
+          {
+            "stringId": "1831662318408941568",
+            "femaleVariant": "Huh, doesn't surprise me – someone like you. You're no better than a scavenger."
+          },
+          {
+            "stringId": "1831662502706659328",
+            "femaleVariant": "Please, don't exaggerate. Now then, how much is my silence worth to you?"
+          },
+          {
+            "stringId": "1831671809967898624",
+            "femaleVariant": "Which can only mean one thing – someone booted it up and used it."
+          },
+          {
+            "stringId": "1831676648919646208",
+            "femaleVariant": "Mhm. The scavs. Sure..."
+          },
+          {
+            "stringId": "1831680827436285952",
+            "femaleVariant": "Now wait a sec, we agreed on more!"
+          },
+          {
+            "stringId": "1831680947527598080",
+            "femaleVariant": "Oh, really? I guess the scavs must've taken a peek at my bank account before you got here."
+          },
+          {
+            "stringId": "1831681738338451456",
+            "femaleVariant": "We're done. Now leave."
+          },
+          {
+            "stringId": "1831728901743427584",
+            "femaleVariant": "You must've whipped up some angry daemons. You zip 'em up in an Imp?"
+          },
+          {
+            "stringId": "1831728989656039424",
+            "femaleVariant": "Yeah, Leviathan. Even Cerberus isn't enough if you wanna punch through that kind of corpo ICE."
+          },
+          {
+            "stringId": "1831729419689639936",
+            "femaleVariant": "Usin' AGI to condition workers' minds... Hm, that's some supervillain shit right there.",
+            "maleVariant": "Usin' AGI to condition workers' minds... Huh, that's some supervillain shit right there."
+          },
+          {
+            "stringId": "1831729521275682816",
+            "femaleVariant": "Not just workers – anyone. That's the scariest part."
+          },
+          {
+            "stringId": "1833047359294783488",
+            "femaleVariant": "What are you worried about?"
+          },
+          {
+            "stringId": "1833048949607088128",
+            "femaleVariant": "If it's not the scavs you're worried about, then who?"
+          },
+          {
+            "stringId": "1833077473474756608",
+            "femaleVariant": "Look, I didn't pay you to come here and ask me personal questions."
+          },
+          {
+            "stringId": "1833077618463457280",
+            "femaleVariant": "Hey, you mentioned it. 'Sides, I saved your life. That isn't worth anything?"
+          },
+          {
+            "stringId": "1833077884868870144",
+            "femaleVariant": "It was worth whatever you got paid. Don't pretend I wasn't just another small-time job for you."
+          },
+          {
+            "stringId": "1833078184459616256",
+            "femaleVariant": "Now, did you bring the databank?"
+          },
+          {
+            "stringId": "1833085298267635712",
+            "femaleVariant": "When someone tells me not to worry, it usually means they're hiding something."
+          },
+          {
+            "stringId": "1833125601888419840",
+            "femaleVariant": "I threw in a little extra for minding your own data."
+          },
+          {
+            "stringId": "1833130572809748480",
+            "femaleVariant": "It's good to be reminded I'm not in this fight alone."
+          },
+          {
+            "stringId": "1915326530364096516",
+            "femaleVariant": "How much for keeping my mouth shut?"
+          },
+          {
+            "stringId": "1915326726892404736",
+            "femaleVariant": "I was just kidding."
+          },
+          {
+            "stringId": "1915326884380131328",
+            "femaleVariant": "Relax, I was just pullin' your leg. I'm not that big of a cunt.",
+            "maleVariant": "Relax, I was just pullin' your leg. I'm not that big of a dick."
+          },
+          {
+            "stringId": "1915343327813419008",
+            "femaleVariant": "Think that's funny, do you?"
+          },
+          {
+            "stringId": "1915343836750266368",
+            "femaleVariant": "Take your eddies and... and get out."
+          },
+          {
+            "stringId": "1915344768372293632",
+            "femaleVariant": "Out! Now!"
+          },
+          {
+            "stringId": "1929938222144712708",
+            "femaleVariant": "You have good taste."
+          },
+          {
+            "stringId": "1929938914154541056",
+            "femaleVariant": "Nice place you got here. Tasteful."
+          },
+          {
+            "stringId": "1929939451797204992",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1929943421487837184",
+            "femaleVariant": "Cozy place."
+          },
+          {
+            "stringId": "1929943441368838144",
+            "femaleVariant": "Nice digs."
+          },
+          {
+            "stringId": "2088033186664976384",
+            "femaleVariant": "[Knock] Sandra?"
+          }
+        ]
+      }
+
+
+

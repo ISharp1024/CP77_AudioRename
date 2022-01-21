@@ -1,0 +1,277 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1822779551119867908",
+            "femaleVariant": "你有事吗？"
+          },
+          {
+            "stringId": "1822779551136645124",
+            "femaleVariant": "离我远点，病秧子。"
+          },
+          {
+            "stringId": "1822779551203753984",
+            "femaleVariant": "滚远点。"
+          },
+          {
+            "stringId": "1822779551220531204",
+            "femaleVariant": "转身，往远了滚。"
+          },
+          {
+            "stringId": "1822779551270862852",
+            "femaleVariant": "你还敢亮家伙，收起来，马上。"
+          },
+          {
+            "stringId": "1822779551287640068",
+            "femaleVariant": "要么你自己收，要么我帮你。"
+          },
+          {
+            "stringId": "1822779551354748932",
+            "femaleVariant": "我要把你的眼珠子抠出来！"
+          },
+          {
+            "stringId": "1822779551371526148",
+            "femaleVariant": "老子忍不了！"
+          },
+          {
+            "stringId": "1822779551455412228",
+            "femaleVariant": "这才是好孩子！"
+          },
+          {
+            "stringId": "1822779551505743876",
+            "femaleVariant": "要不你就得爬着走了。"
+          },
+          {
+            "stringId": "1822779551639961604",
+            "femaleVariant": "我靠又怎么了…"
+          },
+          {
+            "stringId": "1822779551690293252",
+            "femaleVariant": "这怎么回事？"
+          },
+          {
+            "stringId": "1822779551740624900",
+            "femaleVariant": "这边没人，真是浪费时间。"
+          },
+          {
+            "stringId": "1822779551757402116",
+            "femaleVariant": "浪费时间。还是回去吧。"
+          },
+          {
+            "stringId": "1822779551858065412",
+            "femaleVariant": "你藏不住的，这你很清楚。"
+          },
+          {
+            "stringId": "1822779551874842628",
+            "femaleVariant": "我听到动静了，我陪你慢慢耗。"
+          },
+          {
+            "stringId": "1822779551925174276",
+            "femaleVariant": "这边有情况！"
+          },
+          {
+            "stringId": "1822779551958728708",
+            "femaleVariant": "好，交给我吧。"
+          },
+          {
+            "stringId": "1822779552025837568",
+            "femaleVariant": "看到一条臭蛆。"
+          },
+          {
+            "stringId": "1822779552042614788",
+            "femaleVariant": "我刚刚还觉得闲得蛋疼呢…"
+          },
+          {
+            "stringId": "1822779552076169220",
+            "femaleVariant": "看你能跑多快！"
+          },
+          {
+            "stringId": "1822779552143278080",
+            "femaleVariant": "我都要爽飞啦！"
+          },
+          {
+            "stringId": "1822779552160055300",
+            "femaleVariant": "咱们好好玩玩！"
+          },
+          {
+            "stringId": "1822779552227164164",
+            "femaleVariant": "嘿！你是想杀了我吗？"
+          },
+          {
+            "stringId": "1822779552243941380",
+            "femaleVariant": "这货简直是杀人狂啊，快把所有增援都叫来！"
+          },
+          {
+            "stringId": "1822779552294273028",
+            "femaleVariant": "你谁啊？"
+          },
+          {
+            "stringId": "1822779552327827460",
+            "femaleVariant": "要舔老子的义体吗？"
+          },
+          {
+            "stringId": "1822779552378159108",
+            "femaleVariant": "喂？谁啊？"
+          },
+          {
+            "stringId": "1822779552428490756",
+            "femaleVariant": "哦，是你啊…嗯哼…当然，没问题——去哪儿？…好吧。"
+          },
+          {
+            "stringId": "1822779552462045188",
+            "femaleVariant": "嗯…当然…不动手是不可能了…嗯哼…好的…"
+          },
+          {
+            "stringId": "1822779552512376832",
+            "femaleVariant": "把她逼出来。",
+            "maleVariant": "把他逼出来。"
+          },
+          {
+            "stringId": "1822779552545931268",
+            "femaleVariant": "我从后面绕过去！"
+          },
+          {
+            "stringId": "1822779552579485700",
+            "femaleVariant": "要炸了！"
+          },
+          {
+            "stringId": "1822779552596262916",
+            "femaleVariant": "有情况告诉我。"
+          },
+          {
+            "stringId": "1822779552613040132",
+            "femaleVariant": "又怎么了？一会儿都闲不住…"
+          },
+          {
+            "stringId": "1822779552663371780",
+            "femaleVariant": "墙缝里也给我看看！"
+          },
+          {
+            "stringId": "1822779552696926208",
+            "femaleVariant": "到这边搜一搜。"
+          },
+          {
+            "stringId": "1822779552730480644",
+            "femaleVariant": "赶紧给我动起来！"
+          },
+          {
+            "stringId": "1822779552747257860",
+            "femaleVariant": "来呀来呀来呀！"
+          },
+          {
+            "stringId": "1822779552797589508",
+            "femaleVariant": "啊…咳啊啊…咳…咳…"
+          },
+          {
+            "stringId": "2231849899896479748",
+            "femaleVariant": "嗯？"
+          },
+          {
+            "stringId": "2231849900081029120",
+            "femaleVariant": "不、不、不、不！"
+          },
+          {
+            "stringId": "2231849900181692420",
+            "femaleVariant": "等着挨收拾吧！"
+          },
+          {
+            "stringId": "2231849900315910148",
+            "femaleVariant": "你怎么了？"
+          },
+          {
+            "stringId": "2231849900450127876",
+            "femaleVariant": "真行…估计网又卡了。"
+          },
+          {
+            "stringId": "2231849900718563332",
+            "femaleVariant": "不是我喊的，都散了吧。"
+          },
+          {
+            "stringId": "2231849901037330432",
+            "femaleVariant": "干什么呢！精神点！"
+          },
+          {
+            "stringId": "2231849901205102596",
+            "femaleVariant": "靠！敢情练老子一个呢吗！"
+          },
+          {
+            "stringId": "2231849901372874756",
+            "femaleVariant": "看来就剩咱们两个了！"
+          },
+          {
+            "stringId": "2231849901507092484",
+            "femaleVariant": "闲聊到此为止！"
+          },
+          {
+            "stringId": "2231849902077517828",
+            "femaleVariant": "钉死那个贱人！"
+          },
+          {
+            "stringId": "2231849902379507716",
+            "femaleVariant": "给她来个痛快的！",
+            "maleVariant": "给他来个痛快的！"
+          },
+          {
+            "stringId": "2231849902513725444",
+            "femaleVariant": "我来！交给我了！"
+          },
+          {
+            "stringId": "2231849902614388740",
+            "femaleVariant": "真是个怂货！出来！"
+          },
+          {
+            "stringId": "2231849902698274820",
+            "femaleVariant": "我换弹夹！"
+          },
+          {
+            "stringId": "2231849902832492544",
+            "femaleVariant": "干死那个疯子！"
+          },
+          {
+            "stringId": "2231849903067373572",
+            "femaleVariant": "臭婊子把我弄瞎了！",
+            "maleVariant": "该死的把我弄瞎了！"
+          },
+          {
+            "stringId": "2231849903168036868",
+            "femaleVariant": "小贱人有点脑子，都注意了！"
+          },
+          {
+            "stringId": "2231849903302254596",
+            "femaleVariant": "噢噢噢噢，爽的尿裤子！"
+          },
+          {
+            "stringId": "2231849903537135620",
+            "femaleVariant": "我要打烂你！"
+          },
+          {
+            "stringId": "2231849903637798916",
+            "femaleVariant": "尝尝这个合不合你的尺寸！"
+          },
+          {
+            "stringId": "2231849903738462212",
+            "femaleVariant": "时候刚好！"
+          },
+          {
+            "stringId": "2231849903855902724",
+            "femaleVariant": "下一个死的就是你！"
+          }
+        ]
+      }
+
+
+

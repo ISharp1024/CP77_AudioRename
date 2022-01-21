@@ -1,0 +1,490 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1344492501838336000",
+            "femaleVariant": "And Blue Moon told me at rehearsal they haven't had this quality sound in a long time. No artefacts, no reverb."
+          },
+          {
+            "stringId": "1344591150727565312",
+            "femaleVariant": "Passes?"
+          },
+          {
+            "stringId": "1344591638407680000",
+            "femaleVariant": "[Show pass] Right here."
+          },
+          {
+            "stringId": "1344592291360149504",
+            "femaleVariant": "In ya go."
+          },
+          {
+            "stringId": "1682436699510173700",
+            "femaleVariant": "Rather get to know you."
+          },
+          {
+            "stringId": "1682437108823912448",
+            "femaleVariant": "Everybody claims to know the stars."
+          },
+          {
+            "stringId": "1682437610714329088",
+            "femaleVariant": "Hm. Think I'd rather get to know you better."
+          },
+          {
+            "stringId": "1682438334231769088",
+            "femaleVariant": "You're all right, kitten. What's your name?"
+          },
+          {
+            "stringId": "1682443139863965696",
+            "femaleVariant": "[Stand] Some other time."
+          },
+          {
+            "stringId": "1682444595069349888",
+            "femaleVariant": "Another time."
+          },
+          {
+            "stringId": "1682444918668292096",
+            "femaleVariant": "All right, I'm a gentleman, I won't make you. You'll change your mind, though."
+          },
+          {
+            "stringId": "1682459683641782272",
+            "maleVariant": "Chill chicks."
+          },
+          {
+            "stringId": "1682461100209238020",
+            "femaleVariant": "They'll be yours. I'll help."
+          },
+          {
+            "stringId": "1682462561789964288",
+            "femaleVariant": "Buy you a beer."
+          },
+          {
+            "stringId": "1682468742734442496",
+            "femaleVariant": "Those cracks'll be yours, I got you."
+          },
+          {
+            "stringId": "1682469351898378240",
+            "maleVariant": "Be my wingman, huh?"
+          },
+          {
+            "stringId": "1682469820922228736",
+            "femaleVariant": "Over here – beer for my choom."
+          },
+          {
+            "stringId": "1682470852804898816",
+            "maleVariant": "Thanks, man. I'm fuckin' beat. Fifteen goddamn hours to set that shit up."
+          },
+          {
+            "stringId": "1682472485446119424",
+            "maleVariant": "And then we had to figure out those fuckin' winch encoders with the Japanese, 'cause naturally they got their own fuckin' algorithms... Showbiz? Shitbiz, tellin' ya."
+          },
+          {
+            "stringId": "1682472577351708672",
+            "femaleVariant": "Yeah, gettin' out after this gig for good.",
+            "maleVariant": "Yeah, gettin' out after this gig, for good."
+          },
+          {
+            "stringId": "1684976086223581184",
+            "femaleVariant": "Prolly gonna send Ronnie over to Europe."
+          },
+          {
+            "stringId": "1684976310937612288",
+            "femaleVariant": "Fucking Japanese markers."
+          },
+          {
+            "stringId": "1684978962710818816",
+            "femaleVariant": "He tell 'em you were pregnant?"
+          },
+          {
+            "stringId": "1684979170261757952",
+            "femaleVariant": "Sure, but he can't opt out, we're still payin' off his implants."
+          },
+          {
+            "stringId": "1802644113076858884",
+            "femaleVariant": "So where's your badge?"
+          },
+          {
+            "stringId": "1802662028392083460",
+            "femaleVariant": "Find 'em?"
+          },
+          {
+            "stringId": "1802662545985974272",
+            "femaleVariant": "Well, got 'em?"
+          },
+          {
+            "stringId": "1803898777395081216",
+            "femaleVariant": "Know the girls, really?"
+          },
+          {
+            "stringId": "1804090067722252288",
+            "femaleVariant": "[Stand] Gotta go."
+          },
+          {
+            "stringId": "1804090950052818944",
+            "maleVariant": "Cool, cool. So after, grab a beer and get to work on the girls...?"
+          },
+          {
+            "stringId": "1804092051292499968",
+            "femaleVariant": "G'luck. Gotta run."
+          },
+          {
+            "stringId": "1812602413558394880",
+            "femaleVariant": "How's it looking? Everything ready?"
+          },
+          {
+            "stringId": "1812603102212780032",
+            "femaleVariant": "How's it lookin' pre-show? Everything in order?"
+          },
+          {
+            "stringId": "1812610445264678912",
+            "femaleVariant": "Yeah... Had some hiccups with the sound, little starlets wanted their own matrixes, some custom-made Japanese shit."
+          },
+          {
+            "stringId": "1812675701303275520",
+            "femaleVariant": "Yeah, \"sound system\"... Must be one of those smart vocoders. Do the whole damn job for 'em."
+          },
+          {
+            "stringId": "1812677379997954048",
+            "femaleVariant": "We're crew."
+          },
+          {
+            "stringId": "1812677484587118592",
+            "femaleVariant": "Chill. We'll get our passes, be right back."
+          },
+          {
+            "stringId": "1812678977893560320",
+            "femaleVariant": "Choom, come on, help us out. Left 'em inside.",
+            "maleVariant": "Choom, come on, help us out. We left 'em inside."
+          },
+          {
+            "stringId": "1812680039908110336",
+            "femaleVariant": "Nah, can't. Try the main door, they'll check the list."
+          },
+          {
+            "stringId": "1812681126937489408",
+            "femaleVariant": "Yeah, but by that time the holoprojectors'll be on and outta whack. I'll have to recalibrate, and no way this show starts on time."
+          },
+          {
+            "stringId": "1812683845014253568",
+            "femaleVariant": "And then it's sayonara, choom. You're out, 'cause ain't no way we're takin' the fall."
+          },
+          {
+            "stringId": "1812684596348317696",
+            "femaleVariant": "Fuck. Alright, go. Staple 'em to your fuckin' foreheads next time, will ya?"
+          },
+          {
+            "stringId": "1812685934968827904",
+            "femaleVariant": "\"Recalibrate holoprojectors.\" How you even know shit like that?"
+          },
+          {
+            "stringId": "1812686731634929664",
+            "femaleVariant": "Thanks, pal. Just saved the show.",
+            "maleVariant": "Thanks, pal. You just saved the show."
+          },
+          {
+            "stringId": "1812687893440360448",
+            "femaleVariant": "Past life. Worked backstage for G-Hung for a time, learned some things. Finally came in handy today."
+          },
+          {
+            "stringId": "1812695034444247040",
+            "femaleVariant": "Crew passes, then."
+          },
+          {
+            "stringId": "1812695416578895872",
+            "femaleVariant": "Forgot 'em, you know how it is."
+          },
+          {
+            "stringId": "1812695927696781312",
+            "femaleVariant": "No passes, no passage."
+          },
+          {
+            "stringId": "1812707101188419584",
+            "femaleVariant": "So I says to her, I know a way you can thank me after, heh..."
+          },
+          {
+            "stringId": "1812708224590802944",
+            "femaleVariant": "And what'd Blue Moon say?"
+          },
+          {
+            "stringId": "1812708520004022272",
+            "femaleVariant": "Told me to do my fucking job and set up the tech. But you know – with all that make-up on, hard to say what they're really thinking."
+          },
+          {
+            "stringId": "1812713204202729472",
+            "femaleVariant": "You know the girls, like, personally?"
+          },
+          {
+            "stringId": "1812713312080228352",
+            "femaleVariant": "Hear 'bout that truck? Full of the girls' gear? All blew up?",
+            "maleVariant": "Ya hear about that truck? Full of the girls' gear? All blew up?"
+          },
+          {
+            "stringId": "1812717777722142720",
+            "femaleVariant": "Sure did. Guy at the bottom gets the short end of the stick always."
+          },
+          {
+            "stringId": "1812718763937230848",
+            "femaleVariant": "Girls aren't exactly at the bottom."
+          },
+          {
+            "stringId": "1812719351693438976",
+            "femaleVariant": "No, I'm talkin' about the drivers. Got fired, both. For \"leaving the scene,\" not bein' there give the cops information."
+          },
+          {
+            "stringId": "1812721115750592512",
+            "femaleVariant": "Musta been a pain for the girls, though. Gear destroyed, gig delayed. Think it mighta been someone sendin' a message?"
+          },
+          {
+            "stringId": "1812723006391840768",
+            "femaleVariant": "Nah. Shit was insured. Prolly get more scratch outta this than that junk was worth."
+          },
+          {
+            "stringId": "1812724400310054912",
+            "femaleVariant": "Besides, what's some truck to them? Couldn't give a shit, prolly didn't even know about it. What their manager's for, ain't it?"
+          },
+          {
+            "stringId": "1812742602431787008",
+            "femaleVariant": "Not right now."
+          },
+          {
+            "stringId": "1812743897280540672",
+            "femaleVariant": "Know what? Fuck off.",
+            "maleVariant": "Y'know what? Fuck off."
+          },
+          {
+            "stringId": "1812743991635603456",
+            "femaleVariant": "Look, everybody says they know so-and-so. Always turns out they don't know shit."
+          },
+          {
+            "stringId": "1812745806175399936",
+            "femaleVariant": "V. You?"
+          },
+          {
+            "stringId": "1812746167506300928",
+            "femaleVariant": "Donnie. But you can call me \"D\"."
+          },
+          {
+            "stringId": "1812747793134645248",
+            "femaleVariant": "How about we get outta here for a few minutes? Maybe even a few more, if you're lucky?"
+          },
+          {
+            "stringId": "1812749518251880448",
+            "femaleVariant": "[Stand] Know what? Fuck off."
+          },
+          {
+            "stringId": "1812751456020328448",
+            "femaleVariant": "Maybe later."
+          },
+          {
+            "stringId": "1812756468029059072",
+            "femaleVariant": "Ooooh..."
+          },
+          {
+            "stringId": "1812763556318932992",
+            "femaleVariant": "If not now, when, hon? Be the end of the world and you'll still be givin' me maybes."
+          },
+          {
+            "stringId": "1812764811724451840",
+            "femaleVariant": "Blue Moon, Purple Force, Red Menace..."
+          },
+          {
+            "stringId": "1812768371480588288",
+            "femaleVariant": "Whole world can rattle that off.",
+            "maleVariant": "The whole world can rattle that off."
+          },
+          {
+            "stringId": "1812768721117769728",
+            "femaleVariant": "True... but look. They ain't here, you are. How 'bout we focus on you, huh?"
+          },
+          {
+            "stringId": "1812772682705006592",
+            "femaleVariant": "Nice eyes you got. Kiroshi?"
+          },
+          {
+            "stringId": "1812777766553776128",
+            "femaleVariant": "Three choombas. You, me and my man, Ke-- Ken. Who could resist?"
+          },
+          {
+            "stringId": "1812778885828964352",
+            "maleVariant": "Y'know what? Not s'posed to like the new guys, right? But what the fuck. You're all right."
+          },
+          {
+            "stringId": "1812791056055005184",
+            "maleVariant": "Hell yeah, man. Run far as you can from this fuckin' mess. From these... stars an' shit."
+          },
+          {
+            "stringId": "1821643129768075264",
+            "femaleVariant": "We're crew."
+          },
+          {
+            "stringId": "1821643559013146624",
+            "femaleVariant": "Chill."
+          },
+          {
+            "stringId": "1821643885346775040",
+            "femaleVariant": "Let us in or lose your job."
+          },
+          {
+            "stringId": "1821802514846801920",
+            "femaleVariant": "[Sit] Hey."
+          },
+          {
+            "stringId": "1823222578657583104",
+            "femaleVariant": "You hear about that truck fire?"
+          },
+          {
+            "stringId": "1832819442294534148",
+            "femaleVariant": "Yeah, go."
+          },
+          {
+            "stringId": "1832903711062831104",
+            "femaleVariant": "Hey."
+          },
+          {
+            "stringId": "1832939926680055812",
+            "femaleVariant": "Need a pass to the dressing rooms.",
+            "maleVariant": "I need a pass to the dressing rooms."
+          },
+          {
+            "stringId": "1832940183203688452",
+            "femaleVariant": "Gotta get a pass to the dressing rooms."
+          },
+          {
+            "stringId": "1832946225618694148",
+            "femaleVariant": "Ahh... Gotta figure something out quick. Those cunts're gonna start singin' soon."
+          },
+          {
+            "stringId": "1832946798174744576",
+            "femaleVariant": "Hah, club gigs. Amateur hour. They were any good, they'd be fillin' stadiums."
+          },
+          {
+            "stringId": "1834419180538556416",
+            "femaleVariant": "Amen, brother."
+          },
+          {
+            "stringId": "1834420481947201536",
+            "femaleVariant": "Which Crack you like best?"
+          },
+          {
+            "stringId": "1834421914117468160",
+            "femaleVariant": "Which Crack's your fave?"
+          },
+          {
+            "stringId": "1834423302482423808",
+            "maleVariant": "Choom, how can you possibly choose?! Blue Moon? Or no, wait – Purple Force."
+          },
+          {
+            "stringId": "1834428100229328896",
+            "maleVariant": "Yep... gonna puke."
+          },
+          {
+            "stringId": "1834435308761509888",
+            "femaleVariant": "Mhm."
+          },
+          {
+            "stringId": "1834441392381358080",
+            "femaleVariant": "[Sit] This spot free?"
+          },
+          {
+            "stringId": "1834441953361129472",
+            "femaleVariant": "Is this spot free? Mind if I...?"
+          },
+          {
+            "stringId": "1834458098512293888",
+            "femaleVariant": "Good thing they're not filling stadiums just yet."
+          },
+          {
+            "stringId": "1834460421351403520",
+            "femaleVariant": "Least it's here and not at one of your sold-out stadiums. Woulda had to contend with huscle, medias, fuckin' NCPD drones, NetWatch...",
+            "maleVariant": "Well, least it's here and not at one of your sold-out stadiums. Woulda had to contend with huscle, medias, fuckin' NCPD drones, NetWatch..."
+          },
+          {
+            "stringId": "1834464790188781568",
+            "femaleVariant": "Don't get smart on me. Look for a way backstage."
+          },
+          {
+            "stringId": "1834467072443805696",
+            "femaleVariant": "Guy there. Roadie. So he's done with his job for now. He's gonna wanna drink, get himself some strange."
+          },
+          {
+            "stringId": "1834467429731397632",
+            "femaleVariant": "Uh-huh. So he won't be needin' that card."
+          },
+          {
+            "stringId": "1834475850115444736",
+            "femaleVariant": "Distract him. I'll grab the pass."
+          },
+          {
+            "stringId": "1834577491707686912",
+            "femaleVariant": "Aw, it's not that bad. They locked mine up when Diego was barely one. Look how he turned out without a father."
+          },
+          {
+            "stringId": "1834586502884618240",
+            "femaleVariant": "Heh, hon, not judgin', but Diego's mannin' corners for the 'Tinos..."
+          },
+          {
+            "stringId": "1834589745467486208",
+            "femaleVariant": "He's earning his own eddies. I don't know what you're talking about."
+          },
+          {
+            "stringId": "1834594405574111232",
+            "femaleVariant": "How the fuck am I supposed to know what goes where."
+          },
+          {
+            "stringId": "1834594800291672064",
+            "femaleVariant": "That's it, fuck it. I'm going back to installing feed cables."
+          },
+          {
+            "stringId": "1893605365214507008",
+            "femaleVariant": "Gotta get backstage."
+          },
+          {
+            "stringId": "1928472724941434880",
+            "femaleVariant": "Boys couldn't figure out how link it all up. Dunno, apparently it's all good now."
+          },
+          {
+            "stringId": "1928480552066347008",
+            "maleVariant": "Looks so innocent, but soon as she starts talkin' dirty on stage, even without the AudioVox, she got me standin' right to attention!"
+          },
+          {
+            "stringId": "2038822257361350656",
+            "maleVariant": "Hey."
+          },
+          {
+            "stringId": "2038822266639151104",
+            "femaleVariant": "Heyyyy there. How you doin'?"
+          },
+          {
+            "stringId": "2038841041333710848",
+            "maleVariant": "Sure. Free country, ain't it?"
+          },
+          {
+            "stringId": "2038841048380141568",
+            "femaleVariant": "It's got your name on it."
+          },
+          {
+            "stringId": "2038861528965246976",
+            "maleVariant": "Like I was banging 'em, choom."
+          },
+          {
+            "stringId": "2038861860365594624",
+            "femaleVariant": "Wanna meet 'em, hon? I can set it up. No problem."
+          }
+        ]
+      }
+
+
+

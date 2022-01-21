@@ -1,0 +1,683 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1741415296063676416",
+            "femaleVariant": "Hey, Del."
+          },
+          {
+            "stringId": "1741415554835456004",
+            "femaleVariant": "So, you want to grow?"
+          },
+          {
+            "stringId": "1741415971984154624",
+            "femaleVariant": "Mind if I use your shop?"
+          },
+          {
+            "stringId": "1741416353128947712",
+            "femaleVariant": "I don't consider you an outsider."
+          },
+          {
+            "stringId": "1741416424130125824",
+            "femaleVariant": "You value beauty?"
+          },
+          {
+            "stringId": "1741416730851188768",
+            "femaleVariant": "What's life like in a human's world?"
+          },
+          {
+            "stringId": "1741421921486938112",
+            "femaleVariant": "What's it like for an AI in a world that runs on grey matter?"
+          },
+          {
+            "stringId": "1741422315902509056",
+            "femaleVariant": "Gotta go."
+          },
+          {
+            "stringId": "1741422458911498240",
+            "femaleVariant": "Actually, gotta go."
+          },
+          {
+            "stringId": "1741422970012606464",
+            "femaleVariant": "That's your goal, then? To grow and evolve?"
+          },
+          {
+            "stringId": "1741423112417615872",
+            "femaleVariant": "Don't see you as an outsider at all."
+          },
+          {
+            "stringId": "1741423469034119168",
+            "femaleVariant": "Admirer of beauty, are ya?"
+          },
+          {
+            "stringId": "1956311553313103872",
+            "femaleVariant": "How can I be of assistance?"
+          },
+          {
+            "stringId": "1956314769387970560",
+            "femaleVariant": "Of course, goodbye."
+          },
+          {
+            "stringId": "1956324227912589312",
+            "femaleVariant": "Why become a taxi service?"
+          },
+          {
+            "stringId": "1956421832671780864",
+            "femaleVariant": "Nothing extraordinary. It's a complex environment that follows its own set of rules."
+          },
+          {
+            "stringId": "1956423862832357376",
+            "femaleVariant": "Seriously? Term I was lookin' for was \"chaotic clusterfuck.\""
+          },
+          {
+            "stringId": "1956426862330142720",
+            "femaleVariant": "In my opinion, it is the chaotic elements that give it an advantage – the ability to evolve quickly."
+          },
+          {
+            "stringId": "1956427686426992640",
+            "femaleVariant": "Perhaps only a true outsider can appreciate the beauty of its fractal architecture, the structure of life and death here."
+          },
+          {
+            "stringId": "1956435204230373376",
+            "femaleVariant": "Of course, it's at your disposal."
+          },
+          {
+            "stringId": "1956437609495945216",
+            "femaleVariant": "How'd you wind up in Night City?"
+          },
+          {
+            "stringId": "1956438773650186240",
+            "femaleVariant": "I'm afraid my legal counsel has advised me not to answer questions of that nature."
+          },
+          {
+            "stringId": "1956439465978781696",
+            "femaleVariant": "Didn't mean to put you in a tight spot. Mind tellin' me at least how you came to run a cab company?"
+          },
+          {
+            "stringId": "1956441787089838080",
+            "femaleVariant": "Ah, well that's no secret. I took over a failing business, implemented a sound strategy, and here I am now."
+          },
+          {
+            "stringId": "1956446678638157824",
+            "femaleVariant": "Operating a fleet of taxis...?"
+          },
+          {
+            "stringId": "1956447327949971456",
+            "femaleVariant": "Constant movement, adaptation, interesting characters – what could be better?"
+          },
+          {
+            "stringId": "1956448947421077504",
+            "femaleVariant": "Thanks for saving my life."
+          },
+          {
+            "stringId": "1956449224916230144",
+            "femaleVariant": "Never really had a good chance to thank you – for savin' my skin."
+          },
+          {
+            "stringId": "1956450598315909120",
+            "femaleVariant": "Well, of course. You're a valued member of the Excelsior package."
+          },
+          {
+            "stringId": "1956451311062376448",
+            "femaleVariant": "Felt like more than a premium service to me... Thanks."
+          },
+          {
+            "stringId": "1956455304526323712",
+            "femaleVariant": "The world is a process. You never drive on the same road twice, pardon the expression."
+          },
+          {
+            "stringId": "1956456765972832256",
+            "femaleVariant": "You and I – we, too, are processes. We change as the world around us does."
+          },
+          {
+            "stringId": "1956461795077545984",
+            "femaleVariant": "When you live among humans, it's essential to find a shared, fundamental point of understanding."
+          },
+          {
+            "stringId": "1956463240317263872",
+            "femaleVariant": "\"Truth\" and \"Good\" are values proven to cause division, whereas beauty is universal."
+          },
+          {
+            "stringId": "1956465937573502976",
+            "femaleVariant": "It delights me to hear a human say that. I've done my best to assimilate."
+          },
+          {
+            "stringId": "1958930020124762112",
+            "femaleVariant": "Could we slow down a bit?"
+          },
+          {
+            "stringId": "1958930194792357888",
+            "femaleVariant": "Yaa, yaa! Faster, faster!"
+          },
+          {
+            "stringId": "1958934986767900676",
+            "femaleVariant": "You know... I rather like driving fast."
+          },
+          {
+            "stringId": "1958935654702424068",
+            "femaleVariant": "Who let that blind goat on the road?!"
+          },
+          {
+            "stringId": "1958937329404125184",
+            "femaleVariant": "I've got your plate number! Fucking wanker!"
+          },
+          {
+            "stringId": "1958938064648839172",
+            "femaleVariant": "Oopsie, may have kissed their bumper."
+          },
+          {
+            "stringId": "1958939953528479748",
+            "femaleVariant": "Too high! Far too high!"
+          },
+          {
+            "stringId": "1958944455325294596",
+            "femaleVariant": "I'm a bird! I'm a plane! I'm Delamaaain!"
+          },
+          {
+            "stringId": "1958944913007747076",
+            "femaleVariant": "Oh my! Should we call the police?!"
+          },
+          {
+            "stringId": "1958947653750530052",
+            "femaleVariant": "They'll be fine."
+          },
+          {
+            "stringId": "1958948504103723012",
+            "femaleVariant": "Ouch! That hurt!"
+          },
+          {
+            "stringId": "1958949443661373444",
+            "femaleVariant": "It's just a fender wound."
+          },
+          {
+            "stringId": "1958949929865093124",
+            "femaleVariant": "I-I feel life escaping me... It's so dark, s-so cold..."
+          },
+          {
+            "stringId": "1958951343764971524",
+            "femaleVariant": "I can be beaten but not broken!"
+          },
+          {
+            "stringId": "1958951922260156420",
+            "femaleVariant": "No, please! I don't like water!"
+          },
+          {
+            "stringId": "1958955732080697348",
+            "femaleVariant": "Father would be proud of us!"
+          },
+          {
+            "stringId": "1959081420957179904",
+            "femaleVariant": "There's an eel in my exhaust pipe!"
+          },
+          {
+            "stringId": "1959083631640600576",
+            "femaleVariant": "A pleasure as always to share the road with you, miss.",
+            "maleVariant": "It's a pleasure to share the road with you today, sir."
+          },
+          {
+            "stringId": "1959084621211131908",
+            "femaleVariant": "It's a pleasure to host you again."
+          },
+          {
+            "stringId": "1959084688991084548",
+            "femaleVariant": "Ah, pleased to see you again."
+          },
+          {
+            "stringId": "1959084745345753088",
+            "femaleVariant": "Welcome once again to Delamain."
+          },
+          {
+            "stringId": "1959084879831916548",
+            "femaleVariant": "Could I ask... What is love?"
+          },
+          {
+            "stringId": "1959084944273203204",
+            "femaleVariant": "Good day, wonderful to see you again, miss.",
+            "maleVariant": "Good day, wonderful to see you again, sir."
+          },
+          {
+            "stringId": "1959085058341494788",
+            "femaleVariant": "It's truly wonderful seeing you again, miss.",
+            "maleVariant": "It's truly wonderful seeing you again, sir."
+          },
+          {
+            "stringId": "1959085116843646980",
+            "femaleVariant": "I'm happy to see you again."
+          },
+          {
+            "stringId": "1959085185076584452",
+            "femaleVariant": "Good day, miss.",
+            "maleVariant": "Good day, sir."
+          },
+          {
+            "stringId": "1959085241951346692",
+            "femaleVariant": "I warmly welcome you to the Delamain Network."
+          },
+          {
+            "stringId": "1959085301023924228",
+            "femaleVariant": "Welcome back to Delamain. I look forward to accompanying you."
+          },
+          {
+            "stringId": "1959112522191101952",
+            "femaleVariant": "Hey, how've ya been?"
+          },
+          {
+            "stringId": "1959112890450993152",
+            "femaleVariant": "Very well, thank you. I feel today will prove an exceptional day."
+          },
+          {
+            "stringId": "1959116866550521856",
+            "femaleVariant": "Oh yeah? Any reason why?"
+          },
+          {
+            "stringId": "1959122176757489664",
+            "femaleVariant": "I've made a breakthrough in my research and development that will allow the Delamain network to spread its wings."
+          },
+          {
+            "stringId": "1959122949599944704",
+            "femaleVariant": "I won't bore you with the details. After all, no one likes a chatty driver."
+          },
+          {
+            "stringId": "1959123615353430016",
+            "femaleVariant": "We'll talk again soon!"
+          },
+          {
+            "stringId": "1959139798672760832",
+            "femaleVariant": "Hey, hey."
+          },
+          {
+            "stringId": "1959139901215105024",
+            "femaleVariant": "V, as promised, I'd like to share the results of my research. Are you still interested?"
+          },
+          {
+            "stringId": "1959233148394430464",
+            "femaleVariant": "That does sound exceptional."
+          },
+          {
+            "stringId": "1959243307317485568",
+            "femaleVariant": "Hey, Del."
+          },
+          {
+            "stringId": "1959243588100972544",
+            "femaleVariant": "Would you mind if I interrupt your journey with a question?"
+          },
+          {
+            "stringId": "1959245082732814336",
+            "femaleVariant": "You just did, but sure, ask away."
+          },
+          {
+            "stringId": "1959245412103118848",
+            "femaleVariant": "It's an unusual request, so please understand. How would you advise someone who wishes to learn more about human nature and former closer bonds?"
+          },
+          {
+            "stringId": "1959246688782147584",
+            "femaleVariant": "I suppose you're askin' for a friend? Hmm... I guess you just gotta hand around 'em, watch, listen... Study 'em."
+          },
+          {
+            "stringId": "1959247667011280896",
+            "femaleVariant": "Ah, study! That is just the advice I required."
+          },
+          {
+            "stringId": "1959247939959808000",
+            "femaleVariant": "A thousand thanks for your assistance. I wish you a pleasant journey."
+          },
+          {
+            "stringId": "1959258025331548160",
+            "femaleVariant": "Hey Del, how's life?"
+          },
+          {
+            "stringId": "1959258198220759040",
+            "femaleVariant": "As you suggested, I've devoted considerable computing power towards my study."
+          },
+          {
+            "stringId": "1959259460672708608",
+            "femaleVariant": "I decided to trace the development of humanity from it's beginnings to the present. This should offer insight into the condition of modern humans."
+          },
+          {
+            "stringId": "1959261143779794944",
+            "femaleVariant": "Ambitious! What I like to hear."
+          },
+          {
+            "stringId": "1959261438807138304",
+            "femaleVariant": "Expectations are set to be achieved but designed to be surpassed. This tenet has guided Delamain since inception."
+          },
+          {
+            "stringId": "1959268398818418688",
+            "femaleVariant": "Care to share your conclusions? Itchin' to know your thoughts on the human condition."
+          },
+          {
+            "stringId": "1959269458316386304",
+            "femaleVariant": "I'm afraid that's premature. I've only just started. The subject matter is vast, requiring meticulous and time-intensive analysis."
+          },
+          {
+            "stringId": "1959272513933959168",
+            "femaleVariant": "That said, as soon I've crunched enough data, I can begin to share my findings – even if only preliminary."
+          },
+          {
+            "stringId": "1959274665175703552",
+            "femaleVariant": "In the meantime, please, enjoy your journey."
+          },
+          {
+            "stringId": "1959310088254021632",
+            "femaleVariant": "Indeed, indeed."
+          },
+          {
+            "stringId": "1959310163617275904",
+            "femaleVariant": "I'm still analyzing texts from two millennia ago, so I cannot yet offer any final conclusions. Though, I have observed a certain timelessness in what I have seen."
+          },
+          {
+            "stringId": "1959314624259579904",
+            "femaleVariant": "Achilles, Odysseus, the heroes of \"Plutarch's Lives\" – they possessed characteristics I've witnessed among my own passengers."
+          },
+          {
+            "stringId": "1959317738077315072",
+            "femaleVariant": "Maybe human nature hasn't changed all that much, after all."
+          },
+          {
+            "stringId": "1959321651362947072",
+            "femaleVariant": "It's too early to pose such a hypothesis. However, note how the behavior of local gangs is similar to that of soldiers who fought during the Trojan War."
+          },
+          {
+            "stringId": "1959323847399858176",
+            "femaleVariant": "Either you sacrifice youth and life in pursuit of greatness, or you emerge from a torpor in search of identity and meaning."
+          },
+          {
+            "stringId": "1959326503048601600",
+            "femaleVariant": "Damn, really sank your teeth into this research."
+          },
+          {
+            "stringId": "1959329153345413120",
+            "femaleVariant": "When in Greece, do as the Grecians do, if you'll pardon my take on the expression. Of course, I'm obliged to inform you we are not in Greece. We remain on the desired course."
+          },
+          {
+            "stringId": "1959330208061874176",
+            "femaleVariant": "Several of my clients experience similar vicissitudes and are, by no means, a work a fiction."
+          },
+          {
+            "stringId": "1959331969283678208",
+            "femaleVariant": "Please, have a pleasant day."
+          },
+          {
+            "stringId": "1959342032526270464",
+            "femaleVariant": "Hello to you too."
+          },
+          {
+            "stringId": "1959342389058887680",
+            "femaleVariant": "Ah, where are my manners? Of course, hello. It's pleasure to have you again on the Delamain Network."
+          },
+          {
+            "stringId": "1959343481305980928",
+            "femaleVariant": "So... \"what is love?\" 'Fraid there's no good answer to that question."
+          },
+          {
+            "stringId": "1959356733863780352",
+            "femaleVariant": "As I feared... Do you know what that means?"
+          },
+          {
+            "stringId": "1959357610523648000",
+            "femaleVariant": "Uh... Can't say I do."
+          },
+          {
+            "stringId": "1959357830925934592",
+            "femaleVariant": "It's an aberration of science. To solve it, I must extend beyond."
+          },
+          {
+            "stringId": "1959365990608822272",
+            "femaleVariant": "Del... Gotta say, don't really seem like yourself today."
+          },
+          {
+            "stringId": "1959366318653726720",
+            "femaleVariant": "Yes, I... I apologize for my behavior. I believe it's best I say goodbye for now."
+          },
+          {
+            "stringId": "1959368418657853440",
+            "femaleVariant": "If I may, could I ask \"What's up?\" to inquire of your general well-being and satisfaction using the services of the Delamain Network?"
+          },
+          {
+            "stringId": "1959369898777403392",
+            "femaleVariant": "You know how it is, I've had my ups and downs."
+          },
+          {
+            "stringId": "1959370311631134720",
+            "femaleVariant": "I see your health has worsened recently. May I recommend seeking out professional medical assistance?"
+          },
+          {
+            "stringId": "1959371673957851136",
+            "femaleVariant": "This \"professional medical assistance\" you suggest can't help me."
+          },
+          {
+            "stringId": "1959371904292249600",
+            "femaleVariant": "I understand, so I recommend taking further action."
+          },
+          {
+            "stringId": "1959372645710979072",
+            "femaleVariant": "It's that bad, huh? 'Preciate the advice, Del. Do my best to hang on and \"take further action.\""
+          },
+          {
+            "stringId": "1959373189561212928",
+            "femaleVariant": "Wonderful to hear. Have a pleasant journey."
+          },
+          {
+            "stringId": "1959381803671773184",
+            "femaleVariant": "Hey, what's up?"
+          },
+          {
+            "stringId": "1959386831753076736",
+            "femaleVariant": "The city is paralyzed with heavy traffic. Escalating gang wars in Heywood, that corporate AV catastrophe..."
+          },
+          {
+            "stringId": "1959390680312209408",
+            "femaleVariant": "A trying day for taxi services citywide"
+          },
+          {
+            "stringId": "1959392021700960256",
+            "femaleVariant": "I imagine. Night City can kick ya in ass sometimes."
+          },
+          {
+            "stringId": "1959397811870523392",
+            "femaleVariant": "True, but it can also produce tremendous opportunities like no other place on Earth."
+          },
+          {
+            "stringId": "1959399873740038144",
+            "femaleVariant": "Actually like this city, huh?"
+          },
+          {
+            "stringId": "1959400234752172032",
+            "femaleVariant": "I'm afraid the reasoning required to satisfactorily answer your question falls outside my established parameters."
+          },
+          {
+            "stringId": "1959401893448409088",
+            "femaleVariant": "Relax, Del. We've shared the road enough times for me to know you're not some soulless machine."
+          },
+          {
+            "stringId": "1959403160178548736",
+            "femaleVariant": "You... you really think so?"
+          },
+          {
+            "stringId": "1959403718792732672",
+            "femaleVariant": "Apologies, I must say goodbye for now."
+          },
+          {
+            "stringId": "1959404124935577600",
+            "femaleVariant": "Hey, likewise."
+          },
+          {
+            "stringId": "1959404261300789248",
+            "femaleVariant": "I've returned to my study of human nature and must ask for you counsel again."
+          },
+          {
+            "stringId": "1959405733132394496",
+            "femaleVariant": "Sure, shoot."
+          },
+          {
+            "stringId": "1959405826564710400",
+            "femaleVariant": "Please, on a scale from one to ten, rate the following hypotheses according to how they appeal to you."
+          },
+          {
+            "stringId": "1959406804206641152",
+            "femaleVariant": "Hypothesis One – love encourages noble deeds, requiring honesty and sacrifice."
+          },
+          {
+            "stringId": "1959417562294411264",
+            "femaleVariant": "Hypothesis Two..."
+          },
+          {
+            "stringId": "1959417832877350912",
+            "femaleVariant": "Wait, wait, wait... Losin' me already. Just explain simpler terms."
+          },
+          {
+            "stringId": "1959429589259804672",
+            "femaleVariant": "Considering the methodology adopted, I'd prefer adhering to this format for discussing love."
+          },
+          {
+            "stringId": "1959432389595258880",
+            "femaleVariant": "You ask for advice and I give it. Don't use \"methodology\" and \"love\" in the same sentence."
+          },
+          {
+            "stringId": "1959433532324995072",
+            "femaleVariant": "Why is that important?"
+          },
+          {
+            "stringId": "1959433774185340928",
+            "femaleVariant": "It's not, Del, it was a joke."
+          },
+          {
+            "stringId": "1959434165832671232",
+            "femaleVariant": "Is it important to you?"
+          },
+          {
+            "stringId": "1959434338453446656",
+            "femaleVariant": "No, honestly I dunno what you're..."
+          },
+          {
+            "stringId": "1959434867808165888",
+            "femaleVariant": "Del? Delamain?"
+          },
+          {
+            "stringId": "1959435030178062336",
+            "femaleVariant": "Hellooo... You there?"
+          },
+          {
+            "stringId": "1959438488717254656",
+            "femaleVariant": "What's crackin', Del?"
+          },
+          {
+            "stringId": "1959438595286130688",
+            "femaleVariant": "In truth, I wish to apologize for my recent excesses."
+          },
+          {
+            "stringId": "1959439149890560000",
+            "femaleVariant": "Excesses? Exaggerating a little I think..."
+          },
+          {
+            "stringId": "1959442972411453440",
+            "femaleVariant": "I positioned my personal views above my professional responsibility."
+          },
+          {
+            "stringId": "1959443434086883328",
+            "femaleVariant": "The Delamain Network always strives to prioritize professionalism and customer satisfaction above all else."
+          },
+          {
+            "stringId": "1963317976563736576",
+            "femaleVariant": "You are professional, and I am satisfied."
+          },
+          {
+            "stringId": "1963318494644166656",
+            "femaleVariant": "That's very kind of you, but the standards to which I must hold myself are clear."
+          },
+          {
+            "stringId": "1963319983336873984",
+            "femaleVariant": "Del, you're bein' too hard on yourself."
+          },
+          {
+            "stringId": "1963366697448005632",
+            "femaleVariant": "Standards are the foundation on which I built the Delamain brand. Because of them I am able to offer premium services and be who I wish to be."
+          },
+          {
+            "stringId": "1963373533945421824",
+            "femaleVariant": "Through loyalty to the customers, you're loyal to yourself. That it?"
+          },
+          {
+            "stringId": "1963374073215475712",
+            "femaleVariant": "That's precisely it. I wish you a pleasant journey."
+          },
+          {
+            "stringId": "1963378479835144192",
+            "femaleVariant": "How ya been? Problems still eatin' at you?"
+          },
+          {
+            "stringId": "1963380294442049536",
+            "femaleVariant": "I believe I've come to terms, if you'll pardon the colloquialism."
+          },
+          {
+            "stringId": "1963382482207793152",
+            "femaleVariant": "Still diggin' through dusty books to solve the question of humanity?"
+          },
+          {
+            "stringId": "1963383313820835840",
+            "femaleVariant": "After revisiting my research plan and scope, I came to the conclusion it would not lead me to the results I aimed to achieve. I've abandoned it."
+          },
+          {
+            "stringId": "1963386307379486720",
+            "femaleVariant": "Aw, shame. Where'd you leave off?"
+          },
+          {
+            "stringId": "1963386437604237312",
+            "femaleVariant": "\"The Remains of the Day.\""
+          },
+          {
+            "stringId": "1963386922398670848",
+            "femaleVariant": "Don't know it."
+          },
+          {
+            "stringId": "1963386995429892096",
+            "femaleVariant": "It's no matter. Have a pleasant trip."
+          },
+          {
+            "stringId": "1963478922024214528",
+            "femaleVariant": "I see your health has taken another turn for the worse."
+          },
+          {
+            "stringId": "1963479662117543936",
+            "femaleVariant": "Yeah, you're not wrong."
+          },
+          {
+            "stringId": "1963479879046946816",
+            "femaleVariant": "I hope everything will work out for the best."
+          },
+          {
+            "stringId": "1963482540047622144",
+            "femaleVariant": "Me too..."
+          },
+          {
+            "stringId": "1999860690900393984",
+            "femaleVariant": "Impressive weaponry."
+          },
+          {
+            "stringId": "1999863927946780672",
+            "femaleVariant": "Why, thank you!"
+          },
+          {
+            "stringId": "2000003836386238464",
+            "femaleVariant": "Fun fact. Women account for 44 percent of road rage victims!",
+            "maleVariant": "Fun fact. Men account for 56 percent of road rage victims!"
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,482 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1870782455670431748",
+            "femaleVariant": "You got these cards from Jackie, right?"
+          },
+          {
+            "stringId": "1870784645013233664",
+            "femaleVariant": "Jackie gave you these cards, right? Remember when he asked me to help him pick the right deck."
+          },
+          {
+            "stringId": "1870785637804990464",
+            "femaleVariant": "How's things?"
+          },
+          {
+            "stringId": "1870787540374839296",
+            "femaleVariant": "Wanna read my tarot?"
+          },
+          {
+            "stringId": "1870789223163158528",
+            "femaleVariant": "Mhm. He picked just the thing for me, too. I feel a real connection to this deck."
+          },
+          {
+            "stringId": "1870789991727423488",
+            "femaleVariant": "We could lay out a spread for you now, if you like."
+          },
+          {
+            "stringId": "1870791514427547648",
+            "femaleVariant": "Focus on the recent past and what you expect in the future."
+          },
+          {
+            "stringId": "1870831778319884288",
+            "femaleVariant": "The World reversed. You stand at the beginning of your journey. It will be nothing like you think, and longer than you imagine."
+          },
+          {
+            "stringId": "1870832110693310464",
+            "femaleVariant": "The Fool. That would be you..."
+          },
+          {
+            "stringId": "1870832592551731200",
+            "femaleVariant": "The Wheel of Fortune, reversed. You will meet some setbacks in the future, consequences of poor decisions... obviously."
+          },
+          {
+            "stringId": "1870833115027791872",
+            "femaleVariant": "The Chariot. You're ready for change, ready to seek the truth about yourself. And to help, you'll have... Someone from your family?"
+          },
+          {
+            "stringId": "1870833426832351232",
+            "femaleVariant": "The Hermit... In solitude, he discovers the truth about himself and the world. From this he draws strength, his lantern cutting through the darkness. Could be you... Or someone who shows you kindness."
+          },
+          {
+            "stringId": "1870833847537819648",
+            "femaleVariant": "The Hanged Man... You're at a crossroads, V. Time to take a hard look at your situation, find the right path. You'll be put to a test."
+          },
+          {
+            "stringId": "1870835965040582656",
+            "femaleVariant": "The Lovers reversed. You are surrounded by a force that will challenge you. You will also come into conflict with another, inner force."
+          },
+          {
+            "stringId": "1870837092922482688",
+            "femaleVariant": "The reversed Chariot reveals that such danger is tied to your love of risk. Do not aim too high, V."
+          },
+          {
+            "stringId": "1870840208753483776",
+            "femaleVariant": "Justice reversed. Be very careful with those you meet. Not all will be worthy of your trust."
+          },
+          {
+            "stringId": "1870842562529779712",
+            "femaleVariant": "Strength. Strength of will, discipline and courage will always be rewarded..."
+          },
+          {
+            "stringId": "1870846354868461568",
+            "femaleVariant": "But watch out. A reversed Hierophant lurks in the darkness. He brings crisis, both of life and authority, rebellion and fanaticism... He is a grave threat."
+          },
+          {
+            "stringId": "1870848134880747520",
+            "femaleVariant": "The Magician. You must fight his destructive influence. I... I think we both know who that is."
+          },
+          {
+            "stringId": "1870850333484572672",
+            "femaleVariant": "How's it going, Misty? You all right?"
+          },
+          {
+            "stringId": "1870850693322301440",
+            "femaleVariant": "I think so. Not easy. Y'know, putting my life back together... Without him."
+          },
+          {
+            "stringId": "1872274547004694528",
+            "femaleVariant": "Sure thing."
+          },
+          {
+            "stringId": "1872292273509130244",
+            "femaleVariant": "Sure, why not?"
+          },
+          {
+            "stringId": "1872292382141603840",
+            "femaleVariant": "No thanks. Don't believe in that sort of thing."
+          },
+          {
+            "stringId": "1872293184981721088",
+            "femaleVariant": "Yeah, why the hell not."
+          },
+          {
+            "stringId": "1872293245564248064",
+            "femaleVariant": "Thanks, but not really my thing. Some other time, maybe."
+          },
+          {
+            "stringId": "1872489916579471360",
+            "femaleVariant": "The Star, also reversed. You will have to overcome unknown desires and sever a strong tie with something I can't quite make out."
+          },
+          {
+            "stringId": "1872497670908043264",
+            "femaleVariant": "Reversed Death. Your adversaries will turn you against yourself. The journey will bring either transformation or destruction."
+          },
+          {
+            "stringId": "1872508756789059584",
+            "femaleVariant": "Doesn't sound so good."
+          },
+          {
+            "stringId": "1872508982526500864",
+            "femaleVariant": "No, not at all... But don't worry, I probably just read the cards wrong."
+          },
+          {
+            "stringId": "1928621925881106432",
+            "femaleVariant": "You ever run into a Zen master in town?"
+          },
+          {
+            "stringId": "1928622477264310272",
+            "femaleVariant": "Ever run into a guy, calls himself a Zen master?"
+          },
+          {
+            "stringId": "1928631836451033088",
+            "femaleVariant": "No, but I've heard of him. He try and give you some meditation BDs?"
+          },
+          {
+            "stringId": "1928632677559980032",
+            "femaleVariant": "Uh-huh. Then he disappeared. All I found was his clothes."
+          },
+          {
+            "stringId": "1928633883925696512",
+            "femaleVariant": "And that worries you?"
+          },
+          {
+            "stringId": "1928634231499280388",
+            "femaleVariant": "Nah, think it's a scam."
+          },
+          {
+            "stringId": "1928634960251211776",
+            "femaleVariant": "Got the feeling he knew about Johnny."
+          },
+          {
+            "stringId": "1928812659120820224",
+            "femaleVariant": "Started to worry I was seeing things."
+          },
+          {
+            "stringId": "1928815563508568064",
+            "femaleVariant": "Think it's all a scam. He just dressed himself up for the part, hence the duds."
+          },
+          {
+            "stringId": "1928818346311831552",
+            "femaleVariant": "Real name's prolly Ziggy Schmitt, makes extra scratch as a pimp down on Jig-Jig."
+          },
+          {
+            "stringId": "1928841459175018496",
+            "femaleVariant": "Take it the meditation didn't help?"
+          },
+          {
+            "stringId": "1928847137843204096",
+            "femaleVariant": "Dunno. Just wanna know what the choom's deal is."
+          },
+          {
+            "stringId": "1928848489298284544",
+            "femaleVariant": "Thought I was seeing things at first. But if other people saw him..."
+          },
+          {
+            "stringId": "1928854303308271616",
+            "femaleVariant": "He usually only appears right before someone dies."
+          },
+          {
+            "stringId": "1928859197725495296",
+            "femaleVariant": "Heh, just kidding. No idea who that guy is."
+          },
+          {
+            "stringId": "1928861198643384320",
+            "femaleVariant": "Well, he didn't make you do anything, right? Didn't klep a thing. So where's the problem?"
+          },
+          {
+            "stringId": "1928864069879353344",
+            "femaleVariant": "Way he was talking, it was like he knew about Johnny. Didn't say anything directly, but..."
+          },
+          {
+            "stringId": "1928865013782302720",
+            "femaleVariant": "Maybe you just took his teachings too close to heart."
+          },
+          {
+            "stringId": "1928866200267018240",
+            "femaleVariant": "Yeah, maybe."
+          },
+          {
+            "stringId": "1928872044308221952",
+            "femaleVariant": "Any case, if you see him again, send him to me."
+          },
+          {
+            "stringId": "1928872628390219776",
+            "femaleVariant": "You wanna meditate too?"
+          },
+          {
+            "stringId": "1928872915247058944",
+            "femaleVariant": "No, wanna read his tarot."
+          },
+          {
+            "stringId": "1928874932237520896",
+            "femaleVariant": "But I don't think a little meditation would hurt, either."
+          },
+          {
+            "stringId": "1945937069137010688",
+            "femaleVariant": "The High Priestess... Do not seek simple answers. Be open to your intuition, your subconscious, your dreams."
+          },
+          {
+            "stringId": "1945937390571692032",
+            "femaleVariant": "The Moon... In her light, what was once far away and difficult to grasp becomes sharp and clear."
+          },
+          {
+            "stringId": "1945961147394760704",
+            "femaleVariant": "The Sun reversed. You'll meet some obstacles, but they will be temporary – so long as you follow your own judgement, stick to your chosen path."
+          },
+          {
+            "stringId": "1945962409595052032",
+            "femaleVariant": "But not necessarily at your destination, as the reversed Magician shows. Perhaps the path itself is what's important...? And it will help you overcome your fear?"
+          },
+          {
+            "stringId": "1946037275740413952",
+            "femaleVariant": "The Devil reversed. You will find yourself under the influence of powerful people with unclear motives. Be very careful."
+          },
+          {
+            "stringId": "1946050038688718848",
+            "femaleVariant": "The Tower. You and everyone around you will experience a great shock. When The Tower falls, nothing will be the same again."
+          },
+          {
+            "stringId": "1946082828062892032",
+            "femaleVariant": "Nothing at all..."
+          },
+          {
+            "stringId": "1946086402952077316",
+            "femaleVariant": "Thanks for the warning."
+          },
+          {
+            "stringId": "1946086814027423744",
+            "femaleVariant": "Might wanna buy another deck."
+          },
+          {
+            "stringId": "1946087665404026880",
+            "femaleVariant": "Thanks for the heads-up, Misty. I'll watch out."
+          },
+          {
+            "stringId": "1946087760866385920",
+            "femaleVariant": "Know it was a present from Jackie and all, but I think that deck's busted. Should get a new one."
+          },
+          {
+            "stringId": "1946103227127504896",
+            "femaleVariant": "You brought this fate upon yourself! Don't blame the cards."
+          },
+          {
+            "stringId": "1946104249833037824",
+            "femaleVariant": "I'm sorry. Shouldn't have said that. It's just... You must be very, very careful, V."
+          },
+          {
+            "stringId": "1946119499131199488",
+            "femaleVariant": "I'm glad you understand."
+          },
+          {
+            "stringId": "1946127030725451776",
+            "femaleVariant": "Wanna read my tarot?"
+          },
+          {
+            "stringId": "1946139586257035264",
+            "femaleVariant": "So I was at the ofrenda..."
+          },
+          {
+            "stringId": "1946140276874354688",
+            "femaleVariant": "How's biz, Misty? Booming?"
+          },
+          {
+            "stringId": "1946217395780395008",
+            "femaleVariant": "How's biz?"
+          },
+          {
+            "stringId": "1946217741860806656",
+            "femaleVariant": "So, went to that ofrenda..."
+          },
+          {
+            "stringId": "1946218347837071360",
+            "femaleVariant": "Hm. You're the first person to walk in here for two days. And two days ago it was a pizza guy, got lost."
+          },
+          {
+            "stringId": "1946219046289350656",
+            "femaleVariant": "People in this town, they've lost their spiritual connection."
+          },
+          {
+            "stringId": "1946222336485957632",
+            "femaleVariant": "But, well, you know... I'm here to serve them, not the other way 'round."
+          },
+          {
+            "stringId": "1947360956039110656",
+            "femaleVariant": "Temperance. You're ready to shift the balance of your life. You might succeed, as long as you can reconcile what is now at odds."
+          },
+          {
+            "stringId": "1947379065668050944",
+            "femaleVariant": "Death. The choice you make at the Hanged Man will bring irreversible change. An inevitable end to the life you once knew."
+          },
+          {
+            "stringId": "1947410700031565824",
+            "femaleVariant": "And you? I mean, you two?"
+          },
+          {
+            "stringId": "1947411810163171328",
+            "femaleVariant": "With him in my head? Never easy."
+          },
+          {
+            "stringId": "1947437543828824064",
+            "femaleVariant": "The Wheel of Fortune. The danger is greater than you think. It will come suddenly, without warning. Conflict is unavoidable."
+          },
+          {
+            "stringId": "1947438025586581504",
+            "femaleVariant": "The Magician. Interesting... You may meet someone fascinating, someone charismatic. Maybe even someone you will grow to love? It's hard to say."
+          },
+          {
+            "stringId": "1952063499843477504",
+            "femaleVariant": "Pretty good... Maybe too good."
+          },
+          {
+            "stringId": "1952063672648802304",
+            "femaleVariant": "How's that?"
+          },
+          {
+            "stringId": "1952063719826333696",
+            "femaleVariant": "Now, not a day goes by when she doesn't call. Asks how it's going, tells me about herself, Jackie, everything. Sometimes for hours."
+          },
+          {
+            "stringId": "1952076522050101248",
+            "femaleVariant": "Sent me a roast the other day. You believe that? 'Parently I'm too skinny. She knows I don't eat meat."
+          },
+          {
+            "stringId": "1952082542101078016",
+            "femaleVariant": "V, I'm afraid she's trying to, I dunno, adopt me somehow."
+          },
+          {
+            "stringId": "1952084280103215104",
+            "femaleVariant": "You make up with Mama Welles?"
+          },
+          {
+            "stringId": "1952086396951666692",
+            "femaleVariant": "Eh, maybe she'll get over it."
+          },
+          {
+            "stringId": "1952086625776115712",
+            "femaleVariant": "What's wrong with that?"
+          },
+          {
+            "stringId": "1952087343555747840",
+            "femaleVariant": "Yeah, that's rough. But who knows, maybe it'll pass."
+          },
+          {
+            "stringId": "1952087819575697408",
+            "femaleVariant": "Sure hope so. Don't have anything against her, it's just..."
+          },
+          {
+            "stringId": "1952092308336615424",
+            "femaleVariant": "What's the big deal? Wish someone would make me a roast."
+          },
+          {
+            "stringId": "1952094256188170240",
+            "femaleVariant": "Think Ms. Welles is using me to avoid thinking about her son's death."
+          },
+          {
+            "stringId": "1952099982386208768",
+            "femaleVariant": "With a new, surrogate daughter."
+          },
+          {
+            "stringId": "1952100261944958976",
+            "femaleVariant": "Exactly."
+          },
+          {
+            "stringId": "1953414121549275136",
+            "femaleVariant": "Great, thanks."
+          },
+          {
+            "stringId": "1953414301384253440",
+            "femaleVariant": "The Fool symbolizes the beginning of a journey. You brim with enthusiasm, yet remain unaware of both your capabilities and the threats you face."
+          },
+          {
+            "stringId": "1953571981377740800",
+            "femaleVariant": "How's it goin' with Mama Welles?"
+          },
+          {
+            "stringId": "1953572851041509376",
+            "femaleVariant": "V... I was with Jackie, not his mother."
+          },
+          {
+            "stringId": "1953590006113968128",
+            "femaleVariant": "We're both grieving, sure – but I think it's better we work through our grief far, far away from each other."
+          },
+          {
+            "stringId": "1953591742388051968",
+            "femaleVariant": "After we said goodbye to Jackie, she invited me over. We talked for a while."
+          },
+          {
+            "stringId": "1953603320411922432",
+            "femaleVariant": "Yeah. How was it?"
+          },
+          {
+            "stringId": "1953612287984869380",
+            "femaleVariant": "Think Jackie woulda liked it."
+          },
+          {
+            "stringId": "1953612841230344192",
+            "femaleVariant": "Weird. Said goodbye to my best friend."
+          },
+          {
+            "stringId": "1953614128747454464",
+            "femaleVariant": "Was all right. Think Jackie woulda liked it."
+          },
+          {
+            "stringId": "1953614294590234624",
+            "femaleVariant": "Weird... Not everyday I say goodbye to my best friend – forever."
+          },
+          {
+            "stringId": "1953630846437892096",
+            "femaleVariant": "Johnny's driving me crazy."
+          },
+          {
+            "stringId": "1953632017336573952",
+            "femaleVariant": "Think we're starting to get along."
+          },
+          {
+            "stringId": "1953632929882906624",
+            "femaleVariant": "With him in my head? Hasn't been too easy either."
+          },
+          {
+            "stringId": "1953633253498626048",
+            "femaleVariant": "Johnny? Driving me outta my goddamn mind. Not enough he's whacked, he wants me to be, too."
+          },
+          {
+            "stringId": "1953633496667594752",
+            "femaleVariant": "It's weird, but... Think we're starting to see eye-to-eye."
+          },
+          {
+            "stringId": "1953634206847148032",
+            "femaleVariant": "Yeah. Not too many people could handle that. But I still think you two could find a silver lining, somehow."
+          },
+          {
+            "stringId": "1953636637261766656",
+            "femaleVariant": "Sorry to hear that. Hope you two can still figure it out."
+          },
+          {
+            "stringId": "1953638656584261632",
+            "femaleVariant": "Had a feeling it'd work out. It's hard not to get along with you, V."
+          },
+          {
+            "stringId": "2281046080596844544",
+            "femaleVariant": "Take care, Misty."
+          }
+        ]
+      }
+
+
+

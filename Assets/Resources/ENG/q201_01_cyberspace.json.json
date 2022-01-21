@@ -1,0 +1,577 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1665156860480086016",
+            "femaleVariant": "It worked. I did it."
+          },
+          {
+            "stringId": "1665158049078730752",
+            "femaleVariant": "Johnny, Hanako kept her word."
+          },
+          {
+            "stringId": "1665160871258120196",
+            "femaleVariant": "No, I have changed."
+          },
+          {
+            "stringId": "1665161449400983552",
+            "femaleVariant": "Can ya stop being a dick for just one minute?"
+          },
+          {
+            "stringId": "1665161892185268224",
+            "femaleVariant": "I don't buy your rebel-against-the-world bullshit anymore."
+          },
+          {
+            "stringId": "1665162370369478656",
+            "femaleVariant": "Got it all wrong. No way that V would've ever made it this far."
+          },
+          {
+            "stringId": "1665162493480689664",
+            "femaleVariant": "Jesus, can you stop being a prick for just a minute?"
+          },
+          {
+            "stringId": "1665163494426173440",
+            "femaleVariant": "Maybe. But that V also couldn't stomach betrayal."
+          },
+          {
+            "stringId": "1665163747997016064",
+            "femaleVariant": "Wait, that's what you think? I betrayed you?"
+          },
+          {
+            "stringId": "1665165685597691904",
+            "femaleVariant": "Seen plenty o' Johnny Silverhand by now, and you know what?"
+          },
+          {
+            "stringId": "1665166211664076800",
+            "femaleVariant": "The whole pissed-at-the-world rebel warrior front you got goin'? Yeah, not fallin' for it anymore.",
+            "maleVariant": "The whole pissed-at-the-world rebel warrior front you got goin'? Not fallin' for it anymore."
+          },
+          {
+            "stringId": "1665170939047337984",
+            "femaleVariant": "Just wanted to talk. For old time's sake."
+          },
+          {
+            "stringId": "1665171643170316288",
+            "femaleVariant": "Wanna part on good terms. As friends."
+          },
+          {
+            "stringId": "1665180759238402048",
+            "femaleVariant": "Wanna explain everything."
+          },
+          {
+            "stringId": "1665181711211192320",
+            "femaleVariant": "You? Me? There's nothing left to say."
+          },
+          {
+            "stringId": "1665181982716878848",
+            "femaleVariant": "Just wanted to talk. One last time. For old time's sake."
+          },
+          {
+            "stringId": "1665182044524142592",
+            "femaleVariant": "Wanna part ways on good terms, Johnny. As friends."
+          },
+          {
+            "stringId": "1665182198387990528",
+            "femaleVariant": "Want you to hear me out, lemme explain all this."
+          },
+          {
+            "stringId": "1665187741630488576",
+            "femaleVariant": "I'm listenin'."
+          },
+          {
+            "stringId": "1665196199578722308",
+            "femaleVariant": "[Stand] That was the deal."
+          },
+          {
+            "stringId": "1665196792636530688",
+            "femaleVariant": "Explain? Oh. Then talk."
+          },
+          {
+            "stringId": "1665198791272718336",
+            "femaleVariant": "You an' me? Don't think we have anything left to say."
+          },
+          {
+            "stringId": "1665199585640341504",
+            "femaleVariant": "This is it, Johnny. I just came to say goodbye, that's all."
+          },
+          {
+            "stringId": "1665203495570530304",
+            "femaleVariant": "Listen... I'm on an operating table gettin' sliced open. Arasaka docs are takin' the chip out as we speak."
+          },
+          {
+            "stringId": "1665205892514603008",
+            "femaleVariant": "I mean, you knew it'd end this way…"
+          },
+          {
+            "stringId": "1665207399444144128",
+            "femaleVariant": "That the day would come when I'd want to be normal again, want my life back."
+          },
+          {
+            "stringId": "1665220462100635648",
+            "femaleVariant": "\"Normal\" is overrated… if it exists at all. They're cuttin' a piece of us out, and that'll leave a hole. Forever."
+          },
+          {
+            "stringId": "1665220611786956800",
+            "femaleVariant": "[Stand] What choice did I have?"
+          },
+          {
+            "stringId": "1665221715023126528",
+            "femaleVariant": "[Stand] There is no \"us!\""
+          },
+          {
+            "stringId": "1665222605087989760",
+            "femaleVariant": "That was the deal we made. I'd stay – you'd go."
+          },
+          {
+            "stringId": "1665222670334582784",
+            "femaleVariant": "What choice did I have?"
+          },
+          {
+            "stringId": "1665222745278406656",
+            "femaleVariant": "No such thing as \"us\"! I am V. You are Johnny Silverhand. Hell, you're a fucking construct!",
+            "maleVariant": "No such thing as \"us\"! I am V! You are Johnny Silverhand. Hell, you're a fucking CONSTRUCT!"
+          },
+          {
+            "stringId": "1665224166426042368",
+            "femaleVariant": "Stay true to yourself? Give a thought to a tiny concept called loyalty?"
+          },
+          {
+            "stringId": "1665226059550318592",
+            "femaleVariant": "Deal was to fight side by side, have each other's backs."
+          },
+          {
+            "stringId": "1665226614960054276",
+            "femaleVariant": "Then what's it about?"
+          },
+          {
+            "stringId": "1665227503380750336",
+            "femaleVariant": "No, it's you who doesn't get it."
+          },
+          {
+            "stringId": "1668961775329501184",
+            "femaleVariant": "Gonna deny who you are, ignore who you've become?"
+          },
+          {
+            "stringId": "1669203844367147008",
+            "femaleVariant": "If you're all paranoid about being thrown in another Arasaka prison, don't be – they're gonna shred you."
+          },
+          {
+            "stringId": "1669205245331791872",
+            "femaleVariant": "You're never gonna get it. It's not about Arasaka. Not even about life and death."
+          },
+          {
+            "stringId": "1669206690806390784",
+            "femaleVariant": "Then what's it all about, Johnny? Enlighten me."
+          },
+          {
+            "stringId": "1669209020373164032",
+            "femaleVariant": "No, it's you who doesn't understand."
+          },
+          {
+            "stringId": "1669209091055575040",
+            "femaleVariant": "Conversation's pointless... G'bye, Johnny.",
+            "maleVariant": "Conversation's pointless... Goodbye, Johnny."
+          },
+          {
+            "stringId": "1669210115170394112",
+            "femaleVariant": "Always been lost. And if anyone near you had their shit figured out, you couldn't stand it."
+          },
+          {
+            "stringId": "1669210645766627328",
+            "femaleVariant": "Alt, Rogue, Kerry – all of 'em."
+          },
+          {
+            "stringId": "1669212681144918016",
+            "femaleVariant": "Different times. I've changed."
+          },
+          {
+            "stringId": "1669333421802414080",
+            "femaleVariant": "Dirty bomb, destructive Johnny. Bringing everyone and everything around him to ruin in the name of his death wish.",
+            "maleVariant": "Dirty bomb, destructive Johnny. Bringing everyone and everything around to ruin in the name of his death wish."
+          },
+          {
+            "stringId": "1669337879122829312",
+            "femaleVariant": "Not about to be your next victim. I've got a life to live."
+          },
+          {
+            "stringId": "1669349426377285632",
+            "femaleVariant": "The principle, V. It's always about the principle."
+          },
+          {
+            "stringId": "1669349835858796544",
+            "femaleVariant": "Swap meat for chrome, live a BD fantasy, whatever – but at the end of it all, it's the code you live by that defines who you are."
+          },
+          {
+            "stringId": "1669351355740348416",
+            "femaleVariant": "Ever get lost, it shows you the way home."
+          },
+          {
+            "stringId": "1669352973986717696",
+            "femaleVariant": "Bust up into pieces, it puts you back together again."
+          },
+          {
+            "stringId": "1669353294515429376",
+            "femaleVariant": "That Rockerboy Silverhand's credo, words he lived by?"
+          },
+          {
+            "stringId": "1669360817637187584",
+            "femaleVariant": "Sure, yeah – but what's it worth?"
+          },
+          {
+            "stringId": "1669361569474568192",
+            "femaleVariant": "Goodbye, Johnny."
+          },
+          {
+            "stringId": "1669362061516759040",
+            "femaleVariant": "See ya 'round, Johnny. Thanks for everything."
+          },
+          {
+            "stringId": "1669362289418461184",
+            "femaleVariant": "Get the fuck outta my life."
+          },
+          {
+            "stringId": "1669416608406724608",
+            "femaleVariant": "I don't wanna drag this out. Just… see ya around, Johnny. And thanks. For everything."
+          },
+          {
+            "stringId": "1669416755928784896",
+            "femaleVariant": "Conversation's pointless. Just get the fuck outta my life."
+          },
+          {
+            "stringId": "1669424715509817344",
+            "femaleVariant": "Sorry, no mute button on your conscience. A part of me'll always be with you. Always."
+          },
+          {
+            "stringId": "1669427067188961280",
+            "femaleVariant": "It's been a real ride, Johnny. Not one I'll regret, but not one I'll miss, either.",
+            "maleVariant": "It has been a real ride, Johnny. Not one I'll regret, but not one I'll miss, either."
+          },
+          {
+            "stringId": "1669433403238801408",
+            "femaleVariant": "Oh, you'll regret it. Lose a friend and you always regret it."
+          },
+          {
+            "stringId": "1669442182269394944",
+            "femaleVariant": "'Member Jackie's last words? About the chip? \"Hold on to it, V. For me.\""
+          },
+          {
+            "stringId": "1669445754843324416",
+            "femaleVariant": "Yeah... Guess not."
+          },
+          {
+            "stringId": "1669484485465890816",
+            "femaleVariant": "We've come to the end. Came to say goodbye."
+          },
+          {
+            "stringId": "1669505130165723136",
+            "femaleVariant": "'Member what Dex asked you? \"Quiet life or blaze of glory?\""
+          },
+          {
+            "stringId": "1669505388652290048",
+            "femaleVariant": "Sure, I remember."
+          },
+          {
+            "stringId": "1669505462287491072",
+            "femaleVariant": "Shame you chose wrong. Damn shame."
+          },
+          {
+            "stringId": "1669507009935335424",
+            "femaleVariant": "If not for you, I'd be long dead. Several times over."
+          },
+          {
+            "stringId": "1694008916045225984",
+            "femaleVariant": "Lookin' at you now – reminds me of the moment we met."
+          },
+          {
+            "stringId": "1694009401275867136",
+            "femaleVariant": "Still see that same small-time merc, little thief with her head in the clouds. Haven't changed a bit.",
+            "maleVariant": "Still see that same small-time merc, little thief with his head in the clouds. Haven't changed a bit."
+          },
+          {
+            "stringId": "1694021086774583296",
+            "femaleVariant": "Just… wouldn't've survived. I had to grow stronger. And I did."
+          },
+          {
+            "stringId": "1694022471633100800",
+            "femaleVariant": "Worse. Lots. You betrayed yourself."
+          },
+          {
+            "stringId": "1694194782667563008",
+            "femaleVariant": "Y'know... you remind me of someone."
+          },
+          {
+            "stringId": "1694195665065238528",
+            "femaleVariant": "The Johnny of yore never gave a shit about anyone. Betrayal came easy, was somethin' to brag about."
+          },
+          {
+            "stringId": "1694202070237208576",
+            "femaleVariant": "Wait, that's what you think? I betrayed you?"
+          },
+          {
+            "stringId": "1694206194261450752",
+            "femaleVariant": "Worse. Lots. You betrayed yourself."
+          },
+          {
+            "stringId": "1694206576698089472",
+            "femaleVariant": "Uncanny. Here I stand lookin' at an old pic of myself back in the day."
+          },
+          {
+            "stringId": "1694207973686534144",
+            "femaleVariant": "Rogue, Alt, others... abandoned 'em all. And now here's you, abandoning me, abandoning yourself."
+          },
+          {
+            "stringId": "1694212410119315456",
+            "femaleVariant": "[Sit] You got no right to judge me."
+          },
+          {
+            "stringId": "1694212927595765760",
+            "femaleVariant": "[Sit] The hell do you mean by that?"
+          },
+          {
+            "stringId": "1694214985774292992",
+            "femaleVariant": "Got no right to judge me."
+          },
+          {
+            "stringId": "1694218091337637888",
+            "femaleVariant": "Couldn't be more wrong. Biochip did more'n just blend our memories."
+          },
+          {
+            "stringId": "1694219691816935424",
+            "femaleVariant": "That line that kept V and Silverhand separate, well, faded a while back."
+          },
+          {
+            "stringId": "1694222688747806720",
+            "femaleVariant": "The hell you mean by that?"
+          },
+          {
+            "stringId": "1694223699239526400",
+            "femaleVariant": "How's that give you the right to talk down to me?"
+          },
+          {
+            "stringId": "1694224445188104192",
+            "femaleVariant": "I'm the V who mourns our pal Jackie, the V who's fuckin' livid at Brigitte. I'm the V with a heavy conscience."
+          },
+          {
+            "stringId": "1694229407267840000",
+            "femaleVariant": "Biochip did more'n just blend our memories."
+          },
+          {
+            "stringId": "1694231683181076480",
+            "femaleVariant": "And you? Who are you?"
+          },
+          {
+            "stringId": "1694234354701066240",
+            "femaleVariant": "I'm still here. I know what I want, and I know where I came from."
+          },
+          {
+            "stringId": "1694235873357881344",
+            "femaleVariant": "That line that kept V and Silverhand separate, well, faded a while back."
+          },
+          {
+            "stringId": "1694239405985259520",
+            "femaleVariant": "I, I, I. Who's this \"I\"? You even know?"
+          },
+          {
+            "stringId": "1694240140978315264",
+            "femaleVariant": "Same old V who died in a landfill."
+          },
+          {
+            "stringId": "1694240576598728704",
+            "femaleVariant": "The V who chose to survive."
+          },
+          {
+            "stringId": "1694240837618655232",
+            "femaleVariant": "I'm bitter. And sad. Guess that's who I am now."
+          },
+          {
+            "stringId": "1694243400858492928",
+            "femaleVariant": "Same V who was left to die in that landfill. Nothin's changed."
+          },
+          {
+            "stringId": "1694243478738329600",
+            "femaleVariant": "I'm the V who chose to live."
+          },
+          {
+            "stringId": "1694243580223709184",
+            "femaleVariant": "I... I dunno. Get a little lost when I look inside."
+          },
+          {
+            "stringId": "1694244238712659968",
+            "femaleVariant": "Did what I set out to do. I'm the winner, here."
+          },
+          {
+            "stringId": "1694244799776317440",
+            "femaleVariant": "Don't know who I am."
+          },
+          {
+            "stringId": "1694247754613153792",
+            "femaleVariant": "I know I'm not lookin' in the rearview."
+          },
+          {
+            "stringId": "1694247865963536384",
+            "femaleVariant": "Dunno who I am anymore."
+          },
+          {
+            "stringId": "1695640356705034240",
+            "femaleVariant": "And your will to fight? To tell Death to go fuck himself? Where's that come from?"
+          },
+          {
+            "stringId": "1695641615398887424",
+            "femaleVariant": "Always had that. That's who I am."
+          },
+          {
+            "stringId": "1695642590910111744",
+            "femaleVariant": "How can you be so sure? I mean, when you reach back, how can you be sure whose memories you're dippin' into?"
+          },
+          {
+            "stringId": "1695648521202982912",
+            "femaleVariant": "Same drive that kept Silverhand goin' his whole life."
+          },
+          {
+            "stringId": "1695649859655720960",
+            "femaleVariant": "That drive and two thoughts – never look back, never look to those around you."
+          },
+          {
+            "stringId": "1695650526969487360",
+            "femaleVariant": "Just keep movin', look ahead, stare Death straight in the eye."
+          },
+          {
+            "stringId": "1695650796260581376",
+            "femaleVariant": "You're not the only rebel around here."
+          },
+          {
+            "stringId": "1695652038546317312",
+            "femaleVariant": "And I'm not the only one to have missed the bigger picture."
+          },
+          {
+            "stringId": "1695655158353518592",
+            "femaleVariant": "I'm stronger than ever. But I... I can't seem to keep my mind straight.",
+            "maleVariant": "I'm stronger than ever, but I... I can't seem to keep my mind straight."
+          },
+          {
+            "stringId": "1695656533581914112",
+            "femaleVariant": "How do you feel?"
+          },
+          {
+            "stringId": "1695656644697415680",
+            "femaleVariant": "Bitter, I guess. And sad."
+          },
+          {
+            "stringId": "1695656880383746048",
+            "femaleVariant": "And disappointed. I know."
+          },
+          {
+            "stringId": "1695662089927417856",
+            "femaleVariant": "I'm stronger than I've ever been. I won my goddamn life back."
+          },
+          {
+            "stringId": "1695662765344579584",
+            "femaleVariant": "You sure talk the talk, but I know better. Feel the same way you do."
+          },
+          {
+            "stringId": "1695663884988866560",
+            "femaleVariant": "I don't give a fuck what you think you know!"
+          },
+          {
+            "stringId": "1695664874710392832",
+            "femaleVariant": "Now that sounds like a Silverhand original."
+          },
+          {
+            "stringId": "1695687479374929920",
+            "femaleVariant": "We're a tangled web, you and me – one and the same."
+          },
+          {
+            "stringId": "1695688487954046976",
+            "femaleVariant": "So if you're here to tell me somethin', it's 'cause you need to hear it yourself."
+          },
+          {
+            "stringId": "1695693560343977984",
+            "femaleVariant": "Not sure that's possible anymore."
+          },
+          {
+            "stringId": "1695724352524804096",
+            "femaleVariant": "And we did that. We won."
+          },
+          {
+            "stringId": "1695724536403091456",
+            "femaleVariant": "Better to die on your feet than live on your knees."
+          },
+          {
+            "stringId": "1695737633134108672",
+            "femaleVariant": "Sold a piece of your soul to the devil. YOU are no longer all there. YOU are not YOU."
+          },
+          {
+            "stringId": "1695751917423583232",
+            "femaleVariant": "Somethin' Johnny picked up from V – the old V."
+          },
+          {
+            "stringId": "1699699311152488448",
+            "femaleVariant": "You sold a part of yourself, of us, to a megacorp. Was it really worth it?"
+          },
+          {
+            "stringId": "1726090084152270848",
+            "femaleVariant": "Guess not everybody gets their last wish."
+          },
+          {
+            "stringId": "1790844682079068160",
+            "femaleVariant": "[Stand] There you go, blaming Arasaka again."
+          },
+          {
+            "stringId": "1790845828147470336",
+            "femaleVariant": "Things didn't go as Johnny planned, wanted. So Johnny needs someone to blame."
+          },
+          {
+            "stringId": "1790846475496349696",
+            "femaleVariant": "And pinning every little thing on Arasaka got old a long, long time ago."
+          },
+          {
+            "stringId": "1790846958411735040",
+            "femaleVariant": "Arasaka's got nothing to do with this. This is about trust. About who you're turning into."
+          },
+          {
+            "stringId": "2115926178800558084",
+            "femaleVariant": "[Touch Johnny] Hanako kept her word."
+          },
+          {
+            "stringId": "2534592891186393096",
+            "femaleVariant": "What're you waiting for?"
+          },
+          {
+            "stringId": "2534593761907126272",
+            "femaleVariant": "Fucking pathetic."
+          },
+          {
+            "stringId": "2534593910637146120",
+            "femaleVariant": "That seriously what you wanted?"
+          },
+          {
+            "stringId": "2534594130318012424",
+            "femaleVariant": "Oh, V..."
+          },
+          {
+            "stringId": "2534594286161571848",
+            "femaleVariant": "Jesus, V."
+          },
+          {
+            "stringId": "2534594676701605896",
+            "femaleVariant": "Ohhh, V..."
+          }
+        ]
+      }
+
+
+

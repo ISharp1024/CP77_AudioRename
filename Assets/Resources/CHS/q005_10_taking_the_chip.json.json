@@ -1,0 +1,330 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1616364777633439744",
+            "femaleVariant": "子弹直接打穿了。"
+          },
+          {
+            "stringId": "1616368276840603648",
+            "femaleVariant": "靠…已经废了…"
+          },
+          {
+            "stringId": "1627586895985467392",
+            "femaleVariant": "咱们赶紧到车库去。电梯在右手边。"
+          },
+          {
+            "stringId": "1628787870830125056",
+            "femaleVariant": "目前没有发现。"
+          },
+          {
+            "stringId": "1628789242652745728",
+            "femaleVariant": "继续找。"
+          },
+          {
+            "stringId": "1628789545481494528",
+            "femaleVariant": "是，长官。"
+          },
+          {
+            "stringId": "1628790021786656768",
+            "femaleVariant": "他们来了！"
+          },
+          {
+            "stringId": "1628793534684028928",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Estamos bien chingados…\" t=\"我们要完蛋了…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1628794225049690112",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Carajo!\" t=\"靠！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1692573867982073856",
+            "femaleVariant": "正在检查楼层。"
+          },
+          {
+            "stringId": "1692577404266885120",
+            "femaleVariant": "一切正常。"
+          },
+          {
+            "stringId": "1692579577688109056",
+            "femaleVariant": "明白。通话完毕。"
+          },
+          {
+            "stringId": "1692580058456010752",
+            "femaleVariant": "这边也没人。"
+          },
+          {
+            "stringId": "1692580328804069376",
+            "femaleVariant": "如果只是演习，怎么荒坂的特种部队都来了？"
+          },
+          {
+            "stringId": "1692581202863468544",
+            "femaleVariant": "特种小队？！"
+          },
+          {
+            "stringId": "1692581427141292032",
+            "femaleVariant": "在大厅呢。他们要搜查——挨个楼层搜。"
+          },
+          {
+            "stringId": "1692590637312782336",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Madres!\" b=\"\" a=\"（靠）！赶紧把头低下！\"/>"
+          },
+          {
+            "stringId": "1692595894738628608",
+            "femaleVariant": "我们从这边下去…偷偷干掉他们。"
+          },
+          {
+            "stringId": "1692597061845659648",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"En silencio\" b=\"\" a=\"（别出声）。你一个，我一个。准备好…\"/>"
+          },
+          {
+            "stringId": "1692651516813258752",
+            "femaleVariant": "嘿，你看我找到什么了。"
+          },
+          {
+            "stringId": "1714032081313271808",
+            "femaleVariant": "我还是想到处寻摸寻摸…"
+          },
+          {
+            "stringId": "1714322994430283776",
+            "femaleVariant": "当心…外面肯定全都是保安。"
+          },
+          {
+            "stringId": "1714322994430283788",
+            "femaleVariant": "明白。"
+          },
+          {
+            "stringId": "1714341671816990720",
+            "femaleVariant": "电梯也有人看着…咱们得做了他。"
+          },
+          {
+            "stringId": "1714408006412472320",
+            "femaleVariant": "状态。"
+          },
+          {
+            "stringId": "1714417869251219456",
+            "femaleVariant": "正在每层搜索。还没有发现。"
+          },
+          {
+            "stringId": "1714418131898535936",
+            "femaleVariant": "这边一样。把电梯关了，以防万一。继续找。"
+          },
+          {
+            "stringId": "1714468469603110912",
+            "femaleVariant": "一切正常。等等…"
+          },
+          {
+            "stringId": "1714468469603110924",
+            "femaleVariant": "怎么了？"
+          },
+          {
+            "stringId": "1715544017964175360",
+            "femaleVariant": "里面有人吗？"
+          },
+          {
+            "stringId": "1715546259551227904",
+            "femaleVariant": "保安！开门！"
+          },
+          {
+            "stringId": "1715696687140114432",
+            "femaleVariant": "还是没发现人。"
+          },
+          {
+            "stringId": "1715696687140114444",
+            "femaleVariant": "呃啊…！接着给我找，靠！"
+          },
+          {
+            "stringId": "1724441456494317568",
+            "femaleVariant": "禅修室那边你查了吗？"
+          },
+          {
+            "stringId": "1735873769673396224",
+            "femaleVariant": "查了。一切正常。"
+          },
+          {
+            "stringId": "1735875368038764544",
+            "femaleVariant": "没有可疑迹象，一切正常？"
+          },
+          {
+            "stringId": "1743251911757074432",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Chinga tu madre\" b=\"\" a=\"（我靠）！关上了！另一个呢？\"/>"
+          },
+          {
+            "stringId": "1744599908919087104",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Mierda…\" b=\"\" a=\"（靠）…当官的身上肯定有电梯门卡。\"/>"
+          },
+          {
+            "stringId": "1753290639110098944",
+            "femaleVariant": "消音器现在最管用。"
+          },
+          {
+            "stringId": "1753291609521049600",
+            "femaleVariant": "你是疯了吗，杰克！你有伤！"
+          },
+          {
+            "stringId": "1753291905068486656",
+            "femaleVariant": "跟受伤没关系…就是不想错过什么…有用的…呃。"
+          },
+          {
+            "stringId": "1753306958274547712",
+            "femaleVariant": "有扇门被撞开了，但他们不应该往这边来啊…"
+          },
+          {
+            "stringId": "1753307073164922880",
+            "femaleVariant": "闭嘴，赶紧去查！"
+          },
+          {
+            "stringId": "1753346104653303808",
+            "femaleVariant": "唔，去天台的门好像坏了…"
+          },
+          {
+            "stringId": "1753346290007986176",
+            "femaleVariant": "那就再查一遍。"
+          },
+          {
+            "stringId": "1753363856071905280",
+            "femaleVariant": "是，长官！"
+          },
+          {
+            "stringId": "1753366052645687296",
+            "femaleVariant": "注意，入口已经封锁。"
+          },
+          {
+            "stringId": "1753366229343326208",
+            "femaleVariant": "是的。只有官员可以进入。"
+          },
+          {
+            "stringId": "1786488698530746368",
+            "femaleVariant": "是，长官。"
+          },
+          {
+            "stringId": "1790797377444843520",
+            "femaleVariant": "这边走！"
+          },
+          {
+            "stringId": "1790799730617159680",
+            "femaleVariant": "三组发现黑客和一台战斗机器人，型号小平头。"
+          },
+          {
+            "stringId": "1790801642884239360",
+            "femaleVariant": "无人机在顶层发现威胁，并已开火。"
+          },
+          {
+            "stringId": "1790801708332158976",
+            "femaleVariant": "荒坂赖宣已经从现场疏散。我重复——荒坂赖宣已经疏散…"
+          },
+          {
+            "stringId": "1790991706643812352",
+            "femaleVariant": "这里到底是怎么了…？"
+          },
+          {
+            "stringId": "1790991807290331136",
+            "femaleVariant": "好像出大事了…"
+          },
+          {
+            "stringId": "1794022556297998336",
+            "femaleVariant": "靠，真不忍心下手打死这些人，他们多半都不知道自家老板是个畜生。"
+          },
+          {
+            "stringId": "1794024738577592320",
+            "femaleVariant": "这是你死我活，杰克。"
+          },
+          {
+            "stringId": "1794026052703367168",
+            "femaleVariant": "要能找到个医疗包就好了。"
+          },
+          {
+            "stringId": "1794027907105828864",
+            "femaleVariant": "你没事吧？"
+          },
+          {
+            "stringId": "1794028075414859776",
+            "femaleVariant": "应该还能撑上一会儿，用这个。"
+          },
+          {
+            "stringId": "1794031344992268288",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"\" a=\"（我去），这一地的血…\"/>"
+          },
+          {
+            "stringId": "1794034305634021376",
+            "femaleVariant": "呃，还不算太糟。"
+          },
+          {
+            "stringId": "1794036735478214656",
+            "femaleVariant": "这只是开始。"
+          },
+          {
+            "stringId": "1794039174449213440",
+            "femaleVariant": "我觉得回去之后德克斯特不会给我们好脸色…"
+          },
+          {
+            "stringId": "1794041649474449408",
+            "femaleVariant": "你先操心眼前的事吧，杰克。"
+          },
+          {
+            "stringId": "1794044297741217792",
+            "femaleVariant": "米斯蒂曾经求我…别接这一单。"
+          },
+          {
+            "stringId": "1794046590482001920",
+            "femaleVariant": "坚持住，杰克！"
+          },
+          {
+            "stringId": "1794048745314070528",
+            "femaleVariant": "为什么每次她都是对的…？"
+          },
+          {
+            "stringId": "1794049399910707200",
+            "femaleVariant": "跳一次还不够吗…！"
+          },
+          {
+            "stringId": "1794051450153611264",
+            "femaleVariant": "别叨叨了，走吧。"
+          },
+          {
+            "stringId": "1796565902266519552",
+            "femaleVariant": "就剩我们还喘气了…"
+          },
+          {
+            "stringId": "1796567882296774656",
+            "femaleVariant": "啊啊啊…就像往脑袋里钉钉子。"
+          },
+          {
+            "stringId": "1796570335830396928",
+            "femaleVariant": "行吧。"
+          },
+          {
+            "stringId": "1904107617935740928",
+            "femaleVariant": "你还在等什么呢…？搜他的身啊！"
+          },
+          {
+            "stringId": "1922874791321997316",
+            "femaleVariant": "豪华轿车——打哪儿来的啊？"
+          },
+          {
+            "stringId": "1922877530873597952",
+            "femaleVariant": "问得好。不知道。"
+          },
+          {
+            "stringId": "2006959752984993792",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Minotauro\" b=\"\" a=\"（牛头怪）…！觉得我们还不够倒霉是吗？！\"/>"
+          }
+        ]
+      }
+
+
+

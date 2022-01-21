@@ -1,0 +1,931 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1675027099592658944",
+            "femaleVariant": "River?!"
+          },
+          {
+            "stringId": "1689371544446275584",
+            "femaleVariant": "We can breach the fence, then look for a way inside."
+          },
+          {
+            "stringId": "1689392059374342144",
+            "femaleVariant": "Hm, looks heavy…"
+          },
+          {
+            "stringId": "1773826441626128384",
+            "femaleVariant": "Knowing their funding, I wouldn't expect much pushback from security."
+          },
+          {
+            "stringId": "1773828616758628352",
+            "femaleVariant": "Likely the room where they edit the autistic kids' dreams."
+          },
+          {
+            "stringId": "1773841199402192896",
+            "femaleVariant": "Yawen!"
+          },
+          {
+            "stringId": "1773851474188701700",
+            "femaleVariant": "Harris' s dream BD – where is it?"
+          },
+          {
+            "stringId": "1773851480631152640",
+            "femaleVariant": "A bullet damaged his cerebral cortex. We get only dissonant urges, pieces."
+          },
+          {
+            "stringId": "1773854874628395012",
+            "femaleVariant": "Barely know each other."
+          },
+          {
+            "stringId": "1773856102368284672",
+            "femaleVariant": "Hasn't let me down yet."
+          },
+          {
+            "stringId": "1773857055767138304",
+            "femaleVariant": "Barely know River. We just work together."
+          },
+          {
+            "stringId": "1773857140055871488",
+            "femaleVariant": "River and I get along, we're friends. Hasn't let me down yet."
+          },
+          {
+            "stringId": "1773858241412993024",
+            "femaleVariant": "Do not believe any promise he makes!"
+          },
+          {
+            "stringId": "1773860277261045760",
+            "femaleVariant": "Good tip, thanks, but we're wastin' time."
+          },
+          {
+            "stringId": "1773865958143823872",
+            "femaleVariant": "That why you're refusin' to help 'im out?",
+            "maleVariant": "Is that why you're refusin' to help 'im out?"
+          },
+          {
+            "stringId": "1773870539397533696",
+            "femaleVariant": "What? Why?!"
+          },
+          {
+            "stringId": "1773872569105125376",
+            "femaleVariant": "But he isn't on the spectrum."
+          },
+          {
+            "stringId": "1773872570514411520",
+            "femaleVariant": "A favorite song or movie helps you reach the kids – might be worth a try."
+          },
+          {
+            "stringId": "1773872924161347604",
+            "femaleVariant": "Dead end, River. I'm sorry."
+          },
+          {
+            "stringId": "1773876053581893632",
+            "femaleVariant": "Looks like a dead end, River. I’m sorry."
+          },
+          {
+            "stringId": "1773876055108620288",
+            "femaleVariant": "Audio-visual stimulation – that's what we gotta try."
+          },
+          {
+            "stringId": "1773876059806240772",
+            "femaleVariant": "I'd like to--"
+          },
+          {
+            "stringId": "1773876061534294016",
+            "femaleVariant": "Try audio-visual stimulation."
+          },
+          {
+            "stringId": "1776289738850799616",
+            "femaleVariant": "It's an experimental procedure, but it's already yielding results."
+          },
+          {
+            "stringId": "1776293089244057600",
+            "femaleVariant": "And we're now headed to…?"
+          },
+          {
+            "stringId": "1776448006181064704",
+            "femaleVariant": "Empty braindance case."
+          },
+          {
+            "stringId": "1776449705008402436",
+            "femaleVariant": "It's a braindance editing terminal. You familiar?"
+          },
+          {
+            "stringId": "1776547502302924800",
+            "femaleVariant": "V! I think it's this room!"
+          },
+          {
+            "stringId": "1776548097575325696",
+            "femaleVariant": "C'mere, help me search it!"
+          },
+          {
+            "stringId": "1776550220446797824",
+            "femaleVariant": "On my way!"
+          },
+          {
+            "stringId": "1782105289237073920",
+            "femaleVariant": "They record dreams that can be played back as BDs."
+          },
+          {
+            "stringId": "1782186759179866112",
+            "femaleVariant": "A little."
+          },
+          {
+            "stringId": "1805169597131755524",
+            "femaleVariant": "Hey, River! Think I got it!"
+          },
+          {
+            "stringId": "1813988199772266496",
+            "femaleVariant": "Hey, V."
+          },
+          {
+            "stringId": "1813988499899883524",
+            "femaleVariant": "So what's the issue?"
+          },
+          {
+            "stringId": "1813988624302940160",
+            "femaleVariant": "So, what happened?"
+          },
+          {
+            "stringId": "1813988651129708544",
+            "femaleVariant": "Nice ride. Brand new?"
+          },
+          {
+            "stringId": "1813990130813050880",
+            "femaleVariant": "Wouldn't let it go if I were you."
+          },
+          {
+            "stringId": "1813990233724493824",
+            "femaleVariant": "No way I'd let this lie."
+          },
+          {
+            "stringId": "1813990264443576320",
+            "femaleVariant": "And what, they figured you'd get emotional and kept you off the case?"
+          },
+          {
+            "stringId": "1813990304843112448",
+            "femaleVariant": "They're not all wrong – got a personal stake in this.",
+            "maleVariant": "They're not all wrong – ya got a personal stake in this."
+          },
+          {
+            "stringId": "1813990337760010240",
+            "femaleVariant": "Randy's disappearance – know anything else?",
+            "maleVariant": "Randy's disappearance – you know anything else?"
+          },
+          {
+            "stringId": "1813992686150819840",
+            "femaleVariant": "Nice ride."
+          },
+          {
+            "stringId": "1813993591583612928",
+            "femaleVariant": "They're not completely wrong."
+          },
+          {
+            "stringId": "1814003920896073728",
+            "femaleVariant": "I know. And that's why I'm askin' for your help."
+          },
+          {
+            "stringId": "1814004484207878144",
+            "femaleVariant": "More like a restraining order – won't let me anywhere near it."
+          },
+          {
+            "stringId": "1814023622515040256",
+            "femaleVariant": "How ya holdin' up?"
+          },
+          {
+            "stringId": "1814023728412827648",
+            "femaleVariant": "Been better."
+          },
+          {
+            "stringId": "1814040188891766784",
+            "femaleVariant": "Nope."
+          },
+          {
+            "stringId": "1814041463389757440",
+            "femaleVariant": "Not in a chatty mood, I see."
+          },
+          {
+            "stringId": "1814042048075735040",
+            "femaleVariant": "Not really. Sorry."
+          },
+          {
+            "stringId": "1814077877280120832",
+            "femaleVariant": "What's the problem if they caught the guy?"
+          },
+          {
+            "stringId": "1814078485403869184",
+            "femaleVariant": "My nephew, Randy... Disappeared not long past."
+          },
+          {
+            "stringId": "1814079179175305216",
+            "femaleVariant": "And what you just saw – the kid was wearin' Randy's shoes."
+          },
+          {
+            "stringId": "1814079280929120256",
+            "femaleVariant": "Oh Jesus…"
+          },
+          {
+            "stringId": "1814142509676044288",
+            "femaleVariant": "Gonaghal took the lead on it – a lazy-ass gonk. And so far he ain't accomplished shit."
+          },
+          {
+            "stringId": "1814149350468427776",
+            "femaleVariant": "And that's why I need an objective eye – you."
+          },
+          {
+            "stringId": "1814151645440581632",
+            "femaleVariant": "My sister and I don't get along that well… I don't know much."
+          },
+          {
+            "stringId": "1814152076011053056",
+            "femaleVariant": "Just wish I coulda been there for her when she needed it most."
+          },
+          {
+            "stringId": "1814206842246340608",
+            "femaleVariant": "What are you doing here?! You got kicked off the force!"
+          },
+          {
+            "stringId": "1814208460392046596",
+            "femaleVariant": "Who are you?"
+          },
+          {
+            "stringId": "1814208633415475200",
+            "femaleVariant": "What'd she mean by that?"
+          },
+          {
+            "stringId": "1814208672623828992",
+            "femaleVariant": "And who might you be?"
+          },
+          {
+            "stringId": "1814210675940859904",
+            "femaleVariant": "I'm calling the actual police!"
+          },
+          {
+            "stringId": "1814211469452845056",
+            "femaleVariant": "W-wait, wait, wait, hear… hear me out, please."
+          },
+          {
+            "stringId": "1814212632684339200",
+            "femaleVariant": "He hasn't told you?"
+          },
+          {
+            "stringId": "1814213143282130944",
+            "femaleVariant": "Yawen, please listen to me…"
+          },
+          {
+            "stringId": "1814213515635662848",
+            "femaleVariant": "Aren't you in enough trouble already?!"
+          },
+          {
+            "stringId": "1814214785989681152",
+            "femaleVariant": "Harris kidnapped my nephew."
+          },
+          {
+            "stringId": "1815419155016130560",
+            "femaleVariant": "Remember your first med school exam?"
+          },
+          {
+            "stringId": "1815421200192315392",
+            "femaleVariant": "You know the one. Passed it with flying colors."
+          },
+          {
+            "stringId": "1815421880692973572",
+            "femaleVariant": "Can't leave without Peter Pan's scrolls."
+          },
+          {
+            "stringId": "1815422651069177856",
+            "femaleVariant": "NCPD won't solve this."
+          },
+          {
+            "stringId": "1815425328226312192",
+            "femaleVariant": "Can't leave without Peter Pan's dreams.",
+            "maleVariant": "We can't leave without Peter Pan's dreams."
+          },
+          {
+            "stringId": "1815425328326975488",
+            "femaleVariant": "Listen, you work with badges, right? You know what they're like."
+          },
+          {
+            "stringId": "1815426665135546368",
+            "femaleVariant": "I'll say it one last time – OUT."
+          },
+          {
+            "stringId": "1815429442536546304",
+            "femaleVariant": "This type of thinking is the very reason we live in a lawless city."
+          },
+          {
+            "stringId": "1815431440434536448",
+            "femaleVariant": "I cannot believe you would throw that in my face!"
+          },
+          {
+            "stringId": "1815451219329359872",
+            "femaleVariant": "Hah! I thought us friends, too!"
+          },
+          {
+            "stringId": "1815592442987880448",
+            "femaleVariant": "Let's try it."
+          },
+          {
+            "stringId": "1815593081579053056",
+            "femaleVariant": "We don't even know his preferences!"
+          },
+          {
+            "stringId": "1815594199881162752",
+            "femaleVariant": "I'll find somethin'. That mean you're willin' to try?"
+          },
+          {
+            "stringId": "1815594542371250176",
+            "femaleVariant": "Just... go. I'll open the front door for you."
+          },
+          {
+            "stringId": "1815611377200209920",
+            "femaleVariant": "I am aware of the similarity – hypothalamus stimulation and hormone production."
+          },
+          {
+            "stringId": "1815630564043857920",
+            "femaleVariant": "Comin'!"
+          },
+          {
+            "stringId": "1834272801328074756",
+            "femaleVariant": "Haven't been assigned to the search?"
+          },
+          {
+            "stringId": "1834274080641126400",
+            "femaleVariant": "The disappearance – tell me more."
+          },
+          {
+            "stringId": "1834367518074081280",
+            "femaleVariant": "Know where they're keepin' the BD?"
+          },
+          {
+            "stringId": "1864913049063075844",
+            "femaleVariant": "[Open cabinet] Was breaking in necessary?"
+          },
+          {
+            "stringId": "1864977188678610944",
+            "femaleVariant": "This man – he only takes! He never gives anything back!",
+            "maleVariant": "You don't know him well, do you? This man is a bastard!"
+          },
+          {
+            "stringId": "1883514965003653120",
+            "femaleVariant": "I know, prolly not hard to tell."
+          },
+          {
+            "stringId": "1883671019888889856",
+            "femaleVariant": "So whadda we need to do?"
+          },
+          {
+            "stringId": "1883672514403291136",
+            "femaleVariant": "Can't interrogate the guy 'cause he's a veg, but… we can view his dreams."
+          },
+          {
+            "stringId": "1883680623955857408",
+            "femaleVariant": "Sorry… dreams?",
+            "maleVariant": "I'm sorry… dreams?"
+          },
+          {
+            "stringId": "1883680765840773120",
+            "femaleVariant": "You heard me. C'mon, I'll explain on the way."
+          },
+          {
+            "stringId": "1883753693160722432",
+            "femaleVariant": "Seriously, River? You weren't in enough trouble already?"
+          },
+          {
+            "stringId": "1883778889603141632",
+            "femaleVariant": "\"Lawless\"?"
+          },
+          {
+            "stringId": "1883779644712079360",
+            "femaleVariant": "Dammit, Yawen! Who the fuck do you think you are?"
+          },
+          {
+            "stringId": "1883783963972784128",
+            "femaleVariant": "Gotta remember it. Ladies' room erupted in flame, they evacuated everybody for two hours…"
+          },
+          {
+            "stringId": "1883791661476925440",
+            "femaleVariant": "I never wish to see you here again!"
+          },
+          {
+            "stringId": "1883858199814918144",
+            "femaleVariant": "Any reason you haven't?"
+          },
+          {
+            "stringId": "1883858833960128516",
+            "femaleVariant": "Try now."
+          },
+          {
+            "stringId": "1883859388900102144",
+            "femaleVariant": "Any specific reason why?"
+          },
+          {
+            "stringId": "1883862843144327168",
+            "femaleVariant": "Because, unlike River, I went to med school and studied neuroscience."
+          },
+          {
+            "stringId": "1894874415004520448",
+            "femaleVariant": "A lab. To get the BDs of Peter Pan's dreams."
+          },
+          {
+            "stringId": "1894877089393414144",
+            "femaleVariant": "OK, got an appointment?"
+          },
+          {
+            "stringId": "1894877208176103424",
+            "femaleVariant": "Not exactly. We'll go in together, but uh…"
+          },
+          {
+            "stringId": "1894909330689495040",
+            "femaleVariant": "Should be labeled as Anthony Harris."
+          },
+          {
+            "stringId": "1894947414986592256",
+            "femaleVariant": "Just suspended, actually."
+          },
+          {
+            "stringId": "1894955960360898560",
+            "femaleVariant": "I'm sorry, really I am, but we store evidence here, and we have strict protocols."
+          },
+          {
+            "stringId": "1894957500442218500",
+            "femaleVariant": "Talkin' about saving a child's life, here."
+          },
+          {
+            "stringId": "1894959773285224448",
+            "femaleVariant": "\"Protocols\"? Talkin' about his nephew's life, here!"
+          },
+          {
+            "stringId": "1894959803601653760",
+            "femaleVariant": "Randy and the other boys… they're out there somewhere. Waitin' for help."
+          },
+          {
+            "stringId": "1894960504184639488",
+            "femaleVariant": "A child's life!"
+          },
+          {
+            "stringId": "1894961343213211648",
+            "femaleVariant": "This is an ongoing police investigation."
+          },
+          {
+            "stringId": "1894962134812594176",
+            "femaleVariant": "I need to do whatever I can to find them."
+          },
+          {
+            "stringId": "1894962770467753984",
+            "femaleVariant": "River, the police are investigating."
+          },
+          {
+            "stringId": "1894964067061338112",
+            "femaleVariant": "Go, please."
+          },
+          {
+            "stringId": "1894966039743172608",
+            "femaleVariant": "Get out now!"
+          },
+          {
+            "stringId": "1895370679434317824",
+            "femaleVariant": "Not through the main entrance."
+          },
+          {
+            "stringId": "1895372889647976448",
+            "femaleVariant": "We'll find a different way in and then hustle out quick."
+          },
+          {
+            "stringId": "1895377178508365824",
+            "femaleVariant": "Oh, we're gonna break the law?!",
+            "maleVariant": "Ah, we're gonna break the law?!"
+          },
+          {
+            "stringId": "1895381167392133120",
+            "femaleVariant": "Never actually been here, so I'll need your help."
+          },
+          {
+            "stringId": "1895422081988792320",
+            "femaleVariant": "Great. What now?"
+          },
+          {
+            "stringId": "1896371162655461380",
+            "femaleVariant": "How we gonna find this braindance?"
+          },
+          {
+            "stringId": "1896371162655461392",
+            "femaleVariant": "Look for a room where they edit the dreams of autistic kids."
+          },
+          {
+            "stringId": "1896371162655461408",
+            "femaleVariant": "Oh, and remember – Peter Pan's real name is Anthony Harris."
+          },
+          {
+            "stringId": "1896372059598983168",
+            "femaleVariant": "OK. Shouldn't be anyone inside. The lab's in the middle of an audit. So make all the noise you want."
+          },
+          {
+            "stringId": "1896400372560269312",
+            "femaleVariant": "They have an audit today – should be a ghost town. No need to be quiet."
+          },
+          {
+            "stringId": "1896593050564530176",
+            "femaleVariant": "Nothin' here. No sign of any BDs."
+          },
+          {
+            "stringId": "1896608396482678788",
+            "femaleVariant": "Right, nothin'."
+          },
+          {
+            "stringId": "1896656211732828164",
+            "femaleVariant": "Hmph. Locked, can't get in."
+          },
+          {
+            "stringId": "1896670895219380228",
+            "femaleVariant": "Got some kinda shard, but it's blank. Keep lookin'."
+          },
+          {
+            "stringId": "1904088086659174400",
+            "femaleVariant": "Found something?"
+          },
+          {
+            "stringId": "1904101395957518336",
+            "femaleVariant": "Not yet."
+          },
+          {
+            "stringId": "1904101891858468864",
+            "femaleVariant": "Anthony Harris."
+          },
+          {
+            "stringId": "1904102382759809024",
+            "femaleVariant": "Let's try these drawers."
+          },
+          {
+            "stringId": "1905171791985217536",
+            "femaleVariant": "Anthony Harris."
+          },
+          {
+            "stringId": "1905222733300469760",
+            "femaleVariant": "Kids with autism, you said?",
+            "maleVariant": "Kids with autism, you said."
+          },
+          {
+            "stringId": "1905223486597468160",
+            "femaleVariant": "Someone wants to be a cop when they grow up."
+          },
+          {
+            "stringId": "1905228721340518404",
+            "femaleVariant": "Tech's half-decent."
+          },
+          {
+            "stringId": "1905242175761780736",
+            "femaleVariant": "Bill Graham?"
+          },
+          {
+            "stringId": "1905242790327980036",
+            "femaleVariant": "All set to record…"
+          },
+          {
+            "stringId": "1906928719557582848",
+            "femaleVariant": "Needed someone to talk to."
+          },
+          {
+            "stringId": "1907056638179172352",
+            "femaleVariant": "First, take a look."
+          },
+          {
+            "stringId": "1907068594579595264",
+            "femaleVariant": "Mhm?",
+            "maleVariant": "Uh-huh?"
+          },
+          {
+            "stringId": "1907069315060359168",
+            "femaleVariant": "More municipal politics?"
+          },
+          {
+            "stringId": "1907069552676069376",
+            "femaleVariant": "More dead politicians?"
+          },
+          {
+            "stringId": "1907071111933747200",
+            "femaleVariant": "Just watch it."
+          },
+          {
+            "stringId": "1907143083640250368",
+            "femaleVariant": "Yeah, they got a research grant."
+          },
+          {
+            "stringId": "1907146960385105920",
+            "femaleVariant": "Hm, they got budget-savvy management."
+          },
+          {
+            "stringId": "1907148555713798144",
+            "femaleVariant": "Uh, no, Anthony Harris."
+          },
+          {
+            "stringId": "1907151219667263488",
+            "femaleVariant": "Sure know a lot…"
+          },
+          {
+            "stringId": "1907195604966596608",
+            "femaleVariant": "Feed 'em analysis, they'll shit out failure."
+          },
+          {
+            "stringId": "1907202706946678784",
+            "femaleVariant": "Especially you!"
+          },
+          {
+            "stringId": "1907271647782002688",
+            "femaleVariant": "But Harris is not a child. I have never tried the procedure on an adult."
+          },
+          {
+            "stringId": "1908571642275586048",
+            "femaleVariant": "And not by reading about it over someone's shoulder on the metro."
+          },
+          {
+            "stringId": "1915659434523070464",
+            "femaleVariant": "V! Not that way!"
+          },
+          {
+            "stringId": "1915666171984580608",
+            "femaleVariant": "Headed back to the lab. I'll wait for ya there."
+          },
+          {
+            "stringId": "1915671961130733572",
+            "femaleVariant": "I'm here."
+          },
+          {
+            "stringId": "1915675482081169408",
+            "femaleVariant": "OK, where were we?"
+          },
+          {
+            "stringId": "1915676050526801920",
+            "femaleVariant": "Be back later."
+          },
+          {
+            "stringId": "1915676574680584192",
+            "femaleVariant": "Be back later."
+          },
+          {
+            "stringId": "1915676927505436672",
+            "femaleVariant": "Let's move."
+          },
+          {
+            "stringId": "1915677248352915456",
+            "femaleVariant": "Hurry back, please. Randy's out there somewhere, needs our help."
+          },
+          {
+            "stringId": "1917155248739160068",
+            "femaleVariant": "Well, this is the place... Tick tick tick…"
+          },
+          {
+            "stringId": "1918442554137743364",
+            "femaleVariant": "A few of these rooms we probably don't have to bother with."
+          },
+          {
+            "stringId": "1918446667894329348",
+            "femaleVariant": "They definitely don't store any BDs in this area."
+          },
+          {
+            "stringId": "1926988076770529284",
+            "femaleVariant": "Where we goin'?"
+          },
+          {
+            "stringId": "1926988227681587200",
+            "femaleVariant": "Got access to these dreams?"
+          },
+          {
+            "stringId": "1926991575373713408",
+            "femaleVariant": "Got access to these dreams?",
+            "maleVariant": "Ya got access to these dreams?"
+          },
+          {
+            "stringId": "1926993469051637760",
+            "femaleVariant": "Not yet, but they keep them in the lab we're headed to now."
+          },
+          {
+            "stringId": "1927021119782653956",
+            "femaleVariant": "So? Looks like they caught him."
+          },
+          {
+            "stringId": "1927021451770204160",
+            "femaleVariant": "This Peter Pan a case of yours?"
+          },
+          {
+            "stringId": "1927027613689319424",
+            "femaleVariant": "This \"Peter Pan\" – he an old case, you were lookin' for 'im?",
+            "maleVariant": "This, uh, \"Peter Pan\" – he an old case, you were lookin' for 'im?"
+          },
+          {
+            "stringId": "1927028431310163968",
+            "femaleVariant": "Never heard of him. Didn't cross my desk."
+          },
+          {
+            "stringId": "1927037396584632320",
+            "femaleVariant": "Let's ride, V."
+          },
+          {
+            "stringId": "1927039098800967680",
+            "femaleVariant": "I know exactly where to start."
+          },
+          {
+            "stringId": "1927321209332174848",
+            "femaleVariant": "We find our entrance."
+          },
+          {
+            "stringId": "1943163756227551232",
+            "femaleVariant": "He isn't dreaming."
+          },
+          {
+            "stringId": "1943449005339664384",
+            "femaleVariant": "Say, River? Why not just have a janitor crack a door for ya?"
+          },
+          {
+            "stringId": "1943449445439594496",
+            "femaleVariant": "Can't risk gettin' scolded for sniffin' around somebody else's case."
+          },
+          {
+            "stringId": "1960749992517799940",
+            "femaleVariant": "Cops seem to like you. Could be this one's sniffin' around for somethin' extra?",
+            "maleVariant": "Cops seem to like you. Careful this one doesn't start sendin' you out for donuts."
+          },
+          {
+            "stringId": "1960749992719126528",
+            "femaleVariant": "River's all right."
+          },
+          {
+            "stringId": "1960749992719126544",
+            "femaleVariant": "Not your biz, Johnny."
+          },
+          {
+            "stringId": "1960749992769458180",
+            "femaleVariant": "Stay out of it, Johnny."
+          },
+          {
+            "stringId": "1960749992769458192",
+            "femaleVariant": "Oooh... Think someone actually wants to polish Mr. Policeman's badge.",
+            "maleVariant": "Wait, meanin' you're willin' to traipse along behind Mr. Policeman like a pup?"
+          },
+          {
+            "stringId": "1960749992769458208",
+            "femaleVariant": "Y'know, moments like these I truly mourn the fact I can't fuckin' sock you one."
+          },
+          {
+            "stringId": "1960749992769458220",
+            "femaleVariant": "Fine, not gonna pry. Truth is you coulda done worse than Detective \"Blue Moon\" Ward."
+          },
+          {
+            "stringId": "1960749992769458236",
+            "femaleVariant": "Already have. Got a brain parasite nibblin' away at my nerve endings as we speak."
+          },
+          {
+            "stringId": "1960749992819789824",
+            "femaleVariant": "Whaa? No, River's all right."
+          },
+          {
+            "stringId": "1960749992819789836",
+            "femaleVariant": "Mh, yeeeah.",
+            "maleVariant": "For a cop, ya mean."
+          },
+          {
+            "stringId": "1960749992819789852",
+            "femaleVariant": "Can tell ya got somethin' to say, so say it.",
+            "maleVariant": "Not every cop's a bastard, just like not every rockerboy's a narcissistic dickhead."
+          },
+          {
+            "stringId": "1960749992819789868",
+            "femaleVariant": "Me? No, no. Just maybe this cop's flyin' straight in your pants.",
+            "maleVariant": "Dunno, V... You ever actually met a rockerboy who didn't fit that description?"
+          },
+          {
+            "stringId": "1960749992819789884",
+            "femaleVariant": "Quite an observation on human behavior comin' from a fuckin' stack of data in my head…",
+            "maleVariant": "All in all… no."
+          },
+          {
+            "stringId": "1973737992545603584",
+            "femaleVariant": "Just trash."
+          },
+          {
+            "stringId": "1973737992696598532",
+            "femaleVariant": "Just some trash..."
+          },
+          {
+            "stringId": "1973737992746930176",
+            "femaleVariant": "Mini-cop…"
+          },
+          {
+            "stringId": "1973737992864370688",
+            "femaleVariant": "Kids with autism?"
+          },
+          {
+            "stringId": "1973737993099251712",
+            "femaleVariant": "Not bad as tech goes."
+          },
+          {
+            "stringId": "1973737993501904896",
+            "femaleVariant": "HR documents... better keep looking."
+          },
+          {
+            "stringId": "1977892990011543556",
+            "femaleVariant": "How'd you know about the audit?"
+          },
+          {
+            "stringId": "1977892990011543572",
+            "femaleVariant": "I did my homework."
+          },
+          {
+            "stringId": "2082320995738935312",
+            "femaleVariant": "What's she talking about?"
+          },
+          {
+            "stringId": "2082322521710616592",
+            "femaleVariant": "I wanna see for myself."
+          },
+          {
+            "stringId": "2147427031512485892",
+            "femaleVariant": "[Sit and wait] Looks like this is the place."
+          },
+          {
+            "stringId": "2172262201180524544",
+            "femaleVariant": "So we're headed to a lab to find Peter Pan's dreams. How's that for a fairytale?"
+          },
+          {
+            "stringId": "2250432853560745988",
+            "femaleVariant": "[Get up]"
+          },
+          {
+            "stringId": "2250524347453890564",
+            "femaleVariant": "[Get in]"
+          },
+          {
+            "stringId": "2251798746542858244",
+            "femaleVariant": "[Get out]"
+          },
+          {
+            "stringId": "2295326653819097088",
+            "femaleVariant": "Bill Graham?"
+          },
+          {
+            "stringId": "2302646415888715776",
+            "femaleVariant": "...10-38, I repeat a 10-38. Registration 2AA6244. We're exiting our vehicle now."
+          },
+          {
+            "stringId": "2302646955511091200",
+            "femaleVariant": "Copy that."
+          },
+          {
+            "stringId": "2302647131302760448",
+            "femaleVariant": "Out of the car! Hands up!"
+          },
+          {
+            "stringId": "2302647348483821568",
+            "femaleVariant": "Easy, officer. Relax..."
+          },
+          {
+            "stringId": "2302647589287202816",
+            "femaleVariant": "Shut your mouth!"
+          },
+          {
+            "stringId": "2302647765364084736",
+            "femaleVariant": "Oh shit..."
+          },
+          {
+            "stringId": "2302647979323920384",
+            "femaleVariant": "Uh... We have a 10-53 and a 10-54, I repeat a 10-53 and a 10-54..."
+          },
+          {
+            "stringId": "2452154043567411200",
+            "femaleVariant": "Documents from the audits..."
+          },
+          {
+            "stringId": "2452156043579330560",
+            "femaleVariant": "Receipts and invoices..."
+          },
+          {
+            "stringId": "2452159267187167232",
+            "femaleVariant": "Medical records... Think I found it!"
+          },
+          {
+            "stringId": "2456389486592004096",
+            "femaleVariant": "Just some science articles..."
+          },
+          {
+            "stringId": "2461841439711170560",
+            "femaleVariant": "All set to record..."
+          }
+        ]
+      }
+
+
+

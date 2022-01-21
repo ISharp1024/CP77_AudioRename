@@ -1,0 +1,596 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1177494386146975744",
+            "maleVariant": "Hey there."
+          },
+          {
+            "stringId": "1177533483452375040",
+            "maleVariant": "Whoa. You hear that?"
+          },
+          {
+            "stringId": "1252860399381815296",
+            "maleVariant": "Mmm, nothin' like a good, hot shower."
+          },
+          {
+            "stringId": "1316819088611864576",
+            "maleVariant": "Would make a sick sample. Prrah-pah, prrah-pah! Hah, cool…"
+          },
+          {
+            "stringId": "1316819856521818112",
+            "maleVariant": "I bet."
+          },
+          {
+            "stringId": "1316821737079959552",
+            "maleVariant": "Gimme a fuckin' break."
+          },
+          {
+            "stringId": "1316822502171340800",
+            "femaleVariant": "Could've been important."
+          },
+          {
+            "stringId": "1316822791846752256",
+            "femaleVariant": "That an ex?"
+          },
+          {
+            "stringId": "1316823597136343040",
+            "maleVariant": "Could've been important."
+          },
+          {
+            "stringId": "1316823717932298256",
+            "maleVariant": "Keepin' track of your exes?"
+          },
+          {
+            "stringId": "1316824169793056768",
+            "maleVariant": "If it truly was, he'll find some way to find me ."
+          },
+          {
+            "stringId": "1316828875030392832",
+            "maleVariant": "Ahhh, new manager. Just as lame as the last one."
+          },
+          {
+            "stringId": "1316830823771140096",
+            "maleVariant": "A propos of nothing, uh… think our relationship might've taught me something."
+          },
+          {
+            "stringId": "1316831952626118656",
+            "maleVariant": "Really? What?"
+          },
+          {
+            "stringId": "1316832020825501696",
+            "maleVariant": "Ahhh, that sometimes you just gotta say \"Fuck it\" to the past."
+          },
+          {
+            "stringId": "1316834078903365632",
+            "femaleVariant": "Agonizing about the future's a waste of time, too."
+          },
+          {
+            "stringId": "1316834368260009984",
+            "femaleVariant": "True, that."
+          },
+          {
+            "stringId": "1316834659076272144",
+            "maleVariant": "Rather focus on some murky idea of the future? Just as bad, I'm afraid."
+          },
+          {
+            "stringId": "1316834742979129344",
+            "maleVariant": "Damn straight. Past's best left where it is. And the future's worthy of very cautious consideration."
+          },
+          {
+            "stringId": "1316835078255013888",
+            "maleVariant": "No, hear me out. So many years, I always found someone to blame for everything that went wrong."
+          },
+          {
+            "stringId": "1316836317269192704",
+            "maleVariant": "Mhmmm..."
+          },
+          {
+            "stringId": "1316836381022613504",
+            "maleVariant": "But the more I struggled to get out of that shit, deeper I sunk into it. Know what I mean?"
+          },
+          {
+            "stringId": "1316837583982555136",
+            "maleVariant": "So what now?"
+          },
+          {
+            "stringId": "1316837991366914048",
+            "maleVariant": "Eh, cut a new album, then finally play the Crystal Palace, maybe one of the casinos up there."
+          },
+          {
+            "stringId": "1316838561825812480",
+            "maleVariant": "Dunno how many of those rich, self-obsessed assholes'll come an' listen, but I'll make damn sure they'll hear me."
+          },
+          {
+            "stringId": "1316839426439639040",
+            "maleVariant": "I owe Johnny anything at all, I owe him that."
+          },
+          {
+            "stringId": "1316847847612215296",
+            "maleVariant": "Mhm... Wasted so much time, runnin' like a hamster on a wheel. Not sure what I was even after."
+          },
+          {
+            "stringId": "1316853945694023680",
+            "maleVariant": "And you – be careful."
+          },
+          {
+            "stringId": "1316854948854099968",
+            "maleVariant": "I'll try."
+          },
+          {
+            "stringId": "1316855066294611968",
+            "maleVariant": "So, see you? Soon?"
+          },
+          {
+            "stringId": "1490834190305456128",
+            "maleVariant": "Ugh, gotta listen to those new demos."
+          },
+          {
+            "stringId": "1490834803965685760",
+            "maleVariant": "S'posed to let the producer know yesterday, but you know how it is…"
+          },
+          {
+            "stringId": "1490835436768718848",
+            "maleVariant": "Uh-huh…"
+          },
+          {
+            "stringId": "1490835588334088192",
+            "maleVariant": "Hey… you OK? Seem a little out of it – today and yesterday."
+          },
+          {
+            "stringId": "1490837026477043712",
+            "femaleVariant": "Don't worry about me. I'll be fine."
+          },
+          {
+            "stringId": "1490837288386162688",
+            "femaleVariant": "Not feeling well. Gets worse every day."
+          },
+          {
+            "stringId": "1490837552107220992",
+            "femaleVariant": "Just noticed yesterday?"
+          },
+          {
+            "stringId": "1490839706519859200",
+            "maleVariant": "Everything's fine. Will be fine. Don't worry."
+          },
+          {
+            "stringId": "1490841818502918144",
+            "maleVariant": "Cause, you know... you need anything, I'm here. Wanna talk about Mikoshi, you, whatever."
+          },
+          {
+            "stringId": "1490842541282160640",
+            "maleVariant": "I'm a master at cuddling, too – got a black belt, multiple disciplines."
+          },
+          {
+            "stringId": "1490842956384038912",
+            "maleVariant": "Good to know."
+          },
+          {
+            "stringId": "1490846312649322496",
+            "maleVariant": "Not feelin' great."
+          },
+          {
+            "stringId": "1490846804389523456",
+            "maleVariant": "Heeey, had no idea... Coulda said something, y'know, if I overdid it with the booze last night."
+          },
+          {
+            "stringId": "1490847833722056704",
+            "maleVariant": "Not about that."
+          },
+          {
+            "stringId": "1490848236962443264",
+            "maleVariant": "So it's fuckin' Mikoshi again? Shit, V... never gonna get what went down there."
+          },
+          {
+            "stringId": "1490848839147057152",
+            "maleVariant": "Wonder if we can see the Crystal Palace. Also wonderin' why the hell I haven't I played a gig there yet."
+          },
+          {
+            "stringId": "1490850965155868672",
+            "maleVariant": "Goin' outside."
+          },
+          {
+            "stringId": "1490853562604449792",
+            "maleVariant": "Wow, just noticed yesterday? Bravo, well done."
+          },
+          {
+            "stringId": "1490854128936153088",
+            "maleVariant": "Hey! Don't take it out on me just because you're…"
+          },
+          {
+            "stringId": "1490854579739947008",
+            "maleVariant": "Exactly, Kerry. What? Afraid to say it?"
+          },
+          {
+            "stringId": "1490854817305325568",
+            "maleVariant": "Y'know who you remind me of sometimes? Do you?"
+          },
+          {
+            "stringId": "1490858522436038656",
+            "maleVariant": "Stop."
+          },
+          {
+            "stringId": "1490858741093494784",
+            "maleVariant": "Johnny! You're just as stubborn and just as fuckin' hard to stand."
+          },
+          {
+            "stringId": "1490860710268891136",
+            "femaleVariant": "Got no idea what you're talking about.",
+            "maleVariant": "You got no idea what you're talkin' about."
+          },
+          {
+            "stringId": "1490861072203771904",
+            "femaleVariant": "I don't wanna argue."
+          },
+          {
+            "stringId": "1490863575314067456",
+            "maleVariant": "You're talkin' outta your ass."
+          },
+          {
+            "stringId": "1490865173058678784",
+            "maleVariant": "Let's change the subject before you say something you'll regret."
+          },
+          {
+            "stringId": "1490865276272111616",
+            "maleVariant": "Ah, so it's all my fault. Sure."
+          },
+          {
+            "stringId": "1490867688164683776",
+            "maleVariant": "Rather not fight."
+          },
+          {
+            "stringId": "1490867997536546816",
+            "maleVariant": "Who's fighting?"
+          },
+          {
+            "stringId": "1490868157708627968",
+            "maleVariant": "Kerry, I can't. Don't have the strength or the time."
+          },
+          {
+            "stringId": "1490869023765295104",
+            "maleVariant": "OK. I understand, I guess."
+          },
+          {
+            "stringId": "1490887405705228288",
+            "maleVariant": "Mhm. While struggling to kick Johnny out of your life, you couldn't see there was no need to…"
+          },
+          {
+            "stringId": "1490897339964583936",
+            "femaleVariant": "What now?"
+          },
+          {
+            "stringId": "1490897644890484736",
+            "femaleVariant": "Think about him often?"
+          },
+          {
+            "stringId": "1490910391850102784",
+            "maleVariant": "Think about him often?"
+          },
+          {
+            "stringId": "1490910720800976896",
+            "maleVariant": "I guess."
+          },
+          {
+            "stringId": "1490912386526867456",
+            "maleVariant": "Used to feel resentment... sometimes something like longing... but most of the time I was just plain pissed off. Lately, though, it's been... nothing."
+          },
+          {
+            "stringId": "1490914551257493504",
+            "maleVariant": "Miss him?"
+          },
+          {
+            "stringId": "1490914924416331776",
+            "maleVariant": "Not really, not anymore. It's good, actually – feels like I suddenly have a... a new space to fill."
+          },
+          {
+            "stringId": "1490915948564705280",
+            "maleVariant": "Think I know the feelin'."
+          },
+          {
+            "stringId": "1708453217933316100",
+            "femaleVariant": "[Make coffee]"
+          },
+          {
+            "stringId": "1708454553835917316",
+            "femaleVariant": "[Drink coffee]"
+          },
+          {
+            "stringId": "1792090361995849728",
+            "maleVariant": "It'll pass. Takin' those new pills?"
+          },
+          {
+            "stringId": "1792090449270927360",
+            "maleVariant": "Mh. Gets worse every day."
+          },
+          {
+            "stringId": "1792107872845950976",
+            "maleVariant": "Mhm..."
+          },
+          {
+            "stringId": "1792108109975121920",
+            "maleVariant": "Speaking of debts… I hope you know you got nothing left to prove. To anyone."
+          },
+          {
+            "stringId": "1792109394036125696",
+            "maleVariant": "I mean... shit, maybe it's time you said enough's enough?"
+          },
+          {
+            "stringId": "1792110799832608772",
+            "femaleVariant": "It's not enough. I don't know any other way."
+          },
+          {
+            "stringId": "1792255553065054208",
+            "femaleVariant": "Easy for you to say. You're not dying."
+          },
+          {
+            "stringId": "1792256646268448768",
+            "femaleVariant": "Can't believe my ears. You're worried about me?",
+            "maleVariant": "Can't believe my ears. You worried about me?"
+          },
+          {
+            "stringId": "1792269424400134144",
+            "maleVariant": "With someone I care about."
+          },
+          {
+            "stringId": "1792287708394680320",
+            "maleVariant": "But it's not enough. Don't know any other life."
+          },
+          {
+            "stringId": "1792290272037171200",
+            "maleVariant": "You're top-fuckin-dog at the Afterlife. Showed this city who's boss. Still not satisfied?"
+          },
+          {
+            "stringId": "1792291605909729280",
+            "maleVariant": "Look who's talkin', Ker. The guy who sacrificed his ideals so he could bask longer in the limelight?"
+          },
+          {
+            "stringId": "1792292633598095360",
+            "maleVariant": "One, those ideals were never mine, and you know it. Two, fuck you."
+          },
+          {
+            "stringId": "1792293831373877248",
+            "maleVariant": "I gotta do this job, Kerry. After all that's happened... don't see any other way."
+          },
+          {
+            "stringId": "1792299710479462400",
+            "maleVariant": "Says the guy who's not dying."
+          },
+          {
+            "stringId": "1792300323149836288",
+            "maleVariant": "Can't believe you just said that."
+          },
+          {
+            "stringId": "1792300823647744000",
+            "maleVariant": "Said it 'cause it's the truth. Maybe you could finally stop pretending it's not."
+          },
+          {
+            "stringId": "1792301323508117504",
+            "maleVariant": "You think I don't know? I know your... our time's running out."
+          },
+          {
+            "stringId": "1792302618994405376",
+            "maleVariant": "But I'm here for you. Was there before, will be tomorrow, and when the time comes."
+          },
+          {
+            "stringId": "1792303743218872320",
+            "maleVariant": "I know. I know."
+          },
+          {
+            "stringId": "1792306404353765380",
+            "femaleVariant": "Don't wanna lose you, either."
+          },
+          {
+            "stringId": "1792307617782689792",
+            "maleVariant": "Fuck, V... I just don't want to lose you. There, said it."
+          },
+          {
+            "stringId": "1792310581461118976",
+            "maleVariant": "I don't wanna lose you."
+          },
+          {
+            "stringId": "1792311826615758848",
+            "femaleVariant": "We both know how this ends."
+          },
+          {
+            "stringId": "1792393619721285632",
+            "maleVariant": "Wow. I'll have to remember this moment."
+          },
+          {
+            "stringId": "1792394761880596480",
+            "maleVariant": "Fuck are you talkin' about?"
+          },
+          {
+            "stringId": "1792394889404215296",
+            "maleVariant": "Kerry Eurodyne's worried about me."
+          },
+          {
+            "stringId": "1792395984889311232",
+            "maleVariant": "Kerry Eurodyne's just afraid you're losing your damn mind. And…"
+          },
+          {
+            "stringId": "1792404881461080064",
+            "maleVariant": "We still have some time left."
+          },
+          {
+            "stringId": "1792406104050364416",
+            "maleVariant": "Better come back in one piece. Or I will kick your ass. Seriously."
+          },
+          {
+            "stringId": "1792407878811381760",
+            "maleVariant": "I will. I promise."
+          },
+          {
+            "stringId": "1792408120151633920",
+            "maleVariant": "Good."
+          },
+          {
+            "stringId": "1792409356414349312",
+            "maleVariant": "We both know how this ends, Ker. Sorry. Didn't plan it this way."
+          },
+          {
+            "stringId": "1792410173598986240",
+            "maleVariant": "Remember our date? On the roof, after the concert?"
+          },
+          {
+            "stringId": "1792411340169146368",
+            "maleVariant": "Mhm."
+          },
+          {
+            "stringId": "1792411609560903680",
+            "maleVariant": "Back then, thought the only thing that mattered was me and the city."
+          },
+          {
+            "stringId": "1792412078903521280",
+            "maleVariant": "Don't tell me that's changed."
+          },
+          {
+            "stringId": "1792412258621059072",
+            "maleVariant": "No, no, and let's not get ahead of ourselves. But..."
+          },
+          {
+            "stringId": "1792413237370286080",
+            "maleVariant": "Exactly why I've gotta do this last job. Understand now?"
+          },
+          {
+            "stringId": "1792413920689516544",
+            "maleVariant": "This city won't be the same without you. Least not for me."
+          },
+          {
+            "stringId": "1792416786472890368",
+            "maleVariant": "I think so. But you gotta come back. I'm not done with you – not just yet."
+          },
+          {
+            "stringId": "1792420149247733760",
+            "maleVariant": "Take care of yourself."
+          },
+          {
+            "stringId": "1792420538428813312",
+            "maleVariant": "This is what you do when you don't wanna talk."
+          },
+          {
+            "stringId": "1792423023721705472",
+            "maleVariant": "But OK – you've been saved by the Del. This time."
+          },
+          {
+            "stringId": "1872155769232281600",
+            "femaleVariant": "[Take shower]"
+          },
+          {
+            "stringId": "1872156345210884096",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1872156345244438528",
+            "femaleVariant": "[Kiss] Rise and shine."
+          },
+          {
+            "stringId": "1873250571879313412",
+            "femaleVariant": "[Hug] Take care of yourself.",
+            "maleVariant": "[Hug] Take care."
+          },
+          {
+            "stringId": "1873252330299322368",
+            "maleVariant": "Ride's here."
+          },
+          {
+            "stringId": "1873253522001752064",
+            "femaleVariant": "[Step away] I gotta go."
+          },
+          {
+            "stringId": "1873272679200059396",
+            "maleVariant": "Heh. You gotta go, I know. On my way out, too. Got people waitin' at the studio."
+          },
+          {
+            "stringId": "1873272679216836624",
+            "maleVariant": "My head hurts, I'm ridin' half a high, feel like rippin' someone a new one – might actually be a decent session."
+          },
+          {
+            "stringId": "1873272986055340032",
+            "maleVariant": "Gotta DELta – get it?"
+          },
+          {
+            "stringId": "1873275436451622912",
+            "maleVariant": "I'm out. They're all waiting at the Afterlife."
+          },
+          {
+            "stringId": "1926912778227773444",
+            "femaleVariant": "[Turn]"
+          },
+          {
+            "stringId": "1926953308106092544",
+            "femaleVariant": "[Wash off blood] Mhmmm..."
+          },
+          {
+            "stringId": "1927156767048691712",
+            "femaleVariant": "[Lean]"
+          },
+          {
+            "stringId": "2008265613816492032",
+            "maleVariant": "Rise and shine."
+          },
+          {
+            "stringId": "2008267526721105920",
+            "maleVariant": "Mhmmm."
+          },
+          {
+            "stringId": "2008268081409421312",
+            "maleVariant": "Wait, I'm gettin' up."
+          },
+          {
+            "stringId": "2008268726694703104",
+            "maleVariant": "Fuck..."
+          },
+          {
+            "stringId": "2008269350421262336",
+            "maleVariant": "Mhmmm..."
+          },
+          {
+            "stringId": "2008275712442232832",
+            "maleVariant": "Sure you got rid of him back in Mikoshi?"
+          },
+          {
+            "stringId": "2008276967981969408",
+            "maleVariant": "I know."
+          },
+          {
+            "stringId": "2008280322737303552",
+            "maleVariant": "Usually Johnny. I mean, we've talked about this."
+          },
+          {
+            "stringId": "2237243144670474240",
+            "femaleVariant": "[pl_pl]Zmykaj, czekają na ciebie.",
+            "maleVariant": "Go. You're expected elsewhere."
+          },
+          {
+            "stringId": "2237243919526195200",
+            "femaleVariant": "[pl_pl]Leć. I uważaj na siebie.",
+            "maleVariant": "C'mon, blow, already. And stay safe."
+          },
+          {
+            "stringId": "2237269870607790080",
+            "femaleVariant": "[pl_pl]No heeej. Jak tam, rześki i rozbudzony?",
+            "maleVariant": "Heeey. How's things? Feelin' rested, chipper?"
+          },
+          {
+            "stringId": "2405519763042988032",
+            "femaleVariant": "[Take amulet]"
+          }
+        ]
+      }
+
+
+

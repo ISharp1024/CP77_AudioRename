@@ -1,0 +1,213 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1377827955214741504",
+            "femaleVariant": "All right, I'm in position. I have you in range."
+          },
+          {
+            "stringId": "1379079039073742848",
+            "femaleVariant": "The sniper is no longer a problem. Keep moving."
+          },
+          {
+            "stringId": "1379079405941125120",
+            "femaleVariant": "Careful. There's a sniper perched in the tower."
+          },
+          {
+            "stringId": "1379081011487141888",
+            "femaleVariant": "Dammit! Stay out of sight!"
+          },
+          {
+            "stringId": "1379082628760432640",
+            "femaleVariant": "Keep your eyes peeled. I see several heavy hitters."
+          },
+          {
+            "stringId": "1379089110302289920",
+            "femaleVariant": "OK, you're near the main structure. That has to be where they're holding Saul."
+          },
+          {
+            "stringId": "1379093199731912704",
+            "femaleVariant": "OK, main building. Watch for vermin."
+          },
+          {
+            "stringId": "1407094878147461120",
+            "femaleVariant": "Ugh... Panam... Got a girl here... Dead.",
+            "maleVariant": "Oh, Panam... Got a girl here... Dead."
+          },
+          {
+            "stringId": "1654764979742466048",
+            "femaleVariant": "Any progress? Is he singing yet?"
+          },
+          {
+            "stringId": "1654775247717425152",
+            "femaleVariant": "Rottin' in the basement a while longer oughta loosen his pipes."
+          },
+          {
+            "stringId": "1654777313177264128",
+            "femaleVariant": "'Ey? Shouldn't you be downstairs?"
+          },
+          {
+            "stringId": "1654777313177264136",
+            "femaleVariant": "I was. I had to feed the mangy mutt."
+          },
+          {
+            "stringId": "1703932123931369472",
+            "femaleVariant": "I wanna see him up close."
+          },
+          {
+            "stringId": "1773537724010213376",
+            "femaleVariant": "Panam! Found Saul, I think. Locked in the cellar.",
+            "maleVariant": "Panam! I found Saul, I think. Locked in the cellar."
+          },
+          {
+            "stringId": "1773539395843010560",
+            "femaleVariant": "How is he?"
+          },
+          {
+            "stringId": "1773565971120926720",
+            "femaleVariant": "Saul is somewhere inside. I feel it in my bones."
+          },
+          {
+            "stringId": "1773583831759204352",
+            "femaleVariant": "Made it to the cellar. If they're holdin' him anywhere, it's here."
+          },
+          {
+            "stringId": "1773599331054661632",
+            "femaleVariant": "On our way out now!"
+          },
+          {
+            "stringId": "1773599886531506176",
+            "femaleVariant": "I'm firing up the engine! I'll be right there!"
+          },
+          {
+            "stringId": "1774967851902447616",
+            "femaleVariant": "Think I found a sneaky way to slip in…"
+          },
+          {
+            "stringId": "1774968548458901504",
+            "femaleVariant": "Perfect. These brutes will never be the wiser."
+          },
+          {
+            "stringId": "1775016863938523136",
+            "femaleVariant": "Dammit, V! So much for being sly!"
+          },
+          {
+            "stringId": "1775227473951338496",
+            "femaleVariant": "Knowing them, they have something important in there. You might even gain access to the security system."
+          },
+          {
+            "stringId": "1775231005370757120",
+            "femaleVariant": "Keep your head down and plow straight ahead!"
+          },
+          {
+            "stringId": "1775241719015682048",
+            "femaleVariant": "From there, you can access a footbridge leading to the main structure."
+          },
+          {
+            "stringId": "1885429548349272064",
+            "femaleVariant": "Dammit!"
+          },
+          {
+            "stringId": "1895242946348654592",
+            "femaleVariant": "Disemboweled… and not just for her chrome, I don't think."
+          },
+          {
+            "stringId": "1895244125602390016",
+            "femaleVariant": "Fucking Raffens! Soulless filth! There's no line they won't cross, none!"
+          },
+          {
+            "stringId": "1895245558426968064",
+            "femaleVariant": "Keep looking, V. Maybe... just maybe we're not too late."
+          },
+          {
+            "stringId": "1895249184285335552",
+            "femaleVariant": "Find Saul and you two get out of there!"
+          },
+          {
+            "stringId": "1895250702573051904",
+            "femaleVariant": "Pulled off his gag and you know what the bastard did? Nearly bit off my fingers!"
+          },
+          {
+            "stringId": "1895251335006986240",
+            "femaleVariant": "He still have his teeth? You know, he doesn't really need those to talk."
+          },
+          {
+            "stringId": "1895252201399197696",
+            "femaleVariant": "Huh... Yeah, I'll have to remember that next time."
+          },
+          {
+            "stringId": "1895252467552952320",
+            "femaleVariant": "Now that you mention it, he doesn't need his eyes, either."
+          },
+          {
+            "stringId": "1895255379926654976",
+            "femaleVariant": "Fuckin' hell, sure hope so'... It's takin' too long."
+          },
+          {
+            "stringId": "1895264709233156096",
+            "femaleVariant": "A good way to get to the garage."
+          },
+          {
+            "stringId": "1895267507018473472",
+            "femaleVariant": "That should be their garage. It's heavily guarded."
+          },
+          {
+            "stringId": "1895274609636089856",
+            "femaleVariant": "Remember what I told you. Find the control room and you'll gain access to the security cams."
+          },
+          {
+            "stringId": "1895282668169142272",
+            "femaleVariant": "Just wait. Nothing to see just yet."
+          },
+          {
+            "stringId": "1895300485857746944",
+            "femaleVariant": "Nah, it's hard to say. Too dark.",
+            "maleVariant": "Pff, it's hard to say. Too dark."
+          },
+          {
+            "stringId": "1895300899516784640",
+            "femaleVariant": "OK, get down there and get him. Maybe we made it in time."
+          },
+          {
+            "stringId": "1895302550176735232",
+            "femaleVariant": "Wait'll they give 'im a taste of the torch, try to melt him down."
+          },
+          {
+            "stringId": "1903982524749078528",
+            "femaleVariant": "Dammit, dammit, dammit!"
+          },
+          {
+            "stringId": "1903982789963309056",
+            "femaleVariant": "Fuck, let's finish this! Do your thing!"
+          },
+          {
+            "stringId": "1952023019494977536",
+            "femaleVariant": "Been here before, y'know."
+          },
+          {
+            "stringId": "1952026229798481920",
+            "femaleVariant": "Good. You survived once, so let's go for two."
+          },
+          {
+            "stringId": "2270597312378413056",
+            "femaleVariant": "Ugh, found something…"
+          }
+        ]
+      }
+
+
+

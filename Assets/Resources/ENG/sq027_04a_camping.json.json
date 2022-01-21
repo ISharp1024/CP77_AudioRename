@@ -1,0 +1,270 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1757958994757701636",
+            "femaleVariant": "[Sit] Hurry up and wait."
+          },
+          {
+            "stringId": "1757961219349434368",
+            "femaleVariant": "Hurry up and wait, then."
+          },
+          {
+            "stringId": "1785579829227966468",
+            "femaleVariant": "You're acting spooked, as if you're the first person ever to stand up to Saul."
+          },
+          {
+            "stringId": "1785579829227966476",
+            "femaleVariant": "Oh, save your breath, I don't need to be consoled."
+          },
+          {
+            "stringId": "1785579829227966484",
+            "femaleVariant": "Grr, was it someone I know?"
+          },
+          {
+            "stringId": "1785579829227966492",
+            "femaleVariant": "Knew. Scorpion."
+          },
+          {
+            "stringId": "1785579829227966500",
+            "femaleVariant": "He came home from the war, head full of new ideas and a host of new contacts…"
+          },
+          {
+            "stringId": "1785579829244743680",
+            "femaleVariant": "He tried to get Saul to lead us in joining Snake Nation. It would make us stronger, he said."
+          },
+          {
+            "stringId": "1805482396761788416",
+            "femaleVariant": "[Sit] Worried about Saul?"
+          },
+          {
+            "stringId": "1805483051593306112",
+            "femaleVariant": "You worried about Saul?"
+          },
+          {
+            "stringId": "1805488371883380736",
+            "femaleVariant": "I don't think he peeped a word of it to me. What did Saul do?"
+          },
+          {
+            "stringId": "1805488943650902016",
+            "femaleVariant": "Saul dressed the guy down head to toe for messing with the family. Hell, he didn't send him on any jobs for a year."
+          },
+          {
+            "stringId": "1805489713255354368",
+            "femaleVariant": "Gee, really consoling, thanks."
+          },
+          {
+            "stringId": "1805490081951453184",
+            "femaleVariant": "You said yourself you didn't need any."
+          },
+          {
+            "stringId": "1805498382646841344",
+            "femaleVariant": "[Drink] Let's drink. To Scorpion."
+          },
+          {
+            "stringId": "1805498795500572672",
+            "femaleVariant": "Snake Nation? Saul was right."
+          },
+          {
+            "stringId": "1805499234258325504",
+            "femaleVariant": "Don't talk about the war much."
+          },
+          {
+            "stringId": "1805501050257739780",
+            "femaleVariant": "Think I'll try and get some shut-eye."
+          },
+          {
+            "stringId": "1805503685874487296",
+            "femaleVariant": "Oughta raise a glass to Scorpion."
+          },
+          {
+            "stringId": "1805504575603806208",
+            "femaleVariant": "Saul was right about Snake Nation."
+          },
+          {
+            "stringId": "1805505087845765120",
+            "femaleVariant": "Don't talk about the war much."
+          },
+          {
+            "stringId": "1805508909091590148",
+            "femaleVariant": "Gonna try and get some sleep."
+          },
+          {
+            "stringId": "1805514716877230080",
+            "femaleVariant": "OK. It'll be quite some time before the convoy comes through."
+          },
+          {
+            "stringId": "1806703285541081088",
+            "femaleVariant": "To Scorpion."
+          },
+          {
+            "stringId": "1806706739147771904",
+            "femaleVariant": "What's there to say? They just packed you into a panzer down in Mexico and said full speed ahead, soldier."
+          },
+          {
+            "stringId": "1806707030534459392",
+            "femaleVariant": "Then it was weeks talking either to yourself or the onboard AI, drinking iodide like water because your Geiger wouldn't shut up."
+          },
+          {
+            "stringId": "1806719414619672576",
+            "femaleVariant": "Mmhmm. I'm sprouting a rash on my ass just thinking about sitting in that boiling hot coffin."
+          },
+          {
+            "stringId": "1806720900024045568",
+            "femaleVariant": "Uh-huh. But you all can't wait to pack your asses into the Basilisk, huh?"
+          },
+          {
+            "stringId": "1806721809030385664",
+            "femaleVariant": "That's different."
+          },
+          {
+            "stringId": "1806721954287521792",
+            "femaleVariant": "Completely different. You'll see once you're on board."
+          },
+          {
+            "stringId": "1806736160344838144",
+            "femaleVariant": "You should remain independent. Otherwise, could end up like…",
+            "maleVariant": "You should remain independent. Otherwise, you could end up like…"
+          },
+          {
+            "stringId": "1806737201320759296",
+            "femaleVariant": "Like the Bakkers?"
+          },
+          {
+            "stringId": "1806744496205271040",
+            "femaleVariant": "Mhm.",
+            "maleVariant": "Heh."
+          },
+          {
+            "stringId": "1806744783162773504",
+            "femaleVariant": "We'll manage just fine on our own. All we need is a few good jobs."
+          },
+          {
+            "stringId": "1806747641899716608",
+            "femaleVariant": "And that's why we're here today."
+          },
+          {
+            "stringId": "1806748277437435904",
+            "femaleVariant": "Scorpion would be proud."
+          },
+          {
+            "stringId": "1806749266856972288",
+            "femaleVariant": "To get people talking about the Aldecaldos again."
+          },
+          {
+            "stringId": "1806982561679085568",
+            "femaleVariant": "And to Jackie."
+          },
+          {
+            "stringId": "1873467562821177348",
+            "femaleVariant": "[Scooch closer] Gotten kinda cold."
+          },
+          {
+            "stringId": "1873468065030361088",
+            "femaleVariant": "Grown kinda cold out here."
+          },
+          {
+            "stringId": "1873468440554786816",
+            "femaleVariant": "Can tell you won't be getting any sleep."
+          },
+          {
+            "stringId": "1873468870303174656",
+            "femaleVariant": "Mad at me?"
+          },
+          {
+            "stringId": "1873583158342733824",
+            "femaleVariant": "Wake me up if anything happens."
+          },
+          {
+            "stringId": "1873585510340644864",
+            "femaleVariant": "Couldn't sleep if you tried, could you?"
+          },
+          {
+            "stringId": "1873585955205304320",
+            "femaleVariant": "Mad at me for somethin'?",
+            "maleVariant": "You mad at me for somethin'?"
+          },
+          {
+            "stringId": "1873586272076582912",
+            "femaleVariant": "I'll just lie here a while, by your side, gazing at the stars."
+          },
+          {
+            "stringId": "1873597920682201088",
+            "femaleVariant": "Anything happens, wake me up. Unless you wanna nap, too."
+          },
+          {
+            "stringId": "1873602703480606720",
+            "femaleVariant": "Not true. But this is nice."
+          },
+          {
+            "stringId": "1873609883172753408",
+            "femaleVariant": "Catch some shut-eye with me?"
+          },
+          {
+            "stringId": "1873652948373622784",
+            "femaleVariant": "That another area of your expertise? Got maps of the heavens in your library, too?"
+          },
+          {
+            "stringId": "1873657120682692608",
+            "femaleVariant": "Of course. That's the Big Dipper. And do you see the small flickering star to the right?"
+          },
+          {
+            "stringId": "1873657765196222464",
+            "femaleVariant": "Goodnight, V."
+          },
+          {
+            "stringId": "1873662270331703296",
+            "femaleVariant": "What? No, come on."
+          },
+          {
+            "stringId": "1873665480870088704",
+            "femaleVariant": "Not gonna nap?"
+          },
+          {
+            "stringId": "1873668483823980544",
+            "femaleVariant": "You do? Oh dear, that means Ursa Major leak!"
+          },
+          {
+            "stringId": "1873669289415561216",
+            "femaleVariant": "Yeeaah...?",
+            "maleVariant": "Uh, yeeaah...?"
+          },
+          {
+            "stringId": "2208601324284833796",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "2228821801554231296",
+            "femaleVariant": "The stars have emerged. We've but a few hours till dawn."
+          },
+          {
+            "stringId": "2228830442961321984",
+            "femaleVariant": "We've quite some time left till dusk."
+          },
+          {
+            "stringId": "2228834546517360640",
+            "femaleVariant": "Hm, the car could use another once-over."
+          },
+          {
+            "stringId": "2228942036328333312",
+            "femaleVariant": "V? Did you just doze off?"
+          }
+        ]
+      }
+
+
+

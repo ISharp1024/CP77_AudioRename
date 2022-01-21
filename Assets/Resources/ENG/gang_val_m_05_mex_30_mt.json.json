@@ -1,0 +1,302 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1805496788361797636",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Por favor, perra, a ti ni pienso darte la mano.\" t=\"Bitch, I ain't shakin' hands with you.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"Perro, a ti ni pienso darte la mano.\" t=\"Bitch, I ain't shakin' hands with you.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788378574852",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Estamos juntos en una celda, ¿cuánto vas a que va a agarrar la cama de arriba?\" t=\"We ever in a cell together, you sure as hell would be taking the top bunk, huh?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788412129284",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Ey! ¡Lárgate mucho a la chingada de aquí, mamona!\" t=\"Ey! Get the fuck outta here, cocksucker!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Ey! ¡Lárgate mucho a la chingada de aquí, mamón!\" t=\"'Ey! Get the fuck outta here, cocksucker!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788445683716",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡A ver si tienes huevos! ¡Ahorita mismo!\" t=\"Back it up! Fuckin' now!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788479238148",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Neta que me vas a hacer emputar, eso no lo guardas.\" t=\"Really gon' piss me off, you don't stash that.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788496015364",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Estoy a punto de quitarte esa chingadera.\" t=\"Bout to take that from ya.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788529569796",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Oye, mierda, mejor ábrete.\" t=\"Yo choom, give it up.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788546347012",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ya en una celda, te voy a enderezar muy prontito.\" t=\"Back in a cell, I'd set you straight in no time.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788596678660",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ni siquiera estamos en la misma liga, culera.\" t=\"You're not even in the same league as me, motherfucker.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"Ni siquiera estamos en la misma liga, culero.\" t=\"You're not even in the same league as me, motherfucker.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788613455872",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ajá. Ya voy.\" t=\"Uh-huh. On it.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788647010308",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Qué chingada madre está pasando?\" t=\"Fuck is going on?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788663787524",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Santa Muerte! ¿Qué mierda es eso?\" t=\"Santa Muerte! Fuck is that?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788697341956",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ni idea de qué está pasando...\" t=\"No idea what's going on…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788714119172",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"No entiendo ni madres...\" t=\"I don't get it…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788764450816",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Salte de ahí, pinche pedazo de mierda!\" t=\"Come out, you fucking gonk!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788764450828",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ya se te quitó lo brava, ¡¿verdad, culera?!\" t=\"Ain't so hard now, are you cocksucker?!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"Ya se te quitó lo bravo, ¡¿verdad, culero?!\" t=\"Ain't so hard now, are you cocksucker?!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788814782464",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Madres! ¡Tino al suelo!\" t=\"Fuck! Tino down!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788831559684",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Entendido.\" t=\"Roger that.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788881891332",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Un cráneo más para mi colección, culera!\" t=\"Another skull in my collection, fucker!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Un cráneo más para mi colección, culero!\" t=\"Another skull in my collection, fucker!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788898668544",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Esa pinche cabeza que tienes te la voy a arrancar!\" t=\"Fuckin' head of yours, I'ma tear it off!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788915445764",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Está a puntito de explotar!\" t=\"Bout to fuckin' blow!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788965777412",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Mmm, la mejor parte del día!\" t=\"Mmm, best part of the day!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496788982554628",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Órale, con una chingada! ¡Andando!\" t=\"Come on, for fuck's sake! Let's go!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789016109060",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Son unos pinches cabrones Valentinos! ¡Orgullo Tino!\" t=\"You're motherfucking Valentinos! Tino pride!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789032886276",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Órale! ¡Órale! ¡Órale!\" t=\"Move! Move! Move!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789066440708",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ey, ahora tienes un pinche problema.\" t=\"Yo, you gotta problem now.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789083217924",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Tampoco me caes bien.\" t=\"Don't like you either.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789116772356",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Aguas, podría estar intervenido.\" t=\"Watch it. Could be bugged.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789167104004",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Mira, alguien podría estar al tiro escuchando. Mmm... doce...\" t=\"Look, someone could be listenin'. Mhm... twelve…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789183881220",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Entendido... Vamos a tener que wacharnos... Ya sabes dónde... Mmm...\" t=\"I got it... We're gonna have to meet... You know where... Mhm…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789217435652",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Rodéenla!\" t=\"Surround her!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Rodéenlo!\" t=\"Surround him!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789250990084",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Va saliendo a de peluches!\" t=\"Going right!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789267767300",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Al pinche suelo pero ya!\" t=\"Hit the ground!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789301321732",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ahí luego.\" t=\"Later.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789318098948",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Qué?\" t=\"¿Eh?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789351653380",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Mejor echo un vistazo.\" t=\"Better check it out.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789368430596",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Algo anda mal aquí. Vamos.\" t=\"Somethin' ain't right. Let's go.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789401985028",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Mueve el pinche culo.\" t=\"Hurry your ass up.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789418762244",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Te voy a sacar las pinches tripas!\" t=\"I'ma tear your guts out!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1805496789452316672",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Aghhh... pinche... perra...\" t=\"Echhh... fuckin'... bitch…\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"Aghhh... pinche... perro...\" t=\"Echhh... fuckin'... bitch…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1809741956030955520",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Nos vamos a reunir durante doce minutos... ¿Me entiendes...?\" t=\"We'll meet for twelve minutes... you get me... ?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1809742274445737984",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Doce, pinche bestia! Vaya, por fin.\" t=\"Twelve, you gonk...! OK, finally.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1809742657721237504",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Pues donde siempre! Mmm.\" t=\"The usual spot!... mhm…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996928634036228",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Chingada madre!\" t=\"Fucking christ!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996928734699524",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Perfecto!\" t=\"Perfect!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996928868917252",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Ey! ¡Uno de los nuestros!\" t=\"Ey! One of ours!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996928936026116",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Pero ¿qué...? ¡¿En serio?!\" t=\"What the... Seriously?!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996929187684352",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Qué carajo pasa? ¿Es algún tipo de broma?\" t=\"Fuck's going on? This some kinda prank?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996929489674244",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Sufrimos bajas!\" t=\"Takin' losses!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996929590337540",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Tienes una puta idea de con quién te estás metiendo?\" t=\"You have any idea who you're fucking with?!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996929724555268",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Pinche psicoputa!\" t=\"You fucking psycho-cunt!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Pinche psicoputo!\" t=\"You fucking psycho-freak!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996930143985668",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Justo en la pinche cabeza!\" t=\"Right in her gonk head!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Justo en la pinche cabeza!\" t=\"Right in his gonk head!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996930395643904",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Claro! Dalo por hecho.\" t=\"All right! Understood!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996930496307204",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡La culera apenas respira! ¡Mátenla de una vez!\" t=\"Bitch is barely breathing! Finish her already!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡El cabrón apenas respira! ¡Mátenlo de una vez!\" t=\"Fucker's barely breathing! Finish him already!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996930596970500",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Será un placer!\" t=\"With pleasure!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996930714411012",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Je, je, je, je. ¡¿Nos vas a hacer esperar todo el día?!\" t=\"Gonna make us wait all day here?!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996930831851524",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Cúbranme! ¡Estoy recargando!\" t=\"Cover me! I'm reloading!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996930949292036",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡¿Qué chingados te pasa?!\" t=\"The fuck's wrong with you?!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996931150618628",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Me arrancó las ópticas!\" t=\"She took out my optics!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Me arrancó las ópticas!\" t=\"He took out my optics!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996931301613572",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Netrunner del carajo!\" t=\"Fucking netrunner!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996931435831296",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Esto es de primera!\" t=\"Preem shit!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996931536494596",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Madres! ¡Necesitamos refuerzos!\" t=\"Fuck! We need backup here!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996931737821188",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ja, ja, ja. ¡Voy a hacer que vomites sangre!\" t=\"I'll make you puke blood!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996931872038912",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Traga plomo, perra!\" t=\"Chomp lead, bitch!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"mex\" o=\"¡Traga plomo, imbécil!\" t=\"Chomp lead, bitch!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996932023033856",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Disparando fuego intenso!\" t=\"Dealing heavy fire!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996932123697156",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Vas a pagar por eso!\" t=\"You'll pay for that!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2234996932677345284",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Mierda... Debería ir a ver...\" t=\"Shit... Oughta check that out...\" b=\"\" a=\"\"/>"
+          }
+        ]
+      }
+
+
+

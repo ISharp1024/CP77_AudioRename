@@ -1,0 +1,788 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1386303831816368128",
+            "femaleVariant": "Inside! Quick!"
+          },
+          {
+            "stringId": "1386532135584493568",
+            "femaleVariant": "Just in time for dinner!"
+          },
+          {
+            "stringId": "1386533988057575424",
+            "femaleVariant": "Phew... I need to catch my breath…"
+          },
+          {
+            "stringId": "1670560180058611712",
+            "femaleVariant": "What is this – heatstroke?! Get back here!"
+          },
+          {
+            "stringId": "1780959176158228480",
+            "femaleVariant": "Not hungry. I just swallowed a pound of sand."
+          },
+          {
+            "stringId": "1781043154647134208",
+            "femaleVariant": "Looks like we're in for the night."
+          },
+          {
+            "stringId": "1781044100563349504",
+            "femaleVariant": "A little power might be useful."
+          },
+          {
+            "stringId": "1781068172512866308",
+            "femaleVariant": "Right."
+          },
+          {
+            "stringId": "1781069837651554304",
+            "femaleVariant": "Anything else, Your Excellency?"
+          },
+          {
+            "stringId": "1781095669984014336",
+            "femaleVariant": "Now come here! I have a surprise for you!"
+          },
+          {
+            "stringId": "1801214249912119296",
+            "femaleVariant": "Right. Gimme a sec."
+          },
+          {
+            "stringId": "1801214286553559040",
+            "femaleVariant": "Anything else, Your Excellency?"
+          },
+          {
+            "stringId": "1885029815823441920",
+            "femaleVariant": "Hey, it worked! We have lights!"
+          },
+          {
+            "stringId": "1887981433296592896",
+            "femaleVariant": "Huh, I'll need to think about it. Though it'll be the end of our friendship if Saul freezes to death."
+          },
+          {
+            "stringId": "1893844470016581632",
+            "femaleVariant": "Could you help me look, V? I'll search in here."
+          },
+          {
+            "stringId": "1893851556192526336",
+            "femaleVariant": "Thank you. If Saul freezes to death, it will have been a wasted day."
+          },
+          {
+            "stringId": "1896559852833091588",
+            "femaleVariant": "That Wraiths crap... It shouldn't have happened. They wanted everything – our camp locations, routes, offloading points..."
+          },
+          {
+            "stringId": "1896559852833091608",
+            "femaleVariant": "If they knew what state we're in… one or two more raids and that'd be the end of us."
+          },
+          {
+            "stringId": "1896559852849868800",
+            "femaleVariant": "And if you hadn't mounted a raid of your own, well... that would have been the end of me."
+          },
+          {
+            "stringId": "1896559852849868824",
+            "femaleVariant": "See that? Clenched teeth, furrowed brow – it's his way of saying \"thanks.\""
+          },
+          {
+            "stringId": "1896559852849868836",
+            "femaleVariant": "We've had our spats."
+          },
+          {
+            "stringId": "1896559852849868852",
+            "femaleVariant": "A few. Like any family."
+          },
+          {
+            "stringId": "1896559852849868864",
+            "femaleVariant": "They're not worth digging up."
+          },
+          {
+            "stringId": "1896559852866646016",
+            "femaleVariant": "I think so too."
+          },
+          {
+            "stringId": "1896559852866646028",
+            "femaleVariant": "If you'd like to come back... Everyone'll be waiting, arms open wide."
+          },
+          {
+            "stringId": "1896559852866646040",
+            "femaleVariant": "But there will have to be changes. No more jumpin' to the front of the line."
+          },
+          {
+            "stringId": "1896559852866646056",
+            "femaleVariant": "And so it begins…"
+          },
+          {
+            "stringId": "1896559852883423232",
+            "femaleVariant": "You know what's comin'? Bigger fucking problems. Maybe a war."
+          },
+          {
+            "stringId": "1896559852883423244",
+            "femaleVariant": "We can't hope to handle the Raffens alone."
+          },
+          {
+            "stringId": "1896559852883423260",
+            "femaleVariant": "So you would sell us out to Biotechnica?"
+          },
+          {
+            "stringId": "1896559852883423272",
+            "femaleVariant": "V, tell him it's a damn rotten idea!"
+          },
+          {
+            "stringId": "1896559852967309316",
+            "femaleVariant": "But right now... I wouldn't mind catching a few winks."
+          },
+          {
+            "stringId": "1896559852967309336",
+            "femaleVariant": "Need help?"
+          },
+          {
+            "stringId": "1896559852967309352",
+            "femaleVariant": "Fuck off."
+          },
+          {
+            "stringId": "1896559852984086544",
+            "femaleVariant": "Huh... Do you know what they call these storms in North Africa?"
+          },
+          {
+            "stringId": "1896559852984086556",
+            "femaleVariant": "Haboobs."
+          },
+          {
+            "stringId": "1896559852984086568",
+            "femaleVariant": "Damn, I love that word."
+          },
+          {
+            "stringId": "1896559853017640976",
+            "femaleVariant": "Damn, it's getting cold…"
+          },
+          {
+            "stringId": "1896559853017640996",
+            "femaleVariant": "I tried to get us some heat in here, but no luck."
+          },
+          {
+            "stringId": "1896559853135081476",
+            "femaleVariant": "Go on, get off your feet. It could be hours."
+          },
+          {
+            "stringId": "1896559853151858700",
+            "femaleVariant": "No, no lecture."
+          },
+          {
+            "stringId": "1896559853151858712",
+            "femaleVariant": "But we do need to talk."
+          },
+          {
+            "stringId": "1896559853269299204",
+            "femaleVariant": "See what I see?"
+          },
+          {
+            "stringId": "1896559853269299216",
+            "femaleVariant": "Expiration date's from before the last war, so hopefully it hasn't turned to poison."
+          },
+          {
+            "stringId": "1896559853269299228",
+            "femaleVariant": "Today's our lucky day."
+          },
+          {
+            "stringId": "1896559853269299240",
+            "femaleVariant": "\"Lucky...\" Interesting choice of words."
+          },
+          {
+            "stringId": "1896559853269299252",
+            "femaleVariant": "Do I hear a lecture coming on?"
+          },
+          {
+            "stringId": "1896559853453848580",
+            "femaleVariant": "Prolly just the meds."
+          },
+          {
+            "stringId": "1896559853470625796",
+            "femaleVariant": "Whoa, what was that about?"
+          },
+          {
+            "stringId": "1896559853487403012",
+            "femaleVariant": "To haboobs."
+          },
+          {
+            "stringId": "1896559853504180228",
+            "femaleVariant": "Yeeaaah…"
+          },
+          {
+            "stringId": "1896559853504180240",
+            "femaleVariant": "To haboobs!"
+          },
+          {
+            "stringId": "1896559853537734660",
+            "femaleVariant": "Prolly the meds talkin'."
+          },
+          {
+            "stringId": "1896559853537734672",
+            "femaleVariant": "I sure hope so. I think he took a few solid hits to his skull."
+          },
+          {
+            "stringId": "1896559853621620740",
+            "femaleVariant": "Gotta agree with Panam. Sounds like a truly shitty idea.",
+            "maleVariant": "I gotta agree with Panam. Sounds like a truly shitty idea."
+          },
+          {
+            "stringId": "1896559853621620752",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1896559853621620764",
+            "femaleVariant": "What could you possibly know about it?"
+          },
+          {
+            "stringId": "1896559853655175172",
+            "femaleVariant": "If you're gonna bloody the furniture, keep me out of it."
+          },
+          {
+            "stringId": "1896559853671952388",
+            "femaleVariant": "Don't be mad, but... I think Saul could be right."
+          },
+          {
+            "stringId": "1896559853671952400",
+            "femaleVariant": "What?! Why?"
+          },
+          {
+            "stringId": "1896559853772615684",
+            "femaleVariant": "Eh, not the time for this. You're both exhausted.",
+            "maleVariant": "Hehh, it's not the time for this. You're both exhausted."
+          },
+          {
+            "stringId": "1896559853789392896",
+            "femaleVariant": "Clan survival – that's what's at stake."
+          },
+          {
+            "stringId": "1896559853806170120",
+            "femaleVariant": "Sometimes you gotta join with the strong."
+          },
+          {
+            "stringId": "1896559853806170136",
+            "femaleVariant": "Biotechnica mostly plays a clean game. Got a fighting chance with them."
+          },
+          {
+            "stringId": "1896559853806170152",
+            "femaleVariant": "Forget I said anything."
+          },
+          {
+            "stringId": "1896559853839724544",
+            "femaleVariant": "Rather not follow in the Bakkers' footsteps."
+          },
+          {
+            "stringId": "1896559853839724560",
+            "femaleVariant": "'Bout freedom? Quite a bit, actually."
+          },
+          {
+            "stringId": "1896559853839724576",
+            "femaleVariant": "Worked for corpos. Know how this'll end."
+          },
+          {
+            "stringId": "1896559853839724592",
+            "femaleVariant": "Forget I said anything."
+          },
+          {
+            "stringId": "1896559853873278980",
+            "femaleVariant": "Y'know, forget I said anything."
+          },
+          {
+            "stringId": "1896559853890056196",
+            "femaleVariant": "'Member the Bakkers?"
+          },
+          {
+            "stringId": "1896559853890056208",
+            "femaleVariant": "I'm a bit hazy…"
+          },
+          {
+            "stringId": "1896559853890056220",
+            "femaleVariant": "Exactly. Joined up with Snake Nation, then poof – evaporated.",
+            "maleVariant": "Exactly. Joined up with the Snake Nation, then poof – evaporated."
+          },
+          {
+            "stringId": "1896559853890056232",
+            "femaleVariant": "Aldecaldos' strength's always been their independence.",
+            "maleVariant": "Aldecaldos' strength has always been their independence."
+          },
+          {
+            "stringId": "1896559853906833416",
+            "femaleVariant": "Give that up, my clan's fate will be yours. Or worse. 'Cause Biotechnica just ain't Snake Nation."
+          },
+          {
+            "stringId": "1896559853923610628",
+            "femaleVariant": "Know what I always liked about nomads? Your taste, no – hunger for freedom.",
+            "maleVariant": "Y'know what I always liked about nomads? Your taste, uh, no – your hunger for freedom."
+          },
+          {
+            "stringId": "1896559853940387844",
+            "femaleVariant": "Not easy to come by in Night City. The corps got their grubby claws in everything.",
+            "maleVariant": "It's not easy to come by in Night City. The corps got their grubby claws in everything."
+          },
+          {
+            "stringId": "1896559853940387856",
+            "femaleVariant": "And I just can't believe you'd hand them what you hold to be most precious."
+          },
+          {
+            "stringId": "1896559853973942276",
+            "femaleVariant": "More than you think, Saul. Used to work for Arasaka. So, seen plenty."
+          },
+          {
+            "stringId": "1896559853990719492",
+            "femaleVariant": "Arasaka's not Biotechnica. The difference--"
+          },
+          {
+            "stringId": "1896559853990719504",
+            "femaleVariant": "Is not in the MO – that's always the same. Know what you are to them?",
+            "maleVariant": "Is not in the MO – that's always the same. Y'know what you are to them?"
+          },
+          {
+            "stringId": "1896559853990719516",
+            "femaleVariant": "Labor."
+          },
+          {
+            "stringId": "1896559853990719528",
+            "femaleVariant": "To be exploited and ultimately consumed. Best case scenario."
+          },
+          {
+            "stringId": "1896559854041051140",
+            "femaleVariant": "Clan's future, its survival – that's what's at stake.",
+            "maleVariant": "The clan's future, its survival – that's what's at stake."
+          },
+          {
+            "stringId": "1896559854041051152",
+            "femaleVariant": "Mhm. Did you hear me talking about something else?"
+          },
+          {
+            "stringId": "1896559854041051164",
+            "femaleVariant": "Compared the Raffens to locusts. I mean, Biotechnica's got experience with pests."
+          },
+          {
+            "stringId": "1896559854074605572",
+            "femaleVariant": "Know how things work in Night City?",
+            "maleVariant": "Y'know how things work in Night City?"
+          },
+          {
+            "stringId": "1896559854074605584",
+            "femaleVariant": "Got everybody fightin' for a slice of the street. If you keep gettin' jumped, you find some stronger choombas.",
+            "maleVariant": "You got everybody fightin' for a slice of the street. If you keep gettin' jumped, you find some stronger choombas."
+          },
+          {
+            "stringId": "1896559854074605596",
+            "femaleVariant": "You're talking about gangs."
+          },
+          {
+            "stringId": "1896559854074605608",
+            "femaleVariant": "Principles're the same out here. Oughta remember that.",
+            "maleVariant": "The principles're the same out here. You oughta remember that."
+          },
+          {
+            "stringId": "1896559854124937220",
+            "femaleVariant": "I hear teeth grinding? That's fair.",
+            "maleVariant": "I hear teeth grinding. That's fair."
+          },
+          {
+            "stringId": "1896559854124937232",
+            "femaleVariant": "But that's how things stand. The stronger survive."
+          },
+          {
+            "stringId": "1896559854124937244",
+            "femaleVariant": "Biotechnica plays a fair game, mostly. Snug under their wing, you might just have a chance.",
+            "maleVariant": "Biotechnica plays a fair game, mostly. You snug under their wing, you might just have a chance."
+          },
+          {
+            "stringId": "1896559854175268876",
+            "femaleVariant": "Thank you, V. I could not have said it better."
+          },
+          {
+            "stringId": "1896559854225600516",
+            "femaleVariant": "Hear that, Panam? That is the voice of reason."
+          },
+          {
+            "stringId": "1896559854225600528",
+            "femaleVariant": "All I hear is the fucking wind."
+          },
+          {
+            "stringId": "1896559854292709376",
+            "femaleVariant": "Maybe you're right."
+          },
+          {
+            "stringId": "1896559854326263812",
+            "femaleVariant": "You know what, sweetheart? We'll have plenty of time to tear at each other's throats later."
+          },
+          {
+            "stringId": "1896559854326263824",
+            "femaleVariant": "That is my hope."
+          },
+          {
+            "stringId": "1896726949643038724",
+            "femaleVariant": "Haha, funny..."
+          },
+          {
+            "stringId": "1896726949659815936",
+            "femaleVariant": "What is?"
+          },
+          {
+            "stringId": "1896726949659815948",
+            "femaleVariant": "I rarely sleep with a roof overhead, yet this will be the second time with you."
+          },
+          {
+            "stringId": "1896726949659815960",
+            "femaleVariant": "When you're on the road day into night into day, your butt basically fusing with your seat, you forget what it's like."
+          },
+          {
+            "stringId": "1896726949945028612",
+            "femaleVariant": "Ma'am, I'm sure you'd be cozier with your shoes off."
+          },
+          {
+            "stringId": "1896726949945028624",
+            "femaleVariant": "Haha, after a full day in them? I'd fear a health code violation."
+          },
+          {
+            "stringId": "1896726949961805828",
+            "femaleVariant": "Nonsense, after a day as full as today, you deserve to kick back."
+          },
+          {
+            "stringId": "1896726949961805840",
+            "femaleVariant": "Oh? And what did you have in mind?"
+          },
+          {
+            "stringId": "1896726949978583044",
+            "femaleVariant": "Uh, ahem, V..."
+          },
+          {
+            "stringId": "1896726949995360260",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "1896726949995360272",
+            "femaleVariant": "It's really nice as is. Let's not spoil it, OK?"
+          },
+          {
+            "stringId": "1896726950012137476",
+            "femaleVariant": "How's your whiskey, ma'am?"
+          },
+          {
+            "stringId": "1896726950012137488",
+            "femaleVariant": "Hmm... Pff, warm... subtle metallic aftertaste."
+          },
+          {
+            "stringId": "1896726950012137500",
+            "femaleVariant": "Bold, yet smooth. Four out of five stars."
+          },
+          {
+            "stringId": "1896726950045691908",
+            "femaleVariant": "Grumpy guy at reception is the one thing missing."
+          },
+          {
+            "stringId": "1896726950079246336",
+            "femaleVariant": "[Touch Panam's thigh] Got a few ideas."
+          },
+          {
+            "stringId": "1896726950079246352",
+            "femaleVariant": "You choose. Customer's always right."
+          },
+          {
+            "stringId": "1896726950079246368",
+            "femaleVariant": "A good, long sleep."
+          },
+          {
+            "stringId": "1896726950096023556",
+            "femaleVariant": "Got a few ideas…"
+          },
+          {
+            "stringId": "1896726950112800768",
+            "femaleVariant": "Think you know what kind."
+          },
+          {
+            "stringId": "1896726950129577988",
+            "femaleVariant": "We deserve a good, long sleep."
+          },
+          {
+            "stringId": "1896726950146355200",
+            "femaleVariant": "Right, so... friends, then."
+          },
+          {
+            "stringId": "1896726950146355216",
+            "femaleVariant": "Sorry. Don't know what I was thinking."
+          },
+          {
+            "stringId": "1896726950179909636",
+            "femaleVariant": "Right."
+          },
+          {
+            "stringId": "1896726950179909648",
+            "femaleVariant": "So... friends, then?"
+          },
+          {
+            "stringId": "1896726950230241280",
+            "femaleVariant": "V… I'm glad you came. Really, thanks."
+          },
+          {
+            "stringId": "1896726950263795712",
+            "femaleVariant": "I think that would be best."
+          },
+          {
+            "stringId": "1896726950263795724",
+            "femaleVariant": "And V... I am glad you came."
+          },
+          {
+            "stringId": "1896726950263795736",
+            "femaleVariant": "It meant a lot to me."
+          },
+          {
+            "stringId": "1896726950280572932",
+            "femaleVariant": "Uaugh... Do you hear that...?"
+          },
+          {
+            "stringId": "1896726950297350144",
+            "femaleVariant": "Uhh... nope?",
+            "maleVariant": "Nnn-nope."
+          },
+          {
+            "stringId": "1896726950297350156",
+            "femaleVariant": "Hmph. Mhm. The wind has waned."
+          },
+          {
+            "stringId": "1896726950297350168",
+            "femaleVariant": "I can't speak for haboobs, but… when a chinook rolls rough and rowdy across the plain, hehh, I sure can't get any shuteye…"
+          },
+          {
+            "stringId": "1896726950297350180",
+            "femaleVariant": "Not a wink."
+          },
+          {
+            "stringId": "1896726950297350192",
+            "femaleVariant": "On behalf of the staff of the Independent California Motel…"
+          },
+          {
+            "stringId": "1896726950297350204",
+            "femaleVariant": "I wish you all sweet dreams."
+          },
+          {
+            "stringId": "1896726950330904580",
+            "femaleVariant": "I-I... I'm, I'm sorry, I... I dunno what I was thinking...",
+            "maleVariant": "Yea-I, buhh... I-I'm sorry... Dunno what I was thinking..."
+          },
+          {
+            "stringId": "1896726950347681808",
+            "femaleVariant": "Oh, it's fine, truly. Don't let it worry you."
+          },
+          {
+            "stringId": "1896726950364459012",
+            "femaleVariant": "Here at the Independent California, customer satisfaction is job one."
+          },
+          {
+            "stringId": "1896726950381236224",
+            "femaleVariant": "Your wish is our command..."
+          },
+          {
+            "stringId": "1896726950414790656",
+            "femaleVariant": "You'd be more comfortable with your shoes off, ma'am."
+          },
+          {
+            "stringId": "1896726950431567884",
+            "femaleVariant": "Think I'm ready to turn it in for the night."
+          },
+          {
+            "stringId": "1896726950431567900",
+            "femaleVariant": "How's your whiskey?"
+          },
+          {
+            "stringId": "1896726950448345092",
+            "femaleVariant": "Huhh, think I'm ready to turn in."
+          },
+          {
+            "stringId": "1896726950448345104",
+            "femaleVariant": "Yeah, it's been a long day."
+          },
+          {
+            "stringId": "1896726950481899520",
+            "femaleVariant": "And? This any better?"
+          },
+          {
+            "stringId": "1896726950481899536",
+            "femaleVariant": "Hard to get used to."
+          },
+          {
+            "stringId": "1896726950498676740",
+            "femaleVariant": "And? Think this is any better?",
+            "maleVariant": "And? You think this is any better?"
+          },
+          {
+            "stringId": "1896726950498676752",
+            "femaleVariant": "No... just different."
+          },
+          {
+            "stringId": "1896726950532231172",
+            "femaleVariant": "Tell me about it... I'm still not used to it.",
+            "maleVariant": "Tell me about it, heh... I'm still not used to it."
+          },
+          {
+            "stringId": "1896726950532231184",
+            "femaleVariant": "Right?"
+          },
+          {
+            "stringId": "1902423011939393536",
+            "femaleVariant": "Yeah, this would make for a decent little motel, wouldn't it? Little fireplace, booze…"
+          },
+          {
+            "stringId": "1902426501432549376",
+            "femaleVariant": "Maybe getting a bit too comfortable?"
+          },
+          {
+            "stringId": "1902426904085733376",
+            "femaleVariant": "Sure you're not getting too comfortable?"
+          },
+          {
+            "stringId": "1902427304205557760",
+            "femaleVariant": "Umm..."
+          },
+          {
+            "stringId": "1902427987491233792",
+            "femaleVariant": "Forgot myself a bit, huh?"
+          },
+          {
+            "stringId": "1902428222087045120",
+            "femaleVariant": "Maybe a little."
+          },
+          {
+            "stringId": "1902428838280634368",
+            "femaleVariant": "You know what? We better get some sleep. That was a damn long day."
+          },
+          {
+            "stringId": "1902747227027603456",
+            "femaleVariant": "Yeah, prime. Sell us your land or..."
+          },
+          {
+            "stringId": "1902937162712023040",
+            "femaleVariant": "A lot of useful things. The Ingalls left in a hurry."
+          },
+          {
+            "stringId": "1902960932352884784",
+            "femaleVariant": "Let's take it easy – you're both tired."
+          },
+          {
+            "stringId": "1902986760960802816",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1903015946807083008",
+            "femaleVariant": "[Raise a toast] To haboobs."
+          },
+          {
+            "stringId": "1905305190059761664",
+            "femaleVariant": "What are you thinking? These storms are no joke!"
+          },
+          {
+            "stringId": "1905306713313533952",
+            "femaleVariant": "It your aim to drive into that devil?! Cut the crap!"
+          },
+          {
+            "stringId": "1905581814493675520",
+            "femaleVariant": "[Adjust fuse]"
+          },
+          {
+            "stringId": "1905583769257443328",
+            "femaleVariant": "Actually, you know what? Check the fuse outside, it might have come loose."
+          },
+          {
+            "stringId": "1913008348658999296",
+            "femaleVariant": "Can you check it? Might have the magic touch."
+          },
+          {
+            "stringId": "1913028805722447872",
+            "femaleVariant": "Hey, we got it! It's cozier already!"
+          },
+          {
+            "stringId": "1913068804333445120",
+            "femaleVariant": "If so, just whack it back in place and I'll get this junk burning."
+          },
+          {
+            "stringId": "1913071858524954628",
+            "femaleVariant": "Pleased with your stay, ma'am?"
+          },
+          {
+            "stringId": "1913073066920714240",
+            "femaleVariant": "Have everything you need, ma'am?"
+          },
+          {
+            "stringId": "1913073515275034624",
+            "femaleVariant": "Oh, yeah…"
+          },
+          {
+            "stringId": "1913074409953632256",
+            "femaleVariant": "Mmhmm... I couldn't ask for more."
+          },
+          {
+            "stringId": "1913801949848608768",
+            "femaleVariant": "Biotechnica made them a good offer."
+          },
+          {
+            "stringId": "1913804259802816512",
+            "femaleVariant": "No bulldozers, no backhoe loaders ever showed up. Lousy, rotten way to get them out."
+          },
+          {
+            "stringId": "1913810994076655616",
+            "femaleVariant": "You don't know that."
+          },
+          {
+            "stringId": "1913950193077526528",
+            "femaleVariant": "Deal with a corp, you end with nothing, Saul."
+          },
+          {
+            "stringId": "1913950667906293760",
+            "femaleVariant": "Don't go there, not now."
+          },
+          {
+            "stringId": "1913968240093896704",
+            "femaleVariant": "Careful, you can't know what I'd wish for…"
+          },
+          {
+            "stringId": "1913968661252349952",
+            "femaleVariant": "I would settle for a soft pillow."
+          },
+          {
+            "stringId": "1913985208100397056",
+            "femaleVariant": "Hmm?",
+            "maleVariant": "Mhmm?"
+          },
+          {
+            "stringId": "1914049410043289600",
+            "femaleVariant": "Might prove hard to come by."
+          },
+          {
+            "stringId": "1914049701278982144",
+            "femaleVariant": "We'll see."
+          },
+          {
+            "stringId": "1965071426022473728",
+            "femaleVariant": "Don't be angry, but Saul has a point."
+          },
+          {
+            "stringId": "1965071426022473744",
+            "femaleVariant": "Shitty idea, Panam's right."
+          },
+          {
+            "stringId": "1965071426022473760",
+            "femaleVariant": "Don't drag me into this."
+          },
+          {
+            "stringId": "2199824338162839556",
+            "femaleVariant": "[Get out]"
+          }
+        ]
+      }
+
+
+

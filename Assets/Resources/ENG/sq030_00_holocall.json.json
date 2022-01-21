@@ -1,0 +1,314 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1763328539399012352",
+            "femaleVariant": "Huh. Funny, was just thinkin' about you.",
+            "maleVariant": "Huh, funny. I was just thinkin' about you."
+          },
+          {
+            "stringId": "1763333661583720448",
+            "femaleVariant": "Got another job for me? Someone you need, y'know, taken care of?"
+          },
+          {
+            "stringId": "1763335532411076608",
+            "femaleVariant": "Is it your, uh, uninvited guest? Things gotten worse?"
+          },
+          {
+            "stringId": "1763335673306136576",
+            "femaleVariant": "Nothing like that. Actually, the opposite. Wanna get away from all that, cleanse."
+          },
+          {
+            "stringId": "1763337782621618176",
+            "femaleVariant": "It's... it's a little worse, yeah.",
+            "maleVariant": "It's, uh... it's a little worse, yeah."
+          },
+          {
+            "stringId": "1763338271643910144",
+            "femaleVariant": "Things've more or less stabilized. I'm-- We're getting used to each other.",
+            "maleVariant": "Think I'm more or less stabilized. I'm-- We're getting used to each other."
+          },
+          {
+            "stringId": "1763338304644694016",
+            "femaleVariant": "Hard to say, really."
+          },
+          {
+            "stringId": "1763340381244604416",
+            "femaleVariant": "OK, umm... Is this a date?",
+            "maleVariant": "OK. Uh... Is this a date?"
+          },
+          {
+            "stringId": "1763341770465198080",
+            "femaleVariant": "Guess you'll have to find out. We'll have to."
+          },
+          {
+            "stringId": "1763342204491776000",
+            "femaleVariant": "Hm... You're not my type, girl. Just show up.",
+            "maleVariant": "Heh... You're not my type, holmes! Just show up."
+          },
+          {
+            "stringId": "1763344332228640768",
+            "femaleVariant": "Dam out past Rancho Coronado. Know it?"
+          },
+          {
+            "stringId": "1763345880530796544",
+            "femaleVariant": "Shit... I'm so sorry…"
+          },
+          {
+            "stringId": "1763346208844136448",
+            "femaleVariant": "Gotta hand it to you... Would've lost my shit, what, pff... ten minutes in, maybe."
+          },
+          {
+            "stringId": "1763350049819967488",
+            "femaleVariant": "Sure, what about it?",
+            "maleVariant": "Uh, sure, what about it?"
+          },
+          {
+            "stringId": "1766268219513593856",
+            "femaleVariant": "So, do I got amazin' timin' or are you always thinkin' about me?"
+          },
+          {
+            "stringId": "1766373323168243712",
+            "femaleVariant": "S'all right. Haven't given up just yet."
+          },
+          {
+            "stringId": "1770726540857532416",
+            "femaleVariant": "Ooh, I know that voice, V. Are... are you OK?"
+          },
+          {
+            "stringId": "1770797606040723456",
+            "femaleVariant": "Little, uh, abandoned bungalow lakeside. Meet me there – at sundown."
+          },
+          {
+            "stringId": "1770826725046575104",
+            "femaleVariant": "How do you plan to do that?",
+            "maleVariant": "Yeah, how do you plan to do that?"
+          },
+          {
+            "stringId": "1770844393401180160",
+            "femaleVariant": "Y'know, I could be cursin' your name in my thoughts.",
+            "maleVariant": "Amazing? Y'know, I could be thinkin' and cursin' your name."
+          },
+          {
+            "stringId": "1770865856275505152",
+            "femaleVariant": "Hoh, hey... I'm just glad you remember me at all."
+          },
+          {
+            "stringId": "1770886892706553860",
+            "femaleVariant": "Ask to your heart's content."
+          },
+          {
+            "stringId": "1770887600419856384",
+            "femaleVariant": "Got a job for me?"
+          },
+          {
+            "stringId": "1770896702445412352",
+            "femaleVariant": "A little bit."
+          },
+          {
+            "stringId": "1770896702445412368",
+            "femaleVariant": "Things've stabilized."
+          },
+          {
+            "stringId": "1770896702462189572",
+            "femaleVariant": "Hard to say."
+          },
+          {
+            "stringId": "1771937833757138944",
+            "femaleVariant": "Ask away. It's never boring with you."
+          },
+          {
+            "stringId": "1771945445429043200",
+            "femaleVariant": "Interesting people aren't easily bored."
+          },
+          {
+            "stringId": "1771945695711551488",
+            "femaleVariant": "Not in your company. OK, now that we've blown each other, what's up?",
+            "maleVariant": "No chance in your company. But now that we've blown each other, what's up?"
+          },
+          {
+            "stringId": "1771987777448796164",
+            "femaleVariant": "Count me in."
+          },
+          {
+            "stringId": "1772034872536948736",
+            "femaleVariant": "Why the wetsuit?"
+          },
+          {
+            "stringId": "1772047264188686336",
+            "femaleVariant": "All right then, count me in."
+          },
+          {
+            "stringId": "1772118714828414976",
+            "femaleVariant": "I'll see you there!"
+          },
+          {
+            "stringId": "1772127512011956224",
+            "femaleVariant": "Aah, sounds fun, but I don't think I got the time right now.",
+            "maleVariant": "Ooh, sounds fun, but I don't think I got the time right now."
+          },
+          {
+            "stringId": "1772138949157543940",
+            "femaleVariant": "OK... is this a date?"
+          },
+          {
+            "stringId": "1772139864321122304",
+            "femaleVariant": "See you there."
+          },
+          {
+            "stringId": "1772140124653182976",
+            "femaleVariant": "Don't have time, sorry."
+          },
+          {
+            "stringId": "1772140322355896320",
+            "femaleVariant": "That's it? No details?"
+          },
+          {
+            "stringId": "1772154362385883136",
+            "femaleVariant": "Gotta say, I'm intrigued... Why the wetsuit?",
+            "maleVariant": "Gotta say, I am intrigued... Why the wetsuit?"
+          },
+          {
+            "stringId": "1772157636241481728",
+            "femaleVariant": "Can't back out now. Just gonna have to use your imagination."
+          },
+          {
+            "stringId": "1772157908032380928",
+            "femaleVariant": "Really know how to reel me in, don'tcha?",
+            "maleVariant": "You really know how to reel me in, don't ya?"
+          },
+          {
+            "stringId": "1772158444349644800",
+            "femaleVariant": "Ain't seen nothin' yet."
+          },
+          {
+            "stringId": "1772159563708719104",
+            "femaleVariant": "But I gotta warn you – I look great in a wetsuit.",
+            "maleVariant": "But I gotta warn ya – I look great in a wetsuit."
+          },
+          {
+            "stringId": "1772165160202100736",
+            "femaleVariant": "That sucks, heh... Well, lemme know if you change your mind."
+          },
+          {
+            "stringId": "1772165513647710208",
+            "femaleVariant": "It's not super urgent or anything."
+          },
+          {
+            "stringId": "1772172876614164480",
+            "femaleVariant": "That's it? No details? What's there to do out there?"
+          },
+          {
+            "stringId": "1772173563641159680",
+            "femaleVariant": "Sorry, not gonna get me to spoil the surprise."
+          },
+          {
+            "stringId": "1772173773356359680",
+            "femaleVariant": "Trust me. You won't regret it."
+          },
+          {
+            "stringId": "1772215749514584064",
+            "femaleVariant": "Sounds like a plan. See ya there."
+          },
+          {
+            "stringId": "1772217183681339392",
+            "femaleVariant": "Buh-byyye!"
+          },
+          {
+            "stringId": "1772219475499376640",
+            "femaleVariant": "He's definitely more present, but I guess I also got more... used to him?"
+          },
+          {
+            "stringId": "1772220990045773824",
+            "femaleVariant": "Well, bet I got just the thing to take your mind off it."
+          },
+          {
+            "stringId": "1772222911288664064",
+            "femaleVariant": "Yeah... I won't pretend like I get that."
+          },
+          {
+            "stringId": "1834313528168374272",
+            "femaleVariant": "'Cause I got a favor to ask…"
+          },
+          {
+            "stringId": "1835680789902876672",
+            "femaleVariant": "Hey, Jude. What's up?"
+          },
+          {
+            "stringId": "1835681429903335424",
+            "femaleVariant": "Ah, you know, same ol'. You?"
+          },
+          {
+            "stringId": "1835697518414618624",
+            "femaleVariant": "Got good days, got bad days. Same as ever.",
+            "maleVariant": "I got good days, got bad days. Same as ever."
+          },
+          {
+            "stringId": "1835700336215154692",
+            "femaleVariant": "Seen good days and bad days."
+          },
+          {
+            "stringId": "1835701622171983872",
+            "femaleVariant": "Been thinkin' about you."
+          },
+          {
+            "stringId": "1835758019052003328",
+            "femaleVariant": "You call just to see how I'm doin', or...?",
+            "maleVariant": "You, uh, call just to see how I'm doin', or...?"
+          },
+          {
+            "stringId": "1835758987416133632",
+            "femaleVariant": "Not just. Got a favor to ask you…"
+          },
+          {
+            "stringId": "1857624548462780416",
+            "femaleVariant": "See ya, V."
+          },
+          {
+            "stringId": "1866188146298544128",
+            "femaleVariant": "You're on a need-to-know basis. So, this particular mission don't require you to have no gun. Just a wetsuit."
+          },
+          {
+            "stringId": "1902682729534414848",
+            "femaleVariant": "Thought I'd never hear from you again."
+          },
+          {
+            "stringId": "1902683467329265664",
+            "femaleVariant": "Actually, thought I'd never hear from you again after... the Maiko sich.",
+            "maleVariant": "Actually, thought I'd never hear from you again after the... Maiko sich."
+          },
+          {
+            "stringId": "1902684973319282688",
+            "femaleVariant": "Rewatched the scroll from that day."
+          },
+          {
+            "stringId": "1902685285929148416",
+            "femaleVariant": "You had no choice."
+          },
+          {
+            "stringId": "1902686382571872256",
+            "femaleVariant": "But I ain't callin' to rehash old wounds. Got a favor to ask."
+          },
+          {
+            "stringId": "1966397938933129252",
+            "femaleVariant": "Believe it when I see it."
+          }
+        ]
+      }
+
+
+

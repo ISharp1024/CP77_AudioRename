@@ -1,0 +1,853 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1632917027321876480",
+            "femaleVariant": "You return. How? How you manage dis?"
+          },
+          {
+            "stringId": "1632917406201745408",
+            "femaleVariant": "Disappointed?"
+          },
+          {
+            "stringId": "1632917406218522632",
+            "femaleVariant": "Exactly what I want to talk to Brigitte about."
+          },
+          {
+            "stringId": "1632926942773972996",
+            "femaleVariant": "Wanna talk to Brigitte."
+          },
+          {
+            "stringId": "1632930939660472320",
+            "femaleVariant": "Tried to set me up, you shit."
+          },
+          {
+            "stringId": "1632935719237652480",
+            "femaleVariant": "Wanna talk to Brigitte, your boss."
+          },
+          {
+            "stringId": "1632936664499556352",
+            "femaleVariant": "Do that to every merc you hire – try to set 'em up?"
+          },
+          {
+            "stringId": "1632946533982081024",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Koulèv Sal!\" b=\"\" a=\" You believe netfachist?! What he say?\"/>"
+          },
+          {
+            "stringId": "1633021026482065412",
+            "femaleVariant": "That the other guy?"
+          },
+          {
+            "stringId": "1633027715893628928",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"chèfine\" b=\"You think I let you near my \" a=\" after NetPig hack you? <Rich color=\\\"MainColors.ActiveBlue\\\">Bouzan Sal!</>\"/>",
+            "maleVariant": "<mothertongue l=\"creo\" m=\"chèfine\" b=\"You think I let you near my \" a=\" after NetPig hack you? <Rich color=\\\"MainColors.ActiveBlue\\\">Salopri!</>\"/>"
+          },
+          {
+            "stringId": "1633083694232440832",
+            "femaleVariant": "That him? That the scopsucker you sent into the mechdragon's den first?"
+          },
+          {
+            "stringId": "1633096262246273024",
+            "femaleVariant": "He gonna pull through?"
+          },
+          {
+            "stringId": "1633101003554623488",
+            "femaleVariant": "Best you worry about yourself, not him."
+          },
+          {
+            "stringId": "1633244523393257472",
+            "femaleVariant": "Disappointed? You needed me to do my little trick and then you needed me to die."
+          },
+          {
+            "stringId": "1633245064961789952",
+            "femaleVariant": "Exactly what I aim to talk about… with Brigitte."
+          },
+          {
+            "stringId": "1633246144676302848",
+            "femaleVariant": "That the other one?"
+          },
+          {
+            "stringId": "1633246144726634496",
+            "femaleVariant": "That the other guy you sent to the GIM?"
+          },
+          {
+            "stringId": "1633246144743411728",
+            "femaleVariant": "Didn't make it, looks like."
+          },
+          {
+            "stringId": "1633253164481581056",
+            "femaleVariant": "You talk wid me now."
+          },
+          {
+            "stringId": "1660690973198716928",
+            "femaleVariant": "What de fuck you do in de GIM?"
+          },
+          {
+            "stringId": "1660697025763938304",
+            "femaleVariant": "You were to hack de agent, not cut deal wid him!"
+          },
+          {
+            "stringId": "1660717488766521344",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"anndan.\" b=\"No, you say what happen. You say or I open you, see wid my own eyes what worm crawl \" a=\"\"/>"
+          },
+          {
+            "stringId": "1661803289399070720",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"anndan\" b=\"You say or I open you, see wid my own eyes what worm crawl \" a=\".\"/>"
+          },
+          {
+            "stringId": "1661825630443212800",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li tounen.\" t=\"She's back.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Li tounen.\" t=\"He's back.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1661839049380663308",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Ase.\" b=\"\" a=\" We must head under.\"/>"
+          },
+          {
+            "stringId": "1661839049380663320",
+            "femaleVariant": "I hope you will not lead her to de crypt?",
+            "maleVariant": "I hope you will not lead him to de crypt?"
+          },
+          {
+            "stringId": "1661839049380663332",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"She is \" a=\". Nothing special. You see de scans.\"/>",
+            "maleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"He is \" a=\". Nothing special. You see de scans.\"/>"
+          },
+          {
+            "stringId": "1661851562398781444",
+            "femaleVariant": "[Punch] Give it your best shot."
+          },
+          {
+            "stringId": "1661856725637337088",
+            "femaleVariant": "Haven't turned coat, not on NetWatch's side, here."
+          },
+          {
+            "stringId": "1661858016157569024",
+            "femaleVariant": "I fucking dare you.",
+            "maleVariant": "I fuckin' dare you."
+          },
+          {
+            "stringId": "1661859329729695744",
+            "femaleVariant": "Listen, I didn't turn coat, didn't pick a side. We made a deal, is all."
+          },
+          {
+            "stringId": "1661861193510621184",
+            "femaleVariant": "Did what you wanted, 'cept 'stead of gettin' my circuits acid-fried, I'm still breathin'. That so damn wrong?",
+            "maleVariant": "Did what you wanted, except 'stead of gettin' my circuits acid-fried, I'm still breathin'. That so damn wrong?"
+          },
+          {
+            "stringId": "1661866629999693824",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Bouzen estipid.\" t=\"Stupid bitch.\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Bata estipid.\" t=\"Stupid fucker.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1661874087103107072",
+            "femaleVariant": "He bend you over, poke you, an' you come back smiling."
+          },
+          {
+            "stringId": "1661879896650354688",
+            "femaleVariant": "Tsss…"
+          },
+          {
+            "stringId": "1661928162754629632",
+            "femaleVariant": "What did you do to me in the GIM?"
+          },
+          {
+            "stringId": "1661931354720636928",
+            "femaleVariant": "Shoulda cut a deal with NetWatch, maybe."
+          },
+          {
+            "stringId": "1661935994795266048",
+            "femaleVariant": "Exact. And now I will know what went wrong."
+          },
+          {
+            "stringId": "1661936252375863296",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"kamyonèt avec kamera\" b=\"You no do your trick. You did not check \" a=\".\"/>"
+          },
+          {
+            "stringId": "1661974495502864384",
+            "femaleVariant": "Ten NetWatch scum dead, network and BBSes destroyed…. but you walk out alive."
+          },
+          {
+            "stringId": "1661976561801564160",
+            "femaleVariant": "You let loose in the GIM... with what, exactly? A virus? A… vectored electromag impulse?",
+            "maleVariant": "You let loose in the GIM? With... what, exactly? A-a virus? A vectored electromag impulse?"
+          },
+          {
+            "stringId": "1662001020633681920",
+            "femaleVariant": "Plain to see you fucked up, somewhere…"
+          },
+          {
+            "stringId": "1662001588827656192",
+            "femaleVariant": "I maybe shoulda cut a deal with NetWatch."
+          },
+          {
+            "stringId": "1662003976879804416",
+            "femaleVariant": "And you do better wid Netpigs? Dey make you champion, not treat you like rotten meat?"
+          },
+          {
+            "stringId": "1662008165429219328",
+            "femaleVariant": "I would've... if somebody hadn't flatlined me. Sorry, but lost the heart to do anything after that."
+          },
+          {
+            "stringId": "1662016066055114752",
+            "femaleVariant": "Looks like you fucked up."
+          },
+          {
+            "stringId": "1662017451433725952",
+            "femaleVariant": "What's Brigitte make of it all?"
+          },
+          {
+            "stringId": "1662019859584978944",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"kamyonèt\" b=\"You no do your job. De \" a=\" to check.\"/>"
+          },
+          {
+            "stringId": "1662019859584978960",
+            "femaleVariant": "I would've... if somebody hadn't flatlined me. Sorry, but lost the heart to do anything after that."
+          },
+          {
+            "stringId": "1662021473217613824",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Comment?\" b=\"Yet you live. \" a=\" Ten NetWatch scum dead, the grid, BBSes destroyed… but you walk, you breathe…\"/>"
+          },
+          {
+            "stringId": "1662044919058206752",
+            "femaleVariant": "Ten NetWatch scum dead, the grid, BBSes destroyed… but you walk, you breathe… How?"
+          },
+          {
+            "stringId": "1663299823525498880",
+            "femaleVariant": "I will know what went wrong."
+          },
+          {
+            "stringId": "1663301342819848192",
+            "femaleVariant": "'Cause dealing with you's gotten me shit. A slug to the brain, fell foul of NetWatch, and now I got you on my ass about who knows what."
+          },
+          {
+            "stringId": "1663372139181707264",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Comment?\" b=\"Yet you live. \" a=\" Ten NetWatch scum dead, the grid, BBSes destroyed… but you walk, you breathe…\"/>"
+          },
+          {
+            "stringId": "1663373747294638080",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"\\\"Ki vale limyè\\\"\" b=\"It is called \" a=\" – he who swallow de light.\"/>"
+          },
+          {
+            "stringId": "1663375302710333440",
+            "femaleVariant": "Ten NetWatch agent swallow it. It destroy de grid, de BBSes. But not you. You vomit light back up."
+          },
+          {
+            "stringId": "1663378837552304128",
+            "femaleVariant": "Saw it before my own fuses popped – your guys shredding tags on the NetWatch agents in Mosley's grid."
+          },
+          {
+            "stringId": "1692401179394330624",
+            "femaleVariant": "Then, after you."
+          },
+          {
+            "stringId": "1692401179411107844",
+            "femaleVariant": "Looks like I got no choice."
+          },
+          {
+            "stringId": "1692401866018672640",
+            "femaleVariant": "No. Rather check out my other options first."
+          },
+          {
+            "stringId": "1692458521536253952",
+            "femaleVariant": "Don't think I'm that desperate yet."
+          },
+          {
+            "stringId": "1692462416316616704",
+            "femaleVariant": "You said no other could help you."
+          },
+          {
+            "stringId": "1692463441287073792",
+            "femaleVariant": "Maybe I got other options I don't know about yet."
+          },
+          {
+            "stringId": "1692464879765573636",
+            "femaleVariant": "OK, fine. I'll give you access."
+          },
+          {
+            "stringId": "1692470015170727936",
+            "femaleVariant": "How do I know you won't screw me again?"
+          },
+          {
+            "stringId": "1692476593282240512",
+            "femaleVariant": "Then... after you."
+          },
+          {
+            "stringId": "1692476951240921088",
+            "femaleVariant": "Looks like I got no choice."
+          },
+          {
+            "stringId": "1692476951240921096",
+            "femaleVariant": "Follow me."
+          },
+          {
+            "stringId": "1692577113770577920",
+            "femaleVariant": "Did you change your mind?"
+          },
+          {
+            "stringId": "1692595933662957568",
+            "femaleVariant": "Does this mean...?"
+          },
+          {
+            "stringId": "1696630994602627072",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Ase.\" b=\"\" a=\" We must head under.\"/>"
+          },
+          {
+            "stringId": "1696630994619404296",
+            "femaleVariant": "You are worried about agents? Then shoot her in de head.",
+            "maleVariant": "You worried about agents? Then shoot him in de head."
+          },
+          {
+            "stringId": "1696630994619404316",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"I know. I scanned her. Only a normal, filthy \" a=\".\"/>",
+            "maleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"I know. I scanned him. Only a normal, filthy \" a=\".\"/>"
+          },
+          {
+            "stringId": "1696630994636181520",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ale. Mennen moun yo nan kavo a.\" t=\"Go. Take the others to the crypt.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1696642493421260800",
+            "femaleVariant": "I do not know what dey put in her, what corruption is in her system!",
+            "maleVariant": "I do not know what dey put in him, what corruption is in his system!"
+          },
+          {
+            "stringId": "1696649956212150272",
+            "femaleVariant": "You don't know what was in there to begin with. How much it is worth."
+          },
+          {
+            "stringId": "1696700790354546688",
+            "femaleVariant": "You know about the biochip, don't you?"
+          },
+          {
+            "stringId": "1696756929620414464",
+            "femaleVariant": "You know about the biochip, don't you?"
+          },
+          {
+            "stringId": "1696761027354759168",
+            "femaleVariant": "If it is functional, we offer you good price for it."
+          },
+          {
+            "stringId": "1696785943684780036",
+            "femaleVariant": "Biochip's not for sale."
+          },
+          {
+            "stringId": "1696786597291560960",
+            "femaleVariant": "Biochip's busted. That's why I'm here."
+          },
+          {
+            "stringId": "1696791447383379968",
+            "femaleVariant": "Biochip's not for sale."
+          },
+          {
+            "stringId": "1696795079784861696",
+            "femaleVariant": "Biochip's busted. That's why I'm here."
+          },
+          {
+            "stringId": "1696798555705249792",
+            "femaleVariant": "Plus, do you no good to take it by force. It's in shitty shape already."
+          },
+          {
+            "stringId": "1696806521745510400",
+            "femaleVariant": "Haven't found a single soul capable of gettin' this thing outta me without scramblin' my brain."
+          },
+          {
+            "stringId": "1696808200893173760",
+            "femaleVariant": "You commissioned the heist, so I figured you must know somethin'. You've gotta."
+          },
+          {
+            "stringId": "1696809727988928512",
+            "femaleVariant": "How do you know all dis? How did you find us?"
+          },
+          {
+            "stringId": "1696810956265689092",
+            "femaleVariant": "Remember Evelyn Parker?"
+          },
+          {
+            "stringId": "1696812301395759104",
+            "femaleVariant": "Can you help me or not?"
+          },
+          {
+            "stringId": "1696817313085722624",
+            "femaleVariant": "Evelyn Parker – name ring a bell?"
+          },
+          {
+            "stringId": "1696818675664097280",
+            "femaleVariant": "Listen, can you help me or not?"
+          },
+          {
+            "stringId": "1696819641763303424",
+            "femaleVariant": "Yes, of course. But not here. We will go to de crypt… where you must give us access to de chip."
+          },
+          {
+            "stringId": "1696827100510883840",
+            "femaleVariant": "Ah, de doll... de whore."
+          },
+          {
+            "stringId": "1696831452520714240",
+            "femaleVariant": "You found us because she led you to us. She has proved not completely useless after all."
+          },
+          {
+            "stringId": "1696900420384133120",
+            "femaleVariant": "Seriously? You gonna hold me here by force?"
+          },
+          {
+            "stringId": "1696905614492766208",
+            "femaleVariant": "Leave her.",
+            "maleVariant": "Leave him."
+          },
+          {
+            "stringId": "1696913563520929792",
+            "femaleVariant": "That why you're talkin' to me now? 'Cause you know I got the biochip?"
+          },
+          {
+            "stringId": "1696913563655147520",
+            "femaleVariant": "Not 'cause I saved your frozen ass?"
+          },
+          {
+            "stringId": "1696913563688701952",
+            "femaleVariant": "If I was any ordinary \"ranyon,\" you'd have dealt with me already."
+          },
+          {
+            "stringId": "1696913563705479176",
+            "femaleVariant": "Placide saw in you common trash from de streets. This is why he chose you."
+          },
+          {
+            "stringId": "1696913563705479196",
+            "femaleVariant": "But you knew about de chip. And still put yourself in danger in de GIM."
+          },
+          {
+            "stringId": "1696913563705479220",
+            "femaleVariant": "Mhm. Just like you. Only I came out of there on my own.",
+            "maleVariant": "Hmph. Just like you. Only I came out of there on my own."
+          },
+          {
+            "stringId": "1696952602173181952",
+            "femaleVariant": "I saw them."
+          },
+          {
+            "stringId": "1696956756799066116",
+            "femaleVariant": "Shoulda thought about that before you tried to kill me."
+          },
+          {
+            "stringId": "1696957641361002496",
+            "femaleVariant": "Not gonna let you dig around in my head."
+          },
+          {
+            "stringId": "1696960530246602752",
+            "femaleVariant": "You wanna dig around in my head? I dunno, I'm startin' to have some trust issues with you guys."
+          },
+          {
+            "stringId": "1696960530246602772",
+            "femaleVariant": "You came to us in a bad time."
+          },
+          {
+            "stringId": "1696960530246602792",
+            "femaleVariant": "That s'posed to be an apology?"
+          },
+          {
+            "stringId": "1696964978222108672",
+            "femaleVariant": "Shoulda thought about that before you tried to kill me."
+          },
+          {
+            "stringId": "1705567597547032576",
+            "femaleVariant": "Once we have de data we need, we will do our best to help you."
+          },
+          {
+            "stringId": "1705586853076602880",
+            "femaleVariant": "Seriously? Haven't I done enough for you already?"
+          },
+          {
+            "stringId": "1705587421287354368",
+            "femaleVariant": "Seriously? Haven't done enough for you already?"
+          },
+          {
+            "stringId": "1705621747219632128",
+            "femaleVariant": "There is no other way. To remove it, we must first examine it."
+          },
+          {
+            "stringId": "1705624205132107776",
+            "femaleVariant": "'Cause if you fuck up you're left empty-handed? That it?"
+          },
+          {
+            "stringId": "1705624544535187456",
+            "femaleVariant": "I gave my word. We will help you."
+          },
+          {
+            "stringId": "1709618509182423040",
+            "femaleVariant": "How do I know you won't cheat me again?"
+          },
+          {
+            "stringId": "1709828481878396928",
+            "femaleVariant": "Come with me."
+          },
+          {
+            "stringId": "1709865163264692224",
+            "femaleVariant": "If I was here, da chip would never be in danger."
+          },
+          {
+            "stringId": "1709949921424379904",
+            "femaleVariant": "I thought you dead."
+          },
+          {
+            "stringId": "1709955692635688964",
+            "femaleVariant": "What the hell happened?"
+          },
+          {
+            "stringId": "1709958286141624320",
+            "femaleVariant": "That was your plan, right?"
+          },
+          {
+            "stringId": "1709959026654384128",
+            "femaleVariant": "What the hell happened?"
+          },
+          {
+            "stringId": "1709973252794028032",
+            "femaleVariant": "Well, that was your plan, wasn't it? I outlive your need for me, you get me outta the picture. Flatline."
+          },
+          {
+            "stringId": "1709974277982588932",
+            "femaleVariant": "Your people? Who?"
+          },
+          {
+            "stringId": "1709976335271923712",
+            "femaleVariant": "Bullshit."
+          },
+          {
+            "stringId": "1709978916933144576",
+            "femaleVariant": "No. You are confused. Mosley mess wid your head."
+          },
+          {
+            "stringId": "1709979672260186112",
+            "femaleVariant": "Fuck Mosley. Got eyes, I can see. I'm right, aren't I?"
+          },
+          {
+            "stringId": "1709982003185913868",
+            "femaleVariant": "We lose de link. Dat was not our plan."
+          },
+          {
+            "stringId": "1709982003185913892",
+            "femaleVariant": "Saw you zeroin' agent tags. Don't tell me you didn't know what was goin' on. Don't tell me I didn't see what I saw."
+          },
+          {
+            "stringId": "1709982003202691072",
+            "femaleVariant": "You walk into war zone. You got hit. It is dat simple."
+          },
+          {
+            "stringId": "1709982003202691084",
+            "femaleVariant": "I had to free my people. Dey are most important to me. We try to save you too, but... Mosley... he was stronger than we think."
+          },
+          {
+            "stringId": "1709987428367142912",
+            "femaleVariant": "I wanna talk with Brigitte."
+          },
+          {
+            "stringId": "1709989493726318592",
+            "femaleVariant": "Bullshit."
+          },
+          {
+            "stringId": "1709990151661621248",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Um byen?\" b=\"\" a=\" Well, whatchu gonna do about it?\"/>"
+          },
+          {
+            "stringId": "1709994868676562944",
+            "femaleVariant": "Your people? Who?"
+          },
+          {
+            "stringId": "1709995518357475328",
+            "femaleVariant": "Brigitte, and others. NetWatch hold her frozen in ICE."
+          },
+          {
+            "stringId": "1709995930070355968",
+            "femaleVariant": "So you see – dis whole rotten job was in your interest. It was de only way you could talk wid Brigitte."
+          },
+          {
+            "stringId": "1709996723045470208",
+            "femaleVariant": "Jesus... Mighta been good to know that before you threw me into the fucking fire."
+          },
+          {
+            "stringId": "1710001987920400384",
+            "femaleVariant": "Brigitte – wanna talk to her."
+          },
+          {
+            "stringId": "1710004639643275264",
+            "femaleVariant": "I did the GIM job. That was our deal. You and me – our biz is done.",
+            "maleVariant": "I did the job. That was our deal. You and me – our biz is done."
+          },
+          {
+            "stringId": "1710006963254136832",
+            "femaleVariant": "For now, you talk wid me."
+          },
+          {
+            "stringId": "1710020727466692612",
+            "femaleVariant": "Want to dig around in my head again?"
+          },
+          {
+            "stringId": "1710023361405718528",
+            "femaleVariant": "Hope I get along better with you than with Placide."
+          },
+          {
+            "stringId": "1710032456267403264",
+            "femaleVariant": "Placide and I... We never quite saw eye to eye."
+          },
+          {
+            "stringId": "1710033919274192896",
+            "femaleVariant": "Don't like bein' kept in the dark. And I swear, if I hear any more moody fuckin' mumblin'... Which reminds me – just what the fuck is a \"ranyon\"?"
+          },
+          {
+            "stringId": "1710036667600277504",
+            "femaleVariant": "I will explain all, first we must verify if the biochip is in good condition. If yes, we will offer a fair price for it."
+          },
+          {
+            "stringId": "1710049050309758976",
+            "femaleVariant": "And put the chip at risk? Again?"
+          },
+          {
+            "stringId": "1710051802024841216",
+            "femaleVariant": "I hope you return before your time runs out."
+          },
+          {
+            "stringId": "1710056565915324416",
+            "femaleVariant": "OK, fine. I'll give you access.",
+            "maleVariant": "Fine. I'll give you access."
+          },
+          {
+            "stringId": "1710056565915324428",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Finalman.\" b=\"\" a=\" Come with me.\"/>"
+          },
+          {
+            "stringId": "1712776200410435584",
+            "femaleVariant": "You cannnot fault me for Placide's actions, his decisions while I was trapped in de Net."
+          },
+          {
+            "stringId": "1712784631934554112",
+            "femaleVariant": "I have been honest with you all along."
+          },
+          {
+            "stringId": "1719852599180857344",
+            "femaleVariant": "Tell me what is going on, or I break you open and see myself."
+          },
+          {
+            "stringId": "1722582296215765008",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"anndan.\" b=\"You say what happen. You say or I open you, see wid my own eyes what worm crawls \" a=\"\"/>"
+          },
+          {
+            "stringId": "1740295214932373504",
+            "femaleVariant": "You set me up!"
+          },
+          {
+            "stringId": "1740295495078326272",
+            "femaleVariant": "[Punch] You set me up."
+          },
+          {
+            "stringId": "1751915404054564864",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Bouzen sal!\" t=\"You dirty bitch!\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Bata sal!\" t=\"You dirty bastard!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754528032341954560",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ase!\" t=\"Enough!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754528032341954580",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Men, ou te wè --\" t=\"But you saw--\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754528032358731784",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"Yes. But I also saw her scans. She is no \" a=\".\"/>",
+            "maleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"Yes. But I also saw his scans. He is no \" a=\".\"/>"
+          },
+          {
+            "stringId": "1754532446846914560",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Kite nou.\" t=\"Leave us.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754534625871728640",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Voye pèp nou an anba a.\" t=\"Move our people down below.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1755980873667915780",
+            "femaleVariant": "How much you know from my scans?"
+          },
+          {
+            "stringId": "1762182389980008448",
+            "femaleVariant": "This is not over. NetWatch will return."
+          },
+          {
+            "stringId": "1762184829789868032",
+            "femaleVariant": "Think you more clever than NetPig?"
+          },
+          {
+            "stringId": "1762189361819226112",
+            "femaleVariant": "I do not know what NetWatch plans, but they are not done."
+          },
+          {
+            "stringId": "1762195610291998720",
+            "femaleVariant": "We are not safe here."
+          },
+          {
+            "stringId": "1763422519877242884",
+            "femaleVariant": "You must be Brigitte."
+          },
+          {
+            "stringId": "1763423560635060224",
+            "femaleVariant": "Sending Placide away just for little ol' me?"
+          },
+          {
+            "stringId": "1763430815573020672",
+            "femaleVariant": "You must be Brigitte. Hard woman to find."
+          },
+          {
+            "stringId": "1763432975002046464",
+            "femaleVariant": "You have something for me."
+          },
+          {
+            "stringId": "1763433464779313152",
+            "femaleVariant": "You know about the biochip, don't you?"
+          },
+          {
+            "stringId": "1763435881084293120",
+            "femaleVariant": "Yes, and we must check its condition."
+          },
+          {
+            "stringId": "1763445173464141824",
+            "femaleVariant": "Sending Placide away just for little ol' me?"
+          },
+          {
+            "stringId": "1763446135167717376",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Soti, kounye a. Fè tout moun soti.\" t=\"Out, now. Get everyone out.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1763448084395003904",
+            "femaleVariant": "I did not want him to harm you. That we cannot allow."
+          },
+          {
+            "stringId": "1763466409980268544",
+            "femaleVariant": "How much you know from my scans?"
+          },
+          {
+            "stringId": "1763467254914420736",
+            "femaleVariant": "More than Placide, I am sure."
+          },
+          {
+            "stringId": "1763468160246550528",
+            "femaleVariant": "You recognized the biochip 'cause you've been looking for it.",
+            "maleVariant": "You recognized the biochip 'cause you were lookin' for it."
+          },
+          {
+            "stringId": "1763547424874631168",
+            "femaleVariant": "We must examine you. If you survived the GIM, it is at the chip's cost."
+          },
+          {
+            "stringId": "1770436649037402112",
+            "femaleVariant": "You must be Brigitte."
+          },
+          {
+            "stringId": "1770437864446038016",
+            "femaleVariant": "You must be Brigitte. Hard woman to find."
+          },
+          {
+            "stringId": "1770439217947938816",
+            "femaleVariant": "You have something for me."
+          },
+          {
+            "stringId": "1770449282801143808",
+            "femaleVariant": "That why you're talkin' to me? The biochip?"
+          },
+          {
+            "stringId": "1770586022681579520",
+            "femaleVariant": "Well?"
+          },
+          {
+            "stringId": "1770587458375061504",
+            "femaleVariant": "V!"
+          },
+          {
+            "stringId": "1947342633826013184",
+            "femaleVariant": "If it is in good condition, we offer you a fair price. Perhaps more for the... emotional toll."
+          },
+          {
+            "stringId": "1947346639554105344",
+            "femaleVariant": "You will get apology when you say how much you want for the chip. If it is in good condition, of course."
+          },
+          {
+            "stringId": "1947352380734197764",
+            "femaleVariant": "Biochip's not for sale."
+          },
+          {
+            "stringId": "1947353864393740288",
+            "femaleVariant": "Biochip was already damaged."
+          },
+          {
+            "stringId": "1947354982058315780",
+            "femaleVariant": "Hh, biochip's not for sale.",
+            "maleVariant": "Heh, biochip's not for sale."
+          },
+          {
+            "stringId": "1947354983031394304",
+            "femaleVariant": "And you're not rippin' it outta me. Thing was in shit shape already before I strolled into the GIM."
+          },
+          {
+            "stringId": "1947354985094991876",
+            "femaleVariant": "Chip's already taken some damage. That's why I'm here to begin with."
+          },
+          {
+            "stringId": "1947354986974040068",
+            "femaleVariant": "Not that bad. Problem is, no one I've talked to can yank it out without risk of death."
+          },
+          {
+            "stringId": "1947354987896786944",
+            "femaleVariant": "Seein' as you commissioned the thing's theft, figured you might know a way to help."
+          },
+          {
+            "stringId": "1947354988853088256",
+            "femaleVariant": "How do you know all dis? How did you find us?"
+          },
+          {
+            "stringId": "1947357988602531840",
+            "femaleVariant": "It does not function?"
+          },
+          {
+            "stringId": "1973792356107571200",
+            "femaleVariant": "I'll give you access."
+          },
+          {
+            "stringId": "1973792721683107840",
+            "femaleVariant": "Access is all yours. Want this thing outta my head ASAP."
+          },
+          {
+            "stringId": "1973796997457268736",
+            "femaleVariant": "Oh?"
+          },
+          {
+            "stringId": "1973797272670720000",
+            "femaleVariant": "Meant nothin' but problems ever since Konpeki…"
+          },
+          {
+            "stringId": "1973800683294183424",
+            "femaleVariant": "I'll give you access."
+          },
+          {
+            "stringId": "2251965429256372224",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"You tell me, \" a=\"!\"/>"
+          }
+        ]
+      }
+
+
+

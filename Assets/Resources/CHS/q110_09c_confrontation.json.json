@@ -1,0 +1,846 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1632917027321876480",
+            "femaleVariant": "你居然回来了？你怎么办到的？"
+          },
+          {
+            "stringId": "1632917406201745408",
+            "femaleVariant": "让你失望了？"
+          },
+          {
+            "stringId": "1632917406218522632",
+            "femaleVariant": "我正想找布丽奇特聊聊这事。"
+          },
+          {
+            "stringId": "1632926942773972996",
+            "femaleVariant": "我要见布丽奇特。"
+          },
+          {
+            "stringId": "1632930939660472320",
+            "femaleVariant": "你敢算计我，王八蛋！"
+          },
+          {
+            "stringId": "1632935719237652480",
+            "femaleVariant": "我要见布丽奇特，我要见你们的老大。"
+          },
+          {
+            "stringId": "1632936664499556352",
+            "femaleVariant": "你雇的那些人，全都是被你坑死的吧？"
+          },
+          {
+            "stringId": "1632946533982081024",
+            "femaleVariant": "网监狗的话你也信？他说什么了？"
+          },
+          {
+            "stringId": "1633021026482065412",
+            "femaleVariant": "那是你派去的另一个人？"
+          },
+          {
+            "stringId": "1633027715893628928",
+            "femaleVariant": "你带着网监的病毒，还想见我老大？蠢娘们。",
+            "maleVariant": "你带着网监的病毒，还想见我老大？王八蛋。"
+          },
+          {
+            "stringId": "1633083694232440832",
+            "femaleVariant": "他就是海王星吧？被你派去踩雷的那个倒霉鬼。"
+          },
+          {
+            "stringId": "1633096262246273024",
+            "femaleVariant": "怎么，他还有救吗？"
+          },
+          {
+            "stringId": "1633101003554623488",
+            "femaleVariant": "操心自己，别操心别人。"
+          },
+          {
+            "stringId": "1633244523393257472",
+            "femaleVariant": "没想到吧？让我帮你干活，然后送我去死。"
+          },
+          {
+            "stringId": "1633245064961789952",
+            "femaleVariant": "对…不过我要跟布丽奇特聊。"
+          },
+          {
+            "stringId": "1633246144676302848",
+            "femaleVariant": "那是另一个人？"
+          },
+          {
+            "stringId": "1633246144726634496",
+            "femaleVariant": "那是你派去的另一个人？"
+          },
+          {
+            "stringId": "1633246144743411728",
+            "femaleVariant": "看来没挺住啊。"
+          },
+          {
+            "stringId": "1633253164481581056",
+            "femaleVariant": "要说就跟我说。"
+          },
+          {
+            "stringId": "1660690973198716928",
+            "femaleVariant": "你在商场里不干正事！"
+          },
+          {
+            "stringId": "1660697025763938304",
+            "femaleVariant": "我要你入侵那个特工，不是谈生意！"
+          },
+          {
+            "stringId": "1660717488766521344",
+            "femaleVariant": "到底怎么回事。你要是不说，我就把你豁开，看看网监种的是什么鬼。"
+          },
+          {
+            "stringId": "1661803289399070720",
+            "femaleVariant": "你要不说，我就把你豁开，看看网监种的什么鬼。"
+          },
+          {
+            "stringId": "1661825630443212800",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li tounen.\" t=\"她回来了。\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Li tounen.\" t=\"他回来了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1661839049380663308",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Ase\" b=\"\" a=\"(是），我们必须下去。\"/>"
+          },
+          {
+            "stringId": "1661839049380663320",
+            "femaleVariant": "你不是要带她去密室吧？"
+          },
+          {
+            "stringId": "1661839049380663332",
+            "femaleVariant": "她就是一块擦脚布，扫描你也看过了。"
+          },
+          {
+            "stringId": "1661851562398781444",
+            "femaleVariant": "[出拳] 有种你就试试。"
+          },
+          {
+            "stringId": "1661856725637337088",
+            "femaleVariant": "我没有反水，也不会帮网监，看。"
+          },
+          {
+            "stringId": "1661858016157569024",
+            "femaleVariant": "你动我试试？"
+          },
+          {
+            "stringId": "1661859329729695744",
+            "femaleVariant": "听着，我没有反水，也没有站队，只是做了个交易。"
+          },
+          {
+            "stringId": "1661861193510621184",
+            "femaleVariant": "切！除了我没被强酸烧死，还在你面前喘气之外，你说的事哪个我没办？"
+          },
+          {
+            "stringId": "1661866629999693824",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Bouzen estipid.\" t=\"蠢娘们。\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Stupid fucker.\" t=\"王八蛋。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1661874087103107072",
+            "femaleVariant": "他都把你卖了，你还笑着帮他数钱呢。"
+          },
+          {
+            "stringId": "1661879896650354688",
+            "femaleVariant": "切…"
+          },
+          {
+            "stringId": "1661928162754629632",
+            "femaleVariant": "你在大帝国商场里对我干了什么？"
+          },
+          {
+            "stringId": "1661931354720636928",
+            "femaleVariant": "看来我该跟网络监察合作的。"
+          },
+          {
+            "stringId": "1661935994795266048",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Exacte\" b=\"\" a=\"（是的）我要弄清楚为什么。\"/>"
+          },
+          {
+            "stringId": "1661936252375863296",
+            "femaleVariant": "活你没干，你压根就没去调查那辆车。"
+          },
+          {
+            "stringId": "1661974495502864384",
+            "femaleVariant": "网监狗都死了，网络和 BBS 也炸了…但你却活着回来了。"
+          },
+          {
+            "stringId": "1661976561801564160",
+            "femaleVariant": "你在大帝国商场里放的是什么玩意儿？是巫毒病毒？还是定向的电磁脉冲？"
+          },
+          {
+            "stringId": "1662001020633681920",
+            "femaleVariant": "你们肯定是哪里搞砸了…"
+          },
+          {
+            "stringId": "1662001588827656192",
+            "femaleVariant": "看来我真该和网监合作的。"
+          },
+          {
+            "stringId": "1662003976879804416",
+            "femaleVariant": "跟那帮网狗就能得好吗？他们会捧着你，不把你当尿壶？"
+          },
+          {
+            "stringId": "1662008165429219328",
+            "femaleVariant": "我本来要去的…可惜有人暗算我。然后，我就没心情干活了。"
+          },
+          {
+            "stringId": "1662016066055114752",
+            "femaleVariant": "看来你们搞砸了。"
+          },
+          {
+            "stringId": "1662017451433725952",
+            "femaleVariant": "布丽奇特怎么说？"
+          },
+          {
+            "stringId": "1662019859584978944",
+            "femaleVariant": "你没干活，你没去调查那辆车。"
+          },
+          {
+            "stringId": "1662019859584978960",
+            "femaleVariant": "我本来要去的…可惜有人暗算我。然后，我就没心情干活了。"
+          },
+          {
+            "stringId": "1662021473217613824",
+            "femaleVariant": "但你还活着。那个网监狗都死了，网络和 BBS 也炸了…你倒是还在喘气。"
+          },
+          {
+            "stringId": "1662044919058206752",
+            "femaleVariant": "那个网监狗都死了，网络和 BBS 也炸了…你倒是没事，为什么。"
+          },
+          {
+            "stringId": "1663299823525498880",
+            "femaleVariant": "我要弄清楚为什么。"
+          },
+          {
+            "stringId": "1663301342819848192",
+            "femaleVariant": "给你们办事弄得我一身骚，脑袋里多了条虫子，得罪了网络监察，还被你这狗日的摆了一道。",
+            "maleVariant": "靠，给你们办事弄得我一身骚，脑袋里多了条虫子，得罪了网络监察，还被你这狗日的摆了一道。"
+          },
+          {
+            "stringId": "1663372139181707264",
+            "femaleVariant": "但你还活着。那个网监狗都死了，网络和 BBS 也炸了…你倒是还在喘气。"
+          },
+          {
+            "stringId": "1663373747294638080",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"“Ki vale limyè”\" b=\"它叫 \" a=\"，吞光者。\"/>"
+          },
+          {
+            "stringId": "1663375302710333440",
+            "femaleVariant": "网监特工吞了光。网络、BBS，都毁了。只有你没事。你把光又吐了出来。"
+          },
+          {
+            "stringId": "1663378837552304128",
+            "femaleVariant": "我自己跳线前都看到了，莫斯利线上的网络监察特工全都被烧死了。"
+          },
+          {
+            "stringId": "1692401179394330624",
+            "femaleVariant": "带路吧。"
+          },
+          {
+            "stringId": "1692401179411107844",
+            "femaleVariant": "看起来我没得选了。"
+          },
+          {
+            "stringId": "1692401866018672640",
+            "femaleVariant": "不。我想先试试别的办法。"
+          },
+          {
+            "stringId": "1692458521536253952",
+            "femaleVariant": "我还没到求你们的份儿上。"
+          },
+          {
+            "stringId": "1692462416316616704",
+            "femaleVariant": "你明白只有我们能帮你。"
+          },
+          {
+            "stringId": "1692463441287073792",
+            "femaleVariant": "这事儿也许还有别的什么可能性。",
+            "maleVariant": "这事儿也许还有别的什么可能…"
+          },
+          {
+            "stringId": "1692464879765573636",
+            "femaleVariant": "好吧，我让你们访问。"
+          },
+          {
+            "stringId": "1692470015170727936",
+            "femaleVariant": "我怎么知道你们不会再耍我？"
+          },
+          {
+            "stringId": "1692476593282240512",
+            "femaleVariant": "那…带路吧。"
+          },
+          {
+            "stringId": "1692476951240921088",
+            "femaleVariant": "看起来我没得选了。"
+          },
+          {
+            "stringId": "1692476951240921096",
+            "femaleVariant": "跟我来。"
+          },
+          {
+            "stringId": "1692577113770577920",
+            "femaleVariant": "你改变想法了吗？"
+          },
+          {
+            "stringId": "1692595933662957568",
+            "femaleVariant": "也就是说…？"
+          },
+          {
+            "stringId": "1696630994602627072",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Ase\" b=\"\" a=\"（是)，我们必须下去。\"/>"
+          },
+          {
+            "stringId": "1696630994619404296",
+            "femaleVariant": "你担心出事？那一枪崩了这王八蛋啊。"
+          },
+          {
+            "stringId": "1696630994619404316",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"我知道。我扫描过她，她就是一块“\" a=\"（擦脚布）”。\"/>",
+            "maleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"我知道。我扫描过他，他就是一块“\" a=\"（擦脚布）”。\"/>"
+          },
+          {
+            "stringId": "1696630994636181520",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ale. Mennen moun yo nan kavo a.\" t=\"走吧。带其他人到密室去。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1696642493421260800",
+            "femaleVariant": "谁知道网监在她身上装了什么，到底有什么猫腻！",
+            "maleVariant": "谁知道网监在他身上装了什么，到底有什么猫腻！"
+          },
+          {
+            "stringId": "1696649956212150272",
+            "femaleVariant": "你压根就不明白，你不知道那芯片的价值。"
+          },
+          {
+            "stringId": "1696700790354546688",
+            "femaleVariant": "你知道生物芯片的事，对吧？"
+          },
+          {
+            "stringId": "1696756929620414464",
+            "femaleVariant": "你知道生物芯片的事，对吧？"
+          },
+          {
+            "stringId": "1696761027354759168",
+            "femaleVariant": "如果芯片正常，就给你个好价钱。"
+          },
+          {
+            "stringId": "1696785943684780036",
+            "femaleVariant": "这生物芯片不卖。"
+          },
+          {
+            "stringId": "1696786597291560960",
+            "femaleVariant": "芯片坏了，我来就是为了这个。"
+          },
+          {
+            "stringId": "1696791447383379968",
+            "femaleVariant": "这生物芯片不卖。"
+          },
+          {
+            "stringId": "1696795079784861696",
+            "femaleVariant": "芯片坏了，我来就是为了这个。"
+          },
+          {
+            "stringId": "1696798555705249792",
+            "femaleVariant": "别想硬抢，反正都坏得没模样了，我也不怕再坏点儿。"
+          },
+          {
+            "stringId": "1696806521745510400",
+            "femaleVariant": "我不知道谁能取出这芯片，还不让我的脑袋变成豆花。"
+          },
+          {
+            "stringId": "1696808200893173760",
+            "femaleVariant": "但你既然派人去偷，就说明你知道些什么，没错吧。"
+          },
+          {
+            "stringId": "1696809727988928512",
+            "femaleVariant": "你是怎么知道的？怎么找到我们的。"
+          },
+          {
+            "stringId": "1696810956265689092",
+            "femaleVariant": "记得艾芙琳·帕克吗？"
+          },
+          {
+            "stringId": "1696812301395759104",
+            "femaleVariant": "你到底能不能帮我？"
+          },
+          {
+            "stringId": "1696817313085722624",
+            "femaleVariant": "艾芙琳·帕克——这名字耳熟吗？"
+          },
+          {
+            "stringId": "1696818675664097280",
+            "femaleVariant": "我说，你到底能不能帮我？"
+          },
+          {
+            "stringId": "1696819641763303424",
+            "femaleVariant": "当然能。但不在这儿，要先去密室…你必须让我们接入芯片。"
+          },
+          {
+            "stringId": "1696827100510883840",
+            "femaleVariant": "啊，那个性偶，妓女。"
+          },
+          {
+            "stringId": "1696831452520714240",
+            "femaleVariant": "原来是她帮的你，看来还不完全是个废物。"
+          },
+          {
+            "stringId": "1696900420384133120",
+            "femaleVariant": "干什么？软的不行，要来硬的？"
+          },
+          {
+            "stringId": "1696905614492766208",
+            "femaleVariant": "放开她。",
+            "maleVariant": "放开他。"
+          },
+          {
+            "stringId": "1696913563520929792",
+            "femaleVariant": "你知道芯片在我手上，所以才露面来找我的吧？"
+          },
+          {
+            "stringId": "1696913563655147520",
+            "femaleVariant": "不是因为我救了你?"
+          },
+          {
+            "stringId": "1696913563688701952",
+            "femaleVariant": "要是普通的“Ranyon”，早就被你干掉了吧？就跟艾芙琳一样。"
+          },
+          {
+            "stringId": "1696913563705479176",
+            "femaleVariant": "普拉西德以为你是大街上混饭吃的，是个赛博垃圾，所以选了你。"
+          },
+          {
+            "stringId": "1696913563705479196",
+            "femaleVariant": "但你知道芯片的事，还选择去大帝国商场冒险。"
+          },
+          {
+            "stringId": "1696913563705479220",
+            "femaleVariant": "对，跟你一样，只不过我可没用别人救我。"
+          },
+          {
+            "stringId": "1696952602173181952",
+            "femaleVariant": "我看了。"
+          },
+          {
+            "stringId": "1696956756799066116",
+            "femaleVariant": "动手杀我前你们就该想到的。"
+          },
+          {
+            "stringId": "1696957641361002496",
+            "femaleVariant": "我的脑袋又不是菜市场。"
+          },
+          {
+            "stringId": "1696960530246602752",
+            "femaleVariant": "我的脑袋又不是菜市场，想逛就逛。再说我现在信不着你们。"
+          },
+          {
+            "stringId": "1696960530246602772",
+            "femaleVariant": "你来的不是时候。"
+          },
+          {
+            "stringId": "1696960530246602792",
+            "femaleVariant": "你这是在跟我道歉吗？"
+          },
+          {
+            "stringId": "1696964978222108672",
+            "femaleVariant": "动手杀我前你们就该想到的。",
+            "maleVariant": "动手杀我前你们就应该想到的。"
+          },
+          {
+            "stringId": "1705567597547032576",
+            "femaleVariant": "等我们拿到想要的数据，会尽力帮你的。"
+          },
+          {
+            "stringId": "1705586853076602880",
+            "femaleVariant": "逗我呢？我做了这么多还不行？"
+          },
+          {
+            "stringId": "1705587421287354368",
+            "femaleVariant": "逗我呢？我做了这么多还不行？"
+          },
+          {
+            "stringId": "1705621747219632128",
+            "femaleVariant": "没有其他办法。必须先检查，才能移除芯片。"
+          },
+          {
+            "stringId": "1705624205132107776",
+            "femaleVariant": "你们这是怕白忙活一场吧，嗯？"
+          },
+          {
+            "stringId": "1705624544535187456",
+            "femaleVariant": "我们一定会帮你，我保证。"
+          },
+          {
+            "stringId": "1709618509182423040",
+            "femaleVariant": "我怎么知道你们不会再耍我？"
+          },
+          {
+            "stringId": "1709828481878396928",
+            "femaleVariant": "跟我来。"
+          },
+          {
+            "stringId": "1709865163264692224",
+            "femaleVariant": "如果我在，就不会让芯片有危险。"
+          },
+          {
+            "stringId": "1709949921424379904",
+            "femaleVariant": "我以为你挂了。"
+          },
+          {
+            "stringId": "1709955692635688964",
+            "femaleVariant": "到底出了什么事？"
+          },
+          {
+            "stringId": "1709958286141624320",
+            "femaleVariant": "你本来就算计好了吧？"
+          },
+          {
+            "stringId": "1709959026654384128",
+            "femaleVariant": "到底出了什么事？"
+          },
+          {
+            "stringId": "1709973252794028032",
+            "femaleVariant": "你早就算计好了吧？我没用了，但又没死，所以你想斩草除根。"
+          },
+          {
+            "stringId": "1709974277982588932",
+            "femaleVariant": "你们的人？谁？"
+          },
+          {
+            "stringId": "1709976335271923712",
+            "femaleVariant": "放屁。"
+          },
+          {
+            "stringId": "1709978916933144576",
+            "femaleVariant": "不对，你搞错了。莫斯利给你灌了迷魂汤。"
+          },
+          {
+            "stringId": "1709979672260186112",
+            "femaleVariant": "什么莫斯利。我自己不会看吗？我说对了是不是？"
+          },
+          {
+            "stringId": "1709982003185913868",
+            "femaleVariant": "连接丢失了，是意外。"
+          },
+          {
+            "stringId": "1709982003185913892",
+            "femaleVariant": "我看见你烧掉了那些特工的脑袋。别告诉我你不知道出了什么事。别告诉我是我自己看错了。"
+          },
+          {
+            "stringId": "1709982003202691072",
+            "femaleVariant": "你进入了交战区，被击中了，就这样。"
+          },
+          {
+            "stringId": "1709982003202691084",
+            "femaleVariant": "我必须先救我们的人，他们很重要。我也想救你的，但莫斯利…太厉害了。"
+          },
+          {
+            "stringId": "1709987428367142912",
+            "femaleVariant": "我要见布丽奇特。"
+          },
+          {
+            "stringId": "1709989493726318592",
+            "femaleVariant": "放屁。"
+          },
+          {
+            "stringId": "1709990151661621248",
+            "femaleVariant": "就算是，那又怎么样？"
+          },
+          {
+            "stringId": "1709994868676562944",
+            "femaleVariant": "你们的人？谁？"
+          },
+          {
+            "stringId": "1709995518357475328",
+            "femaleVariant": "布丽奇特，还有其他人。她被 ICE 冻住了。"
+          },
+          {
+            "stringId": "1709995930070355968",
+            "femaleVariant": "你看，这烂差事其实你不亏，这样你才能见到布丽奇特。"
+          },
+          {
+            "stringId": "1709996723045470208",
+            "femaleVariant": "我去你的…坑都填完了，现在跟我说这个？"
+          },
+          {
+            "stringId": "1710001987920400384",
+            "femaleVariant": "布丽奇特——我要见她。"
+          },
+          {
+            "stringId": "1710004639643275264",
+            "femaleVariant": "活我干完了，咱们的买卖了了，普拉西德，我跟你现在说不着。"
+          },
+          {
+            "stringId": "1710006963254136832",
+            "femaleVariant": "有话就跟我说。"
+          },
+          {
+            "stringId": "1710020727466692612",
+            "femaleVariant": "又想在我脑子里瞎转了？"
+          },
+          {
+            "stringId": "1710023361405718528",
+            "femaleVariant": "希望你比普拉西德靠谱。"
+          },
+          {
+            "stringId": "1710032456267403264",
+            "femaleVariant": "普拉西德这个人呢，和我气场不合。"
+          },
+          {
+            "stringId": "1710033919274192896",
+            "femaleVariant": "我也不喜欢别人瞒着我，还有，再让我听见有人说什么…什么来着的？对，“ranyon”，这到底是什么意思？",
+            "maleVariant": "我也不喜欢别人瞒着我，还有，再让我听见有人说什么…什么来着？对，“ranyon”，这到底是什么意思？"
+          },
+          {
+            "stringId": "1710036667600277504",
+            "femaleVariant": "以后再告诉你。这里太危险了，我们必须先到密室去。"
+          },
+          {
+            "stringId": "1710049050309758976",
+            "femaleVariant": "不怕再把芯片弄坏了吗，嗯？"
+          },
+          {
+            "stringId": "1710051802024841216",
+            "femaleVariant": "希望你别走投无路了再来找我。"
+          },
+          {
+            "stringId": "1710056565915324416",
+            "femaleVariant": "好吧，我让你们访问。"
+          },
+          {
+            "stringId": "1710056565915324428",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Finalman\" b=\"\" a=\"（终于），跟我来吧。\"/>"
+          },
+          {
+            "stringId": "1712776200410435584",
+            "femaleVariant": "你不能因为普拉西德做的事情而责怪我，当时我被困住了。"
+          },
+          {
+            "stringId": "1712784631934554112",
+            "femaleVariant": "我可从来都没有骗过你。"
+          },
+          {
+            "stringId": "1719852599180857344",
+            "femaleVariant": "到底怎么回事？不说我就把你豁开自己看。"
+          },
+          {
+            "stringId": "1722582296215765008",
+            "femaleVariant": "到底怎么回事儿。你要不说，我就把你豁开，看看网监种的是什么鬼。"
+          },
+          {
+            "stringId": "1740295214932373504",
+            "femaleVariant": "你耍我！"
+          },
+          {
+            "stringId": "1740295495078326272",
+            "femaleVariant": "[出拳] 你敢算计我。"
+          },
+          {
+            "stringId": "1751915404054564864",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Bouzen sal\" b=\"你，\" a=\"（臭婊子）！\"/>",
+            "maleVariant": "<mothertongue l=\"creo\" m=\"Bata sal\" b=\"你，\" a=\"（婊子养的）！\"/>"
+          },
+          {
+            "stringId": "1754528032341954560",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ase!\" t=\"够了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754528032341954580",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Men, ou te wè --\" t=\"你也看到了—\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754528032358731784",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"是。我看了她的扫描。她不是“\" a=\"（擦脚布）”。\"/>",
+            "maleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"是。我看了他的扫描。他不是“\" a=\"（擦脚布）”。\"/>"
+          },
+          {
+            "stringId": "1754532446846914560",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Kite nou.\" t=\"你出去。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754534625871728640",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Voye pèp nou an anba a.\" t=\"带我们的人到下面去。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1755980873667915780",
+            "femaleVariant": "我的扫描你能看出什么？"
+          },
+          {
+            "stringId": "1762182389980008448",
+            "femaleVariant": "事情还没完，网监还会回来的。"
+          },
+          {
+            "stringId": "1762184829789868032",
+            "femaleVariant": "你觉得自己很聪明？"
+          },
+          {
+            "stringId": "1762189361819226112",
+            "femaleVariant": "我不知道网络监察想干什么，但事情还没完。"
+          },
+          {
+            "stringId": "1762195610291998720",
+            "femaleVariant": "这里不安全。"
+          },
+          {
+            "stringId": "1763422519877242884",
+            "femaleVariant": "你就是布丽奇特吧。"
+          },
+          {
+            "stringId": "1763423560635060224",
+            "femaleVariant": "你支开普拉西德，是有话要说？"
+          },
+          {
+            "stringId": "1763430815573020672",
+            "femaleVariant": "你就是布丽奇特吧，见你一面可真难啊。"
+          },
+          {
+            "stringId": "1763432975002046464",
+            "femaleVariant": "你对我们很重要。"
+          },
+          {
+            "stringId": "1763433464779313152",
+            "femaleVariant": "你知道生物芯片的事，对吧？"
+          },
+          {
+            "stringId": "1763435881084293120",
+            "femaleVariant": "对，而且要检查芯片。"
+          },
+          {
+            "stringId": "1763445173464141824",
+            "femaleVariant": "你支开普拉西德，是有话要说？"
+          },
+          {
+            "stringId": "1763446135167717376",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Soti, kounye a. Fè tout moun soti.\" t=\"都走。所有人都出去。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1763448084395003904",
+            "femaleVariant": "我不想他伤害你，我是想保护你。"
+          },
+          {
+            "stringId": "1763466409980268544",
+            "femaleVariant": "我的扫描你能看出什么？"
+          },
+          {
+            "stringId": "1763467254914420736",
+            "femaleVariant": "肯定比普拉西德看的多。"
+          },
+          {
+            "stringId": "1763468160246550528",
+            "femaleVariant": "你能认出这个芯片，说明你之前见过。"
+          },
+          {
+            "stringId": "1763547424874631168",
+            "femaleVariant": "我们要检查你，你能活着回来，都因为这芯片。"
+          },
+          {
+            "stringId": "1770436649037402112",
+            "femaleVariant": "你就是布丽奇特吧。"
+          },
+          {
+            "stringId": "1770437864446038016",
+            "femaleVariant": "你就是布丽奇特吧，你可真难找。"
+          },
+          {
+            "stringId": "1770439217947938816",
+            "femaleVariant": "你对我们很重要。"
+          },
+          {
+            "stringId": "1770449282801143808",
+            "femaleVariant": "你来找我是为了芯片？"
+          },
+          {
+            "stringId": "1770586022681579520",
+            "femaleVariant": "嗯？"
+          },
+          {
+            "stringId": "1770587458375061504",
+            "femaleVariant": "V！"
+          },
+          {
+            "stringId": "1947342633826013184",
+            "femaleVariant": "如果芯片还能用，我们会付你合理的报酬，甚至可以包括你的…精神损失费。"
+          },
+          {
+            "stringId": "1947346639554105344",
+            "femaleVariant": "道歉的话留到你开价时再说吧。当然，如果芯片还能用的话。"
+          },
+          {
+            "stringId": "1947352380734197764",
+            "femaleVariant": "芯片不卖。"
+          },
+          {
+            "stringId": "1947353864393740288",
+            "femaleVariant": "芯片已经坏了。"
+          },
+          {
+            "stringId": "1947354982058315780",
+            "femaleVariant": "这生物芯片不卖。"
+          },
+          {
+            "stringId": "1947354983031394304",
+            "femaleVariant": "也别想硬抢。我进大帝国商场之前，它就已经报废了。"
+          },
+          {
+            "stringId": "1947354985094991876",
+            "femaleVariant": "这个芯片已经坏了。我来就是为了这件事。"
+          },
+          {
+            "stringId": "1947354986974040068",
+            "femaleVariant": "还不至于。问题是，我找的人说不能直接拽出来。"
+          },
+          {
+            "stringId": "1947354987896786944",
+            "femaleVariant": "但你既然你派人去偷，就说明你知道些什么，没错吧？"
+          },
+          {
+            "stringId": "1947354988853088256",
+            "femaleVariant": "你是怎么知道的？怎么找到我们的？"
+          },
+          {
+            "stringId": "1947357988602531840",
+            "femaleVariant": "它已经不能用了？"
+          },
+          {
+            "stringId": "1973792356107571200",
+            "femaleVariant": "我让你接入。"
+          },
+          {
+            "stringId": "1973792721683107840",
+            "femaleVariant": "动手吧。赶紧把这玩意儿从我脑袋上取出来。"
+          },
+          {
+            "stringId": "1973796997457268736",
+            "femaleVariant": "噢？"
+          },
+          {
+            "stringId": "1973797272670720000",
+            "femaleVariant": "绀碧大厦之后就一直在我脑袋里…"
+          },
+          {
+            "stringId": "1973800683294183424",
+            "femaleVariant": "我让你接入。"
+          },
+          {
+            "stringId": "2251965429256372224",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"ranyon\" b=\"没话说了吗，\" a=\"（擦脚布）！\"/>"
+          }
+        ]
+      }
+
+
+

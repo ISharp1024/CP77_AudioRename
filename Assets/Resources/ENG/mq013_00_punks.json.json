@@ -1,0 +1,374 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1792286477788389376",
+            "femaleVariant": "One second, boss... Brad? Hey, Brad!"
+          },
+          {
+            "stringId": "1792287336278532096",
+            "femaleVariant": "Listen, boss, you help me out? Kids on the block been up my ass lately, and you seem real tough..."
+          },
+          {
+            "stringId": "1792288099692191744",
+            "femaleVariant": "[Stand] Sure, I'll help."
+          },
+          {
+            "stringId": "1792288185104998400",
+            "femaleVariant": "Might as well, since I'm here. Lead the way."
+          },
+          {
+            "stringId": "1792288192822517760",
+            "femaleVariant": "Not my bike, not my biz. Simple as that."
+          },
+          {
+            "stringId": "1792288341468651520",
+            "femaleVariant": "[Stand] You're on your own."
+          },
+          {
+            "stringId": "1792294771504455680",
+            "femaleVariant": "Thanks, boss. All right, follow me."
+          },
+          {
+            "stringId": "1792295223918862336",
+            "femaleVariant": "Oh well, can't force you. Just have to do it myself."
+          },
+          {
+            "stringId": "1792295436049981440",
+            "femaleVariant": "You lost your minds? Get you grubby paws off my bike?"
+          },
+          {
+            "stringId": "1792296376211611648",
+            "femaleVariant": "You think we're playing around? This a small price to pay for fuckin' treason!"
+          },
+          {
+            "stringId": "1792297738957758464",
+            "femaleVariant": "Fuck you want? This ain't none o' your biz!"
+          },
+          {
+            "stringId": "1792298430313275396",
+            "femaleVariant": "Leave him alone."
+          },
+          {
+            "stringId": "1792298641790083072",
+            "femaleVariant": "You fuckin' deaf?"
+          },
+          {
+            "stringId": "1792299007113961472",
+            "femaleVariant": "Never mind. I'll just be on my way."
+          },
+          {
+            "stringId": "1792300793518366720",
+            "femaleVariant": "You forget how to speak, huh?"
+          },
+          {
+            "stringId": "1792300802729058304",
+            "femaleVariant": "You hear me? Speak up or fuck off."
+          },
+          {
+            "stringId": "1792302949172518912",
+            "femaleVariant": "You're gettin' back at corps by stealin' from a street vendor? Oh, that says a lot about you. Now back the fuck away from him.",
+            "maleVariant": "You're gettin' back at corps by stealin' from a street vendor? Says a lot about you. Now back the fuck away from him."
+          },
+          {
+            "stringId": "1792302957678567424",
+            "femaleVariant": "Know what? You're right, this ain't my biz. Do whatever you want."
+          },
+          {
+            "stringId": "1792353471359361024",
+            "femaleVariant": "Or you'll do what?"
+          },
+          {
+            "stringId": "1792353855255617536",
+            "femaleVariant": "You think I need your fuckin' permission?!"
+          },
+          {
+            "stringId": "1792353964777283584",
+            "femaleVariant": "Please, boss! Don't leave me like this!"
+          },
+          {
+            "stringId": "1792357434003562496",
+            "femaleVariant": "You still can't let go of that? Shenna made a choice – you should be proud of her!"
+          },
+          {
+            "stringId": "1792401080300085252",
+            "femaleVariant": "I'll blow your brains out."
+          },
+          {
+            "stringId": "1792401223963385856",
+            "femaleVariant": "I could break your jaw, fracture your skull, shoot you... the possibilities are endless."
+          },
+          {
+            "stringId": "1792401305920086016",
+            "femaleVariant": "I changed my mind. Do whatever you want."
+          },
+          {
+            "stringId": "1792401592290385920",
+            "femaleVariant": "You know what? You're right, this ain't my biz. Do whatever you want."
+          },
+          {
+            "stringId": "1792401920117186560",
+            "femaleVariant": "You care so much about a rat-fuckin' traitor – then you can die together!"
+          },
+          {
+            "stringId": "1792402224724320256",
+            "femaleVariant": "Smart move, shitbag. Now get lost before you catch any stray lead."
+          },
+          {
+            "stringId": "1792403399666311168",
+            "femaleVariant": "Eh, don't worry about it. I've had worse. No-good fucking deadbeats!"
+          },
+          {
+            "stringId": "1792404035371802624",
+            "femaleVariant": "Anyway... stop by whenever you around. I throw in a nice discount for you!"
+          },
+          {
+            "stringId": "1792404350414364672",
+            "femaleVariant": "Sure thing, boss. Thanks."
+          },
+          {
+            "stringId": "1792404632238039040",
+            "femaleVariant": "Give it up, Darrell, nobody gives a shit about you. Let this be a warning."
+          },
+          {
+            "stringId": "1792425399059226624",
+            "femaleVariant": "Come on, let's go before 6th Street shows up."
+          },
+          {
+            "stringId": "1793728856487632896",
+            "femaleVariant": "[Punch]"
+          },
+          {
+            "stringId": "1795368961405100036",
+            "femaleVariant": "You OK?"
+          },
+          {
+            "stringId": "1795370919725637632",
+            "femaleVariant": "Now that that's over, you OK?"
+          },
+          {
+            "stringId": "1796398932378525696",
+            "femaleVariant": "What's going on here?"
+          },
+          {
+            "stringId": "1796399427172179968",
+            "femaleVariant": "Relax, don't got any beef with you... for now. What happened?"
+          },
+          {
+            "stringId": "1796399749076623360",
+            "femaleVariant": "Your new pal here talked his sister into taking a job at Zetatech. Bitch just leaves and doesn't even say bye?!"
+          },
+          {
+            "stringId": "1796403835167580160",
+            "femaleVariant": "Yo, Brad. Ain't that... yo, that's the bitch everyone been talkin' about. One that came back from the dead!",
+            "maleVariant": "Yo, Brad. Ain't that... yo, that's the dude everyone been talkin' about. One that came back from the dead!"
+          },
+          {
+            "stringId": "1796418047751233540",
+            "femaleVariant": "Now that that's over, you OK?"
+          },
+          {
+            "stringId": "1796418047751233548",
+            "femaleVariant": "Who, me? Couldn't be better! All talk and no action, hehe. Maybe they should go get a job! Fucking parasites..."
+          },
+          {
+            "stringId": "1796418047751233556",
+            "femaleVariant": "Anyway... stop by whenever you around. I throw in a nice discount for you."
+          },
+          {
+            "stringId": "1796418047751233564",
+            "femaleVariant": "Will do, boss. Thanks."
+          },
+          {
+            "stringId": "1796418047952560128",
+            "femaleVariant": "You OK?"
+          },
+          {
+            "stringId": "1796421886898348032",
+            "femaleVariant": "Have they lost their damn minds?! Thanks, boss. That oughta teach 'em."
+          },
+          {
+            "stringId": "1796426860470476800",
+            "femaleVariant": "Fuck! Knocked him flat!"
+          },
+          {
+            "stringId": "1796437432029159424",
+            "femaleVariant": "See you around! And tell your sister I said \"Hi!\""
+          },
+          {
+            "stringId": "1821108533206958080",
+            "femaleVariant": "Proud?! That bitch sold out to a fucking corp! Now it's time for payback!"
+          },
+          {
+            "stringId": "1821110340851318784",
+            "femaleVariant": "You another corpo-rat?"
+          },
+          {
+            "stringId": "1821141893191024640",
+            "femaleVariant": "What about your sister's new job?"
+          },
+          {
+            "stringId": "1821175551859867648",
+            "femaleVariant": "We been runnin' these streets ever since we were kids! Hacking streetvending machines, fuckin' up corpos... S'what we live for!"
+          },
+          {
+            "stringId": "1821175728624615424",
+            "femaleVariant": "And what? Now she's too good for us?! Double-crossing cunt!"
+          },
+          {
+            "stringId": "1821176177180262400",
+            "femaleVariant": "You listen to yourselves? And how's stealin' from poor folk like me gonna make things better?"
+          },
+          {
+            "stringId": "1821221780136378368",
+            "femaleVariant": "You know how many gonks she offed already? And I ain't even talkin' s-solo...",
+            "maleVariant": "You know how many gonks he's offed already? And I ain't even talkin' s-solo..."
+          },
+          {
+            "stringId": "1821230634999988224",
+            "femaleVariant": "Shit... she followin' us?",
+            "maleVariant": "Shit... he followin' us?"
+          },
+          {
+            "stringId": "1821396608927645696",
+            "femaleVariant": "You really so mad Shenna got corp-job instead of doing whatever it is you do all day?"
+          },
+          {
+            "stringId": "1821397052886335488",
+            "femaleVariant": "Know what? I changed my mind. Fuck this corpo-lover up!"
+          },
+          {
+            "stringId": "1824394338327314432",
+            "femaleVariant": "And tell your sister to fuck off to another neighborhood, or next time we're coming for her brother!"
+          },
+          {
+            "stringId": "1824394741114716160",
+            "femaleVariant": "At least her life is going somewhere! So stay the fuck out of it and move on!"
+          },
+          {
+            "stringId": "1824431494391382016",
+            "femaleVariant": "Shenna's a grown-ass woman now. You should follow her example!"
+          },
+          {
+            "stringId": "1824450156980584448",
+            "femaleVariant": "Well, at least Shenna can focus on her job now. No one in the family ever got as high up as her."
+          },
+          {
+            "stringId": "1824471451310997504",
+            "femaleVariant": "Well, at least Shenna can focus on her job now. No one in the family ever got as high up as her."
+          },
+          {
+            "stringId": "1834160374299738112",
+            "femaleVariant": "Vance? Vance, wh-what you think you're doing?!"
+          },
+          {
+            "stringId": "1834169533552377856",
+            "femaleVariant": "'Course, if I ever see her again! New job's been tough on her lately."
+          },
+          {
+            "stringId": "1834184192040878080",
+            "femaleVariant": "Just between the two of us... you really proud your sister's joined the Zetatech fold?"
+          },
+          {
+            "stringId": "1834184465979260928",
+            "femaleVariant": "What about your sister's new job?"
+          },
+          {
+            "stringId": "1834210439391330304",
+            "femaleVariant": "Look, I know what you thinking. \"Corps are exploiting us,\" \"They're turning us into slaves.\" That's what people say, no?"
+          },
+          {
+            "stringId": "1834210597751472128",
+            "femaleVariant": "Well, guess what? They never have to worry 'bout puttin' food on table. Me and Shenna take whatever we can get."
+          },
+          {
+            "stringId": "1834210720057376768",
+            "femaleVariant": "She's probably runnin' on neurostims. You're not worried?"
+          },
+          {
+            "stringId": "1834210870918103040",
+            "femaleVariant": "Hey, you can't have it all. And even if we did, nobody get off their ass and do anything!"
+          },
+          {
+            "stringId": "1834211028741373952",
+            "femaleVariant": "Well, when you put it that way..."
+          },
+          {
+            "stringId": "1834214721943486464",
+            "femaleVariant": "Up till now we almost got used to them... but to pull a knife on one of their own?"
+          },
+          {
+            "stringId": "1864744166132555780",
+            "femaleVariant": "[Sit] Can I get a Chromanticore?"
+          },
+          {
+            "stringId": "1864949453790363648",
+            "femaleVariant": "Need a little pick-me-up. You got Chromanticore?"
+          },
+          {
+            "stringId": "1864949521117331456",
+            "femaleVariant": "Some water. You got Sain Ruisseau?"
+          },
+          {
+            "stringId": "1864949721672171520",
+            "femaleVariant": "[Sit] Sain Ruisseau, please."
+          },
+          {
+            "stringId": "1864984420041867264",
+            "femaleVariant": "[Sit] I'll have a Lothbrok."
+          },
+          {
+            "stringId": "1864984476329426944",
+            "femaleVariant": "I get a beer here? Lothbrok, maybe?"
+          },
+          {
+            "stringId": "1864989304728305664",
+            "femaleVariant": "The hell you want that swill for, boss? Heard some batches even glow in the dark!"
+          },
+          {
+            "stringId": "1864989430356099072",
+            "femaleVariant": "Why drink poison when you can drink Spunkey Monkey? Way better than--"
+          },
+          {
+            "stringId": "1864991732022362112",
+            "femaleVariant": "Ooof, boss – water? You don't want something with taste?"
+          },
+          {
+            "stringId": "1864991883268964352",
+            "femaleVariant": "Water is for the animals! People didn't invent sugar just to drink--"
+          },
+          {
+            "stringId": "1864993113659654144",
+            "femaleVariant": "Sorry, boss. No beer here."
+          },
+          {
+            "stringId": "1864993221688147968",
+            "femaleVariant": "Whaddaya got?"
+          },
+          {
+            "stringId": "1864993318861783040",
+            "femaleVariant": "Maybe something apricot-flavor? Some people say this gives them hiccups, but they lie! I never had--"
+          },
+          {
+            "stringId": "1865004367849701376",
+            "femaleVariant": "You freeze up a lot?"
+          }
+        ]
+      }
+
+
+

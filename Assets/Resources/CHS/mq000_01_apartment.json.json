@@ -1,0 +1,98 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "2028697799592157188",
+            "femaleVariant": "[坐下]"
+          },
+          {
+            "stringId": "2028698177566056448",
+            "femaleVariant": "[睡觉]"
+          },
+          {
+            "stringId": "2028699165173653504",
+            "femaleVariant": "[起身]"
+          },
+          {
+            "stringId": "2028737051734482948",
+            "femaleVariant": "[开始洗澡]"
+          },
+          {
+            "stringId": "2078186557357858816",
+            "femaleVariant": "[结束洗澡]"
+          },
+          {
+            "stringId": "2086887489105780736",
+            "femaleVariant": "[照镜子]"
+          },
+          {
+            "stringId": "2086931518929461248",
+            "femaleVariant": "[停止照镜子]"
+          },
+          {
+            "stringId": "2123159550320091136",
+            "femaleVariant": "[查看]"
+          },
+          {
+            "stringId": "2318488737380474884",
+            "femaleVariant": "[换下一个频道]"
+          },
+          {
+            "stringId": "2318489634374328320",
+            "femaleVariant": "[换上一个频道]"
+          },
+          {
+            "stringId": "2318490007398948864",
+            "femaleVariant": "[关闭]"
+          },
+          {
+            "stringId": "2531839124031037440",
+            "femaleVariant": "[微笑]"
+          },
+          {
+            "stringId": "2531839124031037460",
+            "femaleVariant": "[怒视]"
+          },
+          {
+            "stringId": "2531839124031037480",
+            "femaleVariant": "[噘嘴]"
+          },
+          {
+            "stringId": "2531839124047814664",
+            "femaleVariant": "[傻看]"
+          },
+          {
+            "stringId": "2531839124047814684",
+            "femaleVariant": "[凝视]"
+          },
+          {
+            "stringId": "2850426924185837568",
+            "femaleVariant": "[en_us][db_db][Enable the hairdresser]"
+          },
+          {
+            "stringId": "2851650094028972032",
+            "femaleVariant": "[en_us][db_db][Make faces]"
+          },
+          {
+            "stringId": "2851670434205556736",
+            "femaleVariant": "[en_us][db_db][Go back]"
+          }
+        ]
+      }
+
+
+

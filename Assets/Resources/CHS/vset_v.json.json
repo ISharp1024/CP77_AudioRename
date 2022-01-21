@@ -1,0 +1,707 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1969017759361646596",
+            "femaleVariant": "我要亲手弄死你。"
+          },
+          {
+            "stringId": "1969017759395201028",
+            "femaleVariant": "你的死期该到了吧？"
+          },
+          {
+            "stringId": "1969017759713968132",
+            "femaleVariant": "行，那不说了。"
+          },
+          {
+            "stringId": "1969017759730745348",
+            "femaleVariant": "我们以后再说。"
+          },
+          {
+            "stringId": "1969017759797854212",
+            "femaleVariant": "哎…之前咱们说到哪儿了？"
+          },
+          {
+            "stringId": "1969017759831408644",
+            "femaleVariant": "那，之前到哪儿了？"
+          },
+          {
+            "stringId": "1969022867604488196",
+            "femaleVariant": "我得走了。"
+          },
+          {
+            "stringId": "1969022868946665476",
+            "femaleVariant": "以后打给你。"
+          },
+          {
+            "stringId": "1969023968995164164",
+            "femaleVariant": "OK，那我等。"
+          },
+          {
+            "stringId": "1969023970253455364",
+            "femaleVariant": "万物皆在变化…"
+          },
+          {
+            "stringId": "1969131489089011716",
+            "femaleVariant": "抱歉，稍等一下。"
+          },
+          {
+            "stringId": "1969132448846430212",
+            "femaleVariant": "我得走了。"
+          },
+          {
+            "stringId": "1969132492249088004",
+            "femaleVariant": "我们以后再继续。"
+          },
+          {
+            "stringId": "1969132599992369156",
+            "femaleVariant": "等一下…我马上回来。"
+          },
+          {
+            "stringId": "1969132676714577924",
+            "femaleVariant": "我得走了。"
+          },
+          {
+            "stringId": "1969135385731645444",
+            "femaleVariant": "跟你聊得不错。"
+          },
+          {
+            "stringId": "1969135387023491076",
+            "femaleVariant": "我那边还有点事儿。",
+            "maleVariant": "我那边儿还有点事。"
+          },
+          {
+            "stringId": "1969135388315336708",
+            "femaleVariant": "呃，我有点事儿。"
+          },
+          {
+            "stringId": "1969137731253551108",
+            "femaleVariant": "等一下…我得走了。"
+          },
+          {
+            "stringId": "1969137732612505604",
+            "femaleVariant": "我不能跟你说了。"
+          },
+          {
+            "stringId": "1969137810072911876",
+            "femaleVariant": "抱歉，我真得挂了。"
+          },
+          {
+            "stringId": "1969137811498975236",
+            "femaleVariant": "我们下次再聊吧。"
+          },
+          {
+            "stringId": "1969137940347994112",
+            "femaleVariant": "我得撤了。再见。"
+          },
+          {
+            "stringId": "1969144122617872384",
+            "femaleVariant": "我们接着聊。"
+          },
+          {
+            "stringId": "1969144123960049668",
+            "femaleVariant": "OK，我回来了。说吧。"
+          },
+          {
+            "stringId": "1969144232743518212",
+            "femaleVariant": "好了，继续吧。"
+          },
+          {
+            "stringId": "1969144234102472708",
+            "femaleVariant": "接着刚才的说。"
+          },
+          {
+            "stringId": "1969144397093126144",
+            "femaleVariant": "OK，你刚刚说什么？"
+          },
+          {
+            "stringId": "1969145749957492740",
+            "femaleVariant": "我们之前说到…"
+          },
+          {
+            "stringId": "1969145751299670016",
+            "femaleVariant": "好，那然后呢？"
+          },
+          {
+            "stringId": "1969145752759287808",
+            "femaleVariant": "现在接着说吧。继续。"
+          },
+          {
+            "stringId": "1969316958644977668",
+            "femaleVariant": "我要让你后悔。"
+          },
+          {
+            "stringId": "1969316958678532100",
+            "femaleVariant": "跟我玩儿硬的？那我就硬给你看。"
+          },
+          {
+            "stringId": "1969317898588504064",
+            "femaleVariant": "你当我吃素的吗？"
+          },
+          {
+            "stringId": "1969317898622058500",
+            "femaleVariant": "有什么遗言吗？"
+          },
+          {
+            "stringId": "1969317898739499012",
+            "femaleVariant": "咱们今天没完，听到没有？！"
+          },
+          {
+            "stringId": "1969317898789830660",
+            "femaleVariant": "疼吗？嗯？"
+          },
+          {
+            "stringId": "1969317983934201860",
+            "femaleVariant": "你放马过来啊！"
+          },
+          {
+            "stringId": "1969317983984533508",
+            "femaleVariant": "还想来吗？！"
+          },
+          {
+            "stringId": "1969334941605937156",
+            "femaleVariant": "你没事儿吧？"
+          },
+          {
+            "stringId": "1969335837794484228",
+            "femaleVariant": "你怎么样？"
+          },
+          {
+            "stringId": "1969335893595504644",
+            "femaleVariant": "你还 OK 吗？"
+          },
+          {
+            "stringId": "1969336112286515204",
+            "femaleVariant": "注意隐蔽！"
+          },
+          {
+            "stringId": "1969336675464101892",
+            "femaleVariant": "避开敌人的火力！"
+          },
+          {
+            "stringId": "1969336729553846276",
+            "femaleVariant": "隐蔽，别找死！"
+          },
+          {
+            "stringId": "1969340145579573252",
+            "femaleVariant": "嘘。慢一点儿。"
+          },
+          {
+            "stringId": "1969346375278641156",
+            "femaleVariant": "别让他们听见，明白吗？"
+          },
+          {
+            "stringId": "1969346425476071428",
+            "femaleVariant": "我们必须要悄悄行动。"
+          },
+          {
+            "stringId": "1969346745065259008",
+            "femaleVariant": "当心！"
+          },
+          {
+            "stringId": "1969347549381771268",
+            "femaleVariant": "当心点儿！"
+          },
+          {
+            "stringId": "1969347590653722628",
+            "femaleVariant": "嘿！小心！"
+          },
+          {
+            "stringId": "1969392866252800004",
+            "femaleVariant": "我不是针对你。"
+          },
+          {
+            "stringId": "1969393691926708228",
+            "femaleVariant": "我有急事儿。"
+          },
+          {
+            "stringId": "1969393751787814916",
+            "femaleVariant": "抱歉。我有急事儿。"
+          },
+          {
+            "stringId": "1969393898101915652",
+            "femaleVariant": "真见鬼。"
+          },
+          {
+            "stringId": "1969394507903385604",
+            "femaleVariant": "我靠。"
+          },
+          {
+            "stringId": "1969394572646662148",
+            "femaleVariant": "呃，又来…"
+          },
+          {
+            "stringId": "1969394770785583108",
+            "femaleVariant": "呵…这回哪儿也去不了…"
+          },
+          {
+            "stringId": "1969395619930816516",
+            "femaleVariant": "真是该进垃圾场了…"
+          },
+          {
+            "stringId": "1969395819562909696",
+            "femaleVariant": "会不会开车啊！"
+          },
+          {
+            "stringId": "1969396474495090688",
+            "femaleVariant": "呃，真…"
+          },
+          {
+            "stringId": "1969396532326154244",
+            "femaleVariant": "倒霉，我还挺喜欢这辆车的…"
+          },
+          {
+            "stringId": "1969437372146761732",
+            "femaleVariant": "耐心是一种美德…"
+          },
+          {
+            "stringId": "1969437427226361860",
+            "femaleVariant": "好吧。那我等。"
+          },
+          {
+            "stringId": "1969437492724613124",
+            "femaleVariant": "要不了多久的。"
+          },
+          {
+            "stringId": "1969446931116572676",
+            "femaleVariant": "谢了。"
+          },
+          {
+            "stringId": "1969447697415913472",
+            "femaleVariant": "非常感激。谢谢。"
+          },
+          {
+            "stringId": "1969447758837301252",
+            "femaleVariant": "太感谢了。"
+          },
+          {
+            "stringId": "1969447945047621636",
+            "femaleVariant": "滚蛋。"
+          },
+          {
+            "stringId": "1969448560553345028",
+            "femaleVariant": "去你的。"
+          },
+          {
+            "stringId": "1969448609710587904",
+            "femaleVariant": "给我滚。"
+          },
+          {
+            "stringId": "1969448687540092928",
+            "femaleVariant": "你脑子进水了？"
+          },
+          {
+            "stringId": "1969448784025862148",
+            "femaleVariant": "呃，靠。"
+          },
+          {
+            "stringId": "1969451310053834756",
+            "femaleVariant": "嘿，怎么了？"
+          },
+          {
+            "stringId": "1969452192636059652",
+            "femaleVariant": "喂。"
+          },
+          {
+            "stringId": "1969452771936550916",
+            "femaleVariant": "再见。"
+          },
+          {
+            "stringId": "1969453819438809092",
+            "femaleVariant": "保重。"
+          },
+          {
+            "stringId": "1969453982697897988",
+            "femaleVariant": "别挡老子。"
+          },
+          {
+            "stringId": "1969454780337078272",
+            "femaleVariant": "都给我滚一边儿去。"
+          },
+          {
+            "stringId": "1973372418012463108",
+            "femaleVariant": "这怎么回事儿？"
+          },
+          {
+            "stringId": "1973373235767525380",
+            "femaleVariant": "真…"
+          },
+          {
+            "stringId": "1973373272526405636",
+            "femaleVariant": "这怎么回事儿？"
+          },
+          {
+            "stringId": "1973373956013408260",
+            "femaleVariant": "哦。有意思。"
+          },
+          {
+            "stringId": "1973374808950292480",
+            "femaleVariant": "哦，啧、啧、啧。"
+          },
+          {
+            "stringId": "1973374837287010308",
+            "femaleVariant": "这谁能想到呢。"
+          },
+          {
+            "stringId": "1973374880068911108",
+            "femaleVariant": "嗯，这是什么…"
+          },
+          {
+            "stringId": "1973374915334619140",
+            "femaleVariant": "哈…"
+          },
+          {
+            "stringId": "1973376717811597316",
+            "femaleVariant": "该死的…"
+          },
+          {
+            "stringId": "1973377369874874372",
+            "femaleVariant": "啊哦。这回有意思了。"
+          },
+          {
+            "stringId": "1973377419602542596",
+            "femaleVariant": "走运，真走运。"
+          },
+          {
+            "stringId": "1973377471477694468",
+            "femaleVariant": "呵，当然了。"
+          },
+          {
+            "stringId": "1973377520651714564",
+            "femaleVariant": "切，真是太巧了。"
+          },
+          {
+            "stringId": "1973379168375652352",
+            "femaleVariant": "我靠。"
+          },
+          {
+            "stringId": "1973425649686134788",
+            "femaleVariant": "什么…"
+          },
+          {
+            "stringId": "1973425682032607236",
+            "femaleVariant": "我靠…"
+          },
+          {
+            "stringId": "1973426302252728324",
+            "femaleVariant": "靠。"
+          },
+          {
+            "stringId": "1973427252329693184",
+            "femaleVariant": "行。真行。"
+          },
+          {
+            "stringId": "1973427312241131524",
+            "femaleVariant": "真是可以。"
+          },
+          {
+            "stringId": "1973427355677343748",
+            "femaleVariant": "狗日的…"
+          },
+          {
+            "stringId": "1973427396982849540",
+            "femaleVariant": "去他的…"
+          },
+          {
+            "stringId": "1973428705404370948",
+            "femaleVariant": "呵，哎呀呀。"
+          },
+          {
+            "stringId": "1973429324013879300",
+            "femaleVariant": "真是美好的一天。"
+          },
+          {
+            "stringId": "1973429378036514820",
+            "femaleVariant": "风水还真是轮流转。"
+          },
+          {
+            "stringId": "1973430133162229764",
+            "femaleVariant": "怎么回事儿…"
+          },
+          {
+            "stringId": "1973431106475638788",
+            "femaleVariant": "不…这你敢信…"
+          },
+          {
+            "stringId": "1973431155028901892",
+            "femaleVariant": "什么情况…"
+          },
+          {
+            "stringId": "1973431853967720452",
+            "femaleVariant": "呃…"
+          },
+          {
+            "stringId": "1973433782877798400",
+            "femaleVariant": "呃…我要吐了…"
+          },
+          {
+            "stringId": "1973433852687794180",
+            "femaleVariant": "我…浑身难受…"
+          },
+          {
+            "stringId": "1973433940734623748",
+            "femaleVariant": "呃靠…不对劲…"
+          },
+          {
+            "stringId": "1973435048433532932",
+            "femaleVariant": "最好到处看看…"
+          },
+          {
+            "stringId": "1973438320510746628",
+            "femaleVariant": "我最好看仔细点儿…"
+          },
+          {
+            "stringId": "1973438351263383556",
+            "femaleVariant": "好，看看这儿有什么…"
+          },
+          {
+            "stringId": "1973438385522458628",
+            "femaleVariant": "我们好好儿动动脑子。"
+          },
+          {
+            "stringId": "1978165394148409344",
+            "femaleVariant": "你侵犯了我的私人空间。"
+          },
+          {
+            "stringId": "1978166138134052868",
+            "femaleVariant": "躲开点儿，摇滚愤青。"
+          },
+          {
+            "stringId": "1978166173466869760",
+            "femaleVariant": "你挡路了。"
+          },
+          {
+            "stringId": "1978167655096369156",
+            "femaleVariant": "爽…就像通了宿便。"
+          },
+          {
+            "stringId": "1978167655163478020",
+            "femaleVariant": "知道你感觉不到…呵，可我就是忍不住。"
+          },
+          {
+            "stringId": "1978167655213809668",
+            "femaleVariant": "您可千万别往心里去。"
+          },
+          {
+            "stringId": "1978174991806480384",
+            "femaleVariant": "靠…越来越疼了…"
+          },
+          {
+            "stringId": "1978175517839310852",
+            "femaleVariant": "啊…挺住…嗯…深呼吸…啊…"
+          },
+          {
+            "stringId": "1978175696868982788",
+            "femaleVariant": "呃…我——我不行了…"
+          },
+          {
+            "stringId": "1978175770420297732",
+            "femaleVariant": "啊，靠…"
+          },
+          {
+            "stringId": "1978177105718919172",
+            "femaleVariant": "我——受不了了…呃，靠…"
+          },
+          {
+            "stringId": "1978177105769250820",
+            "femaleVariant": "呃…嗯…靠…"
+          },
+          {
+            "stringId": "2238797448236195840",
+            "femaleVariant": "好吧。不用谢我了。"
+          },
+          {
+            "stringId": "2238798067600678916",
+            "femaleVariant": "现在没事了。你赶快走吧。"
+          },
+          {
+            "stringId": "2238798148131315716",
+            "femaleVariant": "这次我能救你，下次就未必了。"
+          },
+          {
+            "stringId": "2250501189895012352",
+            "femaleVariant": "我靠！！啊啊啊啊！"
+          },
+          {
+            "stringId": "2250501820097576960",
+            "femaleVariant": "啊啊…啊啊…哇啊啊啊啊啊！"
+          },
+          {
+            "stringId": "2250501890343780360",
+            "femaleVariant": "哦哦哦哦哦…爽！"
+          },
+          {
+            "stringId": "2262114161341980672",
+            "femaleVariant": "嗯…"
+          },
+          {
+            "stringId": "2262117290443759624",
+            "femaleVariant": "也许吧，谁知道呢…"
+          },
+          {
+            "stringId": "2262117375403581448",
+            "femaleVariant": "嗯…"
+          },
+          {
+            "stringId": "2262117440264298504",
+            "femaleVariant": "嗯哼。"
+          },
+          {
+            "stringId": "2262117530290839560",
+            "femaleVariant": "明白。"
+          },
+          {
+            "stringId": "2262117605251440640",
+            "femaleVariant": "行吧。"
+          },
+          {
+            "stringId": "2262117695009546248",
+            "femaleVariant": "嗯？"
+          },
+          {
+            "stringId": "2262117767168352256",
+            "femaleVariant": "嗯？！"
+          },
+          {
+            "stringId": "2262117868972498944",
+            "femaleVariant": "嘿！"
+          },
+          {
+            "stringId": "2262117941366185988",
+            "femaleVariant": "嗯。"
+          },
+          {
+            "stringId": "2262118194786033672",
+            "femaleVariant": "哈！"
+          },
+          {
+            "stringId": "2262118194987360264",
+            "femaleVariant": "呵呵。"
+          },
+          {
+            "stringId": "2262118195205464072",
+            "femaleVariant": "哦不…"
+          },
+          {
+            "stringId": "2262118195423567872",
+            "femaleVariant": "不。"
+          },
+          {
+            "stringId": "2262118195608117256",
+            "femaleVariant": "当然。"
+          },
+          {
+            "stringId": "2262118195842998280",
+            "femaleVariant": "嗯!"
+          },
+          {
+            "stringId": "2262118196111433736",
+            "femaleVariant": "好的！"
+          },
+          {
+            "stringId": "2262118196396646408",
+            "femaleVariant": "呀。"
+          },
+          {
+            "stringId": "2262118196665081864",
+            "femaleVariant": "切。"
+          },
+          {
+            "stringId": "2262118196866408456",
+            "femaleVariant": "哇哦！"
+          },
+          {
+            "stringId": "2262179491082887176",
+            "femaleVariant": "呵…"
+          },
+          {
+            "stringId": "2262179491300990984",
+            "femaleVariant": "呵…"
+          },
+          {
+            "stringId": "2262179491535872008",
+            "femaleVariant": "哈哈哈哈哈！"
+          },
+          {
+            "stringId": "2262179491753975816",
+            "femaleVariant": "呵…"
+          },
+          {
+            "stringId": "2262179491972079624",
+            "femaleVariant": "呵…"
+          },
+          {
+            "stringId": "2262179492156629000",
+            "femaleVariant": "嗯。"
+          },
+          {
+            "stringId": "2262179492357955592",
+            "femaleVariant": "嗯！"
+          },
+          {
+            "stringId": "2262179492559282184",
+            "femaleVariant": "行吧…"
+          },
+          {
+            "stringId": "2262179492794163208",
+            "femaleVariant": "嗯…"
+          },
+          {
+            "stringId": "2262179493045821448",
+            "femaleVariant": "哎呀呀！"
+          },
+          {
+            "stringId": "2262191844197359624",
+            "femaleVariant": "啊！"
+          },
+          {
+            "stringId": "2262191844415463432",
+            "femaleVariant": "咳咳咳…"
+          },
+          {
+            "stringId": "2262191844650344456",
+            "femaleVariant": "嗷！"
+          },
+          {
+            "stringId": "2262191844868448260",
+            "femaleVariant": "呃啊…"
+          },
+          {
+            "stringId": "2312942171265605632",
+            "femaleVariant": "我是 V。"
+          },
+          {
+            "stringId": "2527325114661249024",
+            "femaleVariant": "有什么能让我眼前一亮的吗？"
+          },
+          {
+            "stringId": "2527325620376870916",
+            "femaleVariant": "那让我挑挑。"
+          },
+          {
+            "stringId": "2527325766858743808",
+            "femaleVariant": "是吗？OK，拿给我看看。"
+          },
+          {
+            "stringId": "2530251720828559368",
+            "femaleVariant": "有什么推荐吗？"
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,288 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1896883074991923204",
+            "femaleVariant": "You don't belong here."
+          },
+          {
+            "stringId": "1896883075008700420",
+            "femaleVariant": "What's new in the world of squatters, whores, and lack of opportunity?"
+          },
+          {
+            "stringId": "1896883075092586500",
+            "femaleVariant": "This isn't your sector."
+          },
+          {
+            "stringId": "1896883075126140932",
+            "femaleVariant": "People like you don't belong here. Now go."
+          },
+          {
+            "stringId": "1896883075193249796",
+            "femaleVariant": "Holster your weapon."
+          },
+          {
+            "stringId": "1896883075226804228",
+            "femaleVariant": "This won't end well for you."
+          },
+          {
+            "stringId": "1896883075277135876",
+            "femaleVariant": "Stop immediately."
+          },
+          {
+            "stringId": "1896883075310690308",
+            "femaleVariant": "That's enough."
+          },
+          {
+            "stringId": "1896883075361021956",
+            "femaleVariant": "Mhm."
+          },
+          {
+            "stringId": "1896883075394576388",
+            "femaleVariant": "That's right."
+          },
+          {
+            "stringId": "1896883075478462468",
+            "femaleVariant": "Searching the area."
+          },
+          {
+            "stringId": "1896883075512016900",
+            "femaleVariant": "Be ready for enemy contact."
+          },
+          {
+            "stringId": "1896883075612680196",
+            "femaleVariant": "Search complete."
+          },
+          {
+            "stringId": "1896883075646234628",
+            "femaleVariant": "False alarm."
+          },
+          {
+            "stringId": "1896883075730120708",
+            "femaleVariant": "You're gonna love it in solitary."
+          },
+          {
+            "stringId": "1896883075763675140",
+            "femaleVariant": "Can't say I'd want to be in your position."
+          },
+          {
+            "stringId": "1896883075814006788",
+            "femaleVariant": "No vital signs!"
+          },
+          {
+            "stringId": "1896883075830784004",
+            "femaleVariant": "Affirmative."
+          },
+          {
+            "stringId": "1896883075897892868",
+            "femaleVariant": "Enemy fire!"
+          },
+          {
+            "stringId": "1896883075914670084",
+            "femaleVariant": "Terrorist!"
+          },
+          {
+            "stringId": "1896883075965001732",
+            "femaleVariant": "Duck!"
+          },
+          {
+            "stringId": "1896883076015333380",
+            "femaleVariant": "Shoot until they're down!"
+          },
+          {
+            "stringId": "1896883076048887808",
+            "femaleVariant": "She dies!",
+            "maleVariant": "He dies!"
+          },
+          {
+            "stringId": "1896883076099219460",
+            "femaleVariant": "I need cover!"
+          },
+          {
+            "stringId": "1896883076132773892",
+            "femaleVariant": "Cover me!"
+          },
+          {
+            "stringId": "1896883076199882756",
+            "femaleVariant": "Ptui!"
+          },
+          {
+            "stringId": "1896883076216659972",
+            "femaleVariant": "Compose yourself."
+          },
+          {
+            "stringId": "1896883076250214404",
+            "femaleVariant": "What do you need?"
+          },
+          {
+            "stringId": "1896883076317323268",
+            "femaleVariant": "Yeah… I got it… I know a guy who knows a guy… When's your shift over…? Great."
+          },
+          {
+            "stringId": "1896883076350877696",
+            "femaleVariant": "Course… When would I be fighting…? What about med exams? Beforehand?"
+          },
+          {
+            "stringId": "1896883076401209348",
+            "femaleVariant": "I need covering fire!"
+          },
+          {
+            "stringId": "1896883076434763780",
+            "femaleVariant": "I got you!"
+          },
+          {
+            "stringId": "1896883076468318212",
+            "femaleVariant": "Take cover!"
+          },
+          {
+            "stringId": "1896883076501872644",
+            "femaleVariant": "Stay in touch."
+          },
+          {
+            "stringId": "1896883076535427072",
+            "femaleVariant": "I'll handle this."
+          },
+          {
+            "stringId": "1896883076585758724",
+            "femaleVariant": "With me."
+          },
+          {
+            "stringId": "1896883076602535940",
+            "femaleVariant": "Hup. Hup. Go on."
+          },
+          {
+            "stringId": "1896883076652867588",
+            "femaleVariant": "Be careful!"
+          },
+          {
+            "stringId": "1896883076686422020",
+            "femaleVariant": "I want a clean kill!"
+          },
+          {
+            "stringId": "1896883076719976452",
+            "femaleVariant": "Ekh… khh…. You're… fucked."
+          },
+          {
+            "stringId": "1896894987201159168",
+            "femaleVariant": "No? All the better… I'll be ready."
+          },
+          {
+            "stringId": "2236502749989707780",
+            "femaleVariant": "Careful!"
+          },
+          {
+            "stringId": "2236502750056816640",
+            "femaleVariant": "Move up!"
+          },
+          {
+            "stringId": "2236502750207811584",
+            "femaleVariant": "One of ours down! Keep your eyes peeled!"
+          },
+          {
+            "stringId": "2236502750308474884",
+            "femaleVariant": "Not again..."
+          },
+          {
+            "stringId": "2236502750526578692",
+            "femaleVariant": "Hm? I didn't call anyone in. Spread out."
+          },
+          {
+            "stringId": "2236502750694350852",
+            "femaleVariant": "End her already, goddammit! That's an order!",
+            "maleVariant": "End him already, goddammit! That's an order!"
+          },
+          {
+            "stringId": "2236502750795014148",
+            "femaleVariant": "Don't make yourself an easy target!"
+          },
+          {
+            "stringId": "2236502750845345796",
+            "femaleVariant": "I'll see you in hell!"
+          },
+          {
+            "stringId": "2236502750912454656",
+            "femaleVariant": "You wanna die here?! Then get it together!"
+          },
+          {
+            "stringId": "2236502751164112900",
+            "femaleVariant": "Confirmed hit!"
+          },
+          {
+            "stringId": "2236502751348662276",
+            "femaleVariant": "Don't yield to her! We don't take prisoners!",
+            "maleVariant": "Don't yield to him! We don't take prisoners!"
+          },
+          {
+            "stringId": "2236502751398993924",
+            "femaleVariant": "Understood!"
+          },
+          {
+            "stringId": "2236502751482880004",
+            "femaleVariant": "Over there! She's using cover!",
+            "maleVariant": "Over there! He's using cover!"
+          },
+          {
+            "stringId": "2236502751533211652",
+            "femaleVariant": "Reloading!"
+          },
+          {
+            "stringId": "2236502751600320516",
+            "femaleVariant": "We got a cyberpsycho!"
+          },
+          {
+            "stringId": "2236502751717761028",
+            "femaleVariant": "Visuals lost!"
+          },
+          {
+            "stringId": "2236502751801647108",
+            "femaleVariant": "She's using daemons!",
+            "maleVariant": "He's using daemons!"
+          },
+          {
+            "stringId": "2236502751868755972",
+            "femaleVariant": "Recharged!"
+          },
+          {
+            "stringId": "2236502751935864836",
+            "femaleVariant": "Need more units!"
+          },
+          {
+            "stringId": "2236502752002973696",
+            "femaleVariant": "Target in sight! Closing in!"
+          },
+          {
+            "stringId": "2236502752086859780",
+            "femaleVariant": "I'll shoot her down!",
+            "maleVariant": "I'll shoot him down!"
+          },
+          {
+            "stringId": "2236502752153968644",
+            "femaleVariant": "Covering fire!"
+          },
+          {
+            "stringId": "2236502752237854724",
+            "femaleVariant": "Taking heavy losses!"
+          },
+          {
+            "stringId": "2236502752590176260",
+            "femaleVariant": "Huh? What now?"
+          }
+        ]
+      }
+
+
+

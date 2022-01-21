@@ -1,0 +1,274 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "776147269353496584",
+            "femaleVariant": "Think I got her. Got our target."
+          },
+          {
+            "stringId": "1030098639083823104",
+            "femaleVariant": "TT-133 to Control. Patient NC570442 secured…"
+          },
+          {
+            "stringId": "1030102140136480768",
+            "femaleVariant": "Stimulants being administered – 70 milligrams dopamine, 110 norepinephrine, 800 fibrinogen…"
+          },
+          {
+            "stringId": "1096652473823891456",
+            "femaleVariant": "We make it? She alive?"
+          },
+          {
+            "stringId": "1096660855133802496",
+            "femaleVariant": "[Check biomonitor] I'm jacking in."
+          },
+          {
+            "stringId": "1096661367459647488",
+            "femaleVariant": "Got another body in the tub."
+          },
+          {
+            "stringId": "1096670802731044864",
+            "femaleVariant": "Jackin' in."
+          },
+          {
+            "stringId": "1096671050949955584",
+            "femaleVariant": "She's in a tub of ice... crammed in with another. Fuck – like slabs of meat!"
+          },
+          {
+            "stringId": "1096887792280244224",
+            "femaleVariant": "Sandra Dorsett. NC570442. Trauma Team Platinum."
+          },
+          {
+            "stringId": "1141872588900470784",
+            "femaleVariant": "Found the shard. Removing now."
+          },
+          {
+            "stringId": "1141873772751163392",
+            "femaleVariant": "Check the biomon. Anything change?"
+          },
+          {
+            "stringId": "1141879035126288384",
+            "femaleVariant": "She's flatlinin'!"
+          },
+          {
+            "stringId": "1141887082636709888",
+            "femaleVariant": "Jackie, airhypo!"
+          },
+          {
+            "stringId": "1141891813073424384",
+            "femaleVariant": "Jackie, airhypo! Fuck, this is bad!"
+          },
+          {
+            "stringId": "1141907775134830592",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Fuera, chica\" b=\"\" a=\". Get her outside!\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"Fuera, cabrón\" b=\"\" a=\". Get her outside!\"/>"
+          },
+          {
+            "stringId": "1142985763741962240",
+            "femaleVariant": "Five steps back. Now."
+          },
+          {
+            "stringId": "1147496557458001940",
+            "femaleVariant": "[Check body] Hmm..."
+          },
+          {
+            "stringId": "1163731896457957376",
+            "femaleVariant": "V, need to know what's goin' on!"
+          },
+          {
+            "stringId": "1163734939962380288",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Catch, \" a=\"!\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"vato\" b=\"Ey, catch, \" a=\"!\"/>"
+          },
+          {
+            "stringId": "1173719177637859328",
+            "femaleVariant": "Hmm... Scopmuncher's hack, huh."
+          },
+          {
+            "stringId": "1183685332141920256",
+            "femaleVariant": "Greetings, Sandra. If you are conscious, assume recovery position now."
+          },
+          {
+            "stringId": "1183686696330907648",
+            "femaleVariant": "Your premium plan will cover 90% of the projected costs of your rescue and treatment."
+          },
+          {
+            "stringId": "1183687775894425600",
+            "femaleVariant": "An emergency evacuation unit has been dispatched and is due to arrive at your location in 180 seconds."
+          },
+          {
+            "stringId": "1188015276999843840",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Fuera\" b=\"\" a=\", get 'er out! Terrace.\"/>"
+          },
+          {
+            "stringId": "1205573700454912000",
+            "femaleVariant": "Lookin' at a hacked biomon, firmware reconfig or a neurovirus..."
+          },
+          {
+            "stringId": "1216883144956088320",
+            "femaleVariant": "[Set woman down]"
+          },
+          {
+            "stringId": "1222725698624720896",
+            "femaleVariant": "Place the patient on the ground!"
+          },
+          {
+            "stringId": "1228488698694504448",
+            "femaleVariant": "[Pull shard] Got our culprit..."
+          },
+          {
+            "stringId": "1228490844382990336",
+            "femaleVariant": "[Pick up]"
+          },
+          {
+            "stringId": "1244842296414507008",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Te lo juro por mi madre...\" b=\"No more jobs like this. \" a=\"\"/>"
+          },
+          {
+            "stringId": "1244858497920339968",
+            "femaleVariant": "Landing, stand clear! Initiating security protocol. Follow all instructions."
+          },
+          {
+            "stringId": "1245908584322764800",
+            "femaleVariant": "Ooh, this does not look good…"
+          },
+          {
+            "stringId": "1245909600518737920",
+            "femaleVariant": "Biomon claims Trauma'll be here in three minutes."
+          },
+          {
+            "stringId": "1246036849477750784",
+            "femaleVariant": "Platinum? Shiiit, Trauma shoulda swooped in if she sneezed."
+          },
+          {
+            "stringId": "1246047331395768320",
+            "femaleVariant": "Got an idea. Check her neuroport. Find a shard? Yeah, pull it – that'll be what's muting the biomon."
+          },
+          {
+            "stringId": "1254441509433151488",
+            "femaleVariant": "Is that safe?"
+          },
+          {
+            "stringId": "1254442661256138752",
+            "femaleVariant": "Need you to cover me."
+          },
+          {
+            "stringId": "1266049560039067648",
+            "femaleVariant": "Ugh! Fuck!",
+            "maleVariant": "Aw, fuck!"
+          },
+          {
+            "stringId": "1601309346777059328",
+            "femaleVariant": "Keep it together, V. If she survives, she won't remember a thing. Tiny scar on the subconscious, that's all."
+          },
+          {
+            "stringId": "1601315568909602816",
+            "femaleVariant": "Guessin' they jammed the transmitter sig."
+          },
+          {
+            "stringId": "1601328694681980928",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Carajo\" b=\"\" a=\", T-Bug! You ain't seein' this place. This is tubs, ice, hooks and cleavers.\"/>"
+          },
+          {
+            "stringId": "1601341047226028032",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Ay, pobrecita\" b=\"\" a=\". Let's get her off that ice.\"/>"
+          },
+          {
+            "stringId": "1601345193714962432",
+            "femaleVariant": "I think…! Holy shit, it worked!"
+          },
+          {
+            "stringId": "1619814124352368640",
+            "femaleVariant": "Shit, V. I mean, I got a stomach o' steel, but... this, waa, this…"
+          },
+          {
+            "stringId": "1620139005744967680",
+            "femaleVariant": "Heard people who live through shit like this get panic attacks. 'Thout ever knowin' why…"
+          },
+          {
+            "stringId": "1620139086476931072",
+            "femaleVariant": "You'll be sippin' a glass of ice-cold water and suddenly your hand's shakin'."
+          },
+          {
+            "stringId": "1621194992174166016",
+            "femaleVariant": "Is that even safe...? Can't we just get her outta here?"
+          },
+          {
+            "stringId": "1621195685492617216",
+            "femaleVariant": "We found her still breathin'. Can't lose her. We need that biomon working, checking for hemorrhages – whatever! Find that shard and yank it!"
+          },
+          {
+            "stringId": "1622719385488519168",
+            "femaleVariant": "Jack, look sharp, not done yet! Don't know who's out there.",
+            "maleVariant": "Jack, look sharp, not done yet. Don't know who's out there."
+          },
+          {
+            "stringId": "1622747327857881088",
+            "femaleVariant": "Locked an' ready, V. Do your thing.",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"hermano\" b=\"Locked an' ready, \" a=\". Do your thing.\"/>"
+          },
+          {
+            "stringId": "1632995213325561856",
+            "femaleVariant": "I wasn't made for this shit, you know – chop shops? What they do to people…? Fuckin' scav psychos."
+          },
+          {
+            "stringId": "1633009777928761344",
+            "femaleVariant": "V, jack into her biomon – we need to know what we're dealin' with."
+          },
+          {
+            "stringId": "1633011623237971968",
+            "femaleVariant": "V, jack into her biomon. Need to know what we're dealin' with."
+          },
+          {
+            "stringId": "1633012234515836928",
+            "femaleVariant": "About to find out...",
+            "maleVariant": "About to find out."
+          },
+          {
+            "stringId": "1897861422103293952",
+            "femaleVariant": "Jesus fucking Christ...",
+            "maleVariant": "Jesus fuckin' Christ…"
+          },
+          {
+            "stringId": "1898314879062929408",
+            "femaleVariant": "Place the patient on the stretcher!"
+          },
+          {
+            "stringId": "1926919550920716288",
+            "femaleVariant": "Step back!"
+          },
+          {
+            "stringId": "1926923970895048704",
+            "femaleVariant": "Ay, had to hurt… Shoulda followed orders."
+          },
+          {
+            "stringId": "1944614793245782016",
+            "femaleVariant": "Hm... Scavrats abandoning ship. Musta seen Trauma, decided to cut their losses."
+          },
+          {
+            "stringId": "2008449837784850432",
+            "femaleVariant": "Stop in the doorway!"
+          },
+          {
+            "stringId": "2009811489618063360",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Catch, \" a=\"!\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"ese\" b=\"Catch, \" a=\"!\"/>"
+          }
+        ]
+      }
+
+
+

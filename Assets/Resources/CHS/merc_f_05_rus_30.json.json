@@ -1,0 +1,186 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1958804295729061892",
+            "femaleVariant": "嘿，别耍花招。"
+          },
+          {
+            "stringId": "1958804295745839108",
+            "femaleVariant": "你在想什么？"
+          },
+          {
+            "stringId": "1958804295846502404",
+            "femaleVariant": "我要把你那张漂亮的小脸划个稀巴烂。"
+          },
+          {
+            "stringId": "1958804295863279620",
+            "femaleVariant": "站着！这儿不许脑残进。"
+          },
+          {
+            "stringId": "1958804295963942916",
+            "femaleVariant": "放下武器。放下！靠！"
+          },
+          {
+            "stringId": "1958804295997497348",
+            "femaleVariant": "显摆什么呀。"
+          },
+          {
+            "stringId": "1958804296064606212",
+            "femaleVariant": "放弃吧，宝贝儿。",
+            "maleVariant": "放弃吧，帅哥。"
+          },
+          {
+            "stringId": "1958804296098160640",
+            "femaleVariant": "来啊，我早就想干死你了。"
+          },
+          {
+            "stringId": "1958804296165269508",
+            "femaleVariant": "哦？怎么忽然这么好说话了？"
+          },
+          {
+            "stringId": "1958804296182046724",
+            "femaleVariant": "这才是好狗。"
+          },
+          {
+            "stringId": "1958804296232378372",
+            "femaleVariant": "咱们去“识别”威胁。"
+          },
+          {
+            "stringId": "1958804296249155588",
+            "femaleVariant": "哦哦，不请自来啊？"
+          },
+          {
+            "stringId": "1958804296299487236",
+            "femaleVariant": "逛够了。"
+          },
+          {
+            "stringId": "1958804296316264452",
+            "femaleVariant": "这里没有异常。"
+          },
+          {
+            "stringId": "1958804296349818884",
+            "femaleVariant": "怎么，小姑娘？我认输行了吧，我就不会玩儿捉迷藏！",
+            "maleVariant": "怎么，小家伙？我认输行了吧，我就不会玩儿捉迷藏！"
+          },
+          {
+            "stringId": "1958804296366596100",
+            "femaleVariant": "你在哪儿呢，怂货？"
+          },
+          {
+            "stringId": "1958804296400150532",
+            "femaleVariant": "嘿！打开保险！这儿死人了！"
+          },
+          {
+            "stringId": "1958804296433704964",
+            "femaleVariant": "是，收到。"
+          },
+          {
+            "stringId": "1958804296484036612",
+            "femaleVariant": "开火！"
+          },
+          {
+            "stringId": "1958804296500813828",
+            "femaleVariant": "你完蛋了！"
+          },
+          {
+            "stringId": "1958804296551145476",
+            "femaleVariant": "手雷！"
+          },
+          {
+            "stringId": "1958804296601477120",
+            "femaleVariant": "<kiroshi l=\"rus\" o=\"Сука!\" t=\"臭婊子！\" b=\"\" a=\"\"/>",
+            "maleVariant": "<mothertongue l=\"rus\" m=\"Mudila\" b=\"\" a=\"王八蛋！\"/>"
+          },
+          {
+            "stringId": "1958804296618254340",
+            "femaleVariant": "真该死！"
+          },
+          {
+            "stringId": "1958804296668585988",
+            "femaleVariant": "<mothertongue l=\"rus\" m=\"Blyad'!\" b=\"我拿钱可不是干这个的！\" a=\"靠！\"/>"
+          },
+          {
+            "stringId": "1958804296685363204",
+            "femaleVariant": "别干站着！快打啊！"
+          },
+          {
+            "stringId": "1958804296735694852",
+            "femaleVariant": "去你的。"
+          },
+          {
+            "stringId": "1958804296752472068",
+            "femaleVariant": "看着点儿！"
+          },
+          {
+            "stringId": "1958804296786026500",
+            "femaleVariant": "嘿。"
+          },
+          {
+            "stringId": "1958804296836358148",
+            "femaleVariant": "什么…？什么…？别慌…！你在哪儿呢…？你疯了吗？！我帮不了你…！那你就完蛋了！"
+          },
+          {
+            "stringId": "1958804296853135364",
+            "femaleVariant": "嗯哼…嗯哼…你怎么不去死，嗯…？没错！都是别人的错…！滚你的吧！"
+          },
+          {
+            "stringId": "1958804296903467012",
+            "femaleVariant": "断她后路，靠！",
+            "maleVariant": "断他后路，靠！"
+          },
+          {
+            "stringId": "1958804296937021444",
+            "femaleVariant": "我冲过去试试！"
+          },
+          {
+            "stringId": "1958804296970575876",
+            "femaleVariant": "手雷！"
+          },
+          {
+            "stringId": "1958804296987353092",
+            "femaleVariant": "再见！"
+          },
+          {
+            "stringId": "1958804297004130308",
+            "femaleVariant": "嗯？"
+          },
+          {
+            "stringId": "1958804297054461956",
+            "femaleVariant": "呃呃呃…我们干活去吧。"
+          },
+          {
+            "stringId": "1958804297071239172",
+            "femaleVariant": "又怎么了？活见鬼。"
+          },
+          {
+            "stringId": "1958804297121570816",
+            "femaleVariant": "去看看吧。"
+          },
+          {
+            "stringId": "1958804297138348036",
+            "femaleVariant": "都给我动起来，一帮吃干饭的！"
+          },
+          {
+            "stringId": "1958804297171902468",
+            "femaleVariant": "啊啊啊…靠…混蛋。"
+          }
+        ]
+      }
+
+
+

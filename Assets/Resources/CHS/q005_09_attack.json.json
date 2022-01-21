@@ -1,0 +1,406 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1615901533600964608",
+            "femaleVariant": "走啊，V，靠！"
+          },
+          {
+            "stringId": "1615901855908061184",
+            "femaleVariant": "你还要我等多久啊，V？！"
+          },
+          {
+            "stringId": "1615924083907321856",
+            "femaleVariant": "暂时杀干净了，不过这里不能久留。"
+          },
+          {
+            "stringId": "1615926851090997248",
+            "femaleVariant": "他们肯定第一个先到这儿来。"
+          },
+          {
+            "stringId": "1615929993396445184",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Más rápido, más rápido!\" t=\"快点，快点！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1616116426350485504",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Ahh! ¡Pero qué chingados!\" t=\"啊！搞什么鬼！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1616176656287490048",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Come los huevos pinches culeros!\" t=\"吃枪子吧你们这帮荒坂狗！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1616176656354598912",
+            "femaleVariant": "给我照死里打！"
+          },
+          {
+            "stringId": "1616245625509863424",
+            "femaleVariant": "我们得想办法…去大堂。这样才能下到车库里去。"
+          },
+          {
+            "stringId": "1616247819348959232",
+            "femaleVariant": "而且最好现在就走。"
+          },
+          {
+            "stringId": "1618991084284370944",
+            "femaleVariant": "这儿呢，赶紧，V！"
+          },
+          {
+            "stringId": "1619019759599968256",
+            "femaleVariant": "你他娘的磨蹭个屁啊？敌人马上追上来了。"
+          },
+          {
+            "stringId": "1619019790872698880",
+            "femaleVariant": "别瞎晃悠，快走啊！"
+          },
+          {
+            "stringId": "1634605830155063296",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Jo, jo. Ahora sí\" t=\"真要命...\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1693937686263046144",
+            "femaleVariant": "你先走！我，呃…我给你殿后！"
+          },
+          {
+            "stringId": "1694021467921653760",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"セキュリティプロトコル違反の容疑者発見！\" t=\"发现疑似安全威胁！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1694027791589908480",
+            "femaleVariant": "别杵着了！"
+          },
+          {
+            "stringId": "1694028164799078400",
+            "femaleVariant": "跳！"
+          },
+          {
+            "stringId": "1694030247422009344",
+            "femaleVariant": "[跳]"
+          },
+          {
+            "stringId": "1695238193871003648",
+            "femaleVariant": "哦我靠…"
+          },
+          {
+            "stringId": "1695238636118417408",
+            "femaleVariant": "Relic！"
+          },
+          {
+            "stringId": "1695245106151104512",
+            "femaleVariant": "呜呼…好险…"
+          },
+          {
+            "stringId": "1725832259982643200",
+            "femaleVariant": "行吧。"
+          },
+          {
+            "stringId": "1760345306758324224",
+            "femaleVariant": "来啊，走啊！"
+          },
+          {
+            "stringId": "1760345331404054528",
+            "femaleVariant": "嘿，没时间瞎乱逛了，V。"
+          },
+          {
+            "stringId": "1760345360562855936",
+            "femaleVariant": "V，我们得走了！"
+          },
+          {
+            "stringId": "1762126253616148480",
+            "femaleVariant": "靠，那边有两个保安…"
+          },
+          {
+            "stringId": "1762127358882361344",
+            "femaleVariant": "那就弄死他们两个。"
+          },
+          {
+            "stringId": "1762127651024023552",
+            "femaleVariant": "你身上有枪吗？"
+          },
+          {
+            "stringId": "1762127919375593472",
+            "femaleVariant": "出其不意解决他们。V，来吧，你上吧。我得看着 Relic。"
+          },
+          {
+            "stringId": "1762169959371124736",
+            "femaleVariant": "看，说什么来着？小菜一碟。"
+          },
+          {
+            "stringId": "1762171932891820032",
+            "femaleVariant": "开车兜兜风！"
+          },
+          {
+            "stringId": "1763353799410200576",
+            "femaleVariant": "靠，我还想开这玩意儿，脑子进水了吧我。"
+          },
+          {
+            "stringId": "1763355246344417280",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Chingada madre!\" t=\"呃…我靠！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1763359106379165696",
+            "femaleVariant": "赶紧闪人吧！快走！"
+          },
+          {
+            "stringId": "1763469019407331332",
+            "femaleVariant": "[接入]"
+          },
+          {
+            "stringId": "1763551140960415744",
+            "femaleVariant": "发现非法访问行为。请留在原地，等待安保人员到达。"
+          },
+          {
+            "stringId": "1763554959136010240",
+            "femaleVariant": "你碰什么了？！"
+          },
+          {
+            "stringId": "1763555221229678592",
+            "femaleVariant": "靠！我就知道那个防火墙不对劲！"
+          },
+          {
+            "stringId": "1763560490852560896",
+            "femaleVariant": "快跑，要来不及了！"
+          },
+          {
+            "stringId": "1763593836206895104",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"コードレッド？\" t=\"红色警戒？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1763595285187932160",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"何かトラブルが起きたのか…\" t=\"肯定不是好事…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1763595743625359360",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"そのようだな\" t=\"绝对不是好事。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1763599386294497280",
+            "femaleVariant": "对，谢谢。"
+          },
+          {
+            "stringId": "1763600143685136384",
+            "femaleVariant": "现在去哪儿？"
+          },
+          {
+            "stringId": "1764807612976328704",
+            "femaleVariant": "杰克，你在流血！"
+          },
+          {
+            "stringId": "1764807612976328720",
+            "femaleVariant": "生物芯片没事吧？！"
+          },
+          {
+            "stringId": "1764807613009883136",
+            "femaleVariant": "杰克！你流血了！"
+          },
+          {
+            "stringId": "1764807613009883148",
+            "femaleVariant": "一会儿再管我！看看 Relic 怎么样了！"
+          },
+          {
+            "stringId": "1764807613060214784",
+            "femaleVariant": "那个生物芯片呢…"
+          },
+          {
+            "stringId": "1764807613060214796",
+            "femaleVariant": "我不知道…"
+          },
+          {
+            "stringId": "1764807613076992000",
+            "femaleVariant": "“容器已经减压。生物芯片完整度——百分之九十四。”"
+          },
+          {
+            "stringId": "1764807613076992012",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Carajo\" b=\"这在往下掉！ \" a=\"（干）！\"/>"
+          },
+          {
+            "stringId": "1764807613110546432",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Madres\" b=\"\" a=\"（靠），老子中枪了！\"/>"
+          },
+          {
+            "stringId": "1764807613144100864",
+            "femaleVariant": "帕克！给她打电话！"
+          },
+          {
+            "stringId": "1764807613144100876",
+            "femaleVariant": "说什么？箱子弄烂了吗？"
+          },
+          {
+            "stringId": "1764807613144100888",
+            "femaleVariant": "打电话！"
+          },
+          {
+            "stringId": "1764807613177655296",
+            "femaleVariant": "V？！新闻里全是绀碧！那边到底发生什么了？！"
+          },
+          {
+            "stringId": "1764807613177655308",
+            "femaleVariant": "出大事了！冷冻箱坏了！芯片完整度是…杰克？"
+          },
+          {
+            "stringId": "1764807613177655320",
+            "femaleVariant": "你们两个里挑一个，把芯片插到自己的插槽里！"
+          },
+          {
+            "stringId": "1764807613194432512",
+            "femaleVariant": "你说什么？"
+          },
+          {
+            "stringId": "1764807613227986956",
+            "femaleVariant": "那样不会死人吗？"
+          },
+          {
+            "stringId": "1764807613261541376",
+            "femaleVariant": "你出的是什么主意？"
+          },
+          {
+            "stringId": "1764807613261541388",
+            "femaleVariant": "Relic 不能单独与外界隔离——必须保存在安全的环境里！"
+          },
+          {
+            "stringId": "1764807613278318592",
+            "femaleVariant": "你这主意听着就不安全。"
+          },
+          {
+            "stringId": "1764807613429313544",
+            "femaleVariant": "你等的越久，我们越有可能保不住它！"
+          },
+          {
+            "stringId": "1764807613462867968",
+            "femaleVariant": "算了，总得有人干啊。"
+          },
+          {
+            "stringId": "1764807613462867980",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"En el nombre del Padre, del Hijo y del Espíritu Santo, amén.\" t=\"以圣父、圣子、圣灵之名——阿门。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1764807613630640128",
+            "femaleVariant": "不知道…可能吧…没觉出来不一样。"
+          },
+          {
+            "stringId": "1764807613664194560",
+            "femaleVariant": "等你们回来，我们马上取出 Relic，进行全面神经扫描。"
+          },
+          {
+            "stringId": "1764807613781635072",
+            "femaleVariant": "开出租的，我们马上就出来。准备好，明白吗？"
+          },
+          {
+            "stringId": "1764807613781635084",
+            "femaleVariant": "没问题，威尔斯先生。"
+          },
+          {
+            "stringId": "1764807613798412296",
+            "femaleVariant": "最好别有问题。"
+          },
+          {
+            "stringId": "1764858180830752768",
+            "femaleVariant": "子弹直接打穿了。"
+          },
+          {
+            "stringId": "1764858180830752780",
+            "femaleVariant": "呃，这玩意儿废了！"
+          },
+          {
+            "stringId": "1766328191537639424",
+            "femaleVariant": "你可以的，杰克…不往下看就行！"
+          },
+          {
+            "stringId": "1766570777078657028",
+            "femaleVariant": "[呼叫艾芙琳·帕克]"
+          },
+          {
+            "stringId": "1786424011323658240",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"タケムラさんと連絡がつかない。何が起きてるんだ？\" t=\"竹村君没有反应。到底怎么了？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1863373519542169600",
+            "femaleVariant": "不是有梯子吗——哪儿呢？"
+          },
+          {
+            "stringId": "1863374583855198208",
+            "femaleVariant": "那拐弯后头看看！"
+          },
+          {
+            "stringId": "1896667032668430336",
+            "femaleVariant": "靠！是创伤小组吗？"
+          },
+          {
+            "stringId": "1896669616007372800",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Chingada madre!\" t=\"哦我靠！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1904087395887534080",
+            "femaleVariant": "要是救三郎的，那可是来的有点晚！"
+          },
+          {
+            "stringId": "1915486047528955904",
+            "femaleVariant": "太好了…我们赶紧走吧。"
+          },
+          {
+            "stringId": "1922765687523975168",
+            "femaleVariant": "杰克…？ 你没事吧？"
+          },
+          {
+            "stringId": "1982365384986927104",
+            "femaleVariant": "百分之八十六了！"
+          },
+          {
+            "stringId": "1982367132417859584",
+            "femaleVariant": "百分之八十六，还在下降！"
+          },
+          {
+            "stringId": "1982368248018837504",
+            "femaleVariant": "靠…！"
+          },
+          {
+            "stringId": "1982380058927243264",
+            "femaleVariant": "但你们俩得先赶紧逃出来！"
+          },
+          {
+            "stringId": "1982380655256608768",
+            "femaleVariant": "我们正想办法呢！"
+          },
+          {
+            "stringId": "1982384545624563712",
+            "femaleVariant": "OK，都听我说。现在咱们只有一个办法。"
+          },
+          {
+            "stringId": "1984025659943231488",
+            "femaleVariant": "但愿没发现我们！"
+          },
+          {
+            "stringId": "1984026284978413568",
+            "femaleVariant": "靠，真高…！"
+          },
+          {
+            "stringId": "2001041894161588224",
+            "femaleVariant": "发现非法访问。留在原地，等待安保人员。"
+          },
+          {
+            "stringId": "2032959575885082628",
+            "femaleVariant": "[起身]"
+          },
+          {
+            "stringId": "2181035513762701316",
+            "femaleVariant": "[开启]"
+          }
+        ]
+      }
+
+
+

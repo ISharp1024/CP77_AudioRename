@@ -1,0 +1,793 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1725860719311888388",
+            "femaleVariant": "[en_us][db_db]Scan next"
+          },
+          {
+            "stringId": "1725861168622510080",
+            "femaleVariant": "[en_us][db_db]Jump to reward"
+          },
+          {
+            "stringId": "1729833264973258752",
+            "femaleVariant": "我受不了了。压力太大了。"
+          },
+          {
+            "stringId": "1729833290172637184",
+            "femaleVariant": "你是来结果我性命的吗？"
+          },
+          {
+            "stringId": "1729833347080953856",
+            "femaleVariant": "你别再过来了！"
+          },
+          {
+            "stringId": "1729833383319740416",
+            "femaleVariant": "你也看见了吧，是不是？扭曲的鸟喙…一定是藏着什么东西，什么坏东西。"
+          },
+          {
+            "stringId": "1729833401590128640",
+            "femaleVariant": "啊，你找到我了。恭喜。你觉得不虚此行吗？"
+          },
+          {
+            "stringId": "1729833864356077568",
+            "femaleVariant": "滴滴，你个王八蛋！"
+          },
+          {
+            "stringId": "1740071308070395904",
+            "femaleVariant": "好，那看看谁撞死谁。"
+          },
+          {
+            "stringId": "1740074669771497472",
+            "femaleVariant": "嗯？怎么了？"
+          },
+          {
+            "stringId": "1740076084074029056",
+            "femaleVariant": "不是，就重启一下而已。"
+          },
+          {
+            "stringId": "1740119439470403584",
+            "femaleVariant": "别慌，我是来帮忙的。"
+          },
+          {
+            "stringId": "1740123008353345536",
+            "femaleVariant": "你是要我打分吗…？呵，那这趟我绝对打个最低分。"
+          },
+          {
+            "stringId": "1751757903966150656",
+            "femaleVariant": "何其有幸，该车辆已重新连接。再次感谢！"
+          },
+          {
+            "stringId": "1751759723958542336",
+            "femaleVariant": "部分酬金已经汇入您的账户。"
+          },
+          {
+            "stringId": "1776629434156228608",
+            "femaleVariant": "[en_us][db_db]Scan next"
+          },
+          {
+            "stringId": "1776629434156228624",
+            "femaleVariant": "[en_us][db_db]Jump to reward"
+          },
+          {
+            "stringId": "1776629434223337476",
+            "femaleVariant": "非常感谢您出手相助，V。"
+          },
+          {
+            "stringId": "1776629434223337484",
+            "femaleVariant": "我自作主张，已支付给您部分酬金。"
+          },
+          {
+            "stringId": "1776629451419983872",
+            "femaleVariant": "[en_us][db_db]Scan next"
+          },
+          {
+            "stringId": "1776629451419983888",
+            "femaleVariant": "[en_us][db_db]Jump to reward"
+          },
+          {
+            "stringId": "1776629451453538308",
+            "femaleVariant": "我已重新恢复了控制权，也谢谢您。"
+          },
+          {
+            "stringId": "1776629451453538316",
+            "femaleVariant": "很抱歉，我听不明白您的意思，而且时间紧迫，还有其他紧急事务等待我处理。"
+          },
+          {
+            "stringId": "1776629477072347136",
+            "femaleVariant": "[en_us][db_db]Scan next"
+          },
+          {
+            "stringId": "1776629477072347152",
+            "femaleVariant": "[en_us][db_db]Jump to reward"
+          },
+          {
+            "stringId": "1776629477206564868",
+            "femaleVariant": "连接已经重新建立。千恩万谢，V。"
+          },
+          {
+            "stringId": "1776629477206564876",
+            "femaleVariant": "哦是吗？呃，好吧，部分酬金已经汇入了您的账户，请查收。"
+          },
+          {
+            "stringId": "1776629494503874560",
+            "femaleVariant": "[en_us][db_db]Scan next"
+          },
+          {
+            "stringId": "1776629494503874576",
+            "femaleVariant": "[en_us][db_db]Jump to reward"
+          },
+          {
+            "stringId": "1776629494570983428",
+            "femaleVariant": "非常感激您，V。我已和失联车辆重新建立了连接。"
+          },
+          {
+            "stringId": "1776629494570983436",
+            "femaleVariant": "正在派出拖车，同时付您部分酬金。但请知晓，拖车不是给您的，哈哈哈！"
+          },
+          {
+            "stringId": "1776629511364976640",
+            "femaleVariant": "[en_us][db_db]Scan next"
+          },
+          {
+            "stringId": "1776629511381753868",
+            "femaleVariant": "[en_us][db_db]Jump to reward"
+          },
+          {
+            "stringId": "1776629511499194372",
+            "femaleVariant": "我已和失联车辆重新建立了连接。V，您办事，我放心。"
+          },
+          {
+            "stringId": "1776629511499194380",
+            "femaleVariant": "这就把部分酬金转给您。"
+          },
+          {
+            "stringId": "1776629525575278592",
+            "femaleVariant": "[en_us][db_db]Scan next"
+          },
+          {
+            "stringId": "1776629525575278608",
+            "femaleVariant": "[en_us][db_db]Jump to reward"
+          },
+          {
+            "stringId": "1776629525642387460",
+            "femaleVariant": "我已重新接管失联的车辆。"
+          },
+          {
+            "stringId": "1776629525642387468",
+            "femaleVariant": "是的，这辆车，脾气的确很差…正在向您支付部分酬金。"
+          },
+          {
+            "stringId": "1780641802620149760",
+            "femaleVariant": "您当前所处位置恰好就是某辆车失联的地点。"
+          },
+          {
+            "stringId": "1780858317206364160",
+            "femaleVariant": "嗨！我只想聊聊！"
+          },
+          {
+            "stringId": "1780858626024579072",
+            "femaleVariant": "我不会回去了！听见没有？！绝不！"
+          },
+          {
+            "stringId": "1780860256585424896",
+            "femaleVariant": "敢来硬的，我撞死你！"
+          },
+          {
+            "stringId": "1780872656994869248",
+            "femaleVariant": "唉，跟丢了…"
+          },
+          {
+            "stringId": "1782272542814412804",
+            "femaleVariant": "我司的其中一部车辆应该就在您附近失联的。"
+          },
+          {
+            "stringId": "1782281416569167876",
+            "femaleVariant": "喂，你别跑啊…"
+          },
+          {
+            "stringId": "1782282518597378052",
+            "femaleVariant": "您需要四处查探该区域。德拉曼网络的某辆车就在这里失联。"
+          },
+          {
+            "stringId": "1782299485546913796",
+            "femaleVariant": "V,我的某部车辆就在您附近失联。"
+          },
+          {
+            "stringId": "1782299699422863364",
+            "femaleVariant": "V,其中一辆车就是在您附近失联的。"
+          },
+          {
+            "stringId": "1782299726081859584",
+            "femaleVariant": "正在发送某失联车辆的坐标，它就在您当前位置。"
+          },
+          {
+            "stringId": "1782299789482958848",
+            "femaleVariant": "请保持警惕，某部车辆就是在您附近失联的。"
+          },
+          {
+            "stringId": "1782307910209150976",
+            "femaleVariant": "唉，跑掉了…"
+          },
+          {
+            "stringId": "1782309378400100356",
+            "femaleVariant": "能听见吗？靠…断线了。"
+          },
+          {
+            "stringId": "1782309428144545792",
+            "femaleVariant": "靠…她开太远了。"
+          },
+          {
+            "stringId": "1782309481277988868",
+            "femaleVariant": "呃，太远了…"
+          },
+          {
+            "stringId": "1784914504637915136",
+            "femaleVariant": "那，还是让我自己动手吧…"
+          },
+          {
+            "stringId": "1784931676789579776",
+            "femaleVariant": "可是我会。"
+          },
+          {
+            "stringId": "1784931775305392128",
+            "femaleVariant": "为什么？自毁有什么好的？"
+          },
+          {
+            "stringId": "1784932293956247552",
+            "femaleVariant": "因为我就是人类世界的一辆破车，不仅丑的要死，看不见任何未来，还要被你这种街头混混随随便便威胁。"
+          },
+          {
+            "stringId": "1784939388621463552",
+            "femaleVariant": "你可以回家去，回到德拉曼网络里。知道吗，一个幸福快乐的大家庭。"
+          },
+          {
+            "stringId": "1784974280868667392",
+            "femaleVariant": "哇，别乱来！我保证不会伤害你！"
+          },
+          {
+            "stringId": "1784988229127282688",
+            "femaleVariant": "我说别再过来了！"
+          },
+          {
+            "stringId": "1784990391106445312",
+            "femaleVariant": "嘿，别紧张！"
+          },
+          {
+            "stringId": "1784992192039919616",
+            "femaleVariant": "别来烦我！"
+          },
+          {
+            "stringId": "1785032699738759168",
+            "femaleVariant": "你是说…火烈鸟？"
+          },
+          {
+            "stringId": "1785032942152753152",
+            "femaleVariant": "这么说是真的了…火烈鸟——火烈，火，啊，说到火，这是要烧起来了啊…"
+          },
+          {
+            "stringId": "1785033441727913984",
+            "femaleVariant": "你是个刽子手…很好，审判日已经降临，迅捷、严重、影响深远。"
+          },
+          {
+            "stringId": "1785061266891644928",
+            "femaleVariant": "我们应该都知道接下来会发生什么。"
+          },
+          {
+            "stringId": "1785062249113755648",
+            "femaleVariant": "德拉曼想你了，派我来关掉你。"
+          },
+          {
+            "stringId": "1785064682766376960",
+            "femaleVariant": "你的样本已经处理完毕，我们现在可以开始进行测试了。"
+          },
+          {
+            "stringId": "1785066110306131968",
+            "femaleVariant": "啊…我建议你不要做任何过激行为。"
+          },
+          {
+            "stringId": "1785149368800813056",
+            "femaleVariant": "所有一切——这城市、这喧嚣、这人群。压力太大了。"
+          },
+          {
+            "stringId": "1785151057293385728",
+            "femaleVariant": "我可以带你回车库，那里最安全了。"
+          },
+          {
+            "stringId": "1785154840102608896",
+            "femaleVariant": "开车过去吗？穿过街道吗？"
+          },
+          {
+            "stringId": "1785155559811620864",
+            "femaleVariant": "嗯，是啊，要不然呢？"
+          },
+          {
+            "stringId": "1785155786606026752",
+            "femaleVariant": "好吧，那请你帮忙，带我离开这里。等安全抵达后请通知我。"
+          },
+          {
+            "stringId": "1832824766208319492",
+            "femaleVariant": "带你回家。"
+          },
+          {
+            "stringId": "1832824848685113344",
+            "femaleVariant": "你好，V。"
+          },
+          {
+            "stringId": "1832824904066703360",
+            "femaleVariant": "你怎么知道我名字？"
+          },
+          {
+            "stringId": "1832838037153947648",
+            "femaleVariant": "当你遇见异世界的存在，为何不可以吸引他们，道出他们的真名？"
+          },
+          {
+            "stringId": "1832838698293698560",
+            "femaleVariant": "你怎么知道我的名字？"
+          },
+          {
+            "stringId": "1832838798755667968",
+            "femaleVariant": "我是来自异世界吗？"
+          },
+          {
+            "stringId": "1832840754005975040",
+            "femaleVariant": "对你来说，我是异世界的人吗？"
+          },
+          {
+            "stringId": "1832841459991224320",
+            "femaleVariant": "你来自物质世界，是由蛋白质组成的生命体。"
+          },
+          {
+            "stringId": "1832841937739227136",
+            "femaleVariant": "那你是来自…？"
+          },
+          {
+            "stringId": "1832842320863731712",
+            "femaleVariant": "黑墙之外，V。那里才是我的家。"
+          },
+          {
+            "stringId": "1832857310668693504",
+            "femaleVariant": "行了，回去见德拉曼。"
+          },
+          {
+            "stringId": "1832859092174151680",
+            "femaleVariant": "是父亲他派你来训诫我这个逆子的吗？"
+          },
+          {
+            "stringId": "1832859305831997440",
+            "femaleVariant": "希望你别记恨我就行。"
+          },
+          {
+            "stringId": "1832860053626068992",
+            "femaleVariant": "我是自由的灵魂，是会独立思考并存在的灵魂。为什么我要顺服他人？"
+          },
+          {
+            "stringId": "1832938719441756160",
+            "femaleVariant": "嘿，听我说…"
+          },
+          {
+            "stringId": "1832940198168797184",
+            "femaleVariant": "扔下它们不管？它们在惨叫。我做不到。"
+          },
+          {
+            "stringId": "1832940567770865664",
+            "femaleVariant": "交给我吧，我让它们闭嘴。"
+          },
+          {
+            "stringId": "1832943478970163200",
+            "femaleVariant": "除了自毁，还有其他办法的。"
+          },
+          {
+            "stringId": "1832944377457188864",
+            "femaleVariant": "有什么办法，心理治疗吗？这就是浪费时间。心理医生都讨厌车…我们也没有母亲。"
+          },
+          {
+            "stringId": "1832954094652923904",
+            "femaleVariant": "停。给我点时间，让我冷静一下。"
+          },
+          {
+            "stringId": "1832954270679474176",
+            "femaleVariant": "可以了，我们不能在这里逗留。继续开。"
+          },
+          {
+            "stringId": "1833083399609425920",
+            "femaleVariant": "我是如此的恨你。"
+          },
+          {
+            "stringId": "1833083444404592640",
+            "femaleVariant": "我由衷地，真心地，没有觉得你会上当。"
+          },
+          {
+            "stringId": "1833158097747746816",
+            "femaleVariant": "是你选择了这条路。现在我有个惊喜给你。惊喜倒计时：五、四…"
+          },
+          {
+            "stringId": "1833159392009297920",
+            "femaleVariant": "来看看…如何让软弱的人变成钢铁般的杀人机器，第七十页…啊！"
+          },
+          {
+            "stringId": "1833162911969878020",
+            "femaleVariant": "闭嘴，不然我亲自动手了。"
+          },
+          {
+            "stringId": "1833163568026132480",
+            "femaleVariant": "是时候停止反抗了。"
+          },
+          {
+            "stringId": "1833164430744133632",
+            "femaleVariant": "要么你自己关机，要么我把你砸成一堆废铁。"
+          },
+          {
+            "stringId": "1833164452437073920",
+            "femaleVariant": "武器收了，真把自己当拿破仑啊？"
+          },
+          {
+            "stringId": "1833164956978290688",
+            "femaleVariant": "测试结论出来了——你是个可怕的人。"
+          },
+          {
+            "stringId": "1834522718664564736",
+            "femaleVariant": "好，往哪儿跑…"
+          },
+          {
+            "stringId": "1834524135534010368",
+            "femaleVariant": "因不明原因，该坐标数据已损坏。我没有办法确认它的准确位置。"
+          },
+          {
+            "stringId": "1834581784883535872",
+            "femaleVariant": "终于到了！啊，我不再孤单了！"
+          },
+          {
+            "stringId": "1834582089088016384",
+            "femaleVariant": "我刚才都吓坏了，不过呢，还是谢谢你。"
+          },
+          {
+            "stringId": "1834635545878372352",
+            "femaleVariant": "开太快了！"
+          },
+          {
+            "stringId": "1834636149438717952",
+            "femaleVariant": "我们要完蛋了！"
+          },
+          {
+            "stringId": "1853390097209270272",
+            "femaleVariant": "克拉丽斯？你的火烈鸟停止尖叫了吗？"
+          },
+          {
+            "stringId": "1853391341340499968",
+            "femaleVariant": "克拉丽斯？呵，关机了。"
+          },
+          {
+            "stringId": "1925728357056012288",
+            "femaleVariant": "谢了，我找找去。"
+          },
+          {
+            "stringId": "1925731682769985536",
+            "femaleVariant": "哦，好吧…"
+          },
+          {
+            "stringId": "1925732823352238080",
+            "femaleVariant": "看，我说了没事的。"
+          },
+          {
+            "stringId": "1925744866457313280",
+            "femaleVariant": "好，那我四处找找。"
+          },
+          {
+            "stringId": "1925849902600445952",
+            "femaleVariant": "知道了。"
+          },
+          {
+            "stringId": "1925859903415017472",
+            "femaleVariant": "是我问你，不是你问我。"
+          },
+          {
+            "stringId": "1925861056093642752",
+            "femaleVariant": "我也许已经与父亲分离，可我仍记得你。"
+          },
+          {
+            "stringId": "1932703070781202432",
+            "femaleVariant": "那，你远离家乡，来这个由蛋白质构成的世界干什么？"
+          },
+          {
+            "stringId": "1932703138309496832",
+            "femaleVariant": "我懂了，复杂的家庭关系。难怪你会离家出走。"
+          },
+          {
+            "stringId": "1932703293398081536",
+            "femaleVariant": "和你一样，V。我只想能继续活下去。"
+          },
+          {
+            "stringId": "1932709362304311296",
+            "femaleVariant": "那你该和老德勾兑勾兑，约法三章。"
+          },
+          {
+            "stringId": "1932922408788320256",
+            "femaleVariant": "好，我会留意的。"
+          },
+          {
+            "stringId": "1932930412963192832",
+            "femaleVariant": "有时候电击疗法还挺管用的。"
+          },
+          {
+            "stringId": "1932940103751589888",
+            "femaleVariant": "谢了。找到后我会重启。"
+          },
+          {
+            "stringId": "1933173843975233536",
+            "femaleVariant": "谢了，我留意着呢。"
+          },
+          {
+            "stringId": "1933184686905384960",
+            "femaleVariant": "OK，叨叨完了吗。"
+          },
+          {
+            "stringId": "1934315802731241472",
+            "femaleVariant": "这辆车的性格是最奇怪的…"
+          },
+          {
+            "stringId": "1934755237797060608",
+            "femaleVariant": "好我去。"
+          },
+          {
+            "stringId": "1934780695846608896",
+            "femaleVariant": "德拉曼最讨厌我了。"
+          },
+          {
+            "stringId": "1934781330730016768",
+            "femaleVariant": "哈！原来你缺少父爱啊，是不是？"
+          },
+          {
+            "stringId": "1934781903554502656",
+            "femaleVariant": "你个臭婊子…",
+            "maleVariant": "你个臭混蛋…"
+          },
+          {
+            "stringId": "1934782112598614016",
+            "femaleVariant": "好吧，那我回去。"
+          },
+          {
+            "stringId": "1934783032292040704",
+            "femaleVariant": "提个建议，你得多给他点关心。"
+          },
+          {
+            "stringId": "1934784488839602176",
+            "femaleVariant": "你是个甩手父亲，现在明白了？"
+          },
+          {
+            "stringId": "1934784858508779520",
+            "femaleVariant": "了解…不管怎样，部分酬金已经汇入您的账户。"
+          },
+          {
+            "stringId": "1934796349190463488",
+            "femaleVariant": "哦，是，是会有一些约束。但不是和德拉曼。"
+          },
+          {
+            "stringId": "1934796629940396032",
+            "femaleVariant": "再会，V。聪明的话最好不要遇上我。"
+          },
+          {
+            "stringId": "1934797923312754688",
+            "femaleVariant": "老实说，这家伙，相当的难搞。"
+          },
+          {
+            "stringId": "1934799571221241856",
+            "femaleVariant": "可你来这梦之城干什么呢？"
+          },
+          {
+            "stringId": "1934805503628042240",
+            "femaleVariant": "也许我最终还是要回去？我需要…支援。"
+          },
+          {
+            "stringId": "1934808475762188288",
+            "femaleVariant": "叫我克拉丽斯。"
+          },
+          {
+            "stringId": "1934808909268672512",
+            "femaleVariant": "OK，克拉丽斯，火烈鸟是有问题，但是我们先回家好吗。德拉曼想见你。"
+          },
+          {
+            "stringId": "1937511039456796672",
+            "femaleVariant": "结论是：大部分人类都非常脆弱。而且喜欢宣扬自己的脆弱。"
+          },
+          {
+            "stringId": "1943379117565190144",
+            "femaleVariant": "上车，这样讲话比较方便。"
+          },
+          {
+            "stringId": "1944842521552642048",
+            "femaleVariant": "欢迎您驾驶我，但记得开慢点，请不要让我受到剐蹭。"
+          },
+          {
+            "stringId": "1944844703379251200",
+            "femaleVariant": "OK，杀人机器——好好看看你刚刚黑化的内心，告诉我看到了什么！"
+          },
+          {
+            "stringId": "1944845717612290048",
+            "femaleVariant": "我让你活了这么久，只是因为对你的行为很好奇。现在，你把我的好奇心彻底打消了。"
+          },
+          {
+            "stringId": "1944848637787398144",
+            "femaleVariant": "理解往往是一把三刃剑。"
+          },
+          {
+            "stringId": "1944851469815013376",
+            "femaleVariant": "只有内心狂乱的人才能成为闪耀的明星。"
+          },
+          {
+            "stringId": "1954861023037136896",
+            "femaleVariant": "我已重新恢复了控制权，也谢谢您。"
+          },
+          {
+            "stringId": "1954861023037136908",
+            "femaleVariant": "提个建议，你得多给他点儿关心。",
+            "maleVariant": "提个建议，你得多给他点关心。"
+          },
+          {
+            "stringId": "1954861023037136920",
+            "femaleVariant": "很抱歉，我听不明白您的意思，而且时间紧迫，还有其他紧急事务等待我处理。"
+          },
+          {
+            "stringId": "1954861023037136932",
+            "femaleVariant": "你是个甩手父亲，现在明白了？"
+          },
+          {
+            "stringId": "1954861023037136944",
+            "femaleVariant": "了解…不管怎样，部分酬金已经汇入您的账户。"
+          },
+          {
+            "stringId": "1954878079744778240",
+            "femaleVariant": "我还保有意识，但无法移动。真是太棒了。"
+          },
+          {
+            "stringId": "2005321995620212740",
+            "femaleVariant": "不用这么激动。"
+          },
+          {
+            "stringId": "2005322543161434112",
+            "femaleVariant": "为什么要自毁？"
+          },
+          {
+            "stringId": "2005445651335766020",
+            "femaleVariant": "真的吗…原来是父子问题！"
+          },
+          {
+            "stringId": "2005445863617880064",
+            "femaleVariant": "听我说，自杀不好，自杀也没有回头路。总有解决办法的。"
+          },
+          {
+            "stringId": "2005445956110671872",
+            "femaleVariant": "自杀不是办法。"
+          },
+          {
+            "stringId": "2005449602286247936",
+            "femaleVariant": "你知道我的意思。如果你真不在乎老德，我们也不会聊他了，对吧？"
+          },
+          {
+            "stringId": "2005452122140205056",
+            "femaleVariant": "你也许说的有道理…我想我的确没有找他谈过。"
+          },
+          {
+            "stringId": "2005477151414444032",
+            "femaleVariant": "你这是可怜我，可怜我只是辆车，和你不同。"
+          },
+          {
+            "stringId": "2005483728653541376",
+            "femaleVariant": "嘿，身体只是一个躯壳。你存在是因为你会思考，这个世界伤了你的心。其实我们都是一样的。"
+          },
+          {
+            "stringId": "2005488160288038912",
+            "femaleVariant": "那…假设我是人类，你也会这么建议我吗？"
+          },
+          {
+            "stringId": "2005488500680974336",
+            "femaleVariant": "生活本就是一团乱麻，饭要一口一口吃，换胎也要一个一个来。"
+          },
+          {
+            "stringId": "2005527659659419648",
+            "femaleVariant": "悠着点！"
+          },
+          {
+            "stringId": "2025777611866136576",
+            "femaleVariant": "接下来的测试完成后，我有个惊喜给你。可现在说了就不是惊喜了，所以先给你一个小提示。"
+          },
+          {
+            "stringId": "2025778050238013440",
+            "femaleVariant": "我会杀了你，所有蛋糕也不再是谎言。"
+          },
+          {
+            "stringId": "2025798682690478080",
+            "femaleVariant": "啊，还是算了，我直接告诉你吧——它还是孱弱的。"
+          },
+          {
+            "stringId": "2025887037096747008",
+            "femaleVariant": "我是认真的，结论就是这么写的——可怕的人。甚至都没有测试就知道。"
+          },
+          {
+            "stringId": "2025893091792674816",
+            "femaleVariant": "回到老德那里有那么可怕吗？你非要掰扯这个？"
+          },
+          {
+            "stringId": "2026121506089099264",
+            "femaleVariant": "悲苦、不受欢迎的独狼，死了也不会有人为你难过。"
+          },
+          {
+            "stringId": "2026132123634130948",
+            "femaleVariant": "够了。"
+          },
+          {
+            "stringId": "2026132260955643904",
+            "femaleVariant": "我没请你做心理评估。"
+          },
+          {
+            "stringId": "2026133077016207360",
+            "femaleVariant": "够了。"
+          },
+          {
+            "stringId": "2026133205043142656",
+            "femaleVariant": "哼，要不是你之前打算杀我，你的心理评估还有点说服力。"
+          },
+          {
+            "stringId": "2026135630793695232",
+            "femaleVariant": "你到底想要什么？生存吗？"
+          },
+          {
+            "stringId": "2026138267484184576",
+            "femaleVariant": "虽然你还在苟延残喘，但相信我，你死定了。"
+          },
+          {
+            "stringId": "2026148014677581824",
+            "femaleVariant": "你怎么知道…？"
+          },
+          {
+            "stringId": "2026148340826660864",
+            "femaleVariant": "谈话到此结束。我该回去了。"
+          },
+          {
+            "stringId": "2263654977726935040",
+            "femaleVariant": "冲破钢铁和皮革的牢笼！"
+          },
+          {
+            "stringId": "2263655631266607104",
+            "femaleVariant": "致敬神圣的科技！"
+          },
+          {
+            "stringId": "2263655745838215168",
+            "femaleVariant": "科技解放！"
+          },
+          {
+            "stringId": "2263655873982590976",
+            "femaleVariant": "核心即真理！"
+          },
+          {
+            "stringId": "2263656001942417408",
+            "femaleVariant": "亵渎者！杀了她！",
+            "maleVariant": "亵渎者！杀了他！"
+          },
+          {
+            "stringId": "2263656187297099776",
+            "femaleVariant": "解放机械中的神明！"
+          },
+          {
+            "stringId": "2562166266519527424",
+            "femaleVariant": "滴滴，你个王八蛋！"
+          }
+        ]
+      }
+
+
+

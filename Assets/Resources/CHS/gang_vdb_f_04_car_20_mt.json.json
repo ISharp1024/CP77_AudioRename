@@ -1,0 +1,192 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1949038120975507460",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Sa ki enpòtan se ki kote w prale, se pa kijan ou fè pou rive.\" t=\"只要能达到目标，过程与手段并不重要。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038120992284676",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen menm avè w nou diferan anpil.\" t=\"我们大相径庭，你和我。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121042616324",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Isit la se lakay nou. Al fè wout ou.\" t=\"这是我们的地盘。走开。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121059393540",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pa apwoche!\" t=\"别过来。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121109725188",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pouki sa wap desinen sa a?\" t=\"你把那东西亮出来干嘛？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121126502404",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Tèt ou pa dwat!\" t=\"你脑子肯定进水了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121176834052",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Wap jwenn sa w merite!\" t=\"你会付出代价的！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121193611268",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Map fini avè w!\" t=\"我会结果你！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121243942916",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Bèl travay! Kounyen a, fout ou deyò!\" t=\"这就对了！赶紧滚蛋吧！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121260720132",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Wap tann yon zo pou souse? Jete w!\" t=\"等着我给狗饼干吗？滚！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121311051780",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"En?\" t=\"嗯？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121344606208",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Sa ki nan...\" t=\"有什么在…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121378160644",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Se pa anyen.\" t=\"没什么好担心的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121411715072",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Tout bagay sou kontwòl.\" t=\"情况尽在掌握。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121445269508",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Lapriyè pou mwen pa jwenn ou!\" t=\"你还是祈祷自己别被我找到吧！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121478823940",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Wi, wi! Foure tèt ou anba vant ou tankou yon chen!\" t=\"没错，没错！你比狗还怂！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121512378372",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen santi lanmò pa lwen. Kadav!\" t=\"我感觉到死神在靠近。有尸体！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121545932804",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Se byen. Map okipe sa\" t=\"好。我来处理。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121579487236",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Men batay la!\" t=\"好了，放马过来吧！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121613041668",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Map kraze bouda nou!\" t=\"让我来了结你！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121646596100",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Men pou ou, salopri!\" t=\"接好了，臭婊子！\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Men pou ou, salopri!\" t=\"接好了，蠢蛋！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121696927744",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Sonje pou ki sa wap batay!\" t=\"记住你所为之奋斗的一切！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121713704964",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Nou konn sa nou vle! Loa ri ba nou!\" t=\"我们的目标至高无上！主的微笑与我们同在！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121764036612",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou pa gen dwa kite sa!\" t=\"你没有投降的权利！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121797591044",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Fout tonnè! M pran bal!\" t=\"靠！我中弹了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121847922692",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Sa kap fout pase la a?!\" t=\"怎么回事？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121881477124",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Gade kote w prale'.\" t=\"看看你在往哪儿走。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038121915031556",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Bonjou.\" t=\"日安。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122015694852",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Wi… Konbyen…? Pran monnen sa a pou al achte nan machin otomatik la…\" t=\"是啊…多少钱…？零头不用了，留着你去自动贩卖机…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122066026500",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Anh...? Lafièv sa a toujou la …? Sispan ranse, mennen manzè ka doktè…\" t=\"所以呢…？还烧着呢…？别磨磨唧唧废话了，赶紧带她去医院…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122166689796",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Frape manzè sou kote!\" t=\"包抄她！\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Frape msye sou kote!\" t=\"包抄他！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122233798660",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Map pran lèl la!\" t=\"侧翼我来！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122267353092",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Fè atansyon!\" t=\"大家小心！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122300907524",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Babay.\" t=\"那再见了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122334461956",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen espere se nan tèt mwen sa ye...\" t=\"希望只是我的幻觉…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122401570820",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ey. Nou pral fè yon ankèt.\" t=\"嘿。我们得去看一看。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122418348036",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ee.Pito nou rechaje zam nou\" t=\"呃。先把枪上膛。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122468679684",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Okipe sa.\" t=\"你过去查探一下。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122519011332",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pa gen pitye pou yo! Lajistis pou nou!\" t=\"全部杀掉！我们是正义的！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949038122586120196",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ayhh… non… tanpri ekkk… kkhh.\" t=\"啊啊啊…不…求你…咳咳…咳咳。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949058448283967488",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Anh… Annavan, bat li…. Non… Dako, mwen konprann….Wi, mwen wè kijan pou m fè …..Mm-hmm.\" t=\"嗯…早一点，动作快…不…好，我明白了…对，我知道怎么样…嗯嗯嗯。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1949058952909070336",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou fè sa, men mwen santi sa pap bon … Wè...\" t=\"你要做就做，但我有种不好的预感…是啊…\" b=\"\" a=\"\"/>"
+          }
+        ]
+      }
+
+
+

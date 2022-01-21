@@ -1,0 +1,791 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1624399017996865536",
+            "femaleVariant": "Takemura here."
+          },
+          {
+            "stringId": "1624399657544339460",
+            "femaleVariant": "Why would I do that?"
+          },
+          {
+            "stringId": "1624400073938063360",
+            "femaleVariant": "Hmm... why would I do that?"
+          },
+          {
+            "stringId": "1624400305497198592",
+            "femaleVariant": "Because I am the one who saved your life."
+          },
+          {
+            "stringId": "1640250002186489856",
+            "femaleVariant": "We must meet. Come to Tom's Diner."
+          },
+          {
+            "stringId": "1640251309668487168",
+            "femaleVariant": "Maybe another time."
+          },
+          {
+            "stringId": "1640251883264724992",
+            "femaleVariant": "Can't right now – barely hangin' in there as it is."
+          },
+          {
+            "stringId": "1640257168356200448",
+            "femaleVariant": "You may recall that I saved your life. I need you to return the favor."
+          },
+          {
+            "stringId": "1641641109176766464",
+            "femaleVariant": "Sit."
+          },
+          {
+            "stringId": "1641641692772225028",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1641642480680620032",
+            "femaleVariant": "You do not look so bad."
+          },
+          {
+            "stringId": "1641663205256777732",
+            "femaleVariant": "What do you want?"
+          },
+          {
+            "stringId": "1641666556757331968",
+            "femaleVariant": "Seems Viktor saw to your implants."
+          },
+          {
+            "stringId": "1641667544515923968",
+            "femaleVariant": "Take it Vik jump-started your implants."
+          },
+          {
+            "stringId": "1641678423147991040",
+            "femaleVariant": "I like him. He asks no useless questions."
+          },
+          {
+            "stringId": "1641704191743807488",
+            "femaleVariant": "Hey! I was listening to that!"
+          },
+          {
+            "stringId": "1641705240068149248",
+            "femaleVariant": "Shut up. Nobody 'cept you wants to watch that shit about that corpo cunt."
+          },
+          {
+            "stringId": "1641761934072664064",
+            "femaleVariant": "What did you say?!"
+          },
+          {
+            "stringId": "1641762426517508096",
+            "femaleVariant": "You heard me!"
+          },
+          {
+            "stringId": "1641763912139984896",
+            "femaleVariant": "Hm. Least one of you's got some fuckin' sense."
+          },
+          {
+            "stringId": "1641780348442955780",
+            "femaleVariant": "Need time to think it over."
+          },
+          {
+            "stringId": "1641780834965442560",
+            "femaleVariant": "Shouldn't draw attention to ourselves."
+          },
+          {
+            "stringId": "1641782984714014720",
+            "femaleVariant": "Thanks for the offer. Need to think about it, get back to you."
+          },
+          {
+            "stringId": "1641783045413982208",
+            "femaleVariant": "Last thing we wanna do is to draw attention."
+          },
+          {
+            "stringId": "1641786016675713024",
+            "femaleVariant": "I'm sorry... A stupid reflex."
+          },
+          {
+            "stringId": "1641827729934962692",
+            "femaleVariant": "Try my luck with Evelyn Parker."
+          },
+          {
+            "stringId": "1641828587217145856",
+            "femaleVariant": "Relic's engineer knows more'n anybody else."
+          },
+          {
+            "stringId": "1641829573499342848",
+            "femaleVariant": "With a bit of luck, I'll track down Evelyn."
+          },
+          {
+            "stringId": "1642956411873316864",
+            "femaleVariant": "I need... time... to plan, organize. You stand to gain much if you help me."
+          },
+          {
+            "stringId": "1643004076447289344",
+            "femaleVariant": "I cannot stay here any longer."
+          },
+          {
+            "stringId": "1644593492395610112",
+            "femaleVariant": "Why'd you help me?"
+          },
+          {
+            "stringId": "1644593830456512512",
+            "femaleVariant": "Is this about the biochip?"
+          },
+          {
+            "stringId": "1644599869516075008",
+            "femaleVariant": "Why'd you help me, anyway?"
+          },
+          {
+            "stringId": "1644599942748622848",
+            "femaleVariant": "This about the biochip? That why I'm here?"
+          },
+          {
+            "stringId": "1644610170508595200",
+            "femaleVariant": "Hm. I hear it is damaged beyond repair. Any attempt to extract it would be disastrous, fatal for you."
+          },
+          {
+            "stringId": "1644619994256429056",
+            "femaleVariant": "I needed you to live. That hasn't changed."
+          },
+          {
+            "stringId": "1644716394512175104",
+            "femaleVariant": "Fuckin' 'Saka scum's everywhere."
+          },
+          {
+            "stringId": "1673626057769013248",
+            "femaleVariant": "No, tough guy, you listen."
+          },
+          {
+            "stringId": "1673666405262217216",
+            "femaleVariant": "Listen..."
+          },
+          {
+            "stringId": "1682118893703319552",
+            "femaleVariant": "Honor among thieves – ever heard of it?"
+          },
+          {
+            "stringId": "1682118893736873988",
+            "femaleVariant": "The Parker woman will not help you."
+          },
+          {
+            "stringId": "1682262182150590464",
+            "femaleVariant": "Zapper-dumples and filth. In some ways, Night City never changes."
+          },
+          {
+            "stringId": "1682263449182720000",
+            "femaleVariant": "But hey, at least Rogue's still alive."
+          },
+          {
+            "stringId": "1682269540855631876",
+            "femaleVariant": "You can help me? Puh-lease."
+          },
+          {
+            "stringId": "1682269698695680000",
+            "femaleVariant": "I don't trust you."
+          },
+          {
+            "stringId": "1682270551750004736",
+            "femaleVariant": "Why should I trust you? Remind me again."
+          },
+          {
+            "stringId": "1682273024527093760",
+            "femaleVariant": "Trust me, Rogue's heard dumber shit than that. Way back when you weren't even an itch in your daddy's ballsack."
+          },
+          {
+            "stringId": "1682273793980551168",
+            "femaleVariant": "Rogue'll dance to any tune I play her. Just get us to the Afterlife."
+          },
+          {
+            "stringId": "1682274738420371456",
+            "femaleVariant": "Trust me. Don't trust me. I don't give a fuck. It's the least of our worries, anyway."
+          },
+          {
+            "stringId": "1682316270385025024",
+            "femaleVariant": "Arasaka's still a despotic machine and the world's on a collision course with chaos."
+          },
+          {
+            "stringId": "1685003110992891904",
+            "femaleVariant": "I have nothing better now. Also, I know no one here, and I am a fugitive, I am hunted."
+          },
+          {
+            "stringId": "1685005576790659072",
+            "femaleVariant": "I have allies prepared to bring Yorinobu to his knees. The only thing I need is proof."
+          },
+          {
+            "stringId": "1685043950058524676",
+            "femaleVariant": "Want me to accuse Yorinobu in front of Arasaka execs?"
+          },
+          {
+            "stringId": "1685046062259687424",
+            "femaleVariant": "What if I say no?"
+          },
+          {
+            "stringId": "1685061243241025536",
+            "femaleVariant": "What if I say no?"
+          },
+          {
+            "stringId": "1685061358198509568",
+            "femaleVariant": "So what, we stroll into Arasaka HQ and announce that Yorinobu's a kinkiller? That he murdered Saburo?"
+          },
+          {
+            "stringId": "1685065753191567360",
+            "femaleVariant": "We will get a hearing before reasonable people, in a neutral location. Certain... procedures will be used to establish the truth."
+          },
+          {
+            "stringId": "1685066156750721024",
+            "femaleVariant": "A lie-detector? Forget it."
+          },
+          {
+            "stringId": "1685075442218356736",
+            "femaleVariant": "All I ask is that you do not leave the city."
+          },
+          {
+            "stringId": "1685179396197502976",
+            "femaleVariant": "Anders Hellman – he invented the Relic. If I wanna get rid of it, he's my man."
+          },
+          {
+            "stringId": "1685180631487139840",
+            "femaleVariant": "And if that means picking another fight with Arasaka, so be it."
+          },
+          {
+            "stringId": "1685185247218028544",
+            "femaleVariant": "Hellman defected from the company."
+          },
+          {
+            "stringId": "1685208627375820800",
+            "femaleVariant": "I myself spent many days looking for him. He – what's the expression – dropped off the face of the earth."
+          },
+          {
+            "stringId": "1685216827273695236",
+            "femaleVariant": "Why were you looking for Hellman?"
+          },
+          {
+            "stringId": "1685217035143401472",
+            "femaleVariant": "Defected? Someone poach him?"
+          },
+          {
+            "stringId": "1685217486416957440",
+            "femaleVariant": "Why're you looking for Hellman?"
+          },
+          {
+            "stringId": "1685217615081426944",
+            "femaleVariant": "Defected? Where to? Some other corp poach him?"
+          },
+          {
+            "stringId": "1685218491036651520",
+            "femaleVariant": "As far as I can tell, he acted alone. A meticulous man, he planned it, covered his tracks very well."
+          },
+          {
+            "stringId": "1685222187409657856",
+            "femaleVariant": "He was the one to alert Saburo-san to Yorinobu's schemes. He knew both of them well and could be an important witness."
+          },
+          {
+            "stringId": "1685323066242551808",
+            "femaleVariant": "And you think they'll trust the word of a merc?"
+          },
+          {
+            "stringId": "1685324978442522624",
+            "femaleVariant": "Then I will tell you what rewards await if you help me."
+          },
+          {
+            "stringId": "1685386039707357184",
+            "femaleVariant": "I was quickly... dismissed by the \"Queen of Fixers\" there. Rogue."
+          },
+          {
+            "stringId": "1691237679496744960",
+            "femaleVariant": "I'm... self-employed now."
+          },
+          {
+            "stringId": "1691294960368275456",
+            "femaleVariant": "In that case, another option. You are dying. You do not know how to save yourself."
+          },
+          {
+            "stringId": "1691306291884511232",
+            "femaleVariant": "Yes, I thought it ironic, thieves have none. There is just honor, I believe."
+          },
+          {
+            "stringId": "1691312048902295552",
+            "femaleVariant": "A chip, the Relic, is the culprit. Technology made by Arasaka, technology they alone know."
+          },
+          {
+            "stringId": "1719917412501475328",
+            "femaleVariant": "But I own this place and here I decide. So finish your tea and get the fuck out."
+          },
+          {
+            "stringId": "1719918569777057792",
+            "femaleVariant": "It's people like you two that've brought this country to its knees. Taken our land, our jobs, our fucking dignity."
+          },
+          {
+            "stringId": "1731325950855532548",
+            "femaleVariant": "We buddies now?"
+          },
+          {
+            "stringId": "1731329797703389184",
+            "femaleVariant": "Leave me alone!"
+          },
+          {
+            "stringId": "1731358607991689216",
+            "femaleVariant": "You know, you got some nerve. First you're out to kill me, now you wanna be my pal? Make like nothing happened?"
+          },
+          {
+            "stringId": "1731359307098279936",
+            "femaleVariant": "Leave me the fuck alone!"
+          },
+          {
+            "stringId": "1731361451394256896",
+            "femaleVariant": "I've processed some shit, changed my mind. Don't want you dead anymore."
+          },
+          {
+            "stringId": "1731361790361128960",
+            "femaleVariant": "Go fuck yourself, dickwipe!"
+          },
+          {
+            "stringId": "1731362487152463872",
+            "femaleVariant": "Are you still upset about the other night?"
+          },
+          {
+            "stringId": "1731362766979649536",
+            "femaleVariant": "You tried to kill me!"
+          },
+          {
+            "stringId": "1731363354937184256",
+            "femaleVariant": "Well, I gave it some thought and changed my mind. Don't want you dead anymore."
+          },
+          {
+            "stringId": "1731363738363678720",
+            "femaleVariant": "Fuck off, you psychopath!"
+          },
+          {
+            "stringId": "1731390591908499456",
+            "femaleVariant": "Hey, wasn't easy for me, either. You woke up in a landfill, I woke up in your head. Wrestling with your thoughts, memories. Think we're even."
+          },
+          {
+            "stringId": "1734376296288931840",
+            "femaleVariant": "You got lucky. Vik usually doesn't touch corpo eddies."
+          },
+          {
+            "stringId": "1770895661285793792",
+            "femaleVariant": "Then, in the car, I doubted you would survive."
+          },
+          {
+            "stringId": "1770904531936763904",
+            "femaleVariant": "Huh. Vik likes to talk, I guess…"
+          },
+          {
+            "stringId": "1770905310684798976",
+            "femaleVariant": "Not many could do what he did. You should be thankful."
+          },
+          {
+            "stringId": "1770907494507896832",
+            "femaleVariant": "The same as you – an outcast. Although, for different reasons."
+          },
+          {
+            "stringId": "1770930426512695296",
+            "femaleVariant": "Yorinobu Arasaka must answer for this crime of patricide."
+          },
+          {
+            "stringId": "1770931703426605056",
+            "femaleVariant": "Pff. Lookin' for justice? In Night City?"
+          },
+          {
+            "stringId": "1770932128393486336",
+            "femaleVariant": "I seek revenge. Much more feasible here."
+          },
+          {
+            "stringId": "1770955722108461056",
+            "femaleVariant": "This corporation can save you as easily as it can make you disappear. It is merely about getting the right people on your side. Politics."
+          },
+          {
+            "stringId": "1770969778093580288",
+            "femaleVariant": "Tom's a good guy."
+          },
+          {
+            "stringId": "1770970150346448896",
+            "femaleVariant": "Tom's all right. Not afraid to speak his mind, that's all."
+          },
+          {
+            "stringId": "1770970858781171712",
+            "femaleVariant": "He reminds me of my father. He also worked in a kitchen all his life."
+          },
+          {
+            "stringId": "1770987966860648448",
+            "femaleVariant": "Any idea where he took off to?"
+          },
+          {
+            "stringId": "1770988109131440128",
+            "femaleVariant": "None."
+          },
+          {
+            "stringId": "1771001949579665408",
+            "femaleVariant": "Yorinobu Arasaka'd agree, I'm sure."
+          },
+          {
+            "stringId": "1771028947106553856",
+            "femaleVariant": "And I've taken a step back, looked at things… Think we might be able to help each other. We could start with Rogue. Her and I go back to the stone age."
+          },
+          {
+            "stringId": "1771034567071260672",
+            "femaleVariant": "So you fuckin' know Rogue. What do I say to her? Got a talking brain tumor claims it's her old friend Johnny?"
+          },
+          {
+            "stringId": "1771038435276513280",
+            "femaleVariant": "There is no \"us.\""
+          },
+          {
+            "stringId": "1773326763971600384",
+            "femaleVariant": "You're the ghost of Christmas past, asshole. Any friends you had're either dead or so old their memory's gone."
+          },
+          {
+            "stringId": "1773327133036797952",
+            "femaleVariant": "Johnny Silverhand died a legend. Nobody forgets that."
+          },
+          {
+            "stringId": "1773328288936648704",
+            "femaleVariant": "Don't need convincin'. Seen your memories. Gross."
+          },
+          {
+            "stringId": "1786799673373646848",
+            "femaleVariant": "You know more than I thought."
+          },
+          {
+            "stringId": "1786800805349187584",
+            "femaleVariant": "Somebody's been busy the last few days."
+          },
+          {
+            "stringId": "1786801307893915648",
+            "femaleVariant": "I will not sit and do nothing when there is information to be found, things to prepare."
+          },
+          {
+            "stringId": "1786802190224482304",
+            "femaleVariant": "Your job, basically."
+          },
+          {
+            "stringId": "1786802354523758592",
+            "femaleVariant": "It was my job."
+          },
+          {
+            "stringId": "1786961475176783872",
+            "femaleVariant": "Corpo rats'll squeal when hanging by their tails.",
+            "maleVariant": "Corpo rats'll squeal when hangin' by their tails."
+          },
+          {
+            "stringId": "1786969696247504896",
+            "femaleVariant": "For several days, I collected information. All leads point to one place – the club called the Afterlife."
+          },
+          {
+            "stringId": "1786974884853211136",
+            "femaleVariant": "She take you for a suit?"
+          },
+          {
+            "stringId": "1786975074637078528",
+            "femaleVariant": "No, she saw me as Saburo-sama's killer."
+          },
+          {
+            "stringId": "1786976439648149504",
+            "femaleVariant": "Rogue's well informed, gets wind of most things that happen in the city. Might be worth asking her about Hellman."
+          },
+          {
+            "stringId": "1786981893166096384",
+            "femaleVariant": "Were I you, I would think about a plan B."
+          },
+          {
+            "stringId": "1786982675638673408",
+            "femaleVariant": "I wish you luck. The woman is choosy, expensive and rude."
+          },
+          {
+            "stringId": "1786985856884039680",
+            "femaleVariant": "Do what you want, look for Parker, Hellman, whoever. I must see some friends, call in some favors."
+          },
+          {
+            "stringId": "1786996739525861376",
+            "femaleVariant": "When my people in Arasaka are ready to listen, I will call you."
+          },
+          {
+            "stringId": "1787000658431860736",
+            "femaleVariant": "Till then, I guess."
+          },
+          {
+            "stringId": "1787001655938015232",
+            "femaleVariant": "If by some miracle you find Hellman, please notify me. He and I have unfinished business."
+          },
+          {
+            "stringId": "1888082248731418624",
+            "femaleVariant": "[Calm Takemura] Chill."
+          },
+          {
+            "stringId": "1956122601813729280",
+            "femaleVariant": "You know you don't gotta speak out loud to talk to me?"
+          },
+          {
+            "stringId": "1956123065653420032",
+            "femaleVariant": "You don't need to speak out loud to talk to me."
+          },
+          {
+            "stringId": "1968040962986369024",
+            "femaleVariant": "Haven't managed to get my head straight yet, not after everything that happened."
+          },
+          {
+            "stringId": "1968042236024741888",
+            "femaleVariant": "That will not happen anytime soon. And so what?"
+          },
+          {
+            "stringId": "1968044273466630144",
+            "femaleVariant": "If you intend to live, you must reenter the ring. The bell has already tolled."
+          },
+          {
+            "stringId": "1968044843321548800",
+            "femaleVariant": "Tom's Diner. I am waiting."
+          },
+          {
+            "stringId": "1968136842997424128",
+            "femaleVariant": "What do you want?!"
+          },
+          {
+            "stringId": "1968137507895271424",
+            "femaleVariant": "What do you want from me?"
+          },
+          {
+            "stringId": "1975153275317018624",
+            "femaleVariant": "Been thinkin' I oughta have a word with her myself. She promised to help me get rid of the chip."
+          },
+          {
+            "stringId": "1975157035846098944",
+            "femaleVariant": "Evelyn... what's she to you?"
+          },
+          {
+            "stringId": "1975196934833987584",
+            "femaleVariant": "She and Yorinobu Arasaka had intimate relations... She knows how to get to him."
+          },
+          {
+            "stringId": "1975199393065230340",
+            "femaleVariant": "Just answered your own question."
+          },
+          {
+            "stringId": "1975199687371153408",
+            "femaleVariant": "I would not count on that. She is likely gone, very far away."
+          },
+          {
+            "stringId": "1975201555950362624",
+            "femaleVariant": "Been lookin' for her?"
+          },
+          {
+            "stringId": "1975201943655047168",
+            "femaleVariant": "Why do you believe she could help you remove the chip? Does a corporation help her?"
+          },
+          {
+            "stringId": "1975202048227434496",
+            "femaleVariant": "Why you figure she skipped town?"
+          },
+          {
+            "stringId": "1975203609733259264",
+            "femaleVariant": "Just answered your own question 'bout where Evelyn is – long gone."
+          },
+          {
+            "stringId": "1975263707902009344",
+            "femaleVariant": "I tried to locate her but had no success. I suspect she covered her tracks."
+          },
+          {
+            "stringId": "1975265415923261440",
+            "femaleVariant": "You said Parker could help you remove the Relic... Does she work for a corporation?"
+          },
+          {
+            "stringId": "1975309848936996868",
+            "femaleVariant": "Think so, yeah."
+          },
+          {
+            "stringId": "1975311328871997440",
+            "femaleVariant": "Askin' too many questions."
+          },
+          {
+            "stringId": "1975311797342199808",
+            "femaleVariant": "What's it you actually want from me?"
+          },
+          {
+            "stringId": "1975314094327619584",
+            "femaleVariant": "Got no clue."
+          },
+          {
+            "stringId": "1975314295100563456",
+            "femaleVariant": "Don't think so, no."
+          },
+          {
+            "stringId": "1975314398951530496",
+            "femaleVariant": "No idea."
+          },
+          {
+            "stringId": "1975314775600029696",
+            "femaleVariant": "Suspect so, yeah."
+          },
+          {
+            "stringId": "1975314947583270912",
+            "femaleVariant": "Nope. You're startin' to stink, period."
+          },
+          {
+            "stringId": "1975315851338342400",
+            "femaleVariant": "You got tossed out, lumped  with the outcasts, easily. Or have you forgotten?"
+          },
+          {
+            "stringId": "1975317989040873472",
+            "femaleVariant": "An enigma, to be sure, but she showed that slyness you get in corpo agents... you know the kind."
+          },
+          {
+            "stringId": "1975318143877799936",
+            "femaleVariant": "I, too, possess this \"slyness\" you speak of?"
+          },
+          {
+            "stringId": "1975320338404761600",
+            "femaleVariant": "Don't think so, no."
+          },
+          {
+            "stringId": "1975320455409065984",
+            "femaleVariant": "Can you expand?"
+          },
+          {
+            "stringId": "1975322078118174720",
+            "femaleVariant": "Evelyn was knowledgeable about the Relic, had a large chunk of classified info."
+          },
+          {
+            "stringId": "1975327239595122688",
+            "femaleVariant": "And I, too, stink of \"skullduggery?\""
+          },
+          {
+            "stringId": "1975327388560023552",
+            "femaleVariant": "Don't matter how much perfume a corpo sprays on mornings, by lunch that's replaced by the stench of skullduggery. Only thing I caught from Evelyn was determination."
+          },
+          {
+            "stringId": "1975331903241740292",
+            "femaleVariant": "[Stand] OK, got a life to save – my own, so…"
+          },
+          {
+            "stringId": "1975335444073177088",
+            "femaleVariant": "You have many interesting things to say."
+          },
+          {
+            "stringId": "1975335525123907584",
+            "femaleVariant": "Might be your turn now to say something interesting."
+          },
+          {
+            "stringId": "1975335616408739840",
+            "femaleVariant": "You ask a looot of questions."
+          },
+          {
+            "stringId": "1975338905045065728",
+            "femaleVariant": "I intend to punish Yorinobu Arasaka severely for the crime he has committed."
+          },
+          {
+            "stringId": "1975340258194644992",
+            "femaleVariant": "[Stand] Better be goin'."
+          },
+          {
+            "stringId": "1975350338516443136",
+            "femaleVariant": "Sorry I couldn't be of any help. Don't have any time to lose, so…"
+          },
+          {
+            "stringId": "1975350473422036992",
+            "femaleVariant": "Is that all? Really should be goin'."
+          },
+          {
+            "stringId": "1975374091480752128",
+            "femaleVariant": "V, wait. I need you."
+          },
+          {
+            "stringId": "1975376929380392960",
+            "femaleVariant": "Wait."
+          },
+          {
+            "stringId": "1975390998955057152",
+            "femaleVariant": "If she could not help you before, she will not manage to now."
+          },
+          {
+            "stringId": "1988093739773157376",
+            "femaleVariant": "To begin, you must tell me where to find Evelyn Parker."
+          },
+          {
+            "stringId": "1988492330756956164",
+            "femaleVariant": "[Stand] There is no \"us!\""
+          },
+          {
+            "stringId": "1996634640818397188",
+            "femaleVariant": "Anders Hellman – mean those kinds of people?"
+          },
+          {
+            "stringId": "1996636842878328832",
+            "femaleVariant": "What kind of people we talkin' about?"
+          },
+          {
+            "stringId": "1996637674994688000",
+            "femaleVariant": "Exactly what kind of people are we talkin' about?"
+          },
+          {
+            "stringId": "1996637783174176768",
+            "femaleVariant": "Ya mean people like Anders Hellman?"
+          },
+          {
+            "stringId": "1996639344680001536",
+            "femaleVariant": "People who hold Arasaka dear, are its heart. People interested in the corporation's stable growth."
+          },
+          {
+            "stringId": "1996667211568668672",
+            "femaleVariant": "You know this name how?"
+          },
+          {
+            "stringId": "1996667388467634176",
+            "femaleVariant": "Prepped for the heist, thoroughly. Relic is Hellman's design, his creation."
+          },
+          {
+            "stringId": "1996668206105255936",
+            "femaleVariant": "Untrue – he is a pawn. I was thinking of one much more powerful."
+          },
+          {
+            "stringId": "1996669067749515264",
+            "femaleVariant": "Besides, Anders Hellman escaped Arasaka, betrayed it."
+          },
+          {
+            "stringId": "1996914599755538432",
+            "femaleVariant": "Leave? Why would I leave? Need help, best chance I'll find the right person here."
+          },
+          {
+            "stringId": "1996917429333680128",
+            "femaleVariant": "Someone other than Arasaka specialists? There is no one, no alternative."
+          },
+          {
+            "stringId": "1996922397906198528",
+            "femaleVariant": "Actually, we just talked about some."
+          },
+          {
+            "stringId": "1998184184823701504",
+            "femaleVariant": "Let it go, Takemura."
+          },
+          {
+            "stringId": "2017286101147344900",
+            "femaleVariant": "She spot the corpo in you?"
+          },
+          {
+            "stringId": "2017286371075973120",
+            "femaleVariant": "No experience talkin' to people like that?"
+          },
+          {
+            "stringId": "2017286700731490304",
+            "femaleVariant": "Mean to say you worked for Saburo yet got no idea how to talk to the high and mighty?"
+          },
+          {
+            "stringId": "2017292727073923072",
+            "femaleVariant": "She wished to have nothing to do with the man accused of murdering Saburo Arasaka."
+          }
+        ]
+      }
+
+
+

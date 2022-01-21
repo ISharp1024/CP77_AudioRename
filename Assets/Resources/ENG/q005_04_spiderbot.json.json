@@ -1,0 +1,897 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1612590475413172224",
+            "femaleVariant": "We're in our room."
+          },
+          {
+            "stringId": "1628684857564344320",
+            "femaleVariant": "All set."
+          },
+          {
+            "stringId": "1631719266018185216",
+            "femaleVariant": "Where's the shaft?"
+          },
+          {
+            "stringId": "1632849824085495808",
+            "femaleVariant": "Neutralize him. Use the Flathead to jack into him."
+          },
+          {
+            "stringId": "1632852259801714688",
+            "femaleVariant": "Didn't pick it for snazz. Offers quickest access to the dweller and servers."
+          },
+          {
+            "stringId": "1632853934184648704",
+            "femaleVariant": "Dweller's inside."
+          },
+          {
+            "stringId": "1632854178293141504",
+            "femaleVariant": "Just as planned."
+          },
+          {
+            "stringId": "1632858024486686720",
+            "femaleVariant": "Dweller won't realize somethin's up?"
+          },
+          {
+            "stringId": "1632858587630718976",
+            "femaleVariant": "Could drive a tank through here and he wouldn't feel a breeze. Dead to the world, that one."
+          },
+          {
+            "stringId": "1661820112886091780",
+            "femaleVariant": "[Take chip] Here goes nothin'."
+          },
+          {
+            "stringId": "1661820253328166912",
+            "femaleVariant": "Here goes."
+          },
+          {
+            "stringId": "1661820294985994240",
+            "femaleVariant": "Why me? Why do I gotta slot it in?"
+          },
+          {
+            "stringId": "1661834353135374336",
+            "femaleVariant": "Why's it gotta be me?"
+          },
+          {
+            "stringId": "1661848757298057216",
+            "femaleVariant": "Unlike someone, I haven't run up my tab with Vik. Got last-gen firmware, low flow."
+          },
+          {
+            "stringId": "1661848972667179008",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Just do it, \" a=\", ain't got all day.\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"bróder\" b=\"Just do it, \" a=\", ain't got all day.\"/>"
+          },
+          {
+            "stringId": "1661861711775059968",
+            "femaleVariant": "Sounds simple enough."
+          },
+          {
+            "stringId": "1661865472320917504",
+            "femaleVariant": "What now?"
+          },
+          {
+            "stringId": "1663543197695791104",
+            "femaleVariant": "Penthouse security is neutralized."
+          },
+          {
+            "stringId": "1689374686667546628",
+            "femaleVariant": "Flathead ready?"
+          },
+          {
+            "stringId": "1689600150489210880",
+            "femaleVariant": "Flathead prepped to go?"
+          },
+          {
+            "stringId": "1689607258643308544",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Almost there, \" a=\".\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"carnal\" b=\"Almost there, \" a=\".\"/>"
+          },
+          {
+            "stringId": "1692123093500895232",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Mierda.\" b=\"\" a=\" Little gonk's stuck.\"/>"
+          },
+          {
+            "stringId": "1692125566814855168",
+            "femaleVariant": "Just gonna stand there and look at it? Gonna have to switch to manual control."
+          },
+          {
+            "stringId": "1692126931054174208",
+            "femaleVariant": "Here."
+          },
+          {
+            "stringId": "1711262588604395520",
+            "femaleVariant": "Patching you through to in-cam view. Might get a little disoriented, but don't freak."
+          },
+          {
+            "stringId": "1734416745603411968",
+            "femaleVariant": "What makes you think it was for you?"
+          },
+          {
+            "stringId": "1734419904602189824",
+            "femaleVariant": "He addressed it to the kind housekeeper who finds him. Note inside said \"Sorry for the mess.\""
+          },
+          {
+            "stringId": "1734420849964756992",
+            "femaleVariant": "Think he's single?"
+          },
+          {
+            "stringId": "1734597253666844672",
+            "femaleVariant": "A week – that's all we can promise you."
+          },
+          {
+            "stringId": "1734598919694725120",
+            "femaleVariant": "We will try. And that is all I can promise you."
+          },
+          {
+            "stringId": "1735915118546268160",
+            "femaleVariant": "'Kay…"
+          },
+          {
+            "stringId": "1740374204813815808",
+            "femaleVariant": "Shaft may link both rooms, looks like."
+          },
+          {
+            "stringId": "1740380922528542720",
+            "femaleVariant": "Huh...? What the hell--?"
+          },
+          {
+            "stringId": "1743218606850584576",
+            "femaleVariant": "You can't just go locking people out of their homes, places of work…"
+          },
+          {
+            "stringId": "1743220079319724032",
+            "femaleVariant": "Arasaka will cover the cost of any and all penalties assessed."
+          },
+          {
+            "stringId": "1743220351060291584",
+            "femaleVariant": "This isn't about the money. It's election season. How d'ya think this'll make me look?"
+          },
+          {
+            "stringId": "1743221599100612608",
+            "femaleVariant": "People'll start saying I've lost control of Watson – district I'm from!"
+          },
+          {
+            "stringId": "1744531208163700736",
+            "femaleVariant": "Looks like he's havin' trouble."
+          },
+          {
+            "stringId": "1744533152424931328",
+            "femaleVariant": "Shit..."
+          },
+          {
+            "stringId": "1744585383840985088",
+            "femaleVariant": "OK, he's at it."
+          },
+          {
+            "stringId": "1744586935163039744",
+            "femaleVariant": "Now toggle over to the other cam."
+          },
+          {
+            "stringId": "1754742975808548864",
+            "femaleVariant": "Shit – think he mighta noticed that!"
+          },
+          {
+            "stringId": "1754771625119461376",
+            "femaleVariant": "Hold, I'll use their internal comms."
+          },
+          {
+            "stringId": "1754775229117116416",
+            "femaleVariant": "Grrugh... What now?"
+          },
+          {
+            "stringId": "1754779534385623040",
+            "femaleVariant": "Now, V."
+          },
+          {
+            "stringId": "1754813773898461184",
+            "femaleVariant": "You know – good-lookin', filthy-rich, has that naughty look in his eye. He's stayin' in the penthouse."
+          },
+          {
+            "stringId": "1754814548871622656",
+            "femaleVariant": "Mean Yorinobu Arasaka? Men like him're always single."
+          },
+          {
+            "stringId": "1761693959201804288",
+            "femaleVariant": "Got a winner."
+          },
+          {
+            "stringId": "1761696735646502912",
+            "femaleVariant": "Good. Jackie, how's the Flathead lookin'?"
+          },
+          {
+            "stringId": "1761790047149674496",
+            "femaleVariant": "Boot up your scanner, look around."
+          },
+          {
+            "stringId": "1761793063105908736",
+            "femaleVariant": "Systems're operational, charge at a hundred…"
+          },
+          {
+            "stringId": "1761796581002891264",
+            "femaleVariant": "Simplicity's sometimes toughest to master."
+          },
+          {
+            "stringId": "1761875420311769088",
+            "femaleVariant": "There was blood everywhere, but at least he left a tip."
+          },
+          {
+            "stringId": "1761875514012520448",
+            "femaleVariant": "Am I the only one that just gets puke and used condoms?"
+          },
+          {
+            "stringId": "1761982858683797504",
+            "femaleVariant": "I'd give him a ride and wipe him out…"
+          },
+          {
+            "stringId": "1761982969262428160",
+            "femaleVariant": "Honey... stick to wipin' that glass, huh? You're leavin' streaks everywhere!"
+          },
+          {
+            "stringId": "1763051152224342016",
+            "femaleVariant": "Dweller's just beyond the door."
+          },
+          {
+            "stringId": "1763054840728834048",
+            "femaleVariant": "Gotta be another way. Lemme think..."
+          },
+          {
+            "stringId": "1763057447891423232",
+            "femaleVariant": "Let's figure it out."
+          },
+          {
+            "stringId": "1763064933331554304",
+            "femaleVariant": "Sit tight. Wait it out."
+          },
+          {
+            "stringId": "1763112390740463616",
+            "femaleVariant": "Eightieth floor?! Seriously?!"
+          },
+          {
+            "stringId": "1763170418533650432",
+            "femaleVariant": "What do we do now?"
+          },
+          {
+            "stringId": "1763170791843483648",
+            "femaleVariant": "I'll flash-freeze him with a daemon... Old lingo, don't ask…"
+          },
+          {
+            "stringId": "1763171188322652160",
+            "femaleVariant": "Gotta jack straight into his chair. He won't know what hit him, then."
+          },
+          {
+            "stringId": "1785245712882913280",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Perfecto.\" b=\"\" a=\" Let's start the show.\"/>"
+          },
+          {
+            "stringId": "1796948036479901696",
+            "femaleVariant": "Lemme neutralize him."
+          },
+          {
+            "stringId": "1796950716656934912",
+            "femaleVariant": "Flathead oughta be able to neutralize him."
+          },
+          {
+            "stringId": "1796953356602204160",
+            "femaleVariant": "Good thinking. Lemme graft a demonoid onto your link."
+          },
+          {
+            "stringId": "1796953471492579328",
+            "femaleVariant": "And ya know ya gotta jack the Flathead directly into his chair, right?"
+          },
+          {
+            "stringId": "1796955334451421184",
+            "femaleVariant": "Make it sound like I'm new at this."
+          },
+          {
+            "stringId": "1796955719085875200",
+            "femaleVariant": "OK, sent. He's all yours."
+          },
+          {
+            "stringId": "1877989485953560576",
+            "femaleVariant": "OK, got a clear view."
+          },
+          {
+            "stringId": "1877993335452217344",
+            "femaleVariant": "Let's do this. Steer him outta the shaft."
+          },
+          {
+            "stringId": "1877996216033095680",
+            "femaleVariant": "All set. T?"
+          },
+          {
+            "stringId": "1878001056780005376",
+            "femaleVariant": "Get him to the next vent."
+          },
+          {
+            "stringId": "1878003925415505920",
+            "femaleVariant": "OK, Flathead's in."
+          },
+          {
+            "stringId": "1878006360561299456",
+            "femaleVariant": "Patching you into next cam now."
+          },
+          {
+            "stringId": "1878018588886839296",
+            "femaleVariant": "And? See anything?"
+          },
+          {
+            "stringId": "1878023181985263616",
+            "femaleVariant": "Yep."
+          },
+          {
+            "stringId": "1878023487565475840",
+            "femaleVariant": "Do your thing."
+          },
+          {
+            "stringId": "1878024669100912640",
+            "femaleVariant": "Uhhh, Bug? Got a hitch."
+          },
+          {
+            "stringId": "1878028761768538112",
+            "femaleVariant": "What now?"
+          },
+          {
+            "stringId": "1878028901237534720",
+            "femaleVariant": "Housekeeping's in my way."
+          },
+          {
+            "stringId": "1878029134054961152",
+            "femaleVariant": "Gotta distract her. Hmm, let's see what's on the subnet..."
+          },
+          {
+            "stringId": "1878032050572636160",
+            "femaleVariant": "All right, on it."
+          },
+          {
+            "stringId": "1878033876168617984",
+            "femaleVariant": "Uhh... Kat? Something's up with the tank…"
+          },
+          {
+            "stringId": "1878037445169000448",
+            "femaleVariant": "Jesus Christ -- you got any idea how much those things cost?!"
+          },
+          {
+            "stringId": "1878039815017869312",
+            "femaleVariant": "Hey, Bug! It worked!"
+          },
+          {
+            "stringId": "1878041200128045056",
+            "femaleVariant": "Psh, ain't seen nothin' yet."
+          },
+          {
+            "stringId": "1883668063475085312",
+            "femaleVariant": "Mighta found our way in!"
+          },
+          {
+            "stringId": "1883839217972162560",
+            "femaleVariant": "Bingo."
+          },
+          {
+            "stringId": "1883873008879022080",
+            "femaleVariant": "Got the port."
+          },
+          {
+            "stringId": "1883880860968431616",
+            "femaleVariant": "Flathead, jack it in, we'll have eyes on the next room."
+          },
+          {
+            "stringId": "1883884640338325504",
+            "femaleVariant": "OK, have the Flathead jack in."
+          },
+          {
+            "stringId": "1883898006326882304",
+            "femaleVariant": "Got another cam here."
+          },
+          {
+            "stringId": "1883901666393993216",
+            "femaleVariant": "Can't breach it. You gotta jack the Flathead into the CCTV subnet."
+          },
+          {
+            "stringId": "1883908162867572736",
+            "femaleVariant": "Look around – CCTV access port's gotta be around there."
+          },
+          {
+            "stringId": "1883910964796862464",
+            "femaleVariant": "Wanna use it? You'll need to connect the Flathead to the CCTV port."
+          },
+          {
+            "stringId": "1885182916375228416",
+            "femaleVariant": "Second cam, maybe? Could see something."
+          },
+          {
+            "stringId": "1885197649354567680",
+            "femaleVariant": "Look for the CCTV port. See anything?"
+          },
+          {
+            "stringId": "1885219259130195968",
+            "femaleVariant": "Jack the Flathead in, next cam's ours."
+          },
+          {
+            "stringId": "1885234857545445376",
+            "femaleVariant": "Won't get anywhere without that next cam. Flathead into the CCTV subnet, jack it in now."
+          },
+          {
+            "stringId": "1885237968024514560",
+            "femaleVariant": "Send the Flathead over there, then toggle over to the second cam."
+          },
+          {
+            "stringId": "1902676293156917248",
+            "femaleVariant": "Don't know yet."
+          },
+          {
+            "stringId": "1902676417727746048",
+            "femaleVariant": "Could always swap between cams…"
+          },
+          {
+            "stringId": "1903747572723142656",
+            "femaleVariant": "Flathead into the chair, V, jack in."
+          },
+          {
+            "stringId": "1906723507881783296",
+            "femaleVariant": "V, take the control shard from Jackie. Gonna link your Kiroshis to surveillance so you can guide the bot."
+          },
+          {
+            "stringId": "1906866251270860800",
+            "femaleVariant": "Bug? How're you doin' on time?"
+          },
+          {
+            "stringId": "1906867303990833152",
+            "femaleVariant": "You there, Bug?"
+          },
+          {
+            "stringId": "1906867725400944640",
+            "femaleVariant": "Soooo listen, ICE is thicker than I thought. Piercing it'll take a couple hours."
+          },
+          {
+            "stringId": "1906869149836914688",
+            "femaleVariant": "A couple hours?! Can't do it any faster?"
+          },
+          {
+            "stringId": "1906870133099212800",
+            "femaleVariant": "Want my brain to burst into flames?"
+          },
+          {
+            "stringId": "1906877967572545536",
+            "femaleVariant": "And we are back in biz."
+          },
+          {
+            "stringId": "1924299966980698112",
+            "femaleVariant": "Got another cam other side of the door, but it's disabled."
+          },
+          {
+            "stringId": "1924307435710722048",
+            "femaleVariant": "Yeah. Look around for a CCTV port."
+          },
+          {
+            "stringId": "1924328472678641664",
+            "femaleVariant": "You'll have to get the Flathead in there first, though."
+          },
+          {
+            "stringId": "1947607247701954560",
+            "femaleVariant": "Weren't you supposed to look for the shaft?"
+          },
+          {
+            "stringId": "1947608298895200260",
+            "femaleVariant": "Still nothin'? C'mon, can't be that hard."
+          },
+          {
+            "stringId": "1953485893908967424",
+            "femaleVariant": "Whoop! Got him! Love those daemons!"
+          },
+          {
+            "stringId": "1966479712580268036",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1967602387584360448",
+            "femaleVariant": "Surveillance cover the whole hotel?"
+          },
+          {
+            "stringId": "1967602775825915904",
+            "femaleVariant": "Surveillance cover the whole hotel?"
+          },
+          {
+            "stringId": "1967603803866603520",
+            "femaleVariant": "Mhm. Even the bedrooms in the suites."
+          },
+          {
+            "stringId": "1967604836135149568",
+            "femaleVariant": "Guests don't care?"
+          },
+          {
+            "stringId": "1967605219460980736",
+            "femaleVariant": "You'd be surprised what people're willin' to give up to feel secure."
+          },
+          {
+            "stringId": "1983916397552279552",
+            "femaleVariant": "Aurelius? Aristotle? Who's it this time?"
+          },
+          {
+            "stringId": "1983958156311339008",
+            "femaleVariant": "Yours truly, that one's mine."
+          },
+          {
+            "stringId": "1983959432990367744",
+            "femaleVariant": "Pretty snazzy. Too bad we ain't stayin' the night. Nice choice, Bug."
+          },
+          {
+            "stringId": "1983963526345859072",
+            "femaleVariant": "Lucky for us, Yorinobu's an exception. Penthouse is dark, no hotel security."
+          },
+          {
+            "stringId": "1983979045539094528",
+            "femaleVariant": "To keep an eye on the dweller, yeah."
+          },
+          {
+            "stringId": "1983984477968080896",
+            "femaleVariant": "What did you do?"
+          },
+          {
+            "stringId": "1983985082249846784",
+            "femaleVariant": "Called him upstairs, urgent business. Some poor psycho's threatening to jump."
+          },
+          {
+            "stringId": "1986615758509907968",
+            "femaleVariant": "Flathead can jimmy the lock."
+          },
+          {
+            "stringId": "1986623751561486336",
+            "femaleVariant": "Want me to enable?"
+          },
+          {
+            "stringId": "1986640497571864576",
+            "femaleVariant": "Still weird the hotel's only got one 'runner."
+          },
+          {
+            "stringId": "1986640936648384512",
+            "femaleVariant": "Decent dweller's as good as a dozen rank-and-file."
+          },
+          {
+            "stringId": "1986677560220393472",
+            "femaleVariant": "Flathead stays, right?"
+          },
+          {
+            "stringId": "1986686564870987776",
+            "femaleVariant": "Punching into Konpeki's main net. You go ahead and log out."
+          },
+          {
+            "stringId": "1986689916790972416",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Así es cómo se hace!\" t=\"That's how it's done!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1986691498244907008",
+            "femaleVariant": "How ya feelin'?"
+          },
+          {
+            "stringId": "1986708467643916288",
+            "femaleVariant": "Fine. Little dizzy, that's all."
+          },
+          {
+            "stringId": "1986708894506622976",
+            "femaleVariant": "Take a few deep breaths, all right?"
+          },
+          {
+            "stringId": "1986716796105596928",
+            "femaleVariant": "Yeah, yeah, I'm here."
+          },
+          {
+            "stringId": "1986722815082831872",
+            "femaleVariant": "Just siddown and enjoy your snazzy suite."
+          },
+          {
+            "stringId": "1986790410200883200",
+            "femaleVariant": "Where's the damn justice in it?"
+          },
+          {
+            "stringId": "1989557150605451264",
+            "femaleVariant": "Now you fire up the Flathead and find the shaft entrance."
+          },
+          {
+            "stringId": "1989559098138238976",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Sí, sí, me acuerdo.\" t=\"Yeah, yeah. I remember.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1989572486490824704",
+            "femaleVariant": "Can't see a thing from where I'm poised in the subnet. Need a scan of the room, V."
+          },
+          {
+            "stringId": "1989577721418424320",
+            "femaleVariant": "Keep movin', no time for back-pattin'."
+          },
+          {
+            "stringId": "1993484585923321856",
+            "femaleVariant": "Whaddaya think? Why'd he give it all up?"
+          },
+          {
+            "stringId": "1993485655688945664",
+            "femaleVariant": "Hmm? Who gave what up?"
+          },
+          {
+            "stringId": "1993485821649166336",
+            "femaleVariant": "Yorinobu Arasaka. The good life, I mean."
+          },
+          {
+            "stringId": "1993486522148265984",
+            "femaleVariant": "Old news, I know. Just got to thinkin's all."
+          },
+          {
+            "stringId": "1993487484673925124",
+            "femaleVariant": "Did the same with the Valentinos, didn't you?"
+          },
+          {
+            "stringId": "1993489100990914560",
+            "femaleVariant": "It's like, think... You got everything, right? Eddies, education. Your pops can snap his fingers and turn half the fuckin' planet into a nuclear wasteland…"
+          },
+          {
+            "stringId": "1993489856905158656",
+            "femaleVariant": "You can kick the rat outta the corp, but…"
+          },
+          {
+            "stringId": "1993490511317245952",
+            "femaleVariant": "Maybe he wanted to ditch the system."
+          },
+          {
+            "stringId": "1993490899776905216",
+            "femaleVariant": "Rich asshole's whim – why should I care?"
+          },
+          {
+            "stringId": "1993492055223771136",
+            "femaleVariant": "Ehh, fuck 'im! Why do I need to care about some bougie prick and his street-kid fantasies?"
+          },
+          {
+            "stringId": "1993494872940421120",
+            "femaleVariant": "But instead you're like, \"Nah, fuck it,\" and whaddaya go do?"
+          },
+          {
+            "stringId": "1993497203933257728",
+            "femaleVariant": "Heheh, musta been a hoot, huh? \"I'm Yorinobu Arasaka. Would you folks like to join my gang?\" Tsh... poser with corp protection."
+          },
+          {
+            "stringId": "1993498092790161408",
+            "femaleVariant": "Heheh, and the name, too! Steel fuckin' Dragons?"
+          },
+          {
+            "stringId": "1993498673080508416",
+            "femaleVariant": "Hah, oh man. A wannabe gangoon's wet dream."
+          },
+          {
+            "stringId": "1993499088249495552",
+            "femaleVariant": "Got bored of bein' rich, then got bored of playin' tough.",
+            "maleVariant": "Got bored of bein' rich, an' then got bored of playin' tough."
+          },
+          {
+            "stringId": "1993499560729452544",
+            "femaleVariant": "Tough to ditch the system when the system's your own family."
+          },
+          {
+            "stringId": "1993501933682106368",
+            "femaleVariant": "Said it yourself – you can kick the rat outta the corp..."
+          },
+          {
+            "stringId": "1993502316722724864",
+            "femaleVariant": "Black sheep's still a sheep, eh?"
+          },
+          {
+            "stringId": "1993503085253435392",
+            "femaleVariant": "One way to put it."
+          },
+          {
+            "stringId": "1993503806942158848",
+            "femaleVariant": "But you'll never kick the corp outta the rat."
+          },
+          {
+            "stringId": "1993504285445136384",
+            "femaleVariant": "Prolly just got bored – all one percenters do sooner or later."
+          },
+          {
+            "stringId": "1993507283617521664",
+            "femaleVariant": "Went down the same road, didn't you?"
+          },
+          {
+            "stringId": "1993510221626810368",
+            "femaleVariant": "Hooked up with the Valentinos, spewed some lead, then walked away."
+          },
+          {
+            "stringId": "1993510411679113216",
+            "femaleVariant": "Ey! That ain't the same thing!"
+          },
+          {
+            "stringId": "1993512422613000192",
+            "femaleVariant": "You ghost from your fam, chip some RealSkinn and play gang leader for a few years. For what?!"
+          },
+          {
+            "stringId": "1993514843414274048",
+            "femaleVariant": "Thanks, I will! V, you take it easy, OK? Rest up a bit."
+          },
+          {
+            "stringId": "1993520488343478272",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Don't be puttin' me on a level with that \" a=\".\"/>"
+          },
+          {
+            "stringId": "1993521647867207680",
+            "femaleVariant": "Hey, Bug... were, uh... were you on comms that whole time?"
+          },
+          {
+            "stringId": "1993525601871142912",
+            "femaleVariant": "Three and a half hours."
+          },
+          {
+            "stringId": "1993527059744104448",
+            "femaleVariant": "Eehh... about that stick up the ass…"
+          },
+          {
+            "stringId": "1993527209447202816",
+            "femaleVariant": "Mean the one up mine?"
+          },
+          {
+            "stringId": "1993527983464062976",
+            "femaleVariant": "Ehh, slip of the tongue, y'know…"
+          },
+          {
+            "stringId": "1993529193705316352",
+            "femaleVariant": "I know."
+          },
+          {
+            "stringId": "1993535709372030976",
+            "femaleVariant": "Now's your chance to make up to me."
+          },
+          {
+            "stringId": "1993539141269004288",
+            "femaleVariant": "Fuckin' tourist."
+          },
+          {
+            "stringId": "1993552388642643968",
+            "femaleVariant": "Tourist or not, he just walked into the lobby."
+          },
+          {
+            "stringId": "1993784626365931520",
+            "femaleVariant": "Maybe he just wanted outta the system."
+          },
+          {
+            "stringId": "1993785241905209344",
+            "femaleVariant": "So then why'd he come back?"
+          },
+          {
+            "stringId": "1995245796184629248",
+            "femaleVariant": "Crawled back on all fours, tail between his legs, fuckin' cheap-ass rebel…"
+          },
+          {
+            "stringId": "1995248105316753408",
+            "femaleVariant": "Start a fuckin' gang! Steel Dragons or some shit!"
+          },
+          {
+            "stringId": "1999677341897138176",
+            "femaleVariant": "And I paid a price for it too, 'member? Three slugs to the chest – feels like one's still in my left lung…"
+          },
+          {
+            "stringId": "1999683713229463552",
+            "femaleVariant": "Heywood's not some fuckin' palace in Japan. I didn't have no choices."
+          },
+          {
+            "stringId": "2006722462165573632",
+            "femaleVariant": "Might wear expensive suits, but he's a biker at heart, always itchin' for a ride…"
+          },
+          {
+            "stringId": "2006738584919154688",
+            "femaleVariant": "Who?"
+          },
+          {
+            "stringId": "2009877459444453376",
+            "femaleVariant": "[Enter shaft]"
+          },
+          {
+            "stringId": "2016959729335951360",
+            "femaleVariant": "Got a smartroom panel. Useful?"
+          },
+          {
+            "stringId": "2016960373480382464",
+            "femaleVariant": "What would you say to a TV?"
+          },
+          {
+            "stringId": "2016960839249453056",
+            "femaleVariant": "Holoprojector, maybe?"
+          },
+          {
+            "stringId": "2016961932436070400",
+            "femaleVariant": "Terrarium's got a control panel."
+          },
+          {
+            "stringId": "2016962360557068288",
+            "femaleVariant": "Terrarium's got a temp and air quality controller."
+          },
+          {
+            "stringId": "2016966912668753920",
+            "femaleVariant": "I'd say, \"Keep lookin'.\""
+          },
+          {
+            "stringId": "2016967416337555456",
+            "femaleVariant": "Nope."
+          },
+          {
+            "stringId": "2016968000285335552",
+            "femaleVariant": "Hm, no, not in the least."
+          },
+          {
+            "stringId": "2016968952308457472",
+            "femaleVariant": "Somehow I doubt it."
+          },
+          {
+            "stringId": "2017162786160791552",
+            "femaleVariant": "[Lower temperature]"
+          },
+          {
+            "stringId": "2018348677466181632",
+            "femaleVariant": "[Enter shaft]"
+          },
+          {
+            "stringId": "2018689399939682304",
+            "femaleVariant": "Smartoom panel?"
+          },
+          {
+            "stringId": "2018690501363912704",
+            "femaleVariant": "How about the TV?"
+          },
+          {
+            "stringId": "2018690559345971200",
+            "femaleVariant": "Holoprojector?"
+          },
+          {
+            "stringId": "2018690823989776384",
+            "femaleVariant": "Got a terrarium."
+          },
+          {
+            "stringId": "2018690923210231808",
+            "femaleVariant": "Terrarium's temp control?"
+          },
+          {
+            "stringId": "2018738551360868352",
+            "femaleVariant": "Preem, yeah. Sic the Flathead on it."
+          },
+          {
+            "stringId": "2030259833497448452",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "2101217224014848000",
+            "femaleVariant": "[Send Flathead]"
+          },
+          {
+            "stringId": "2150498727529701376",
+            "femaleVariant": "[Open]"
+          },
+          {
+            "stringId": "2150521666379603968",
+            "femaleVariant": "[Jack in Flathead]"
+          },
+          {
+            "stringId": "2150533920407838720",
+            "femaleVariant": "[Open]"
+          },
+          {
+            "stringId": "2239027744266887168",
+            "femaleVariant": "We gonna stand here at attention? C'mon, take it."
+          },
+          {
+            "stringId": "2239027860281335808",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Híjole\" b=\"\" a=\", V... It's just a chip, not a live grenade.\"/>"
+          }
+        ]
+      }
+
+
+

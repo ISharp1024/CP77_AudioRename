@@ -1,0 +1,370 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1796550020769497092",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"さあ、かかってこい！\" t=\"来啊，你们尽管上！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550020803051524",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ふん、無駄な努力を\" t=\"哼，简直白费力气。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550020853383172",
+            "femaleVariant": "当心，手雷！"
+          },
+          {
+            "stringId": "1796550020920492036",
+            "femaleVariant": "啊，真是叫人怀念！"
+          },
+          {
+            "stringId": "1796550020937269252",
+            "femaleVariant": "你们好日子不多了！"
+          },
+          {
+            "stringId": "1796550021004378116",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ゴミの多い街だ！\" t=\"这儿怎么全是垃圾！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550021037932548",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"後悔しても遅いぞ！\" t=\"到时候后悔可就来不及了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550021071486980",
+            "femaleVariant": "这样可以替我们争取时间！"
+          },
+          {
+            "stringId": "1796550021105041412",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"アラサカ様万歳！\" t=\"荒坂万岁！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550021155373060",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"くっ… 息が… できん…\" t=\"我…喘不过…气…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550021390254084",
+            "femaleVariant": "我可以等。反正快死的不是我。"
+          },
+          {
+            "stringId": "1796550021423808516",
+            "femaleVariant": "你是不是得了那个“多动症”？"
+          },
+          {
+            "stringId": "1796550021474140164",
+            "femaleVariant": "这次能集中精神了吗？"
+          },
+          {
+            "stringId": "1796550021507694596",
+            "femaleVariant": "我们继续吗？"
+          },
+          {
+            "stringId": "1796550021541249028",
+            "femaleVariant": "没时间可以浪费了，V。"
+          },
+          {
+            "stringId": "1796550021591580676",
+            "femaleVariant": "V？"
+          },
+          {
+            "stringId": "1796550021809684484",
+            "femaleVariant": "V。"
+          },
+          {
+            "stringId": "1796550021826461700",
+            "femaleVariant": "你来了真好。"
+          },
+          {
+            "stringId": "1796550021977456644",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ちゃんと前を見て歩け！\" t=\"走路好好看着前面！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550022027788292",
+            "femaleVariant": "啊，V！脚上控制一下！"
+          },
+          {
+            "stringId": "1966134070640254980",
+            "femaleVariant": "你还在吗？"
+          },
+          {
+            "stringId": "1966134070657032196",
+            "femaleVariant": "我们快一点。"
+          },
+          {
+            "stringId": "2238853762959908864",
+            "femaleVariant": "现在后悔已经晚了。"
+          },
+          {
+            "stringId": "2238859762962112520",
+            "femaleVariant": "走吧。不要浪费时间了。"
+          },
+          {
+            "stringId": "2238859883237974024",
+            "femaleVariant": "你想被人发现吗？快走吧。"
+          },
+          {
+            "stringId": "2248174479292407816",
+            "femaleVariant": "打起精神来。"
+          },
+          {
+            "stringId": "2248174479376293896",
+            "femaleVariant": "我等待已久了！"
+          },
+          {
+            "stringId": "2248174479745392648",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"流れに身を任せよう！\" t=\"顺势而下！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174479795724296",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"すぐに終わらせてやる！\" t=\"疾如闪电！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174480030605320",
+            "femaleVariant": "啊...这感觉久违了。"
+          },
+          {
+            "stringId": "2248174480080936968",
+            "femaleVariant": "到此为止吧。"
+          },
+          {
+            "stringId": "2248174480114491400",
+            "femaleVariant": "啊…我的心中饥渴难耐。"
+          },
+          {
+            "stringId": "2248174480164823048",
+            "femaleVariant": "不要贸然冲锋！"
+          },
+          {
+            "stringId": "2248174480198377480",
+            "femaleVariant": "你要是倒下，那就完了！"
+          },
+          {
+            "stringId": "2248174480231931912",
+            "femaleVariant": "撤！重整力量！"
+          },
+          {
+            "stringId": "2248174482798845960",
+            "femaleVariant": "V！我一个人顶不住的！"
+          },
+          {
+            "stringId": "2248174482849177608",
+            "femaleVariant": "需要支援！"
+          },
+          {
+            "stringId": "2248174482899509256",
+            "femaleVariant": "帮我！V！"
+          },
+          {
+            "stringId": "2248174482933063688",
+            "femaleVariant": "正在装弹！"
+          },
+          {
+            "stringId": "2248174482966618120",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"弾切れだ！\" t=\"弹匣空了…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483016949768",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"リロードしなければ\" t=\"需要装弹。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483117613064",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"手榴弾だ！\" t=\"手雷！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483151167496",
+            "femaleVariant": "有手雷！"
+          },
+          {
+            "stringId": "2248174483268608008",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"受け取れ！\" t=\"送给你们的！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483318939656",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"とくと味わえ！\" t=\"希望你们喜欢！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483352494088",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ざまあみろ！\" t=\"又干掉一个！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483386048520",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"もらった！\" t=\"你归我了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483419602952",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"手加減無用だ！\" t=\"给你个痛快！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483973251080",
+            "femaleVariant": "保持警惕，我们可能在狙击手射程中！"
+          },
+          {
+            "stringId": "2248174484006805512",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"頭出すな！ 狙撃手だ！\" t=\"隐蔽！狙击手！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484073914376",
+            "femaleVariant": "敌人炮塔！"
+          },
+          {
+            "stringId": "2248174484124246024",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"タレットに気をつけろ！\" t=\"当心炮塔！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484208132104",
+            "femaleVariant": "当心，有黑客！"
+          },
+          {
+            "stringId": "2248174484241686536",
+            "femaleVariant": "发现敌方黑客！"
+          },
+          {
+            "stringId": "2248174484342349828",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ドローンは好かん！\" t=\"我最恨无人机！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484392681480",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"空飛ぶゴミめ\" t=\"空中之害！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484493344768",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"気をつけろ、オクタントだ！\" t=\"当心，是八分仪！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484543676424",
+            "femaleVariant": "情况不妙！"
+          },
+          {
+            "stringId": "2248174484627562504",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ブリキを相手にせざるを得ないとは！\" t=\"我还是喜欢跟人打！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484677894152",
+            "femaleVariant": "你看到了吗？！"
+          },
+          {
+            "stringId": "2248174484761780232",
+            "femaleVariant": "真正的考验开始了！"
+          },
+          {
+            "stringId": "2248174484795334664",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"面倒な奴が現れた\" t=\"我们有麻烦了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484895997960",
+            "femaleVariant": "那家伙是谁？！"
+          },
+          {
+            "stringId": "2248174484963106824",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"何だ、あれは…？\" t=\"怎么会…！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174485046992904",
+            "femaleVariant": "快！我们占了上风！"
+          },
+          {
+            "stringId": "2248174485080547336",
+            "femaleVariant": "他们在装弹！快进攻！"
+          },
+          {
+            "stringId": "2248174485164433416",
+            "femaleVariant": "怎么？走吗？"
+          },
+          {
+            "stringId": "2248174485197987848",
+            "femaleVariant": "好了，我们走吧。"
+          },
+          {
+            "stringId": "2248174485248319488",
+            "femaleVariant": "脑袋被芯片卡了？我们走吧。"
+          },
+          {
+            "stringId": "2248174485281873928",
+            "femaleVariant": "现在可不适合思考人生。"
+          },
+          {
+            "stringId": "2248174485332205576",
+            "femaleVariant": "快点，V。"
+          },
+          {
+            "stringId": "2248174485382537224",
+            "femaleVariant": "这次你很低调啊？"
+          },
+          {
+            "stringId": "2248174485416091656",
+            "femaleVariant": "好多了。不过记住，我们必须要隐蔽。"
+          },
+          {
+            "stringId": "2248174485499977736",
+            "femaleVariant": "那边。"
+          },
+          {
+            "stringId": "2248174485550309384",
+            "femaleVariant": "有人来了。"
+          },
+          {
+            "stringId": "2248174485600641032",
+            "femaleVariant": "我看见敌人了。"
+          },
+          {
+            "stringId": "2248174485634195464",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"気づかれたか…？\" t=\"他们发现了吗…？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174485701304320",
+            "femaleVariant": "当心！"
+          },
+          {
+            "stringId": "2248174485734858760",
+            "femaleVariant": "他们发现我们了吗？"
+          },
+          {
+            "stringId": "2248174485768413192",
+            "femaleVariant": "他们的安保很严密。要三思后行。"
+          },
+          {
+            "stringId": "2248174485818744836",
+            "femaleVariant": "在这一带要多加警惕。"
+          },
+          {
+            "stringId": "2248174485919408136",
+            "femaleVariant": "你打算把他就扔在这里？"
+          },
+          {
+            "stringId": "2248174485952962568",
+            "femaleVariant": "这样太显眼了…"
+          },
+          {
+            "stringId": "2248174486036848648",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"さあ来い！\" t=\"来吧！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174486087180296",
+            "femaleVariant": "哈哈哈！"
+          },
+          {
+            "stringId": "2248174486154289160",
+            "femaleVariant": "安静…！"
+          },
+          {
+            "stringId": "2248174486204620808",
+            "femaleVariant": "谨慎一点。"
+          }
+        ]
+      }
+
+
+

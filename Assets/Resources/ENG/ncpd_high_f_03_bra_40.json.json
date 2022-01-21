@@ -1,0 +1,188 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1856103425266802692",
+            "femaleVariant": "Maintain your distance."
+          },
+          {
+            "stringId": "1856103425300357120",
+            "femaleVariant": "I've got no intention of talking to you."
+          },
+          {
+            "stringId": "1856103425384243204",
+            "femaleVariant": "Move back."
+          },
+          {
+            "stringId": "1856103425417797636",
+            "femaleVariant": "You need to back away. Now."
+          },
+          {
+            "stringId": "1856103425484906500",
+            "femaleVariant": "Suspect armed!"
+          },
+          {
+            "stringId": "1856103425518460932",
+            "femaleVariant": "The target's armed!"
+          },
+          {
+            "stringId": "1856103425602347012",
+            "femaleVariant": "Got a 148, subject refusing to cooperate, awaiting further instructions."
+          },
+          {
+            "stringId": "1856103425619124228",
+            "femaleVariant": "Requesting permission to neutralize target."
+          },
+          {
+            "stringId": "1856103425669455876",
+            "femaleVariant": "The threat has been contained."
+          },
+          {
+            "stringId": "1856103425703010308",
+            "femaleVariant": "Situation under control."
+          },
+          {
+            "stringId": "1856103425753341956",
+            "femaleVariant": "Moving out."
+          },
+          {
+            "stringId": "1856103425770119172",
+            "femaleVariant": "I'm on it."
+          },
+          {
+            "stringId": "1856103425820450820",
+            "femaleVariant": "All clear. Awaiting further orders... 10-4, you got it."
+          },
+          {
+            "stringId": "1856103425837228036",
+            "femaleVariant": "10-26. No threat."
+          },
+          {
+            "stringId": "1856103425887559684",
+            "femaleVariant": "Searching for the target!"
+          },
+          {
+            "stringId": "1856103425921114116",
+            "femaleVariant": "Got a lead. Investigating now."
+          },
+          {
+            "stringId": "1856103425954668548",
+            "femaleVariant": "No signs of life."
+          },
+          {
+            "stringId": "1856103425988222980",
+            "femaleVariant": "Understood."
+          },
+          {
+            "stringId": "1856103426038554628",
+            "femaleVariant": "Defend yourselves!"
+          },
+          {
+            "stringId": "1856103426055331844",
+            "femaleVariant": "10-71. Shots fired!"
+          },
+          {
+            "stringId": "1856103426105663492",
+            "femaleVariant": "Hand grenade!"
+          },
+          {
+            "stringId": "1856103426155995140",
+            "femaleVariant": "Eliminate all enemy personnel!"
+          },
+          {
+            "stringId": "1856103426172772356",
+            "femaleVariant": "Neutralize all hostiles!"
+          },
+          {
+            "stringId": "1856103426223104004",
+            "femaleVariant": "Officer to base. I need backup!"
+          },
+          {
+            "stringId": "1856103426239881220",
+            "femaleVariant": "Cover me!"
+          },
+          {
+            "stringId": "1856103426290212868",
+            "femaleVariant": "Suspicious behavior right there."
+          },
+          {
+            "stringId": "1856103426323767300",
+            "femaleVariant": "What the?!"
+          },
+          {
+            "stringId": "1856103426357321732",
+            "femaleVariant": "Yeah?"
+          },
+          {
+            "stringId": "1856103426407653380",
+            "femaleVariant": "Mhm... What...? In civilian clothes...? Got it..."
+          },
+          {
+            "stringId": "1856103426424430596",
+            "femaleVariant": "Dunno either... Got blasted, maybe...? Family stuff…"
+          },
+          {
+            "stringId": "1856103426508316676",
+            "femaleVariant": "Take her from behind!",
+            "maleVariant": "Take him from behind!"
+          },
+          {
+            "stringId": "1856103426558648324",
+            "femaleVariant": "Cover fire! Now!"
+          },
+          {
+            "stringId": "1856103426625757188",
+            "femaleVariant": "Watch out! Grenade!"
+          },
+          {
+            "stringId": "1856103426659311620",
+            "femaleVariant": "Yes sir."
+          },
+          {
+            "stringId": "1856103426692866052",
+            "femaleVariant": "Initiating investigation."
+          },
+          {
+            "stringId": "1856103426776752132",
+            "femaleVariant": "Shhh... follow me."
+          },
+          {
+            "stringId": "1856103426793529348",
+            "femaleVariant": "Psst... safety off."
+          },
+          {
+            "stringId": "1856103426860638212",
+            "femaleVariant": "Stay alert."
+          },
+          {
+            "stringId": "1856103426877415428",
+            "femaleVariant": "I want her dead!",
+            "maleVariant": "I want him dead!"
+          },
+          {
+            "stringId": "1856103426944524288",
+            "femaleVariant": "Ech... ech... I can't... breathe..."
+          },
+          {
+            "stringId": "1867760676620591104",
+            "femaleVariant": "Don't ask me, never liked 'er anyway..."
+          }
+        ]
+      }
+
+
+

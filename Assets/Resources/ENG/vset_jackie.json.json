@@ -1,0 +1,463 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1796586619024687108",
+            "femaleVariant": "It's goin' down..."
+          },
+          {
+            "stringId": "1796586619058241540",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Bueno, ¡¿qué chingados estás esperando?!\" t=\"Well, what you waitin' for?!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796586619091795972",
+            "femaleVariant": "A fuckin' grenade?!"
+          },
+          {
+            "stringId": "1796586619158904836",
+            "femaleVariant": "Ladies and gentlemen! Jackie Welles!"
+          },
+          {
+            "stringId": "1796586619192459268",
+            "femaleVariant": "You know who you're messin' with?!"
+          },
+          {
+            "stringId": "1796586619242790916",
+            "femaleVariant": "Who's ready to party?!"
+          },
+          {
+            "stringId": "1796586619276345344",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Chingao!\" b=\"\" a=\" Almost got me!\"/>"
+          },
+          {
+            "stringId": "1796586619309899780",
+            "femaleVariant": "Suck on this!"
+          },
+          {
+            "stringId": "1796586619326676996",
+            "femaleVariant": "Playtime's over!"
+          },
+          {
+            "stringId": "1796586619360231428",
+            "femaleVariant": "Let me fuckin'... GO!"
+          },
+          {
+            "stringId": "1796586619544780804",
+            "femaleVariant": "What? Gotta take a piss?"
+          },
+          {
+            "stringId": "1796586619561558020",
+            "femaleVariant": "Uh... Later, then."
+          },
+          {
+            "stringId": "1796586619628666884",
+            "femaleVariant": "Ah, there you are."
+          },
+          {
+            "stringId": "1796586619662221316",
+            "femaleVariant": "So? 'Sup?"
+          },
+          {
+            "stringId": "1796586619678998532",
+            "femaleVariant": "Helloooo!"
+          },
+          {
+            "stringId": "1796586619712552964",
+            "femaleVariant": "Gonna be long?"
+          },
+          {
+            "stringId": "1796586619964211204",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"'Ey, \" a=\".\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"vato\" b=\"'Ey, \" a=\".\"/>"
+          },
+          {
+            "stringId": "1796586619997765636",
+            "femaleVariant": "What's shakin'?"
+          },
+          {
+            "stringId": "1796586620131983364",
+            "femaleVariant": "'Ey, watch where you're walkin', fool."
+          },
+          {
+            "stringId": "1796586620148760580",
+            "femaleVariant": "'Ey, easy."
+          },
+          {
+            "stringId": "1934264673427804160",
+            "femaleVariant": "Uhh... Hannah? Don't we gotta check in?",
+            "maleVariant": "Uhh... Harry? Don't we gotta check in?"
+          },
+          {
+            "stringId": "1934268272694284292",
+            "femaleVariant": "Wait! We gotta check in first!"
+          },
+          {
+            "stringId": "1966199076127907844",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"You with me, \" a=\"?\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mano?\" b=\"You with me, \" a=\"\"/>"
+          },
+          {
+            "stringId": "1966199076161462276",
+            "femaleVariant": "You're weirdin' me out, V."
+          },
+          {
+            "stringId": "2238067199846817792",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Let's get 'em, \" a=\"!\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"Let's get 'em, \" a=\"!\"/>"
+          },
+          {
+            "stringId": "2238069786960633864",
+            "femaleVariant": "Let's goooo!"
+          },
+          {
+            "stringId": "2238071783700996104",
+            "femaleVariant": "Come on, motherfucker! Let's dance!"
+          },
+          {
+            "stringId": "2238074352678641672",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Seek and you will find, \" a=\"!\"/>"
+          },
+          {
+            "stringId": "2238075074216370184",
+            "femaleVariant": "I eat lead for breakfast!"
+          },
+          {
+            "stringId": "2238081631222145032",
+            "femaleVariant": "Ahh, all cleaned up."
+          },
+          {
+            "stringId": "2238082685519175688",
+            "femaleVariant": "Fuckin' bums..."
+          },
+          {
+            "stringId": "2238082720650665992",
+            "femaleVariant": "Guess that's all of 'em."
+          },
+          {
+            "stringId": "2238165104918175752",
+            "femaleVariant": "V, watch it!"
+          },
+          {
+            "stringId": "2238165514567458824",
+            "femaleVariant": "Careful, V! They got you."
+          },
+          {
+            "stringId": "2238165553524154376",
+            "femaleVariant": "Stay outta their way. Not long now!"
+          },
+          {
+            "stringId": "2238165586675933192",
+            "femaleVariant": "Steady, now! We got this, V!"
+          },
+          {
+            "stringId": "2238165716145709064",
+            "femaleVariant": "Cover, V! You're hurt!"
+          },
+          {
+            "stringId": "2238682834201124868",
+            "femaleVariant": "Cover me, V!"
+          },
+          {
+            "stringId": "2238682864483999752",
+            "femaleVariant": "Get 'em off me!"
+          },
+          {
+            "stringId": "2238682894867537928",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"cabrones\" b=\"Come on, \" a=\"! I'm here for ya!\"/>"
+          },
+          {
+            "stringId": "2238685622607978504",
+            "femaleVariant": "Gotta reload!"
+          },
+          {
+            "stringId": "2238685622658310152",
+            "femaleVariant": "Empty mag!"
+          },
+          {
+            "stringId": "2238685622691864584",
+            "femaleVariant": "I'm empty! Need to reload!"
+          },
+          {
+            "stringId": "2238685622758973440",
+            "femaleVariant": "Hang on! Reloadin'!"
+          },
+          {
+            "stringId": "2238685622792527880",
+            "femaleVariant": "With you in a sec!"
+          },
+          {
+            "stringId": "2238687543129448456",
+            "femaleVariant": "Gonna blow!"
+          },
+          {
+            "stringId": "2238687543163002888",
+            "femaleVariant": "Look out, they got grenades!"
+          },
+          {
+            "stringId": "2238687543196557320",
+            "femaleVariant": "Take cover – now!"
+          },
+          {
+            "stringId": "2238687543230111752",
+            "femaleVariant": "'Nade in the air!"
+          },
+          {
+            "stringId": "2238689066467106816",
+            "femaleVariant": "Watch out, she's flyin'!"
+          },
+          {
+            "stringId": "2238689066500661256",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Granada!\" t=\"Grenade!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2238690814468464648",
+            "femaleVariant": "Choom's hit!"
+          },
+          {
+            "stringId": "2238690814518796296",
+            "femaleVariant": "One shot – one body!"
+          },
+          {
+            "stringId": "2238690814569127944",
+            "femaleVariant": "Bite that dust!"
+          },
+          {
+            "stringId": "2238690814619459592",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Tengo otra!\" t=\"Got another body!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2238690814653014024",
+            "femaleVariant": "Dropped one!"
+          },
+          {
+            "stringId": "2238704855622524936",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Tengo otra!\" t=\"Hell yeah!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2238704855672856584",
+            "femaleVariant": "Nice shot!"
+          },
+          {
+            "stringId": "2238704855723188228",
+            "femaleVariant": "Good one!"
+          },
+          {
+            "stringId": "2238704855756742664",
+            "femaleVariant": "S'what I'm talkin' 'bout!"
+          },
+          {
+            "stringId": "2238704855790297096",
+            "femaleVariant": "Don't give 'em any chances!"
+          },
+          {
+            "stringId": "2238712910514921480",
+            "femaleVariant": "Aim for the head!"
+          },
+          {
+            "stringId": "2238712910565253128",
+            "femaleVariant": "Shoot, V!"
+          },
+          {
+            "stringId": "2238712910598807560",
+            "femaleVariant": "Aim first, then blast 'em!"
+          },
+          {
+            "stringId": "2238712910632361992",
+            "femaleVariant": "V, get a grip!"
+          },
+          {
+            "stringId": "2238712910682693640",
+            "femaleVariant": "Focus!"
+          },
+          {
+            "stringId": "2238728227593035784",
+            "femaleVariant": "Look out, turret!"
+          },
+          {
+            "stringId": "2238728227643367432",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Torreta!\" t=\"Turret!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2238728227710476296",
+            "femaleVariant": "Watch the lead-spitter!"
+          },
+          {
+            "stringId": "2238728325236432904",
+            "femaleVariant": "Heads up – drones!"
+          },
+          {
+            "stringId": "2238728325269987336",
+            "femaleVariant": "Watch the drones!"
+          },
+          {
+            "stringId": "2238728325320318984",
+            "femaleVariant": "They got air support! Careful!"
+          },
+          {
+            "stringId": "2238728419121733640",
+            "femaleVariant": "He's a mean-lookin' motherfucker!"
+          },
+          {
+            "stringId": "2238728419222396928",
+            "femaleVariant": "Watch out – mech's coming!"
+          },
+          {
+            "stringId": "2238728419306283016",
+            "femaleVariant": "Take the mech!"
+          },
+          {
+            "stringId": "2238728473899343880",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Argh, ¡qué fuerte, hijos de puta!!\" t=\"Tough sons of bitches!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2238728473949675528",
+            "femaleVariant": "Watch out for them!"
+          },
+          {
+            "stringId": "2238728473983229960",
+            "femaleVariant": "Here comes trouble!"
+          },
+          {
+            "stringId": "2238739839238447112",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Make moves, \" a=\".\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"Make moves, \" a=\".\"/>"
+          },
+          {
+            "stringId": "2238739839272001544",
+            "femaleVariant": "Waitin' on ya."
+          },
+          {
+            "stringId": "2238739839322333192",
+            "femaleVariant": "V, get it together!"
+          },
+          {
+            "stringId": "2238739839355887624",
+            "femaleVariant": "V...?"
+          },
+          {
+            "stringId": "2238739839389442056",
+            "femaleVariant": "Your move, V."
+          },
+          {
+            "stringId": "2238742738861465608",
+            "femaleVariant": "Think we're outta sight."
+          },
+          {
+            "stringId": "2238742738911797256",
+            "femaleVariant": "Don't see us no more. Good."
+          },
+          {
+            "stringId": "2238742738962128904",
+            "femaleVariant": "They lost us."
+          },
+          {
+            "stringId": "2238743585322344456",
+            "femaleVariant": "Careful now..."
+          },
+          {
+            "stringId": "2238743585423007752",
+            "femaleVariant": "Keep it calm. Or they'll spot us."
+          },
+          {
+            "stringId": "2238743585523671048",
+            "femaleVariant": "Baby steps, V. Enemy's watchin'."
+          },
+          {
+            "stringId": "2238744355262341128",
+            "femaleVariant": "Quick, hide!"
+          },
+          {
+            "stringId": "2238744355295895560",
+            "femaleVariant": "Watch out, they'll mark us!"
+          },
+          {
+            "stringId": "2238744355329449992",
+            "femaleVariant": "V! They can spot you!"
+          },
+          {
+            "stringId": "2238744397608034312",
+            "femaleVariant": "'Ey, cameras!"
+          },
+          {
+            "stringId": "2238744397641588744",
+            "femaleVariant": "They got eyes on this turf. Careful."
+          },
+          {
+            "stringId": "2238744397675143176",
+            "femaleVariant": "Watch it, V. They got cams."
+          },
+          {
+            "stringId": "2238744479346630664",
+            "femaleVariant": "V, the body! Don't just leave it there."
+          },
+          {
+            "stringId": "2238744479396962312",
+            "femaleVariant": "Leave no trace, V."
+          },
+          {
+            "stringId": "2238744479447293960",
+            "femaleVariant": "Better do something with that body."
+          },
+          {
+            "stringId": "2238750171252039688",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Chingada madre!\" t=\"Motherfucker!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2238750171302371336",
+            "femaleVariant": "Fuck!"
+          },
+          {
+            "stringId": "2238755956136779784",
+            "femaleVariant": "Low profile!"
+          },
+          {
+            "stringId": "2238755956170334216",
+            "femaleVariant": "Head down, eyes open!"
+          },
+          {
+            "stringId": "2257891632345358336",
+            "femaleVariant": "A little... further!"
+          },
+          {
+            "stringId": "2257910520504229896",
+            "femaleVariant": "Let's... Mfh... wipe 'em!"
+          },
+          {
+            "stringId": "2257912999472111624",
+            "femaleVariant": "Gonna take more than that!"
+          },
+          {
+            "stringId": "2257914255984926728",
+            "femaleVariant": "Come on, motherfuckers!"
+          },
+          {
+            "stringId": "2257914704825786376",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"coños\" b=\"Better get out... outta my way, \" a=\"!\"/>"
+          },
+          {
+            "stringId": "2272081352126021632",
+            "femaleVariant": "We goin'?"
+          },
+          {
+            "stringId": "2272082536245149704",
+            "femaleVariant": "C'mon, V. Ain't got time."
+          }
+        ]
+      }
+
+
+

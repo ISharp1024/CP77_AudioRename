@@ -1,0 +1,442 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1202569308387950592",
+            "femaleVariant": "Enny for your thoughts?"
+          },
+          {
+            "stringId": "1202570965339357184",
+            "femaleVariant": "I have none. I mean, I don't even know."
+          },
+          {
+            "stringId": "1212354433107640320",
+            "femaleVariant": "[Sit] Really pleasant here."
+          },
+          {
+            "stringId": "1327214699397267456",
+            "femaleVariant": "Be right there with you tomorrow. Whatever happens, we'll be together, we'll manage."
+          },
+          {
+            "stringId": "1752168369827368960",
+            "femaleVariant": "There's a nice spot up there. Quiet."
+          },
+          {
+            "stringId": "1793772490433810432",
+            "femaleVariant": "An enny for your thoughts?"
+          },
+          {
+            "stringId": "1793772636932460544",
+            "femaleVariant": "Got something on your mind, I can feel it ."
+          },
+          {
+            "stringId": "1793772664312877056",
+            "femaleVariant": "Killer view."
+          },
+          {
+            "stringId": "1793773794174488576",
+            "femaleVariant": "Somethin's gnawin' at you, I can tell. Whatever it is, you can tell me."
+          },
+          {
+            "stringId": "1793773842811637764",
+            "femaleVariant": "What a view, huh?"
+          },
+          {
+            "stringId": "1793775166802415616",
+            "femaleVariant": "Screw views."
+          },
+          {
+            "stringId": "1793775441831317504",
+            "femaleVariant": "Nothing's gnawing at me. Stop, this is irksome."
+          },
+          {
+            "stringId": "1793776939013296128",
+            "femaleVariant": "I'm so tense I barely caught a wink last night. It's likely to be the same tonight."
+          },
+          {
+            "stringId": "1793777411828797456",
+            "femaleVariant": "Feel responsible for 'em. Who wouldn't?"
+          },
+          {
+            "stringId": "1793778606836338692",
+            "femaleVariant": "You feel responsible for them. Who in their right mind wouldn't?"
+          },
+          {
+            "stringId": "1793778635877699588",
+            "femaleVariant": "C'mere."
+          },
+          {
+            "stringId": "1793782969214488576",
+            "femaleVariant": "I'm just looking at this with a cool head."
+          },
+          {
+            "stringId": "1793783636209487872",
+            "femaleVariant": "Saul has made all the wrong decisions to be a little more like me."
+          },
+          {
+            "stringId": "1793783797505642496",
+            "femaleVariant": "But only I know what I'm good at and at what I stink."
+          },
+          {
+            "stringId": "1793783910684741632",
+            "femaleVariant": "I'm not a miracle worker, V! I'm scared to the bone something will go wrong. That everyone will--"
+          },
+          {
+            "stringId": "1793784278223212544",
+            "femaleVariant": "Nobody's gonna die tomorrow."
+          },
+          {
+            "stringId": "1793784278223212560",
+            "femaleVariant": "Sorry for dragging you into this."
+          },
+          {
+            "stringId": "1793784609808109568",
+            "femaleVariant": "Be right there beside you."
+          },
+          {
+            "stringId": "1793786505851621376",
+            "femaleVariant": "Sorry to've dragged you into this. Sorry."
+          },
+          {
+            "stringId": "1793786550764228612",
+            "femaleVariant": "Nobody's dyin' tomorrow, Panam."
+          },
+          {
+            "stringId": "1793789450789900288",
+            "femaleVariant": "You don't know that."
+          },
+          {
+            "stringId": "1793790931479875584",
+            "femaleVariant": "V, stop."
+          },
+          {
+            "stringId": "1793791318698020864",
+            "femaleVariant": "Accept me into your family and how do I repay you? By taking you on an excursion through hell."
+          },
+          {
+            "stringId": "1793792414636101632",
+            "femaleVariant": "V?"
+          },
+          {
+            "stringId": "1817170311849496576",
+            "femaleVariant": "What's eatin' ya?"
+          },
+          {
+            "stringId": "1817173075543511040",
+            "femaleVariant": "Well, let's see."
+          },
+          {
+            "stringId": "1817173256301236224",
+            "femaleVariant": "Tomorrow I'll lead my whole clan to near-certain death."
+          },
+          {
+            "stringId": "1817174133145653248",
+            "femaleVariant": "As if that's not enough, Saul is suddenly concurring with everything I say. And I don't even know if that's good or bad – fuck."
+          },
+          {
+            "stringId": "1817174754590511104",
+            "femaleVariant": "It's not the responsibility I'm worried about."
+          },
+          {
+            "stringId": "1817184032894275584",
+            "femaleVariant": "Nice of you to be a good listener, but some input would be nice, too, from you."
+          },
+          {
+            "stringId": "1817194727429951488",
+            "femaleVariant": "I don't know what I would do without you."
+          },
+          {
+            "stringId": "1817196976432533504",
+            "femaleVariant": "You'd do what you needed to."
+          },
+          {
+            "stringId": "1817197125951082496",
+            "femaleVariant": "What do you know."
+          },
+          {
+            "stringId": "1817199008220499968",
+            "femaleVariant": "I am… all the fuckin' time."
+          },
+          {
+            "stringId": "1817199095814344708",
+            "femaleVariant": "Very, all the time."
+          },
+          {
+            "stringId": "1817199409531506688",
+            "femaleVariant": "No, I'm not."
+          },
+          {
+            "stringId": "1817199466842476544",
+            "femaleVariant": "Try my damndest not to think about it."
+          },
+          {
+            "stringId": "1817199515697729536",
+            "femaleVariant": "[Hug Panam] I'm afraid for you."
+          },
+          {
+            "stringId": "1817199815187812356",
+            "femaleVariant": "No, I'm not."
+          },
+          {
+            "stringId": "1817199867281068036",
+            "femaleVariant": "Try my damndest not to think about it.",
+            "maleVariant": "I try my damndest not to think about it."
+          },
+          {
+            "stringId": "1817199922192896004",
+            "femaleVariant": "Not as much as I'm afraid for you."
+          },
+          {
+            "stringId": "1817204489253081088",
+            "femaleVariant": "You're great at hiding it."
+          },
+          {
+            "stringId": "1817204932859449344",
+            "femaleVariant": "I envy you."
+          },
+          {
+            "stringId": "1817205128850886656",
+            "femaleVariant": "So do I. But the harder I try, the worse it gets."
+          },
+          {
+            "stringId": "1837410053190897664",
+            "femaleVariant": "People are doubting us... I can feel it."
+          },
+          {
+            "stringId": "1837417985727057920",
+            "femaleVariant": "But they still believe if it all goes to shit, Panam will be there for them. Because who else, right?"
+          },
+          {
+            "stringId": "1886648873538678784",
+            "femaleVariant": "[Sit] So this is where you go."
+          },
+          {
+            "stringId": "1886649512146628608",
+            "femaleVariant": "Darn, so nice here."
+          },
+          {
+            "stringId": "1886649579523928064",
+            "femaleVariant": "So this is where you escape when you need to think.",
+            "maleVariant": "So this is where you escape to when you need to think."
+          },
+          {
+            "stringId": "1886651455216676864",
+            "femaleVariant": "I never escape."
+          },
+          {
+            "stringId": "1886652509513707520",
+            "femaleVariant": "Mhm."
+          },
+          {
+            "stringId": "1886655372142964736",
+            "femaleVariant": "Is, uh, somethin' the matter?"
+          },
+          {
+            "stringId": "1886657562660171776",
+            "femaleVariant": "Panam."
+          },
+          {
+            "stringId": "1886657790981304320",
+            "femaleVariant": "Have you..."
+          },
+          {
+            "stringId": "1886684933949878272",
+            "femaleVariant": "The fam, they're tougher than you think."
+          },
+          {
+            "stringId": "1886685402369748992",
+            "femaleVariant": "Bullets don't distinguish between tough and weak."
+          },
+          {
+            "stringId": "1886687770540896256",
+            "femaleVariant": "It isn't fair of me, Panam. I wasn't fair from the start.",
+            "maleVariant": "Isn't fair of me, Panam. Wasn't fair from the start."
+          },
+          {
+            "stringId": "1886688033993519104",
+            "femaleVariant": "You know what's not fair? That you want me to massage your bruised conscience."
+          },
+          {
+            "stringId": "1886691127762481152",
+            "femaleVariant": "Well, I won't do it. We're all in this together."
+          },
+          {
+            "stringId": "1886691580361437184",
+            "femaleVariant": "Ahhhh, you're right.",
+            "maleVariant": "Aagh, you're right."
+          },
+          {
+            "stringId": "1886694434803412992",
+            "femaleVariant": "Yeah?"
+          },
+          {
+            "stringId": "1886694492651253760",
+            "femaleVariant": "Are you not afraid to die?"
+          },
+          {
+            "stringId": "1886695516480860160",
+            "femaleVariant": "Sorry."
+          },
+          {
+            "stringId": "1886696946335870976",
+            "femaleVariant": "I guess."
+          },
+          {
+            "stringId": "1886700608735014912",
+            "femaleVariant": "Wouldn't you rather be alone, maybe?"
+          },
+          {
+            "stringId": "1886701044825190400",
+            "femaleVariant": "Oh, please."
+          },
+          {
+            "stringId": "1886701375269236736",
+            "femaleVariant": "I just need to get away from everything, but for a minute."
+          },
+          {
+            "stringId": "1886703427072421888",
+            "femaleVariant": "To gather my thoughts before tomorrow."
+          },
+          {
+            "stringId": "1886703709214863360",
+            "femaleVariant": "Try not to bother you, then."
+          },
+          {
+            "stringId": "1935969796615696384",
+            "femaleVariant": "Exactly. Who if not you?"
+          },
+          {
+            "stringId": "1935970658025074688",
+            "femaleVariant": "Exactly. Who if not you?"
+          },
+          {
+            "stringId": "1935971665480118272",
+            "femaleVariant": "That's what I mean! It shouldn't be me, it should be..."
+          },
+          {
+            "stringId": "1935974444307181568",
+            "femaleVariant": "Saul?"
+          },
+          {
+            "stringId": "1935974510677848064",
+            "femaleVariant": "If only he hadn't gone and made all the wrong decisions to be a little more like me."
+          },
+          {
+            "stringId": "1935975156214788096",
+            "femaleVariant": "I'm scared to the bone something will go wrong. That everyone will…"
+          },
+          {
+            "stringId": "1935977991044198400",
+            "femaleVariant": "I'm thinking about the first night I spent up here."
+          },
+          {
+            "stringId": "1935979839591411712",
+            "femaleVariant": "I'd been on the road, was on my way back and wanted to clear my head before hitting camp."
+          },
+          {
+            "stringId": "1935981141805363200",
+            "femaleVariant": "It was completely dark, empty. Not a star in the sky. All I heard was the wind and a few engines in the distance."
+          },
+          {
+            "stringId": "1935983639949602820",
+            "femaleVariant": "An enny for your thoughts?"
+          },
+          {
+            "stringId": "1935983759051059200",
+            "femaleVariant": "Time to head back?"
+          },
+          {
+            "stringId": "1935983884980842496",
+            "femaleVariant": "[Hug] I could sit here with you forever."
+          },
+          {
+            "stringId": "1935986629196509184",
+            "femaleVariant": "Before another likely shouting match with Saul."
+          },
+          {
+            "stringId": "1935992855288475648",
+            "femaleVariant": "And I sat here waiting for the world to fall away. For my mind's RPM to drop to zero."
+          },
+          {
+            "stringId": "1935993313054814208",
+            "femaleVariant": "Time to head back, maybe?"
+          },
+          {
+            "stringId": "1935993674536710144",
+            "femaleVariant": "No. Let's sit here a while longer."
+          },
+          {
+            "stringId": "1935994097876201472",
+            "femaleVariant": "This is doing me good, more than I thought."
+          },
+          {
+            "stringId": "1935994550693261312",
+            "femaleVariant": "I could sit here with you all night."
+          },
+          {
+            "stringId": "1935996392781246464",
+            "femaleVariant": "I think I'd like that."
+          },
+          {
+            "stringId": "1935997050112569344",
+            "femaleVariant": "You have no idea how much I needed that."
+          },
+          {
+            "stringId": "1935999232811593728",
+            "femaleVariant": "Did it?"
+          },
+          {
+            "stringId": "1935999398973140992",
+            "femaleVariant": "No. I realized that night it wouldn't happen again. That my mind would always be on the road, even while I was sitting, freezing on a cliff."
+          },
+          {
+            "stringId": "1989571848086945792",
+            "femaleVariant": "We headin' back?"
+          },
+          {
+            "stringId": "1989571848103723016",
+            "femaleVariant": "Could stay here with you forever."
+          },
+          {
+            "stringId": "1989571848103723032",
+            "femaleVariant": "What's on your mind?"
+          },
+          {
+            "stringId": "2013987358175260672",
+            "femaleVariant": "Enny for your thoughts?"
+          },
+          {
+            "stringId": "2013988180695052288",
+            "femaleVariant": "Enny for your thoughts?"
+          },
+          {
+            "stringId": "2243448137760657408",
+            "femaleVariant": "Will you say something?"
+          },
+          {
+            "stringId": "2243448492414226436",
+            "femaleVariant": "Hm, nothing?"
+          },
+          {
+            "stringId": "2243452240796602368",
+            "femaleVariant": "Don't just stand there. Have a seat."
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,705 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1567666043014225920",
+            "femaleVariant": "Don't venture off too far, OK? Our sets'll lose sync."
+          },
+          {
+            "stringId": "1746089458403360768",
+            "femaleVariant": "Ah! Closed... Shame."
+          },
+          {
+            "stringId": "1776395142881591296",
+            "femaleVariant": "Aaarrghhh!"
+          },
+          {
+            "stringId": "1796856857779462144",
+            "femaleVariant": "Could look for another way inside."
+          },
+          {
+            "stringId": "1796860026072817664",
+            "femaleVariant": "Be my guest."
+          },
+          {
+            "stringId": "1903851086149566468",
+            "femaleVariant": "Why didn't they take 'em?"
+          },
+          {
+            "stringId": "1903852940132597764",
+            "femaleVariant": "Fell off your diner, it seems."
+          },
+          {
+            "stringId": "1903854839917428740",
+            "femaleVariant": "And this?"
+          },
+          {
+            "stringId": "1903867984950050820",
+            "femaleVariant": "Doesn't get any more out of place than this."
+          },
+          {
+            "stringId": "1903871598896594944",
+            "femaleVariant": "Found a photo camera."
+          },
+          {
+            "stringId": "1903872880172580864",
+            "femaleVariant": "A framed photo, here?"
+          },
+          {
+            "stringId": "1903873900411863044",
+            "femaleVariant": "Hockey stick?"
+          },
+          {
+            "stringId": "1903918596056137728",
+            "femaleVariant": "Played this moment, coming back, so many times in my head."
+          },
+          {
+            "stringId": "1903920527063367680",
+            "femaleVariant": "Taken me years... workin' up the nerve for this."
+          },
+          {
+            "stringId": "1903921931366678528",
+            "femaleVariant": "Why didn't you come earlier?"
+          },
+          {
+            "stringId": "1903924017563156480",
+            "femaleVariant": "Good question... Easy answer would be that I didn't have time, gear, stars weren't ever aligned…"
+          },
+          {
+            "stringId": "1903925115111849984",
+            "femaleVariant": "Heh. Church hasn't aged at all. Always looked old and... like it'd landed here from outer space."
+          },
+          {
+            "stringId": "1903926490491240448",
+            "femaleVariant": "Bells were cracked too. Gave off this eerie, atonal clang."
+          },
+          {
+            "stringId": "1903928679414611968",
+            "femaleVariant": "You like going to this church?",
+            "maleVariant": "Did you like goin' to this church?"
+          },
+          {
+            "stringId": "1903929065508683776",
+            "femaleVariant": "Think I hear them, too."
+          },
+          {
+            "stringId": "1903929588706164736",
+            "femaleVariant": "Don't know how it's possible, but... think I hear those bells too.",
+            "maleVariant": "I don't know how it's possible, but... I think I hear those bells too."
+          },
+          {
+            "stringId": "1903931688861286400",
+            "femaleVariant": "Seriously? You can hear my memories...? Must be a side effect."
+          },
+          {
+            "stringId": "1903932919453302784",
+            "femaleVariant": "Never actually \"went\" to church. Never even really paid attention to it, it was just... there, y'know?"
+          },
+          {
+            "stringId": "1903935569196466176",
+            "femaleVariant": "We lookin' for anything in particular here?"
+          },
+          {
+            "stringId": "1903936876024152064",
+            "femaleVariant": "Nah. Can't hurt to look around, though. Pickin' up very chill vibes."
+          },
+          {
+            "stringId": "1903937237287944192",
+            "femaleVariant": "After that we can see what lies up ahead."
+          },
+          {
+            "stringId": "1903937643665670148",
+            "femaleVariant": "Let's keep going."
+          },
+          {
+            "stringId": "1903941034827563008",
+            "femaleVariant": "I gotta say, don't really get why they left their wheels behind when they had to evacuate.",
+            "maleVariant": "Gotta say, I don't really get why they left their wheels behind when they had to evacuate."
+          },
+          {
+            "stringId": "1903941492560347136",
+            "femaleVariant": "This isn't yours?",
+            "maleVariant": "What, this isn't yours?"
+          },
+          {
+            "stringId": "1903941849931825152",
+            "femaleVariant": "And this? What is it?"
+          },
+          {
+            "stringId": "1903942254480834560",
+            "femaleVariant": "It's hard to imagine anything that could be more out of place in an underwater world.",
+            "maleVariant": "Hard to imagine anything that could be more out of place in an underwater world."
+          },
+          {
+            "stringId": "1903952349700800512",
+            "femaleVariant": "Hey, how old you think I am?! These hunks of metal have got half a century on 'em."
+          },
+          {
+            "stringId": "1903952830351261696",
+            "femaleVariant": "When I was about yea high they were already here... and not in much better shape."
+          },
+          {
+            "stringId": "1903954142950309888",
+            "femaleVariant": "Alvarez! Where's Fifi?! Give her baaack!"
+          },
+          {
+            "stringId": "1903954771223494656",
+            "femaleVariant": "Poor thing... Been here all alone for twenty years..."
+          },
+          {
+            "stringId": "1903956035101507584",
+            "femaleVariant": "I don't have your stupid doll! But we can look for it together."
+          },
+          {
+            "stringId": "1903958117221122048",
+            "femaleVariant": "You took her doll?"
+          },
+          {
+            "stringId": "1903959935804227584",
+            "femaleVariant": "As if!"
+          },
+          {
+            "stringId": "1903961504775913472",
+            "femaleVariant": "Hid it... Was a monster…"
+          },
+          {
+            "stringId": "1903962644787740672",
+            "femaleVariant": "Oh, no way! Can't be! You found the Heart of Laguna Bend!"
+          },
+          {
+            "stringId": "1903967342458552320",
+            "femaleVariant": "Never noticed how... built-for-purpose this square was."
+          },
+          {
+            "stringId": "1903967820122669056",
+            "femaleVariant": "Ugh... I remember these beaters."
+          },
+          {
+            "stringId": "1903968125719658500",
+            "femaleVariant": "Wanna mosey around the square?"
+          },
+          {
+            "stringId": "1903968131692347392",
+            "femaleVariant": "Holler if you wanna keep on movin'."
+          },
+          {
+            "stringId": "1903982361841745920",
+            "femaleVariant": "Let's keep goin', Judy."
+          },
+          {
+            "stringId": "1903984773885313028",
+            "femaleVariant": "Whaddaya say we move on?"
+          },
+          {
+            "stringId": "1904110028066897920",
+            "femaleVariant": "Got no idea how weird it feels, swimming through here…"
+          },
+          {
+            "stringId": "1904118133425160192",
+            "femaleVariant": "Was this... a bar?"
+          },
+          {
+            "stringId": "1904118818355003392",
+            "femaleVariant": "Flo's Diner – best eatery in town. Only one at that too... Burgers weren't amazing. Too greasy, big."
+          },
+          {
+            "stringId": "1904120023999299584",
+            "femaleVariant": "What about your parents?"
+          },
+          {
+            "stringId": "1904120580096901120",
+            "femaleVariant": "Dad was never in the picture. Mom died when I was tiny. Can barely remember her."
+          },
+          {
+            "stringId": "1904120783956852736",
+            "femaleVariant": "Still have her picture, but y'know... see a stranger there."
+          },
+          {
+            "stringId": "1904121263265136640",
+            "femaleVariant": "Judy, Judy, watch out for her cooties!"
+          },
+          {
+            "stringId": "1904122279846985728",
+            "femaleVariant": "Alvarez is so poor, she can't even afford to have parents! Hahaha!"
+          },
+          {
+            "stringId": "1904125290837164036",
+            "femaleVariant": "I want to keep going."
+          },
+          {
+            "stringId": "1904125565530521600",
+            "femaleVariant": "Wanna take a look around?"
+          },
+          {
+            "stringId": "1904125809907449856",
+            "femaleVariant": "What was it like – livin' with your grandparents? How were they?"
+          },
+          {
+            "stringId": "1904127699340738560",
+            "femaleVariant": "Here's where our gang used to play."
+          },
+          {
+            "stringId": "1904127699374292996",
+            "femaleVariant": "Square seemed huge to me back then."
+          },
+          {
+            "stringId": "1904127699474956288",
+            "femaleVariant": "Don't wanna stick around, sightsee?"
+          },
+          {
+            "stringId": "1904127699508510724",
+            "femaleVariant": "Bored already? We can move on if you want."
+          },
+          {
+            "stringId": "1904129752788090880",
+            "femaleVariant": "Wanna see what's further on."
+          },
+          {
+            "stringId": "1904130163913768960",
+            "femaleVariant": "Looks like this fell off your \"one and only\" eatery."
+          },
+          {
+            "stringId": "1904131091861585920",
+            "femaleVariant": "Let's see now, your childhood tasted like scopdogs from Capitán Caliente. With habanero sauce, extra hot."
+          },
+          {
+            "stringId": "1904131500336463876",
+            "femaleVariant": "Gotta feel the burn."
+          },
+          {
+            "stringId": "1904131792461348864",
+            "femaleVariant": "You know what they say – it ain't Caliente if it don't burn on the way in... and out."
+          },
+          {
+            "stringId": "1904132405148499972",
+            "femaleVariant": "I don't even know what's real anymore."
+          },
+          {
+            "stringId": "1904132652494995460",
+            "femaleVariant": "Now let's see... Childhood for you tasted like sushi with real rice."
+          },
+          {
+            "stringId": "1904132652562104320",
+            "femaleVariant": "Even got real fish sometimes."
+          },
+          {
+            "stringId": "1904132652629213188",
+            "femaleVariant": "Bigger family gatherings were great – that's where we got even real fish."
+          },
+          {
+            "stringId": "1904132769314750468",
+            "femaleVariant": "Now, let's see... Childhood for you tasted like... toasted marshmallows."
+          },
+          {
+            "stringId": "1904132769365082112",
+            "femaleVariant": "Cuz others would've gladly taken 'em."
+          },
+          {
+            "stringId": "1904132769448968192",
+            "femaleVariant": "Ah, that's nomad life for ya – can't be a fussy eater or you'll get no food at all.",
+            "maleVariant": "That's nomad life for ya – can't be a fussy eater or you'll get no food at all."
+          },
+          {
+            "stringId": "1904136932077584384",
+            "femaleVariant": "I don't even know anymore. It's hard to separate actual memories from what you want to remember."
+          },
+          {
+            "stringId": "1904137204707344388",
+            "femaleVariant": "This tech's seriously next-level. You hear my thoughts?",
+            "maleVariant": "This tech is seriously next-level. You hear my thoughts?"
+          },
+          {
+            "stringId": "1904137280087375872",
+            "femaleVariant": "This tech can read minds? Wow."
+          },
+          {
+            "stringId": "1904141693317267456",
+            "femaleVariant": "[Give camera] This is for you."
+          },
+          {
+            "stringId": "1904144961149845504",
+            "femaleVariant": "Weird place for a framed picture.",
+            "maleVariant": "That's a weird place for a framed picture."
+          },
+          {
+            "stringId": "1904145298673876992",
+            "femaleVariant": "Hockey stick? Was there a skating rink here?"
+          },
+          {
+            "stringId": "1904145577494429700",
+            "femaleVariant": "Quit schmoozin', Alvarez! We're losin' 'cause of you!"
+          },
+          {
+            "stringId": "1904153246410194948",
+            "femaleVariant": "Come on. Let's you and me swim a bit further."
+          },
+          {
+            "stringId": "1904179373971324928",
+            "femaleVariant": "Pfft, do I!"
+          },
+          {
+            "stringId": "1904179606436429824",
+            "femaleVariant": "Just lemme know when you wanna forge ahead."
+          },
+          {
+            "stringId": "1904221634218147840",
+            "femaleVariant": "Come on, then. Wanna show you somethin'."
+          },
+          {
+            "stringId": "1904223790711160832",
+            "femaleVariant": "Ah, if it wa'n't so damned big, I'd take it home, hang it in my kitchen."
+          },
+          {
+            "stringId": "1904225373792485376",
+            "femaleVariant": "'Course, tasted even better when you stole 'em off the stand."
+          },
+          {
+            "stringId": "1904227386957742080",
+            "femaleVariant": "Used to stuff a few in your mouth at once and pretend you were a giant."
+          },
+          {
+            "stringId": "1904229075198656512",
+            "femaleVariant": "They always caught fire, burned, but that never bothered you."
+          },
+          {
+            "stringId": "1904230602361520128",
+            "femaleVariant": "Get echoes... and sense intentions too."
+          },
+          {
+            "stringId": "1904230818787606528",
+            "femaleVariant": "Not all the time, though."
+          },
+          {
+            "stringId": "1904232669431971840",
+            "femaleVariant": "Water probably carried it outta someone's house."
+          },
+          {
+            "stringId": "1904233189877989376",
+            "femaleVariant": "I wish. Played street hockey on rollerblades."
+          },
+          {
+            "stringId": "1904235149742030848",
+            "femaleVariant": "Coming! They're dead meat anyway!"
+          },
+          {
+            "stringId": "1904235881782296576",
+            "femaleVariant": "So... will you go out with me?"
+          },
+          {
+            "stringId": "1904239180099076096",
+            "femaleVariant": "Aye, aye, cap'n. Follow me."
+          },
+          {
+            "stringId": "1905358449901527040",
+            "femaleVariant": "Truth is, the very idea just felt... weird."
+          },
+          {
+            "stringId": "1905362795619901440",
+            "femaleVariant": "'Sides, didn't wanna come here alone... or with some rando."
+          },
+          {
+            "stringId": "1905392379841175552",
+            "femaleVariant": "Once we knew Laguna Bend was to be flooded, people gathered here to plan a protest."
+          },
+          {
+            "stringId": "1905393473765990400",
+            "femaleVariant": "Did it achieve anything?"
+          },
+          {
+            "stringId": "1905424301447405568",
+            "femaleVariant": "Look around..."
+          },
+          {
+            "stringId": "1905438114565545984",
+            "femaleVariant": "Weird... I had no memory of that seconds ago. Now I can almost hear 'em."
+          },
+          {
+            "stringId": "1905448505769156608",
+            "femaleVariant": "Feels like we're outside of time – like, in a snow globe."
+          },
+          {
+            "stringId": "1905473292377743360",
+            "femaleVariant": "S'good cover for playing MaxTac and psychos, though."
+          },
+          {
+            "stringId": "1905479184250789888",
+            "femaleVariant": "So it is yours?",
+            "maleVariant": "So it is yours."
+          },
+          {
+            "stringId": "1905482818615205888",
+            "femaleVariant": "Nah... It was Jenni Chapman's."
+          },
+          {
+            "stringId": "1905493886091616256",
+            "femaleVariant": "You hid it? W-why?",
+            "maleVariant": "You hid it? Why?"
+          },
+          {
+            "stringId": "1905494038210633728",
+            "femaleVariant": "'Cause I thought only losers played with dolls... What I really wanted was for her to notice me."
+          },
+          {
+            "stringId": "1905502905220947968",
+            "femaleVariant": "The most precious gem in all Cali, maybe even the world. Could buy all of Arasaka and Militech and then some for it!"
+          },
+          {
+            "stringId": "1905504112660406272",
+            "femaleVariant": "For real?"
+          },
+          {
+            "stringId": "1905504770344050688",
+            "femaleVariant": "Pffttt... Hahaha! Nah, got no idea what that is."
+          },
+          {
+            "stringId": "1905514827177746432",
+            "femaleVariant": "Mmm... Bottled water?"
+          },
+          {
+            "stringId": "1905515569854767104",
+            "femaleVariant": "Haha, touché, Judy, touché.",
+            "maleVariant": "Heh... Touché, Judy, touché."
+          },
+          {
+            "stringId": "1905527410995716096",
+            "femaleVariant": "Where you used to run as a kid. Where daily life grinded along. Can imagine it a bit."
+          },
+          {
+            "stringId": "1905535228876382208",
+            "femaleVariant": "Props to the urban planners."
+          },
+          {
+            "stringId": "1905550677722750976",
+            "femaleVariant": "'Course, I say that now. Back then they were the best thing I'd ever chewed and swallowed."
+          },
+          {
+            "stringId": "1905554708012687360",
+            "femaleVariant": "And next door... That's where we lived."
+          },
+          {
+            "stringId": "1905602017211670528",
+            "femaleVariant": "Me and my grandparents."
+          },
+          {
+            "stringId": "1906726229313806336",
+            "femaleVariant": "And grandma was... temperamental. Hot one second, cool as steel the next."
+          },
+          {
+            "stringId": "1906734354469183488",
+            "femaleVariant": "Grandad had a real knack for things technical. Taught me everything I know. And the stories he told… Ah, never got bored listening to 'em."
+          },
+          {
+            "stringId": "1906742233737682948",
+            "femaleVariant": "Where are your grandparents now?"
+          },
+          {
+            "stringId": "1906743232955113472",
+            "femaleVariant": "Now I know where your temper comes from."
+          },
+          {
+            "stringId": "1906745973865668608",
+            "femaleVariant": "Where'd your grandparents go? Night City?"
+          },
+          {
+            "stringId": "1906746282834878464",
+            "femaleVariant": "Temperamental, huh? Ah, that explains a lot. Dominant family trait?",
+            "maleVariant": "Temperamental, huh? Explains a lot. Is that a dominant family trait?"
+          },
+          {
+            "stringId": "1906748677212037120",
+            "femaleVariant": "Heh, no idea what you're talkin' about."
+          },
+          {
+            "stringId": "1906760520433360896",
+            "femaleVariant": "Yeah, for a couple years. Rented the unit that's mine now."
+          },
+          {
+            "stringId": "1906761091177472000",
+            "femaleVariant": "But they hated the city. Moved up to Oregon. Still go and visit 'em sometimes."
+          },
+          {
+            "stringId": "1906887961457942528",
+            "femaleVariant": "Got somethin' here... Looks like an old photo cam."
+          },
+          {
+            "stringId": "1906887964410732544",
+            "femaleVariant": "DPI-350 – practically an antique."
+          },
+          {
+            "stringId": "1906887967111864320",
+            "femaleVariant": "Like it?",
+            "maleVariant": "You like it?"
+          },
+          {
+            "stringId": "1906887969880104960",
+            "femaleVariant": "You kidding? It's awesome!"
+          },
+          {
+            "stringId": "1906894298816405508",
+            "femaleVariant": "Here, take this camera. Better off in your hands than sittin' here, collectin' algae."
+          },
+          {
+            "stringId": "1906894301802749952",
+            "femaleVariant": "Gosh, thanks!"
+          },
+          {
+            "stringId": "1906913328776306688",
+            "femaleVariant": "Ahh, the days when dolls were just kids' toys and nothing else..."
+          },
+          {
+            "stringId": "1906925152720609280",
+            "femaleVariant": "Anything to make out?"
+          },
+          {
+            "stringId": "1906925394329296896",
+            "femaleVariant": "No, not much.",
+            "maleVariant": "Nah, not much."
+          },
+          {
+            "stringId": "1906959114956398592",
+            "femaleVariant": "Sorry, gotta go. They're callin'!"
+          },
+          {
+            "stringId": "1907079018598588416",
+            "femaleVariant": "Feeder grub'd finally hit the spot – taste like my golden childhood days."
+          },
+          {
+            "stringId": "1907098894868373504",
+            "femaleVariant": "Well, our brains weren't built with perfect memory."
+          },
+          {
+            "stringId": "1907124896063512576",
+            "femaleVariant": "Liked synthfish more, though. Real fish was just too stinky.",
+            "maleVariant": "I liked synthfish more, though. Real fish was just too... stinky."
+          },
+          {
+            "stringId": "1907133068027322368",
+            "femaleVariant": "Anyway, all kinds of food tastes better with just a little burn.",
+            "maleVariant": "Anyway... all kinds of food tastes better with just a little burn."
+          },
+          {
+            "stringId": "1918708624774905856",
+            "femaleVariant": "Found an opening. Think we're safe to go through here.",
+            "maleVariant": "I found an opening. I think we're safe to go through here."
+          },
+          {
+            "stringId": "1918709624713756672",
+            "femaleVariant": "Snuck in here once when no one was around."
+          },
+          {
+            "stringId": "1918709853471096836",
+            "femaleVariant": "Didn't get chased out?"
+          },
+          {
+            "stringId": "1918710177455915008",
+            "femaleVariant": "Can't hear you too well."
+          },
+          {
+            "stringId": "1918710690889056256",
+            "femaleVariant": "Didn't get... chased off?",
+            "maleVariant": "Y-ya didn't get... chased off?"
+          },
+          {
+            "stringId": "1918710963904692228",
+            "femaleVariant": "Readin' you worse and worse…",
+            "maleVariant": "I'm readin' you worse and worse…"
+          },
+          {
+            "stringId": "1919730230896869376",
+            "femaleVariant": "On my way."
+          },
+          {
+            "stringId": "1919740208676323328",
+            "femaleVariant": "Stood at the altar and tried to imagine what went through the padre's mind, lookin' at all those people."
+          },
+          {
+            "stringId": "1919741893914116096",
+            "femaleVariant": "Ran out myself. Echo I got back scared the living bejesus out of me."
+          },
+          {
+            "stringId": "1919776020113637376",
+            "femaleVariant": "Huh? I read you loud 'n' clear. Everything all right?"
+          },
+          {
+            "stringId": "1922980982322585600",
+            "femaleVariant": "Then I screamed at the top of my lungs to check the acoustics."
+          },
+          {
+            "stringId": "1924149056576905216",
+            "femaleVariant": "Thought it was that crush I had on Jenni Chapman. All that guilt I tried yelling out... flew right back in my face."
+          },
+          {
+            "stringId": "1927022823539957760",
+            "femaleVariant": "Back then I wondered how he could read people's thoughts, know everything about 'em."
+          },
+          {
+            "stringId": "1985316830728380420",
+            "femaleVariant": "What were those voices?"
+          },
+          {
+            "stringId": "1985317885411287040",
+            "femaleVariant": "What was that? Those voices...?"
+          },
+          {
+            "stringId": "1985318683151130624",
+            "femaleVariant": "Voices? Didn't hear anything but you just now."
+          },
+          {
+            "stringId": "1993932412566880256",
+            "femaleVariant": "What about your parents?"
+          },
+          {
+            "stringId": "1993932412583657476",
+            "femaleVariant": "Did you like living with your grandparents?"
+          },
+          {
+            "stringId": "1993983730362859520",
+            "femaleVariant": "This isn't your doll?"
+          },
+          {
+            "stringId": "1993983784100282384",
+            "femaleVariant": "You took her doll?"
+          },
+          {
+            "stringId": "2010052584134107136",
+            "femaleVariant": "Don't come up too quick, or you'll hurt yourself."
+          },
+          {
+            "stringId": "2010052621278863360",
+            "femaleVariant": "You're comin' up too fast, V!"
+          },
+          {
+            "stringId": "2069224746865340416",
+            "femaleVariant": "[Pick up]"
+          },
+          {
+            "stringId": "2069448688574083072",
+            "femaleVariant": "Wanna look around?"
+          },
+          {
+            "stringId": "2070466812786192388",
+            "femaleVariant": "[Pick up] For real?"
+          },
+          {
+            "stringId": "2253460354965921792",
+            "femaleVariant": "Hey, found a way in. Through the roof."
+          }
+        ]
+      }
+
+
+

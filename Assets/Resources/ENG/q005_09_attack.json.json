@@ -1,0 +1,408 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1615901533600964608",
+            "femaleVariant": "Move, V, fuck!"
+          },
+          {
+            "stringId": "1615901855908061184",
+            "femaleVariant": "How long you gonna make me wait, V?!"
+          },
+          {
+            "stringId": "1615924083907321856",
+            "femaleVariant": "Luckily all clear for now. Shouldn't stick around, though."
+          },
+          {
+            "stringId": "1615926851090997248",
+            "femaleVariant": "This is the first place they're gonna come lookin'."
+          },
+          {
+            "stringId": "1615929993396445184",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Más rápido, más rápido!\" t=\"Faster, faster!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1616116426350485504",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Ahh! ¡Pero qué chingados!\" t=\"Ahh! Fuck me!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1616176656287490048",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Come los huevos pinches culeros!\" t=\"Eat my balls motherfuckers!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1616176656354598912",
+            "femaleVariant": "Give 'em everything you got!"
+          },
+          {
+            "stringId": "1616245625509863424",
+            "femaleVariant": "We gotta somehow… reach the lobby. Only chance to hit the garage."
+          },
+          {
+            "stringId": "1616247819348959232",
+            "femaleVariant": "And we'd best be quick."
+          },
+          {
+            "stringId": "1618991084284370944",
+            "femaleVariant": "This way, hurry up, V!"
+          },
+          {
+            "stringId": "1619019759599968256",
+            "femaleVariant": "What the fuck're you waiting for? We're about to get swarmed!"
+          },
+          {
+            "stringId": "1619019790872698880",
+            "femaleVariant": "Get your ass movin', now!"
+          },
+          {
+            "stringId": "1634605830155063296",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Jo, jo. Ahora sí...\" t=\"Oh-ho, that's the shit...\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1693937686263046144",
+            "femaleVariant": "You go first! I'll, uh… keep a lookout!"
+          },
+          {
+            "stringId": "1694021467921653760",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"セキュリティプロトコル違反の容疑者発見！\" t=\"Suspects in violation of security protocols!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1694027791589908480",
+            "femaleVariant": "Time to bail!"
+          },
+          {
+            "stringId": "1694028164799078400",
+            "femaleVariant": "Jump!"
+          },
+          {
+            "stringId": "1694030247422009344",
+            "femaleVariant": "[Jump]"
+          },
+          {
+            "stringId": "1695238193871003648",
+            "femaleVariant": "Oh shit…"
+          },
+          {
+            "stringId": "1695238636118417408",
+            "femaleVariant": "The Relic!"
+          },
+          {
+            "stringId": "1695245106151104512",
+            "femaleVariant": "Oof… Close one…"
+          },
+          {
+            "stringId": "1725832259982643200",
+            "femaleVariant": "Ugh, fine!"
+          },
+          {
+            "stringId": "1760345306758324224",
+            "femaleVariant": "Come on, go!"
+          },
+          {
+            "stringId": "1760345331404054528",
+            "femaleVariant": "Ain't no time to fuck around, V!"
+          },
+          {
+            "stringId": "1760345360562855936",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"Need to get movin', \" a=\". Now!\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"bróder\" b=\"Need to get movin', \" a=\". Now!\"/>"
+          },
+          {
+            "stringId": "1762126253616148480",
+            "femaleVariant": "Shit, got two guards…"
+          },
+          {
+            "stringId": "1762127358882361344",
+            "femaleVariant": "So let's do our thing."
+          },
+          {
+            "stringId": "1762127651024023552",
+            "femaleVariant": "'Thout any iron?"
+          },
+          {
+            "stringId": "1762127919375593472",
+            "femaleVariant": "Element of surprise, V. C'mon, get to it. I got a Relic to protect."
+          },
+          {
+            "stringId": "1762169959371124736",
+            "femaleVariant": "See, what did I say? Chickenfeed."
+          },
+          {
+            "stringId": "1762171932891820032",
+            "femaleVariant": "Joyride in the AV!"
+          },
+          {
+            "stringId": "1763353799410200576",
+            "femaleVariant": "Welp, forget tryna pilot this thing, dunno what I was expectin'."
+          },
+          {
+            "stringId": "1763355246344417280",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Chingada madre!\" t=\"Fucking hell!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1763359106379165696",
+            "femaleVariant": "Gotta get outta here! Now!"
+          },
+          {
+            "stringId": "1763469019407331332",
+            "femaleVariant": "[Jack in]"
+          },
+          {
+            "stringId": "1763551140960415744",
+            "femaleVariant": "Unauthorized access attempt detected. Remain where you are, security personnel will arrive shortly."
+          },
+          {
+            "stringId": "1763554959136010240",
+            "femaleVariant": "The fuck did you do?!"
+          },
+          {
+            "stringId": "1763555221229678592",
+            "femaleVariant": "Fuck! Knew somethin' was up with that firewall!"
+          },
+          {
+            "stringId": "1763560490852560896",
+            "femaleVariant": "We gotta get the fuck outta here! Now!"
+          },
+          {
+            "stringId": "1763593836206895104",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"コードレッド？\" t=\"Code red?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1763595285187932160",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"何かトラブルが起きたのか…\" t=\"That can't be good...\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1763595743625359360",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"そのようだな\" t=\"You can say that again.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1763599386294497280",
+            "femaleVariant": "Yeah, thanks."
+          },
+          {
+            "stringId": "1763600143685136384",
+            "femaleVariant": "What now?"
+          },
+          {
+            "stringId": "1764807612976328704",
+            "femaleVariant": "Jack, you're bleedin'!"
+          },
+          {
+            "stringId": "1764807612976328720",
+            "femaleVariant": "What about the biochip?!"
+          },
+          {
+            "stringId": "1764807613009883136",
+            "femaleVariant": "Jackie! You're bleedin'!"
+          },
+          {
+            "stringId": "1764807613009883148",
+            "femaleVariant": "Worry about me later! Check the Relic!"
+          },
+          {
+            "stringId": "1764807613060214784",
+            "femaleVariant": "How's the biochip…?"
+          },
+          {
+            "stringId": "1764807613060214796",
+            "femaleVariant": "I dunno…"
+          },
+          {
+            "stringId": "1764807613076992000",
+            "femaleVariant": "\"Container depressurized. Biochip integrity at ninety-four percent.\""
+          },
+          {
+            "stringId": "1764807613076992012",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Carajo!\" b=\"And fuckin' droppin'! \" a=\"\"/>"
+          },
+          {
+            "stringId": "1764807613110546432",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Madres!\" b=\"\" a=\" Agh… Oh, this ain't good. Agh…\"/>"
+          },
+          {
+            "stringId": "1764807613144100864",
+            "femaleVariant": "Parker! Call her!"
+          },
+          {
+            "stringId": "1764807613144100876",
+            "femaleVariant": "An' tell her we fried the case?!"
+          },
+          {
+            "stringId": "1764807613144100888",
+            "femaleVariant": "Just do it!"
+          },
+          {
+            "stringId": "1764807613177655296",
+            "femaleVariant": "V?! Konpeki's all over the feeds! What the fuck's going on there?!"
+          },
+          {
+            "stringId": "1764807613177655308",
+            "femaleVariant": "Got a problem! Cryocase is damaged! Biochip integrity's at… Jackie?",
+            "maleVariant": "Got a problem! Cryocase is damaged! Biochip's integrity at… Jackie?"
+          },
+          {
+            "stringId": "1764807613177655320",
+            "femaleVariant": "One of you's gotta slot the Relic into your neural port!"
+          },
+          {
+            "stringId": "1764807613194432512",
+            "femaleVariant": "What're you talking about?!"
+          },
+          {
+            "stringId": "1764807613227986956",
+            "femaleVariant": "Is that even safe?"
+          },
+          {
+            "stringId": "1764807613261541376",
+            "femaleVariant": "What the hell are you talkin' about?"
+          },
+          {
+            "stringId": "1764807613261541388",
+            "femaleVariant": "The Relic can't be isolated – it has to be nested in a safe environment!"
+          },
+          {
+            "stringId": "1764807613278318592",
+            "femaleVariant": "That doesn't sound safe."
+          },
+          {
+            "stringId": "1764807613429313544",
+            "femaleVariant": "The longer you wait, the greater the risk we'll lose it!"
+          },
+          {
+            "stringId": "1764807613462867968",
+            "femaleVariant": "Well, someone's gotta do it."
+          },
+          {
+            "stringId": "1764807613462867980",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"En el nombre del Padre, del Hijo y del Espíritu Santo, amén.\" t=\"In the name of the Father, Son, and the Holy Spirit – Amen.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1764807613630640128",
+            "femaleVariant": "Dunno… I guess… Don't feel any different."
+          },
+          {
+            "stringId": "1764807613664194560",
+            "femaleVariant": "Once you're back, we'll take out the Relic and run a full brain scan and sweep."
+          },
+          {
+            "stringId": "1764807613781635072",
+            "femaleVariant": "Del, we'll be there in a couple. Be ready, got it?"
+          },
+          {
+            "stringId": "1764807613781635084",
+            "femaleVariant": "Certainly, Mr. Welles."
+          },
+          {
+            "stringId": "1764807613798412296",
+            "femaleVariant": "Better be fuckin' certain."
+          },
+          {
+            "stringId": "1764858180830752768",
+            "femaleVariant": "Went straight through."
+          },
+          {
+            "stringId": "1764858180830752780",
+            "femaleVariant": "It's junk now!"
+          },
+          {
+            "stringId": "1766328191537639424",
+            "femaleVariant": "You can do it, Jackie... just don't look down!"
+          },
+          {
+            "stringId": "1766570777078657028",
+            "femaleVariant": "[Call Evelyn Parker]"
+          },
+          {
+            "stringId": "1786424011323658240",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"タケムラさんと連絡がつかない。何が起きてるんだ？\" t=\"Takemura-san isn't answering. What the hell's going on?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1863373519542169600",
+            "femaleVariant": "The ladder – where is it?!"
+          },
+          {
+            "stringId": "1863374583855198208",
+            "femaleVariant": "Check 'round the bend!"
+          },
+          {
+            "stringId": "1896667032668430336",
+            "femaleVariant": "Shit! That Trauma?"
+          },
+          {
+            "stringId": "1896669616007372800",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Chingada madre!\" t=\"Oh, fuck!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1904087395887534080",
+            "femaleVariant": "If they're here for Saburo, they're a little late!"
+          },
+          {
+            "stringId": "1915486047528955904",
+            "femaleVariant": "Great… Now let's get outta here."
+          },
+          {
+            "stringId": "1922765687523975168",
+            "femaleVariant": "Jackie…? You OK?"
+          },
+          {
+            "stringId": "1982365384986927104",
+            "femaleVariant": "Eighty-six percent!"
+          },
+          {
+            "stringId": "1982367132417859584",
+            "femaleVariant": "Eighty-six percent and droppin'!"
+          },
+          {
+            "stringId": "1982368248018837504",
+            "femaleVariant": "Shit…!"
+          },
+          {
+            "stringId": "1982380058927243264",
+            "femaleVariant": "But you two need to get the fuck out of there first!"
+          },
+          {
+            "stringId": "1982380655256608768",
+            "femaleVariant": "We're workin' on it!"
+          },
+          {
+            "stringId": "1982384545624563712",
+            "femaleVariant": "OK, listen to me. There's only one thing you can do."
+          },
+          {
+            "stringId": "1984025659943231488",
+            "femaleVariant": "Just hope they didn't see us!"
+          },
+          {
+            "stringId": "1984026284978413568",
+            "femaleVariant": "Yep, that's fuckin' high...!"
+          },
+          {
+            "stringId": "2001041894161588224",
+            "femaleVariant": "Unauthorized access attempt detected. Remain where you are, security personnel will arrive shortly."
+          },
+          {
+            "stringId": "2032959575885082628",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2181035513762701316",
+            "femaleVariant": "[Open]"
+          }
+        ]
+      }
+
+
+

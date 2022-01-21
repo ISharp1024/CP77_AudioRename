@@ -1,0 +1,292 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1714235090963238912",
+            "femaleVariant": "Fuck! No! Enough!"
+          },
+          {
+            "stringId": "1714235090980016128",
+            "femaleVariant": "I've had it! Fucking hate this place!"
+          },
+          {
+            "stringId": "1714235703834939392",
+            "femaleVariant": "[Throw cube] Fuck! Enough!"
+          },
+          {
+            "stringId": "1714237057840156672",
+            "femaleVariant": "[Solve]"
+          },
+          {
+            "stringId": "1714237348270542848",
+            "femaleVariant": "Shit. It worked."
+          },
+          {
+            "stringId": "1723263524049477632",
+            "femaleVariant": "[Solve]"
+          },
+          {
+            "stringId": "1727052667929976832",
+            "femaleVariant": "Please respond to each term with the first thing that comes to mind."
+          },
+          {
+            "stringId": "1727402776551186436",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1730134453564170244",
+            "femaleVariant": "No more tests."
+          },
+          {
+            "stringId": "1730135119804194816",
+            "femaleVariant": "Enough. No more tests. I refuse to take any."
+          },
+          {
+            "stringId": "1731259826146979852",
+            "femaleVariant": "Hey, listen. These tests gonna go on much longer?",
+            "maleVariant": "Hey, listen. These tests – gonna go on much longer?"
+          },
+          {
+            "stringId": "1731259826146979864",
+            "femaleVariant": "We need very precise data."
+          },
+          {
+            "stringId": "1731259826264420352",
+            "femaleVariant": "I can't stand this anymore.",
+            "maleVariant": "Can't stand this anymore."
+          },
+          {
+            "stringId": "1731852006640541696",
+            "femaleVariant": "Respond to the keywords – no thinking, just the first word that comes to mind."
+          },
+          {
+            "stringId": "1731852006640541708",
+            "femaleVariant": "Loyalty."
+          },
+          {
+            "stringId": "1731852006875422720",
+            "femaleVariant": "Nope. Had enough."
+          },
+          {
+            "stringId": "1731852006908977152",
+            "femaleVariant": "No. Wanna talk to Hanako Arasaka."
+          },
+          {
+            "stringId": "1731893622373834752",
+            "femaleVariant": "As quickly as you can, without thinking about it."
+          },
+          {
+            "stringId": "1731893622659047424",
+            "femaleVariant": "No!"
+          },
+          {
+            "stringId": "1731893622726156288",
+            "femaleVariant": "No!"
+          },
+          {
+            "stringId": "1731901695284961280",
+            "femaleVariant": "Cognitive function test."
+          },
+          {
+            "stringId": "1731901695301738496",
+            "femaleVariant": "Solve the cube."
+          },
+          {
+            "stringId": "1732772968405688320",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1732773112555528192",
+            "femaleVariant": "Arasaka."
+          },
+          {
+            "stringId": "1732773211843092480",
+            "femaleVariant": "Me."
+          },
+          {
+            "stringId": "1732773322455277568",
+            "femaleVariant": "Betrayal."
+          },
+          {
+            "stringId": "1732773401341747200",
+            "femaleVariant": "Dunno."
+          },
+          {
+            "stringId": "1732773636776419328",
+            "femaleVariant": "Johnny!"
+          },
+          {
+            "stringId": "1732773714337488896",
+            "femaleVariant": "Arasaka."
+          },
+          {
+            "stringId": "1732773845887639552",
+            "femaleVariant": "Me."
+          },
+          {
+            "stringId": "1732773957170913280",
+            "femaleVariant": "Betrayal."
+          },
+          {
+            "stringId": "1732774250654752768",
+            "femaleVariant": "No idea."
+          },
+          {
+            "stringId": "1732782215654825984",
+            "femaleVariant": "Humanity."
+          },
+          {
+            "stringId": "1732783082953007104",
+            "femaleVariant": "Quick as I can, no thinking, right."
+          },
+          {
+            "stringId": "1732783482133307392",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1732783551943303168",
+            "femaleVariant": "Arasaka."
+          },
+          {
+            "stringId": "1732783644268322816",
+            "femaleVariant": "Me."
+          },
+          {
+            "stringId": "1732783852289024000",
+            "femaleVariant": "Nothing."
+          },
+          {
+            "stringId": "1732783993251192832",
+            "femaleVariant": "No clue."
+          },
+          {
+            "stringId": "1732784433267236864",
+            "femaleVariant": "Johnny."
+          },
+          {
+            "stringId": "1732784508227837952",
+            "femaleVariant": "Arasaka."
+          },
+          {
+            "stringId": "1732784618756136960",
+            "femaleVariant": "Me."
+          },
+          {
+            "stringId": "1732784726650413056",
+            "femaleVariant": "Got nothin'."
+          },
+          {
+            "stringId": "1732784851472900096",
+            "femaleVariant": "No idea."
+          },
+          {
+            "stringId": "1732804514537824256",
+            "femaleVariant": "V."
+          },
+          {
+            "stringId": "1732805835240267776",
+            "femaleVariant": "Wanna talk to Hanako Arasaka."
+          },
+          {
+            "stringId": "1732806304784211968",
+            "femaleVariant": "Hanako Arasaka – wanna talk to her now."
+          },
+          {
+            "stringId": "1740150574157619200",
+            "femaleVariant": "Please sit up."
+          },
+          {
+            "stringId": "1740328812800598016",
+            "femaleVariant": "Please step onto the treadmill."
+          },
+          {
+            "stringId": "1740339966847442944",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "1741637333408243716",
+            "femaleVariant": "[Smash]"
+          },
+          {
+            "stringId": "1741641836144582656",
+            "femaleVariant": "Fuck you all!"
+          },
+          {
+            "stringId": "1741725796967079936",
+            "femaleVariant": "[Shove things off desk]"
+          },
+          {
+            "stringId": "1741726202354950144",
+            "femaleVariant": "Aaaaaughhhh!"
+          },
+          {
+            "stringId": "1788147374000660480",
+            "femaleVariant": "Cognitive function test."
+          },
+          {
+            "stringId": "1788147374000660492",
+            "femaleVariant": "Solve the cube."
+          },
+          {
+            "stringId": "1788184065671389188",
+            "femaleVariant": "This gotta go on much longer?"
+          },
+          {
+            "stringId": "1793845924663615488",
+            "femaleVariant": "[Smash]"
+          },
+          {
+            "stringId": "1793846395449073664",
+            "femaleVariant": "Enough! I'm done!"
+          },
+          {
+            "stringId": "1793868707401523200",
+            "femaleVariant": "[Topple]"
+          },
+          {
+            "stringId": "1793868707468632068",
+            "femaleVariant": "Fuuuuck!"
+          },
+          {
+            "stringId": "1869314405919580164",
+            "femaleVariant": "[Go to sleep]"
+          },
+          {
+            "stringId": "2049075605376675840",
+            "femaleVariant": "[Solve]"
+          },
+          {
+            "stringId": "2049078972899471360",
+            "femaleVariant": "[Solve]"
+          },
+          {
+            "stringId": "2049079019103924224",
+            "femaleVariant": "[Solve]"
+          },
+          {
+            "stringId": "2085368315636953088",
+            "femaleVariant": "[Step onto treadmill]"
+          },
+          {
+            "stringId": "2182516815318822912",
+            "femaleVariant": "No."
+          }
+        ]
+      }
+
+
+

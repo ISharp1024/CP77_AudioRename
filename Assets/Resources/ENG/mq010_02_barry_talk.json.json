@@ -1,0 +1,402 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1772111680413790212",
+            "femaleVariant": "[Knock] Hey, Barry!"
+          },
+          {
+            "stringId": "1772112117208608768",
+            "femaleVariant": "Barry? Am I rememberin' that right?"
+          },
+          {
+            "stringId": "1772112601784938496",
+            "femaleVariant": "Who is it?"
+          },
+          {
+            "stringId": "1772113695424540672",
+            "femaleVariant": "I remember. Whaddaya want?"
+          },
+          {
+            "stringId": "1772115389705252868",
+            "femaleVariant": "Stay strong."
+          },
+          {
+            "stringId": "1772116722118193152",
+            "femaleVariant": "People like us have to get used to loss."
+          },
+          {
+            "stringId": "1772117316618842112",
+            "femaleVariant": "I just wanna talk."
+          },
+          {
+            "stringId": "1772118135397314560",
+            "femaleVariant": "Just wanna talk, that's all. I know it's what you need right now, even if you don't wanna admit it."
+          },
+          {
+            "stringId": "1772118743839830016",
+            "femaleVariant": "I can't turn back time for you, but I can sit next to you and listen...  remind you that you're not in this alone."
+          },
+          {
+            "stringId": "1772118999457492996",
+            "femaleVariant": "Your friends asked me to drop by."
+          },
+          {
+            "stringId": "1772120695365595136",
+            "femaleVariant": "You should get out there, live a little!"
+          },
+          {
+            "stringId": "1772121400058998784",
+            "femaleVariant": "Just wanted to see what's shakin'. Friends say you never leave your unit. Think I've got an inkling as to why.",
+            "maleVariant": "I just wanted to see what's shakin'. Friends say you never leave your unit. Think I've got an inkling as to why."
+          },
+          {
+            "stringId": "1772121758504218624",
+            "femaleVariant": "Come in."
+          },
+          {
+            "stringId": "1772122036754345984",
+            "femaleVariant": "You can't let yourself fall apart, Barry. Not here, not in Night City."
+          },
+          {
+            "stringId": "1772219995496017920",
+            "femaleVariant": "Now hold on a sec. We barely know each other, and you just rock up here talkin' to me about my problems?"
+          },
+          {
+            "stringId": "1772222129339789312",
+            "femaleVariant": "All right, you got me. Your friends asked me to drop in on you, so I thought, hey, why not."
+          },
+          {
+            "stringId": "1772226181909868544",
+            "femaleVariant": "All right, come on in. You wanna talk, so let's talk."
+          },
+          {
+            "stringId": "1772230192000036864",
+            "femaleVariant": "Tell Petrova and Mendez to drop the act already. Mendez especially."
+          },
+          {
+            "stringId": "1772241123044126720",
+            "femaleVariant": "I lost someone close to me, too. Damned good friend.",
+            "maleVariant": "I lost someone close to me, too. A damned good friend."
+          },
+          {
+            "stringId": "1772241740697333760",
+            "femaleVariant": "Whaddaya mean \"too\"? Wait, this about Andrew? They... told you about him."
+          },
+          {
+            "stringId": "1772242131874902016",
+            "femaleVariant": "Best bud I ever had... known him my whole life. Only person I could spill to without bein' judged."
+          },
+          {
+            "stringId": "1772243795369422848",
+            "femaleVariant": "Everyone has their limits."
+          },
+          {
+            "stringId": "1772244079743234048",
+            "femaleVariant": "We have to forget the dead."
+          },
+          {
+            "stringId": "1772244463975034880",
+            "femaleVariant": "Can you tell me how Andrew died?"
+          },
+          {
+            "stringId": "1772244910802628608",
+            "femaleVariant": "Does it matter? Normally. From old age. It's no wonder, seein' as he was only a few years younger than my grandma."
+          },
+          {
+            "stringId": "1772245939564736512",
+            "femaleVariant": "Mendez doesn't know shit about life. Everyone's got their limits, even him. He just hasn't reached 'em. Not like you."
+          },
+          {
+            "stringId": "1772246354498842624",
+            "femaleVariant": "What if he's right though? Maybe my genes are soft? Don't only the strongest survive?"
+          },
+          {
+            "stringId": "1772246468885901312",
+            "femaleVariant": "If you felt nothing, that means his loss wouldn't have had any meaning."
+          },
+          {
+            "stringId": "1772246637194932224",
+            "femaleVariant": "I guess so..."
+          },
+          {
+            "stringId": "1772247209633542144",
+            "femaleVariant": "Mendez is right. You gotta toughen up. Tell the world to go fuck itself."
+          },
+          {
+            "stringId": "1773738240396914688",
+            "femaleVariant": "[Knock] Barry! Everything OK?"
+          },
+          {
+            "stringId": "1793747692638334976",
+            "femaleVariant": "Hey, Barry? Everything all right in there?",
+            "maleVariant": "Hey, Barry! Everything all right in there?"
+          },
+          {
+            "stringId": "1837130920566177792",
+            "femaleVariant": "V, your neighbor from upstairs. Remember me? Talked about preem rides."
+          },
+          {
+            "stringId": "1837131091962216448",
+            "femaleVariant": "You gave me this look... I was about to hightail it to the Badlands right then an' there."
+          },
+          {
+            "stringId": "1837131550449975296",
+            "femaleVariant": "Back then you were pumped 'bout the Mizutani Shion. I said it was for flash-posers."
+          },
+          {
+            "stringId": "1837160190080434176",
+            "femaleVariant": "You're a badge. Ex-badge, but still. You've gotta stay strong... if you won't, who will?",
+            "maleVariant": "You're a badge. Ex-badge, but still. Gotta stay strong. I mean, if you won't, who will?"
+          },
+          {
+            "stringId": "1837180973292961792",
+            "femaleVariant": "He's a stand-up guy. Who cares if he has shitty taste when it comes to street-shredders?"
+          },
+          {
+            "stringId": "1837181622453780480",
+            "femaleVariant": "Come back just to get your ass kicked?"
+          },
+          {
+            "stringId": "1837181755329331200",
+            "femaleVariant": "Man, you really know how to cheer a guy up. Maybe those two asshats really are worried about me...?"
+          },
+          {
+            "stringId": "1837195889110401024",
+            "femaleVariant": "Maybe I don't wanna solve anything? That cross your mind?"
+          },
+          {
+            "stringId": "1837196278341812224",
+            "femaleVariant": "You should get out there more – go for a drink with your pals. Life goes on, Barry, and it won't wait for you to catch up."
+          },
+          {
+            "stringId": "1837196537096814592",
+            "femaleVariant": "Wallowing in loneliness and self-loathing isn't gonna solve anything."
+          },
+          {
+            "stringId": "1837197199327084544",
+            "femaleVariant": "Well... all right then. Come on in. Not like you'll change anythin'."
+          },
+          {
+            "stringId": "1837200781766017024",
+            "femaleVariant": "You never know.",
+            "maleVariant": "Hey, you never know."
+          },
+          {
+            "stringId": "1837204000844005376",
+            "femaleVariant": "Oh well, I tried.",
+            "maleVariant": "Welp, I tried."
+          },
+          {
+            "stringId": "1841510432347242496",
+            "femaleVariant": "I've seen that look before. It's all too common 'mong people like us."
+          },
+          {
+            "stringId": "1841510576396419072",
+            "femaleVariant": "\"Us\"? Heh, you don't look like a cop."
+          },
+          {
+            "stringId": "1841510674224365568",
+            "femaleVariant": "Badges don't get a monopoly on loss. You see death every day in my line of work."
+          },
+          {
+            "stringId": "1841510817283686400",
+            "femaleVariant": "You get used to it, of course... until it hits someone you're close to."
+          },
+          {
+            "stringId": "1841511057533419520",
+            "femaleVariant": "Heh..."
+          },
+          {
+            "stringId": "1841511180376195072",
+            "femaleVariant": "You, too?"
+          },
+          {
+            "stringId": "1841603088951787520",
+            "femaleVariant": "Dyin' of old age? In Night City? That merits a monument. Whole world should gaze up at it in awe."
+          },
+          {
+            "stringId": "1841603265448099840",
+            "femaleVariant": "Hehehe... Ashbox in a niche'll have to do."
+          },
+          {
+            "stringId": "1841696313347653632",
+            "femaleVariant": "Right... so I'm just supposed to forget everything I've seen? That kid... even Andrew?"
+          },
+          {
+            "stringId": "1841696432616882176",
+            "femaleVariant": "He's gone, and you're here. It's time to stop livin' in the past."
+          },
+          {
+            "stringId": "1841696569938395136",
+            "femaleVariant": "You won't change anything by sittin' here alone and wallowin' in misery.",
+            "maleVariant": "You won't change anything by sittin' here alone and wallowing in misery."
+          },
+          {
+            "stringId": "1841696676909924352",
+            "femaleVariant": "I think we're done here."
+          },
+          {
+            "stringId": "1841696866844786688",
+            "femaleVariant": "Suit yourself."
+          },
+          {
+            "stringId": "1842890146919989248",
+            "femaleVariant": "I'm gonna take that as a yes!"
+          },
+          {
+            "stringId": "1842890690468233216",
+            "femaleVariant": "Eh, try again later..."
+          },
+          {
+            "stringId": "1895218491762130944",
+            "femaleVariant": "Heh, you don't forget a gonk thing like that."
+          },
+          {
+            "stringId": "1895290963312230400",
+            "femaleVariant": "Where'd you get the idea somethin' with me was up? You watchin' me? Someone send you?"
+          },
+          {
+            "stringId": "1895316828007940096",
+            "femaleVariant": "None o' you get it, OK? None o' you!"
+          },
+          {
+            "stringId": "1895381606264979460",
+            "femaleVariant": "What about your friends on the force?"
+          },
+          {
+            "stringId": "1895381672568537088",
+            "femaleVariant": "NCPD hasn't improved, has it?"
+          },
+          {
+            "stringId": "1895381798296993792",
+            "femaleVariant": "Guessin' things at the NCPD haven't changed a lick, huh?"
+          },
+          {
+            "stringId": "1895382011434745856",
+            "femaleVariant": "One time... a Maelstrom ganger killed a young kid right in front of my eyes, for shits 'n' giggles."
+          },
+          {
+            "stringId": "1895382153453879296",
+            "femaleVariant": "I couldn't do shit. The son of a bitch had corpo protection."
+          },
+          {
+            "stringId": "1895382273578745856",
+            "femaleVariant": "Ehh, typical."
+          },
+          {
+            "stringId": "1895382362850312192",
+            "femaleVariant": "Our chief greases his palms with an anonymous donation and guess what. Officially? Kid blew his own brains out."
+          },
+          {
+            "stringId": "1895382503074283520",
+            "femaleVariant": "Somethin' died in me then. I couldn't do it anymore... few months later Andrew passed and everything went to shit."
+          },
+          {
+            "stringId": "1895383914172366848",
+            "femaleVariant": "You didn't have anyone to unload on at work? How about Petrova and Mendez?"
+          },
+          {
+            "stringId": "1895403036356624384",
+            "femaleVariant": "Petrova's a decent gal, but she's not good with this stuff. Mendez just doesn't get it."
+          },
+          {
+            "stringId": "1895403137036697600",
+            "femaleVariant": "He thinks us blues need to be tough. Can't bear the sight of a kid gettin' murdered? Born with pussy genes, 'ccordin' to him."
+          },
+          {
+            "stringId": "1895403304540422144",
+            "femaleVariant": "But you told him about Andrew."
+          },
+          {
+            "stringId": "1895403562372677632",
+            "femaleVariant": "Honestly? I thought about it a lot. Anyway... they don't know everything. Better that way."
+          },
+          {
+            "stringId": "1895406270953537536",
+            "femaleVariant": "How'd Andrew died?"
+          },
+          {
+            "stringId": "1895441300924907520",
+            "femaleVariant": "Thanks for the talk, V. I, um... I need time to take all this in."
+          },
+          {
+            "stringId": "1895441419825037312",
+            "femaleVariant": "Sure thing. Take care."
+          },
+          {
+            "stringId": "1905181149760307200",
+            "femaleVariant": "Barry! You there?",
+            "maleVariant": "Barry? You there?"
+          },
+          {
+            "stringId": "1905184717938606080",
+            "femaleVariant": "Maybe he's talkin' to Mendez..."
+          },
+          {
+            "stringId": "1905551821829292032",
+            "femaleVariant": "Right in front of your eyes."
+          },
+          {
+            "stringId": "1967849004892667908",
+            "femaleVariant": "Everyone's got their limits."
+          },
+          {
+            "stringId": "1967849129346056192",
+            "femaleVariant": "People die. You move on."
+          },
+          {
+            "stringId": "1967849460209532928",
+            "femaleVariant": "So Andrew was like a grandpa to you?"
+          },
+          {
+            "stringId": "1967849848669192192",
+            "femaleVariant": "So then Andrew was more like a grandpa to you than a friend?"
+          },
+          {
+            "stringId": "1967850945345470464",
+            "femaleVariant": "Hm. Wouldn't go that far. He was like a... egh, I don't know... A window into the past, or somethin'."
+          },
+          {
+            "stringId": "1967851060621721600",
+            "femaleVariant": "He reminded me of my gram-grams, about our little talks... time when everything had its proper place, y'know?"
+          },
+          {
+            "stringId": "1967851178498441216",
+            "femaleVariant": "He was the last... living record of those times."
+          },
+          {
+            "stringId": "2088021792150294532",
+            "femaleVariant": "[Sit] I lost someone too."
+          },
+          {
+            "stringId": "2088026239135944708",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2088026347114106884",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2119785631145299972",
+            "femaleVariant": "I'll take that as a yes."
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,195 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1789744717535481860",
+            "femaleVariant": "Drill or two'd do you good."
+          },
+          {
+            "stringId": "1789744717569036288",
+            "femaleVariant": "Attention!"
+          },
+          {
+            "stringId": "1789744717636145156",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Vete!\" t=\"Get lost!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1789744717652922372",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"amiga\" b=\"Step back, \" a=\".\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"amigo\" b=\"Step back, \" a=\".\"/>"
+          },
+          {
+            "stringId": "1789744717736808452",
+            "femaleVariant": "'Ey, 'ey! Better stash that."
+          },
+          {
+            "stringId": "1789744717753585668",
+            "femaleVariant": "Secure your weapon!"
+          },
+          {
+            "stringId": "1789744717820694532",
+            "femaleVariant": "I will shoot!"
+          },
+          {
+            "stringId": "1789744717854248964",
+            "femaleVariant": "Think about what you're doing."
+          },
+          {
+            "stringId": "1789744717904580612",
+            "femaleVariant": "Exactly. Nice 'n' easy."
+          },
+          {
+            "stringId": "1789744717921357828",
+            "femaleVariant": "Be good, now."
+          },
+          {
+            "stringId": "1789744717971689476",
+            "femaleVariant": "Huh?"
+          },
+          {
+            "stringId": "1789744717988466692",
+            "femaleVariant": "Whoever's there, ya better fuck off!"
+          },
+          {
+            "stringId": "1789744718038798340",
+            "femaleVariant": "Everything looks fine."
+          },
+          {
+            "stringId": "1789744718072352768",
+            "femaleVariant": "Prolly just the boosters."
+          },
+          {
+            "stringId": "1789744718105907204",
+            "femaleVariant": "Come on out! Let's finish what we started!"
+          },
+          {
+            "stringId": "1789744718139461636",
+            "femaleVariant": "Yeah, you better be scared! I'm comin'!"
+          },
+          {
+            "stringId": "1789744718173016068",
+            "femaleVariant": "Our guy down!"
+          },
+          {
+            "stringId": "1789744718206570500",
+            "femaleVariant": "Roger."
+          },
+          {
+            "stringId": "1789744718256902148",
+            "femaleVariant": "I'm under fire!"
+          },
+          {
+            "stringId": "1789744718290456580",
+            "femaleVariant": "Finish the enemy!"
+          },
+          {
+            "stringId": "1789744718324011012",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"puta\" b=\"Eat that, \" a=\"!\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"cabrón\" b=\"Eat that, \" a=\"!\"/>"
+          },
+          {
+            "stringId": "1789744718374342660",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"mierda\" b=\"The hell is this \" a=\"?\"/>"
+          },
+          {
+            "stringId": "1789744718391119876",
+            "femaleVariant": "No pain! Only honor!"
+          },
+          {
+            "stringId": "1789744718441451524",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Mierda!\" t=\"Shit!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1789744718475005956",
+            "femaleVariant": "Regroup!"
+          },
+          {
+            "stringId": "1789744718525337604",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"puta!\" b=\"Fucking \" a=\"\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"puto!\" b=\"Fucking \" a=\"\"/>"
+          },
+          {
+            "stringId": "1789744718542114820",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Mierda!\" t=\"Shit!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1789744718575669252",
+            "femaleVariant": "Talk to me."
+          },
+          {
+            "stringId": "1789744718626000900",
+            "femaleVariant": "That you...? Sorry, didn't recognize... Why'd you change your number...?"
+          },
+          {
+            "stringId": "1789744718659555328",
+            "femaleVariant": "Yeah... Yeah, I could eat... That'd be great..."
+          },
+          {
+            "stringId": "1789744718726664192",
+            "femaleVariant": "Flank her!",
+            "maleVariant": "Flank him!"
+          },
+          {
+            "stringId": "1789744718760218628",
+            "femaleVariant": "Flankin' her!",
+            "maleVariant": "Flankin' him!"
+          },
+          {
+            "stringId": "1789744718793773060",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"mierda\" b=\"The hell is this \" a=\"?\"/>"
+          },
+          {
+            "stringId": "1789744718810550276",
+            "femaleVariant": "Love you too."
+          },
+          {
+            "stringId": "1789744718827327492",
+            "femaleVariant": "What's going on..."
+          },
+          {
+            "stringId": "1789744718877659140",
+            "femaleVariant": "See anything – shoot on sight."
+          },
+          {
+            "stringId": "1789744718894436356",
+            "femaleVariant": "Check your mag, let's go."
+          },
+          {
+            "stringId": "1789744718944768004",
+            "femaleVariant": "Recon! Now!"
+          },
+          {
+            "stringId": "1789744718978322436",
+            "femaleVariant": "Do or die!"
+          },
+          {
+            "stringId": "1789744719011876868",
+            "femaleVariant": "Aaach...I'll kill... You..."
+          },
+          {
+            "stringId": "1789798026787000320",
+            "femaleVariant": "Ah, OK... sure, I understand... sure thing..."
+          },
+          {
+            "stringId": "1789798402328203264",
+            "femaleVariant": "Just gotta take care of one more thing, be right back... yeah... sure..."
+          }
+        ]
+      }
+
+
+

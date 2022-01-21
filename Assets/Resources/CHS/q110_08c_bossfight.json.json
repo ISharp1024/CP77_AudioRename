@@ -1,0 +1,279 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1654534898779705344",
+            "femaleVariant": "普拉西德，我靠，怎么回事？"
+          },
+          {
+            "stringId": "1673367519059316736",
+            "femaleVariant": "有人要入侵你。别走神，我来处理。"
+          },
+          {
+            "stringId": "1682142163921555456",
+            "femaleVariant": "我拖不了多久。他跟动物帮的老大在一个子网里。干掉她。"
+          },
+          {
+            "stringId": "1682146916890071040",
+            "femaleVariant": "麻利点。"
+          },
+          {
+            "stringId": "1682147235590066176",
+            "femaleVariant": "赶紧。"
+          },
+          {
+            "stringId": "1682307298669645824",
+            "femaleVariant": "去找那个网监。"
+          },
+          {
+            "stringId": "1682316919462760448",
+            "femaleVariant": "普拉西德，怎么回事？"
+          },
+          {
+            "stringId": "1682316919462760460",
+            "femaleVariant": "网监要入侵你。别走神，我来。"
+          },
+          {
+            "stringId": "1699440957646196736",
+            "femaleVariant": "你给多少钱，我们就办多少事。"
+          },
+          {
+            "stringId": "1699446954427174912",
+            "femaleVariant": "…不，不是巫毒帮。"
+          },
+          {
+            "stringId": "1699448937947090944",
+            "femaleVariant": "…嗯，对，但已经控制住了。"
+          },
+          {
+            "stringId": "1699448937947090952",
+            "femaleVariant": "…不，不是巫毒帮。"
+          },
+          {
+            "stringId": "1699979515489751040",
+            "femaleVariant": "不可能，那帮菜鸡，不可能干掉我这么多人。"
+          },
+          {
+            "stringId": "1699982655127621632",
+            "femaleVariant": "…我不是这个意思。"
+          },
+          {
+            "stringId": "1699983089053536256",
+            "femaleVariant": "我是说你最好赶紧。"
+          },
+          {
+            "stringId": "1699985022610903040",
+            "femaleVariant": "不知道，我们的人已经去了，很快就能搞定。"
+          },
+          {
+            "stringId": "1699986016744837120",
+            "femaleVariant": "嗯，我已经派人去搜了。"
+          },
+          {
+            "stringId": "1709517258331541504",
+            "femaleVariant": "来啊！打我啊！"
+          },
+          {
+            "stringId": "1709517258348318720",
+            "femaleVariant": "你到底是谁！"
+          },
+          {
+            "stringId": "1709517258381873152",
+            "femaleVariant": "来呀！动手啊！"
+          },
+          {
+            "stringId": "1709519537247899648",
+            "femaleVariant": "打得爽吗？"
+          },
+          {
+            "stringId": "1709519537264676864",
+            "femaleVariant": "来啊！来啊！"
+          },
+          {
+            "stringId": "1709519537281454080",
+            "femaleVariant": "老娘撕烂了你！"
+          },
+          {
+            "stringId": "1709520566244888576",
+            "femaleVariant": "嘿呀！"
+          },
+          {
+            "stringId": "1709520566261665792",
+            "femaleVariant": "啊！"
+          },
+          {
+            "stringId": "1709521969608675328",
+            "femaleVariant": "抓住她了。",
+            "maleVariant": "抓住他了。"
+          },
+          {
+            "stringId": "1709522781877587968",
+            "femaleVariant": "啊啊啊！"
+          },
+          {
+            "stringId": "1709522781894365184",
+            "femaleVariant": "嗯啊啊啊啊！"
+          },
+          {
+            "stringId": "1709522781911142400",
+            "femaleVariant": "放马过来啊！"
+          },
+          {
+            "stringId": "1709524418142687232",
+            "femaleVariant": "呃呃呃。"
+          },
+          {
+            "stringId": "1709524418159464448",
+            "femaleVariant": "我来陪你玩玩吧。"
+          },
+          {
+            "stringId": "1709525718964129792",
+            "femaleVariant": "嘿！"
+          },
+          {
+            "stringId": "1709526522659885056",
+            "femaleVariant": "啊啊啊！"
+          },
+          {
+            "stringId": "1709527460506259456",
+            "femaleVariant": "啊啊啊！"
+          },
+          {
+            "stringId": "1709527460523036672",
+            "femaleVariant": "这下爽不爽？"
+          },
+          {
+            "stringId": "1709530572310728704",
+            "femaleVariant": "给你你也用不了。"
+          },
+          {
+            "stringId": "1709535161516838912",
+            "femaleVariant": "很好。"
+          },
+          {
+            "stringId": "1709536024872374272",
+            "femaleVariant": "你会用吗？"
+          },
+          {
+            "stringId": "1709539054367821824",
+            "femaleVariant": "注意力集中。"
+          },
+          {
+            "stringId": "1709539054401376256",
+            "femaleVariant": "速战速决。"
+          },
+          {
+            "stringId": "1709539054418153472",
+            "femaleVariant": "你最好给我警醒点。"
+          },
+          {
+            "stringId": "1709543952241152000",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mèd.\" t=\"靠。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1709544511845191680",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Modi!\" t=\"该死！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1709545140755910656",
+            "femaleVariant": "那个锤子。捡起来。"
+          },
+          {
+            "stringId": "1709545706550743040",
+            "femaleVariant": "赶紧！拿那个锤子！"
+          },
+          {
+            "stringId": "1754621556714442752",
+            "femaleVariant": "那你给我闭嘴。"
+          },
+          {
+            "stringId": "1764507117097603072",
+            "femaleVariant": "留神点。"
+          },
+          {
+            "stringId": "1764509496140386304",
+            "femaleVariant": "什么情况？"
+          },
+          {
+            "stringId": "1765051707625377792",
+            "femaleVariant": "有敌人来了，马上扫描她。"
+          },
+          {
+            "stringId": "1765052147742085120",
+            "femaleVariant": "这么快，嗯？"
+          },
+          {
+            "stringId": "1765053183315742720",
+            "femaleVariant": "她肯定有弱点。"
+          },
+          {
+            "stringId": "1770741782422769664",
+            "femaleVariant": "呃呃呃。"
+          },
+          {
+            "stringId": "1770743760456536064",
+            "femaleVariant": "游戏才刚开始！"
+          },
+          {
+            "stringId": "1770744405825703940",
+            "femaleVariant": "你怎么了，废物？"
+          },
+          {
+            "stringId": "1770744914192125956",
+            "femaleVariant": "这么两下就不行啦？"
+          },
+          {
+            "stringId": "1770745365079805956",
+            "femaleVariant": "闭眼吧，菜鸡。"
+          },
+          {
+            "stringId": "1770747602137010176",
+            "femaleVariant": "尝尝这个！"
+          },
+          {
+            "stringId": "1770748308541689860",
+            "femaleVariant": "嘿——呀！"
+          },
+          {
+            "stringId": "1770751187780390912",
+            "femaleVariant": "啊啊啊！靠！"
+          },
+          {
+            "stringId": "1770759059968905216",
+            "femaleVariant": "动手！"
+          },
+          {
+            "stringId": "1770760188907769856",
+            "femaleVariant": "别连！他会烧死你！"
+          },
+          {
+            "stringId": "1773639259752042496",
+            "femaleVariant": "她快不行了！"
+          },
+          {
+            "stringId": "1973773160355221504",
+            "femaleVariant": "这下她蹦跶不动了。"
+          },
+          {
+            "stringId": "2018322906118901764",
+            "femaleVariant": "我觉得可以了。"
+          }
+        ]
+      }
+
+
+

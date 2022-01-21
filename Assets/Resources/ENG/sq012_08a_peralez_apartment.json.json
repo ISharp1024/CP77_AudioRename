@@ -1,0 +1,318 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1699884261689643008",
+            "femaleVariant": "Hello, V. Please, come in."
+          },
+          {
+            "stringId": "1699885739208724480",
+            "femaleVariant": "Good to see ya, V."
+          },
+          {
+            "stringId": "1699885852018724868",
+            "femaleVariant": "Got a decent picture of what went down."
+          },
+          {
+            "stringId": "1699885967445970944",
+            "femaleVariant": "It's not a hundred percent clear what happened…",
+            "maleVariant": "It's not a hundred percent clear what happened."
+          },
+          {
+            "stringId": "1699891785969029120",
+            "femaleVariant": "Hardly anything ever is, but...?"
+          },
+          {
+            "stringId": "1750453383196168192",
+            "femaleVariant": "There was an accident, embarrassing one. Rhyne died at a sex club. Was prolly too much for 'im."
+          },
+          {
+            "stringId": "1750454344597753856",
+            "femaleVariant": "Nobody there helping him? To leave this world, vacate his seat?"
+          },
+          {
+            "stringId": "1750454902037532672",
+            "femaleVariant": "Thanks for your help, V."
+          },
+          {
+            "stringId": "1750455526804279296",
+            "femaleVariant": "Case is pretty complex, leaves a lotta questions unanswered. I'd rather not draw any conclusions yet."
+          },
+          {
+            "stringId": "1750456241647898624",
+            "femaleVariant": "But you must have an opinion."
+          },
+          {
+            "stringId": "1750456772680339456",
+            "femaleVariant": "Think Weldon Holt was behind Rhyne's death.",
+            "maleVariant": "I think Weldon Holt was behind Rhyne's death."
+          },
+          {
+            "stringId": "1750457338877825024",
+            "femaleVariant": "Yeah, I got some idea."
+          },
+          {
+            "stringId": "1750459893947158528",
+            "femaleVariant": "Rhyne was murdered. At a sex club. Someone gave him a virus-spiked BD."
+          },
+          {
+            "stringId": "1750460447360405504",
+            "femaleVariant": "You sure?"
+          },
+          {
+            "stringId": "1941764551241064448",
+            "femaleVariant": "Please, have a seat."
+          },
+          {
+            "stringId": "1941767194743103488",
+            "femaleVariant": "Elizabeth tells me you have answers for us. I'm all ears."
+          },
+          {
+            "stringId": "1941780506256039940",
+            "femaleVariant": "It was an accident. NCPD covered it up."
+          },
+          {
+            "stringId": "1941781073577598976",
+            "femaleVariant": "Holt's behind it."
+          },
+          {
+            "stringId": "1941785909559779328",
+            "femaleVariant": "Rhyne was murdered by BD."
+          },
+          {
+            "stringId": "1941811175224991744",
+            "femaleVariant": "Ya ask me – no.",
+            "maleVariant": "You ask me – no."
+          },
+          {
+            "stringId": "1941811552443916288",
+            "femaleVariant": "What a relief. That's good to know."
+          },
+          {
+            "stringId": "1941811789573087232",
+            "femaleVariant": "So why'd they lie...? Eh, never mind, don't answer. I know why. Dull death, dull case…"
+          },
+          {
+            "stringId": "1941814770347499520",
+            "femaleVariant": "Can't draw any real conclusions."
+          },
+          {
+            "stringId": "1941817073339162624",
+            "femaleVariant": "Jeff, honey… read between the lines."
+          },
+          {
+            "stringId": "1941817731878445056",
+            "femaleVariant": "The case is complicated? But dying at home of a cardiac malfunction – that's not complicated."
+          },
+          {
+            "stringId": "1941818565974515712",
+            "femaleVariant": "So we were right?"
+          },
+          {
+            "stringId": "1941818783239462912",
+            "femaleVariant": "Yes. And that's enough for me. We have to be careful. Very careful, Jeff."
+          },
+          {
+            "stringId": "1941819401496649728",
+            "femaleVariant": "That's what V's trying to tell us."
+          },
+          {
+            "stringId": "1941820337413644288",
+            "femaleVariant": "But my wife's right. We will sleep better."
+          },
+          {
+            "stringId": "1941830039878983680",
+            "femaleVariant": "Your fee…"
+          },
+          {
+            "stringId": "1941831168717185024",
+            "femaleVariant": "Same BD almost wiped me, so... yeah, I'd say I'm sure.",
+            "maleVariant": "Same BD almost wiped me. So yeah, I'd say I'm sure."
+          },
+          {
+            "stringId": "1941831691042250752",
+            "femaleVariant": "Got any idea who did it?"
+          },
+          {
+            "stringId": "1941832675680280580",
+            "femaleVariant": "Weldon Holt."
+          },
+          {
+            "stringId": "1941833239075971072",
+            "femaleVariant": "No, no idea."
+          },
+          {
+            "stringId": "1941833391194988544",
+            "femaleVariant": "Police are on it."
+          },
+          {
+            "stringId": "1941833855152119808",
+            "femaleVariant": "Can't say for sure, but... a lotta things point to Weldon Holt.",
+            "maleVariant": "Can't say for sure... but a lotta things point to Weldon Holt."
+          },
+          {
+            "stringId": "1941833873338621952",
+            "femaleVariant": "That I didn't manage to figure out."
+          },
+          {
+            "stringId": "1941833891223134208",
+            "femaleVariant": "Cops are working the case again. Investigation into Rhyne's death will be reopened.",
+            "maleVariant": "Cops are workin' the case again. Investigation into Rhyne's death will be reopened."
+          },
+          {
+            "stringId": "1941839358045413392",
+            "femaleVariant": "I knew it! You got any proof?"
+          },
+          {
+            "stringId": "1941839358062190592",
+            "femaleVariant": "I don't. Just... strong suspicions.",
+            "maleVariant": "I don't. Just, uh… strong suspicions."
+          },
+          {
+            "stringId": "1941839358062190604",
+            "femaleVariant": "That's all we need to know, Jeff. We have to be careful. Keep a close eye on Holt. And up our security."
+          },
+          {
+            "stringId": "1941839358062190616",
+            "femaleVariant": "You're right... As always, you're right."
+          },
+          {
+            "stringId": "1941843848953815040",
+            "femaleVariant": "I see. Either way, you risked your life."
+          },
+          {
+            "stringId": "1941844188692439040",
+            "femaleVariant": "That's enough information for us. More than enough."
+          },
+          {
+            "stringId": "1941846015513157632",
+            "femaleVariant": "That's very good news. I feel… calmed."
+          },
+          {
+            "stringId": "1944687764098998272",
+            "femaleVariant": "Just gonna tell you one thing."
+          },
+          {
+            "stringId": "1944698410148519940",
+            "femaleVariant": "What's that?"
+          },
+          {
+            "stringId": "1944698956498558976",
+            "femaleVariant": "Something tells me it'll be more than one."
+          },
+          {
+            "stringId": "1944700637978255360",
+            "femaleVariant": "Prolly gonna be more than one, but all right.",
+            "maleVariant": "Prob'ly gonna be more than one... Hmph, but all right."
+          },
+          {
+            "stringId": "1944700753170620416",
+            "femaleVariant": "I'm listenin'."
+          },
+          {
+            "stringId": "1944710015552806912",
+            "femaleVariant": "Don't tell 'em nothin'. Don't get involved. This muck is deeper than ya think."
+          },
+          {
+            "stringId": "1944713295045550080",
+            "femaleVariant": "Suck you in if you're not careful."
+          },
+          {
+            "stringId": "1944714823298932740",
+            "femaleVariant": "Don't be dramatic."
+          },
+          {
+            "stringId": "1944717809727266816",
+            "femaleVariant": "I'm always careful."
+          },
+          {
+            "stringId": "1944717950102233088",
+            "femaleVariant": "They won't pay me if I don't tell them something."
+          },
+          {
+            "stringId": "1944719948688089088",
+            "femaleVariant": "Chill on the drama. My role in this ends here."
+          },
+          {
+            "stringId": "1944719969089183744",
+            "femaleVariant": "I'm always careful."
+          },
+          {
+            "stringId": "1944720005999058944",
+            "femaleVariant": "If I don't give 'em somethin', they're not gonna pay me."
+          },
+          {
+            "stringId": "1944720801289428992",
+            "femaleVariant": "Fine, do whatever the fuck you want. Not like ya listen anyway."
+          },
+          {
+            "stringId": "1944726725777383424",
+            "femaleVariant": "We'll manage without that."
+          },
+          {
+            "stringId": "1944726967956496384",
+            "femaleVariant": "There's no sense in which you gotta eat."
+          },
+          {
+            "stringId": "1949139127415169024",
+            "femaleVariant": "Make yourself at home. Jefferson will join us shortly."
+          },
+          {
+            "stringId": "1949158709580357636",
+            "femaleVariant": "[Sit] Thanks."
+          },
+          {
+            "stringId": "1949161780951736320",
+            "femaleVariant": "Thank you."
+          },
+          {
+            "stringId": "1950183727063982084",
+            "femaleVariant": "[Stand] Glad I could help."
+          },
+          {
+            "stringId": "1950184281903292416",
+            "femaleVariant": "Glad I could help."
+          },
+          {
+            "stringId": "1950229978224615424",
+            "femaleVariant": "[Stand] Watch out for each other."
+          },
+          {
+            "stringId": "1950230711305068548",
+            "femaleVariant": "You two watch out for each other."
+          },
+          {
+            "stringId": "2251736540213108736",
+            "femaleVariant": "And the conference? Did you manage, will we be in City Hall?"
+          },
+          {
+            "stringId": "2251746604428779520",
+            "femaleVariant": "No, no, no! Jeff was a councilperson until very recently. He has just as much of a right to use that space as Rhyne."
+          },
+          {
+            "stringId": "2251747697615396864",
+            "femaleVariant": "Get it done. Today. We are not push-overs, we are not going away. The conference will be at City Hall."
+          },
+          {
+            "stringId": "2251752335827755008",
+            "femaleVariant": "You helped us, V. Thank you. But we'll call if... we need anything."
+          }
+        ]
+      }
+
+
+

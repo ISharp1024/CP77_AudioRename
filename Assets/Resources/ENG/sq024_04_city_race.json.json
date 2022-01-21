@@ -1,0 +1,414 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1388025120258269184",
+            "femaleVariant": "Hey, V. Good to see ya."
+          },
+          {
+            "stringId": "1752026505280495616",
+            "femaleVariant": "Claire, you comin'? I'm already here."
+          },
+          {
+            "stringId": "1783639476469243908",
+            "femaleVariant": "Sharp bend coming!"
+          },
+          {
+            "stringId": "1783639476486021124",
+            "femaleVariant": "Heads up! Car a few back's lookin' to ram."
+          },
+          {
+            "stringId": "1783639476502798340",
+            "femaleVariant": "Guy in front of us, get on his ass!"
+          },
+          {
+            "stringId": "1783639476536352772",
+            "femaleVariant": "Reloading!"
+          },
+          {
+            "stringId": "1783639476553129988",
+            "femaleVariant": "Popped the gunner!"
+          },
+          {
+            "stringId": "1783639476586684420",
+            "femaleVariant": "Doin' good, V! Keep it up!"
+          },
+          {
+            "stringId": "1831217688833171456",
+            "femaleVariant": "OK, this is the spot."
+          },
+          {
+            "stringId": "1831236474047045632",
+            "femaleVariant": "Any tips before we roll?"
+          },
+          {
+            "stringId": "1831250494430912512",
+            "femaleVariant": "Don't take your foot off the chooh. My job'll be to slow everyone else down."
+          },
+          {
+            "stringId": "1831251265830526976",
+            "femaleVariant": "Ultimately, it'll be speed, not firepower, that'll win us this race."
+          },
+          {
+            "stringId": "1831257317389115392",
+            "femaleVariant": "Great. Be there in a flash, promise."
+          },
+          {
+            "stringId": "1831257630854619140",
+            "femaleVariant": "Yours."
+          },
+          {
+            "stringId": "1831257986732924928",
+            "femaleVariant": "Mine."
+          },
+          {
+            "stringId": "1831269745413857280",
+            "femaleVariant": "Yours."
+          },
+          {
+            "stringId": "1831269764841873408",
+            "femaleVariant": "Mine."
+          },
+          {
+            "stringId": "1831294346214776836",
+            "femaleVariant": "[Take shard]"
+          },
+          {
+            "stringId": "1831294658371657728",
+            "femaleVariant": "We need to hit all the checkpoints or we'll be disqualified."
+          },
+          {
+            "stringId": "1831295509463048192",
+            "femaleVariant": "If you wanna hang a bit, do. I'll be in the rig."
+          },
+          {
+            "stringId": "1831295649234034688",
+            "femaleVariant": "When do we start?"
+          },
+          {
+            "stringId": "1831296158741307392",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1831397819929337856",
+            "femaleVariant": "First elimination rally comin' up! Everyone ready?"
+          },
+          {
+            "stringId": "1831399069043400704",
+            "femaleVariant": "Not like it matters – too late to back out anyway!"
+          },
+          {
+            "stringId": "1831501146876813312",
+            "femaleVariant": "What is this?"
+          },
+          {
+            "stringId": "1831501356994666496",
+            "femaleVariant": "What's this for?"
+          },
+          {
+            "stringId": "1831501842577629184",
+            "femaleVariant": "It'll show you the route. You'd be driving blind without it."
+          },
+          {
+            "stringId": "1831625776023216128",
+            "femaleVariant": "Be right over. Later."
+          },
+          {
+            "stringId": "1831626285765369856",
+            "femaleVariant": "OK, Beast's ready to roar."
+          },
+          {
+            "stringId": "1831626395387699200",
+            "femaleVariant": "No argument there."
+          },
+          {
+            "stringId": "1855979224088842240",
+            "femaleVariant": "Strap in, pray to your gods and get ready to go for pay dirt!"
+          },
+          {
+            "stringId": "1855991730698063876",
+            "femaleVariant": "Cops don't have a beef with this?"
+          },
+          {
+            "stringId": "1855991834817466368",
+            "femaleVariant": "Corpos've sure shown up in numbers."
+          },
+          {
+            "stringId": "1855993984314380288",
+            "femaleVariant": "So, how's it look to you?"
+          },
+          {
+            "stringId": "1855996647730974720",
+            "femaleVariant": "Lemme tell you after the race."
+          },
+          {
+            "stringId": "1855998444923129856",
+            "femaleVariant": "Seem to be a lot of corpos takin' part."
+          },
+          {
+            "stringId": "1855998469250093056",
+            "femaleVariant": "Give you my take once we cross the finish line. Provided we arrive in one piece.",
+            "maleVariant": "Give you my take when we cross the finish line. Provided we arrive in one piece."
+          },
+          {
+            "stringId": "1856000556033773568",
+            "femaleVariant": "Hey, focus on winning."
+          },
+          {
+            "stringId": "1856004563758354432",
+            "femaleVariant": "How can you tell?"
+          },
+          {
+            "stringId": "1856005372420165632",
+            "femaleVariant": "Used to be one. Lettin' off steam after hours was key."
+          },
+          {
+            "stringId": "1856006353417539584",
+            "femaleVariant": "It was either that or stress, burnout and a trip in a Trauma Team ambulance."
+          },
+          {
+            "stringId": "1856104005236822016",
+            "femaleVariant": "Well, people don't have heart attacks on the circuit, but ambulances come in handy."
+          },
+          {
+            "stringId": "1856109070194446336",
+            "femaleVariant": "Yeah, I'll go heavy on the throttle."
+          },
+          {
+            "stringId": "1856111172211838976",
+            "femaleVariant": "NC badges are OK with this?"
+          },
+          {
+            "stringId": "1856111753911472128",
+            "femaleVariant": "NC badges can't see a problem around the stack of eddies put in front of them."
+          },
+          {
+            "stringId": "1856114270913302528",
+            "femaleVariant": "Solve every problem, don't they, eddies?"
+          },
+          {
+            "stringId": "1856115192720658432",
+            "femaleVariant": "Mmmhm."
+          },
+          {
+            "stringId": "1856116004201041924",
+            "femaleVariant": "Any advice before we start?"
+          },
+          {
+            "stringId": "1856116195981398016",
+            "femaleVariant": "There are no consequences for killing?"
+          },
+          {
+            "stringId": "1856117579933945856",
+            "femaleVariant": "No consequences for corpses in these races?"
+          },
+          {
+            "stringId": "1856118237013610496",
+            "femaleVariant": "Cops don't care who dies. They just funnel the data through their accident reports."
+          },
+          {
+            "stringId": "1856118834450272256",
+            "femaleVariant": "A bullet to the brain counts as a traffic fatality?",
+            "maleVariant": "A bullet to the brain counts as traffic fatality?"
+          },
+          {
+            "stringId": "1856120796294025216",
+            "femaleVariant": "Depends on the street."
+          },
+          {
+            "stringId": "1856123254525267968",
+            "femaleVariant": "Go fast. Got it."
+          },
+          {
+            "stringId": "1856123873789087744",
+            "femaleVariant": "Oh, take this shard."
+          },
+          {
+            "stringId": "1856135765530120192",
+            "femaleVariant": "The shard. It's all on there."
+          },
+          {
+            "stringId": "1856145996930748416",
+            "femaleVariant": "Three!"
+          },
+          {
+            "stringId": "1856146462783705088",
+            "femaleVariant": "Two!"
+          },
+          {
+            "stringId": "1856146646410334208",
+            "femaleVariant": "One!"
+          },
+          {
+            "stringId": "1856146817537937408",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1856150396453654528",
+            "femaleVariant": "Hold on!"
+          },
+          {
+            "stringId": "1856152170006712320",
+            "femaleVariant": "Good luck with that."
+          },
+          {
+            "stringId": "1856153183769989120",
+            "femaleVariant": "Think I'll give it a slap instead!",
+            "maleVariant": "Yeah, think I'll give it a slap instead!"
+          },
+          {
+            "stringId": "1856155046443618304",
+            "femaleVariant": "Don't do anything stupid."
+          },
+          {
+            "stringId": "1856156835012284416",
+            "femaleVariant": "Want a medal?",
+            "maleVariant": "You want a medal?"
+          },
+          {
+            "stringId": "1856156944584282112",
+            "femaleVariant": "Just a \"thank you\" would be nice."
+          },
+          {
+            "stringId": "1856157495380283392",
+            "femaleVariant": "Don't jinx it!"
+          },
+          {
+            "stringId": "1863078313456701440",
+            "femaleVariant": "Right on, see ya soon."
+          },
+          {
+            "stringId": "1863078505757151232",
+            "femaleVariant": "Wait, hold up – which rig are we usin'?"
+          },
+          {
+            "stringId": "1963616653590667268",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1977929348032765952",
+            "femaleVariant": "Hey, I bet a bundle on our win. Losing's just not an option, eh?"
+          },
+          {
+            "stringId": "1977931092007591936",
+            "femaleVariant": "Hey, look, Sampson. Fresh meat."
+          },
+          {
+            "stringId": "1977931360090726400",
+            "femaleVariant": "Hmph. Be embarrassing to lose to a rookie."
+          },
+          {
+            "stringId": "1977931663640895488",
+            "femaleVariant": "Chill, gonk'll probably crash out on the first bend."
+          },
+          {
+            "stringId": "2008388904462454784",
+            "femaleVariant": "Last bets, last bets! Don't miss your chance to win!"
+          },
+          {
+            "stringId": "2014019308506714112",
+            "femaleVariant": "Where the hell're you going?!"
+          },
+          {
+            "stringId": "2014019352496574464",
+            "femaleVariant": "V! Get us back on track!"
+          },
+          {
+            "stringId": "2014019381504380928",
+            "femaleVariant": "The hell, V?! Get back to the race!"
+          },
+          {
+            "stringId": "2014029674594832384",
+            "femaleVariant": "You fucked us! Get outta my car! Go!"
+          },
+          {
+            "stringId": "2014029715933892608",
+            "femaleVariant": "You fucked us! Just let me out!"
+          },
+          {
+            "stringId": "2014029741569478656",
+            "femaleVariant": "Enough! Get the fuck out!"
+          },
+          {
+            "stringId": "2014029766399758336",
+            "femaleVariant": "Enough! Let me the fuck out!"
+          },
+          {
+            "stringId": "2054976714581295104",
+            "femaleVariant": "[Sit and wait]"
+          },
+          {
+            "stringId": "2231449145960435712",
+            "femaleVariant": "D'ya hear about that thing Pete Sampson pulled last year?"
+          },
+          {
+            "stringId": "2231449757473181700",
+            "femaleVariant": "So, whaddaya think?"
+          },
+          {
+            "stringId": "2231449848992894980",
+            "femaleVariant": "Go Heywood! We at home here, feel me?!"
+          },
+          {
+            "stringId": "2231449943079522308",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chingados\" b=\"You show those \" a=\" who's boss around here!\"/>"
+          },
+          {
+            "stringId": "2231450144573886468",
+            "femaleVariant": "Best come back to me in one piece, baby! Nothin' missin' – got it? I love you!"
+          },
+          {
+            "stringId": "2231450227671437312",
+            "femaleVariant": "Bucky! Bucky! I put a hundred down. You squeeze the life outta that wreck! Squeeze it like you love your mother!"
+          },
+          {
+            "stringId": "2241456326931779584",
+            "femaleVariant": "Pete \"How-To-Succeed-Guru-I'm-On-The-Cover-Of-Time\" Sampson? Talkin' about the finals, his win?"
+          },
+          {
+            "stringId": "2241456401707831296",
+            "femaleVariant": "Naw, naw. First race – Little China, Kabuki, finish line in Northside?"
+          },
+          {
+            "stringId": "2241456555085139968",
+            "femaleVariant": "Oh yeah. But Sampson came second. Not bad, but not tops."
+          },
+          {
+            "stringId": "2241456655345782784",
+            "femaleVariant": "Not how it played out. Sampson hired Maelstrom thugs to zero the winners past the finish line. Put clever man Sampson first in the end."
+          },
+          {
+            "stringId": "2241865452111400960",
+            "femaleVariant": "About those rugfuckers? What'm I supposed to think? I piss on them."
+          },
+          {
+            "stringId": "2241865532927250432",
+            "femaleVariant": "Tha'ss good, good. I thought I sensed nerves, know what I mean? And you got to be relaxed behind the wheel, cooler'n liquid nitro."
+          },
+          {
+            "stringId": "2241865575591710720",
+            "femaleVariant": "Hey. I'm chill, holmes. Just, let's…"
+          },
+          {
+            "stringId": "2241865677597184000",
+            "femaleVariant": "Let's you an' me show those corpopricks exactly how welcome monochromes are in Vista del Rey."
+          }
+        ]
+      }
+
+
+

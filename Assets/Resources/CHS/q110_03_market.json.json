@@ -1,0 +1,282 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1508436663636873216",
+            "femaleVariant": "这边。"
+          },
+          {
+            "stringId": "1508439916084744192",
+            "femaleVariant": "你对太平洲熟吗？"
+          },
+          {
+            "stringId": "1508441961277706240",
+            "femaleVariant": "不熟，再说了，你们这些人一点也不热情好客啊。"
+          },
+          {
+            "stringId": "1508444466082500608",
+            "femaleVariant": "艾塔奶奶。"
+          },
+          {
+            "stringId": "1508446044684308480",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Placide, pitit mwen.\" t=\"普拉西德，我的孩子。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1508455182663438336",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pou ou.\" t=\"这是给你的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1508457259179462656",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou pa t 'bezwen…\" t=\"不用啊孩子…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1508457755449511936",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Petèt, men sa se pou ou. P’ap pran “non” pou yon repons.\" t=\"可能吧。但这是给你的。我不接受拒绝。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1508471457569591296",
+            "femaleVariant": "<mothertongue l=\"creo\" m=\"Vini nan\" b=\"\" a=\"（进去），在这儿说吧。\"/>"
+          },
+          {
+            "stringId": "1533136402835116032",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Gen lòt ki genyen li pi mal…\" t=\"其他人过得还不如我…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1533138365215739904",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mèsi.\" t=\"谢谢你。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1533138839725740032",
+            "femaleVariant": "走吧，快到了。"
+          },
+          {
+            "stringId": "1551666024883965952",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Aye, Placide.\" t=\"嘿，普拉西德。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1551668439360229376",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen pral deplase yo ankò.\" t=\"还得把它们再挪一遍。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1551669307061063680",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ki etaj?\" t=\"几层？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1551669342511321088",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Dezyèm.\" t=\"二层。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1551679075746074624",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Placide! Mwen gen sa ou te bay lòd.\" t=\"普拉西德！你的货已经到了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1551683851112173568",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pa konekte ak Agwè depi Josue ... ou konnen kisa pou w fè.\" t=\"她再没敬过海神，自从约书亚…你懂的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1551685002213740544",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li si sansib ke sa?\" t=\"她有那么多愁善感吗？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1551685035482959872",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pa ta pran yon souf san li pa di-sa.\" t=\"就是不让她喘气，她也愿意。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1551707325071380480",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Oke mwen pral vini pita.\" t=\"OK! 我一会儿过来。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1551746421957349376",
+            "femaleVariant": "跟动物帮打过交道吗？"
+          },
+          {
+            "stringId": "1557400095127048192",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Sibil pa ap renmen sa.\" t=\"西比尔会不高兴的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1557400628072091648",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ki diferans ki genyen?\" t=\"你管她呢。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1557401238695645184",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pa leve pou yon anè, nenpòt jan.\" t=\"反正她都一年没起来了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1557481057944932352",
+            "femaleVariant": "对，有过几次。"
+          },
+          {
+            "stringId": "1590989069116313600",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Lovelie? Oh tanpri. Josue te toujou genyen li nan yon kòd.\" t=\"你觉得她可爱？拜托。约书亚把她吃得死死的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1662078064263274496",
+            "femaleVariant": "太平洲最大最恶心的销金窟，一直没完工。"
+          },
+          {
+            "stringId": "1662079130774118400",
+            "femaleVariant": "上周烂尾了，里面都空了。"
+          },
+          {
+            "stringId": "1662079919991136256",
+            "femaleVariant": "现在呢？"
+          },
+          {
+            "stringId": "1662080467515580416",
+            "femaleVariant": "被动物帮占了，做了老巢。"
+          },
+          {
+            "stringId": "1695268657450782720",
+            "femaleVariant": "不对啊，他们到这儿来干吗？"
+          },
+          {
+            "stringId": "1695269540066562048",
+            "femaleVariant": "你要清理动物帮？让他们彻底消失？"
+          },
+          {
+            "stringId": "1695270130960109568",
+            "femaleVariant": "他们是不是想激怒你？让你做傻事？"
+          },
+          {
+            "stringId": "1695276575457873920",
+            "femaleVariant": "所以才雇我？"
+          },
+          {
+            "stringId": "1695277157425942528",
+            "femaleVariant": "一会儿你就知道了。"
+          },
+          {
+            "stringId": "1695280975316324352",
+            "femaleVariant": "太平洲正中央，也没个后援什么的。"
+          },
+          {
+            "stringId": "1695282075633258496",
+            "femaleVariant": "而且还是你们的地盘。连警察都不爱来。"
+          },
+          {
+            "stringId": "1695283186318512128",
+            "femaleVariant": "他们赖着不走。"
+          },
+          {
+            "stringId": "1695283651919810560",
+            "femaleVariant": "那儿一共有多少人？"
+          },
+          {
+            "stringId": "1695284081986965504",
+            "femaleVariant": "三十个，还不止。"
+          },
+          {
+            "stringId": "1699656813256921088",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Oke, jijman ta dwe pase pa kounye a.\" t=\"算了，现在大家心里都有数了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1699657598044753920",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Menm si li mache alè, li p'ap janm mete konfyans lan neg lan.\" t=\"就算这次放过他，以后她也不会再信任他了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1699657640088457216",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Hm. E li te tèlman enpòtan.\" t=\"而且他又那么重要。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1714450419366862848",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Placide! Ou gen yon minit?\" t=\"普拉西德！你有空-\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1714450419366862868",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pa jodi a.\" t=\"今天没空。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1714450419366862888",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Men, ou te di…\" t=\"但是你说过…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1714450419366862908",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Pita, Emilie, mwen pap bliye.\" t=\"再说吧，埃米莉。我不会忘的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1760464909770006528",
+            "femaleVariant": "我们一直想拿下 GIM——大帝国商场。"
+          },
+          {
+            "stringId": "1760483650608144424",
+            "femaleVariant": "这本应该是座独立城市，上流人的销金窟。"
+          },
+          {
+            "stringId": "1760483650608144440",
+            "femaleVariant": "一个闭环。圈地养羊，再从羊身上收羊毛。你看到的都是公司出钱盖的。"
+          },
+          {
+            "stringId": "1760644622408851456",
+            "femaleVariant": "V？"
+          },
+          {
+            "stringId": "1760644677471674368",
+            "femaleVariant": "你非要我等吗？"
+          },
+          {
+            "stringId": "1760644752985923584",
+            "femaleVariant": "你来不来？"
+          },
+          {
+            "stringId": "1773591285874053120",
+            "femaleVariant": "欢迎来到太平洲。"
+          },
+          {
+            "stringId": "1773592293530423296",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Tonnè, fout nou deyò, banfout sèpan! Tounen nan vil la! Se Pasifika!\" t=\"都滚出去！滚回夜之城！太平洲不欢迎你们！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1780462637419614208",
+            "femaleVariant": "霍特竞选的时候保证过，他的原话是…"
+          },
+          {
+            "stringId": "1780464028821245952",
+            "femaleVariant": "太平洲——这里是矛盾的温床，更是城中之城。"
+          },
+          {
+            "stringId": "1780464106617196544",
+            "femaleVariant": "请收看今日节目…"
+          },
+          {
+            "stringId": "1795071582414376960",
+            "femaleVariant": "——“我会让太平洲一切重回正轨。”"
+          },
+          {
+            "stringId": "1795072093632925696",
+            "femaleVariant": "这是他为了拉票而说的假话吗？"
+          },
+          {
+            "stringId": "1795072908418420736",
+            "femaleVariant": "让我们到街头看一看。"
+          },
+          {
+            "stringId": "1795077384848084992",
+            "femaleVariant": "是夜之城地图上的污点…"
+          },
+          {
+            "stringId": "1795077829091987456",
+            "femaleVariant": "…还是未来城市飞速发展的大趋势？"
+          },
+          {
+            "stringId": "1973686555258933248",
+            "femaleVariant": "嗯哼。"
+          }
+        ]
+      }
+
+
+

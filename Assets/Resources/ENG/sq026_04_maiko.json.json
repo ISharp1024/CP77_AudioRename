@@ -1,0 +1,586 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1701081573227479040",
+            "femaleVariant": "Judy Alvarez. I'd say it's great to see you but I've never been one to lie."
+          },
+          {
+            "stringId": "1701082569055911936",
+            "femaleVariant": "Thought you'd hit rock bottom when you joined the Mox."
+          },
+          {
+            "stringId": "1701083623369719808",
+            "femaleVariant": "Consorting with a persona who is very non grata…"
+          },
+          {
+            "stringId": "1701083657679126528",
+            "femaleVariant": "You somehow never fail to lower my expectations."
+          },
+          {
+            "stringId": "1701084474796654596",
+            "femaleVariant": "Did what I had to do."
+          },
+          {
+            "stringId": "1701084944491593728",
+            "femaleVariant": "Came to Clouds for info, left with info."
+          },
+          {
+            "stringId": "1701085956409376768",
+            "femaleVariant": "Called me a murderer. You're right – I killed Woodman. I'd do it again in a heartbeat.",
+            "maleVariant": "Call me a murderer? You're right – I killed Woodman. I'd do it again in a heartbeat."
+          },
+          {
+            "stringId": "1701108884874182656",
+            "femaleVariant": "Judy wants to make you a proposition."
+          },
+          {
+            "stringId": "1701108884924514304",
+            "femaleVariant": "Judy has a proposal... about Clouds."
+          },
+          {
+            "stringId": "1701126895970533376",
+            "femaleVariant": "Ever heard of a little something called \"compromise\"? Should try it sometime."
+          },
+          {
+            "stringId": "1701128215666343936",
+            "femaleVariant": "Wanna come back? Done. Always valued your skills, you know that. Just don't get why you had to drag this... loose end in here."
+          },
+          {
+            "stringId": "1701222675318292480",
+            "femaleVariant": "Had enough."
+          },
+          {
+            "stringId": "1770663901460938752",
+            "femaleVariant": "Don't mind me – here to blend into the furniture."
+          },
+          {
+            "stringId": "1770663999137890304",
+            "femaleVariant": "Left a lasting impression. Good."
+          },
+          {
+            "stringId": "1770665001274556416",
+            "femaleVariant": "Ah, don't mind me – just here to blend into the decor.",
+            "maleVariant": "Don't mind me – just here to blend into the decor."
+          },
+          {
+            "stringId": "1770665029896486912",
+            "femaleVariant": "Guess I left a lasting impression. Good.",
+            "maleVariant": "Heh, guess I left a lasting impression. Good."
+          },
+          {
+            "stringId": "1770666326724952064",
+            "femaleVariant": "You two done bickering over diddly squat?"
+          },
+          {
+            "stringId": "1770667484990390272",
+            "femaleVariant": "That all you're good at – blowin' hot air?"
+          },
+          {
+            "stringId": "1770668347137966080",
+            "femaleVariant": "Urgh, sure ask a lot of questions."
+          },
+          {
+            "stringId": "1770668368646356992",
+            "femaleVariant": "Judy's idea – think about it. Could work."
+          },
+          {
+            "stringId": "1770668935783366656",
+            "femaleVariant": "Well, can't ever rule violence out."
+          },
+          {
+            "stringId": "1770671490265497600",
+            "femaleVariant": "That's no reason. Why come at all?"
+          },
+          {
+            "stringId": "1770671621379440640",
+            "femaleVariant": "My job, among other things, is to remember unsavory customers. Naturally, I take it upon myself to deal with them, too."
+          },
+          {
+            "stringId": "1770672147798147072",
+            "femaleVariant": "A pathetic attempt at getting under my skin."
+          },
+          {
+            "stringId": "1770672375565631488",
+            "femaleVariant": "Gonna pretend as if you two weren't ever here. For old times' sake, Judy."
+          },
+          {
+            "stringId": "1770673078983966720",
+            "femaleVariant": "'Cause if you are, I'd like to get down to biz."
+          },
+          {
+            "stringId": "1770676201425190912",
+            "femaleVariant": "Heh, this is a waste of our time. Come on, we'll get by without 'er.",
+            "maleVariant": "Huh, this is a waste of our time. Come on, we'll get by without 'er."
+          },
+          {
+            "stringId": "1770676244475527168",
+            "femaleVariant": "We're not done talkin'. But you'd do well to hear Judy out, or we'll make sure your worst fear comes true.",
+            "maleVariant": "Oh, we're not done talking. But you'd do well to hear Judy out, or we'll make sure your worst fears come true."
+          },
+          {
+            "stringId": "1770679252630355968",
+            "femaleVariant": "Jude, be sure to gimme a call once you're done mourning and wanna get back to reality."
+          },
+          {
+            "stringId": "1770722774272163840",
+            "femaleVariant": "I'm leavin'."
+          },
+          {
+            "stringId": "1770723155131744256",
+            "femaleVariant": "Smart move."
+          },
+          {
+            "stringId": "1854739010235883520",
+            "femaleVariant": "Guess you've managed to stoop even lower, now."
+          },
+          {
+            "stringId": "1854873220984561664",
+            "femaleVariant": "Consorting with a common thug…"
+          },
+          {
+            "stringId": "1854902045785153536",
+            "femaleVariant": "To make sure Judy gets what she came for."
+          },
+          {
+            "stringId": "1854905384014929920",
+            "femaleVariant": "Just what exactly are you after?"
+          },
+          {
+            "stringId": "1854909123807371264",
+            "femaleVariant": "Gonna go and harass another doll?"
+          },
+          {
+            "stringId": "1854911463205593088",
+            "femaleVariant": "Compromises take time I just don't have."
+          },
+          {
+            "stringId": "1854913269038014464",
+            "femaleVariant": "Jude woulda had a better chance without you."
+          },
+          {
+            "stringId": "1854916854429736960",
+            "femaleVariant": "Paid you one visit and you remember me?"
+          },
+          {
+            "stringId": "1856311485876887552",
+            "femaleVariant": "Now, how'm I to deal with you?"
+          },
+          {
+            "stringId": "1864932633573285888",
+            "femaleVariant": "What happened in between is what happens when people refuse to work with you."
+          },
+          {
+            "stringId": "1864957328410501120",
+            "femaleVariant": "Here's the thing – literally in moments security'll figure out you're here. Got two options – go out the way you came in, or get thrown out."
+          },
+          {
+            "stringId": "1864958129572896768",
+            "femaleVariant": "And don't get me wrong, Jude. I'd gladly sit and catch up. Been quite a while since we last talked."
+          },
+          {
+            "stringId": "1864959132632309760",
+            "femaleVariant": "But you're not safe here at Clouds. Especially not with her at your side.",
+            "maleVariant": "But you're not safe here at Clouds. Especially not with him at your side."
+          },
+          {
+            "stringId": "1865046015307636736",
+            "femaleVariant": "Stop treatin' dolls like meat and I'll consider it. But first things first – Clouds needs to be taken from the Tyger Claws."
+          },
+          {
+            "stringId": "1865104116836687872",
+            "femaleVariant": "Startin' to think blowin' hot air's all you're good at."
+          },
+          {
+            "stringId": "1865157400905605120",
+            "femaleVariant": "Yes, V – I mean you."
+          },
+          {
+            "stringId": "1869126774230310912",
+            "femaleVariant": "OK, look. It's clear what happened to Ev was… traumatic."
+          },
+          {
+            "stringId": "1869131131961171968",
+            "femaleVariant": "OK, since you seem more reasonable, care to explain what this is about?"
+          },
+          {
+            "stringId": "1869180860065603584",
+            "femaleVariant": "Literally moments from now security's gonna figure out you're here. Got two options – go out the way you came in, or get thrown out."
+          },
+          {
+            "stringId": "1869255218448523264",
+            "femaleVariant": "And that's not a threat or figure of speech. Just a friendly heads up."
+          },
+          {
+            "stringId": "1869282426579804164",
+            "femaleVariant": "We're not done talking. Hear Judy out."
+          },
+          {
+            "stringId": "1869283039451504640",
+            "femaleVariant": "Wouldn't rule it out."
+          },
+          {
+            "stringId": "1898198103884890112",
+            "femaleVariant": "Yeesh, you've always been unstable."
+          },
+          {
+            "stringId": "1901188013018865664",
+            "femaleVariant": "What's next? Threats?"
+          },
+          {
+            "stringId": "1902515213482131460",
+            "femaleVariant": "Waste of time, this."
+          },
+          {
+            "stringId": "1904004582576185344",
+            "femaleVariant": "First you settle for the Mox, now murderers. I shudder to think what's next."
+          },
+          {
+            "stringId": "1904011220011933696",
+            "femaleVariant": "Also I never liked surprise parties, which you know."
+          },
+          {
+            "stringId": "1904042556076548096",
+            "femaleVariant": "Huh? I was convinced you didn't know."
+          },
+          {
+            "stringId": "1904042785085546496",
+            "femaleVariant": "That girl was askin' for an unhappy ending. I was just surprised it took so long."
+          },
+          {
+            "stringId": "1904051634026799104",
+            "femaleVariant": "And if I'd known what he did to Evelyn when she needed help, I wouldn't've have gone so easy on him."
+          },
+          {
+            "stringId": "1904068081335623680",
+            "femaleVariant": "Oh? Stand to lose my youth, eddies and influence?"
+          },
+          {
+            "stringId": "1904069019500765184",
+            "femaleVariant": "Something's gonna happen. But you'll be the last to know."
+          },
+          {
+            "stringId": "1904069447588208640",
+            "femaleVariant": "Huh."
+          },
+          {
+            "stringId": "1904081330135326724",
+            "femaleVariant": "Gotta liberate Clouds, take over."
+          },
+          {
+            "stringId": "1904082017111990272",
+            "femaleVariant": "We need you."
+          },
+          {
+            "stringId": "1904086240121806848",
+            "femaleVariant": "We need you. Can't do what we wanna do... without you.",
+            "maleVariant": "We need you. We can't do what we wanna do... without you."
+          },
+          {
+            "stringId": "1904086260791336960",
+            "femaleVariant": "Wanna tear Clouds outta the Tyger Claws' paws. Dolls should own it, control it."
+          },
+          {
+            "stringId": "1904104644358660096",
+            "femaleVariant": "All right... this has been fun and all, but... I think it's time you got going."
+          },
+          {
+            "stringId": "1904109122298273792",
+            "femaleVariant": "We gotta do something! Or everyone'll end up like Evie. Woodman raped her while she was unconscious, then sold her like she was so much scrap."
+          },
+          {
+            "stringId": "1904109782263619584",
+            "femaleVariant": "Mess with the Claws, blowback'll hit every one of the dolls in here."
+          },
+          {
+            "stringId": "1904116744757927940",
+            "femaleVariant": "So, not willing to help?"
+          },
+          {
+            "stringId": "1904122291875962880",
+            "femaleVariant": "So, you won't help."
+          },
+          {
+            "stringId": "1904122611431596032",
+            "femaleVariant": "I thought I expressed myself clearly."
+          },
+          {
+            "stringId": "1904125968149864448",
+            "femaleVariant": "You mean making better life choices?"
+          },
+          {
+            "stringId": "1904127205788311552",
+            "femaleVariant": "We wanna help the dolls."
+          },
+          {
+            "stringId": "1904129788187729920",
+            "femaleVariant": "Dolls make more eddies than anyone else in the industry. Thanks to the chip, they experience no trauma. Every whore in Night City wants to work here."
+          },
+          {
+            "stringId": "1904133704711364608",
+            "femaleVariant": "It's the Tyger Claws that're the problem, and people like Woodman. He raped Evelyn while she was unconscious, then sold her off like so much scrap."
+          },
+          {
+            "stringId": "1904139692986294272",
+            "femaleVariant": "What you two're out to do is... impossible. Completely beyond your means."
+          },
+          {
+            "stringId": "1906901357880655876",
+            "femaleVariant": "You seem a bundle of nerves."
+          },
+          {
+            "stringId": "1906901357880655892",
+            "femaleVariant": "I've a mind to kill the bastards with my bare hands."
+          },
+          {
+            "stringId": "1906901357897433088",
+            "femaleVariant": "So yeah... you could say I'm a teensy bit nervous."
+          },
+          {
+            "stringId": "1906901357930987524",
+            "femaleVariant": "I'm ready, let's go."
+          },
+          {
+            "stringId": "1906901357981319168",
+            "femaleVariant": "I'm ready, let's go."
+          },
+          {
+            "stringId": "1906901357981319184",
+            "femaleVariant": "Gotta know where to lead the convo."
+          },
+          {
+            "stringId": "1906901357998096384",
+            "femaleVariant": "Am I here as your huscle?"
+          },
+          {
+            "stringId": "1906901357998096400",
+            "femaleVariant": "How you aim to bring her around?"
+          },
+          {
+            "stringId": "1906901357998096416",
+            "femaleVariant": "Tell me anything more about her?"
+          },
+          {
+            "stringId": "1906901357998096432",
+            "femaleVariant": "You nervous?"
+          },
+          {
+            "stringId": "1906901358048428036",
+            "femaleVariant": "So, in brief, I'm just here as your huscle, right?"
+          },
+          {
+            "stringId": "1906901358048428052",
+            "femaleVariant": "Never said that. I just know the woman better."
+          },
+          {
+            "stringId": "1906901358081982468",
+            "femaleVariant": "Care to be a bit more specific? Wouldn't mind knowing what to expect."
+          },
+          {
+            "stringId": "1906901358081982480",
+            "femaleVariant": "Expect everything. Miss a beat, she'll wrap you 'round her finger, get you on her agenda while thinkin' you're the one in control."
+          },
+          {
+            "stringId": "1906901358098759688",
+            "femaleVariant": "Hm... Heh, guess I know the type.",
+            "maleVariant": "Ooh, huh... Guess I know the type."
+          },
+          {
+            "stringId": "1906901358132314116",
+            "femaleVariant": "How you aim to get her over to our side?"
+          },
+          {
+            "stringId": "1906901358149091336",
+            "femaleVariant": "By tellin' the truth. About Evelyn – what happened and why."
+          },
+          {
+            "stringId": "1906901358149091348",
+            "femaleVariant": "Think that'll cut it?"
+          },
+          {
+            "stringId": "1906901358149091360",
+            "femaleVariant": "No. Have to improvise from there."
+          },
+          {
+            "stringId": "1906901358199422980",
+            "femaleVariant": "Some detes about her could be useful, when I talk to her, don't you think?"
+          },
+          {
+            "stringId": "1906901358199423004",
+            "femaleVariant": "No, leave the talkin' to me."
+          },
+          {
+            "stringId": "1906901358300086276",
+            "femaleVariant": "Talkin' with Maiko's like a game of 3D chess – don't let her derail you."
+          },
+          {
+            "stringId": "1906918410544988164",
+            "femaleVariant": "Hold on. I'll open it."
+          },
+          {
+            "stringId": "1906918410595319808",
+            "femaleVariant": "You've used this entrance before?"
+          },
+          {
+            "stringId": "1906918410612097024",
+            "femaleVariant": "Know how to get around their systems?"
+          },
+          {
+            "stringId": "1906918410662428676",
+            "femaleVariant": "Looks like you've come this way before. More'n once.",
+            "maleVariant": "Looks like you've come this way before. More than once."
+          },
+          {
+            "stringId": "1906918410679205888",
+            "femaleVariant": "Hm. I have, on occasion."
+          },
+          {
+            "stringId": "1906918410763091972",
+            "femaleVariant": "Easy as paella."
+          },
+          {
+            "stringId": "1906918410830200836",
+            "femaleVariant": "Come on, let's go."
+          },
+          {
+            "stringId": "1906918410880532484",
+            "femaleVariant": "Follow me."
+          },
+          {
+            "stringId": "1906918410930864132",
+            "femaleVariant": "Lock like that – no way you cracked it open on your first try.",
+            "maleVariant": "A lock like that? No way you cracked it open on your first try."
+          },
+          {
+            "stringId": "1906918410930864144",
+            "femaleVariant": "Know how to get around their systems?",
+            "maleVariant": "You know how to get around their systems?"
+          },
+          {
+            "stringId": "1906918410947641348",
+            "femaleVariant": "Appears so. Was hopin' they hadn't run any updates since I left."
+          },
+          {
+            "stringId": "1906918410947641360",
+            "femaleVariant": "Looks like I was right."
+          },
+          {
+            "stringId": "1907013448608235520",
+            "femaleVariant": "Hey, V. Thanks for showin'."
+          },
+          {
+            "stringId": "1914351131730599936",
+            "femaleVariant": "A Clouds employee took advantage of Evelyn."
+          },
+          {
+            "stringId": "1914352015285903360",
+            "femaleVariant": "Judy's proposal – give it some thought."
+          },
+          {
+            "stringId": "1914355103015067648",
+            "femaleVariant": "Well, well, Jude. See you've found a true and loyal fan."
+          },
+          {
+            "stringId": "1914362024723963908",
+            "femaleVariant": "Shouldn't be workin' here, then."
+          },
+          {
+            "stringId": "1914363231592996864",
+            "femaleVariant": "You aware what Woodman did to Evelyn when she was desperate for help? You sit by, let that happen?"
+          },
+          {
+            "stringId": "1914363718987898880",
+            "femaleVariant": "Doesn't make you wonder why you even work here?",
+            "maleVariant": "Doesn't it make you wonder why you even work here?"
+          },
+          {
+            "stringId": "1914382914991906816",
+            "femaleVariant": "And so you don't think I'm brushing you off completely... Forrest'll be on the maintenance level in a couple minutes. Alone."
+          },
+          {
+            "stringId": "1914387122130477064",
+            "femaleVariant": "Tyger Claw bosses rule this place. Know how much I mean to them?"
+          },
+          {
+            "stringId": "1914387122130477080",
+            "femaleVariant": "About as much as you two and your problems mean to me. Read, negligible."
+          },
+          {
+            "stringId": "1934551424317415424",
+            "femaleVariant": "This is a waste of time."
+          },
+          {
+            "stringId": "1934553175607107584",
+            "femaleVariant": "This is a waste of time."
+          },
+          {
+            "stringId": "1934586131579035652",
+            "femaleVariant": "You chose the wrong side."
+          },
+          {
+            "stringId": "1934586641035976704",
+            "femaleVariant": "I'm not your enemy here."
+          },
+          {
+            "stringId": "1934586870665732096",
+            "femaleVariant": "You picked the wrong side, Maiko."
+          },
+          {
+            "stringId": "1934587360107454468",
+            "femaleVariant": "I'm not your enemy here."
+          },
+          {
+            "stringId": "1965927254507634688",
+            "femaleVariant": "Sounds like I left a mark on this place. Good."
+          },
+          {
+            "stringId": "2015768865059594240",
+            "femaleVariant": "Came to Clouds for info, left with info."
+          },
+          {
+            "stringId": "2015768865093148672",
+            "femaleVariant": "Appreciate it. Now what exactly are you after?"
+          },
+          {
+            "stringId": "2015769878973865984",
+            "femaleVariant": "All the while, I did my best to make sure no one standing in my way ended up in a garbage bag."
+          },
+          {
+            "stringId": "2028628822012325888",
+            "femaleVariant": "I'll be the judge of that."
+          },
+          {
+            "stringId": "2028629935683923968",
+            "femaleVariant": "And I didn't ask for your opinion."
+          },
+          {
+            "stringId": "2040061902262591488",
+            "femaleVariant": "If by \"mark\" you mean buckets o' blood, then yeah – congrats."
+          },
+          {
+            "stringId": "2108335207143956480",
+            "femaleVariant": "[Wait]"
+          },
+          {
+            "stringId": "2225914108055347200",
+            "femaleVariant": "Yup, bet I even know why."
+          }
+        ]
+      }
+
+
+

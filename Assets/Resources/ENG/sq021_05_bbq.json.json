@@ -1,0 +1,280 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1350107290104152064",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1350115683376218112",
+            "femaleVariant": "[Go to sleep]"
+          },
+          {
+            "stringId": "1600702994235703296",
+            "femaleVariant": "Joss, we're finished."
+          },
+          {
+            "stringId": "1600710286301642756",
+            "femaleVariant": "'Course."
+          },
+          {
+            "stringId": "1600711198948638720",
+            "femaleVariant": "Can't, unfortunately."
+          },
+          {
+            "stringId": "1600715031753965568",
+            "femaleVariant": "'Course I'll stay."
+          },
+          {
+            "stringId": "1600715129347031040",
+            "femaleVariant": "I can't, River, I'm sorry."
+          },
+          {
+            "stringId": "1600716115998326784",
+            "femaleVariant": "Find your way all right?"
+          },
+          {
+            "stringId": "1740053952275124224",
+            "femaleVariant": "No. Sure."
+          },
+          {
+            "stringId": "1775169240199991296",
+            "femaleVariant": "All done? Off to bed, then."
+          },
+          {
+            "stringId": "1781950784164827136",
+            "femaleVariant": "River's a great investigator."
+          },
+          {
+            "stringId": "1781952809258684416",
+            "femaleVariant": "River's a helluvan investigator. Randy's good as found.",
+            "maleVariant": "River's a helluvan investigator. Randy's as good as found."
+          },
+          {
+            "stringId": "1783702979909652480",
+            "femaleVariant": "I still need your help. You leave now, I'll be all alone in this."
+          },
+          {
+            "stringId": "1783871392925749248",
+            "femaleVariant": "Can't promise you anything, Joss... except that we'll do our best.",
+            "maleVariant": "I can't promise ya anything, Joss, except... that we'll do our best."
+          },
+          {
+            "stringId": "1783875090288611328",
+            "femaleVariant": "You'll do your best..."
+          },
+          {
+            "stringId": "1783943455564763136",
+            "femaleVariant": "Stayin', right? Ya gotta help me see this through, to the end."
+          },
+          {
+            "stringId": "1816759538442641408",
+            "femaleVariant": "Yup. Gonna go hit the sack soon.",
+            "maleVariant": "Yup. Gonna hit the sack soon."
+          },
+          {
+            "stringId": "1816820710739091456",
+            "femaleVariant": "Can't promise anything."
+          },
+          {
+            "stringId": "1816829845564104704",
+            "femaleVariant": "Joss? Ya mind if V takes Randy's trailer for the night?"
+          },
+          {
+            "stringId": "1837251816229834752",
+            "femaleVariant": "We left some for you, Uncle River."
+          },
+          {
+            "stringId": "1837251981317640192",
+            "femaleVariant": "Thanks, Monique."
+          },
+          {
+            "stringId": "1837253074957242368",
+            "femaleVariant": "Tell me you found something."
+          },
+          {
+            "stringId": "1837258843349979140",
+            "femaleVariant": "Now you, no bullshit, don't look at my brother, just tell me…"
+          },
+          {
+            "stringId": "1837258843349979152",
+            "femaleVariant": "Will you find my boy?"
+          },
+          {
+            "stringId": "1837258843400310788",
+            "femaleVariant": "River... Tell me, and be honest... Will you find him?"
+          },
+          {
+            "stringId": "1837258843400310800",
+            "femaleVariant": "I will. I promise."
+          },
+          {
+            "stringId": "1837261049906204676",
+            "femaleVariant": "Found a strong lead."
+          },
+          {
+            "stringId": "1837261341141897216",
+            "femaleVariant": "Know more tomorrow."
+          },
+          {
+            "stringId": "1837262193172811776",
+            "femaleVariant": "Looks like Randy knew his kidnapper. They were in touch."
+          },
+          {
+            "stringId": "1837262232347611136",
+            "femaleVariant": "We'll know more tomorrow."
+          },
+          {
+            "stringId": "1838602908469432320",
+            "femaleVariant": "Why would he do something like that?"
+          },
+          {
+            "stringId": "1838603052904484864",
+            "femaleVariant": "You know him, kids... Look for help in the wrong places."
+          },
+          {
+            "stringId": "1838606029971132416",
+            "femaleVariant": "I sent some evidence to the lab. There's a chance we could know where to find Randy by morning."
+          },
+          {
+            "stringId": "1838619807974559744",
+            "femaleVariant": "Won't give up until I do, Joss."
+          },
+          {
+            "stringId": "1838624776010207236",
+            "femaleVariant": "All right, I'll stay."
+          },
+          {
+            "stringId": "1838624968092553216",
+            "femaleVariant": "All right, I'm with you."
+          },
+          {
+            "stringId": "1838624992637620224",
+            "femaleVariant": "Really can't. You'll do just fine without me. Don't doubt it.",
+            "maleVariant": "I really can't. You'll do just fine without me, don't doubt it."
+          },
+          {
+            "stringId": "1838625098250194944",
+            "femaleVariant": "Really can't. But you'll be fine."
+          },
+          {
+            "stringId": "1838629406790258688",
+            "femaleVariant": "Hang tough, Joss. River'll find 'im, safe.",
+            "maleVariant": "Hang tough, Joss. River will find him, safe."
+          },
+          {
+            "stringId": "1838629636956884992",
+            "femaleVariant": "I'll... I'll see ya 'round.",
+            "maleVariant": "I'll, uh... I'll see ya around."
+          },
+          {
+            "stringId": "1838632430682116096",
+            "femaleVariant": "Thanks. Head over to Randy's. Got a long day ahead of us tomorrow…"
+          },
+          {
+            "stringId": "1863135459624849408",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1863237598175006720",
+            "femaleVariant": "Why aren't you sleeping?"
+          },
+          {
+            "stringId": "1863248361195278336",
+            "femaleVariant": "Not going to sleep?"
+          },
+          {
+            "stringId": "1863249962261778432",
+            "femaleVariant": "Need to mull over some things. G'night, V."
+          },
+          {
+            "stringId": "1863488217301356548",
+            "femaleVariant": "Oughta get some sleep, Joss."
+          },
+          {
+            "stringId": "1863488217301356556",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1863488217334910976",
+            "femaleVariant": "You should get some sleep."
+          },
+          {
+            "stringId": "1885172483379298304",
+            "femaleVariant": "When's the last time you ate?"
+          },
+          {
+            "stringId": "1885173104840933376",
+            "femaleVariant": "Yesterday."
+          },
+          {
+            "stringId": "1885173308851879936",
+            "femaleVariant": "Have mine. I'm not hungry."
+          },
+          {
+            "stringId": "1885174294563651584",
+            "femaleVariant": "Thanks, maybe later."
+          },
+          {
+            "stringId": "1921320423465652224",
+            "femaleVariant": "Dorian, please."
+          },
+          {
+            "stringId": "1921321103513325568",
+            "femaleVariant": "But it really tastes like boogers!"
+          },
+          {
+            "stringId": "1921321389162205184",
+            "femaleVariant": "Agh! Boogers, ewww!"
+          },
+          {
+            "stringId": "1926022453181681664",
+            "femaleVariant": "Listen, let's not worry Joss more than we need to, huh?"
+          },
+          {
+            "stringId": "1926025512322469888",
+            "femaleVariant": "We're hot on the trail, we'll know more tomorrow. That's it."
+          },
+          {
+            "stringId": "1953007455896047620",
+            "femaleVariant": "[Go to sleep]"
+          },
+          {
+            "stringId": "2077865719711358976",
+            "femaleVariant": "River's a great investigator."
+          },
+          {
+            "stringId": "2077865719728136200",
+            "femaleVariant": "Can't promise anything."
+          },
+          {
+            "stringId": "2324428046378688516",
+            "femaleVariant": "[Stand] See you."
+          },
+          {
+            "stringId": "2328690027352776704",
+            "femaleVariant": "[Go to sleep]"
+          },
+          {
+            "stringId": "2328691793288978432",
+            "femaleVariant": "[Go to sleep]"
+          }
+        ]
+      }
+
+
+

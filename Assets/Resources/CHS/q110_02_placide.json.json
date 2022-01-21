@@ -1,0 +1,319 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1508117275859767296",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pral soti tankou li toujou fè.\" t=\"还跟以往一样。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1508201649871540228",
+            "femaleVariant": "普拉西德？"
+          },
+          {
+            "stringId": "1508204917351796736",
+            "femaleVariant": "我想跟你老板谈谈。"
+          },
+          {
+            "stringId": "1508206618225954816",
+            "femaleVariant": "我要找你们老大。"
+          },
+          {
+            "stringId": "1508208368492236800",
+            "femaleVariant": "你是普拉西德？",
+            "maleVariant": "普拉西德？"
+          },
+          {
+            "stringId": "1508244374478147588",
+            "femaleVariant": "教堂那边有人让我来找你。"
+          },
+          {
+            "stringId": "1508271394721386496",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ki sa ou vle?\" t=\"你有事吗？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1508273544084082688",
+            "femaleVariant": "我还以为这儿不让卖禽肉呢。"
+          },
+          {
+            "stringId": "1508273814197260288",
+            "femaleVariant": "我怎么记得卖家禽犯法呢？"
+          },
+          {
+            "stringId": "1508275019774447616",
+            "femaleVariant": "教堂那边让我来找你。"
+          },
+          {
+            "stringId": "1508277270723186688",
+            "femaleVariant": "汉兹先生让我来的，说你这里要找个佣兵。",
+            "maleVariant": "汉兹先生要我来的，说你这里要找个佣兵。"
+          },
+          {
+            "stringId": "1521283979175546884",
+            "femaleVariant": "我要找普拉西德。"
+          },
+          {
+            "stringId": "1521284418436616192",
+            "femaleVariant": "这儿真是卖肉的吗？"
+          },
+          {
+            "stringId": "1521285461459357696",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pa fè okenn sans pousè li koulye a. Jis tann.\" t=\"现在逼他也没用。等等吧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1521285837201887232",
+            "femaleVariant": "嘿，我说你们这儿真是卖肉的？",
+            "maleVariant": "嘿，我说你们这儿真的是卖肉的？"
+          },
+          {
+            "stringId": "1521295541596606464",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Dodo, ti pitit manman.\" t=\"睡吧，睡吧，小宝贝。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532879420010074112",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou aktyèlman vle achte kèk?\" t=\"你真是来买肉的吗？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532880400118255616",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Kisa l'ap fè la a?\" t=\"她来这儿干嘛？\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Kisa l'ap fè la a?\" t=\"他来这儿干嘛？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532916316983595008",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen pa konnen, li te sanble trè detèmine.\" t=\"我不确定，他挺摇摆的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532916394880208896",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"O, li pral chanje lide li, tankou tout tan.\" t=\"他会改主意的，一直这样。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532917831563546624",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Hmm ... Se pa tan sa.\" t=\"嗯…但这次不太一样。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532918387845697536",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou vle pou mwen pale ak li, pa vre?\" t=\"你想让我找他谈谈？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1533053482787213312",
+            "femaleVariant": "这儿不方便。跟我来。"
+          },
+          {
+            "stringId": "1562256222851502080",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Oke, pa gen chance.\" t=\"切，可算了吧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1590934805174095872",
+            "femaleVariant": "说家禽有传染病。这都六年了，现在突然能卖了？"
+          },
+          {
+            "stringId": "1590940504813801472",
+            "femaleVariant": "这不是卖的。"
+          },
+          {
+            "stringId": "1590940999020253184",
+            "femaleVariant": "你有事吗？"
+          },
+          {
+            "stringId": "1590956392837353472",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou ap eseye vin entelijan, li sanble.\" t=\"像是来抖机灵的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1602686949887643648",
+            "femaleVariant": "我找普拉西德。"
+          },
+          {
+            "stringId": "1602686949887643660",
+            "femaleVariant": "普拉西德？"
+          },
+          {
+            "stringId": "1602693016814161920",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Um byen?\" t=\"赶紧的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1618653025446653952",
+            "femaleVariant": "普拉西德？"
+          },
+          {
+            "stringId": "1618654193157664768",
+            "femaleVariant": "普拉西德？"
+          },
+          {
+            "stringId": "1618705571922046976",
+            "femaleVariant": "嗯？"
+          },
+          {
+            "stringId": "1618707926621089792",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"M’byen?\" t=\"赶紧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1682415336037879808",
+            "femaleVariant": "嗯。"
+          },
+          {
+            "stringId": "1705627683454558208",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Gen yon pwoblèm? Ale non.\" t=\"愣着干什么？进去啊。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1715556659745853440",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Do-o-do, ti pitit manman.\" t=\"睡吧，睡吧，小宝贝。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1715557169940992000",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Si ou pa dodo krab la va mange'w. Si ou pa dodo krab la va mange'w.\" t=\"淘气宝宝不闭眼，螃蟹来夹小胖脸。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1715557516893818880",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Manman ou pa la lalé nan maché.\" t=\"妈妈不在家，上街去买花。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1715557850391318528",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Papa ou pa la l'alé larivyè.\" t=\"爸爸不在家，下河把鱼抓。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1715558191941881856",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Si ou pa dodo krab la va mange'w.\" t=\"淘气宝宝不闭眼，螃蟹来夹小胖脸。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1741734015284563984",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Se ou menm. Kontinye.\" t=\"是你啊。进去吧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1741734015301341184",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Placide. Gade la.\" t=\"找普拉西德。走这边。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1741738439788744704",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Gade isit la.\" t=\"看这儿。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1751725814349893632",
+            "femaleVariant": "我要跟布丽奇特聊聊。"
+          },
+          {
+            "stringId": "1751726235239911424",
+            "femaleVariant": "我要找布里奇特。"
+          },
+          {
+            "stringId": "1751729694164979712",
+            "femaleVariant": "但他们让你来找我。"
+          },
+          {
+            "stringId": "1754511505794338816",
+            "femaleVariant": "那你能具体讲讲吗？"
+          },
+          {
+            "stringId": "1754512215017590784",
+            "femaleVariant": "换地方说，跟我来。"
+          },
+          {
+            "stringId": "1754629537806786560",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Isit! Gade!\" t=\"这儿！看摄像头！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754630355226304512",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Èske li avèg o li soud?\" t=\"她是聋还是瞎？\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Èske li avèg o li soud?\" t=\"他是聋还是瞎？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754692478186921984",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Estipid.\" t=\"白痴。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754692858174087168",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Vle antre? Gade nan kamera a.\" t=\"你要不要进去？看摄像头。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1755947206292119552",
+            "femaleVariant": "我们去哪儿？"
+          },
+          {
+            "stringId": "1755947400874270720",
+            "femaleVariant": "我们去哪儿？"
+          },
+          {
+            "stringId": "1792561123563999232",
+            "femaleVariant": "我听说过你和你的手下。"
+          },
+          {
+            "stringId": "1792567456342282240",
+            "femaleVariant": "我不太会说你们的方言。"
+          },
+          {
+            "stringId": "1966420196175138816",
+            "femaleVariant": "我过去听说过你们的大名。"
+          },
+          {
+            "stringId": "1966421885020033024",
+            "femaleVariant": "嗯？"
+          },
+          {
+            "stringId": "1966422199173402624",
+            "femaleVariant": "巫毒帮…最厉害的黑客团伙。"
+          },
+          {
+            "stringId": "1966422684806696960",
+            "femaleVariant": "至少别人是这么传的。不过你们真正的勾当没人知道。"
+          },
+          {
+            "stringId": "1966423766735802368",
+            "femaleVariant": "那很好。"
+          },
+          {
+            "stringId": "1966424353451823104",
+            "femaleVariant": "比如尖端黑软、专偷企业的数据、网监的死对头之类的…"
+          },
+          {
+            "stringId": "1966426560746246144",
+            "femaleVariant": "不过…没人说过…你还卖鸡。"
+          },
+          {
+            "stringId": "1966436240495235072",
+            "femaleVariant": "呃，我不太会说你们的方言…"
+          },
+          {
+            "stringId": "1966437064290095104",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Yo pale mil lang nan Night City.\" t=\"夜之城的方言怕是上千了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1966437960109543424",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Nou mem, nou pale yon sèl gwen.\" t=\"我们只说这一种。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1966438157728370688",
+            "femaleVariant": "那我真倒霉。一千种语言，偏偏不会你们的…"
+          },
+          {
+            "stringId": "1966438508959387648",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Chrome translation. Ou pa maton.\" t=\"骗谁呢？我知道你有翻译器。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2251883800651448320",
+            "femaleVariant": "你到底来干什么的？"
+          },
+          {
+            "stringId": "2251884210183290880",
+            "femaleVariant": "这边，我说过了。"
+          },
+          {
+            "stringId": "2251903763810435080",
+            "femaleVariant": "你别让我等你，快点儿。"
+          }
+        ]
+      }
+
+
+

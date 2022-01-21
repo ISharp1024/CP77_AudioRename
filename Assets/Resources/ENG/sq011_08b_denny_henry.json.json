@@ -1,0 +1,560 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1553758969863561216",
+            "femaleVariant": "Get the fuck out!"
+          },
+          {
+            "stringId": "1553759349750063104",
+            "femaleVariant": "This your backup?"
+          },
+          {
+            "stringId": "1553760656527417344",
+            "femaleVariant": "What, now, already? No grand tour?"
+          },
+          {
+            "stringId": "1553760814736564224",
+            "femaleVariant": "Introduce me to the fam?"
+          },
+          {
+            "stringId": "1553762226186969088",
+            "femaleVariant": "'Case you forgot why the hell you came here in the first place?"
+          },
+          {
+            "stringId": "1553762314267353088",
+            "femaleVariant": "Kerry sent me. About the concert.",
+            "maleVariant": "Kerry sent me. It's about the concert."
+          },
+          {
+            "stringId": "1553763123231154176",
+            "femaleVariant": "That's what he wants to get the crew together for?"
+          },
+          {
+            "stringId": "1553763785478201344",
+            "femaleVariant": "Sweet, but no fucking way. Not about to play with this shitstain."
+          },
+          {
+            "stringId": "1553770449975599104",
+            "femaleVariant": "How's it goin'?"
+          },
+          {
+            "stringId": "1554894796127690752",
+            "femaleVariant": "You fucking gonked?!"
+          },
+          {
+            "stringId": "1554899916064251904",
+            "femaleVariant": "Denny? What?! What're you doing here?"
+          },
+          {
+            "stringId": "1554900337424031744",
+            "femaleVariant": "This is really your house?"
+          },
+          {
+            "stringId": "1798769185846419456",
+            "femaleVariant": "This is your fucking pool?!"
+          },
+          {
+            "stringId": "1798769422388387840",
+            "femaleVariant": "You're gonna pay for this, you piece of shit!"
+          },
+          {
+            "stringId": "1798769565279936512",
+            "femaleVariant": "You bet I will! Just so I can come back again!"
+          },
+          {
+            "stringId": "1798772499027812352",
+            "femaleVariant": "Hoo boy."
+          },
+          {
+            "stringId": "1798773281919819776",
+            "femaleVariant": "Sounds sadly familiar."
+          },
+          {
+            "stringId": "1798777070114529280",
+            "femaleVariant": "Go anywhere near them and you're dead."
+          },
+          {
+            "stringId": "1798785257530155008",
+            "femaleVariant": "What concert? Why isn't he here talkin' to me?"
+          },
+          {
+            "stringId": "1798786809120645120",
+            "femaleVariant": "We're bringin' back Samurai – one night only."
+          },
+          {
+            "stringId": "1798790789699690496",
+            "femaleVariant": "Denny..."
+          },
+          {
+            "stringId": "1798794888608440320",
+            "femaleVariant": "Denny digs in her heels, we're done."
+          },
+          {
+            "stringId": "1798800976321929216",
+            "femaleVariant": "Like shit, man. Denny wants me outta the gig."
+          },
+          {
+            "stringId": "1798801918060617728",
+            "femaleVariant": "An' we already agreed on everything."
+          },
+          {
+            "stringId": "1798802395087200256",
+            "femaleVariant": "What, Kerry's payin' you? That's what this is about?"
+          },
+          {
+            "stringId": "1798803106424381440",
+            "femaleVariant": "Fuck, this's all fuckin' great. So you get him away from me and get the fuck off my lawn!"
+          },
+          {
+            "stringId": "1798816002919325696",
+            "femaleVariant": "Don't make me choose."
+          },
+          {
+            "stringId": "1798817209436037124",
+            "femaleVariant": "Let's play with Denny."
+          },
+          {
+            "stringId": "1798818818572378112",
+            "femaleVariant": "Rather jam with Henry."
+          },
+          {
+            "stringId": "1798819015721443332",
+            "femaleVariant": "Actually, it's your decision."
+          },
+          {
+            "stringId": "1798819603511205888",
+            "femaleVariant": "Pretty sure it's your call."
+          },
+          {
+            "stringId": "1798821214040055808",
+            "femaleVariant": "Fuck. Really pisses me off Denny's on a control kick, settin' conditions."
+          },
+          {
+            "stringId": "1798821520509460480",
+            "femaleVariant": "On the other hand, Henry's got scop for brains. Can't trust him."
+          },
+          {
+            "stringId": "1798822412470149120",
+            "femaleVariant": "Looks like we'll be missing one person."
+          },
+          {
+            "stringId": "1798823033260695552",
+            "femaleVariant": "Gotta go without one or the other."
+          },
+          {
+            "stringId": "1798824733564428288",
+            "femaleVariant": "Not a problem – should be able to borrow someone else for one gig."
+          },
+          {
+            "stringId": "1798825314039324672",
+            "femaleVariant": "Won't be the same, though."
+          },
+          {
+            "stringId": "1798825412454473728",
+            "femaleVariant": "It won't ever be the same, Kerry."
+          },
+          {
+            "stringId": "1798826500507262980",
+            "femaleVariant": "Well? What's the plan?"
+          },
+          {
+            "stringId": "1798826500524040196",
+            "femaleVariant": "'Bout to run completely outta patience."
+          },
+          {
+            "stringId": "1798829136140787712",
+            "femaleVariant": "If we gotta choose, let's play with Denny."
+          },
+          {
+            "stringId": "1798831645659979776",
+            "femaleVariant": "Fuck, Kerry! Seriously? She's the one makin' a big deal outta this, not me."
+          },
+          {
+            "stringId": "1798831888090750976",
+            "femaleVariant": "Listen, I'll get you--"
+          },
+          {
+            "stringId": "1798832204626485248",
+            "femaleVariant": "Y'know what, Kerry? Fuck you. Good thing Silverhand isn't here to see this."
+          },
+          {
+            "stringId": "1798832373002625024",
+            "femaleVariant": "You done? Get out."
+          },
+          {
+            "stringId": "1798840030778318848",
+            "femaleVariant": "All right. What about Nancy?"
+          },
+          {
+            "stringId": "1798840296680415232",
+            "femaleVariant": "We've made contact. She's gonna set it all up, let us know."
+          },
+          {
+            "stringId": "1798841995121876992",
+            "femaleVariant": "Fuck. Now I gotta find someone to clean this up..."
+          },
+          {
+            "stringId": "1798850257179336704",
+            "femaleVariant": "See you at the show."
+          },
+          {
+            "stringId": "1798854263645626372",
+            "femaleVariant": "Rather jam with Henry."
+          },
+          {
+            "stringId": "1798854263662403584",
+            "femaleVariant": "I got exactly no problem with Denny joining us."
+          },
+          {
+            "stringId": "1798854263662403592",
+            "femaleVariant": "Shoulda thought of that sooner."
+          },
+          {
+            "stringId": "1798856210540879876",
+            "femaleVariant": "What about Nance? She on board?"
+          },
+          {
+            "stringId": "1798856210540879884",
+            "femaleVariant": "Yep. Putting it all together. She'll give us a holler when it's all set."
+          },
+          {
+            "stringId": "1798856210557657092",
+            "femaleVariant": "Nancy takin' care of business. Just like old times."
+          },
+          {
+            "stringId": "1798856210557657100",
+            "femaleVariant": "Hop in, I'll give you a ride."
+          },
+          {
+            "stringId": "1798856442519445504",
+            "femaleVariant": "Now get the fuck out of my sight – all o' you."
+          },
+          {
+            "stringId": "1798861841930870784",
+            "femaleVariant": "OK. About all we can do for now."
+          },
+          {
+            "stringId": "1798862239785771008",
+            "femaleVariant": "Except wait for Nancy to call."
+          },
+          {
+            "stringId": "1807496067181928448",
+            "femaleVariant": "V! Uh, good you're here. We got a problem."
+          },
+          {
+            "stringId": "1807496966960799748",
+            "femaleVariant": "This Henry's surprise?"
+          },
+          {
+            "stringId": "1807497661772423168",
+            "femaleVariant": "This supposed to be Henry's surprise?"
+          },
+          {
+            "stringId": "1807498118649569280",
+            "femaleVariant": "Yeah, I obviously missed a few beats. Looks like he was holdin' some sort of grudge."
+          },
+          {
+            "stringId": "1807498925231005696",
+            "femaleVariant": "So he flooded the pool with concrete?"
+          },
+          {
+            "stringId": "1807499659586527232",
+            "femaleVariant": "Henry did often get emotional."
+          },
+          {
+            "stringId": "1807501413090811904",
+            "femaleVariant": "V, talk to them. Kerry'll just make it worse."
+          },
+          {
+            "stringId": "1808338756089634816",
+            "femaleVariant": "Everything OK?"
+          },
+          {
+            "stringId": "1808343722162348032",
+            "femaleVariant": "Everything OK?"
+          },
+          {
+            "stringId": "1808344415011037184",
+            "femaleVariant": "No. Just the sight of that douchewad reminded me how not OK it is."
+          },
+          {
+            "stringId": "1808344823284588544",
+            "femaleVariant": "Don't worry, though. I'll be past it by showtime."
+          },
+          {
+            "stringId": "1808351386665705472",
+            "femaleVariant": "Wonder what Henry did to her."
+          },
+          {
+            "stringId": "1808353053566001152",
+            "femaleVariant": "Sorry it ended that way."
+          },
+          {
+            "stringId": "1808353057055662084",
+            "femaleVariant": "Sorry it played out like that."
+          },
+          {
+            "stringId": "1808353060125892608",
+            "femaleVariant": "Fuck. I got no idea who you are or why you stepped into all this."
+          },
+          {
+            "stringId": "1808353063162568704",
+            "femaleVariant": "So save your breath and go, OK?"
+          },
+          {
+            "stringId": "1808353071450513412",
+            "femaleVariant": "Wonder what Henry did to her."
+          },
+          {
+            "stringId": "1808405159790469120",
+            "femaleVariant": "What happened here?"
+          },
+          {
+            "stringId": "1808405979860787200",
+            "femaleVariant": "She musta been renovatin', Henry musta borrowed the truck."
+          },
+          {
+            "stringId": "1837132776091701252",
+            "femaleVariant": "Know what happened between them?"
+          },
+          {
+            "stringId": "1837132880546648064",
+            "femaleVariant": "Know what happened between them?"
+          },
+          {
+            "stringId": "1837141194999353344",
+            "femaleVariant": "What about the concert?"
+          },
+          {
+            "stringId": "1837142992610938880",
+            "femaleVariant": "What about the concert?"
+          },
+          {
+            "stringId": "1837146370787266560",
+            "femaleVariant": "From what I've come to understand, one day Denny disappeared without a word, then hid from Henry."
+          },
+          {
+            "stringId": "1837150234764660736",
+            "femaleVariant": "I imagine that wasn't too hard in his state of mind, either out of it or in rehab."
+          },
+          {
+            "stringId": "1837151877975527424",
+            "femaleVariant": "Yep. That is, till I gave Henry her address."
+          },
+          {
+            "stringId": "1837154473243070464",
+            "femaleVariant": "Haven't gotten a chance to ask Denny yet. Doesn't look good, though."
+          },
+          {
+            "stringId": "1837156577038848000",
+            "femaleVariant": "Not really my biz..."
+          },
+          {
+            "stringId": "1837156879330725888",
+            "femaleVariant": "Go, go. They'll get past it in a sec."
+          },
+          {
+            "stringId": "1837158165539213312",
+            "femaleVariant": "Kerry didn't piss all over himself outta joy when he saw me, either."
+          },
+          {
+            "stringId": "1837166114550599680",
+            "femaleVariant": "Maybe then you'll tell me why the hell you left me to die in the street!"
+          },
+          {
+            "stringId": "1837167187889770496",
+            "femaleVariant": "Left you to die!?"
+          },
+          {
+            "stringId": "1837168938374156288",
+            "femaleVariant": "Ugh, I wish you would fuckin' die!"
+          },
+          {
+            "stringId": "1837172618053832704",
+            "femaleVariant": "I kid you not. I'ma whack your fuckin' head off."
+          },
+          {
+            "stringId": "1837181186144489472",
+            "femaleVariant": "Oh, what, they don't know?"
+          },
+          {
+            "stringId": "1837181719693512704",
+            "femaleVariant": "Don't know what? That I lost years of my life to a scopbag like you?"
+          },
+          {
+            "stringId": "1837182223144210432",
+            "femaleVariant": "Yeah? Fuck – that how you remember it?"
+          },
+          {
+            "stringId": "1837182953674526720",
+            "femaleVariant": "Remember a helluva lot more than you."
+          },
+          {
+            "stringId": "1837190169236361220",
+            "femaleVariant": "Samurai – we're reuniting it."
+          },
+          {
+            "stringId": "1837191434674655232",
+            "femaleVariant": "Kerry felt awkward about comin'."
+          },
+          {
+            "stringId": "1837191952083996672",
+            "femaleVariant": "Look, it's awkward. Kerry considers you both friends."
+          },
+          {
+            "stringId": "1837195400623968256",
+            "femaleVariant": "What a sensitive guy, shit."
+          },
+          {
+            "stringId": "1837195635270111232",
+            "femaleVariant": "Given he's the one who set this flaming turdbag on my doorstep."
+          },
+          {
+            "stringId": "1837206032748400640",
+            "femaleVariant": "No, no way. Either him or me – choose."
+          },
+          {
+            "stringId": "1837367087260782596",
+            "femaleVariant": "Maybe if I knew the story…"
+          },
+          {
+            "stringId": "1837368304967897088",
+            "femaleVariant": "Maybe if someone'd tell me what happened…"
+          },
+          {
+            "stringId": "1837376527531790336",
+            "femaleVariant": "Thanks, real helpful."
+          },
+          {
+            "stringId": "1837388562348920832",
+            "femaleVariant": "Are you blind? Fucker filled my pool with cement."
+          },
+          {
+            "stringId": "1837390015910137856",
+            "femaleVariant": "Maybe he had a good reason?",
+            "maleVariant": "Maybe he had a good reason."
+          },
+          {
+            "stringId": "1837393087885496320",
+            "femaleVariant": "Really? A reason?"
+          },
+          {
+            "stringId": "1837402890158493696",
+            "femaleVariant": "The fuck you do this to her pool for?"
+          },
+          {
+            "stringId": "1837403045247078400",
+            "femaleVariant": "You outta your fuckin' mind with the pool?"
+          },
+          {
+            "stringId": "1837411822599950336",
+            "femaleVariant": "You knew Kerry wanted to get Denny to play with us."
+          },
+          {
+            "stringId": "1837413840278278144",
+            "femaleVariant": "Just wanted to clear the air."
+          },
+          {
+            "stringId": "1837419138808303616",
+            "femaleVariant": "Fuckin' preem."
+          },
+          {
+            "stringId": "1837456943177551872",
+            "femaleVariant": "So his fault after all?"
+          },
+          {
+            "stringId": "1837457757879160832",
+            "femaleVariant": "Well, normally Denny's not a raging bitch."
+          },
+          {
+            "stringId": "1837458831755202560",
+            "femaleVariant": "Well, pretty sure she knew Henry wanted this concert."
+          },
+          {
+            "stringId": "1837460177304702976",
+            "femaleVariant": "Mhm. Doubt she really gave a fuck about the pool."
+          },
+          {
+            "stringId": "1837505273387569152",
+            "femaleVariant": "Think Denny had a good reason to turn dramamonger?"
+          },
+          {
+            "stringId": "1837505831615877120",
+            "femaleVariant": "She's not such a raging bitch normally, so…"
+          },
+          {
+            "stringId": "1837506143923752960",
+            "femaleVariant": "Doubt it was about the concrete in the pool. Actually kinda funny, that."
+          },
+          {
+            "stringId": "1837509878565588992",
+            "femaleVariant": "Gonk always was good at improvising."
+          },
+          {
+            "stringId": "1957818215043055616",
+            "femaleVariant": "See those?"
+          },
+          {
+            "stringId": "1957828086505291776",
+            "femaleVariant": "Maybe they're home – try the intercom."
+          },
+          {
+            "stringId": "1957848798683086848",
+            "femaleVariant": "Right, then. Guess we keep looking."
+          },
+          {
+            "stringId": "1957862702280753152",
+            "femaleVariant": "See Kerry beat us here."
+          },
+          {
+            "stringId": "1979334061040881664",
+            "femaleVariant": "Why'm I even standin' here talkin' to you?"
+          },
+          {
+            "stringId": "2084069799602569220",
+            "femaleVariant": "I'm sorry."
+          },
+          {
+            "stringId": "2251714277033984000",
+            "femaleVariant": "Well? Gonna say somethin'?"
+          },
+          {
+            "stringId": "2251715439493726212",
+            "femaleVariant": "Why the fuck you just standin' there, halfwit?"
+          },
+          {
+            "stringId": "2251715610000572420",
+            "femaleVariant": "Some fuckin' day this is. This gonna take much longer?"
+          },
+          {
+            "stringId": "2251781854217191424",
+            "femaleVariant": "What are we doing?"
+          },
+          {
+            "stringId": "2251783201494745096",
+            "femaleVariant": "So? It's either Henry or me, can't be both."
+          },
+          {
+            "stringId": "2251790002642567168",
+            "femaleVariant": "V? Help me out with this, please?"
+          }
+        ]
+      }
+
+
+

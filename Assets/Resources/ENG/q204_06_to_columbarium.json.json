@@ -1,0 +1,375 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1306592593676619792",
+            "femaleVariant": "All right. Let's roll."
+          },
+          {
+            "stringId": "1306596955182354432",
+            "femaleVariant": "My dad says there's gonna be another corp war. Liable to jump at each other's throats any day now."
+          },
+          {
+            "stringId": "1306604025017290772",
+            "femaleVariant": "Nah, there won't be another war."
+          },
+          {
+            "stringId": "1306605983539154944",
+            "femaleVariant": "I have no idea."
+          },
+          {
+            "stringId": "1306606769115516928",
+            "femaleVariant": "Won't be another war, don't worry. Arasaka's a lot weaker than they let on."
+          },
+          {
+            "stringId": "1306607026159243264",
+            "femaleVariant": "Askin' the wrong guy. Got no interest in the topic. Couldn't care less, to be honest."
+          },
+          {
+            "stringId": "1315740078154932224",
+            "femaleVariant": "Sure thing. Where to?"
+          },
+          {
+            "stringId": "1315740524261105664",
+            "femaleVariant": "The cemetery."
+          },
+          {
+            "stringId": "1315740729362571264",
+            "femaleVariant": "You got it."
+          },
+          {
+            "stringId": "1315755141075001344",
+            "femaleVariant": "That was Perilous Futur for you this fine afternoon."
+          },
+          {
+            "stringId": "1315756886777880576",
+            "femaleVariant": "And speaking of perilous times, this just in – Arasaka Corp has broken off negotiations with rival Militech."
+          },
+          {
+            "stringId": "1315760779209433088",
+            "femaleVariant": "Arasaka got hit financially on that, yes it did. Still, that was nothing compared to the PR lambasting \"Secure Your Soul\" took. Media turned that program into a scandal smorgasbord!"
+          },
+          {
+            "stringId": "1315763332450050048",
+            "femaleVariant": "Think it's true? Think there'll be another war?"
+          },
+          {
+            "stringId": "1315770269895974912",
+            "femaleVariant": "Me too. They squeeze you till your eyeballs pop, but it's never enough. They gotta rip each others' spines out, too."
+          },
+          {
+            "stringId": "1315778445131341824",
+            "femaleVariant": "Know why?"
+          },
+          {
+            "stringId": "1315778613104828416",
+            "femaleVariant": "Why?"
+          },
+          {
+            "stringId": "1315778708936286208",
+            "femaleVariant": "'Cause I realized I don't have to."
+          },
+          {
+            "stringId": "1315781805037281280",
+            "femaleVariant": "'Cause I don't want there to be another war."
+          },
+          {
+            "stringId": "1315795029375803392",
+            "femaleVariant": "Unless my dad gets drafted and sent off to fight. That'd be OK."
+          },
+          {
+            "stringId": "1315795062007488512",
+            "femaleVariant": "Wars're gonk. They're stupid."
+          },
+          {
+            "stringId": "1319806003434971136",
+            "femaleVariant": "Whoa! I didn't know you had a gun... Hella preem. My dad used to sell ones like those."
+          },
+          {
+            "stringId": "1319807838107426816",
+            "femaleVariant": "Not without a reason."
+          },
+          {
+            "stringId": "1319857034457997312",
+            "femaleVariant": "It's a memento."
+          },
+          {
+            "stringId": "1319881814020153344",
+            "femaleVariant": "Nah. It's just a keepsake."
+          },
+          {
+            "stringId": "1319894456105394176",
+            "femaleVariant": "Don't do that anymore. Not unless somebody gives me a reason to."
+          },
+          {
+            "stringId": "1319898519966539776",
+            "femaleVariant": "Um... belonged to someone important, right?"
+          },
+          {
+            "stringId": "1319898684668469248",
+            "femaleVariant": "Mhh... Important doesn't even come close."
+          },
+          {
+            "stringId": "1319963666634465280",
+            "femaleVariant": "Was a time I thought life was cheap. Meant next to nothing to me."
+          },
+          {
+            "stringId": "1319964109569744896",
+            "femaleVariant": "Thought that about my life... but especially the lives of others."
+          },
+          {
+            "stringId": "1319964724521820160",
+            "femaleVariant": "What're you gonna do with it?"
+          },
+          {
+            "stringId": "1319964724538597376",
+            "femaleVariant": "Put it back where it belongs."
+          },
+          {
+            "stringId": "1319985180008210432",
+            "femaleVariant": "Anymore...?"
+          },
+          {
+            "stringId": "1324194862440603648",
+            "femaleVariant": "He'd have some drill sergeant or someone above 'im – maybe bring him in line."
+          },
+          {
+            "stringId": "1678066081898414080",
+            "femaleVariant": "Can I come with?"
+          },
+          {
+            "stringId": "1678117113860964352",
+            "femaleVariant": "No, wait here, OK? Won't be long."
+          },
+          {
+            "stringId": "1695620305884241920",
+            "femaleVariant": "OK."
+          },
+          {
+            "stringId": "1695625530175086592",
+            "femaleVariant": "\"All possible peaceful means of resolving the conflict have been exhausted.\""
+          },
+          {
+            "stringId": "1695627438080090112",
+            "femaleVariant": "That's right, boys and girls. We have it from anonymous sources that Yorinobu Arasaka said today, and I quote:"
+          },
+          {
+            "stringId": "1695631235149946880",
+            "femaleVariant": "I hate the corps."
+          },
+          {
+            "stringId": "1723017670488186880",
+            "femaleVariant": "You gonna shoot someone?"
+          },
+          {
+            "stringId": "1725928290669780992",
+            "femaleVariant": "Now, if you've been tuning in on the regular – and I'm sure you have! – you're sure to remember that a small crew of daredemons who blasted their way through Arasaka Tower a few months back."
+          },
+          {
+            "stringId": "1730255380177182720",
+            "femaleVariant": "Got a friend who lives around here."
+          },
+          {
+            "stringId": "1730258487653130240",
+            "femaleVariant": "Where?"
+          },
+          {
+            "stringId": "1730258580783456256",
+            "femaleVariant": "Can't see it from here. Just sayin'."
+          },
+          {
+            "stringId": "1730261268040474624",
+            "femaleVariant": "He a good friend of yours?"
+          },
+          {
+            "stringId": "1730261493710807040",
+            "femaleVariant": "Invited me over to his house once."
+          },
+          {
+            "stringId": "1730262871724220416",
+            "femaleVariant": "His mom made lunch. Then we went an' hung out on the bridge."
+          },
+          {
+            "stringId": "1730268947274227712",
+            "femaleVariant": "I like drivin' through here. It's nice."
+          },
+          {
+            "stringId": "1730287627680833536",
+            "femaleVariant": "Know what, you're right. It is nice out here.",
+            "maleVariant": "You know what, you're right. It is nice out here."
+          },
+          {
+            "stringId": "1730287656202100736",
+            "femaleVariant": "City looks... alive."
+          },
+          {
+            "stringId": "1730296529889746944",
+            "femaleVariant": "Never been out this way?"
+          },
+          {
+            "stringId": "1730296696000962560",
+            "femaleVariant": "No, I have. Just never noticed."
+          },
+          {
+            "stringId": "1730297565060751360",
+            "femaleVariant": "City slipped through my fingers. Just sped right by."
+          },
+          {
+            "stringId": "1730298136626946048",
+            "femaleVariant": "Never had time to just sit down and watch…"
+          },
+          {
+            "stringId": "1730300930184404992",
+            "femaleVariant": "Nice pendant."
+          },
+          {
+            "stringId": "1730300930184405008",
+            "femaleVariant": "Looks good on you."
+          },
+          {
+            "stringId": "1730300930234736640",
+            "femaleVariant": "It's not mine."
+          },
+          {
+            "stringId": "1730300930234736656",
+            "femaleVariant": "It's a keepsake."
+          },
+          {
+            "stringId": "1730300931073597440",
+            "femaleVariant": "Not actually mine."
+          },
+          {
+            "stringId": "1730300931073597456",
+            "femaleVariant": "So whose is it?"
+          },
+          {
+            "stringId": "1730300931073597472",
+            "femaleVariant": "Belonged to a woman I knew... crazy as fuck.",
+            "maleVariant": "Belonged to a guy I knew... crazy as fuck."
+          },
+          {
+            "stringId": "1730300931090374660",
+            "femaleVariant": "And now I'm here... in her place.",
+            "maleVariant": "And now I'm here... in his place."
+          },
+          {
+            "stringId": "1730300931107151872",
+            "femaleVariant": "Just a keepsake."
+          },
+          {
+            "stringId": "1730300931123929100",
+            "femaleVariant": "Oh, uh... belonged to someone important?"
+          },
+          {
+            "stringId": "1730300931123929116",
+            "femaleVariant": "Yeah. Someone really important."
+          },
+          {
+            "stringId": "1730300931157483520",
+            "femaleVariant": "What're you gonna do with it?"
+          },
+          {
+            "stringId": "1730300931157483536",
+            "femaleVariant": "Put it back where it belongs."
+          },
+          {
+            "stringId": "1730307983728664576",
+            "femaleVariant": "She dead?",
+            "maleVariant": "He dead?"
+          },
+          {
+            "stringId": "1730308090549198848",
+            "femaleVariant": "Mhh. This piece of lead killed her.",
+            "maleVariant": "Mhh. This piece of lead killed him."
+          },
+          {
+            "stringId": "1730315530086866944",
+            "femaleVariant": "Passed under foot, over head, and I can't even say when it happened."
+          },
+          {
+            "stringId": "1730318307705970688",
+            "femaleVariant": "Um, 'cause everyone's out walkin' around?"
+          },
+          {
+            "stringId": "1730319162253467648",
+            "femaleVariant": "Not what I mean."
+          },
+          {
+            "stringId": "1730320283877466112",
+            "femaleVariant": "It's like we created a monster, and never even noticed when it started to eat us alive."
+          },
+          {
+            "stringId": "1730327073365123072",
+            "femaleVariant": "Gonna write a song about it?"
+          },
+          {
+            "stringId": "1730327767975419904",
+            "femaleVariant": "Maybe."
+          },
+          {
+            "stringId": "1730330836360454144",
+            "femaleVariant": "Hah. Like Frankenstein?"
+          },
+          {
+            "stringId": "1730331496040587264",
+            "femaleVariant": "Frankenstein's monster, you mean."
+          },
+          {
+            "stringId": "1730334243393593344",
+            "femaleVariant": "That it is. Real nice."
+          },
+          {
+            "stringId": "1730334524713951232",
+            "femaleVariant": "The city's like a living thing."
+          },
+          {
+            "stringId": "1804046445232324612",
+            "femaleVariant": "[Put guitar in car]"
+          },
+          {
+            "stringId": "1872277745848508416",
+            "femaleVariant": "You remember all that, now, don'tcha?"
+          },
+          {
+            "stringId": "1872278182626549760",
+            "femaleVariant": "Ooh, corp faced some nasty accusations – psyche abduction, torture of human engrams. Most tasteless of all, though – \"playing God.\" Ugh."
+          },
+          {
+            "stringId": "1872280176112132096",
+            "femaleVariant": "So, whadda we make of this tussle with Militech that could always turn hot? Experts're callin' it a smokescreen to take the edge off Arasaka's true troubles."
+          },
+          {
+            "stringId": "1872280681391546368",
+            "femaleVariant": "How d'ya like that? Think the Japanese kyojin can survive this bout?"
+          },
+          {
+            "stringId": "2027344929925169156",
+            "femaleVariant": "[Turn off]"
+          },
+          {
+            "stringId": "2028943422464786436",
+            "femaleVariant": "[Get out] Wait here."
+          },
+          {
+            "stringId": "2301321051489656832",
+            "femaleVariant": "Oh, it was just like back in Silverhand's day!"
+          }
+        ]
+      }
+
+
+

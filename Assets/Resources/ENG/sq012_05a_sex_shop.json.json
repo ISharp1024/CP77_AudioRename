@@ -1,0 +1,413 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1699481196188782592",
+            "femaleVariant": "He's your CI. Doesn't know me.",
+            "maleVariant": "He's your CI. He doesn't know me."
+          },
+          {
+            "stringId": "1699481573927800836",
+            "femaleVariant": "OK."
+          },
+          {
+            "stringId": "1699557581964038144",
+            "femaleVariant": "Well, uh... last we met, it didn't go so well. For him."
+          },
+          {
+            "stringId": "1699562282973515776",
+            "femaleVariant": "People he ratted out got wind of it."
+          },
+          {
+            "stringId": "1699562983975931904",
+            "femaleVariant": "I think you got a better chance of gettin' him to talk without me. At least, voluntarily."
+          },
+          {
+            "stringId": "1699654078806216704",
+            "femaleVariant": "You lookin' for, uh, general inspiration, or somethin' specific?"
+          },
+          {
+            "stringId": "1699654281206550528",
+            "femaleVariant": "Igor says hi."
+          },
+          {
+            "stringId": "1699657270403125252",
+            "femaleVariant": "[Lean down] Igor sent me."
+          },
+          {
+            "stringId": "1699658060911988736",
+            "femaleVariant": "Fuck, no! Said I was done, I was out!"
+          },
+          {
+            "stringId": "1699658535824642048",
+            "femaleVariant": "Leave me the fuck alone – all of you!"
+          },
+          {
+            "stringId": "1699667659912237056",
+            "femaleVariant": "Fuuuuuck…"
+          },
+          {
+            "stringId": "1699669092199944192",
+            "femaleVariant": "Heeey, Neil."
+          },
+          {
+            "stringId": "1699669259787554816",
+            "femaleVariant": "Piss off."
+          },
+          {
+            "stringId": "1699669447222611968",
+            "femaleVariant": "Relax. Just got one question to ask you."
+          },
+          {
+            "stringId": "1699687461405970432",
+            "femaleVariant": "Fingers? I'll break limbs that'll make you forget all about those fingers."
+          },
+          {
+            "stringId": "1699687908367781888",
+            "femaleVariant": "Start with your shins. Any idea how much that hurts?"
+          },
+          {
+            "stringId": "1699691151571406852",
+            "femaleVariant": "I'll make sure nothing happens to you."
+          },
+          {
+            "stringId": "1751451388271513600",
+            "femaleVariant": "Wasn't here then. Now I am. I'll make sure nothing happens to you.",
+            "maleVariant": "Wasn't here then. Now I am. I'll make sure nothin' happens to ya."
+          },
+          {
+            "stringId": "1751452517294264324",
+            "femaleVariant": "Nobody'll find out you helped us."
+          },
+          {
+            "stringId": "1751453082468339712",
+            "femaleVariant": "We can. And we will."
+          },
+          {
+            "stringId": "1751453971979554816",
+            "femaleVariant": "We can, actually. And we will."
+          },
+          {
+            "stringId": "1751454738731880448",
+            "femaleVariant": "Just tell us where to find Red Queen's Race."
+          },
+          {
+            "stringId": "1811424540472496128",
+            "femaleVariant": "Well, well. That's what I call a breakthrough."
+          },
+          {
+            "stringId": "1811427883081125888",
+            "femaleVariant": "Comin' with?"
+          },
+          {
+            "stringId": "1811428710533419012",
+            "femaleVariant": "Sure."
+          },
+          {
+            "stringId": "1811429181872525312",
+            "femaleVariant": "Let's meet there."
+          },
+          {
+            "stringId": "1811429911916302336",
+            "femaleVariant": "Seems promising. But I'd still hit that market."
+          },
+          {
+            "stringId": "1811430647110684672",
+            "femaleVariant": "All right. Let's check it out."
+          },
+          {
+            "stringId": "1811431078654234624",
+            "femaleVariant": "Let's just go to the club."
+          },
+          {
+            "stringId": "1811431432552828928",
+            "femaleVariant": "Sure."
+          },
+          {
+            "stringId": "1811431432552828944",
+            "femaleVariant": "Let's meet there."
+          },
+          {
+            "stringId": "1811433038954483712",
+            "femaleVariant": "OK. Let's go see this market of yours."
+          },
+          {
+            "stringId": "1865035772114620416",
+            "femaleVariant": "Shit, shit, shit!"
+          },
+          {
+            "stringId": "1935615461327331328",
+            "femaleVariant": "My guy works here."
+          },
+          {
+            "stringId": "1935617538766102528",
+            "femaleVariant": "You go talk to him. I'll wait outside."
+          },
+          {
+            "stringId": "1935618742497796096",
+            "femaleVariant": "He doesn't know me."
+          },
+          {
+            "stringId": "1935627487571304448",
+            "femaleVariant": "Tell him Igor says hi. He'll know what it's about."
+          },
+          {
+            "stringId": "1935628198136733696",
+            "femaleVariant": "All right. Wait here, then."
+          },
+          {
+            "stringId": "1935646441731743744",
+            "femaleVariant": "Mind tellin' me a bit more about him?"
+          },
+          {
+            "stringId": "1935647013633482752",
+            "femaleVariant": "Who is this guy?"
+          },
+          {
+            "stringId": "1935655137396350976",
+            "femaleVariant": "The proud proprietor. He's got all sorts of clients and he's nosy as hell. So he knows all about everyone."
+          },
+          {
+            "stringId": "1935658274819629056",
+            "femaleVariant": "Plus, he's a coward. Perfect combo."
+          },
+          {
+            "stringId": "1935714629387509760",
+            "femaleVariant": "'Cause I can help with both."
+          },
+          {
+            "stringId": "1935720251097047040",
+            "femaleVariant": "Red Queen's Race – where is it?"
+          },
+          {
+            "stringId": "1935722063657132032",
+            "femaleVariant": "Lookin' for a club. Red Queen's Race?"
+          },
+          {
+            "stringId": "1935738410973749248",
+            "femaleVariant": "If I was you, I'd try somewhere a little more... welcoming. Lizzie's over in Kabuki is a good start. Or Clouds in Japantown."
+          },
+          {
+            "stringId": "1935746925226319872",
+            "femaleVariant": "Want an address."
+          },
+          {
+            "stringId": "1935750141871611904",
+            "femaleVariant": "Look, club's invitation-only, right? You don't know the address, means you're not welcome."
+          },
+          {
+            "stringId": "1935752185990832128",
+            "femaleVariant": "Goddammit!"
+          },
+          {
+            "stringId": "1935788344599076864",
+            "femaleVariant": "Lemme alone, got it? Can't make me do a damn thing."
+          },
+          {
+            "stringId": "1935814504255021056",
+            "femaleVariant": "I'll break more than your fingers."
+          },
+          {
+            "stringId": "1935858848265625600",
+            "femaleVariant": "Red Queen's Race. Give us the address, we're gone."
+          },
+          {
+            "stringId": "1935859794517385216",
+            "femaleVariant": "Heard that already last time. Then those motherfuckers showed, broke all my fingers."
+          },
+          {
+            "stringId": "1935870494019117056",
+            "femaleVariant": "I dunno!"
+          },
+          {
+            "stringId": "1935880828297633796",
+            "femaleVariant": "[Hit him] So remember."
+          },
+          {
+            "stringId": "1935895652293369856",
+            "femaleVariant": "You're lying."
+          },
+          {
+            "stringId": "1935911745753931776",
+            "femaleVariant": "Anyone asks, we'll say we got the address off a body we fished out of the bay."
+          },
+          {
+            "stringId": "1935912163036848128",
+            "femaleVariant": "It's outside city limits, near the river. Bonita Street area."
+          },
+          {
+            "stringId": "1935926665295912964",
+            "femaleVariant": "And this'll truly be the last time Detective Ward'll visit you.",
+            "maleVariant": "And this'll truly be the last time Detective Ward will visit you."
+          },
+          {
+            "stringId": "1935926670916280320",
+            "femaleVariant": "Isn't that right, Detective?"
+          },
+          {
+            "stringId": "1935926675999776768",
+            "femaleVariant": "Right – an' I swear it on the spirits of my ancestors. All we want is the coords for Red Queen's Race."
+          },
+          {
+            "stringId": "1935928729816227840",
+            "femaleVariant": "Two of us, one of you. Better talk."
+          },
+          {
+            "stringId": "1935928795046043648",
+            "femaleVariant": "So fuckin' remember."
+          },
+          {
+            "stringId": "1935929217311793152",
+            "femaleVariant": "You're lyin'. When I asked inside, you knew exactly what I was talking about."
+          },
+          {
+            "stringId": "1935982680527822848",
+            "femaleVariant": "All right! Jeeeesus. Chill, OK?"
+          },
+          {
+            "stringId": "1935990284935192576",
+            "femaleVariant": "And make it quick."
+          },
+          {
+            "stringId": "1935992409819930624",
+            "femaleVariant": "OK, OK, I'll tell you. But come here again and I'll fuckin' lodge an official complaint."
+          },
+          {
+            "stringId": "1935993061379891200",
+            "femaleVariant": "This's some goddamn harassment right here."
+          },
+          {
+            "stringId": "1935996064853876736",
+            "femaleVariant": "Ughhh... Fine."
+          },
+          {
+            "stringId": "1936066879419015168",
+            "femaleVariant": "Gimme the address, we'll leave you alone."
+          },
+          {
+            "stringId": "1936085227804516352",
+            "femaleVariant": "Rest assured. Nobody'll find out you talked to us."
+          },
+          {
+            "stringId": "1936097413348155392",
+            "femaleVariant": "All right... but this is the last time, for real."
+          },
+          {
+            "stringId": "1936100735522136064",
+            "femaleVariant": "You work retail, right? So you should be able to count to two."
+          },
+          {
+            "stringId": "1936107656123736064",
+            "femaleVariant": "Two of us, one of you."
+          },
+          {
+            "stringId": "1936109373087244288",
+            "femaleVariant": "Tell us what we wanna know, you won't need to learn what it feels like not to have the upper hand. Least not the hard way."
+          },
+          {
+            "stringId": "1936138975260139520",
+            "femaleVariant": "Not telling you another fucking thing."
+          },
+          {
+            "stringId": "1936139019702984704",
+            "femaleVariant": "Made some deliveries – goods, sometimes peeps. But got no idea why you wanna go pokin' around there."
+          },
+          {
+            "stringId": "1936139734395609088",
+            "femaleVariant": "Kiss my ass, both of you."
+          },
+          {
+            "stringId": "1936143931618844672",
+            "femaleVariant": "You been there?"
+          },
+          {
+            "stringId": "1936145467623301120",
+            "femaleVariant": "Club's empty. They shut it all down."
+          },
+          {
+            "stringId": "1936146125575380992",
+            "femaleVariant": "Shut it down? Before or after Mayor Rhyne died?"
+          },
+          {
+            "stringId": "1936147356200951808",
+            "femaleVariant": "Uhhh... Soon after, I guess."
+          },
+          {
+            "stringId": "1936147557812756480",
+            "femaleVariant": "Thanks, Neil."
+          },
+          {
+            "stringId": "1936154796829138944",
+            "femaleVariant": "Sure. Thanks."
+          },
+          {
+            "stringId": "1936154819998474240",
+            "femaleVariant": "Better meet there."
+          },
+          {
+            "stringId": "1936166521217441792",
+            "femaleVariant": "Fine with me."
+          },
+          {
+            "stringId": "1936167755752103936",
+            "femaleVariant": "Market?"
+          },
+          {
+            "stringId": "1936167926879707136",
+            "femaleVariant": "Horváth's employer, one I mentioned before. I just wouldn't let that lead drop."
+          },
+          {
+            "stringId": "1936170195243196416",
+            "femaleVariant": "I'm headed straight for Bonita Street."
+          },
+          {
+            "stringId": "1936170943809019904",
+            "femaleVariant": "Eh, let's head to the club. Seems a stronger lead to me."
+          },
+          {
+            "stringId": "1936174159196020736",
+            "femaleVariant": "We gonna take my car?"
+          },
+          {
+            "stringId": "1936183050197753856",
+            "femaleVariant": "All right... Guess I'll go with your gut."
+          },
+          {
+            "stringId": "1937205067260846080",
+            "femaleVariant": "All right, fine. Chill."
+          },
+          {
+            "stringId": "1957914902705758208",
+            "femaleVariant": "Nothin' to see here, sir."
+          },
+          {
+            "stringId": "1957915616693739520",
+            "femaleVariant": "C'mon, ghost, I said!"
+          },
+          {
+            "stringId": "2120262746814898176",
+            "femaleVariant": "[Sit and wait]"
+          },
+          {
+            "stringId": "2506862608513720320",
+            "femaleVariant": "OK, sure."
+          }
+        ]
+      }
+
+
+

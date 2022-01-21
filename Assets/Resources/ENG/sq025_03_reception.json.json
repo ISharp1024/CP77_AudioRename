@@ -1,0 +1,286 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1724034618939842560",
+            "femaleVariant": "V!"
+          },
+          {
+            "stringId": "1724128929710776324",
+            "femaleVariant": "Don't mind at all."
+          },
+          {
+            "stringId": "1724132232842616832",
+            "femaleVariant": "Sure, let's talk."
+          },
+          {
+            "stringId": "1730140176021364736",
+            "femaleVariant": "My lawyer's gonna go Datakrash on your ass! You hear me?!"
+          },
+          {
+            "stringId": "1730140763727241216",
+            "femaleVariant": "Hello, sir or madam. How can I be of service?"
+          },
+          {
+            "stringId": "1735823829657362432",
+            "femaleVariant": "I've taken the liberty of transferring a settlement to your account to compensate for the damage done."
+          },
+          {
+            "stringId": "1735825005186555904",
+            "femaleVariant": "Would you mind if we spoke elsewhere?"
+          },
+          {
+            "stringId": "1739996467527065600",
+            "femaleVariant": "Got it right here."
+          },
+          {
+            "stringId": "1739996787602792448",
+            "femaleVariant": "Why am I here, exactly?"
+          },
+          {
+            "stringId": "1739996899255164928",
+            "femaleVariant": "Wanna talk to Delamain."
+          },
+          {
+            "stringId": "1739997800376213504",
+            "femaleVariant": "Mind tellin' me why I'm here?",
+            "maleVariant": "You mind tellin' me why I'm here?"
+          },
+          {
+            "stringId": "1739997812321591296",
+            "femaleVariant": "Uhh... 77111101096."
+          },
+          {
+            "stringId": "1739997821599391744",
+            "femaleVariant": "Listen, wanna talk to Delamain.",
+            "maleVariant": "Listen, I wanna talk to Delamain."
+          },
+          {
+            "stringId": "1739998458596728832",
+            "femaleVariant": "Mrs. Elaine Pagles, what phrase would best describe your experience of incident number 77111101096?",
+            "maleVariant": "Mr. Hans Jonas, what phrase would best describe your experience of incident number 77111101096?"
+          },
+          {
+            "stringId": "1741387240130650112",
+            "femaleVariant": "Don't have time now."
+          },
+          {
+            "stringId": "1741391691495153664",
+            "femaleVariant": "Can't right now, sorry.",
+            "maleVariant": "I can't right now, sorry."
+          },
+          {
+            "stringId": "1744453503383937024",
+            "femaleVariant": "Would you be so kind as to give me your lawyer's contact information?"
+          },
+          {
+            "stringId": "1744455283748544512",
+            "femaleVariant": "Fuck you, circbrain!"
+          },
+          {
+            "stringId": "1744530558553333760",
+            "femaleVariant": "Hey, hey! She was last in line!",
+            "maleVariant": "Hey, hey! He was last in line!"
+          },
+          {
+            "stringId": "1744532725951537156",
+            "femaleVariant": "Here about an accident."
+          },
+          {
+            "stringId": "1744532781836443648",
+            "femaleVariant": "Well, now I'm in the front. That a problem?",
+            "maleVariant": "Well, now I'm in front. That a problem?"
+          },
+          {
+            "stringId": "1744534430499905536",
+            "femaleVariant": "What's gotten into you, Del? Don't recognize me? You sent me a message saying I should come in about the accident.",
+            "maleVariant": "What's got into you, Del? Don't recognize me? You sent me a message saying I should come in about the accident."
+          },
+          {
+            "stringId": "1744534849896751104",
+            "femaleVariant": "Well now I'm at the front."
+          },
+          {
+            "stringId": "1744536290237521920",
+            "femaleVariant": "N-no, it's fine."
+          },
+          {
+            "stringId": "1744544115416276992",
+            "femaleVariant": "Could you please clearly recite your incident report number?"
+          },
+          {
+            "stringId": "1744544382744436736",
+            "femaleVariant": "Don't give 'em any numbers. That's how they find you."
+          },
+          {
+            "stringId": "1744544598600097792",
+            "femaleVariant": "Who?"
+          },
+          {
+            "stringId": "1744545371207671808",
+            "femaleVariant": "Please, sir/madam, recite the incident report number provided in your message."
+          },
+          {
+            "stringId": "1744570346962591744",
+            "femaleVariant": "Bah! Special treatment!"
+          },
+          {
+            "stringId": "1783877059012108288",
+            "femaleVariant": "My apologies if the receptionist was a bother. I'm preoccupied with a crisis that is ongoing and I simply cannot oversee everything."
+          },
+          {
+            "stringId": "1786622138688643072",
+            "femaleVariant": "Miss V!",
+            "maleVariant": "Mr. V!"
+          },
+          {
+            "stringId": "1786622759999283204",
+            "femaleVariant": "Nope. Not interested."
+          },
+          {
+            "stringId": "1786622850613026816",
+            "femaleVariant": "Nah, still not interested."
+          },
+          {
+            "stringId": "1786623066166697984",
+            "femaleVariant": "Actually, yeah."
+          },
+          {
+            "stringId": "1786634042173726720",
+            "femaleVariant": "I've been authorized to propose an exclusive offer. Are you interested in a business arrangement with the Delamain Network?"
+          },
+          {
+            "stringId": "1786635694461067264",
+            "femaleVariant": "Unfortunate outcome for the company to say the least. We hope you will reconsider."
+          },
+          {
+            "stringId": "1924354826497974272",
+            "femaleVariant": "He'll run you outta biz!"
+          },
+          {
+            "stringId": "1924583148519710720",
+            "femaleVariant": "Corps, dude."
+          },
+          {
+            "stringId": "1924591025858830336",
+            "femaleVariant": "You are currently being assisted."
+          },
+          {
+            "stringId": "1924594197457297408",
+            "femaleVariant": "To assess the damage you, sir/madam, have incurred as a result of the incident."
+          },
+          {
+            "stringId": "1924595176642732032",
+            "femaleVariant": "Mine came out to twenty percent."
+          },
+          {
+            "stringId": "1924597271546585088",
+            "femaleVariant": "Incident report on file – confirmed."
+          },
+          {
+            "stringId": "1924598059924742144",
+            "femaleVariant": "Ninety-six at the end – means a public enemy, government target."
+          },
+          {
+            "stringId": "1925466377674055680",
+            "femaleVariant": "Your identity has been confirmed based on a facial recognition scan."
+          },
+          {
+            "stringId": "1925468721736343552",
+            "femaleVariant": "Your identity has been established."
+          },
+          {
+            "stringId": "1925474901674188800",
+            "femaleVariant": "Preem accident, I shit green apples. Now get me the real Delamain."
+          },
+          {
+            "stringId": "1925608199524212736",
+            "femaleVariant": "Then please, follow the drone."
+          },
+          {
+            "stringId": "1925608897439621120",
+            "femaleVariant": "Of course. Should you change your mind, don't hesitate to return."
+          },
+          {
+            "stringId": "1944336913623703552",
+            "femaleVariant": "Thank you. Processing data now. Please wait..."
+          },
+          {
+            "stringId": "1944338631426072580",
+            "femaleVariant": "Delamain? Hey."
+          },
+          {
+            "stringId": "1944346034943057920",
+            "femaleVariant": "Uh, hey, Del."
+          },
+          {
+            "stringId": "1944357412630192128",
+            "femaleVariant": "Your identity has been confirmed based on a facial recognition scan."
+          },
+          {
+            "stringId": "1944371392815849476",
+            "femaleVariant": "Preem, I basically shit green apples."
+          },
+          {
+            "stringId": "1944371595165851648",
+            "femaleVariant": "Actually, no biggie, not much happened. Now do I get to talk to the real Delamain?"
+          },
+          {
+            "stringId": "1944372301201432576",
+            "femaleVariant": "Nothing serious, no big deal."
+          },
+          {
+            "stringId": "1944372451005194240",
+            "femaleVariant": "My ride took a real beating."
+          },
+          {
+            "stringId": "1944373122278383616",
+            "femaleVariant": "Actually, a little heartbroken about my damaged ride, but I'd rather talk to the real Delamain, if I can."
+          },
+          {
+            "stringId": "1944416481013424128",
+            "femaleVariant": "Hey."
+          },
+          {
+            "stringId": "1944460706442665984",
+            "femaleVariant": "Sure, lemme hear whatcha got lined up."
+          },
+          {
+            "stringId": "1944470822567043072",
+            "femaleVariant": "Splendid! I stand authorized to dispatch a drone who will provide you with additional details."
+          },
+          {
+            "stringId": "1944473662026964992",
+            "femaleVariant": "V! I truly hope you can excuse my subroutine. I'm completely absorbed in a bit of a crisis situation, you see."
+          },
+          {
+            "stringId": "1944476551063560192",
+            "femaleVariant": "Del, hey, finally!"
+          },
+          {
+            "stringId": "1944476670802550784",
+            "femaleVariant": "Please follow the drone. We shall speak elsewhere."
+          },
+          {
+            "stringId": "1944864587198783488",
+            "femaleVariant": "You are currently speaking to a Delamain Network subroutine. Alas, my operational capabilities are limited."
+          }
+        ]
+      }
+
+
+

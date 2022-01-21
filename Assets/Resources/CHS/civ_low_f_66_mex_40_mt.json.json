@@ -1,0 +1,146 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1908139519393669120",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Te conozco de alguna parte?\" t=\"我们认识吗？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519410446340",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Te gusta molestar a la gente?\" t=\"你生来就这么欠吗？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519477555204",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Aquí nadie te invitó. Mejor lárgate.\" t=\"没人请你过来。赶紧出去。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519511109632",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Conoces a alguien? ¿No? Entonces, adiós.\" t=\"这儿有你认识的人吗？没有？那就拜拜吧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519594995712",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Oye nadie tiene que morir. Nomás guarda eso.\" t=\"不需要出人命。把那东西收起来吧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519628550148",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Con calma. Guarda eso o vas a ver...\" t=\"别激动。把那个收起来，否则我不客气了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519695659012",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Vas a quedar irreconocible cuando terminen contigo.\" t=\"他们会让你死的很难看。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519712436228",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Pronto llegarán los refuerzos, y el plomo.\" t=\"很快就有人来陪你了，还要送你几颗子弹。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519779545092",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Ya viste? Sabía que llegaríamos a un acuerdo.\" t=\"看吧？我就知道咱们能想出办法。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519796322308",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Esto se podría haber evitado.\" t=\"早知道干脆别来惹事多好。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519863431172",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Mi óptica debe estar fallando...\" t=\"我的视觉增强器肯定又出乱码了…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519896985604",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Alguien está husmeando por aquí...\" t=\"有人在这儿捣乱…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519964094468",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Bah, da igual.\" t=\"唉，随便吧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139519997648900",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Tengo otras cosas que hacer.\" t=\"我还有别的事要忙呢。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520047980548",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"De una forma u otra, te voy a encontrar.\" t=\"不管怎么样，我总会找到你的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520064757764",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Conozco este lugar como la palma de mi mano.\" t=\"这地方的每条小路我都清清楚楚。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520148643840",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Te reto a que lo hagas otra vez.\" t=\"来吧，再来一个试试。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520182198276",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ya te van a dar tu merecido.\" t=\"迟早让你尝到我的厉害。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520215752708",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Me alegra que hayas llamado.\" t=\"你终于打过来了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520299638788",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Así funciona ahora esta ciudad.\" t=\"这地方现在就这样。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520316416004",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Las cosas mejorarán, vas a ver.\" t=\"会好起来的，等着看吧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520366747652",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Cuídate.\" t=\"保重。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520400302084",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Mmm? Nel...\" t=\"嗯？不对…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520786178052",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Ya me harté. ¡Guardias!\" t=\"我受够了。保安！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520802955268",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Te di una oportunidad. ¡Ey, por aquí!\" t=\"我给过你机会了。嘿，这边！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520937172996",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Cuidado! ¡Un psicópata!\" t=\"当心！有疯子！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139520970727428",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡No! ¡Aaaaarrgghhh!\" t=\"不！啊啊啊啊！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139521071390724",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Para! ¡Por favor!\" t=\"住手吧！求你了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139521104945152",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Yo no te hice nada!\" t=\"我没惹你啊！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139521205608452",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Déjame en paz!\" t=\"别。跟着。我了！\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1908139521222385668",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Por qué no me haces un favor y te mueres?\" t=\"帮我个忙，去死吧。\" b=\"\" a=\"\"/>"
+          }
+        ]
+      }
+
+
+

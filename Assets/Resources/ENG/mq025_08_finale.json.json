@@ -1,0 +1,733 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1862099924888338432",
+            "femaleVariant": "So what now?"
+          },
+          {
+            "stringId": "1862111411509936128",
+            "femaleVariant": "Sorry, but could we talk, please? Just a minute, promise."
+          },
+          {
+            "stringId": "1862112889364561924",
+            "femaleVariant": "About what?"
+          },
+          {
+            "stringId": "1862113452860915712",
+            "femaleVariant": "Sure. What about?"
+          },
+          {
+            "stringId": "1862113767769260032",
+            "femaleVariant": "Not what, but who. Razor."
+          },
+          {
+            "stringId": "1862113948627648512",
+            "femaleVariant": "My dad fought him once. A long time ago, when Razor just got started."
+          },
+          {
+            "stringId": "1862114432952320000",
+            "femaleVariant": "My dad fell in the third round, the ref stopped the fight... But Razor didn't stop. Three more minutes he beat my dad. He survived, but..."
+          },
+          {
+            "stringId": "1862114628792762368",
+            "femaleVariant": "I can imagine. Where's this story going?"
+          },
+          {
+            "stringId": "1862115718087065604",
+            "femaleVariant": "That's why I'm here."
+          },
+          {
+            "stringId": "1862116886016180224",
+            "femaleVariant": "Leave me alone."
+          },
+          {
+            "stringId": "1862117668069326848",
+            "femaleVariant": "That's why I'm here, little girl."
+          },
+          {
+            "stringId": "1862119924017676288",
+            "femaleVariant": "Get lost, kid. Go."
+          },
+          {
+            "stringId": "1862120581097340928",
+            "femaleVariant": "Fuck you, too! Fuck you!"
+          },
+          {
+            "stringId": "1862200459352096768",
+            "femaleVariant": "Aha! The star of the hour! Great to see you, V!"
+          },
+          {
+            "stringId": "1862218017279066112",
+            "femaleVariant": "So... what now?"
+          },
+          {
+            "stringId": "1862219015120764928",
+            "femaleVariant": "\"What now?\" she says, hah! The title match! You go up against Razor Hughes. Heard of him, haven't you?",
+            "maleVariant": "\"What now?\" he says, hah! The title match! You go up against Razor Hughes. Heard of him, haven't you?"
+          },
+          {
+            "stringId": "1863215696171778052",
+            "femaleVariant": "Hey, César."
+          },
+          {
+            "stringId": "1863218823293845504",
+            "femaleVariant": "Hey, Rhino."
+          },
+          {
+            "stringId": "1863222357766717440",
+            "femaleVariant": "Yo, Rhino. See you're keepin' busy.",
+            "maleVariant": "Yo, Rhino. I see you're keepin' busy."
+          },
+          {
+            "stringId": "1863454616763514880",
+            "femaleVariant": "I'm all ears."
+          },
+          {
+            "stringId": "1863455063289118720",
+            "femaleVariant": "No thanks."
+          },
+          {
+            "stringId": "1863455410510381056",
+            "femaleVariant": "I'll pass."
+          },
+          {
+            "stringId": "1863455854972387328",
+            "femaleVariant": "Hey, hey... You don't even know what it is yet."
+          },
+          {
+            "stringId": "1863460594435244032",
+            "femaleVariant": "Hit me with it."
+          },
+          {
+            "stringId": "1863460869564809216",
+            "femaleVariant": "No, not here. Too many ears around. Let's step aside."
+          },
+          {
+            "stringId": "1863462288783065088",
+            "femaleVariant": "What I'm gonna say, it has to be between us, all right?"
+          },
+          {
+            "stringId": "1863462931736313856",
+            "femaleVariant": "Well, V, I'll get right to it... I know sports oughta be fair, but life sure ain't. I'm not wrong, am I?"
+          },
+          {
+            "stringId": "1863464990569152516",
+            "femaleVariant": "I'll do it."
+          },
+          {
+            "stringId": "1863468401494605824",
+            "femaleVariant": "OK, I'll do it."
+          },
+          {
+            "stringId": "1863471531670126592",
+            "femaleVariant": "Everyone's got a price. You can't afford mine."
+          },
+          {
+            "stringId": "1863473394947735552",
+            "femaleVariant": "C'mon, let's get back before people start to talk."
+          },
+          {
+            "stringId": "1863476846457274368",
+            "femaleVariant": "All right, so... Are you two ready to fight?"
+          },
+          {
+            "stringId": "1863478438094979072",
+            "femaleVariant": "Only one round."
+          },
+          {
+            "stringId": "1863478634505846784",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1863479397449744388",
+            "femaleVariant": "Let's do it."
+          },
+          {
+            "stringId": "1863481292251742212",
+            "femaleVariant": "May the best brawler win!"
+          },
+          {
+            "stringId": "1863481295573630976",
+            "femaleVariant": "[Get up and start fight] Ready."
+          },
+          {
+            "stringId": "1863481297133912064",
+            "femaleVariant": "Let's start this thing."
+          },
+          {
+            "stringId": "1863481300439023616",
+            "femaleVariant": "I'm ready."
+          },
+          {
+            "stringId": "1863481302217408512",
+            "femaleVariant": "Good... Ladies and Gentlemen! Night Citizens! It's time for our heavyweight bout!"
+          },
+          {
+            "stringId": "1863481304096456704",
+            "femaleVariant": "Go on! To your corners!"
+          },
+          {
+            "stringId": "1863481307988770820",
+            "femaleVariant": "You two ready? At the gong!"
+          },
+          {
+            "stringId": "1863486634704519168",
+            "femaleVariant": "Facing each other tonight, we have... Razor Hughes and V! Let's hear it!"
+          },
+          {
+            "stringId": "1863499231289950208",
+            "femaleVariant": "Call it now! This fight's over!"
+          },
+          {
+            "stringId": "1863501759180193796",
+            "femaleVariant": "The title and prize belong to Razor Hughes! Your champion!"
+          },
+          {
+            "stringId": "1863501759196971012",
+            "femaleVariant": "Hey, easy, you two! The fight's over!"
+          },
+          {
+            "stringId": "1863502206813093888",
+            "femaleVariant": "A pleasure to beat you. Maybe you're lookin' earn extra eddies as a punchin' bag? Maybe I chain you to the ceilin', finish what I started?"
+          },
+          {
+            "stringId": "1863505636747132928",
+            "femaleVariant": "V, step aside a minute. We gotta talk."
+          },
+          {
+            "stringId": "1863508708386947072",
+            "femaleVariant": "I'm glad you found reason. Here, as promised. Your take."
+          },
+          {
+            "stringId": "1863509719650418688",
+            "femaleVariant": "Nice work. It looked natural, nobody seems to suspect a thing."
+          },
+          {
+            "stringId": "1863510881556512768",
+            "femaleVariant": "Really feel I earned every enny here. But God, that Razor... what a piece of shit."
+          },
+          {
+            "stringId": "1863511781486379008",
+            "femaleVariant": "He is, no doubt. But he is where he is and he has what he has."
+          },
+          {
+            "stringId": "1863512769010089988",
+            "femaleVariant": "Victory and the prize belong to V! Your champion!"
+          },
+          {
+            "stringId": "1863512770369044480",
+            "femaleVariant": "You'd be wise to. Don't think you could take another beating."
+          },
+          {
+            "stringId": "1863513754201767936",
+            "femaleVariant": "You think this's how it ends? Th-that I just let you outta my grip?"
+          },
+          {
+            "stringId": "1863515405885128704",
+            "femaleVariant": "I knew this would happen. Only the best could beat me."
+          },
+          {
+            "stringId": "1863515426537881600",
+            "femaleVariant": "Hah! Now THAT is boxing!"
+          },
+          {
+            "stringId": "1863556704881360896",
+            "femaleVariant": "Yeah, yeah. It went perfect and Razor lost... How much? Uh, tons? A few thousand at least!"
+          },
+          {
+            "stringId": "1863557863935328260",
+            "femaleVariant": "Actor? What're you talking about?"
+          },
+          {
+            "stringId": "1863558786782871552",
+            "femaleVariant": "Haha! What can I say, I'm a good actor!"
+          },
+          {
+            "stringId": "1863558986347855872",
+            "femaleVariant": "You're a sharp kid."
+          },
+          {
+            "stringId": "1863559653158305792",
+            "femaleVariant": "Hah. Quite the sharp little con artist."
+          },
+          {
+            "stringId": "1863560186942210048",
+            "femaleVariant": "Wait, no, uh, I-I can explain everything..."
+          },
+          {
+            "stringId": "1863560791827955712",
+            "femaleVariant": "Wait, wait... \"actor\"? So you pulled that whole father story outta your ass?"
+          },
+          {
+            "stringId": "1863561385372303360",
+            "femaleVariant": "Ehhh... Sorry, don't know what you're talking about. Gotta go!"
+          },
+          {
+            "stringId": "1863561809097670656",
+            "femaleVariant": "Ugh... Could've figured."
+          },
+          {
+            "stringId": "1863562501493374980",
+            "femaleVariant": "Chin up. You're lucky you still got a pulse."
+          },
+          {
+            "stringId": "1889653395212484608",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ale nan lòt bò gwo sal la. Yap tann nou.\" t=\"They are waiting for you over there. There, other side of the room.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1889654496754155524",
+            "femaleVariant": "Hey, how're you two?"
+          },
+          {
+            "stringId": "1889655029028110336",
+            "femaleVariant": "I'm not twins! It's just me!"
+          },
+          {
+            "stringId": "1889655629853769728",
+            "femaleVariant": "Well if it isn't my favorite twins in Night City. 'Sup, fellas?"
+          },
+          {
+            "stringId": "1889656485642780672",
+            "femaleVariant": "I'm not twins! It's just me!"
+          },
+          {
+            "stringId": "1889657948381134848",
+            "femaleVariant": "Congrats! Well done."
+          },
+          {
+            "stringId": "1889658579741327360",
+            "femaleVariant": "Really, congrats!"
+          },
+          {
+            "stringId": "1889662309232558080",
+            "femaleVariant": "That was a dirty move, V. Damn dirty."
+          },
+          {
+            "stringId": "1889734459616411652",
+            "femaleVariant": "What are you doing here, Vik?"
+          },
+          {
+            "stringId": "1889734706409259008",
+            "femaleVariant": "Vik? What're you doin' here?"
+          },
+          {
+            "stringId": "1889735032440897536",
+            "femaleVariant": "Whaddaya mean? I came to see the fight of the year. Everybody on the street's buzzin' about it."
+          },
+          {
+            "stringId": "1889735393637580800",
+            "femaleVariant": "Don't let me down now, you hear?"
+          },
+          {
+            "stringId": "1889736281823395840",
+            "femaleVariant": "You threw the fight, didn't you?"
+          },
+          {
+            "stringId": "1889736713182396416",
+            "femaleVariant": "That's bush league, V. Bush league."
+          },
+          {
+            "stringId": "1889737425090002944",
+            "femaleVariant": "Slick work, V."
+          },
+          {
+            "stringId": "1912393276410089472",
+            "femaleVariant": "Hail, César. Shouldn't you be puttin' up a cradle or somethin'?"
+          },
+          {
+            "stringId": "1912394355470290944",
+            "femaleVariant": "Due date's tomorrow. I got time."
+          },
+          {
+            "stringId": "1912396158551248896",
+            "femaleVariant": "Next time I'm wipin' the floor with you. You'll see."
+          },
+          {
+            "stringId": "1912397787316932608",
+            "femaleVariant": "Anyway... I'm fine, thank you."
+          },
+          {
+            "stringId": "1912500233460568064",
+            "femaleVariant": "Nowhere. It's finished. Like my old life. Like my life now..."
+          },
+          {
+            "stringId": "1912500640173838336",
+            "femaleVariant": "Just... I want Razor punished for what he did. I need him to know how he made my dad feel."
+          },
+          {
+            "stringId": "1912502688487362560",
+            "femaleVariant": "Th-thanks... I'll cross my fingers for you."
+          },
+          {
+            "stringId": "1912763291701399552",
+            "femaleVariant": "I can guess. So again – I'll pass. I fight to win. Period.",
+            "maleVariant": "Yeah, I can guess. So again – I'll pass. I fight to win. Period."
+          },
+          {
+            "stringId": "1912763783223496704",
+            "femaleVariant": "OK, Jesus, be that way."
+          },
+          {
+            "stringId": "1912765601957597184",
+            "femaleVariant": "Cut the drama. What's this about?"
+          },
+          {
+            "stringId": "1912769915446939648",
+            "femaleVariant": "No way. I'm out."
+          },
+          {
+            "stringId": "1912770879314776064",
+            "femaleVariant": "Hah! Knew from the start you have good instincts."
+          },
+          {
+            "stringId": "1912771968994955264",
+            "femaleVariant": "It's your ass gettin' beat, V. Bad move, but it's your call."
+          },
+          {
+            "stringId": "1912775037715533824",
+            "femaleVariant": "One round – all it's gonna take for you to kiss my feet and beg for mercy."
+          },
+          {
+            "stringId": "1912776335869399040",
+            "femaleVariant": "Right, ahem... Shall we?"
+          },
+          {
+            "stringId": "1912789647986315264",
+            "femaleVariant": "This ain't over 'tween us. We'll meet again. Tomorrow, next year... This definitely ain't the last."
+          },
+          {
+            "stringId": "1912791709973270528",
+            "femaleVariant": "See ya 'round then. I suggest you train in the meantime."
+          },
+          {
+            "stringId": "1912796014335807488",
+            "femaleVariant": "Depends. Do I gotta listen to this bullshit the whole time, or do you never shut up?"
+          },
+          {
+            "stringId": "1912806905181687812",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1912807111205900288",
+            "femaleVariant": "Shove it."
+          },
+          {
+            "stringId": "1912807312918368256",
+            "femaleVariant": "Shove the money up your ass."
+          },
+          {
+            "stringId": "1912807877572349952",
+            "femaleVariant": "But... what? V, what's wrong?"
+          },
+          {
+            "stringId": "1912809813847625728",
+            "femaleVariant": "Don't dwell on it. At the end of the day, all that matters is the eddies. And you're sittin' comfy now."
+          },
+          {
+            "stringId": "1912813232742256640",
+            "femaleVariant": "No need. Earn what ya can, how ya can."
+          },
+          {
+            "stringId": "1941755192877793280",
+            "femaleVariant": "I sign autographs after the fight."
+          },
+          {
+            "stringId": "1941755759645704192",
+            "femaleVariant": "Me, I prefer to get drunk after a win."
+          },
+          {
+            "stringId": "1941757002250207232",
+            "femaleVariant": "Wait, wait, wait, hol' up. You're V? Pff."
+          },
+          {
+            "stringId": "1941757790477369348",
+            "femaleVariant": "Why do you fight the amateur circuit?"
+          },
+          {
+            "stringId": "1941763214819737600",
+            "femaleVariant": "Won't be that easy."
+          },
+          {
+            "stringId": "1941763446982852608",
+            "femaleVariant": "I ain't your typical ring fodder."
+          },
+          {
+            "stringId": "1941763822507278336",
+            "femaleVariant": "What's a heavyweight champ doin' in the bush leagues? Money problems at home?"
+          },
+          {
+            "stringId": "1941764713075458048",
+            "femaleVariant": "On the contrary. I got so much, I dunno what to do with it. That's my problem."
+          },
+          {
+            "stringId": "1941765018672447488",
+            "femaleVariant": "Ya see, I started in the mud an' shit. Now I climbed too high an' my fans can feel it."
+          },
+          {
+            "stringId": "1941766335449022464",
+            "femaleVariant": "I gotta show 'em I'm still a scrappy street kid at heart. And you... well, you're just the wrong place, wrong time."
+          },
+          {
+            "stringId": "1941768652801982464",
+            "femaleVariant": "\"A scrappy street kid...\" What, who sits his ass on leather in the VIP area?"
+          },
+          {
+            "stringId": "1941770452745601024",
+            "femaleVariant": "What cyberware you got?"
+          },
+          {
+            "stringId": "1941770777166626816",
+            "femaleVariant": "What's your chrome? Hausstocks? Ichors?"
+          },
+          {
+            "stringId": "1941771828007550976",
+            "femaleVariant": "Seriously? That mass-market bullshit?"
+          },
+          {
+            "stringId": "1941797730720432128",
+            "femaleVariant": "V, hey. How're your spirits before the fight?"
+          },
+          {
+            "stringId": "1941800507718778880",
+            "femaleVariant": "But listen, I'll be honest... It don't look too good for you. But uh, maybe that's better, y'know?"
+          },
+          {
+            "stringId": "1942941120354861056",
+            "femaleVariant": "He use actual razors?"
+          },
+          {
+            "stringId": "1942941499738046464",
+            "femaleVariant": "I've seen posters."
+          },
+          {
+            "stringId": "1942941610283122688",
+            "femaleVariant": "We met."
+          },
+          {
+            "stringId": "1942943386939965440",
+            "femaleVariant": "Nope. He got a shaving cream sponsor?",
+            "maleVariant": "No. He got a shaving cream sponsor?"
+          },
+          {
+            "stringId": "1942943754897866752",
+            "femaleVariant": "Think I've seen posters. He's a pro boxer, right?",
+            "maleVariant": "I think I've seen posters. He's a pro boxer, right?"
+          },
+          {
+            "stringId": "1942944285208887296",
+            "femaleVariant": "Met him, actually. Don't know what's bigger, his biceps or his ego."
+          },
+          {
+            "stringId": "1942945520146202624",
+            "femaleVariant": "Never thought I'd see him here because, you know, he's a star athlete with elite corpo sponsors..."
+          },
+          {
+            "stringId": "1942946100688207872",
+            "femaleVariant": "But then his agent tells us it's a good PR move for him. Razor returning to his roots and all that, prove he's still a kid from the streets."
+          },
+          {
+            "stringId": "1942949205328805888",
+            "femaleVariant": "Do I even have a shot?"
+          },
+          {
+            "stringId": "1942949657021792256",
+            "femaleVariant": "Hah, a good question. You're good, V, very good. But this guy... he's a machine."
+          },
+          {
+            "stringId": "1942950222011318272",
+            "femaleVariant": "Carbon fiber, titanium bones, hydraulic joints... all optimized by Night City's best bioengineers."
+          },
+          {
+            "stringId": "1942954096843571200",
+            "femaleVariant": "If Razor's winnin' anyway... maybe you're lookin'... earn a little somethin' on it?"
+          },
+          {
+            "stringId": "1942956781919551488",
+            "femaleVariant": "Razor's manager wants his star to shine. He wants the whole city to hear about the hurt he put on this ring."
+          },
+          {
+            "stringId": "1942961788828008448",
+            "femaleVariant": "My point... Pull some punches, forget to put that guard up sometimes... Then get comfortable on the ground."
+          },
+          {
+            "stringId": "1942962041056673792",
+            "femaleVariant": "How much?"
+          },
+          {
+            "stringId": "1942962787189800960",
+            "femaleVariant": "A lot. More than you'd earn by winnin'."
+          },
+          {
+            "stringId": "1942986757435834368",
+            "femaleVariant": "His gut! Hit him in the gut!"
+          },
+          {
+            "stringId": "1942989068598001664",
+            "femaleVariant": "Keep your guard up! Or you'll hit the deck!"
+          },
+          {
+            "stringId": "1942991140584177664",
+            "femaleVariant": "Good! Keep the pressure till he breaks!"
+          },
+          {
+            "stringId": "1942992952590614528",
+            "femaleVariant": "Ya got 'em staggering! Just gotta land a few more!"
+          },
+          {
+            "stringId": "1943002296694620160",
+            "femaleVariant": "Had a good coach in my corner.",
+            "maleVariant": "I had a good coach in my corner."
+          },
+          {
+            "stringId": "1943024215221354496",
+            "femaleVariant": "I lost, that's what I'm tellin' you!"
+          },
+          {
+            "stringId": "1943024831750488064",
+            "femaleVariant": "The fuck you mean \"backin' out\"? All of 'em? You fuckin' shittin' me..."
+          },
+          {
+            "stringId": "1943025200413032448",
+            "femaleVariant": "No, I don't know \"what the fuck now\"! Ain't you the goddamn manager?! It's your job!"
+          },
+          {
+            "stringId": "1943198304472940548",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1943206317942390784",
+            "femaleVariant": "Mhm. Let's get it."
+          },
+          {
+            "stringId": "1943252078772408320",
+            "femaleVariant": "If you're goin' anywhere after the fight, it's the ER. To collect whatever's left of ya."
+          },
+          {
+            "stringId": "1943271104772886528",
+            "femaleVariant": "Don't make me laugh. One knock to the jaw and you'll curl up in a tiny ball."
+          },
+          {
+            "stringId": "1943272702450388992",
+            "femaleVariant": "Not the most convincing underdog story I've heard."
+          },
+          {
+            "stringId": "1943283561151123456",
+            "femaleVariant": "My chrome's stricly prototype, ain't even out yet. Think of me as testin' ground for the corps... and you my guinea pig."
+          },
+          {
+            "stringId": "1943288746116173824",
+            "femaleVariant": "My record in the ring's a healthy forty-seven W's, zero losses. With twenty by knockout."
+          },
+          {
+            "stringId": "1943289558905180160",
+            "femaleVariant": "And you look like a twenty first if ever I seen one."
+          },
+          {
+            "stringId": "1943296402918789120",
+            "femaleVariant": "He is THE boxer! You had your head buried in the sand?"
+          },
+          {
+            "stringId": "1943298372815605760",
+            "femaleVariant": "Very fuckin' funny. He's a three-time heavyweight champion!"
+          },
+          {
+            "stringId": "1943300071089295360",
+            "femaleVariant": "And you're surprised? He's a three-time heavyweight champ!"
+          },
+          {
+            "stringId": "1944323090507157504",
+            "femaleVariant": "I dunno, maybe Viktor'll have some tips or tricks..."
+          },
+          {
+            "stringId": "1944323592984776704",
+            "femaleVariant": "Vik's here?"
+          },
+          {
+            "stringId": "1944326315054518272",
+            "femaleVariant": "What, you think he'd miss an occasion like this?"
+          },
+          {
+            "stringId": "1944347055082491908",
+            "femaleVariant": "Shitty."
+          },
+          {
+            "stringId": "1944347663743111168",
+            "femaleVariant": "Ready to go."
+          },
+          {
+            "stringId": "1944348326476697600",
+            "femaleVariant": "Honestly? I feel sick."
+          },
+          {
+            "stringId": "1944348540067434496",
+            "femaleVariant": "Good. But my knuckles are itchin'."
+          },
+          {
+            "stringId": "1944348743625396224",
+            "femaleVariant": "How do you mean?"
+          },
+          {
+            "stringId": "1944349223051120640",
+            "femaleVariant": "Yeah, he's a tough matchup. But y'know, no one's unbeatable. Even him."
+          },
+          {
+            "stringId": "1944350259094540288",
+            "femaleVariant": "Hah! You won't get far in this sport without confidence."
+          },
+          {
+            "stringId": "1944355419296419840",
+            "femaleVariant": "But y'know, positive thinking's only gonna get you so far against an opponent like Razor."
+          },
+          {
+            "stringId": "1944366091166076928",
+            "femaleVariant": "The guy's a tank. Seriously. Nanofiber RealSkinn, shock absorbers... You could knock him on the head with a meat mallet and he wouldn't even flinch."
+          },
+          {
+            "stringId": "1944369429882392576",
+            "femaleVariant": "'Preciate the pep talk."
+          },
+          {
+            "stringId": "1944370261008896000",
+            "femaleVariant": "Hold on now, I'm not done. He's got a weakness. Had some abdominal muscles swapped out a week ago and they haven't taken to him fully just yet."
+          },
+          {
+            "stringId": "1944372530714562560",
+            "femaleVariant": "You hit him there, it's gonna hurt. A lot."
+          },
+          {
+            "stringId": "1944374131797839872",
+            "femaleVariant": "Thanks, Vik. Keep it in mind.",
+            "maleVariant": "Thanks, Vik. I'll keep it in mind."
+          },
+          {
+            "stringId": "2014421132593086464",
+            "femaleVariant": "[Sit and wait]"
+          },
+          {
+            "stringId": "2179483791016345604",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "2179485126331744260",
+            "femaleVariant": "[Stand]"
+          }
+        ]
+      }
+
+
+

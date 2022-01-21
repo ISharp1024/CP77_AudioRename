@@ -1,0 +1,200 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1660589052871483396",
+            "femaleVariant": "I remember you. How've you been?"
+          },
+          {
+            "stringId": "1660590212546207744",
+            "femaleVariant": "It's me, Frank. We met during \"Icefall.\" East coast, remember?"
+          },
+          {
+            "stringId": "1660595283577184264",
+            "femaleVariant": "Hey, V. It's been ages."
+          },
+          {
+            "stringId": "1660596010013859840",
+            "femaleVariant": "Christ, V, you were supposed to be here an hour ago!"
+          },
+          {
+            "stringId": "1660604454624206848",
+            "femaleVariant": "I'm in a rush."
+          },
+          {
+            "stringId": "1660611162507485184",
+            "femaleVariant": "I didn't know you were in Night City. How've you been?"
+          },
+          {
+            "stringId": "1660611736254717952",
+            "femaleVariant": "Listen, sorry, uh, in a bit of a rush right now? We'll talk another time, 'kay?"
+          },
+          {
+            "stringId": "1660612045609803776",
+            "femaleVariant": "Tell me about Cape Town."
+          },
+          {
+            "stringId": "1660612045609803792",
+            "femaleVariant": "What're people saying about Jenkins?"
+          },
+          {
+            "stringId": "1660638014106148864",
+            "femaleVariant": "I need to run."
+          },
+          {
+            "stringId": "1660638171207999488",
+            "femaleVariant": "Tell me about the op in Cape Town."
+          },
+          {
+            "stringId": "1660638229575933952",
+            "femaleVariant": "What does everyone say about Jenkins?",
+            "maleVariant": "What's everyone say about Jenkins?"
+          },
+          {
+            "stringId": "1660639207654072320",
+            "femaleVariant": "Sure, sure. Good seein' you again."
+          },
+          {
+            "stringId": "1660650623962357760",
+            "femaleVariant": "I see you're busy."
+          },
+          {
+            "stringId": "1660660514164744192",
+            "femaleVariant": "Operation \"Cargo.\" You know about it?"
+          },
+          {
+            "stringId": "1660661463100858368",
+            "femaleVariant": "That he's effective. Like any psychopath."
+          },
+          {
+            "stringId": "1660662015574581248",
+            "femaleVariant": "Eh, you know how it is. A week ago, I was still in Cape Town."
+          },
+          {
+            "stringId": "1660664089221701632",
+            "femaleVariant": "V? Everything OK?"
+          },
+          {
+            "stringId": "1685217440129019904",
+            "femaleVariant": "Arming local conflicts in Africa? I didn't know that was you."
+          },
+          {
+            "stringId": "1685218361902821376",
+            "femaleVariant": "It was me. We dumped crates full of rifles into the ocean. They had to be pulled out using borrowed fishing boats."
+          },
+          {
+            "stringId": "1685218433742860288",
+            "femaleVariant": "Same old circus, but hey, that's how wars are won."
+          },
+          {
+            "stringId": "1685316795255156736",
+            "femaleVariant": "Apparently, he's gone a little crazier lately."
+          },
+          {
+            "stringId": "1685321949215911936",
+            "femaleVariant": "I heard you're in counterintel. Must have a shitshow on your hands right now after Frankfurt."
+          },
+          {
+            "stringId": "1685322258671661056",
+            "femaleVariant": "Jenkins is your lead, right? Is he what everyone says he is?"
+          },
+          {
+            "stringId": "1686737426890813440",
+            "femaleVariant": "We'll talk later."
+          },
+          {
+            "stringId": "1692416239427579904",
+            "femaleVariant": "Agh... Hanging up. I'll be in my office."
+          },
+          {
+            "stringId": "1692417572511608832",
+            "femaleVariant": "Got held up, but I'll be right there."
+          },
+          {
+            "stringId": "1766467074553475072",
+            "femaleVariant": "Fucking Frankfurt... That Abernathy bitch'll probably dump it in our laps."
+          },
+          {
+            "stringId": "1767680287840333824",
+            "femaleVariant": "And you? Who do you work under?"
+          },
+          {
+            "stringId": "1767768038568816640",
+            "femaleVariant": "Abernathy. She's really good. Came up with the whole Cape Town ploy on her own."
+          },
+          {
+            "stringId": "1767768299320307712",
+            "femaleVariant": "Abernathy. The bitch who burned my boss on the promotion to Spec Ops Director."
+          },
+          {
+            "stringId": "1767768416425275392",
+            "femaleVariant": "You know how it is. Things happen."
+          },
+          {
+            "stringId": "1767768548361302016",
+            "femaleVariant": "Mhh. They do indeed.",
+            "maleVariant": "Yeah. They do indeed."
+          },
+          {
+            "stringId": "1795239417723416576",
+            "femaleVariant": "And you hurry up."
+          },
+          {
+            "stringId": "1816841884544147456",
+            "femaleVariant": "Two thousand sixty-seven – an Arasaka bodyguard shields the Emperor of Japan from an assassin's bullet."
+          },
+          {
+            "stringId": "1816849703850876928",
+            "femaleVariant": "Two thousand seventy-one – Arasaka security forces prevent mass riots in San Francisco, saving the city from certain ruin."
+          },
+          {
+            "stringId": "1835731092358754304",
+            "femaleVariant": "Two thousand seventy-four – an Arasaka investigation eliminates a terror cell in Rio de Janeiro, ending a string of attacks and executing those responsible."
+          },
+          {
+            "stringId": "1835731719910518784",
+            "femaleVariant": "Two thousand seventy-six – Arasaka's counterintelligence division effectively secures a corporate summit in Jakarta, foiling forty-five plots to attack and sabotage it."
+          },
+          {
+            "stringId": "1835732977765511168",
+            "femaleVariant": "How will Arasaka shine in two thousand seventy-seven? That depends on you."
+          },
+          {
+            "stringId": "1867795057863487488",
+            "femaleVariant": "Who do you work under?"
+          },
+          {
+            "stringId": "1867798455081955328",
+            "femaleVariant": "Hey, he's in a tough spot. The director was supposed to greenlight his promotion when the Japanese arrived. She stabbed him in the back instead."
+          },
+          {
+            "stringId": "1974967417117364228",
+            "femaleVariant": "[Talk]"
+          },
+          {
+            "stringId": "1974967755916464128",
+            "femaleVariant": "Give me a holler on the holo sometime, huh?"
+          },
+          {
+            "stringId": "2006665277649035264",
+            "femaleVariant": "I got held up."
+          }
+        ]
+      }
+
+
+

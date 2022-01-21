@@ -1,0 +1,115 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1563348776364773376",
+            "femaleVariant": "你往哪儿去？你不认识道吗？"
+          },
+          {
+            "stringId": "1563351977390477312",
+            "femaleVariant": "钱不是问题，让我进去。"
+          },
+          {
+            "stringId": "1563352308052627456",
+            "femaleVariant": "我要和这里的某个人说几句话。"
+          },
+          {
+            "stringId": "1567963730939760640",
+            "femaleVariant": "我要是你，说话就注意点。这可不是招呼客人的态度，尤其是 VIP 客人。"
+          },
+          {
+            "stringId": "1567964347988987904",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¿Entiendes\" b=\"好吧，“VIP”。楼上办的是私人聚会。 \" a=\"（你听明白了）？\"/>"
+          },
+          {
+            "stringId": "1567965612588421120",
+            "femaleVariant": "我要找这里的人说几句话。有要紧事。"
+          },
+          {
+            "stringId": "1567965612605198336",
+            "femaleVariant": "那你我可就要产生点小摩擦了。"
+          },
+          {
+            "stringId": "1814051202397609988",
+            "femaleVariant": "我好像在哪见过你…等等，你不是杰克的朋友吗？我在葬礼上见过你。"
+          },
+          {
+            "stringId": "1814051202397609996",
+            "femaleVariant": "我去，你认识杰克·威尔斯！这王八蛋就像我们的大哥。他离开瓦帮那次我还怀念过他…结果第二次就…"
+          },
+          {
+            "stringId": "1814051202699599872",
+            "femaleVariant": "走啊，来喝酒！"
+          },
+          {
+            "stringId": "1814051202749931524",
+            "femaleVariant": "敬杰克！在那边也要炸翻天，老哥！"
+          },
+          {
+            "stringId": "1814051202749931532",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Arriba, ¡abajo!, ¡al centro!, ¡pa' dentro\" b=\"再来，干了！\" a=\"（感情深，一口闷）！\"/>"
+          },
+          {
+            "stringId": "1814052603261591552",
+            "femaleVariant": "你不是杰克的朋友吗？"
+          },
+          {
+            "stringId": "1925489662334988288",
+            "femaleVariant": "你认识威尔斯？"
+          },
+          {
+            "stringId": "1925491075379228672",
+            "femaleVariant": "我们俩是老交情了。"
+          },
+          {
+            "stringId": "1925530939705389056",
+            "femaleVariant": "来来来，咱哥俩喝一杯。敬杰克。"
+          },
+          {
+            "stringId": "1925546377646567424",
+            "femaleVariant": "真抱歉，给您带来不便了呢。快滚，别再来了。"
+          },
+          {
+            "stringId": "1925553164617641984",
+            "femaleVariant": "我的工作是保护上面的人不被下面的人打扰，就好比你这样的。"
+          },
+          {
+            "stringId": "1925554401585000448",
+            "femaleVariant": "所以在场面难看之前，你还是走吧。"
+          },
+          {
+            "stringId": "2199807503734951940",
+            "femaleVariant": "[喝酒]"
+          },
+          {
+            "stringId": "2200123636446941220",
+            "femaleVariant": "好了，我得回去了。"
+          },
+          {
+            "stringId": "2200123636446941236",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"你要待就待着吧。不过可别做傻事，\" a=\"（丫头）。\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"mano\" b=\"你要待就待着吧。不过可别做傻事，\" a=\"（小子）。\"/>"
+          },
+          {
+            "stringId": "2200123636463718400",
+            "femaleVariant": "要是搞出什么乱子，连杰克也救不了你。"
+          }
+        ]
+      }
+
+
+

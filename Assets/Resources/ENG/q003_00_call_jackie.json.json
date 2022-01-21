@@ -1,0 +1,246 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1668242618758946816",
+            "femaleVariant": "Jackster. Talked to Dex."
+          },
+          {
+            "stringId": "1668242853623193600",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Gordito\" b=\"Heheh. \" a=\"'s a big deal – literally and not, yeah?\"/>"
+          },
+          {
+            "stringId": "1669642123433697280",
+            "femaleVariant": "So, uh, Militech – what'd you decide?"
+          },
+          {
+            "stringId": "1669642123433697288",
+            "femaleVariant": "We met, we chatted. It was nice. May be somethin' there, maybe not."
+          },
+          {
+            "stringId": "1741806682925625344",
+            "femaleVariant": "Guy certainly knows how to protect his biz. Wants to put us on a few small kinks, prep work, I guess, before linin' us up a big job."
+          },
+          {
+            "stringId": "1741806701917433860",
+            "femaleVariant": "He was out to work me over."
+          },
+          {
+            "stringId": "1741806709752393728",
+            "femaleVariant": "Claimed to want to check our pro cred. But to me it feels more like he tangled us up with Maelstrom and Militech."
+          },
+          {
+            "stringId": "1741806935707938816",
+            "femaleVariant": "Wants to check us out, see if we got what it takes."
+          },
+          {
+            "stringId": "1741828265119510528",
+            "femaleVariant": "OK. Whatcha waitin' for? Gimme the detes."
+          },
+          {
+            "stringId": "1741832357434814464",
+            "femaleVariant": "Agh, don't thrill you, that?"
+          },
+          {
+            "stringId": "1762006311520628736",
+            "femaleVariant": "Feels like a fuckin' test. Talks about believin' in us, but then asks us to prove our worth? I dunno."
+          },
+          {
+            "stringId": "1767692545108434944",
+            "femaleVariant": "There's this combat bot, military prototype? Maelstrom klepped it. Then Dex paid to take it off their hands just before the gangoons had a switch-up in management.",
+            "maleVariant": "There's this combat bot, military prototype. Maelstrom klepped it. Then Dex paid to take it off their hands just before the gangoons had a switch-up in management."
+          },
+          {
+            "stringId": "1767694057188581376",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chingón\" b=\"Huh, \" a=\"…\"/>"
+          },
+          {
+            "stringId": "1767694736883933188",
+            "femaleVariant": "Visit Maelstrom first."
+          },
+          {
+            "stringId": "1767695253873844224",
+            "femaleVariant": "Gonna start with the client."
+          },
+          {
+            "stringId": "1767695934122844160",
+            "femaleVariant": "I say we knock on Maelstrom's door first. Pound, actually."
+          },
+          {
+            "stringId": "1767695962291789824",
+            "femaleVariant": "Parker – think I oughta see her first. See what she's like, what she's after."
+          },
+          {
+            "stringId": "1767704537043001344",
+            "femaleVariant": "Meet you there once I'm done."
+          },
+          {
+            "stringId": "1767705106931474432",
+            "femaleVariant": "'Ey, oh, V – just one more thing…"
+          },
+          {
+            "stringId": "1767742234440720384",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"V. Háblame.\" t=\"V. Talk to me.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1767753786124361728",
+            "femaleVariant": "Met the client. Her name's Parker. Evelyn Parker."
+          },
+          {
+            "stringId": "1767764707588661248",
+            "femaleVariant": "We agreed to have a face-to-face. So we'll see."
+          },
+          {
+            "stringId": "1767765385102974976",
+            "femaleVariant": "Hey V... just keep an eye out, OK?"
+          },
+          {
+            "stringId": "1767771762995191808",
+            "femaleVariant": "Waitin' for ya at All Foods, ya know. Not gettin' any younger."
+          },
+          {
+            "stringId": "1767780701962985472",
+            "femaleVariant": "Nothin' yet."
+          },
+          {
+            "stringId": "1767837707151302656",
+            "femaleVariant": "'Ey, I wouldn't league up with Militech if I was you. They don't cut deals, they cut throats. Anyway…"
+          },
+          {
+            "stringId": "1772005558462640128",
+            "femaleVariant": "Yeah?"
+          },
+          {
+            "stringId": "1772009407323762688",
+            "femaleVariant": "'Bout sums it up. Dex wants us talkin' to Royce. Gave the detes of some Militech agent, too, but... dunno how much help she stands to be.",
+            "maleVariant": "'Bout sums it up. Dex wants us talkin' to Royce. Gave the deets of some Militech agent, too, but... I dunno how much help she stands to be."
+          },
+          {
+            "stringId": "1772062093133934592",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Órale.\" b=\"\" a=\" In that case, I'll head to All Foods, put my nose to the ground, sniff around.\"/>"
+          },
+          {
+            "stringId": "1772155716710100996",
+            "femaleVariant": "Got friends in high places."
+          },
+          {
+            "stringId": "1772155730920402944",
+            "femaleVariant": "Uhh, she's got friends in high places... clouds, like.",
+            "maleVariant": "Hmm, she's got friends in high places... clouds, like."
+          },
+          {
+            "stringId": "1772155733755752448",
+            "femaleVariant": "Odd. Somethin's off about her."
+          },
+          {
+            "stringId": "1772156519768322048",
+            "femaleVariant": "Something's off about her, don't know what."
+          },
+          {
+            "stringId": "1772161870609707008",
+            "femaleVariant": "Uh-huh. Like what?"
+          },
+          {
+            "stringId": "1772162427059630080",
+            "femaleVariant": "Dunno. But she wa'n't on the up-an'-up. She was hidin' somethin' – big.",
+            "maleVariant": "Dunno. But she wasn't on the up-an'-up. She was hidin' somethin' big."
+          },
+          {
+            "stringId": "1772164133705150464",
+            "femaleVariant": "Yeah, sounds like nerves talkin' to me. Makes everyone seem suspect. Stress can kill you, y'know."
+          },
+          {
+            "stringId": "1772208092343103488",
+            "femaleVariant": "We-he-ll, so do we. We workin' with Dex, now."
+          },
+          {
+            "stringId": "1772208536519897088",
+            "femaleVariant": "Parker knows Yorinobu Arasaka. They fuck."
+          },
+          {
+            "stringId": "1772208911104798720",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Mierda!\" b=\"\" a=\" Oh fuck!\"/>"
+          },
+          {
+            "stringId": "1776466802917699584",
+            "femaleVariant": "Yo, got a good nose for shady shit, V, you know that. An' I say keep those corpos sidelined."
+          },
+          {
+            "stringId": "1776469522219200512",
+            "femaleVariant": "Militech – what'd you decide?"
+          },
+          {
+            "stringId": "1776473013373300736",
+            "femaleVariant": "What'd you decide to do about Militech?"
+          },
+          {
+            "stringId": "1776487301370540032",
+            "femaleVariant": "Ah, good. My vote's to keep it that way, right?"
+          },
+          {
+            "stringId": "1784859163293052928",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Hasta luego.\" t=\"See ya later.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1784861443971018752",
+            "femaleVariant": "Hm? Who is she? What's she like?"
+          },
+          {
+            "stringId": "1995093596603084800",
+            "femaleVariant": "Right, right, heard about that. Royce versus Brick – hostile takeover."
+          },
+          {
+            "stringId": "1995101727496269828",
+            "femaleVariant": "Then there's the other thing."
+          },
+          {
+            "stringId": "1995101794538024960",
+            "femaleVariant": "Then there's the other thing. Gotta meet the client who put the job on the table – Evelyn Parker."
+          },
+          {
+            "stringId": "1995101798648442880",
+            "femaleVariant": "Ick, you don't sound thrilled. Royce – whaddaya know about him?"
+          },
+          {
+            "stringId": "1995102950790197248",
+            "femaleVariant": "Royce – know anything about him?"
+          },
+          {
+            "stringId": "1995110400914288640",
+            "femaleVariant": "There's psychopaths... and there's psychopaths. Know what I mean?"
+          },
+          {
+            "stringId": "1995110640862031872",
+            "femaleVariant": "He's fuckin' whacked somethin' special. Junkies snort junk, Royce snorts chrome."
+          },
+          {
+            "stringId": "1995150344378576896",
+            "femaleVariant": "You? Well, what's Dex gonna do – ride around in his limo, chat chicks up on the holo?"
+          },
+          {
+            "stringId": "1995150734683729920",
+            "femaleVariant": "Parker wants to meet someone on the crew. Dex gave me the nod."
+          },
+          {
+            "stringId": "1995151249157058560",
+            "femaleVariant": "Must know what he's doin'… So, how you wanna play this? Maelstrom or Parker, what's first?"
+          }
+        ]
+      }
+
+
+

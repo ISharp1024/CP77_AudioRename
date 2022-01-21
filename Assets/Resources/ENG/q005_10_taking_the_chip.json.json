@@ -1,0 +1,330 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1616364777633439744",
+            "femaleVariant": "Went straight through."
+          },
+          {
+            "stringId": "1616368276840603648",
+            "femaleVariant": "Fuck it… it's junk…"
+          },
+          {
+            "stringId": "1627586895985467392",
+            "femaleVariant": "Gotta make it… to the garage. Elevator's on the right."
+          },
+          {
+            "stringId": "1628787870830125056",
+            "femaleVariant": "No one here."
+          },
+          {
+            "stringId": "1628789242652745728",
+            "femaleVariant": "Keep looking."
+          },
+          {
+            "stringId": "1628789545481494528",
+            "femaleVariant": "Yes, sir."
+          },
+          {
+            "stringId": "1628790021786656768",
+            "femaleVariant": "They're here!"
+          },
+          {
+            "stringId": "1628793534684028928",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"Estamos bien chingados…\" t=\"We're so fucked...\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1628794225049690112",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Carajo!\" t=\"Fuck!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1692573867982073856",
+            "femaleVariant": "Securing the floor."
+          },
+          {
+            "stringId": "1692577404266885120",
+            "femaleVariant": "Clear."
+          },
+          {
+            "stringId": "1692579577688109056",
+            "femaleVariant": "Understood. Over and out."
+          },
+          {
+            "stringId": "1692580058456010752",
+            "femaleVariant": "All clear here, too."
+          },
+          {
+            "stringId": "1692580328804069376",
+            "femaleVariant": "If this was a drill, why'd they send in 'Saka special forces?"
+          },
+          {
+            "stringId": "1692581202863468544",
+            "femaleVariant": "Special forces?!"
+          },
+          {
+            "stringId": "1692581427141292032",
+            "femaleVariant": "In the lobby now. Gonna sweep the building – all floors."
+          },
+          {
+            "stringId": "1692590637312782336",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Madres!\" b=\"\" a=\" Keep your head down!\"/>"
+          },
+          {
+            "stringId": "1692595894738628608",
+            "femaleVariant": "We'll get down there… take 'em out quietly."
+          },
+          {
+            "stringId": "1692597061845659648",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"En silencio.\" b=\"\" a=\" One for you, one for me. Wait for it…\"/>"
+          },
+          {
+            "stringId": "1692651516813258752",
+            "femaleVariant": "Well what do we have here."
+          },
+          {
+            "stringId": "1714032081313271808",
+            "femaleVariant": "Wouldn't mind takin' a look around still…"
+          },
+          {
+            "stringId": "1714322994430283776",
+            "femaleVariant": "Careful… security likely to be swarmin' outside."
+          },
+          {
+            "stringId": "1714322994430283788",
+            "femaleVariant": "Got it."
+          },
+          {
+            "stringId": "1714341671816990720",
+            "femaleVariant": "Elevator's bein' watched too… Gotta take him out."
+          },
+          {
+            "stringId": "1714408006412472320",
+            "femaleVariant": "Status report."
+          },
+          {
+            "stringId": "1714417869251219456",
+            "femaleVariant": "Securing floor by floor. Still nothing."
+          },
+          {
+            "stringId": "1714418131898535936",
+            "femaleVariant": "Same here. Shut the elevator down just in case. Keep looking."
+          },
+          {
+            "stringId": "1714468469603110912",
+            "femaleVariant": "Clear. Wait a sec..."
+          },
+          {
+            "stringId": "1714468469603110924",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1715544017964175360",
+            "femaleVariant": "Someone in there?"
+          },
+          {
+            "stringId": "1715546259551227904",
+            "femaleVariant": "Security! Open up!"
+          },
+          {
+            "stringId": "1715696687140114432",
+            "femaleVariant": "Still nothing."
+          },
+          {
+            "stringId": "1715696687140114444",
+            "femaleVariant": "Grrr…! Find 'em, dammit!"
+          },
+          {
+            "stringId": "1724441456494317568",
+            "femaleVariant": "Did you check the Zen rooms?"
+          },
+          {
+            "stringId": "1735873769673396224",
+            "femaleVariant": "Yes. All clear."
+          },
+          {
+            "stringId": "1735875368038764544",
+            "femaleVariant": "Nothing strange, out of the ordinary?"
+          },
+          {
+            "stringId": "1743251911757074432",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"¡Chinga tu madre!\" b=\"\" a=\" It's shut down! What about the other one?\"/>"
+          },
+          {
+            "stringId": "1744599908919087104",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Mierda…\" b=\"\" a=\" Officer's gotta have an elevator access card.\"/>"
+          },
+          {
+            "stringId": "1753290639110098944",
+            "femaleVariant": "Silencer'll come in handy."
+          },
+          {
+            "stringId": "1753291609521049600",
+            "femaleVariant": "You out of your mind, Jackie?! You're hurt!"
+          },
+          {
+            "stringId": "1753291905068486656",
+            "femaleVariant": "Hurt or not… Rather not miss anythin'… useful…"
+          },
+          {
+            "stringId": "1753306958274547712",
+            "femaleVariant": "One door's been busted open, but they wouldn't have come this way…"
+          },
+          {
+            "stringId": "1753307073164922880",
+            "femaleVariant": "Shut up and check!"
+          },
+          {
+            "stringId": "1753346104653303808",
+            "femaleVariant": "Well, the doors to the terrace looked damaged…"
+          },
+          {
+            "stringId": "1753346290007986176",
+            "femaleVariant": "Then take another look."
+          },
+          {
+            "stringId": "1753363856071905280",
+            "femaleVariant": "Yes, sir!"
+          },
+          {
+            "stringId": "1753366052645687296",
+            "femaleVariant": "Be advised, entry's blocked."
+          },
+          {
+            "stringId": "1753366229343326208",
+            "femaleVariant": "That's right. Only officers have access."
+          },
+          {
+            "stringId": "1786488698530746368",
+            "femaleVariant": "Yes, sir."
+          },
+          {
+            "stringId": "1790797377444843520",
+            "femaleVariant": "This way!"
+          },
+          {
+            "stringId": "1790799730617159680",
+            "femaleVariant": "Unit three has located the dweller and a combat bot, Flathead model."
+          },
+          {
+            "stringId": "1790801642884239360",
+            "femaleVariant": "Drones have encountered hazards on the penthouse level and opened fire."
+          },
+          {
+            "stringId": "1790801708332158976",
+            "femaleVariant": "Yorinobu Arasaka has been evacuated from the premises. I repeat – Yorinobu Arasaka has been evacuated…"
+          },
+          {
+            "stringId": "1790991706643812352",
+            "femaleVariant": "Hell's goin' on there...?"
+          },
+          {
+            "stringId": "1790991807290331136",
+            "femaleVariant": "Doesn't sound good..."
+          },
+          {
+            "stringId": "1794022556297998336",
+            "femaleVariant": "Shit, damn shame we had to drop those guys. Didn't know they were signin' up to work for bastards."
+          },
+          {
+            "stringId": "1794024738577592320",
+            "femaleVariant": "It was us or them, Jackie."
+          },
+          {
+            "stringId": "1794026052703367168",
+            "femaleVariant": "Could use a medkit about now."
+          },
+          {
+            "stringId": "1794027907105828864",
+            "femaleVariant": "Gonna be OK?"
+          },
+          {
+            "stringId": "1794028075414859776",
+            "femaleVariant": "Should stay upright a while still with this."
+          },
+          {
+            "stringId": "1794031344992268288",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Mierda,\" b=\"\" a=\" what a mess…\"/>"
+          },
+          {
+            "stringId": "1794034305634021376",
+            "femaleVariant": "Eh. Could've been worse."
+          },
+          {
+            "stringId": "1794036735478214656",
+            "femaleVariant": "Not over yet."
+          },
+          {
+            "stringId": "1794039174449213440",
+            "femaleVariant": "Somethin' tells me Dex ain't gonna be thrilled 'bout this…"
+          },
+          {
+            "stringId": "1794041649474449408",
+            "femaleVariant": "Got other things to worry about just now, Jack!"
+          },
+          {
+            "stringId": "1794044297741217792",
+            "femaleVariant": "Misty asked me… not to take this job."
+          },
+          {
+            "stringId": "1794046590482001920",
+            "femaleVariant": "Not now, Jack!"
+          },
+          {
+            "stringId": "1794048745314070528",
+            "femaleVariant": "Why's she always gotta be right…?"
+          },
+          {
+            "stringId": "1794049399910707200",
+            "femaleVariant": "As if one gap wasn't enough...!"
+          },
+          {
+            "stringId": "1794051450153611264",
+            "femaleVariant": "Quit whinin' and go."
+          },
+          {
+            "stringId": "1796565902266519552",
+            "femaleVariant": "No one but us now…"
+          },
+          {
+            "stringId": "1796567882296774656",
+            "femaleVariant": "Aaahhh... like gettin' a cool steel toe to the head."
+          },
+          {
+            "stringId": "1796570335830396928",
+            "femaleVariant": "Touché."
+          },
+          {
+            "stringId": "1904107617935740928",
+            "femaleVariant": "Whatcha waitin' for…? Search him!"
+          },
+          {
+            "stringId": "1922874791321997316",
+            "femaleVariant": "Limo – where'd that come from?"
+          },
+          {
+            "stringId": "1922877530873597952",
+            "femaleVariant": "Good question. No idea."
+          },
+          {
+            "stringId": "2006959752984993792",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Minotauro...!\" b=\"\" a=\" As if we aren't fucked beyond belief already.\"/>"
+          }
+        ]
+      }
+
+
+

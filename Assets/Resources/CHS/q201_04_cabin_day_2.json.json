@@ -1,0 +1,578 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1721925890459000832",
+            "femaleVariant": "认知功能测试。"
+          },
+          {
+            "stringId": "1721925890459000844",
+            "femaleVariant": "把魔方解开。"
+          },
+          {
+            "stringId": "1721925890559664128",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "1730403911457267712",
+            "femaleVariant": "请做好准备。测试很快就会开始。"
+          },
+          {
+            "stringId": "1730403911457267724",
+            "femaleVariant": "你们之前做的测试有结果了吗？"
+          },
+          {
+            "stringId": "1730403911457267736",
+            "femaleVariant": "没有。测试尚未结束。今天我们还要开始一系列新的测试。"
+          },
+          {
+            "stringId": "1730403911490822156",
+            "femaleVariant": "病人已经准备好接受检查。"
+          },
+          {
+            "stringId": "1730403911541153792",
+            "femaleVariant": "开始吧。"
+          },
+          {
+            "stringId": "1730403911557931020",
+            "femaleVariant": "这不是一样的？又来？"
+          },
+          {
+            "stringId": "1730403911557931036",
+            "femaleVariant": "为什么我解不开这个该死的魔方？"
+          },
+          {
+            "stringId": "1730403911591485440",
+            "femaleVariant": "快点儿开始吧。"
+          },
+          {
+            "stringId": "1730403911591485464",
+            "femaleVariant": "启动设备校准。"
+          },
+          {
+            "stringId": "1730403911591485476",
+            "femaleVariant": "请根据看到的关键字，说出你最先想到的词。"
+          },
+          {
+            "stringId": "1730403911591485488",
+            "femaleVariant": "越快越好，不要想，我都知道。"
+          },
+          {
+            "stringId": "1730403911591485500",
+            "femaleVariant": "疾病。"
+          },
+          {
+            "stringId": "1730403911625039888",
+            "femaleVariant": "“地面上出现了一团阴影。”"
+          },
+          {
+            "stringId": "1730403911625039904",
+            "femaleVariant": "够了。"
+          },
+          {
+            "stringId": "1730403911658594328",
+            "femaleVariant": "评估程序已完成。接下来我们开始动作功能测试。"
+          },
+          {
+            "stringId": "1730403911692148736",
+            "femaleVariant": "认知功能测试。"
+          },
+          {
+            "stringId": "1730403911692148748",
+            "femaleVariant": "把魔方解开。"
+          },
+          {
+            "stringId": "1730403911742480384",
+            "femaleVariant": "那之前那些测试的结果呢？"
+          },
+          {
+            "stringId": "1730403911759257600",
+            "femaleVariant": "好，来吧。早死早超生。"
+          },
+          {
+            "stringId": "1730403912111579136",
+            "femaleVariant": "什么情况？"
+          },
+          {
+            "stringId": "1730403912128356352",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "1730403912212242432",
+            "femaleVariant": "这不是，都一样的吗？"
+          },
+          {
+            "stringId": "1730403912279351304",
+            "femaleVariant": "我们需要非常精确的数据。"
+          },
+          {
+            "stringId": "1730403912312905728",
+            "femaleVariant": "为什么我解不开这个破魔方？"
+          },
+          {
+            "stringId": "1730403912312905740",
+            "femaleVariant": "这也是我要确认的问题。"
+          },
+          {
+            "stringId": "1730403912346460160",
+            "femaleVariant": "我。"
+          },
+          {
+            "stringId": "1730403912346460176",
+            "femaleVariant": "强尼。"
+          },
+          {
+            "stringId": "1730403912346460192",
+            "femaleVariant": "生命。"
+          },
+          {
+            "stringId": "1730403912346460208",
+            "femaleVariant": "这座城市。"
+          },
+          {
+            "stringId": "1730403912346460224",
+            "femaleVariant": "死亡。"
+          },
+          {
+            "stringId": "1730403912363237380",
+            "femaleVariant": "不知道。"
+          },
+          {
+            "stringId": "1730403912380014592",
+            "femaleVariant": "我。"
+          },
+          {
+            "stringId": "1730403912413569024",
+            "femaleVariant": "反叛。"
+          },
+          {
+            "stringId": "1730403912430346240",
+            "femaleVariant": "强尼。"
+          },
+          {
+            "stringId": "1730403912463900672",
+            "femaleVariant": "生命。"
+          },
+          {
+            "stringId": "1730403912480677888",
+            "femaleVariant": "这座城市。"
+          },
+          {
+            "stringId": "1730403912514232320",
+            "femaleVariant": "死亡。"
+          },
+          {
+            "stringId": "1730403912547786752",
+            "femaleVariant": "不知道。没想法。"
+          },
+          {
+            "stringId": "1730403912581341184",
+            "femaleVariant": "我。"
+          },
+          {
+            "stringId": "1730403912581341200",
+            "femaleVariant": "强尼。"
+          },
+          {
+            "stringId": "1730403912581341216",
+            "femaleVariant": "生命。"
+          },
+          {
+            "stringId": "1730403912581341232",
+            "femaleVariant": "死亡。"
+          },
+          {
+            "stringId": "1730403912598118408",
+            "femaleVariant": "什么都没想到。"
+          },
+          {
+            "stringId": "1730403912598118424",
+            "femaleVariant": "我不知道。"
+          },
+          {
+            "stringId": "1730403912631672832",
+            "femaleVariant": "我。"
+          },
+          {
+            "stringId": "1730403912648450048",
+            "femaleVariant": "我。自己。"
+          },
+          {
+            "stringId": "1730403912732336128",
+            "femaleVariant": "强尼。"
+          },
+          {
+            "stringId": "1730403912765890560",
+            "femaleVariant": "生命。"
+          },
+          {
+            "stringId": "1730403912782667776",
+            "femaleVariant": "死亡。"
+          },
+          {
+            "stringId": "1730403912816222208",
+            "femaleVariant": "没想法。"
+          },
+          {
+            "stringId": "1730403912849776640",
+            "femaleVariant": "呃，想不出来。"
+          },
+          {
+            "stringId": "1730403912883331072",
+            "femaleVariant": "强尼。"
+          },
+          {
+            "stringId": "1730403912883331088",
+            "femaleVariant": "空虚。"
+          },
+          {
+            "stringId": "1730403912883331104",
+            "femaleVariant": "死亡。"
+          },
+          {
+            "stringId": "1730403912900108296",
+            "femaleVariant": "转变。"
+          },
+          {
+            "stringId": "1730403912900108312",
+            "femaleVariant": "孤独。"
+          },
+          {
+            "stringId": "1730403912900108328",
+            "femaleVariant": "我不知道。"
+          },
+          {
+            "stringId": "1730403912933662720",
+            "femaleVariant": "强尼。"
+          },
+          {
+            "stringId": "1730403912983994368",
+            "femaleVariant": "当前。"
+          },
+          {
+            "stringId": "1730403913017548800",
+            "femaleVariant": "空虚。"
+          },
+          {
+            "stringId": "1730403913051103232",
+            "femaleVariant": "死亡。"
+          },
+          {
+            "stringId": "1730403913084657664",
+            "femaleVariant": "转变。"
+          },
+          {
+            "stringId": "1730403913118212096",
+            "femaleVariant": "孤独。"
+          },
+          {
+            "stringId": "1730403913151766528",
+            "femaleVariant": "呃，没想法。"
+          },
+          {
+            "stringId": "1730403913185320960",
+            "femaleVariant": "地狱。"
+          },
+          {
+            "stringId": "1730403913185320976",
+            "femaleVariant": "虚无。"
+          },
+          {
+            "stringId": "1730403913185320992",
+            "femaleVariant": "荒坂。"
+          },
+          {
+            "stringId": "1730403913185321008",
+            "femaleVariant": "孤独。"
+          },
+          {
+            "stringId": "1730403913202098184",
+            "femaleVariant": "死亡。"
+          },
+          {
+            "stringId": "1730403913202098200",
+            "femaleVariant": "没想法。"
+          },
+          {
+            "stringId": "1730403913235652608",
+            "femaleVariant": "地狱。"
+          },
+          {
+            "stringId": "1730403913269207040",
+            "femaleVariant": "虚无。"
+          },
+          {
+            "stringId": "1730403913285984256",
+            "femaleVariant": "荒坂。"
+          },
+          {
+            "stringId": "1730403913319538688",
+            "femaleVariant": "孤独。"
+          },
+          {
+            "stringId": "1730403913353093120",
+            "femaleVariant": "死亡。"
+          },
+          {
+            "stringId": "1730403913369870336",
+            "femaleVariant": "没想法。不知道。"
+          },
+          {
+            "stringId": "1730403913403424768",
+            "femaleVariant": "不知道。"
+          },
+          {
+            "stringId": "1730403913403424784",
+            "femaleVariant": "荒坂。"
+          },
+          {
+            "stringId": "1730403913403424800",
+            "femaleVariant": "这座城市。"
+          },
+          {
+            "stringId": "1730403913420201984",
+            "femaleVariant": "没想法。"
+          },
+          {
+            "stringId": "1730403913420202000",
+            "femaleVariant": "反叛。"
+          },
+          {
+            "stringId": "1730403913420202016",
+            "femaleVariant": "死亡。"
+          },
+          {
+            "stringId": "1730403913470533632",
+            "femaleVariant": "没想法。"
+          },
+          {
+            "stringId": "1730403913504088064",
+            "femaleVariant": "你身处一片玉米地，放眼望去，全是高大的绿色植物。"
+          },
+          {
+            "stringId": "1730403913504088076",
+            "femaleVariant": "阳光直射你眼睛，明亮而刺目。你往前走去，身边的玉米杆儿向两旁分开。"
+          },
+          {
+            "stringId": "1730403913504088088",
+            "femaleVariant": "你走到一片空地，那是自动收割机留下的痕迹。"
+          },
+          {
+            "stringId": "1730403913554419712",
+            "femaleVariant": "荒坂。"
+          },
+          {
+            "stringId": "1730403913587974144",
+            "femaleVariant": "这座城市。"
+          },
+          {
+            "stringId": "1730403913638305792",
+            "femaleVariant": "什么都没想到。"
+          },
+          {
+            "stringId": "1730403913671860224",
+            "femaleVariant": "反叛。"
+          },
+          {
+            "stringId": "1730403913705414656",
+            "femaleVariant": "死亡。"
+          },
+          {
+            "stringId": "1730403913738969088",
+            "femaleVariant": "未来。"
+          },
+          {
+            "stringId": "1730403913806077952",
+            "femaleVariant": "“天气很热，你的嘴里又干又黏。你看到脚边有个鼠窝。”"
+          },
+          {
+            "stringId": "1730403913839632388",
+            "femaleVariant": "收割机翻松了土壤。你看到刚出生的小田鼠，它们的眼睛还没睁开，围着母鼠。这只母鼠已经被切成了两半。"
+          },
+          {
+            "stringId": "1730403913839632400",
+            "femaleVariant": "它们完全对称，就像个田鼠做的小装饰。你的嘴里分泌出了口水。"
+          },
+          {
+            "stringId": "1730403913856409600",
+            "femaleVariant": "“地面上出现了一团阴影。这是今年的第一朵雨云。”"
+          },
+          {
+            "stringId": "1730403913889964032",
+            "femaleVariant": "行了。够了。"
+          },
+          {
+            "stringId": "1730403914309394432",
+            "femaleVariant": "[接入]"
+          },
+          {
+            "stringId": "1730403914359726080",
+            "femaleVariant": "准备进行高阶表达形成，正在启动测试。"
+          },
+          {
+            "stringId": "1730403914997260288",
+            "femaleVariant": "下一项测试。请连入你的个人连接。"
+          },
+          {
+            "stringId": "1730403915953561600",
+            "femaleVariant": "现在请你站上跑步机。"
+          },
+          {
+            "stringId": "1730403916071002112",
+            "femaleVariant": "请连入个人连接。"
+          },
+          {
+            "stringId": "1730403916138110976",
+            "femaleVariant": "[接入]"
+          },
+          {
+            "stringId": "1730403916188442624",
+            "femaleVariant": "我上次跑的不错啊，不是吗？"
+          },
+          {
+            "stringId": "1730403916272328704",
+            "femaleVariant": "慢慢地走。"
+          },
+          {
+            "stringId": "1730403916322660352",
+            "femaleVariant": "不。我不干了。"
+          },
+          {
+            "stringId": "1730403916372992000",
+            "femaleVariant": "目前还可以，嗯？"
+          },
+          {
+            "stringId": "1730403916406546432",
+            "femaleVariant": "不，不。这毫无意义。"
+          },
+          {
+            "stringId": "1730403916607873024",
+            "femaleVariant": "这些测试很有必要，必须要进行下去。"
+          },
+          {
+            "stringId": "1730403916658204672",
+            "femaleVariant": "稍微快点儿试试。"
+          },
+          {
+            "stringId": "1730403916658204680",
+            "femaleVariant": "现在把速度加到三。"
+          },
+          {
+            "stringId": "1730403916859531264",
+            "femaleVariant": "我…我不行了。停下。"
+          },
+          {
+            "stringId": "1730403916976971776",
+            "femaleVariant": "[断开并起身]"
+          },
+          {
+            "stringId": "1731534439074394112",
+            "femaleVariant": "跑步机停止。"
+          },
+          {
+            "stringId": "1731538952665591824",
+            "femaleVariant": "通讯已经解锁了。现在你可以打电话回家，打去地球。"
+          },
+          {
+            "stringId": "1731538952665591840",
+            "femaleVariant": "今天的测试到此为止。"
+          },
+          {
+            "stringId": "1731638061099724800",
+            "femaleVariant": "[爬起]"
+          },
+          {
+            "stringId": "1731879734913556480",
+            "femaleVariant": "天气很热，你的嘴里又干又黏。你看到脚边有个鼠窝。"
+          },
+          {
+            "stringId": "1731880946547318784",
+            "femaleVariant": "“天气很热，你的嘴里又干…”"
+          },
+          {
+            "stringId": "1731909262394286080",
+            "femaleVariant": "地面上出现了一团阴影。这是今年的第一朵雨云。"
+          },
+          {
+            "stringId": "1737610241595105280",
+            "femaleVariant": "嗯。"
+          },
+          {
+            "stringId": "1741588737833644032",
+            "femaleVariant": "运动机能测试。"
+          },
+          {
+            "stringId": "1741754627824889856",
+            "femaleVariant": "[躺下]"
+          },
+          {
+            "stringId": "1743185584847138816",
+            "femaleVariant": "[坐]"
+          },
+          {
+            "stringId": "1783739860895371264",
+            "femaleVariant": "我知道自己的斤两。"
+          },
+          {
+            "stringId": "1783740341696827392",
+            "femaleVariant": "听着，我的身体我知道。你们这样撑不了多久的。"
+          },
+          {
+            "stringId": "1857574168197554176",
+            "femaleVariant": "我有点受不了这测试了。"
+          },
+          {
+            "stringId": "1857574519680229376",
+            "femaleVariant": "这些测试也许有些枯燥，但对保证患者的身体健康和安全必不可少。"
+          },
+          {
+            "stringId": "1862225560516190208",
+            "femaleVariant": "怎么老是这一套？"
+          },
+          {
+            "stringId": "1955178222206869504",
+            "femaleVariant": "这一系列测试是必须的，而且一定要完成。"
+          },
+          {
+            "stringId": "2048954274446389248",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "2048955946480513024",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "2048955983776264192",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "2048995014794883072",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "2048995084336443392",
+            "femaleVariant": "[解题]"
+          },
+          {
+            "stringId": "2048995134215106560",
+            "femaleVariant": "[解题]"
+          }
+        ]
+      }
+
+
+

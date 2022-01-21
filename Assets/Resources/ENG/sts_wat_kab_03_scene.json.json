@@ -1,0 +1,346 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1923080477339914240",
+            "femaleVariant": "Stop!"
+          },
+          {
+            "stringId": "1923082299630784516",
+            "femaleVariant": "I'm here by contract, from a fixer, nothin' personal."
+          },
+          {
+            "stringId": "1923083357685911556",
+            "femaleVariant": "Fixer sent me."
+          },
+          {
+            "stringId": "1924328600439721984",
+            "femaleVariant": "GPS transmitter. The one you forgot to disable on the stolen meds."
+          },
+          {
+            "stringId": "1925693695782653952",
+            "femaleVariant": "GPS signal."
+          },
+          {
+            "stringId": "1925745996824154112",
+            "femaleVariant": "Sure, sure. And you be careful with that trigger."
+          },
+          {
+            "stringId": "1925760444288831488",
+            "femaleVariant": "Hand over the stolen meds and I'm gone."
+          },
+          {
+            "stringId": "1925852223159767040",
+            "femaleVariant": "Stolen?! Hahaha! The baloperidol doesn't work! S-so who's stealing from who?! Who?!"
+          },
+          {
+            "stringId": "1925852426331852800",
+            "femaleVariant": "Stolen?! Hahaha! The baloperidol doesn't work! S-so who's stealing from who?! Who?!"
+          },
+          {
+            "stringId": "1925885647769669632",
+            "femaleVariant": "Just hand 'em over and I'm gone."
+          },
+          {
+            "stringId": "1925940552937082880",
+            "femaleVariant": "H-how'd you find me?"
+          },
+          {
+            "stringId": "1925950590997073920",
+            "femaleVariant": "Aaaargh! I’m not fucking crazy!"
+          },
+          {
+            "stringId": "1947640913972269056",
+            "femaleVariant": "Baloperidol? For cyberpsychosis?"
+          },
+          {
+            "stringId": "1947696791211577344",
+            "femaleVariant": "Easy, easy…"
+          },
+          {
+            "stringId": "1947697116840562688",
+            "femaleVariant": "Sh-shut up! Go away!"
+          },
+          {
+            "stringId": "1947698691751383040",
+            "femaleVariant": "If it doesn't work, give it to me."
+          },
+          {
+            "stringId": "1947699443605540864",
+            "femaleVariant": "Give it, or I call MaxTac."
+          },
+          {
+            "stringId": "1947700634100011008",
+            "femaleVariant": "This is our situation."
+          },
+          {
+            "stringId": "1947700927516741632",
+            "femaleVariant": "If they're no use to you, they don't work, just hand 'em over."
+          },
+          {
+            "stringId": "1947707187599347712",
+            "femaleVariant": "Ripperdocs! They're the real criminals!"
+          },
+          {
+            "stringId": "1947710731618455552",
+            "femaleVariant": "You're the same as them… rippers, politicians… the same as that fucking Holt!"
+          },
+          {
+            "stringId": "1947710974116335620",
+            "femaleVariant": "His death would change nothing."
+          },
+          {
+            "stringId": "1947738819647606784",
+            "femaleVariant": "You're a soldier, not a terrorist."
+          },
+          {
+            "stringId": "1947746420951191552",
+            "femaleVariant": "I see we're past talking."
+          },
+          {
+            "stringId": "1947747827536203776",
+            "femaleVariant": "Do what you want, but give me the drugs."
+          },
+          {
+            "stringId": "1947748228931096580",
+            "femaleVariant": "Listen, I don't really care."
+          },
+          {
+            "stringId": "1947748228931096600",
+            "femaleVariant": "Wanna murder a mayor? Fine. You think it'll make a difference? Sure, why not."
+          },
+          {
+            "stringId": "1947748228931096620",
+            "femaleVariant": "I just need those meds."
+          },
+          {
+            "stringId": "1947748228931096640",
+            "femaleVariant": "Ha, ha, ha… I see… It's all so clear…"
+          },
+          {
+            "stringId": "1947749449775550468",
+            "femaleVariant": "Last marble just hit the floor. Can't let this drag on."
+          },
+          {
+            "stringId": "1947749449792327696",
+            "femaleVariant": "You're part of the system… a--a pawn in it… a slave to it…"
+          },
+          {
+            "stringId": "1947783465027342336",
+            "femaleVariant": "Let's just fight."
+          },
+          {
+            "stringId": "1947783730224795648",
+            "femaleVariant": "We know where this's headed, rather not waste my time."
+          },
+          {
+            "stringId": "1947784044076175360",
+            "femaleVariant": "I appreciate your candor."
+          },
+          {
+            "stringId": "1947788844926865412",
+            "femaleVariant": "A Militech HKS-47 with polymer reinforcement. You were a soldier."
+          },
+          {
+            "stringId": "1947788844926865432",
+            "femaleVariant": "Militech. 3rd Light Division, 155th Infantry Regiment, 7 years in a fuckin' jungle… When times were simpler."
+          },
+          {
+            "stringId": "1947788844943642636",
+            "femaleVariant": "Before you got sick?"
+          },
+          {
+            "stringId": "1947788844943642656",
+            "femaleVariant": "They cast me out like a dead battery."
+          },
+          {
+            "stringId": "1947788844993974272",
+            "femaleVariant": "I understand your anger."
+          },
+          {
+            "stringId": "1947788844993974304",
+            "femaleVariant": "Where did you serve?"
+          },
+          {
+            "stringId": "1947788845111414788",
+            "femaleVariant": "You're angry, and I get it. You feel cheated."
+          },
+          {
+            "stringId": "1947788845128192000",
+            "femaleVariant": "Not just me!"
+          },
+          {
+            "stringId": "1947788845128192020",
+            "femaleVariant": "I know, but if you zero Holt, you'll make it worse for everyone in your condition. They'll hunt you down."
+          },
+          {
+            "stringId": "1947788845161746436",
+            "femaleVariant": "Where'd you serve?"
+          },
+          {
+            "stringId": "1947788845178523664",
+            "femaleVariant": "Brazil. R-remember all of it… Dirt on my face… F-fatigues always--always wet…"
+          },
+          {
+            "stringId": "1947788845178523684",
+            "femaleVariant": "It's like a braindance I-I-I can't shut off…"
+          },
+          {
+            "stringId": "1947788845195300864",
+            "femaleVariant": "The memories flood back?"
+          },
+          {
+            "stringId": "1947788845195300884",
+            "femaleVariant": "Without the adrenaline. Without my brothers… Fuck! So quickly they forgot me…"
+          },
+          {
+            "stringId": "1947811611894190080",
+            "femaleVariant": "It's campaign season. The first ribbon-cutter to push an anti-psycho policy after Holt's death is winnin' that election."
+          },
+          {
+            "stringId": "1947827423497523200",
+            "femaleVariant": "No! No, that's not true! The people will understand! The system will start to fall!"
+          },
+          {
+            "stringId": "1947829203795021824",
+            "femaleVariant": "Everyone like you, they'll hunt you all down."
+          },
+          {
+            "stringId": "1947859677208743936",
+            "femaleVariant": "Leave… Go, please…"
+          },
+          {
+            "stringId": "1947860220941537280",
+            "femaleVariant": "You know I can't without those meds."
+          },
+          {
+            "stringId": "1947860594855350272",
+            "femaleVariant": "Over there… I wanna be alone."
+          },
+          {
+            "stringId": "1954556513713754112",
+            "femaleVariant": "But… but soon… I'll find him. End him."
+          },
+          {
+            "stringId": "1954558463662460928",
+            "femaleVariant": "Other poltician's will make use of his death."
+          },
+          {
+            "stringId": "1954558734463504384",
+            "femaleVariant": "They'll say you're a psycho."
+          },
+          {
+            "stringId": "1954558802679664640",
+            "femaleVariant": "The death of one politician won't change anything."
+          },
+          {
+            "stringId": "1954559218989502464",
+            "femaleVariant": "If you kill Holt, first thing they'll do is brand you a psycho and a terrorist."
+          },
+          {
+            "stringId": "1954609936916123648",
+            "femaleVariant": "Uh-huh."
+          },
+          {
+            "stringId": "1954615156341575680",
+            "femaleVariant": "It will! These--these silver-tongue devils won't dare turn on their people ever again!"
+          },
+          {
+            "stringId": "1954654076714455040",
+            "femaleVariant": "A line, I'm drawing a line! They can't treat us this way anymore! They--they--they can't use us anymore!"
+          },
+          {
+            "stringId": "1954676251546718208",
+            "femaleVariant": "It’s not about ME! This is for everyone! All the sick!"
+          },
+          {
+            "stringId": "1954676793014587392",
+            "femaleVariant": "No, this'd be a disservice to them. What're people gonna remember?"
+          },
+          {
+            "stringId": "1954695649212862464",
+            "femaleVariant": "Cyberpsycho terrorist on one side, media-backed politicians on the other. Now, who's the crowd favorite?"
+          },
+          {
+            "stringId": "1954893056714313728",
+            "femaleVariant": "I could think of a few differences."
+          },
+          {
+            "stringId": "1954897356496670720",
+            "femaleVariant": "Shut UP! That bastard, he stole from--from research! He doesn't care about the sick!"
+          },
+          {
+            "stringId": "1954928971734159360",
+            "femaleVariant": "\"Cyberpsycho assassin kills in cold blood.\" Who'd wanna help a monster like that?"
+          },
+          {
+            "stringId": "1957975186767974400",
+            "femaleVariant": "Either you give me what you stole."
+          },
+          {
+            "stringId": "1957975431597887488",
+            "femaleVariant": "How--how can you work for them?"
+          },
+          {
+            "stringId": "1957975704596746240",
+            "femaleVariant": "Or MaxTac swoops in, pays you a visit."
+          },
+          {
+            "stringId": "1957976673631965184",
+            "femaleVariant": "You ordinary… sell-out… piece of SHIT!!!"
+          },
+          {
+            "stringId": "1957999533914165248",
+            "femaleVariant": "That's no reason to become a terrorist."
+          },
+          {
+            "stringId": "1958020391030329344",
+            "femaleVariant": "You hear that howling at night?"
+          },
+          {
+            "stringId": "1958021105169305600",
+            "femaleVariant": "Like a dyin' animal. Waaargh! Aaaagh!"
+          },
+          {
+            "stringId": "1958021136341372928",
+            "femaleVariant": "I know… And we can't ask them or we will repay them for the rest of our lives!"
+          },
+          {
+            "stringId": "1958034090231173120",
+            "femaleVariant": "Shh, shh, quiet!"
+          },
+          {
+            "stringId": "1958034876696727552",
+            "femaleVariant": "Ugh… Can't call the police  on him or it'll rile up the Tygers."
+          },
+          {
+            "stringId": "1958039733281329152",
+            "femaleVariant": "Gotta do somethin'! Can't have him here."
+          },
+          {
+            "stringId": "1958039984822128640",
+            "femaleVariant": "I don't know…"
+          },
+          {
+            "stringId": "2004013097929965568",
+            "femaleVariant": "I told you not to move!"
+          }
+        ]
+      }
+
+
+

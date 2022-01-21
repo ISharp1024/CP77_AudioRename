@@ -1,0 +1,300 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1912499198408269828",
+            "femaleVariant": "Hands to yourself."
+          },
+          {
+            "stringId": "1912499198441824260",
+            "femaleVariant": "Got my eye on you."
+          },
+          {
+            "stringId": "1912499198508933124",
+            "femaleVariant": "You – back off."
+          },
+          {
+            "stringId": "1912499198525710340",
+            "femaleVariant": "Out of here. Now."
+          },
+          {
+            "stringId": "1912499198592819204",
+            "femaleVariant": "Drop your weapon, or I shoot!"
+          },
+          {
+            "stringId": "1912499198626373636",
+            "femaleVariant": "You're asking for trouble."
+          },
+          {
+            "stringId": "1912499198693482500",
+            "femaleVariant": "This will end badly for you."
+          },
+          {
+            "stringId": "1912499198727036932",
+            "femaleVariant": "Very unwise."
+          },
+          {
+            "stringId": "1912499198794145796",
+            "femaleVariant": "Get moving."
+          },
+          {
+            "stringId": "1912499198810923012",
+            "femaleVariant": "Out of my sight."
+          },
+          {
+            "stringId": "1912499198878031876",
+            "femaleVariant": "Halt! Who's there!"
+          },
+          {
+            "stringId": "1912499198894809092",
+            "femaleVariant": "I've got this."
+          },
+          {
+            "stringId": "1912499198978695168",
+            "femaleVariant": "I got nothing."
+          },
+          {
+            "stringId": "1912499199012249604",
+            "femaleVariant": "No threat detected."
+          },
+          {
+            "stringId": "1912499199096135684",
+            "femaleVariant": "I'll piss on your grave when this is over!"
+          },
+          {
+            "stringId": "1912499199112912900",
+            "femaleVariant": "Hellooooo? Where are youuuu?"
+          },
+          {
+            "stringId": "1912499199163244548",
+            "femaleVariant": "I think it's one of ours!"
+          },
+          {
+            "stringId": "1912499199196798980",
+            "femaleVariant": "Understood."
+          },
+          {
+            "stringId": "1912499199263907844",
+            "femaleVariant": "Shoot!"
+          },
+          {
+            "stringId": "1912499199280685060",
+            "femaleVariant": "Enemy contact! I'm engaging!"
+          },
+          {
+            "stringId": "1912499199331016708",
+            "femaleVariant": "Frag out!"
+          },
+          {
+            "stringId": "1912499199398125572",
+            "femaleVariant": "Neutralize the target!"
+          },
+          {
+            "stringId": "1912499199431680004",
+            "femaleVariant": "Open fire!"
+          },
+          {
+            "stringId": "1912499199498788868",
+            "femaleVariant": "She's chipped!",
+            "maleVariant": "He's chipped!"
+          },
+          {
+            "stringId": "1912499199515566084",
+            "femaleVariant": "I need backup!"
+          },
+          {
+            "stringId": "1912499199582674948",
+            "femaleVariant": "Back up, lady.",
+            "maleVariant": "Back it up, man."
+          },
+          {
+            "stringId": "1912499199616229376",
+            "femaleVariant": "Watch it."
+          },
+          {
+            "stringId": "1912499199649783812",
+            "femaleVariant": "Yes?"
+          },
+          {
+            "stringId": "1912499199750447108",
+            "femaleVariant": "Uh-huh… Please explain exactly why… Why the badges will be guarding the perimeter?"
+          },
+          {
+            "stringId": "1912499199784001540",
+            "femaleVariant": "OK, but I want to lead the mission myself."
+          },
+          {
+            "stringId": "1912499199851110404",
+            "femaleVariant": "Together!"
+          },
+          {
+            "stringId": "1912499199901442052",
+            "femaleVariant": "Affirmative!"
+          },
+          {
+            "stringId": "1912499199951773700",
+            "femaleVariant": "Get down!"
+          },
+          {
+            "stringId": "1912499199985328128",
+            "femaleVariant": "Yes, I will."
+          },
+          {
+            "stringId": "1912499200018882564",
+            "femaleVariant": "Commencing patrol."
+          },
+          {
+            "stringId": "1912499200102768644",
+            "femaleVariant": "Psst. Safety off."
+          },
+          {
+            "stringId": "1912499200136323076",
+            "femaleVariant": "Shh… Shoot at will."
+          },
+          {
+            "stringId": "1912499200186654724",
+            "femaleVariant": "Go there."
+          },
+          {
+            "stringId": "1912499200220209156",
+            "femaleVariant": "Go! Go! Go!"
+          },
+          {
+            "stringId": "1912499200270540804",
+            "femaleVariant": "Ekhh… ghh… I'm corporation… idiot…."
+          },
+          {
+            "stringId": "1912514399924920320",
+            "femaleVariant": "I'd rather use my own guys… OK, I see."
+          },
+          {
+            "stringId": "1912514691328385024",
+            "femaleVariant": "It'll be better that way, trust me… Of course it'll be on the down-low… Mm."
+          },
+          {
+            "stringId": "1958947896232550404",
+            "femaleVariant": "Hey, I wasn't finished..."
+          },
+          {
+            "stringId": "1958947896299659268",
+            "femaleVariant": "You ready to hear me out now?"
+          },
+          {
+            "stringId": "1958947896316436484",
+            "femaleVariant": "Ahe-he-he-hem!"
+          },
+          {
+            "stringId": "2233834383059623940",
+            "femaleVariant": "Unit down!"
+          },
+          {
+            "stringId": "2233834383193841668",
+            "femaleVariant": "Goddamn optics..."
+          },
+          {
+            "stringId": "2233834383378391040",
+            "femaleVariant": "It wasn't me. At ease and spread out."
+          },
+          {
+            "stringId": "2233834383512608772",
+            "femaleVariant": "Damn it, we're exposed!"
+          },
+          {
+            "stringId": "2233834383630049284",
+            "femaleVariant": "Heads down! Keep it together!"
+          },
+          {
+            "stringId": "2233834383680380932",
+            "femaleVariant": "You'll pay for this!"
+          },
+          {
+            "stringId": "2233834383747489796",
+            "femaleVariant": "You're dead!"
+          },
+          {
+            "stringId": "2233834383948816388",
+            "femaleVariant": "That's a hit!"
+          },
+          {
+            "stringId": "2233834384032702468",
+            "femaleVariant": "She's hit! Keep firing!",
+            "maleVariant": "He's hit! Keep firing!"
+          },
+          {
+            "stringId": "2233834384250806276",
+            "femaleVariant": "She's almost down! It's now or never!",
+            "maleVariant": "He's almost down! It's now or never!"
+          },
+          {
+            "stringId": "2233834384317915140",
+            "femaleVariant": "Copy!"
+          },
+          {
+            "stringId": "2233834384368246788",
+            "femaleVariant": "Smoke her out!",
+            "maleVariant": "Smoke him out!"
+          },
+          {
+            "stringId": "2233834384435355652",
+            "femaleVariant": "Out of ammo! Reloading!"
+          },
+          {
+            "stringId": "2233834384485687300",
+            "femaleVariant": "Neutralize the psycho!"
+          },
+          {
+            "stringId": "2233834384619905028",
+            "femaleVariant": "I've lost all visual!"
+          },
+          {
+            "stringId": "2233834384687013888",
+            "femaleVariant": "She's net-capable!",
+            "maleVariant": "He's net-capable!"
+          },
+          {
+            "stringId": "2233834384754122756",
+            "femaleVariant": "Got a boost!"
+          },
+          {
+            "stringId": "2233834384888340484",
+            "femaleVariant": "Close contact!"
+          },
+          {
+            "stringId": "2233834384972226564",
+            "femaleVariant": "Enemy contact!"
+          },
+          {
+            "stringId": "2233834385039335424",
+            "femaleVariant": "Cover you!"
+          },
+          {
+            "stringId": "2233834385089667076",
+            "femaleVariant": "Units lost!"
+          },
+          {
+            "stringId": "2233834385307770884",
+            "femaleVariant": "Engaging hostile!"
+          },
+          {
+            "stringId": "2233834385374879748",
+            "femaleVariant": "Huh?"
+          }
+        ]
+      }
+
+
+

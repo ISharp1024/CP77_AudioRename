@@ -1,0 +1,190 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1364794049638580224",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"어이! 여기! 여기야!\" t=\"Hey! Pssst! Hey, you!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1364794841405734912",
+            "femaleVariant": "Are you Hwangbo?"
+          },
+          {
+            "stringId": "1364798434145878016",
+            "femaleVariant": "You Hwangbo?"
+          },
+          {
+            "stringId": "1364809131500126208",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"그래. 근데 다들 날 \\\"치타\\\"라고 불러. 내가 또 치타처럼 존나 빠르거든.\" t=\"Yeah. But everyone calls me \\\"Cheetah.\\\" 'Cuz y'know, I'm fast like a cheetah.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1426918455311220736",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"이런 개씨발! 놈들이야!\" t=\"Shit, shit, shit, they're here!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1426918859507908608",
+            "femaleVariant": "Do I look blind or deaf to you?"
+          },
+          {
+            "stringId": "1426920158752292864",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"으... 씨발 존나 아슬아슬했는데 그래도 우리가 해냈어.\" t=\"Uff... That was a close call, but we did it.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1426923088624631808",
+            "femaleVariant": "Not my concern."
+          },
+          {
+            "stringId": "1426923384306286592",
+            "femaleVariant": "Regina knows what she's doing."
+          },
+          {
+            "stringId": "1426924195786670080",
+            "femaleVariant": "Not my concern."
+          },
+          {
+            "stringId": "1426927457948549120",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"야, 야. 그럼 이건 어때? 날 다시 도시로 데려다주면...\" t=\"'Ey, wait, how about this – you take me back to the city and...\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1426927554971189248",
+            "femaleVariant": "Out, or I'll harvest those kidneys myself."
+          },
+          {
+            "stringId": "1426927926401974272",
+            "femaleVariant": "Reggie hired 'em direct. Ran the spec herself."
+          },
+          {
+            "stringId": "1426929005227294720",
+            "femaleVariant": "Regina sends her regards."
+          },
+          {
+            "stringId": "1548802757639946248",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"알았어, 알았다고. 내리면 되잖아. 그리고... 모텔에서 도와줘서 고마웠어.\" t=\"OK. OK. I'm going. And... thanks for your help back at the motel.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1548802757639946256",
+            "femaleVariant": "Any time."
+          },
+          {
+            "stringId": "1660163554252570624",
+            "femaleVariant": "Let me do the driving."
+          },
+          {
+            "stringId": "1660164105920987136",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"그럼 난? 난 뭐 하면 되는데?\" t=\"And me? What am I supposed to do?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1660166368647331840",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"어이, 넌 별명 같은 거 없어?\" t=\"'Ey, you got some kinda nickname?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1734305507411640320",
+            "femaleVariant": "Nope."
+          },
+          {
+            "stringId": "1734306220711755776",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"저런, 그럼 이참에 뭐라도 생각해 놔. 길거리에서 존나 잘 먹힐 테니까.\" t=\"Damn, well you gotta come up with something. Street cred'll thank you for it.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1734311526573424640",
+            "femaleVariant": "Is that so?"
+          },
+          {
+            "stringId": "1734314080233472000",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"당연하지. 그냥 입에 착 붙는 거로 아무거나 지어내 봐. 그럼 사람들이 금방 기억할 거야.\" t=\"Totally. Just start calling yourself something and people'll catch onto it in no time.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1734314970382221312",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"난 효과 좀 봤거든.\" t=\"Worked for me, it did.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1893899385084104708",
+            "femaleVariant": "Nobody calls you that."
+          },
+          {
+            "stringId": "1893899668770050048",
+            "femaleVariant": "OK, \"Cheetah.\""
+          },
+          {
+            "stringId": "1893900846027296768",
+            "femaleVariant": "Nobody calls you that."
+          },
+          {
+            "stringId": "1893901031247761408",
+            "femaleVariant": "OK, \"Cheetah,\" whatever. I don't care. Long as you're good for it."
+          },
+          {
+            "stringId": "1893901216535334912",
+            "femaleVariant": "How'd you get here?"
+          },
+          {
+            "stringId": "1893904999763988480",
+            "femaleVariant": "Shut your trap if you don't wanna eat lead."
+          },
+          {
+            "stringId": "1893907126947205124",
+            "femaleVariant": "\"We?\""
+          },
+          {
+            "stringId": "1893907456216846336",
+            "femaleVariant": "You deserve a medal."
+          },
+          {
+            "stringId": "1893911366398693376",
+            "femaleVariant": "\"We?\" If it wasn't for me, you'd be a stain on a motel floor."
+          },
+          {
+            "stringId": "1893912985030938624",
+            "femaleVariant": "You want a medal or something?"
+          },
+          {
+            "stringId": "1893916284253687808",
+            "femaleVariant": "Just don't dirty up my ride, OK?"
+          },
+          {
+            "stringId": "1893917687818801156",
+            "femaleVariant": "Don't dirty up my ride."
+          },
+          {
+            "stringId": "1893918169861771264",
+            "femaleVariant": "Just stay quiet."
+          },
+          {
+            "stringId": "1893918970319523840",
+            "femaleVariant": "Just stay put an' quiet."
+          },
+          {
+            "stringId": "1893930130053844992",
+            "femaleVariant": "OK, we're here. Get out."
+          },
+          {
+            "stringId": "1893931545933434880",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"잠깐, 근데... 저 새끼들 믿어도 돼? 너 가면 내 콩팥 떼 가고 그러는 건 아니지?\" t=\"Wait, but... Are those guys cool? They won't harvest my kidneys the second you leave?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1912421337310576640",
+            "femaleVariant": "<kiroshi l=\"kor\" o=\"차 타고 왔지. 걸어왔겠냐? 이 근처에 주차해 뒀어.\" t=\"By car. Parked not too far from here.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1912511732094652416",
+            "femaleVariant": "You drive, then. I'll make sure you stay alive."
+          }
+        ]
+      }
+
+
+

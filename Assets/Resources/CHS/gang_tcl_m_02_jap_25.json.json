@@ -1,0 +1,194 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1876197797751431172",
+            "femaleVariant": "你懂的，街头声誉意味着银子。"
+          },
+          {
+            "stringId": "1876197797784985604",
+            "femaleVariant": "会混才能赢，懂吗？相信我，我门儿清。"
+          },
+          {
+            "stringId": "1876197797835317252",
+            "femaleVariant": "你干什么呢？这儿不是你该来的地方！"
+          },
+          {
+            "stringId": "1876197797852094468",
+            "femaleVariant": "出去！不然你会后悔的！"
+          },
+          {
+            "stringId": "1876197797902426116",
+            "femaleVariant": "我也带着家伙呢！不过比你的潮多了！"
+          },
+          {
+            "stringId": "1876197797919203332",
+            "femaleVariant": "别让我看到武器。不然我也要掏枪了！"
+          },
+          {
+            "stringId": "1876197797969534980",
+            "femaleVariant": "你惹上大事了！听到没有？大事！"
+          },
+          {
+            "stringId": "1876197798003089412",
+            "femaleVariant": "该死的瘪三！"
+          },
+          {
+            "stringId": "1876197798070198276",
+            "femaleVariant": "这就对了，我说了才算！"
+          },
+          {
+            "stringId": "1876197798086975492",
+            "femaleVariant": "嘿，好狗。"
+          },
+          {
+            "stringId": "1876197798137307140",
+            "femaleVariant": "嘿！谁在那边！"
+          },
+          {
+            "stringId": "1876197798170861572",
+            "femaleVariant": "怎么回事儿？这儿有人吗？"
+          },
+          {
+            "stringId": "1876197798221193220",
+            "femaleVariant": "唉，去他的。我该干的都干了。"
+          },
+          {
+            "stringId": "1876197798237970436",
+            "femaleVariant": "去他娘的！我不干了。"
+          },
+          {
+            "stringId": "1876197798288302084",
+            "femaleVariant": "出来啊，怂货！站出来！"
+          },
+          {
+            "stringId": "1876197798305079300",
+            "femaleVariant": "来啊，小猫！我们来玩吧！"
+          },
+          {
+            "stringId": "1876197798372188164",
+            "femaleVariant": "他死了！"
+          },
+          {
+            "stringId": "1876197798405742596",
+            "femaleVariant": "好吧，好吧，我去搞定！"
+          },
+          {
+            "stringId": "1876197798456074244",
+            "femaleVariant": "该来放放血了！"
+          },
+          {
+            "stringId": "1876197798489628676",
+            "femaleVariant": "终于，终于可以动手了！"
+          },
+          {
+            "stringId": "1876197798523183108",
+            "femaleVariant": "<mothertongue l=\"jpn\" m=\"baita\" b=\"接着，\" a=\"（贱货）！\"/>",
+            "maleVariant": "<mothertongue l=\"jpn\" m=\"kasu\" b=\"接着, \" a=\"（杂碎）!\"/>"
+          },
+          {
+            "stringId": "1876197798590291972",
+            "femaleVariant": "你完蛋了！"
+          },
+          {
+            "stringId": "1876197798623846400",
+            "femaleVariant": "干掉这个垃圾！"
+          },
+          {
+            "stringId": "1876197798674178052",
+            "femaleVariant": "你们这帮混蛋吃干饭的吗？！"
+          },
+          {
+            "stringId": "1876197798690955268",
+            "femaleVariant": "咱们跟他们拼了！"
+          },
+          {
+            "stringId": "1876197798741286916",
+            "femaleVariant": "你眼瞎吗！"
+          },
+          {
+            "stringId": "1876197798758064132",
+            "femaleVariant": "我记住你了！"
+          },
+          {
+            "stringId": "1876197798791618564",
+            "femaleVariant": "什么事儿？"
+          },
+          {
+            "stringId": "1876197798841950212",
+            "femaleVariant": "知道了…我当然要来啊…要多少…？"
+          },
+          {
+            "stringId": "1876197798875504640",
+            "femaleVariant": "嗯，我好着呢…呵，装了新的硬件…"
+          },
+          {
+            "stringId": "1876197798925836292",
+            "femaleVariant": "围住她！",
+            "maleVariant": "围住他！"
+          },
+          {
+            "stringId": "1876197798976167940",
+            "femaleVariant": "别让她跑了！",
+            "maleVariant": "别让他跑了！"
+          },
+          {
+            "stringId": "1876197799026499588",
+            "femaleVariant": "她要炸了！"
+          },
+          {
+            "stringId": "1876197799060054020",
+            "femaleVariant": "服了吧？这就对了。"
+          },
+          {
+            "stringId": "1876197799076831236",
+            "femaleVariant": "怎么回事儿？！"
+          },
+          {
+            "stringId": "1876197799127162884",
+            "femaleVariant": "<mothertongue l=\"jpn\" m=\"Yabai\" b=\"\" a=\"（不好）！伙计们！我们走！\"/>"
+          },
+          {
+            "stringId": "1876197799160717316",
+            "femaleVariant": "<mothertongue l=\"jpn\" m=\"aibou\" b=\"需要侦查一下，\" a=\"（兄弟）。\"/>"
+          },
+          {
+            "stringId": "1876197799211048964",
+            "femaleVariant": "去啊！快！"
+          },
+          {
+            "stringId": "1876197799244603396",
+            "femaleVariant": "你敢跟我们帮派对着干！",
+            "maleVariant": "你敢跟我们对着干！"
+          },
+          {
+            "stringId": "1876197799294935044",
+            "femaleVariant": "<mothertongue l=\"jpn\" m=\"kusoga\" b=\"咳咳…呃咳咳…开恩啊…\" a=\"（混蛋）…不…\"/>"
+          },
+          {
+            "stringId": "1876207204853882880",
+            "femaleVariant": "呃，对，那车我有…我知道去哪儿…"
+          },
+          {
+            "stringId": "1876208004271448064",
+            "femaleVariant": "是摩托飞车，不是摩托，卖菜的都会骑摩托…嗯…我们能不能…嘶…"
+          }
+        ]
+      }
+
+
+

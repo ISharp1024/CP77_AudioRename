@@ -1,0 +1,521 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1715518415144230912",
+            "femaleVariant": "不过之前…就在你绑架我不久后…"
+          },
+          {
+            "stringId": "1760692181418393600",
+            "femaleVariant": "完成了，可以走了。"
+          },
+          {
+            "stringId": "1760734771220070400",
+            "femaleVariant": "我…强尼，靠，不行…现在不行！"
+          },
+          {
+            "stringId": "1761764088704155648",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"お父様\" t=\"父亲。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1761764752712810496",
+            "femaleVariant": "银手向你问好。"
+          },
+          {
+            "stringId": "1761765033244639232",
+            "femaleVariant": "找我来做什么？"
+          },
+          {
+            "stringId": "1761765192963735552",
+            "femaleVariant": "我不和你说话。"
+          },
+          {
+            "stringId": "1761769029325832192",
+            "femaleVariant": "荣幸之至…"
+          },
+          {
+            "stringId": "1761770557881204736",
+            "femaleVariant": "找我做什么？"
+          },
+          {
+            "stringId": "1761771222292512768",
+            "femaleVariant": "你说对了，老杂种！"
+          },
+          {
+            "stringId": "1761771565218807808",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ハッ\" t=\"哈。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1761772564369129472",
+            "femaleVariant": "你想我和你谈——别做梦了。"
+          },
+          {
+            "stringId": "1761773175395336192",
+            "femaleVariant": "能见到您是我莫大的荣幸…"
+          },
+          {
+            "stringId": "1761773726761762816",
+            "femaleVariant": "我在这里的荒坂反情报科做过，就在…"
+          },
+          {
+            "stringId": "1761783469928628224",
+            "femaleVariant": "强尼·银手向你问好。"
+          },
+          {
+            "stringId": "1824104557170266112",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前は我が社から盗みを働いた\" t=\"这是你从我公司偷的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1824105142477000704",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"さらには娘の誘拐に加担し――\" t=\"你参与了对我女儿的绑架。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1824105491141103616",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"今度は息子を葬り去ろうとしている\" t=\"而现在，你还想让我儿子走上绝路。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1824117826253623296",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"確かにただ者ではない\" t=\"她是独一无二的。\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"jpn\" o=\"確かにただ者ではない\" t=\"他是独一无二的。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1824123159579594752",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"私のテクノロジーと己の愚行によって身を滅ぼす前のことか\" t=\"在你受害于我的技术和你自己的愚蠢之前。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1824172674714046464",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"生と死…\" t=\"生命，死亡…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1824176913259565056",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"私たちの使命は――\" t=\"这就是你我现在做的事。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1824177960426278912",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"その境界を限りなく薄くすることだ\" t=\"模糊彼此之间的分界线。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1824178288722841600",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前はそのプロセスの一部となった。感謝しなくてはな\" t=\"你是这过程的一份子，我想我应该感谢你。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1824212573248950272",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ハナコの言うとおりだな\" t=\"你说得没错，华子。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1824218436953051136",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"この人よ\" t=\"她来了。\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"jpn\" o=\"この人よ\" t=\"他来了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1824245662985621504",
+            "femaleVariant": "我可没答应这事。"
+          },
+          {
+            "stringId": "1824246559107059712",
+            "femaleVariant": "你应该先告诫我一声。"
+          },
+          {
+            "stringId": "1824249633246679040",
+            "femaleVariant": "你之前不是这么说的！"
+          },
+          {
+            "stringId": "1824249670257217536",
+            "femaleVariant": "你应该早点儿跟我说的。"
+          },
+          {
+            "stringId": "1825862985198735360",
+            "femaleVariant": "行政层应该在上面…"
+          },
+          {
+            "stringId": "1825863062692696064",
+            "femaleVariant": "这电梯是往下的…"
+          },
+          {
+            "stringId": "1825865485138137088",
+            "femaleVariant": "我告诉过你，只有通过荒坂塔底下的房间才能进入神舆。"
+          },
+          {
+            "stringId": "1825865869789368320",
+            "femaleVariant": "在介入这次董事会议之前，我们还有一件事情要做。"
+          },
+          {
+            "stringId": "1825866592149180416",
+            "femaleVariant": "嗯？"
+          },
+          {
+            "stringId": "1825867694076727296",
+            "femaleVariant": "那我们坐电梯下去干什么？"
+          },
+          {
+            "stringId": "1825867824788017152",
+            "femaleVariant": "没错。"
+          },
+          {
+            "stringId": "1825868995686699008",
+            "femaleVariant": "我总有一种感觉，你并没有告诉我全部实情。"
+          },
+          {
+            "stringId": "1825870677183172608",
+            "femaleVariant": "现在你我彼此信任。所以你才能站在这里。"
+          },
+          {
+            "stringId": "1825874072505815040",
+            "femaleVariant": "因为我确实没有告诉你全部实情。"
+          },
+          {
+            "stringId": "1825874324063391744",
+            "femaleVariant": "我一向谨慎。"
+          },
+          {
+            "stringId": "1825877092404695040",
+            "femaleVariant": "那你还说什么我们要彼此信任。"
+          },
+          {
+            "stringId": "1825899115017277440",
+            "femaleVariant": "父亲大人复制的可不仅仅是这一间办公室。"
+          },
+          {
+            "stringId": "1825901745399533568",
+            "femaleVariant": "什么？！"
+          },
+          {
+            "stringId": "1825906453237338112",
+            "femaleVariant": "我曾向他寻求建议。"
+          },
+          {
+            "stringId": "1825925022780100608",
+            "femaleVariant": "V！"
+          },
+          {
+            "stringId": "1825927783135449088",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"行きましょう… 彼女がバカなことをしでかす前に\" t=\"我们该走了…以免她干蠢事。\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"jpn\" o=\"行きましょう… 彼がバカなことをしでかす前に\" t=\"我们该走了…以免他干蠢事。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1841697679718879232",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"アラサカにずいぶんと恨みがあるようだな\" t=\"兴许有人会认为，你对荒坂心怀怨恨。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1841703054048366592",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"そのはざまに…\" t=\"而这两者之间…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1841705595041615872",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ガラスがある\" t=\"隔着层玻璃。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1841711470842089476",
+            "femaleVariant": "我是为了自己才这么做。"
+          },
+          {
+            "stringId": "1841711580330201088",
+            "femaleVariant": "光是感谢远远不够。"
+          },
+          {
+            "stringId": "1841712794312773632",
+            "femaleVariant": "我这么做只是为了自己。"
+          },
+          {
+            "stringId": "1841712875212509184",
+            "femaleVariant": "一句感谢就想打发我？"
+          },
+          {
+            "stringId": "1841713039008468992",
+            "femaleVariant": "我不想就这么死在一块玻璃板后。"
+          },
+          {
+            "stringId": "1841723310456311808",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"さて、時間を無駄にするのはよそう\" t=\"我们还是别再浪费时间了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1841749823373316096",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"準備はいいぞ、ハナコ\" t=\"我准备好了，华子。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1841752511217537024",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"お父様\" t=\"父亲。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1841755617804292096",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"心配するな。しかるべき代償は払う\" t=\"这我知道，我会适当补偿你。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1841769802772647936",
+            "femaleVariant": "这不可能…"
+          },
+          {
+            "stringId": "1841781785127424000",
+            "femaleVariant": "呃，谁？"
+          },
+          {
+            "stringId": "1841781826332266496",
+            "femaleVariant": "父亲。"
+          },
+          {
+            "stringId": "1843279128821633024",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"大胆さと傲慢さの境界もまた薄いものだ\" t=\"看来无畏和无礼之间的界限也模糊了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1844422167308931072",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"始めろ\" t=\"开始吧。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1844439463662325760",
+            "femaleVariant": "抱歉，我之前不能向你透露任何事情。"
+          },
+          {
+            "stringId": "1844440694170456064",
+            "femaleVariant": "不，这我不能说。"
+          },
+          {
+            "stringId": "1844450271377100800",
+            "femaleVariant": "为什么？"
+          },
+          {
+            "stringId": "1844450332328726528",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"私が口外を禁じたからだ\" t=\"因为我不允许她这么做。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1844451479621865472",
+            "femaleVariant": "你放屁！",
+            "maleVariant": "放屁！"
+          },
+          {
+            "stringId": "1844452084172066816",
+            "femaleVariant": "V…你这样太失礼了。"
+          },
+          {
+            "stringId": "1844485967118733312",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前を自らの目で見てみたかった\" t=\"我想亲眼看看你。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1844489113719148544",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"お前の意見は関係ない\" t=\"你要的根本无关紧要。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1844498747179798528",
+            "femaleVariant": "我是和华子交易，不是和你。"
+          },
+          {
+            "stringId": "1844499144732708864",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ほう。それはどうかな\" t=\"啊。你是这么想的吗？\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1844499507103797248",
+            "femaleVariant": "为什么呢…？"
+          },
+          {
+            "stringId": "1844513504922308608",
+            "femaleVariant": "人都会犯错——我就是来弥补它的。"
+          },
+          {
+            "stringId": "1844516918330789888",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ごくありふれた人間が、時に重要な役割を担う――運命のいたずらとでも言うべきか\" t=\"一个普通人有时竟要承载那么多东西，这总让我很惊讶。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1846017255449432064",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ならば道は誤っていない\" t=\"那你就来对了。\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1896453856763658244",
+            "femaleVariant": "[坐下]"
+          },
+          {
+            "stringId": "1896458874057211908",
+            "femaleVariant": "[起身] 我们走。"
+          },
+          {
+            "stringId": "1912733334420418560",
+            "femaleVariant": "等等——我要跟杰克·威尔斯说话。"
+          },
+          {
+            "stringId": "1912733705096228864",
+            "femaleVariant": "谁？"
+          },
+          {
+            "stringId": "1912733891256217600",
+            "femaleVariant": "是你们拿走了他的尸体，荒坂的人。五郎说你们能让死人张嘴。现在我好像终于明白了。"
+          },
+          {
+            "stringId": "1912734187122421760",
+            "femaleVariant": "恐怕这完全不是一回事。不过可以试试…"
+          },
+          {
+            "stringId": "1912734340751388672",
+            "femaleVariant": "杰克·威尔斯…"
+          },
+          {
+            "stringId": "1951816865171709952",
+            "femaleVariant": "还不行。我要找杰克·威尔斯。"
+          },
+          {
+            "stringId": "2008157582990843904",
+            "femaleVariant": "我们离开这儿。"
+          },
+          {
+            "stringId": "2008158247939022848",
+            "femaleVariant": "我们离开这里吧。"
+          },
+          {
+            "stringId": "2008322358689853440",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Chica\" b=\"\" a=\"（妹子）！可算来了！\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"Hermano!\" b=\"\" a=\"（兄弟）！可算来了！\"/>"
+          },
+          {
+            "stringId": "2008322397562662912",
+            "femaleVariant": "嘿…我一直想找个机会谢谢你。"
+          },
+          {
+            "stringId": "2008322403585683456",
+            "femaleVariant": "杰克！你…你怎么样了？"
+          },
+          {
+            "stringId": "2008322408534962176",
+            "femaleVariant": "米斯蒂她…很想你…"
+          },
+          {
+            "stringId": "2008322412796375040",
+            "femaleVariant": "你多保重，朋友。"
+          },
+          {
+            "stringId": "2008322552768688132",
+            "femaleVariant": "不。"
+          },
+          {
+            "stringId": "2008322581474504704",
+            "femaleVariant": "你少明知故问。"
+          },
+          {
+            "stringId": "2008322587933732864",
+            "femaleVariant": "你滚蛋，华子。"
+          },
+          {
+            "stringId": "2008322777835040768",
+            "femaleVariant": "滚开。"
+          },
+          {
+            "stringId": "2008323120207687680",
+            "femaleVariant": "我还没机会感谢你呢。"
+          },
+          {
+            "stringId": "2008323201392635904",
+            "femaleVariant": "米斯蒂很想你。"
+          },
+          {
+            "stringId": "2008323233252569088",
+            "femaleVariant": "慢点来，老朋友。"
+          },
+          {
+            "stringId": "2008325810165837824",
+            "femaleVariant": "来生——咱们那儿见！"
+          },
+          {
+            "stringId": "2008326252916568064",
+            "femaleVariant": "哦，米斯蒂…"
+          },
+          {
+            "stringId": "2008326330108538880",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"amiga\" b=\"听着，\" a=\"（姑娘），我有个事儿。能借你的车用用吗？\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"amigo\" b=\"听着， \" a=\"（兄弟），我有个事儿。能借你的车用用吗？\"/>"
+          },
+          {
+            "stringId": "2008329878103846912",
+            "femaleVariant": "我跟米斯蒂约好了，不过…总不能坐地铁吧！不然也太没面子了！"
+          },
+          {
+            "stringId": "2008332149470457856",
+            "femaleVariant": "生怕我跟威尔斯家大部分男的一样，臭在街边的垃圾桶里了。"
+          },
+          {
+            "stringId": "2008342351712284672",
+            "femaleVariant": "我老妈总说，耐心总有回报——而且回报没准儿还不错！"
+          },
+          {
+            "stringId": "2008349190340407296",
+            "femaleVariant": "呃，这个生物芯片…把它收好。为了我。"
+          },
+          {
+            "stringId": "2008351852079280128",
+            "femaleVariant": "我知道你是真兄弟，杰克。"
+          },
+          {
+            "stringId": "2008352407992332288",
+            "femaleVariant": "一份伏特加，加冰、青柠汁、姜汁啤酒。哦，最重要的…再来点爱。"
+          },
+          {
+            "stringId": "2008369670422196224",
+            "femaleVariant": "越跟她说什么事都没有，我越觉得自己是在骗人。"
+          },
+          {
+            "stringId": "2008377331100348416",
+            "femaleVariant": "这是你想要看到的吗？"
+          },
+          {
+            "stringId": "2008378069683728384",
+            "femaleVariant": "我警告过你，这完全是另一回事。"
+          },
+          {
+            "stringId": "2012906519069007872",
+            "femaleVariant": "真的是你…"
+          },
+          {
+            "stringId": "2012906519069007888",
+            "femaleVariant": "杰克！你怎么样？"
+          },
+          {
+            "stringId": "2012910597224341504",
+            "femaleVariant": "你能想起来吗？发生了什么？"
+          },
+          {
+            "stringId": "2012911267876773888",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"chica\" b=\"扬名立万啦，\" a=\"（妹子）！跟德克斯特混！来生夜总会的黑皮胖耶稣，三百来斤，大金膀子，如假包换，牌子！\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"ese\" b=\"扬名立万了，\" a=\"（哥们）！跟德克斯特混！来生夜总会的黑皮胖耶稣，三百来斤，大金膀子，如假包换，牌子！\"/>"
+          },
+          {
+            "stringId": "2012913148921454608",
+            "femaleVariant": "杰克…真的是你！"
+          },
+          {
+            "stringId": "2012915225840132096",
+            "femaleVariant": "东西——说得好。"
+          },
+          {
+            "stringId": "2012916045272915968",
+            "femaleVariant": "那我们应该继续。"
+          },
+          {
+            "stringId": "2012918795679375360",
+            "femaleVariant": "够了，不看了。这不是杰克。"
+          },
+          {
+            "stringId": "2012927704783724544",
+            "femaleVariant": "呵呵…荒坂帝国的继承人住得还不赖嘛。"
+          },
+          {
+            "stringId": "2066592079971172352",
+            "femaleVariant": "够了。这不是杰克。"
+          },
+          {
+            "stringId": "2252097794813042688",
+            "femaleVariant": "你请坐吧。稍等我一下。"
+          }
+        ]
+      }
+
+
+

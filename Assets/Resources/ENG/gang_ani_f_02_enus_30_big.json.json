@@ -1,0 +1,288 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1638761258915565568",
+            "femaleVariant": "What's up?"
+          },
+          {
+            "stringId": "1638761258932342784",
+            "femaleVariant": "Mrauu-hhhhh"
+          },
+          {
+            "stringId": "1638761258999451648",
+            "femaleVariant": "Two steps back, babydoll.",
+            "maleVariant": "Two steps back, pretty boy."
+          },
+          {
+            "stringId": "1638761259016228864",
+            "femaleVariant": "You're askin' to get messed up."
+          },
+          {
+            "stringId": "1638761259066560512",
+            "femaleVariant": "Who said you could pull that out? Hm?"
+          },
+          {
+            "stringId": "1638761259083337728",
+            "femaleVariant": "Don't make me take that away from you."
+          },
+          {
+            "stringId": "1638761259150446592",
+            "femaleVariant": "C'mon, honeybunch. Don't make me repeat myself.",
+            "maleVariant": "C'mon, man. Don't make me repeat myself."
+          },
+          {
+            "stringId": "1638761259184001024",
+            "femaleVariant": "What's so hard to fucking get?"
+          },
+          {
+            "stringId": "1638761259234332672",
+            "femaleVariant": "Aww, aren't you a good girl?",
+            "maleVariant": "Aww, aren't you a good boy?"
+          },
+          {
+            "stringId": "1638761259251109888",
+            "femaleVariant": "Yeah, whatever."
+          },
+          {
+            "stringId": "1638761259318218752",
+            "femaleVariant": "Huh?"
+          },
+          {
+            "stringId": "1638761259334995968",
+            "femaleVariant": "What the shit?"
+          },
+          {
+            "stringId": "1638761259452436480",
+            "femaleVariant": "Ah, screw this."
+          },
+          {
+            "stringId": "1638761259485990912",
+            "femaleVariant": "Ahh... I could give a shit."
+          },
+          {
+            "stringId": "1638761259536322560",
+            "femaleVariant": "Baby, you can come out now, I just wanna talk!"
+          },
+          {
+            "stringId": "1638761259553099776",
+            "femaleVariant": "Out, you roach!"
+          },
+          {
+            "stringId": "1638761259603431424",
+            "femaleVariant": "Got a body!"
+          },
+          {
+            "stringId": "1638761259670540288",
+            "femaleVariant": "Yeah, we're on it."
+          },
+          {
+            "stringId": "1638761259720871936",
+            "femaleVariant": "Now you're cooked!"
+          },
+          {
+            "stringId": "1638761259737649152",
+            "femaleVariant": "I'll rip you up REAL nice."
+          },
+          {
+            "stringId": "1638761259787980800",
+            "femaleVariant": "You forgot this, bitch!",
+            "maleVariant": "You forgot this, cocksucker!"
+          },
+          {
+            "stringId": "1638761259838312448",
+            "femaleVariant": "Akh akh…  How the…?"
+          },
+          {
+            "stringId": "1638761259905421312",
+            "femaleVariant": "Murder! Murder! Murder!"
+          },
+          {
+            "stringId": "1638761259922198528",
+            "femaleVariant": "I'm gonna fuck you a brand new asshole!"
+          },
+          {
+            "stringId": "1638761259972530176",
+            "femaleVariant": "No no no no no...!"
+          },
+          {
+            "stringId": "1638761259989307392",
+            "femaleVariant": "Not good, not good at all!"
+          },
+          {
+            "stringId": "1638761260039639040",
+            "femaleVariant": "Watch where you're going, honey."
+          },
+          {
+            "stringId": "1638761260056416256",
+            "femaleVariant": "Try to trip me up, huh?"
+          },
+          {
+            "stringId": "1638761260106747904",
+            "femaleVariant": "Yeah?"
+          },
+          {
+            "stringId": "1638761260157079552",
+            "femaleVariant": "No! Already said I don't give a shit... Uh-huh..."
+          },
+          {
+            "stringId": "1638761260173856768",
+            "femaleVariant": "Well...Maybe... Yeah, same... OK..."
+          },
+          {
+            "stringId": "1638761260291297280",
+            "femaleVariant": "Get around her ass!",
+            "maleVariant": "Get around his ass!"
+          },
+          {
+            "stringId": "1638761260358406144",
+            "femaleVariant": "I'm on it!"
+          },
+          {
+            "stringId": "1638761260408737792",
+            "femaleVariant": "Shit!"
+          },
+          {
+            "stringId": "1638777366200553472",
+            "femaleVariant": "Later."
+          },
+          {
+            "stringId": "1770679015889539072",
+            "femaleVariant": "Hmmrgh...?"
+          },
+          {
+            "stringId": "1770692120942055424",
+            "femaleVariant": "Hahaha ha, ha, ha-wooooooo!"
+          },
+          {
+            "stringId": "1770774103462350848",
+            "femaleVariant": "C'mon, let's go. As a pack."
+          },
+          {
+            "stringId": "1770774190317998080",
+            "femaleVariant": "Let's see what's over there."
+          },
+          {
+            "stringId": "1770774818826063872",
+            "femaleVariant": "Nuh-uh, I went last time. You go."
+          },
+          {
+            "stringId": "1959245256665899012",
+            "femaleVariant": "I get it, we've all got busy lives."
+          },
+          {
+            "stringId": "1959245256716230660",
+            "femaleVariant": "Oh, now you wanna talk?"
+          },
+          {
+            "stringId": "1959245256733007876",
+            "femaleVariant": "Well?"
+          },
+          {
+            "stringId": "2231613068001026052",
+            "femaleVariant": "Fuck this!"
+          },
+          {
+            "stringId": "2231613068084912132",
+            "femaleVariant": "Hahahahaha!"
+          },
+          {
+            "stringId": "2231613068185575428",
+            "femaleVariant": "Still breathing!"
+          },
+          {
+            "stringId": "2231613068219129860",
+            "femaleVariant": "What the fuck...?"
+          },
+          {
+            "stringId": "2231613068303015940",
+            "femaleVariant": "What? Beat it, runts!"
+          },
+          {
+            "stringId": "2231613068554674180",
+            "femaleVariant": "I'm gonna enjoy this!"
+          },
+          {
+            "stringId": "2231613068621783040",
+            "femaleVariant": "Ready to get fistfucked?!"
+          },
+          {
+            "stringId": "2231613068823109636",
+            "femaleVariant": "Bet you like it, huh?!"
+          },
+          {
+            "stringId": "2231613068974104580",
+            "femaleVariant": "Moving in!"
+          },
+          {
+            "stringId": "2231613069024436228",
+            "femaleVariant": "Crush this fucking flea!"
+          },
+          {
+            "stringId": "2231613069091545092",
+            "femaleVariant": "Movin' to crush!"
+          },
+          {
+            "stringId": "2231613069141876740",
+            "femaleVariant": "You're ruining all the fun!"
+          },
+          {
+            "stringId": "2231613069225762820",
+            "femaleVariant": "Gimme a sec to reload!"
+          },
+          {
+            "stringId": "2231613069292871684",
+            "femaleVariant": "Kill the psycho!"
+          },
+          {
+            "stringId": "2231613069393534980",
+            "femaleVariant": "Fuck! I'm blind! Can't see shit!"
+          },
+          {
+            "stringId": "2231613069443866628",
+            "femaleVariant": "Watch out! She's hacking!",
+            "maleVariant": "Watch out! He's hacking!"
+          },
+          {
+            "stringId": "2231613069527752708",
+            "femaleVariant": "Oooh! I'm fuckin' juiced!"
+          },
+          {
+            "stringId": "2231613069578084356",
+            "femaleVariant": "Need backup!"
+          },
+          {
+            "stringId": "2231613069628416004",
+            "femaleVariant": "Closing in for the kill!"
+          },
+          {
+            "stringId": "2231613069695524864",
+            "femaleVariant": "I'll fuck your rotting corpse!"
+          },
+          {
+            "stringId": "2231613069745856516",
+            "femaleVariant": "Suck on lead, merc!"
+          },
+          {
+            "stringId": "2231613069812965380",
+            "femaleVariant": "Fuck! Don't die!"
+          }
+        ]
+      }
+
+
+

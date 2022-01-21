@@ -1,0 +1,413 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1566659289744629760",
+            "femaleVariant": "How did Weyland help you, exactly?",
+            "maleVariant": "How'd Weyland help you, exactly?"
+          },
+          {
+            "stringId": "1566663534933925888",
+            "femaleVariant": "He made sure we'll find Grayson at home when we stop by."
+          },
+          {
+            "stringId": "1566663860730683392",
+            "femaleVariant": "So we know where to look for him."
+          },
+          {
+            "stringId": "1566668552177147904",
+            "femaleVariant": "Sure you're up for this?",
+            "maleVariant": "Ya sure you're up for this?"
+          },
+          {
+            "stringId": "1728878062231838720",
+            "femaleVariant": "Good luck!"
+          },
+          {
+            "stringId": "1728905734521577472",
+            "femaleVariant": "'Eey, V."
+          },
+          {
+            "stringId": "1728907600416432132",
+            "femaleVariant": "Weyland? Of THE Weylands?"
+          },
+          {
+            "stringId": "1728910347064795136",
+            "femaleVariant": "Wanna join us?"
+          },
+          {
+            "stringId": "1728911906339250176",
+            "femaleVariant": "Weyland? Of THE Weylands?"
+          },
+          {
+            "stringId": "1728912362494976000",
+            "femaleVariant": "Yes, girl. I take it ya heard of old Andrew Boa Boa?",
+            "maleVariant": "Yeah, man. I take it ya heard of old Andrew Boa Boa?"
+          },
+          {
+            "stringId": "1728913090273828864",
+            "femaleVariant": "Like everybody in this town."
+          },
+          {
+            "stringId": "1728913679925862400",
+            "femaleVariant": "Gonna be joinin' us?",
+            "maleVariant": "Ya gonna be joinin' us?"
+          },
+          {
+            "stringId": "1728913679925862408",
+            "femaleVariant": "Nah, I already did me part."
+          },
+          {
+            "stringId": "1728913679925862416",
+            "femaleVariant": "Don't tell me you don't wanna see Smasher dead."
+          },
+          {
+            "stringId": "1750353986764627968",
+            "femaleVariant": "Look who we have here."
+          },
+          {
+            "stringId": "1750367610015014912",
+            "femaleVariant": "V, Crispin Weyland. He's helping us."
+          },
+          {
+            "stringId": "1750370234978230272",
+            "femaleVariant": "I hear you're hunting Smasher."
+          },
+          {
+            "stringId": "1750370823405527040",
+            "femaleVariant": "Ready? We'll talk on the way."
+          },
+          {
+            "stringId": "1750372432676085760",
+            "femaleVariant": "Let's roll."
+          },
+          {
+            "stringId": "1750372601219997696",
+            "femaleVariant": "Got something to tend to first."
+          },
+          {
+            "stringId": "1750373616476446720",
+            "femaleVariant": "Got something I gotta do first.",
+            "maleVariant": "I got somethin' I gotta do first."
+          },
+          {
+            "stringId": "1750374823966236672",
+            "femaleVariant": "Let's go."
+          },
+          {
+            "stringId": "1750443672895971328",
+            "femaleVariant": "Jump in."
+          },
+          {
+            "stringId": "1750589189592408064",
+            "femaleVariant": "Comin' back later?"
+          },
+          {
+            "stringId": "1778080573580599296",
+            "femaleVariant": "We goin'?"
+          },
+          {
+            "stringId": "1778102505277448192",
+            "femaleVariant": "Gotcha a little somethin'."
+          },
+          {
+            "stringId": "1778120545666818052",
+            "femaleVariant": "Try it on."
+          },
+          {
+            "stringId": "1778139018790920192",
+            "femaleVariant": "Finally lookin' half decent."
+          },
+          {
+            "stringId": "1796725428324732932",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1796725576601767936",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1796726193785212928",
+            "femaleVariant": "This Johnny's?"
+          },
+          {
+            "stringId": "1796735138021052416",
+            "femaleVariant": "This Johnny's jacket?",
+            "maleVariant": "Is this Johnny's jacket?"
+          },
+          {
+            "stringId": "1796735572802605056",
+            "femaleVariant": "With me wearin' it, sure you won't confuse us?",
+            "maleVariant": "With me wearin' it, you sure you won't confuse us?"
+          },
+          {
+            "stringId": "1796736105311440896",
+            "femaleVariant": "A replica. Made-to-order."
+          },
+          {
+            "stringId": "1796740295907676160",
+            "femaleVariant": "Quite sure, thanks."
+          },
+          {
+            "stringId": "1796742607371833344",
+            "femaleVariant": "Real jacket musta disintegrated into dust years ago."
+          },
+          {
+            "stringId": "1796774531981185024",
+            "femaleVariant": "Had something for her, too."
+          },
+          {
+            "stringId": "1796774993958604800",
+            "femaleVariant": "Ya know... it seems you're starting to show your age."
+          },
+          {
+            "stringId": "1796782328554786816",
+            "femaleVariant": "Just like me grandma – that woman never threw a ting away."
+          },
+          {
+            "stringId": "1796782844504510464",
+            "femaleVariant": "Don't push it, Crispin."
+          },
+          {
+            "stringId": "1796787953904979968",
+            "femaleVariant": "Never know when it might come in handy."
+          },
+          {
+            "stringId": "1796788447255793664",
+            "femaleVariant": "Ah – minor details that happened to slip your mind earlier?"
+          },
+          {
+            "stringId": "1796788739867217920",
+            "femaleVariant": "Mhm. 'Zackly."
+          },
+          {
+            "stringId": "1796798327509291008",
+            "femaleVariant": "Make it quick."
+          },
+          {
+            "stringId": "1796826583730032640",
+            "femaleVariant": "That is nice. But me don't share me father's aspirations."
+          },
+          {
+            "stringId": "1796828006303731712",
+            "femaleVariant": "So me expect to live longer than he did."
+          },
+          {
+            "stringId": "1796832611213316096",
+            "femaleVariant": "Me sure would. But not so close."
+          },
+          {
+            "stringId": "1796832937077182464",
+            "femaleVariant": "De bastard has a bad habit of comin' back from de dead."
+          },
+          {
+            "stringId": "1796833389256708096",
+            "femaleVariant": "Mhm. True bastards somehow always find a way."
+          },
+          {
+            "stringId": "1796837560726917120",
+            "femaleVariant": "Maybe, dunno. Don't wait up."
+          },
+          {
+            "stringId": "1796853820382580736",
+            "femaleVariant": "What – you getting cold feet?"
+          },
+          {
+            "stringId": "1796854137975279616",
+            "femaleVariant": "No. Just… don't wanna see Johnny haze you.",
+            "maleVariant": "No. Just… I don't wanna see Johnny haze you."
+          },
+          {
+            "stringId": "1796854637131010048",
+            "femaleVariant": "Adam Smasher's his obsession, not yours."
+          },
+          {
+            "stringId": "1796855263122493440",
+            "femaleVariant": "Heh, think so?"
+          },
+          {
+            "stringId": "1796855510754201600",
+            "femaleVariant": "V, the fuck was that s'posed to be?"
+          },
+          {
+            "stringId": "1796855812358213632",
+            "femaleVariant": "Just tryin' to play fair."
+          },
+          {
+            "stringId": "1889577025730920452",
+            "femaleVariant": "OK. Here's as far as we go."
+          },
+          {
+            "stringId": "1889577649910464512",
+            "femaleVariant": "Too many rats around. Better wait till a little darkness creeps in."
+          },
+          {
+            "stringId": "1889587242183049220",
+            "femaleVariant": "Maybe Smasher or Grayson'll show."
+          },
+          {
+            "stringId": "1889588005579931648",
+            "femaleVariant": "Whadda we do till then?"
+          },
+          {
+            "stringId": "1889588182780887040",
+            "femaleVariant": "And in the meantime, we do what?"
+          },
+          {
+            "stringId": "1889590394387054592",
+            "femaleVariant": "Wait and watch."
+          },
+          {
+            "stringId": "1889591150318075904",
+            "femaleVariant": "Maybe Smasher or Grayson'll rear a head."
+          },
+          {
+            "stringId": "1889596895122046976",
+            "femaleVariant": "Least it's dark. Should be easier."
+          },
+          {
+            "stringId": "1893837423736803332",
+            "femaleVariant": "Sure you're OK with this?"
+          },
+          {
+            "stringId": "1893882399761911808",
+            "femaleVariant": "Weird you didn't run into Smasher sooner."
+          },
+          {
+            "stringId": "1893896093828927488",
+            "femaleVariant": "Little weird you didn't run into Smasher before now.",
+            "maleVariant": "It's a little weird you didn't run into Smasher before now."
+          },
+          {
+            "stringId": "1893898741357498368",
+            "femaleVariant": "Came up in conversation. Time to time."
+          },
+          {
+            "stringId": "1893899547871825920",
+            "femaleVariant": "But, uh, never tried to track him down?",
+            "maleVariant": "Yeah, but, y-you never tried to track him down?"
+          },
+          {
+            "stringId": "1893981305510318080",
+            "femaleVariant": "Listen, V. Fact that Johnny's back changes things, OK?"
+          },
+          {
+            "stringId": "1893982412538138624",
+            "femaleVariant": "OK, sure. Believe me, I'd know.",
+            "maleVariant": "OK, sure. Believe me, I know."
+          },
+          {
+            "stringId": "1893990995946393600",
+            "femaleVariant": "We'll talk later."
+          },
+          {
+            "stringId": "1894008378786336768",
+            "femaleVariant": "Maybe. Don't hold your breath, though. Wouldn't be caught dead here in daylight."
+          },
+          {
+            "stringId": "1894009558862155776",
+            "femaleVariant": "OK. Good as it's gonna get."
+          },
+          {
+            "stringId": "1911478520118132736",
+            "femaleVariant": "Been here before."
+          },
+          {
+            "stringId": "1912908436864782360",
+            "femaleVariant": "Grayson's been sitting on the docks since his last Maelstrom op."
+          },
+          {
+            "stringId": "1912908436881559552",
+            "femaleVariant": "He works for them? Not for Smasher?",
+            "maleVariant": "So he works for them, not for Smasher."
+          },
+          {
+            "stringId": "1912908436881559564",
+            "femaleVariant": "Smasher always had a few irons in the fire."
+          },
+          {
+            "stringId": "1912908436881559576",
+            "femaleVariant": "Assuming they're in it together – master and apprentice."
+          },
+          {
+            "stringId": "1912908437066108932",
+            "femaleVariant": "What'd Johnny say about me?"
+          },
+          {
+            "stringId": "1912908437082886144",
+            "femaleVariant": "Know you two talk all the time."
+          },
+          {
+            "stringId": "1912908437116440576",
+            "femaleVariant": "Johnny tends to talk about himself, mostly."
+          },
+          {
+            "stringId": "1912908437116440592",
+            "femaleVariant": "Said you're the best."
+          },
+          {
+            "stringId": "1912908437116440608",
+            "femaleVariant": "Any idea what Grayson's intentions are?"
+          },
+          {
+            "stringId": "1912908437149995012",
+            "femaleVariant": "Johnny talks about himself, mostly.",
+            "maleVariant": "Oh, Johnny talks about himself, mostly."
+          },
+          {
+            "stringId": "1912908437166772232",
+            "femaleVariant": "Hm, right."
+          },
+          {
+            "stringId": "1912908437200326660",
+            "femaleVariant": "Said you're the best. Always were…"
+          },
+          {
+            "stringId": "1912908437217103872",
+            "femaleVariant": "Hm, little too open-handed, but all right."
+          },
+          {
+            "stringId": "1912908437217103884",
+            "femaleVariant": "The best. Too bad that comes at a price."
+          },
+          {
+            "stringId": "2230518559926906880",
+            "femaleVariant": "[Take jacket]"
+          },
+          {
+            "stringId": "2238819533832404992",
+            "femaleVariant": "Any idea what Grayson's got planned? Weyland tell you anything?"
+          },
+          {
+            "stringId": "2250411038145593344",
+            "femaleVariant": "She a shy one? Don't look it.",
+            "maleVariant": "He a shy one? Don't look it."
+          },
+          {
+            "stringId": "2250413745535270912",
+            "femaleVariant": "You ghostin' already, sistah?",
+            "maleVariant": "You ghostin' already, bredda?"
+          },
+          {
+            "stringId": "2511788698825912324",
+            "femaleVariant": "[Get in]"
+          }
+        ]
+      }
+
+
+

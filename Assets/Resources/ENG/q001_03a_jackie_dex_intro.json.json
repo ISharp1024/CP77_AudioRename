@@ -1,0 +1,371 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1145790880853725184",
+            "femaleVariant": "[Get in]"
+          },
+          {
+            "stringId": "1172322775523405824",
+            "femaleVariant": "Yo, Miss V. A pleasure.",
+            "maleVariant": "Yo, Mr. V. A pleasure."
+          },
+          {
+            "stringId": "1172323745498148864",
+            "femaleVariant": "Mind if I ask you somethin' right off the bangle?"
+          },
+          {
+            "stringId": "1172327136458715136",
+            "femaleVariant": "Got a classic tale for ya. Psychogang, doin' its thing two weeks back, jumped a Militech convoy, got away with the gear. Corp don't even know Maelstrom's involved."
+          },
+          {
+            "stringId": "1172332148182233088",
+            "femaleVariant": "Who's the woman?"
+          },
+          {
+            "stringId": "1172332275437416448",
+            "femaleVariant": "Who's the prima donna?"
+          },
+          {
+            "stringId": "1172350021990625280",
+            "femaleVariant": "Now see, convoy was carryin' the Flathead – a little combat bot, a prototype. And I need me that bit o' high-grade military tech."
+          },
+          {
+            "stringId": "1172369506965401600",
+            "femaleVariant": "Corpo agent, internal affairs. Been skittin' 'round town askin' after the convoy as if her life depended on findin' it. The one lead she got's zip-tied in her trunk."
+          },
+          {
+            "stringId": "1174963773897818112",
+            "femaleVariant": "Royce guy – who is he?"
+          },
+          {
+            "stringId": "1175126700094685204",
+            "femaleVariant": "[Take shard]"
+          },
+          {
+            "stringId": "1176642317162434560",
+            "femaleVariant": "Heheh. Let's roll."
+          },
+          {
+            "stringId": "1186596413243969536",
+            "femaleVariant": "Hang on. Got a question of my own, now. Why all this, Dex? Why me?",
+            "maleVariant": "Hang on. I got a question of my own, now. Why all this, Dex? Why me?"
+          },
+          {
+            "stringId": "1186596661513211904",
+            "femaleVariant": "The job – tell me more."
+          },
+          {
+            "stringId": "1186596672972050432",
+            "femaleVariant": "Why meet me? Why the show?"
+          },
+          {
+            "stringId": "1187749962556428288",
+            "femaleVariant": "Slot in the shard."
+          },
+          {
+            "stringId": "1187768799460904960",
+            "femaleVariant": "Think I got everything. Time I got to work."
+          },
+          {
+            "stringId": "1187780010600615936",
+            "femaleVariant": "Would you rather live in peace as Miss Nobody, die ripe, old and smellin' slightly of urine? Or go down for all times in a blaze of glory, smellin' near like posies, 'thout seein' your thirtieth?",
+            "maleVariant": "Would you rather live in peace as Mr. Nobody, die ripe, old and smellin' slightly of urine? Or go down for all times in a blaze of glory, smellin' near like posies, 'thout seein' your thirtieth?"
+          },
+          {
+            "stringId": "1196607822107447296",
+            "femaleVariant": "Call me ol' fashioned, but I like to look anyone I do biz with in the eye."
+          },
+          {
+            "stringId": "1196610813350842368",
+            "femaleVariant": "Had the pleasure of meetin' the Jackster in the past. And sweet T-Bug helped this brother out two years ago. So here we are."
+          },
+          {
+            "stringId": "1244940493912739840",
+            "femaleVariant": "Why, that's just music to my ears. I'll set up the meet with Miss Parker at Lizzie's Bar. Flathead, though, is gonna be all you."
+          },
+          {
+            "stringId": "1569251174210752512",
+            "femaleVariant": "Lemme hear it – what's the job?"
+          },
+          {
+            "stringId": "1569254923566206976",
+            "femaleVariant": "There's this… prototype tech – a biochip, to be precise. Job's to grab it. Simple."
+          },
+          {
+            "stringId": "1569297342290612228",
+            "femaleVariant": "Maelstrom – what's the issue?"
+          },
+          {
+            "stringId": "1569305716872859648",
+            "femaleVariant": "Client – tell me about her."
+          },
+          {
+            "stringId": "1569306134575206400",
+            "femaleVariant": "What's the issue needs resolving with Maelstrom? Got a beef?",
+            "maleVariant": "What's the issue needs resolvin' with Maelstrom? Got a beef?"
+          },
+          {
+            "stringId": "1569308812336320512",
+            "femaleVariant": "Know all I need, I think."
+          },
+          {
+            "stringId": "1569310770858184704",
+            "femaleVariant": "Client. What's her thing? Why's she need to meet?"
+          },
+          {
+            "stringId": "1569311546334662656",
+            "femaleVariant": "Woman's name's Evelyn Parker. Vettin' her wasn't easy. Put the word out I was lookin' for any kinda intel…"
+          },
+          {
+            "stringId": "1569316152838082560",
+            "femaleVariant": "One more thing, Ms. V.",
+            "maleVariant": "One more thing, Mr. V."
+          },
+          {
+            "stringId": "1630085098826035200",
+            "femaleVariant": "Coulda had Jackie or T-Bug sittin' here. Coulda just done this on comms…"
+          },
+          {
+            "stringId": "1630097934570680320",
+            "femaleVariant": "'Sides all that, got a special little pre-mission just for you. But we'll get to that."
+          },
+          {
+            "stringId": "1630100503145672704",
+            "femaleVariant": "Dexter DeShawn in the flesh. Ample, indeed."
+          },
+          {
+            "stringId": "1630147450661433344",
+            "femaleVariant": "Mmh... guessin' it belongs to a corp?",
+            "maleVariant": "Yeah...? Huh, guessin' it belongs to a corp."
+          },
+          {
+            "stringId": "1630147646115999744",
+            "femaleVariant": "Mhm – Arasaka."
+          },
+          {
+            "stringId": "1630148399865982976",
+            "femaleVariant": "Surely that's no problem?"
+          },
+          {
+            "stringId": "1630149136318656516",
+            "femaleVariant": "Not at all."
+          },
+          {
+            "stringId": "1630149888978120704",
+            "femaleVariant": "That's a death sentence."
+          },
+          {
+            "stringId": "1630150368487731200",
+            "femaleVariant": "Pff. Corps don't deserve special treatment.",
+            "maleVariant": "Heh. Corps don't deserve special treatment."
+          },
+          {
+            "stringId": "1630150437811187712",
+            "femaleVariant": "No, no problem. Just a death sentence. NC's Arasaka's turf, nobody fucks with them here."
+          },
+          {
+            "stringId": "1630150523928637440",
+            "femaleVariant": "You work this out? Got a plan?"
+          },
+          {
+            "stringId": "1630164702521651200",
+            "femaleVariant": "Shit. Heh, you ain't playin' around."
+          },
+          {
+            "stringId": "1630165934573285376",
+            "femaleVariant": "What can I say, Miss V – high risk, high reward. First rule of the Afterlife.",
+            "maleVariant": "What can I say, Mr. V – high risk, high reward. First rule of the Afterlife."
+          },
+          {
+            "stringId": "1630166955164889088",
+            "femaleVariant": "'Sides that, I'm no leadhead. Ain't gonna leave no trace for them to follow 'cause we gonna do this clean an' on the hush-hush. We understand each other?"
+          },
+          {
+            "stringId": "1630168531703099392",
+            "femaleVariant": "Got a feelin' this could be a start of a beautiful friendship built on heaps of eddies."
+          },
+          {
+            "stringId": "1630177638040399872",
+            "femaleVariant": "Two things. First's a conundrum with the Maelstrom boys. Needs active resolvin', that."
+          },
+          {
+            "stringId": "1630181679705288704",
+            "femaleVariant": "Second's a rendezvous. Simple. Client who brought us the job's anxious. She wants to parley with one o' the team."
+          },
+          {
+            "stringId": "1630235385486307328",
+            "femaleVariant": "'Cause if we don't get that bot, we don't get no 'Saka chip. An' we sure as hell don't get no happily-ever-after. But don't get excited, it's a single-use toy."
+          },
+          {
+            "stringId": "1630240516613271552",
+            "femaleVariant": "Stick up her ass ain't growin' any shorter, so she must be gettin' desperate. Be wise to think how you could use that."
+          },
+          {
+            "stringId": "1630241912058212352",
+            "femaleVariant": "Royce guy – what's he like?"
+          },
+          {
+            "stringId": "1630313775652335616",
+            "femaleVariant": "A straight psychopath, chrome-lovin' kind."
+          },
+          {
+            "stringId": "1630314951651291136",
+            "femaleVariant": "Big club in this town."
+          },
+          {
+            "stringId": "1630319093778149376",
+            "femaleVariant": "I'll give you that. 'Cept few of its other members, no matter the stakes, would put a friend and associate through an industrial microwave dryer."
+          },
+          {
+            "stringId": "1630328689775276032",
+            "femaleVariant": "Woman's a corp agent?"
+          },
+          {
+            "stringId": "1630329263186964480",
+            "femaleVariant": "Corpo agent – what's she playin' at?"
+          },
+          {
+            "stringId": "1630336251451076608",
+            "femaleVariant": "Hell if I know. Been skittin' 'round town askin' after the convoy as if her life depended on findin' it. The one lead she got's zip-tied in her trunk."
+          },
+          {
+            "stringId": "1630336730004385792",
+            "femaleVariant": "Mhh... Sounds like she was waitin' on the transport, got stood up. Monochrome in the back's probably her chief suspect.",
+            "maleVariant": "Sounds like she was waitin' on the transport, got stood up. Monochrome in the back's probably her chief suspect."
+          },
+          {
+            "stringId": "1630337177100414976",
+            "femaleVariant": "Got nothin' from him or on 'im, so she's keepin' him just in case. But she needs to find the stolen gear before her bosses learn she fucked up.",
+            "maleVariant": "Got nothin' from him or on him, so she's keepin' 'im just in case. But she needs to find the stolen gear before her bosses learn she fucked up."
+          },
+          {
+            "stringId": "1630338374758756352",
+            "femaleVariant": "Well, Miss V. That is some impressive deduction. Naturally, use that intel as you please, preferably well.",
+            "maleVariant": "Well, Mr. V. That is some impressive deduction. Naturally, use that intel as you please, preferably well."
+          },
+          {
+            "stringId": "1630341567462961152",
+            "femaleVariant": "Yours truly'll be remote, T-Bug ain't no people person, and Jackie's only good at some things – I know you know what I mean. Pretty much leaves you."
+          },
+          {
+            "stringId": "1630342993559875584",
+            "femaleVariant": "Anyway, our lil' client insisted on meetin' someone with skin in the game – you know, who'll be there for it all."
+          },
+          {
+            "stringId": "1630355721997447168",
+            "femaleVariant": "Right, and...?"
+          },
+          {
+            "stringId": "1630356056149258240",
+            "femaleVariant": "Some brothers from Pacifica got back to me. Tol' me to stop lookin', end of convo, heheh."
+          },
+          {
+            "stringId": "1630449162265751552",
+            "femaleVariant": "How they remember you – that's all that counts."
+          },
+          {
+            "stringId": "1630449287558000640",
+            "femaleVariant": "Miss Nobodies don't survive in Night City.",
+            "maleVariant": "Mr. Nobodies don't survive in Night City."
+          },
+          {
+            "stringId": "1630449408337178624",
+            "femaleVariant": "This some sorta test?"
+          },
+          {
+            "stringId": "1630451353118502912",
+            "femaleVariant": "It's first place or no place, Dex. Cost isn't a factor."
+          },
+          {
+            "stringId": "1630451995014787072",
+            "femaleVariant": "You're either somebody or you fizzle out into nothin'. Night City don't let you choose."
+          },
+          {
+            "stringId": "1630452298615287808",
+            "femaleVariant": "This some sorta test?"
+          },
+          {
+            "stringId": "1630454359411060736",
+            "femaleVariant": "Y'mean... riddles?"
+          },
+          {
+            "stringId": "1630454957820801024",
+            "femaleVariant": "Mh, just a pet topic o' mine."
+          },
+          {
+            "stringId": "1630459997847482368",
+            "femaleVariant": "No, Miss V. Ontology.",
+            "maleVariant": "No, Mr. V. Ontology."
+          },
+          {
+            "stringId": "1630462637205549056",
+            "femaleVariant": "Oh, but it does. See, in my line of work I choose to be Mr. Chill. But folk who try to take advantage, well, they see the beast inside…"
+          },
+          {
+            "stringId": "1630464120311443456",
+            "femaleVariant": "A'ight, listen close. Scannin' a serious job, now. Plain gargantuan compared to smashin' up a scav haunt."
+          },
+          {
+            "stringId": "1630465234687684608",
+            "femaleVariant": "Huh, classic. I'd expect nothin' less from eager, supple youth. Respect."
+          },
+          {
+            "stringId": "1653396512059617280",
+            "femaleVariant": "Quiet life or blaze o' glory? Hmm?"
+          },
+          {
+            "stringId": "1653417621756768256",
+            "femaleVariant": "Later, now."
+          },
+          {
+            "stringId": "1667862752152973312",
+            "femaleVariant": "Apparently, first thing to burst are the eyeballs. Get a nice, clear \"pop!\" Then the rest goes goulash."
+          },
+          {
+            "stringId": "1667865798945730560",
+            "femaleVariant": "'Course, to do so you'll need that frazzled cat's info. Sendin' it now."
+          },
+          {
+            "stringId": "1667867078074232832",
+            "femaleVariant": "'Course, to do so you'll need that frazzled cat's info. Sending it now."
+          },
+          {
+            "stringId": "1672282882077290496",
+            "femaleVariant": "Now, I flat out purchased the damn thing from Maelstrom. Problem is, I did so from a gent went by the name of Brick."
+          },
+          {
+            "stringId": "1672283756606451712",
+            "femaleVariant": "I say \"went\" 'cause Brick was the leader. Three days after we'd sealed our deal, his friend and gangmate, one Simon Randall, AKA Royce, plain dropped his ass."
+          },
+          {
+            "stringId": "1672284141995880448",
+            "femaleVariant": "Royce is in charge now. And I got no way of knowin' if he aims to honor his predecessor's word."
+          },
+          {
+            "stringId": "1995112637703057408",
+            "femaleVariant": "To add to this \"shitstrom,\" one Meredith Stout of Militech has developed an interest in said convoy."
+          },
+          {
+            "stringId": "2017298064277725188",
+            "femaleVariant": "[Get out]"
+          }
+        ]
+      }
+
+
+

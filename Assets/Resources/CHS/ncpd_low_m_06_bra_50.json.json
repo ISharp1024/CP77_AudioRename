@@ -1,0 +1,193 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1863466405696495620",
+            "femaleVariant": "我得来一杯。"
+          },
+          {
+            "stringId": "1863466405713272836",
+            "femaleVariant": "这附近有家小酒吧…啧"
+          },
+          {
+            "stringId": "1863466405763604480",
+            "femaleVariant": "帮个忙，赶紧滚蛋吧。"
+          },
+          {
+            "stringId": "1863466405780381696",
+            "femaleVariant": "站住，别动，废物。"
+          },
+          {
+            "stringId": "1863466405813936132",
+            "femaleVariant": "把那破玩意拿远点儿。"
+          },
+          {
+            "stringId": "1863466405830713348",
+            "femaleVariant": "她有武器。",
+            "maleVariant": "他有武器。"
+          },
+          {
+            "stringId": "1863466405881044996",
+            "femaleVariant": "你是想见识见识警察的厉害吗？"
+          },
+          {
+            "stringId": "1863466405897822212",
+            "femaleVariant": "你想尝尝警棍的滋味儿吗？"
+          },
+          {
+            "stringId": "1863466405948153860",
+            "femaleVariant": "别让我再看见你，朋友。"
+          },
+          {
+            "stringId": "1863466405964931076",
+            "femaleVariant": "这就对了。乖乖听警察叔叔的话。"
+          },
+          {
+            "stringId": "1863466405998485508",
+            "femaleVariant": "呃…连休息的时间都没有。"
+          },
+          {
+            "stringId": "1863466406032039940",
+            "femaleVariant": "靠，让老子喘口气成吗，真扯淡！"
+          },
+          {
+            "stringId": "1863466406082371584",
+            "femaleVariant": "啊，总算能休息会儿了。"
+          },
+          {
+            "stringId": "1863466406099148800",
+            "femaleVariant": "我要来上一杯。"
+          },
+          {
+            "stringId": "1863466406132703236",
+            "femaleVariant": "我还是假装不知道你在哪儿吧。"
+          },
+          {
+            "stringId": "1863466406149480452",
+            "femaleVariant": "都这岁数了，咱们害羞什么啊！"
+          },
+          {
+            "stringId": "1863466406183034884",
+            "femaleVariant": "嗯，这王八蛋死了。"
+          },
+          {
+            "stringId": "1863466406216589316",
+            "femaleVariant": "明白。"
+          },
+          {
+            "stringId": "1863466406266920964",
+            "femaleVariant": "遭到枪击！遭到枪击！"
+          },
+          {
+            "stringId": "1863466406283698180",
+            "femaleVariant": "她在袭击我！",
+            "maleVariant": "他袭击我！"
+          },
+          {
+            "stringId": "1863466406317252612",
+            "femaleVariant": "送你吃，别客气！"
+          },
+          {
+            "stringId": "1863466406367584260",
+            "femaleVariant": "去死吧，垃圾，死吧！"
+          },
+          {
+            "stringId": "1863466406384361476",
+            "femaleVariant": "好像又是改造人！"
+          },
+          {
+            "stringId": "1863466406434693124",
+            "femaleVariant": "来啊，动手啊！来啊！"
+          },
+          {
+            "stringId": "1863466406451470340",
+            "femaleVariant": "又是扯淡的一天！"
+          },
+          {
+            "stringId": "1863466406501801988",
+            "femaleVariant": "我靠？！"
+          },
+          {
+            "stringId": "1863466406535356420",
+            "femaleVariant": "你要撞死我啊？！"
+          },
+          {
+            "stringId": "1863466406552133636",
+            "femaleVariant": "喂？"
+          },
+          {
+            "stringId": "1863466406602465284",
+            "femaleVariant": "不是吧…好吧！对，我就是个不中用的老酒鬼！"
+          },
+          {
+            "stringId": "1863466406619242500",
+            "femaleVariant": "对，我忘了…呃，别开始…"
+          },
+          {
+            "stringId": "1863466406669574148",
+            "femaleVariant": "先包围！再杀了她！",
+            "maleVariant": "先包围！再杀了他！"
+          },
+          {
+            "stringId": "1863466406703128580",
+            "femaleVariant": "我这把年纪腿脚不利索了！"
+          },
+          {
+            "stringId": "1863466406736683012",
+            "femaleVariant": "靠！它要炸了！"
+          },
+          {
+            "stringId": "1863466406753460228",
+            "femaleVariant": "回头见！"
+          },
+          {
+            "stringId": "1863466406770237444",
+            "femaleVariant": "什么动静…"
+          },
+          {
+            "stringId": "1863466406803791876",
+            "femaleVariant": "靠，怎么老让我们遇上呢？"
+          },
+          {
+            "stringId": "1863466406820569092",
+            "femaleVariant": "注定躲不过去啊…去看看吧。"
+          },
+          {
+            "stringId": "1863466406854123524",
+            "femaleVariant": "我掩护你。"
+          },
+          {
+            "stringId": "1863466406870900740",
+            "femaleVariant": "老子今天没心情陪你们玩儿！"
+          },
+          {
+            "stringId": "1863466406904455172",
+            "femaleVariant": "咳咳…咳咳…啊…靠你要干什么…咳…"
+          },
+          {
+            "stringId": "1867735987101753344",
+            "femaleVariant": "怎么样…？嗯？你不是很聪明吗？那还和我待一块儿干嘛！"
+          },
+          {
+            "stringId": "1867736405005426688",
+            "femaleVariant": "是会这样…嗯…嗯…"
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,439 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1811294652709363712",
+            "femaleVariant": "You asked, you received. What's the problem?"
+          },
+          {
+            "stringId": "1811296135395827712",
+            "femaleVariant": "The problem's that you were late! By three whole fucking days!"
+          },
+          {
+            "stringId": "1811296831432187904",
+            "femaleVariant": "I already explained. There was a sandstorm, we--"
+          },
+          {
+            "stringId": "1811297441334321152",
+            "femaleVariant": "Guess what? That's none of my fucking concern."
+          },
+          {
+            "stringId": "1811297985587208192",
+            "femaleVariant": "We lost a lot of eddies because of you!"
+          },
+          {
+            "stringId": "1811351888148193280",
+            "femaleVariant": "How 'bout we get this over with, Roman? We were late. Our bad, granted. We'll scratch off ten percent."
+          },
+          {
+            "stringId": "1811361280369254400",
+            "femaleVariant": "Twenty."
+          },
+          {
+            "stringId": "1811364060974702592",
+            "femaleVariant": "Who is this?!"
+          },
+          {
+            "stringId": "1811364425812041732",
+            "femaleVariant": "They call me V."
+          },
+          {
+            "stringId": "1811364952767619072",
+            "femaleVariant": "Why do you need to know?"
+          },
+          {
+            "stringId": "1811365471200370688",
+            "femaleVariant": "I don't give an ass-licking fuck what they call you!"
+          },
+          {
+            "stringId": "1811373667440812032",
+            "femaleVariant": "They call me V."
+          },
+          {
+            "stringId": "1811374202885660676",
+            "femaleVariant": "Why do you need to know? Were you gonna ask me out?"
+          },
+          {
+            "stringId": "1811374202885660684",
+            "femaleVariant": "Give me one good reason why I shouldn't rip your tongue out of your fucking cunt!",
+            "maleVariant": "Give me one good reason why I shouldn't rip your tongue out of your fucking dickslit!"
+          },
+          {
+            "stringId": "1811382747471437824",
+            "femaleVariant": "Simmer down now. She's with us.",
+            "maleVariant": "Simmer down now. He's with us."
+          },
+          {
+            "stringId": "1811384408029945856",
+            "femaleVariant": "Fine, let's call it a fucking day already. I'll give the sig for the eddies."
+          },
+          {
+            "stringId": "1811386585561587712",
+            "femaleVariant": "Save us your patronizing, V. We knew the risk. But--"
+          },
+          {
+            "stringId": "1811386924981444608",
+            "femaleVariant": "Fifteen."
+          },
+          {
+            "stringId": "1811389718589235200",
+            "femaleVariant": "Sorry to interrupt. How's it goin'? Close the deal yet?"
+          },
+          {
+            "stringId": "1851898186865467396",
+            "femaleVariant": "Fuck... Sniper!"
+          },
+          {
+            "stringId": "1851902203800739840",
+            "femaleVariant": "Don't know if there's gonna be a \"later.\"",
+            "maleVariant": "I don't know if there's gonna be a \"later.\""
+          },
+          {
+            "stringId": "1851904770748342276",
+            "femaleVariant": "Have it your way."
+          },
+          {
+            "stringId": "1851905049954770944",
+            "femaleVariant": "That had nothing to do with the Aldecaldos."
+          },
+          {
+            "stringId": "1851909487125749760",
+            "femaleVariant": "Good. I was starting to get a headache from all your bitching."
+          },
+          {
+            "stringId": "1851909846594379776",
+            "femaleVariant": "Kill them all!"
+          },
+          {
+            "stringId": "1851917544601837568",
+            "femaleVariant": "Now, now, that had nothing to do with the Aldecaldos.",
+            "maleVariant": "Now, now... that had nothing to do with the Aldecaldos."
+          },
+          {
+            "stringId": "1851917547269414912",
+            "femaleVariant": "Said you were all together, yeah? Am I right, or did I fucking hear wrong?"
+          },
+          {
+            "stringId": "1854485775794884608",
+            "femaleVariant": "Well, I'll be damned... I know you! Saw you back at the Aldecaldo camp... They call you V, right?"
+          },
+          {
+            "stringId": "1854494758031118340",
+            "femaleVariant": "I came here alone."
+          },
+          {
+            "stringId": "1854495287687827456",
+            "femaleVariant": "The one and only."
+          },
+          {
+            "stringId": "1854497591921004544",
+            "femaleVariant": "Did someone from the family send you here?"
+          },
+          {
+            "stringId": "1854498395180552192",
+            "femaleVariant": "Why do I get the feeling something isn't right?"
+          },
+          {
+            "stringId": "1854499200453365760",
+            "femaleVariant": "Now, why do I get the feeling something's wrong? What've you gotten yourselves into?"
+          },
+          {
+            "stringId": "1854499968883412992",
+            "femaleVariant": "Here by pure chance. No one sent me."
+          },
+          {
+            "stringId": "1854500471260368896",
+            "femaleVariant": "Why? Is this the kind of place I'm s'posed to be?",
+            "maleVariant": "Why? Is this the kind of place I'm supposed to be?"
+          },
+          {
+            "stringId": "1854501091279163392",
+            "femaleVariant": "Carol and Cass're here to close a deal with the Scavengers... We purloined some cyberware for 'em."
+          },
+          {
+            "stringId": "1854527401644838912",
+            "femaleVariant": "And…?"
+          },
+          {
+            "stringId": "1854527570608181248",
+            "femaleVariant": "And it's takin' 'em near eternity! Somethin' isn't right."
+          },
+          {
+            "stringId": "1854529575787483136",
+            "femaleVariant": "I'll go and take a look – make sure everything's OK."
+          },
+          {
+            "stringId": "1854529656720773124",
+            "femaleVariant": "I'll take a look and see what's going on."
+          },
+          {
+            "stringId": "1854530024812892160",
+            "femaleVariant": "Dealing with the scavs never ends well."
+          },
+          {
+            "stringId": "1854531234148175872",
+            "femaleVariant": "Dealin' with scavs never ends well..."
+          },
+          {
+            "stringId": "1854532012057350144",
+            "femaleVariant": "Wait, wait! It's just... well, they could get real sore about--"
+          },
+          {
+            "stringId": "1854532388420636672",
+            "femaleVariant": "Next time just stick to retrofitting old clunkers in the Badlands.",
+            "maleVariant": "Next time, just stick to retrofitting old clunkers in the Badlands."
+          },
+          {
+            "stringId": "1854535917659017216",
+            "femaleVariant": "Just keep a lookout."
+          },
+          {
+            "stringId": "1854545027402092544",
+            "femaleVariant": "V? What're you doin' here?!"
+          },
+          {
+            "stringId": "1854545622104068096",
+            "femaleVariant": "Oh, I thought I'd drop by, y'know – make sure everyone's playin' fair.",
+            "maleVariant": "Thought I'd drop by, y'know – make sure everyone's playin' fair."
+          },
+          {
+            "stringId": "1854545826383450112",
+            "femaleVariant": "Who the fuck is this?!"
+          },
+          {
+            "stringId": "1854551140197519360",
+            "femaleVariant": "Something about this deal stinks."
+          },
+          {
+            "stringId": "1854553193812643840",
+            "femaleVariant": "Deals either go quickly, or they go badly. It's biz one-oh-one."
+          },
+          {
+            "stringId": "1854559794657284096",
+            "femaleVariant": "Longer you drag out the convo, more peeps you'll drag in – just a reminder that there are more of us, case you were to pull a gonk move.",
+            "maleVariant": "Longer you drag out the convo, more peeps you'll drag in – just a reminder that there are more of us, in case you were to pull a gonk move."
+          },
+          {
+            "stringId": "1854562672285372416",
+            "femaleVariant": "You think you're so fuckin' latest, don't you? And what if I do wanna pull a gonk move starting with your ugly face?"
+          },
+          {
+            "stringId": "1854563351292858368",
+            "femaleVariant": "You can try."
+          },
+          {
+            "stringId": "1854564533063176192",
+            "femaleVariant": "What're you trying to pull here, huh?! This some kinda scare tactic?"
+          },
+          {
+            "stringId": "1854568580549758976",
+            "femaleVariant": "Can you count to fucking three? One, two, three! That's how many you were supposed to be!"
+          },
+          {
+            "stringId": "1854569262627475456",
+            "femaleVariant": "Heap of money was also s'posed to be here. And I can't see any."
+          },
+          {
+            "stringId": "1854578656660475904",
+            "femaleVariant": "You must be outside your mind, V. Why'd you come here?"
+          },
+          {
+            "stringId": "1854582881113133056",
+            "femaleVariant": "You can't trust the scavs."
+          },
+          {
+            "stringId": "1854583493649289216",
+            "femaleVariant": "Your guy outside was freaking out."
+          },
+          {
+            "stringId": "1854584219146440704",
+            "femaleVariant": "You can't trust the scavs. Nothing ever ends well with them."
+          },
+          {
+            "stringId": "1854584740917858304",
+            "femaleVariant": "I could smell the trap from a mile away."
+          },
+          {
+            "stringId": "1854585533607759872",
+            "femaleVariant": "Bumped into your man outside. Said it was takin' too long, so I figured I'd take a look."
+          },
+          {
+            "stringId": "1854590016244994048",
+            "femaleVariant": "Dealin' with the scavs? On their turf? On their terms? You must really be desperate."
+          },
+          {
+            "stringId": "1854592057696636928",
+            "femaleVariant": "And desperate people don't think straight."
+          },
+          {
+            "stringId": "1854594125891162112",
+            "femaleVariant": "We really need this money. Like, badly."
+          },
+          {
+            "stringId": "1854595220117966848",
+            "femaleVariant": "Hush up now! You can conversate all you want later."
+          },
+          {
+            "stringId": "1854596649519992832",
+            "femaleVariant": "Sniper. Up there behind the silo."
+          },
+          {
+            "stringId": "1854597864207208448",
+            "femaleVariant": "Damn it to heck...!"
+          },
+          {
+            "stringId": "1854617765441490944",
+            "femaleVariant": "Funny."
+          },
+          {
+            "stringId": "1854627911110545408",
+            "femaleVariant": "Didn't like your ugly skinplate from the get-go. Now I know why."
+          },
+          {
+            "stringId": "1854630262085046272",
+            "femaleVariant": "You're the one who flushed us out in Watson. Sandra Dorsett. Thought we'd forget, huh?"
+          },
+          {
+            "stringId": "1854635215138639872",
+            "femaleVariant": "We're done here."
+          },
+          {
+            "stringId": "1854681247776034816",
+            "femaleVariant": "I'd think real hard about your next move."
+          },
+          {
+            "stringId": "1854686256278327296",
+            "femaleVariant": "If I were you, I'd think real hard about your next move."
+          },
+          {
+            "stringId": "1854687005850783744",
+            "femaleVariant": "You're right – I was the one who took out your chooms in Watson. Shot 'em like fish in a barrel.",
+            "maleVariant": "'Cause you're right – I was the one who took out your chooms in Watson. Shot 'em all like fish in a barrel."
+          },
+          {
+            "stringId": "1854687543644442624",
+            "femaleVariant": "Why do you think this'll play out any different? 'Cause you got us surrounded?",
+            "maleVariant": "So why do you think this'll play out any different? 'Cause you got us surrounded?"
+          },
+          {
+            "stringId": "1854689751391850496",
+            "femaleVariant": "Cause you put some dipshit with a sniper on a roof?",
+            "maleVariant": "Cause you put some dipshit with a sniper rifle on a roof?"
+          },
+          {
+            "stringId": "1854690860248387584",
+            "femaleVariant": "Take a look at me. A real good one. You see my implants? I could slice you into ribbons 'fore you can squeeze a trigger. I know it. You know it."
+          },
+          {
+            "stringId": "1854693199982153728",
+            "femaleVariant": "Agh... Give 'em the eddies."
+          },
+          {
+            "stringId": "1854693442245152768",
+            "femaleVariant": "What, are you fucking deaf?! I said give 'em the eddies!"
+          },
+          {
+            "stringId": "1854693778175348736",
+            "femaleVariant": "This isn't over yet, merc."
+          },
+          {
+            "stringId": "1904094090133135396",
+            "femaleVariant": "Well, I'll be damned... I know you! Saw you back at the Aldecaldo camp. They call you V, right?"
+          },
+          {
+            "stringId": "1904094090149912584",
+            "femaleVariant": "The one and only."
+          },
+          {
+            "stringId": "1904094090166689792",
+            "femaleVariant": "Did someone from the family send you here?"
+          },
+          {
+            "stringId": "1904094090217021440",
+            "femaleVariant": "I came here alone."
+          },
+          {
+            "stringId": "1904094090217021456",
+            "femaleVariant": "Why do I get the feeling something isn't right?"
+          },
+          {
+            "stringId": "1904094090267353092",
+            "femaleVariant": "Now, why do I get the feeling something's wrong? What've you gotten yourselves into?"
+          },
+          {
+            "stringId": "1904094090284130308",
+            "femaleVariant": "Here by pure chance. No one sent me.",
+            "maleVariant": "I'm here by pure chance. No one sent me."
+          },
+          {
+            "stringId": "1904094090300907528",
+            "femaleVariant": "Why? Is this the kind of place I'm supposed to be?"
+          },
+          {
+            "stringId": "1904094090334461956",
+            "femaleVariant": "Carol and Cass are here to close a deal with the Scavengers. W-we purloined some cyberware for them..."
+          },
+          {
+            "stringId": "1904094090334461968",
+            "femaleVariant": "And...?"
+          },
+          {
+            "stringId": "1904094090351239172",
+            "femaleVariant": "And it's takin' 'em near eternity! Something isn't right."
+          },
+          {
+            "stringId": "1904094090384793604",
+            "femaleVariant": "I'll go and take a look – make sure everything's OK."
+          },
+          {
+            "stringId": "1904094090384793616",
+            "femaleVariant": "Wait, it's just... well, they could get real sore about--"
+          },
+          {
+            "stringId": "1904094090401570824",
+            "femaleVariant": "Just keep a lookout."
+          },
+          {
+            "stringId": "1904094090418348032",
+            "femaleVariant": "I'll take a look and see what's going on."
+          },
+          {
+            "stringId": "1904094090435125256",
+            "femaleVariant": "Dealing with the scavs never ends well."
+          },
+          {
+            "stringId": "1904094090468679684",
+            "femaleVariant": "Dealin' with scavs never ends well...",
+            "maleVariant": "Dealin' with the scavs never ends well..."
+          },
+          {
+            "stringId": "1904094090485456896",
+            "femaleVariant": "Next time just stick to retrofitting old clunkers in the Badlands."
+          },
+          {
+            "stringId": "1905339170919075840",
+            "femaleVariant": "Oh no, we're done. Fuck 'em up!"
+          },
+          {
+            "stringId": "1905340563159568384",
+            "femaleVariant": "Okay, but..."
+          }
+        ]
+      }
+
+
+

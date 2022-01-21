@@ -1,0 +1,716 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1750217206870429696",
+            "femaleVariant": "Nice. Someone really wanted to cover up... whatever it was that went down."
+          },
+          {
+            "stringId": "1750222544558477312",
+            "femaleVariant": "What should we be lookin' for?"
+          },
+          {
+            "stringId": "1750245085117272064",
+            "femaleVariant": "Let's try to find something that looks like an office. Every club has one."
+          },
+          {
+            "stringId": "1750267897013981184",
+            "femaleVariant": "Lucius Rhyne. Recently deceased mayor of Night City. He was here the night he died?"
+          },
+          {
+            "stringId": "1750268381338652672",
+            "femaleVariant": "Maybe he was, maybe he wasn't. No fuckin' idea."
+          },
+          {
+            "stringId": "1750351613727985664",
+            "femaleVariant": "Looks like an office. Sort of."
+          },
+          {
+            "stringId": "1750370804111626240",
+            "femaleVariant": "But hey, you might be here the day you die. Jokin', heheh..."
+          },
+          {
+            "stringId": "1750373986145521664",
+            "femaleVariant": "Weird. Guy looks familiar, doesn't he?"
+          },
+          {
+            "stringId": "1750374853426925568",
+            "femaleVariant": "V... I'm not in the mood for jokes."
+          },
+          {
+            "stringId": "1750376491638181892",
+            "femaleVariant": "Gonna look around some more."
+          },
+          {
+            "stringId": "1750376851358470144",
+            "femaleVariant": "[Leave club] All right. Let's delta."
+          },
+          {
+            "stringId": "1750377398413152256",
+            "femaleVariant": "Gonna look around some more."
+          },
+          {
+            "stringId": "1786615442178691072",
+            "femaleVariant": "Animals didn't wreck the BD wreath."
+          },
+          {
+            "stringId": "1786616695050850304",
+            "femaleVariant": "Somethin' scorched it from the inside, crashed it."
+          },
+          {
+            "stringId": "1786617723510968320",
+            "femaleVariant": "Aaaaaaghh…!"
+          },
+          {
+            "stringId": "1786619068959805440",
+            "femaleVariant": "V!"
+          },
+          {
+            "stringId": "1786621327642841088",
+            "femaleVariant": "You ask me, wa'n't a heart attack that killed Rhyne."
+          },
+          {
+            "stringId": "1786621831378751488",
+            "femaleVariant": "As I said from the start... But--"
+          },
+          {
+            "stringId": "1786622050002653184",
+            "femaleVariant": "Someone spiked his BD. That's what killed him."
+          },
+          {
+            "stringId": "1805437241020502020",
+            "femaleVariant": "[Connect]"
+          },
+          {
+            "stringId": "1856187583873798144",
+            "femaleVariant": "'Bout to gonk out, I'm so bored."
+          },
+          {
+            "stringId": "1856242173193342976",
+            "femaleVariant": "Gonk out, shmonk out."
+          },
+          {
+            "stringId": "1869299955903614976",
+            "femaleVariant": "Pinging Han now. We'll meet him at Chubby Buffalo's."
+          },
+          {
+            "stringId": "1869300585284096004",
+            "femaleVariant": "Yeah, sure."
+          },
+          {
+            "stringId": "1869301493384466432",
+            "femaleVariant": "Gotta look him straight in the eye, ask who ordered him to cover up Rhyne's death."
+          },
+          {
+            "stringId": "1869306435197325312",
+            "femaleVariant": "Let's meet at Chubby's."
+          },
+          {
+            "stringId": "1869317665194627072",
+            "femaleVariant": "OK. Let's delta."
+          },
+          {
+            "stringId": "1915636498792304640",
+            "femaleVariant": "River. Found some footage – you're gonna wanna see this."
+          },
+          {
+            "stringId": "1915637243163824128",
+            "femaleVariant": "Sendin' it your way. Your choom covered up the true circumstances of Rhyne's death."
+          },
+          {
+            "stringId": "1915637496348790784",
+            "femaleVariant": "My choom...? I– You mean Han?"
+          },
+          {
+            "stringId": "1915638010016813056",
+            "femaleVariant": "Yeah, him. You didn't know? Not a thing?"
+          },
+          {
+            "stringId": "1915638309708222464",
+            "femaleVariant": "Shit... No, no it can't..."
+          },
+          {
+            "stringId": "1915638431896686592",
+            "femaleVariant": "I'm gonna ping him, tell him to meet at Chubby Buffalo's. And we're goin' straight there."
+          },
+          {
+            "stringId": "1915668167465226240",
+            "femaleVariant": "OK. Hang on. Be there in a sec."
+          },
+          {
+            "stringId": "1932759772839923712",
+            "femaleVariant": "Yep, stiff as a board. You ask me, he's been dead at least an hour."
+          },
+          {
+            "stringId": "1932869497342513152",
+            "femaleVariant": "No, no Trauma card. Pretty sure he didn't bring it on purpose."
+          },
+          {
+            "stringId": "1932869720076832768",
+            "femaleVariant": "Club like this, you don't want TT bangin' down the door when you're bangin' away and things start to heat up…"
+          },
+          {
+            "stringId": "1932870793097236480",
+            "femaleVariant": "Heart, probably. Musta gotten a little too heavy an' messy."
+          },
+          {
+            "stringId": "1932871398805065728",
+            "femaleVariant": "OK... yeah, let's do that. Coroner'll find him at home. I'll tell him how to write it up. \"Died in his sleep, quiet as a baby.\""
+          },
+          {
+            "stringId": "1932872165758717952",
+            "femaleVariant": "Boys're getting him outta here. 'Course nobody'll see 'em. No way."
+          },
+          {
+            "stringId": "1940136860020596736",
+            "femaleVariant": "Hahaha…"
+          },
+          {
+            "stringId": "1940148413902053376",
+            "femaleVariant": "\"Some Like It Hot\" – you see the remake?"
+          },
+          {
+            "stringId": "1940148677841215488",
+            "femaleVariant": "Braindance or straight up?"
+          },
+          {
+            "stringId": "1940148833332453376",
+            "femaleVariant": "Straight up."
+          },
+          {
+            "stringId": "1940149091701579776",
+            "femaleVariant": "Hated it. Curtis and Lemon – now they were perfect."
+          },
+          {
+            "stringId": "1940149296115179520",
+            "femaleVariant": "Uh – \"Nobody's perfect.\""
+          },
+          {
+            "stringId": "1940191378422849536",
+            "femaleVariant": "Yep, yes. All right, I'll buzz you later."
+          },
+          {
+            "stringId": "1940195276474769408",
+            "femaleVariant": "Comps are what we want. Comps above all."
+          },
+          {
+            "stringId": "1940207980501491712",
+            "femaleVariant": "Feel like comin' along?"
+          },
+          {
+            "stringId": "1940242179245694980",
+            "femaleVariant": "Meet you there."
+          },
+          {
+            "stringId": "1940242194580070400",
+            "femaleVariant": "Fine by me."
+          },
+          {
+            "stringId": "1940242224510623748",
+            "femaleVariant": "Sure, I'll ride with you."
+          },
+          {
+            "stringId": "1940253322051805188",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "1940272961091756032",
+            "femaleVariant": "Think we've seen everything we needed to. Let's go."
+          },
+          {
+            "stringId": "1940277309393821696",
+            "femaleVariant": "OK, do what you will. Waste of time, as I see it, though."
+          },
+          {
+            "stringId": "1940277793718493184",
+            "femaleVariant": "Think I saw another way out on the way in."
+          },
+          {
+            "stringId": "1940324248906850304",
+            "femaleVariant": "V!"
+          },
+          {
+            "stringId": "1940325410192187392",
+            "femaleVariant": "You hear me?"
+          },
+          {
+            "stringId": "1940336659416178688",
+            "femaleVariant": "Shit, V! You OK?"
+          },
+          {
+            "stringId": "1940344516555530244",
+            "femaleVariant": "Must've been the virus that killed Rhyne."
+          },
+          {
+            "stringId": "1940347415155138560",
+            "femaleVariant": "Thanks for saving my life."
+          },
+          {
+            "stringId": "1940352153544253440",
+            "femaleVariant": "Thanks for leapin' into action back there."
+          },
+          {
+            "stringId": "1940353448409784320",
+            "femaleVariant": "No problem. You feelin' OK?"
+          },
+          {
+            "stringId": "1940353762445713408",
+            "femaleVariant": "I'll live."
+          },
+          {
+            "stringId": "1940353899733671936",
+            "femaleVariant": "What was that, V?"
+          },
+          {
+            "stringId": "1940366242563710976",
+            "femaleVariant": "Fuck... Think you could be right."
+          },
+          {
+            "stringId": "1940369362790342656",
+            "femaleVariant": "Virus must've killed Rhyne."
+          },
+          {
+            "stringId": "1940369362790342672",
+            "femaleVariant": "What're you doing here?"
+          },
+          {
+            "stringId": "1940375083854553088",
+            "femaleVariant": "Fuck... Wake up, girl!",
+            "maleVariant": "Fuck... Wake up!"
+          },
+          {
+            "stringId": "1940376312030650368",
+            "femaleVariant": "Agh… What're you doin' here? Thought you couldn't come in without a warrant.",
+            "maleVariant": "Wha-- What're you doin' here? I thought you couldn't come in without a warrant."
+          },
+          {
+            "stringId": "1940377334299975680",
+            "femaleVariant": "I can't. Some gonks just ask to be flatlined sometimes."
+          },
+          {
+            "stringId": "1940377715427991552",
+            "femaleVariant": "Yeah… Right."
+          },
+          {
+            "stringId": "1940377870063591424",
+            "femaleVariant": "What was that, V?"
+          },
+          {
+            "stringId": "1940382345218187264",
+            "femaleVariant": "Know your way around the tech?"
+          },
+          {
+            "stringId": "1940382485609930752",
+            "femaleVariant": "Not really. Think I can reset it, though."
+          },
+          {
+            "stringId": "1940395943252418560",
+            "femaleVariant": "Get outta there, V."
+          },
+          {
+            "stringId": "1940399883851358208",
+            "femaleVariant": "What?"
+          },
+          {
+            "stringId": "1940412745684574208",
+            "femaleVariant": "Talk to 'er. Find out what they're doing here, if they know anything about Rhyne."
+          },
+          {
+            "stringId": "1940414077862633472",
+            "femaleVariant": "I gotta do the talkin'? You're the detective."
+          },
+          {
+            "stringId": "1940414375960207360",
+            "femaleVariant": "But I don't have a--"
+          },
+          {
+            "stringId": "1940414478838095872",
+            "femaleVariant": "A warrant. Right."
+          },
+          {
+            "stringId": "1940418068910661632",
+            "femaleVariant": "Why you watchin' this dump? Nothin' left to klep here."
+          },
+          {
+            "stringId": "1940418493944651780",
+            "femaleVariant": "Payup from who? Might be able to help you out."
+          },
+          {
+            "stringId": "1940424180431020036",
+            "femaleVariant": "Weldon Holt."
+          },
+          {
+            "stringId": "1940424181336989696",
+            "femaleVariant": "Lucius Rhyne's right-hand bull terrier? Candidate for mayor in the upcoming election?",
+            "maleVariant": "Lucius Rhyne's right-hand bull terrier. Candidate for mayor in the upcoming election."
+          },
+          {
+            "stringId": "1940424182159073280",
+            "femaleVariant": "Right fuckhead for the job."
+          },
+          {
+            "stringId": "1940424183065042944",
+            "femaleVariant": "Thanks for the help."
+          },
+          {
+            "stringId": "1940436943849086980",
+            "femaleVariant": "What're you doing here?"
+          },
+          {
+            "stringId": "1940437918286569472",
+            "femaleVariant": "Lucius Rhyne – he was here the day he died."
+          },
+          {
+            "stringId": "1940441622242877440",
+            "femaleVariant": "We ain't watchin' it. We're fuckin' waitin'."
+          },
+          {
+            "stringId": "1940441772700950528",
+            "femaleVariant": "For what?"
+          },
+          {
+            "stringId": "1940441851839078400",
+            "femaleVariant": "Till they send us the scratch for a job well done. Smashed it up pretty fuckin' good, didn't we?"
+          },
+          {
+            "stringId": "1940447922288812032",
+            "femaleVariant": "We done our bit, time for the payup."
+          },
+          {
+            "stringId": "1940448768179265536",
+            "femaleVariant": "Gimme some intel, pay you half what they owe you."
+          },
+          {
+            "stringId": "1940449197189455872",
+            "femaleVariant": "I'll pay you. You get half of what you were promised, I get the intel I need."
+          },
+          {
+            "stringId": "1940449214788755456",
+            "femaleVariant": "Who'd you smash it up for?"
+          },
+          {
+            "stringId": "1940456105090703360",
+            "femaleVariant": "Argh... What's it to you?"
+          },
+          {
+            "stringId": "1940459286117965824",
+            "femaleVariant": "Might be able to speed up your payment."
+          },
+          {
+            "stringId": "1940459626443792384",
+            "femaleVariant": "The fuck I look like to you? Someone who'd swallow scop like that?"
+          },
+          {
+            "stringId": "1940461588354654212",
+            "femaleVariant": "Wanna buy this place. Without you in it."
+          },
+          {
+            "stringId": "1940461678095982592",
+            "femaleVariant": "Wanna buy this dump. Turn it into somethin' real elegant and preem."
+          },
+          {
+            "stringId": "1940461702993371136",
+            "femaleVariant": "Eh, think I know who it is. That gonk burned me too.",
+            "maleVariant": "Ugh, think I know who it is. That gonk burned me too."
+          },
+          {
+            "stringId": "1940461839442468864",
+            "femaleVariant": "Wanna do a good deed for a change. On a bet."
+          },
+          {
+            "stringId": "1940462823963058176",
+            "femaleVariant": "Diggin' for some dirt on that same guy."
+          },
+          {
+            "stringId": "1940464415332327424",
+            "femaleVariant": "Wanna do a good deed. On a bet."
+          },
+          {
+            "stringId": "1940468366752571392",
+            "femaleVariant": "Half? For half, I can tell you how tall he is. But that's it."
+          },
+          {
+            "stringId": "1940471744945676288",
+            "femaleVariant": "Y'sure? Half in your hand right now. Real scratch. Or the whole thing... someday maybe? But prolly never.",
+            "maleVariant": "You sure? Half in your hand right now. Real scratch. Or the whole thing... someday maybe. But prob'ly never."
+          },
+          {
+            "stringId": "1940473494842859520",
+            "femaleVariant": "Ughhh... All right. Scratch, now."
+          },
+          {
+            "stringId": "1940473801312264192",
+            "femaleVariant": "Who told you to wreck the club? And why?"
+          },
+          {
+            "stringId": "1940483416586412032",
+            "femaleVariant": "Little hard with you sittin' here, though, i'n't it? So I wouldn't mind speedin' your transaction on its way.",
+            "maleVariant": "Little hard with you sittin' here, though, isn't it? So I wouldn't mind speedin' your transaction on its way."
+          },
+          {
+            "stringId": "1940490934624673792",
+            "femaleVariant": "Anyway, diggin' for dirt on him. I get him, you'll get what you're owed.",
+            "maleVariant": "Anyway, diggin' for dirt on 'im. I get him, you'll get what you're owed."
+          },
+          {
+            "stringId": "1940491362477236224",
+            "femaleVariant": "But first I gotta know we're talkin' 'bout the same assmunch.",
+            "maleVariant": "But first I gotta know we're talkin' about the same assmunch."
+          },
+          {
+            "stringId": "1940494383080759296",
+            "femaleVariant": "So go fuckin' buy a bum a scopsicle."
+          },
+          {
+            "stringId": "1940494865996144640",
+            "femaleVariant": "Ah, too easy, that. And it wouldn't change a thing. Wanna feel like I made a difference, y'know?"
+          },
+          {
+            "stringId": "1940495726432444416",
+            "femaleVariant": "So I'll help you. Just gotta know who owes you the eddies.",
+            "maleVariant": "So I'll help ya. I just gotta know who owes ya the eddies."
+          },
+          {
+            "stringId": "1940497401989783552",
+            "femaleVariant": "First, though, gotta know who owes you.",
+            "maleVariant": "First, though, gotta know who owes ya."
+          },
+          {
+            "stringId": "2034614146821640192",
+            "femaleVariant": "What're you doing here?"
+          },
+          {
+            "stringId": "2034614146821640208",
+            "femaleVariant": "Lucius Rhyne – he was here the day he died."
+          },
+          {
+            "stringId": "2034615078192009216",
+            "femaleVariant": "Who gave you the job? Maybe I can fix this for you."
+          },
+          {
+            "stringId": "2034615078208786432",
+            "femaleVariant": "I'll pay you. You get half of what you were promised. I get the intel I need."
+          },
+          {
+            "stringId": "2034615567751172096",
+            "femaleVariant": "Wanna buy this place. Without you in it."
+          },
+          {
+            "stringId": "2034615567751172112",
+            "femaleVariant": "Diggin' for some dirt on that same guy."
+          },
+          {
+            "stringId": "2034615567751172128",
+            "femaleVariant": "Wanna do a good deed. On a bet."
+          },
+          {
+            "stringId": "2091184161099993092",
+            "femaleVariant": "Fried from the inside."
+          },
+          {
+            "stringId": "2309881228115533828",
+            "femaleVariant": "Lucius Rhyne. Recently deceased mayor of Night City. He was here the night he died?"
+          },
+          {
+            "stringId": "2309881228232974336",
+            "femaleVariant": "Maybe he was, maybe he wasn't. N-no fuckin' idea."
+          },
+          {
+            "stringId": "2309881228350414848",
+            "femaleVariant": "But hey, you might be here the day you die. Jokin', jokin'…!"
+          },
+          {
+            "stringId": "2309881228518187032",
+            "femaleVariant": "Why you watchin' this dump? Nothin' left to klep here."
+          },
+          {
+            "stringId": "2309881228635627520",
+            "femaleVariant": "We ain't watchin' it. We're fuckin' waitin'."
+          },
+          {
+            "stringId": "2309881228753068032",
+            "femaleVariant": "For what?"
+          },
+          {
+            "stringId": "2309881228853731328",
+            "femaleVariant": "Till they send us the scratch for a job well done. Smashed it up pretty fuckin' good, didn't we?"
+          },
+          {
+            "stringId": "2309881228971171840",
+            "femaleVariant": "We done our bit, time for the payup."
+          },
+          {
+            "stringId": "2309881229138944000",
+            "femaleVariant": "Payup from who? Might be able to help you out."
+          },
+          {
+            "stringId": "2309881229155721228",
+            "femaleVariant": "Gimme some intel, pay you half what they owe you."
+          },
+          {
+            "stringId": "2309881229206052884",
+            "femaleVariant": "Weldon Holt."
+          },
+          {
+            "stringId": "2309881229323493376",
+            "femaleVariant": "Lucius Rhyne's right-hand bull terrier? Candidate for mayor in the upcoming election?"
+          },
+          {
+            "stringId": "2309881229457711104",
+            "femaleVariant": "Right fuckhead for the job."
+          },
+          {
+            "stringId": "2309881229591928832",
+            "femaleVariant": "Thanks for the help."
+          },
+          {
+            "stringId": "2309881229810032640",
+            "femaleVariant": "What're you doing here?"
+          },
+          {
+            "stringId": "2309881229826809864",
+            "femaleVariant": "Lucius Rhyne – he was here the day he died."
+          },
+          {
+            "stringId": "2309881229910695944",
+            "femaleVariant": "I'll pay you. You get half of what you were promised, I get the intel I need."
+          },
+          {
+            "stringId": "2309881230011359232",
+            "femaleVariant": "Half? For half, I can tell you how tall he is. But t-that's it."
+          },
+          {
+            "stringId": "2309881230128799744",
+            "femaleVariant": "Y'sure? Half in your hand right now. Real scratch. Or the whole thing... someday maybe. But prolly never.",
+            "maleVariant": "You sure? Half in your hand right now. Real scratch. Or the whole thing... someday maybe. But prolly never."
+          },
+          {
+            "stringId": "2309881230246240256",
+            "femaleVariant": "Uhh-ughhh. All right. Scratch, now."
+          },
+          {
+            "stringId": "2309881230380457984",
+            "femaleVariant": "Who told you to wreck the club? And why?"
+          },
+          {
+            "stringId": "2309881230581784596",
+            "femaleVariant": "Who'd you smash it up for?"
+          },
+          {
+            "stringId": "2309881230716002304",
+            "femaleVariant": "What's it to you?"
+          },
+          {
+            "stringId": "2309881230816665600",
+            "femaleVariant": "Might be able to speed up your payment."
+          },
+          {
+            "stringId": "2309881230934106112",
+            "femaleVariant": "Shit. The fuck I look like to you? Someone who'd swallow scop like that?"
+          },
+          {
+            "stringId": "2309881231101878272",
+            "femaleVariant": "Wanna buy this place. Without you in it."
+          },
+          {
+            "stringId": "2309881231101878296",
+            "femaleVariant": "Diggin' for some dirt on that same guy."
+          },
+          {
+            "stringId": "2309881231118655500",
+            "femaleVariant": "Wanna do a good deed. On a bet."
+          },
+          {
+            "stringId": "2309881231185764368",
+            "femaleVariant": "Wanna buy this dump. Turn it into somethin' real elegant and preem."
+          },
+          {
+            "stringId": "2309881231336759296",
+            "femaleVariant": "Little hard with you sittin' here, though, i'n't it? So I wouldn't mind speedin' your transaction on its way.",
+            "maleVariant": "Little hard with you sittin' here, though, isn't it? So I wouldn't mind speedin' your transaction on its way."
+          },
+          {
+            "stringId": "2309881231470977024",
+            "femaleVariant": "First, though, gotta know who owes you."
+          },
+          {
+            "stringId": "2309881231655526416",
+            "femaleVariant": "Eh, I think I know who it is. That gonk burned me too.",
+            "maleVariant": "Yeah, think I know who it is. That gonk burned me too."
+          },
+          {
+            "stringId": "2309881231806521344",
+            "femaleVariant": "Anyway, diggin' for dirt on 'im. I get him, you'll get what you're owed.",
+            "maleVariant": "Anyway, diggin' for dirt on him. I get him, you'll get what you're owed."
+          },
+          {
+            "stringId": "2309881231940739072",
+            "femaleVariant": "But first, I gotta know we're talkin' 'bout the same assmunch."
+          },
+          {
+            "stringId": "2309881232125288468",
+            "femaleVariant": "Wanna do a good deed for a change. On a bet."
+          },
+          {
+            "stringId": "2309881232242728960",
+            "femaleVariant": "So go fuckin' buy a bum a scopsicle."
+          },
+          {
+            "stringId": "2309881232360169472",
+            "femaleVariant": "Too easy, that. And it wouldn't change a thing. Wanna feel like I made a difference, y'know?"
+          },
+          {
+            "stringId": "2309881232477609984",
+            "femaleVariant": "So I'll help you. Just gotta know who owes you the eddies."
+          },
+          {
+            "stringId": "2309881232729268224",
+            "femaleVariant": "What're you doing here?"
+          },
+          {
+            "stringId": "2309881232729268248",
+            "femaleVariant": "Lucius Rhyne – he was here the day he died."
+          },
+          {
+            "stringId": "2309881232829931520",
+            "femaleVariant": "Payup from who? Might be able to help you out."
+          },
+          {
+            "stringId": "2309881232846708736",
+            "femaleVariant": "Gimme some intel, pay you half what they owe you."
+          },
+          {
+            "stringId": "2309881232913817600",
+            "femaleVariant": "Wanna buy this place. Without you in it."
+          },
+          {
+            "stringId": "2309881232930594824",
+            "femaleVariant": "Diggin' for some dirt on that same guy."
+          },
+          {
+            "stringId": "2309881232930594848",
+            "femaleVariant": "Wanna do a good deed. On a bet."
+          },
+          {
+            "stringId": "2309883504414646280",
+            "femaleVariant": "What?"
+          }
+        ]
+      }
+
+
+

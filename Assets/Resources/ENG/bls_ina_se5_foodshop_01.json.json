@@ -1,0 +1,48 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1935695189159358464",
+            "femaleVariant": "Can I get any good grub here?"
+          },
+          {
+            "stringId": "1935695189159358480",
+            "femaleVariant": "Smells delicious. Mouth's practically watering."
+          },
+          {
+            "stringId": "1935695189209690116",
+            "femaleVariant": "Can I get any good grub here?"
+          },
+          {
+            "stringId": "1935695189209690124",
+            "femaleVariant": "You sure can, miss.",
+            "maleVariant": "You sure can, friend."
+          },
+          {
+            "stringId": "1935695189243244548",
+            "femaleVariant": "Smells delicious. Mouth's practically watering.",
+            "maleVariant": "Ooh, smells delicious. Mouth's practically watering."
+          },
+          {
+            "stringId": "1935695189243244556",
+            "femaleVariant": "Garlic sautéed in butter. Mm-mmm! Best smell in the whole wide world."
+          }
+        ]
+      }
+
+
+

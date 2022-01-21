@@ -1,0 +1,379 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1643116584492875776",
+            "femaleVariant": "Ah, you are here."
+          },
+          {
+            "stringId": "1643117143157391364",
+            "femaleVariant": "What're we doin' here?"
+          },
+          {
+            "stringId": "1643118453508292608",
+            "femaleVariant": "Do you know who most wished to honor Arasaka-sama with the parade?"
+          },
+          {
+            "stringId": "1643121473541390336",
+            "femaleVariant": "Don't see what that gets us."
+          },
+          {
+            "stringId": "1643122058495803392",
+            "femaleVariant": "Thought Yori wasn't one for tradition."
+          },
+          {
+            "stringId": "1643122915090120704",
+            "femaleVariant": "What's in it for Yorinobu?"
+          },
+          {
+            "stringId": "1643123905851834368",
+            "femaleVariant": "Parade stands to confirm his legitimacy."
+          },
+          {
+            "stringId": "1643125303024828416",
+            "femaleVariant": "Yorinobu's a smart little muffin. Puttin' on the parade to show off his attachment to Arasaka, its values."
+          },
+          {
+            "stringId": "1643127550299357184",
+            "femaleVariant": "He is shrewd. I will not deny that."
+          },
+          {
+            "stringId": "1643127703458562048",
+            "femaleVariant": "Japanese heritage is one element. Yorinobu will also put on a display of power."
+          },
+          {
+            "stringId": "1643128638721245184",
+            "femaleVariant": "The floats are sure to be beautiful, but the wizened eye will see in them a hidden message to his foes."
+          },
+          {
+            "stringId": "1644748867821912064",
+            "femaleVariant": "Still don't see how this gets us anywhere."
+          },
+          {
+            "stringId": "1698600601962692608",
+            "femaleVariant": "I acquired some information of my own."
+          },
+          {
+            "stringId": "1711266717562322944",
+            "femaleVariant": "I have had an idea."
+          },
+          {
+            "stringId": "1711563643113455616",
+            "femaleVariant": "Look to the sky."
+          },
+          {
+            "stringId": "1711566497521876992",
+            "femaleVariant": "While you were occupied with your shady dealings, I learned more about the floats."
+          },
+          {
+            "stringId": "1711566497555431424",
+            "femaleVariant": "I have an infected shard."
+          },
+          {
+            "stringId": "1711566497605763072",
+            "femaleVariant": "[Take shard]"
+          },
+          {
+            "stringId": "1711566501028315136",
+            "femaleVariant": "And then?"
+          },
+          {
+            "stringId": "1711566501028315152",
+            "femaleVariant": "Hacking's not my forte."
+          },
+          {
+            "stringId": "1711566504215986176",
+            "femaleVariant": "Right. Then what?"
+          },
+          {
+            "stringId": "1711566504249540608",
+            "femaleVariant": "Gotta be honest. Netrunning's not my forte."
+          },
+          {
+            "stringId": "1711566504249540616",
+            "femaleVariant": "It is even less mine."
+          },
+          {
+            "stringId": "1711569540120330240",
+            "femaleVariant": "They are all kept in one place – Arasaka Industrial Park. It is there that they prepare them."
+          },
+          {
+            "stringId": "1711571853195100160",
+            "femaleVariant": "Let us move on."
+          },
+          {
+            "stringId": "1711572544248627200",
+            "femaleVariant": "To take control of the float is one thing, but not all. The security concerns me – the snipers especially. I will be an easy target."
+          },
+          {
+            "stringId": "1711573935180496896",
+            "femaleVariant": "But I may have an answer. Okada-san mentioned the city cameras."
+          },
+          {
+            "stringId": "1714341936410529792",
+            "femaleVariant": "Doesn't seem like the kind who'd care to honor tradition."
+          },
+          {
+            "stringId": "1714343242885894144",
+            "femaleVariant": "That is so."
+          },
+          {
+            "stringId": "1714347411420090368",
+            "femaleVariant": "<mothertongue l=\"jpn\" m=\"gumin-domo\" b=\"\\\"I am here, \" a=\". Watch your backs.\\\" \"/>"
+          },
+          {
+            "stringId": "1714349377978241024",
+            "femaleVariant": "What message'd that be?"
+          },
+          {
+            "stringId": "1714354294189068288",
+            "femaleVariant": "And to solidify his legitimacy."
+          },
+          {
+            "stringId": "1714358578536386560",
+            "femaleVariant": "Good to see you, Goro."
+          },
+          {
+            "stringId": "1714359452428013568",
+            "femaleVariant": "Goro. Good to see you."
+          },
+          {
+            "stringId": "1714359614143598592",
+            "femaleVariant": "Why? What're we doin' here?"
+          },
+          {
+            "stringId": "1714360581282992128",
+            "femaleVariant": "As it is to see you, V."
+          },
+          {
+            "stringId": "1719999005323038720",
+            "femaleVariant": "Actually sounds doable."
+          },
+          {
+            "stringId": "1719999561370308608",
+            "femaleVariant": "Lots of ways to skin this particular cat, y'know. Gonna need--"
+          },
+          {
+            "stringId": "1720009300359647232",
+            "femaleVariant": "I know what you need. It is taken care of."
+          },
+          {
+            "stringId": "1720013574405754880",
+            "femaleVariant": "It was not cheap, but the man who sold it to me guaranteed it will work."
+          },
+          {
+            "stringId": "1724371748889956352",
+            "femaleVariant": "And how ya aim to do that?"
+          },
+          {
+            "stringId": "1724371748889956368",
+            "femaleVariant": "In front of everyone? Think you might've lost it."
+          },
+          {
+            "stringId": "1724371748889956384",
+            "femaleVariant": "Impossible. Even with implants."
+          },
+          {
+            "stringId": "1724373624230383616",
+            "femaleVariant": "And how ya aim to manage that?"
+          },
+          {
+            "stringId": "1724373701741121536",
+            "femaleVariant": "You're gnatshit crazy. In front of a crowd? What about security or...?"
+          },
+          {
+            "stringId": "1724373802756739072",
+            "femaleVariant": "Expectation's way too high, Goro. Couldn't pull that off even if you had your fancy implants.",
+            "maleVariant": "Expectation's way too high, Goro. Couldn't pull that off even if you still had your fancy implants."
+          },
+          {
+            "stringId": "1724380572011073536",
+            "femaleVariant": "We need only to break into the compound, find the right float and inject a virus into its system."
+          },
+          {
+            "stringId": "1724386493898559488",
+            "femaleVariant": "You will then be able to disable any security before I sneak inside."
+          },
+          {
+            "stringId": "1724388168130498560",
+            "femaleVariant": "I have thought of a solution."
+          },
+          {
+            "stringId": "1724388318437576704",
+            "femaleVariant": "You need not worry."
+          },
+          {
+            "stringId": "1724405553470246912",
+            "femaleVariant": "Think I see where this is goin'. Got me doin' all the dirty work."
+          },
+          {
+            "stringId": "1724410364940914688",
+            "femaleVariant": "Do you wish to trade places? What exactly would you say to her? \"Hello, my name is V\"?"
+          },
+          {
+            "stringId": "1724418373981179904",
+            "femaleVariant": "Hanako-sama knows me. Only I can do this."
+          },
+          {
+            "stringId": "1725524809985429504",
+            "femaleVariant": "Not one for subtlety, is he?"
+          },
+          {
+            "stringId": "1731660491478888448",
+            "femaleVariant": "I do not understand. Does Arasaka not have enough of its own people?"
+          },
+          {
+            "stringId": "1731661366947573760",
+            "femaleVariant": "Look around, sir. Things're heating up in the city."
+          },
+          {
+            "stringId": "1732780378098319360",
+            "femaleVariant": "Not one to butt in, but…"
+          },
+          {
+            "stringId": "1732781618672779280",
+            "femaleVariant": "Need to steal your buddy for a second."
+          },
+          {
+            "stringId": "1732782147775840256",
+            "femaleVariant": "Hate to interrupt, but..."
+          },
+          {
+            "stringId": "1732782508787974144",
+            "femaleVariant": "He's got the gift of the gab, can't be denied, but I need to steal your buddy for a sec."
+          },
+          {
+            "stringId": "1732783915305877504",
+            "femaleVariant": "Ah, perfect timing!"
+          },
+          {
+            "stringId": "1732786405564825600",
+            "femaleVariant": "What are you...?"
+          },
+          {
+            "stringId": "1732801942743236632",
+            "femaleVariant": "The dashi floats will pass precisely this way."
+          },
+          {
+            "stringId": "1732801942743236644",
+            "femaleVariant": "If I could just get onto Hanako-sama's float, I could speak with her in private."
+          },
+          {
+            "stringId": "1763553732555837440",
+            "femaleVariant": "Get there how?"
+          },
+          {
+            "stringId": "1763555229637152768",
+            "femaleVariant": "Shard – where'd you get it?"
+          },
+          {
+            "stringId": "1763556256486658048",
+            "femaleVariant": "Where'd you get this shard?"
+          },
+          {
+            "stringId": "1763556749871026176",
+            "femaleVariant": "Across the canal."
+          },
+          {
+            "stringId": "1763560242719625216",
+            "femaleVariant": "Kabuki? Might actually be half-decent soft, then."
+          },
+          {
+            "stringId": "1763563642941214720",
+            "femaleVariant": "And if it isn't, got a few tricks up my sleeve, too."
+          },
+          {
+            "stringId": "1770473777101934592",
+            "femaleVariant": "An' riots're always best put down by folks not sportin' your brand name."
+          },
+          {
+            "stringId": "1770492434590863360",
+            "femaleVariant": "Suits know one spark's all it takes for Japantown to go up in flames."
+          },
+          {
+            "stringId": "1770501671874334720",
+            "femaleVariant": "Why, jump, of course."
+          },
+          {
+            "stringId": "1772240340670877696",
+            "femaleVariant": "You shall learn soon."
+          },
+          {
+            "stringId": "1780946454967095296",
+            "femaleVariant": "Sounds like a plan."
+          },
+          {
+            "stringId": "1780946454967095316",
+            "femaleVariant": "Why's the dirty work my job?"
+          },
+          {
+            "stringId": "1780950257556656128",
+            "femaleVariant": "Sounds like a plan."
+          },
+          {
+            "stringId": "1783722654030499840",
+            "femaleVariant": "You agree just like that? The risks are considerable."
+          },
+          {
+            "stringId": "1834426652978712576",
+            "femaleVariant": "Yeah, well – gettin' more 'n' more used to that."
+          },
+          {
+            "stringId": "1871963463881662464",
+            "femaleVariant": "His murderer. The irony makes me sick."
+          },
+          {
+            "stringId": "1996584541047562240",
+            "femaleVariant": "This is good to know."
+          },
+          {
+            "stringId": "1996671649260257280",
+            "femaleVariant": "And now... what would you say to a small test? We must try the shard."
+          },
+          {
+            "stringId": "1996728020454359040",
+            "femaleVariant": "The camera control room is in front of us."
+          },
+          {
+            "stringId": "1996728467550388224",
+            "femaleVariant": "You must get inside and infect the network, that is all."
+          },
+          {
+            "stringId": "2005630399353266176",
+            "femaleVariant": "Uh-huh. And in the meantime you'll do what? Crack open a can o' suds?"
+          },
+          {
+            "stringId": "2005631121343979520",
+            "femaleVariant": "I would not touch alcohol at work. I will watch your back. Now, get to it."
+          },
+          {
+            "stringId": "2005638444749758464",
+            "femaleVariant": "If we gain access to them, we will see exactly where the snipers are. You can deal with them as I advance."
+          },
+          {
+            "stringId": "2014108158846320640",
+            "femaleVariant": "[Wait]"
+          },
+          {
+            "stringId": "2069428144805330948",
+            "femaleVariant": "[Stand]"
+          }
+        ]
+      }
+
+
+

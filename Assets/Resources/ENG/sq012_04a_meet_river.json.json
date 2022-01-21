@@ -1,0 +1,381 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1700890536825180160",
+            "femaleVariant": "You River Ward?"
+          },
+          {
+            "stringId": "1700891001688281092",
+            "femaleVariant": "Detective Ward?"
+          },
+          {
+            "stringId": "1700982118597382144",
+            "femaleVariant": "Someone here to see you, looks like."
+          },
+          {
+            "stringId": "1700983760499625984",
+            "femaleVariant": "In the flesh. V, right?"
+          },
+          {
+            "stringId": "1700983916276076544",
+            "femaleVariant": "My partner, Detective Han."
+          },
+          {
+            "stringId": "1701115711139205120",
+            "femaleVariant": "Red Queen's Race – heard anything about it? Know what it is?"
+          },
+          {
+            "stringId": "1701116952049209344",
+            "femaleVariant": "Maybe I have, maybe I do. It got anything to do with Rhyne?"
+          },
+          {
+            "stringId": "1701118020220997632",
+            "femaleVariant": "Guy was headed there the day he died.",
+            "maleVariant": "The guy was headed there the day he died."
+          },
+          {
+            "stringId": "1701118796418895872",
+            "femaleVariant": "Pssh... fine. We're gonna see my CI."
+          },
+          {
+            "stringId": "1745803853716639744",
+            "femaleVariant": "All I've heard, it's some fancy-ass club. No idea where to even look for it. CI might know."
+          },
+          {
+            "stringId": "1745805693204156420",
+            "femaleVariant": "Let's go see his boss."
+          },
+          {
+            "stringId": "1745806603166797824",
+            "femaleVariant": "Let's meet with your CI."
+          },
+          {
+            "stringId": "1745806924517593088",
+            "femaleVariant": "Let's go see his boss first. Guy who can afford all the chrome he was decked out in should have the scratch for psychomuting meds too.",
+            "maleVariant": "Let's go see his boss first. The guy who can afford all the chrome he was decked out in should have the scratch for psychomuting meds too."
+          },
+          {
+            "stringId": "1745807684760358912",
+            "femaleVariant": "Let's go see your informer. Club's a better lead."
+          },
+          {
+            "stringId": "1756154294396637184",
+            "femaleVariant": "OK."
+          },
+          {
+            "stringId": "1806954913600229376",
+            "femaleVariant": "Fine with me."
+          },
+          {
+            "stringId": "1933016127373008900",
+            "femaleVariant": "Thanks for agreeing to meet."
+          },
+          {
+            "stringId": "1933028122226810916",
+            "femaleVariant": "Don't know what I intend just yet. For now, gonna see if I hear anything new about Rhyne's death."
+          },
+          {
+            "stringId": "1933028122226810928",
+            "femaleVariant": "You back on that? Boss already told you to drop it. Don't make him say it again. You know he hates to say things twice."
+          },
+          {
+            "stringId": "1933028122243588100",
+            "femaleVariant": "And if you couldn't give a rat's fat ass about any of that, heed my advice, as your friend's. Just let the case go."
+          },
+          {
+            "stringId": "1933028122243588112",
+            "femaleVariant": "See me doin' anything? Just sittin' here, sippin' coffee, listenin' to gossip."
+          },
+          {
+            "stringId": "1933028122243588124",
+            "femaleVariant": "Fine. Do what you want. I'm not about to be part of this. Gotta go get my little girl anyway."
+          },
+          {
+            "stringId": "1933028122243588136",
+            "femaleVariant": "And you two at least find a quieter corner. Wouldn't wanna be overheard."
+          },
+          {
+            "stringId": "1933028122260365312",
+            "femaleVariant": "OK, talk."
+          },
+          {
+            "stringId": "1933030116433813504",
+            "femaleVariant": "OK. Thanks for agreeing to meet."
+          },
+          {
+            "stringId": "1933040774646816768",
+            "femaleVariant": "You really intend to work with a merc?"
+          },
+          {
+            "stringId": "1933076392877711360",
+            "femaleVariant": "Before the attack, you wanted to talk to Rhyne's huscle, get some info to 'em.",
+            "maleVariant": "Before the attack, you wanted to talk to Rhyne's huscle, get some info to them."
+          },
+          {
+            "stringId": "1933076428931948544",
+            "femaleVariant": "Liz Peralez hired me. And her husband, Jefferson."
+          },
+          {
+            "stringId": "1933081205556338688",
+            "femaleVariant": "[Sit] Partner's not a fan of edgerunners."
+          },
+          {
+            "stringId": "1933081855757344768",
+            "femaleVariant": "See Detective Han's not a fan of edgerunners.",
+            "maleVariant": "I see Detective Han's not a fan of edgerunners."
+          },
+          {
+            "stringId": "1933105064720424960",
+            "femaleVariant": "Don't take it personally. Detective Han's not a fan of anybody. 'Cept his daughter."
+          },
+          {
+            "stringId": "1933112870672490496",
+            "femaleVariant": "What was it?"
+          },
+          {
+            "stringId": "1933130031331762176",
+            "femaleVariant": "Some of the boys from the precinct saw Horváth around Arroyo, shooting up dumpsters, hollering how he's got a meet with the mayor. Brought 'im in."
+          },
+          {
+            "stringId": "1933130075220959232",
+            "femaleVariant": "Let me ask you a question first. Why do you got your nose in this? Who hired you?"
+          },
+          {
+            "stringId": "1933175609424044032",
+            "femaleVariant": "Péter Horváth. Cyberpsycho who attacked the mayor later. They took him downtown, but then he got \"lost\" before they could get his statement."
+          },
+          {
+            "stringId": "1933181626421567488",
+            "femaleVariant": "So you decided to warn the mayor?"
+          },
+          {
+            "stringId": "1933182033587822592",
+            "femaleVariant": "He got lost – what do you mean?"
+          },
+          {
+            "stringId": "1933187025396785152",
+            "femaleVariant": "Sorry, never give up the names of my clients."
+          },
+          {
+            "stringId": "1933187066484187136",
+            "femaleVariant": "Said he \"got lost.\" How's that happen, what's it mean?",
+            "maleVariant": "Said he \"got lost.\" How's that happen? What's it mean?"
+          },
+          {
+            "stringId": "1933187169647288320",
+            "femaleVariant": "So you saw him as a potential threat, decided to warn the mayor?"
+          },
+          {
+            "stringId": "1934314850573049856",
+            "femaleVariant": "Just like that, 'cause… ya got a good heart?"
+          },
+          {
+            "stringId": "1934315107281231872",
+            "femaleVariant": "Make it sound like that's somethin' to be ashamed of."
+          },
+          {
+            "stringId": "1934316634897080320",
+            "femaleVariant": "Ashamed – no. Just not somethin' you see every day.",
+            "maleVariant": "Ashamed – nah. Just not somethin' you see every day."
+          },
+          {
+            "stringId": "1934317625608462336",
+            "femaleVariant": "It means someone didn't want him counting roaches in a cell that day."
+          },
+          {
+            "stringId": "1934325079020888064",
+            "femaleVariant": "And before you ask me, no... I got no idea who."
+          },
+          {
+            "stringId": "1934388765618036736",
+            "femaleVariant": "Brought who in?"
+          },
+          {
+            "stringId": "1934441210188619776",
+            "femaleVariant": "My turn. Why's Peralez looking at this now? Why's he want it done unofficial, on the hush-hush?"
+          },
+          {
+            "stringId": "1934460958263697408",
+            "femaleVariant": "Well then, I'm sure you've got plenty of other leads besides me. I mean, I sure hope so, 'cause I'm not telling you a thing."
+          },
+          {
+            "stringId": "1934469901190914048",
+            "femaleVariant": "And I'm not bein' mean, or nosy, nor is it personal. Just coverin' my own ass, my own safety's at stake too."
+          },
+          {
+            "stringId": "1934480952829632516",
+            "femaleVariant": "Workin' for the Peralezes."
+          },
+          {
+            "stringId": "1934482865432256512",
+            "femaleVariant": "Won't give you my client's name."
+          },
+          {
+            "stringId": "1934493319701422080",
+            "femaleVariant": "So... before I open my mouth, I need to know whose ears are listenin'."
+          },
+          {
+            "stringId": "1934494484358979584",
+            "femaleVariant": "The presumed future mayor? Haha... Guess I could've seen that comin'…"
+          },
+          {
+            "stringId": "1934502426844028928",
+            "femaleVariant": "Know what... Han was right. Acoustics are a little too good in here."
+          },
+          {
+            "stringId": "1934503676427853824",
+            "femaleVariant": "Got my car outside."
+          },
+          {
+            "stringId": "1934504246668648448",
+            "femaleVariant": "[Stand] OK."
+          },
+          {
+            "stringId": "1934505629161578496",
+            "femaleVariant": "OK, sure."
+          },
+          {
+            "stringId": "1934615348849106944",
+            "femaleVariant": "Red Queen's Race – know what it is?"
+          },
+          {
+            "stringId": "1934617133357686784",
+            "femaleVariant": "Think Peralez is gonna try to smear Holt."
+          },
+          {
+            "stringId": "1934667874822742016",
+            "femaleVariant": "As I see it, Peralez is out to smear Holt."
+          },
+          {
+            "stringId": "1934669997157343232",
+            "femaleVariant": "Peralez might be scared."
+          },
+          {
+            "stringId": "1934670431485911040",
+            "femaleVariant": "Peralez could just be scared."
+          },
+          {
+            "stringId": "1934673191354720256",
+            "femaleVariant": "So he thinks Holt's involved?"
+          },
+          {
+            "stringId": "1934673357449158656",
+            "femaleVariant": "Dunno. But even if he's not, a murdered mayor isn't great optics for his deputy."
+          },
+          {
+            "stringId": "1934675882218840064",
+            "femaleVariant": "Doesn't want the job of a guy who just got carried out feet first?"
+          },
+          {
+            "stringId": "1934676423586045952",
+            "femaleVariant": "Heh, who would?"
+          },
+          {
+            "stringId": "1934694753197842432",
+            "femaleVariant": "Then we'll go talk to the woman Horváth worked for."
+          },
+          {
+            "stringId": "1934696305140654080",
+            "femaleVariant": "Or actually... we could see her first. Up to you."
+          },
+          {
+            "stringId": "1934699234828443648",
+            "femaleVariant": "\"We\"?"
+          },
+          {
+            "stringId": "1934699516199133184",
+            "femaleVariant": "Sorry – \"we\"?"
+          },
+          {
+            "stringId": "1934703094309543936",
+            "femaleVariant": "Can't shake this case. Something's up. Just look at how quickly it was closed."
+          },
+          {
+            "stringId": "1934708604987465728",
+            "femaleVariant": "This way, you can get your job done while I find evidence that gets my chief to re-open the case."
+          },
+          {
+            "stringId": "1934711079727489024",
+            "femaleVariant": "Win-win. So, where to first?"
+          },
+          {
+            "stringId": "1944734753104814080",
+            "femaleVariant": "We'd better check it out."
+          },
+          {
+            "stringId": "1948748049721679876",
+            "femaleVariant": "You wanted to talk?"
+          },
+          {
+            "stringId": "1948748050006892548",
+            "femaleVariant": "Got a quiet one here."
+          },
+          {
+            "stringId": "1948748050040446980",
+            "femaleVariant": "Well? Come on."
+          },
+          {
+            "stringId": "1948873165340237824",
+            "femaleVariant": "[Sit] What'd you wanna tell the mayor?"
+          },
+          {
+            "stringId": "1957872228313358336",
+            "femaleVariant": "Hm. Wonder what about…"
+          },
+          {
+            "stringId": "1957873563561648128",
+            "femaleVariant": "Like to talk to you."
+          },
+          {
+            "stringId": "1957874101640519680",
+            "femaleVariant": "Wanted to talk. You got a minute?"
+          },
+          {
+            "stringId": "1957875741361725440",
+            "femaleVariant": "You must be V."
+          },
+          {
+            "stringId": "1957876038519775232",
+            "femaleVariant": "My partner, Detective Han."
+          },
+          {
+            "stringId": "1957878086950739968",
+            "femaleVariant": "Step off to the side, talk alone – can we?"
+          },
+          {
+            "stringId": "1957878347165360128",
+            "femaleVariant": "Mind if we step off to the side?",
+            "maleVariant": "Y'mind if we step off to the side?"
+          },
+          {
+            "stringId": "1957878865698775040",
+            "femaleVariant": "Han and me, we're like one mind. Got no secrets."
+          },
+          {
+            "stringId": "2104079250819997700",
+            "femaleVariant": "[Sit and wait]"
+          },
+          {
+            "stringId": "2341373769146523652",
+            "femaleVariant": "[Get in]"
+          }
+        ]
+      }
+
+
+

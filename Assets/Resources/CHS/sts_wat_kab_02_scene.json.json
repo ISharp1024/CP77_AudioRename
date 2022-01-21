@@ -1,0 +1,534 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1650575251846041600",
+            "femaleVariant": "你的兄弟情况很危急。快进来——我需要你帮忙！"
+          },
+          {
+            "stringId": "1651697741867618308",
+            "femaleVariant": "他可不是我朋友。"
+          },
+          {
+            "stringId": "1651698850757709824",
+            "femaleVariant": "我是来救你出去的。"
+          },
+          {
+            "stringId": "1651700706435239936",
+            "femaleVariant": "你是露西？露西·查克瑞？"
+          },
+          {
+            "stringId": "1651701008207024128",
+            "femaleVariant": "你弟弟让我来的。救你出去。"
+          },
+          {
+            "stringId": "1651701675101360128",
+            "femaleVariant": "他不是我兄弟。我是 V。"
+          },
+          {
+            "stringId": "1651702587245039616",
+            "femaleVariant": "我不是漩涡帮的，露西。"
+          },
+          {
+            "stringId": "1656581285777608704",
+            "femaleVariant": "你开玩笑吧？"
+          },
+          {
+            "stringId": "1659145328153432064",
+            "femaleVariant": "博迪…？OK…OK，你等我忙完。"
+          },
+          {
+            "stringId": "1659149889240928256",
+            "femaleVariant": "他…怎么了？"
+          },
+          {
+            "stringId": "1659149889257705476",
+            "femaleVariant": "他被击中了，本来手术都要结束了，结果他又开始流血…"
+          },
+          {
+            "stringId": "1659149889291259904",
+            "femaleVariant": "快走，今天不是冒险的时候。"
+          },
+          {
+            "stringId": "1659149889291259916",
+            "femaleVariant": "你干什么？！"
+          },
+          {
+            "stringId": "1659149889291259932",
+            "femaleVariant": "这是我的诊所！那是我的病人！"
+          },
+          {
+            "stringId": "1659149889291259956",
+            "femaleVariant": "这也是我的活儿，把你从这里救出去。"
+          },
+          {
+            "stringId": "1659149889291259968",
+            "femaleVariant": "好吧。走吧。"
+          },
+          {
+            "stringId": "1659149889324814336",
+            "femaleVariant": "快点弄完吧。"
+          },
+          {
+            "stringId": "1659149889375145984",
+            "femaleVariant": "喂，我们没时间干这个了。"
+          },
+          {
+            "stringId": "1659149889375146020",
+            "femaleVariant": "他们这儿的设备早该进垃圾场了！"
+          },
+          {
+            "stringId": "1659149893452009472",
+            "femaleVariant": "你干嘛救他？"
+          },
+          {
+            "stringId": "1659149893468786696",
+            "femaleVariant": "我是医生。"
+          },
+          {
+            "stringId": "1659149893468786708",
+            "femaleVariant": "他杀的人，你估计一辈子也救不过来。"
+          },
+          {
+            "stringId": "1659149893468786720",
+            "femaleVariant": "这是手术室，不是法庭。"
+          },
+          {
+            "stringId": "1659149897897971712",
+            "femaleVariant": "不。"
+          },
+          {
+            "stringId": "1659149897897971724",
+            "femaleVariant": "你说什么？"
+          },
+          {
+            "stringId": "1659149897897971736",
+            "femaleVariant": "我说够了。我们没时间了。"
+          },
+          {
+            "stringId": "1659149897897971748",
+            "femaleVariant": "他死了…"
+          },
+          {
+            "stringId": "1659170953304051712",
+            "femaleVariant": "我们得走了。马上。"
+          },
+          {
+            "stringId": "1659172665133731840",
+            "femaleVariant": "血压在下降，体温也在下降。"
+          },
+          {
+            "stringId": "1659176610665172992",
+            "femaleVariant": "他要休克了！"
+          },
+          {
+            "stringId": "1679442817410502656",
+            "femaleVariant": "你弟弟让我来的。"
+          },
+          {
+            "stringId": "1679605973487292416",
+            "femaleVariant": "他死了。"
+          },
+          {
+            "stringId": "1679615632801632256",
+            "femaleVariant": "告我问你—你杀人的时候，心里就一点感觉都没有吗？"
+          },
+          {
+            "stringId": "1680631591544918020",
+            "femaleVariant": "很抱歉。"
+          },
+          {
+            "stringId": "1680631711938220032",
+            "femaleVariant": "不。根本没有。"
+          },
+          {
+            "stringId": "1680631748596436992",
+            "femaleVariant": "不是我杀的。"
+          },
+          {
+            "stringId": "1680632211530158080",
+            "femaleVariant": "抱歉。请你理解，我是来保护你的。"
+          },
+          {
+            "stringId": "1680632309458767872",
+            "femaleVariant": "不是我杀的。"
+          },
+          {
+            "stringId": "1680632363212967936",
+            "femaleVariant": "什么都没有。"
+          },
+          {
+            "stringId": "1680633193584496640",
+            "femaleVariant": "不是你？你求你帮忙你无动于衷。这就是见死不救。"
+          },
+          {
+            "stringId": "1680635148851580928",
+            "femaleVariant": "这就是谋杀。"
+          },
+          {
+            "stringId": "1680635605225410560",
+            "femaleVariant": "我们走吧。"
+          },
+          {
+            "stringId": "1680637039694155776",
+            "femaleVariant": "没话说了吧，转移话题。"
+          },
+          {
+            "stringId": "1680645814782103552",
+            "femaleVariant": "哦，那你是铁石心肠了？"
+          },
+          {
+            "stringId": "1680655205962977280",
+            "femaleVariant": "我们没时间聊这个。"
+          },
+          {
+            "stringId": "1680657181765373952",
+            "femaleVariant": "迟早有一天你会招报应的。走着瞧。"
+          },
+          {
+            "stringId": "1680658293289488384",
+            "femaleVariant": "哼…保护我？但没人雇你要他的命啊。"
+          },
+          {
+            "stringId": "1680658360113139712",
+            "femaleVariant": "你爱怎么想就怎么想。赶紧走吧。"
+          },
+          {
+            "stringId": "1680845654409891840",
+            "femaleVariant": "露西安全了。你可以过来接她了。"
+          },
+          {
+            "stringId": "1680848107138207744",
+            "femaleVariant": "车马上就到。"
+          },
+          {
+            "stringId": "1680936314777391108",
+            "femaleVariant": "我也没办法。"
+          },
+          {
+            "stringId": "1683812967706808320",
+            "femaleVariant": "你的车。进去。"
+          },
+          {
+            "stringId": "1683815158895104000",
+            "femaleVariant": "不客气。"
+          },
+          {
+            "stringId": "1683816573650620416",
+            "femaleVariant": "我也没办法。太冒险了。"
+          },
+          {
+            "stringId": "1683828692773261312",
+            "femaleVariant": "我救了你，不客气。"
+          },
+          {
+            "stringId": "1683828843214557184",
+            "femaleVariant": "你弟弟害你被关了这么久。"
+          },
+          {
+            "stringId": "1683828843264888832",
+            "femaleVariant": "你弟弟为什么要离开漩涡帮？"
+          },
+          {
+            "stringId": "1683832882564190208",
+            "femaleVariant": "别跟我说话。"
+          },
+          {
+            "stringId": "1683834018163609600",
+            "femaleVariant": "别跟我说话。"
+          },
+          {
+            "stringId": "1683835800004612096",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1683836920957521920",
+            "femaleVariant": "他…他想干点别的事。"
+          },
+          {
+            "stringId": "1684161846725414912",
+            "femaleVariant": "好吧。你先。"
+          },
+          {
+            "stringId": "1684182121537966080",
+            "femaleVariant": "好…看起来是摆脱危险了。剩下的就是让他好好休息…"
+          },
+          {
+            "stringId": "1684182672803729408",
+            "femaleVariant": "谢谢你。我们走吧。"
+          },
+          {
+            "stringId": "1684921075593744384",
+            "femaleVariant": "明白。我们等着。"
+          },
+          {
+            "stringId": "1685127166345105452",
+            "femaleVariant": "你弟弟为什么要离开漩涡帮？"
+          },
+          {
+            "stringId": "1689453709468471296",
+            "femaleVariant": "快点给他扫描！"
+          },
+          {
+            "stringId": "1689454518079950848",
+            "femaleVariant": "哼，希望你这趟别白干了。"
+          },
+          {
+            "stringId": "1689489375178887168",
+            "femaleVariant": "我来负责止血。你，给他输一单位合成血。"
+          },
+          {
+            "stringId": "1689567318399881216",
+            "femaleVariant": "漩涡帮对你怎么样啊？"
+          },
+          {
+            "stringId": "1689567788061265920",
+            "femaleVariant": "他们对你怎么样？"
+          },
+          {
+            "stringId": "1689569533411823616",
+            "femaleVariant": "你觉得呢？"
+          },
+          {
+            "stringId": "1689571989311033344",
+            "femaleVariant": "现在说这个还有什么用。"
+          },
+          {
+            "stringId": "1689581113566400512",
+            "femaleVariant": "他们一指头都没动过我。"
+          },
+          {
+            "stringId": "1689583747807416320",
+            "femaleVariant": "你都不生气吗？"
+          },
+          {
+            "stringId": "1689583877663068160",
+            "femaleVariant": "那是我弟弟。"
+          },
+          {
+            "stringId": "1691083380433981440",
+            "femaleVariant": "你被关了这么久，就不怪你弟弟吗？"
+          },
+          {
+            "stringId": "1692192165936779264",
+            "femaleVariant": "你的车来了。"
+          },
+          {
+            "stringId": "1692192284769800192",
+            "femaleVariant": "你的车来了。"
+          },
+          {
+            "stringId": "1692648167093669888",
+            "femaleVariant": "来吧，离这不远了。"
+          },
+          {
+            "stringId": "1692650420928090112",
+            "femaleVariant": "你跟紧我，把头低下。"
+          },
+          {
+            "stringId": "1692651502924304384",
+            "femaleVariant": "隐蔽！快！"
+          },
+          {
+            "stringId": "1692652207483490304",
+            "femaleVariant": "解决了！"
+          },
+          {
+            "stringId": "1692655610959859712",
+            "femaleVariant": "我们走吧。"
+          },
+          {
+            "stringId": "1699859144402898944",
+            "femaleVariant": "怎么？你以为我肯定被漩涡帮那帮大坏蛋虐待惨了？"
+          },
+          {
+            "stringId": "1704181634721746944",
+            "femaleVariant": "走吧。"
+          },
+          {
+            "stringId": "1704181788250050560",
+            "femaleVariant": "你带先。"
+          },
+          {
+            "stringId": "1753349015704276992",
+            "femaleVariant": "不要开枪。"
+          },
+          {
+            "stringId": "1753350242655637504",
+            "femaleVariant": "我是医生，不是这个帮派的ren。"
+          },
+          {
+            "stringId": "1753366682683150340",
+            "femaleVariant": "我知道。我是来救你的。"
+          },
+          {
+            "stringId": "1753368376007561216",
+            "femaleVariant": "别管他了。"
+          },
+          {
+            "stringId": "1753379467542499328",
+            "femaleVariant": "我知道。你是露西·塔克里。"
+          },
+          {
+            "stringId": "1753379777115688960",
+            "femaleVariant": "别管他了。我们赶紧走。"
+          },
+          {
+            "stringId": "1753381213379596288",
+            "femaleVariant": "这机器又黑屏了！什么破玩意儿…！"
+          },
+          {
+            "stringId": "1753381621116276736",
+            "femaleVariant": "V。你兄弟让我来救你出去。"
+          },
+          {
+            "stringId": "1753407398721458176",
+            "femaleVariant": "这机器又黑屏了！什么破玩意儿…！"
+          },
+          {
+            "stringId": "1753496689749364736",
+            "femaleVariant": "你兄弟雇了我，来救你出去。"
+          },
+          {
+            "stringId": "1754908853085245440",
+            "femaleVariant": "博迪…？OK…OK，你等我忙完。"
+          },
+          {
+            "stringId": "1754909442988937216",
+            "femaleVariant": "那些改造变态随时可能会冲进来。"
+          },
+          {
+            "stringId": "1754946628983558144",
+            "femaleVariant": "你的“病人”是个杀人犯。"
+          },
+          {
+            "stringId": "1754947485930196992",
+            "femaleVariant": "我赌他杀的人，你一辈子也救不过来。"
+          },
+          {
+            "stringId": "1754948038773018624",
+            "femaleVariant": "你赌？我还赌你压根儿不知道他叫什么呢。"
+          },
+          {
+            "stringId": "1754950853620764672",
+            "femaleVariant": "他是漩涡帮的，这就够了。"
+          },
+          {
+            "stringId": "1754950915847458816",
+            "femaleVariant": "你也不是什么好货。"
+          },
+          {
+            "stringId": "1754951498654388224",
+            "femaleVariant": "我怎么了？"
+          },
+          {
+            "stringId": "1754954358817394688",
+            "femaleVariant": "你手上的人命啊。杀了多少？救了多少？"
+          },
+          {
+            "stringId": "1754968332476715008",
+            "femaleVariant": "你数得过来吗？"
+          },
+          {
+            "stringId": "1756055898038833152",
+            "femaleVariant": "还活着…我以为你把他们都杀了。"
+          },
+          {
+            "stringId": "1906958453970407424",
+            "femaleVariant": "快点！就在桌子上。左边数第一个。"
+          },
+          {
+            "stringId": "1907003417546821632",
+            "femaleVariant": "破玩意儿到底怎么回事？什么都看不见了！"
+          },
+          {
+            "stringId": "1907033929262927872",
+            "femaleVariant": "快点啊，他的血要流干了！"
+          },
+          {
+            "stringId": "1907034359397191684",
+            "femaleVariant": "他就快要撑不住了…"
+          },
+          {
+            "stringId": "1907036042370060288",
+            "femaleVariant": "别弄到我手上！"
+          },
+          {
+            "stringId": "1907038222065963008",
+            "femaleVariant": "呼。OK。再等一会，等它闭合了再说。"
+          },
+          {
+            "stringId": "1907040074992029696",
+            "femaleVariant": "你们谁是谁，我怎么可能记得住…"
+          },
+          {
+            "stringId": "1907048743225888768",
+            "femaleVariant": "扫描，我看到你的植入体了。扫描他！"
+          },
+          {
+            "stringId": "1907051590755651584",
+            "femaleVariant": "那走吧。祝你好人有好报，哼。"
+          },
+          {
+            "stringId": "1908545640696483840",
+            "femaleVariant": "你是…？"
+          },
+          {
+            "stringId": "1908559765233307648",
+            "femaleVariant": "反正你还没走，给他做个扫描吧…"
+          },
+          {
+            "stringId": "1908591145086455808",
+            "femaleVariant": "不。我受够了。"
+          },
+          {
+            "stringId": "1909979240096698368",
+            "femaleVariant": "你说“我们走”是什么意思？"
+          },
+          {
+            "stringId": "1932838626460536832",
+            "femaleVariant": "也是，对你这种人，我本来就不该抱什么指望。"
+          },
+          {
+            "stringId": "1934590641465298944",
+            "femaleVariant": "[使用合成血 ]"
+          },
+          {
+            "stringId": "2289490574713094148",
+            "femaleVariant": "他怎么回事？"
+          },
+          {
+            "stringId": "2289503457836597248",
+            "femaleVariant": "没时间来这一套了。"
+          },
+          {
+            "stringId": "2289506937783517188",
+            "femaleVariant": "你逗我的吧？"
+          },
+          {
+            "stringId": "2289592020129349636",
+            "femaleVariant": "你为什么要帮他？"
+          },
+          {
+            "stringId": "2289593056994852864",
+            "femaleVariant": "快点吧。"
+          }
+        ]
+      }
+
+
+

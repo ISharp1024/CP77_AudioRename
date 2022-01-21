@@ -1,0 +1,65 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1651833571497889792",
+            "femaleVariant": "Now proceed to connect."
+          },
+          {
+            "stringId": "1651835426001014784",
+            "femaleVariant": "The personal link is damaged."
+          },
+          {
+            "stringId": "1651835543290531840",
+            "femaleVariant": "Please proceed to insert the jack below the ear, though not too deep."
+          },
+          {
+            "stringId": "1651976446402940928",
+            "femaleVariant": "If I hit a vein by mistake, she will die.",
+            "maleVariant": "If I hit a vein by mistake, he will die."
+          },
+          {
+            "stringId": "1651977667314503680",
+            "femaleVariant": "Indeed. As she will if you do nothing.",
+            "maleVariant": "Indeed. As he will if you do nothing."
+          },
+          {
+            "stringId": "1651994664748240896",
+            "femaleVariant": "I think I have the sockets."
+          },
+          {
+            "stringId": "1651996370387128320",
+            "femaleVariant": "There is a cable above you – connect it."
+          },
+          {
+            "stringId": "1652000628125782016",
+            "femaleVariant": "And then?"
+          },
+          {
+            "stringId": "1652001223616286720",
+            "femaleVariant": "I will take over the procedure."
+          },
+          {
+            "stringId": "1764721937822015488",
+            "femaleVariant": "There should be auxiliary neurosockets between her lymph nodes, beneath the SCM muscle.",
+            "maleVariant": "There should be auxiliary neurosockets between his lymph nodes, beneath the SCM muscle."
+          }
+        ]
+      }
+
+
+

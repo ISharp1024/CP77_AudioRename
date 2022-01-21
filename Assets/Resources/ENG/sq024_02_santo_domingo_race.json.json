@@ -1,0 +1,300 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1395314777929031680",
+            "femaleVariant": "Start your stallions!"
+          },
+          {
+            "stringId": "1396727471657242624",
+            "femaleVariant": "Oh yeah, I like that!"
+          },
+          {
+            "stringId": "1396727555526545408",
+            "femaleVariant": "Let's count it down!"
+          },
+          {
+            "stringId": "1396727765778616320",
+            "femaleVariant": "Three!"
+          },
+          {
+            "stringId": "1396727869260484608",
+            "femaleVariant": "Two!"
+          },
+          {
+            "stringId": "1396727960947970048",
+            "femaleVariant": "One!"
+          },
+          {
+            "stringId": "1396728146621419520",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1396729154026131456",
+            "femaleVariant": "C'mon! I wanna smell that CHOOH-two burn!"
+          },
+          {
+            "stringId": "1396743396691333120",
+            "femaleVariant": "What the hell was that?! Maelstrom?!"
+          },
+          {
+            "stringId": "1396751018211463168",
+            "femaleVariant": "Gotta crash 'em out before they target us."
+          },
+          {
+            "stringId": "1396751571272388608",
+            "femaleVariant": "I'll take that."
+          },
+          {
+            "stringId": "1405164822234451968",
+            "femaleVariant": "Let 'em roar, make my ears bleed!"
+          },
+          {
+            "stringId": "1753232244267294720",
+            "femaleVariant": "Hey, V. Gonna take a look under the hood before we start. See if all's OK."
+          },
+          {
+            "stringId": "1770605228988571648",
+            "femaleVariant": "Claire."
+          },
+          {
+            "stringId": "1783637609634865156",
+            "femaleVariant": "Big turn comin'! Cut it sharp!"
+          },
+          {
+            "stringId": "1783637609668419588",
+            "femaleVariant": "Watch our back. They're movin' to pass."
+          },
+          {
+            "stringId": "1783637609701974020",
+            "femaleVariant": "One up front – see 'im? Luigi. After him!"
+          },
+          {
+            "stringId": "1783637609735528452",
+            "femaleVariant": "Outta seeds in this spitter! Reloading!"
+          },
+          {
+            "stringId": "1783637609752305668",
+            "femaleVariant": "Another one gnawin' tarmac!"
+          },
+          {
+            "stringId": "1783637609769082884",
+            "femaleVariant": "We can win this, V!"
+          },
+          {
+            "stringId": "1832895045998485504",
+            "femaleVariant": "V! Ya ready for the next race?"
+          },
+          {
+            "stringId": "1832895208989138948",
+            "femaleVariant": "We'll use mine."
+          },
+          {
+            "stringId": "1832895308293480448",
+            "femaleVariant": "Let's take Beast."
+          },
+          {
+            "stringId": "1832896353430151168",
+            "femaleVariant": "We'll take my ride."
+          },
+          {
+            "stringId": "1832896361751650304",
+            "femaleVariant": "Beast – time to unleash her.",
+            "maleVariant": "Beast – 's time to unleash her."
+          },
+          {
+            "stringId": "1832897155045531648",
+            "femaleVariant": "Course, yours it is."
+          },
+          {
+            "stringId": "1832897382242590720",
+            "femaleVariant": "Well said."
+          },
+          {
+            "stringId": "1832897542733438976",
+            "femaleVariant": "Meet there, yeah? Rancho?",
+            "maleVariant": "Meet there, yeah, Rancho?"
+          },
+          {
+            "stringId": "1859061984764497920",
+            "femaleVariant": "Already here – ready and waiting."
+          },
+          {
+            "stringId": "1859063004148142080",
+            "femaleVariant": "Wanna use your own ride or am I bringin' Beast?"
+          },
+          {
+            "stringId": "1859066264699408384",
+            "femaleVariant": "Can't keep a spit-shined animal like that caged up in your garage."
+          },
+          {
+            "stringId": "1859068580525641728",
+            "femaleVariant": "Feels more natural to me, you get it."
+          },
+          {
+            "stringId": "1859069148384071680",
+            "femaleVariant": "Be right there. See you then."
+          },
+          {
+            "stringId": "1859071644296941568",
+            "femaleVariant": "But stay close, just in case."
+          },
+          {
+            "stringId": "1859073056250662912",
+            "femaleVariant": "How d'you see our chances?"
+          },
+          {
+            "stringId": "1859073056250662928",
+            "femaleVariant": "Got a bad feeling about this…"
+          },
+          {
+            "stringId": "1859073056250662944",
+            "femaleVariant": "Got no fear at all?"
+          },
+          {
+            "stringId": "1859073058482032644",
+            "femaleVariant": "Our chances – how do you see 'em?"
+          },
+          {
+            "stringId": "1859073060428189696",
+            "femaleVariant": "Well, s'gonna be tough to beat out Luigi. And he's got Margot ridin' gunner today…"
+          },
+          {
+            "stringId": "1859073062357569536",
+            "femaleVariant": "Right, so?"
+          },
+          {
+            "stringId": "1859073064437944320",
+            "femaleVariant": "Girl loves poppin' flats. But don't get hung up on it, let it mess with your head."
+          },
+          {
+            "stringId": "1859073066618982400",
+            "femaleVariant": "Just focus on the route, let me handle the entertainment."
+          },
+          {
+            "stringId": "1859073070377078788",
+            "femaleVariant": "This race's givin' me all the wrong vibes…"
+          },
+          {
+            "stringId": "1859073072407121920",
+            "femaleVariant": "Why's that?"
+          },
+          {
+            "stringId": "1859073074504273920",
+            "femaleVariant": "Got 6th Street, The Mox... gangs're well repped."
+          },
+          {
+            "stringId": "1859073076416876544",
+            "femaleVariant": "Just a matter of when a temper goes nuclear."
+          },
+          {
+            "stringId": "1859073080795729924",
+            "femaleVariant": "Not worried this'll get you killed?"
+          },
+          {
+            "stringId": "1859073082808995840",
+            "femaleVariant": "What, today, the race – why?"
+          },
+          {
+            "stringId": "1859073084906147840",
+            "femaleVariant": "Not askin' about just today. Could be, though, or the next one, one after that…"
+          },
+          {
+            "stringId": "1859073089083674628",
+            "femaleVariant": "Sorry, need a minute to kick the tires before we get movin'."
+          },
+          {
+            "stringId": "1859073091130494976",
+            "femaleVariant": "Sure."
+          },
+          {
+            "stringId": "1859090272761286656",
+            "femaleVariant": "It'll be fine, don't worry."
+          },
+          {
+            "stringId": "1859094553149181952",
+            "femaleVariant": "Choom of mine got shocked and killed by a faulty toaster in her own kitchen."
+          },
+          {
+            "stringId": "1859096353562562560",
+            "femaleVariant": "So, y'know... It is what it is – que sera, sera."
+          },
+          {
+            "stringId": "1859112141543575552",
+            "femaleVariant": "Dare 'em to try!"
+          },
+          {
+            "stringId": "1859117425007661056",
+            "femaleVariant": "Knew somethin' like this'd happen..."
+          },
+          {
+            "stringId": "2060652460511412224",
+            "femaleVariant": "[Sit and wait]"
+          },
+          {
+            "stringId": "2060668864115589124",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2237403110057316360",
+            "femaleVariant": "Dean Russell – knew 'im, didn't you? He owe Matt some scratch? That why they put that dog down?"
+          },
+          {
+            "stringId": "2237403110141202440",
+            "femaleVariant": "D'ya see the bird? The Russian…?"
+          },
+          {
+            "stringId": "2237403110241865736",
+            "femaleVariant": "Kick ass out there! Sixth Street trumps AAAALLLL!"
+          },
+          {
+            "stringId": "2237403110342529032",
+            "femaleVariant": "Let's go, guys, get going! How much longer?"
+          },
+          {
+            "stringId": "2237403110426415112",
+            "femaleVariant": "Carlos! My man! Fancy seein' you here! Oh! Just remembered I gotta take the trash out today! Thanks!"
+          },
+          {
+            "stringId": "2249110674235068416",
+            "femaleVariant": "Pff, Russell wa'n't put down. Russell put himself down – didn't let up, didn't know when to."
+          },
+          {
+            "stringId": "2249119550288302080",
+            "femaleVariant": "Sure, he owed Matt four thou but that had nothin' to do with it. I mean, think... dead man can't pay you back, can he?"
+          },
+          {
+            "stringId": "2249122311700615168",
+            "femaleVariant": "Aaand, Dean was lookin' for the prize money to settle his debt. You know... boom or bust? Heh, wound up bein' the latter."
+          },
+          {
+            "stringId": "2249240085861109760",
+            "femaleVariant": "Uh-huh... Reaper lady, yeah?"
+          },
+          {
+            "stringId": "2249240521783513088",
+            "femaleVariant": "Raggedy-ass bastards're lyin' in wait along our route. Hopin' for wrecks and loot…"
+          },
+          {
+            "stringId": "2249241933233917952",
+            "femaleVariant": "Bag the bodies, then straight to a chop shop. Motherfuckers fear nobody."
+          }
+        ]
+      }
+
+
+

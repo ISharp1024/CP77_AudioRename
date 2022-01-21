@@ -1,0 +1,303 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1863478079904145412",
+            "femaleVariant": "Don't wanna push paper, gotta crack skulls."
+          },
+          {
+            "stringId": "1863478079920922628",
+            "femaleVariant": "Got some lead with your name on it, punk."
+          },
+          {
+            "stringId": "1863478079971254276",
+            "femaleVariant": "Back it up."
+          },
+          {
+            "stringId": "1863478079988031492",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"ándale\" b=\"Well, \" a=\". Step back.\"/>"
+          },
+          {
+            "stringId": "1863478080038363140",
+            "femaleVariant": "Who you tryna impress, huh?"
+          },
+          {
+            "stringId": "1863478080055140356",
+            "femaleVariant": "You done messed up, huh?"
+          },
+          {
+            "stringId": "1863478080105472004",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"basura\" b=\"Beat it, \" a=\".\"/>"
+          },
+          {
+            "stringId": "1863478080122249220",
+            "femaleVariant": "About to get got, punk."
+          },
+          {
+            "stringId": "1863478080172580868",
+            "femaleVariant": "Get outta my way."
+          },
+          {
+            "stringId": "1863478080189358084",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"lárgate\" b=\"Yeah, that's right, now \" a=\".\"/>"
+          },
+          {
+            "stringId": "1863478080239689732",
+            "femaleVariant": "Huh?"
+          },
+          {
+            "stringId": "1863478080256466948",
+            "femaleVariant": "Heh?"
+          },
+          {
+            "stringId": "1863478080306798596",
+            "femaleVariant": "Everything seems OK."
+          },
+          {
+            "stringId": "1863478080323575812",
+            "femaleVariant": "Dunno what's goin' on."
+          },
+          {
+            "stringId": "1863478080373907460",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Sal!\" t=\"Come out!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1863478080390684676",
+            "femaleVariant": "I will find you!"
+          },
+          {
+            "stringId": "1863478080424239108",
+            "femaleVariant": "Extrajudicial killing here."
+          },
+          {
+            "stringId": "1863478080474570756",
+            "femaleVariant": "Copy that."
+          },
+          {
+            "stringId": "1863478080524902404",
+            "femaleVariant": "Exchanging fire!"
+          },
+          {
+            "stringId": "1863478080541679620",
+            "femaleVariant": "Criminal activity!"
+          },
+          {
+            "stringId": "1863478080575234052",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Catch, \" a=\"!\"/>"
+          },
+          {
+            "stringId": "1863478080608788484",
+            "femaleVariant": "NCPD!"
+          },
+          {
+            "stringId": "1863478080625565708",
+            "femaleVariant": "Get on her!"
+          },
+          {
+            "stringId": "1863478080675897348",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"hijos de puta\" b=\"Get to work, you lazy \" a=\"!\"/>"
+          },
+          {
+            "stringId": "1863478080692674564",
+            "femaleVariant": "This ain't naptime, damn it!"
+          },
+          {
+            "stringId": "1863478080743006212",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"pendeja\" b=\"Watch it, \" a=\".\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"pendejo\" b=\"Watch it, \" a=\".\"/>"
+          },
+          {
+            "stringId": "1863478080759783428",
+            "femaleVariant": "Watch where you're goin', punk!"
+          },
+          {
+            "stringId": "1863478080793337860",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¿Qué onda?\" t=\"What's up?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1863478080843669508",
+            "femaleVariant": "Know what? I can't talk right now..."
+          },
+          {
+            "stringId": "1863478080877223940",
+            "femaleVariant": "Yeah...? Where am I gonna find that...? Ah, ok, I know..."
+          },
+          {
+            "stringId": "1863478080927555588",
+            "femaleVariant": "From behind! Take her from behind!",
+            "maleVariant": "From behind! Take him from behind!"
+          },
+          {
+            "stringId": "1863478080977887232",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"hija de puta\" b=\"Let's go, \" a=\"!\"/>",
+            "maleVariant": "<mothertongue l=\"mex\" m=\"hijo de puta\" b=\"Let's go, \" a=\"!\"/>"
+          },
+          {
+            "stringId": "1863478081011441668",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Atención!\" t=\"Look out!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1863478081044996100",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Ahí luego\" b=\"\" a=\".\"/>"
+          },
+          {
+            "stringId": "1863478081061773316",
+            "femaleVariant": "Hmm..."
+          },
+          {
+            "stringId": "1863478081128882180",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Mierda\" b=\"You still packin' that old iron? \" a=\"...\"/>"
+          },
+          {
+            "stringId": "1863478081145659396",
+            "femaleVariant": "Get your gun ready!"
+          },
+          {
+            "stringId": "1863478081179213828",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Órale!\" t=\"Come on!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1863478081195991044",
+            "femaleVariant": "Cover me!"
+          },
+          {
+            "stringId": "1863478081229545476",
+            "femaleVariant": "Argh... ech... ech..."
+          },
+          {
+            "stringId": "1867737976258813952",
+            "femaleVariant": "I'm on duty... Mhm... dunno... I'll call you..."
+          },
+          {
+            "stringId": "1867738240600629248",
+            "femaleVariant": "Sure... No problem..."
+          },
+          {
+            "stringId": "1959035894022316036",
+            "femaleVariant": "'Ey, ey, ey, come on!"
+          },
+          {
+            "stringId": "1959035894089424896",
+            "femaleVariant": "We got biz to take care of."
+          },
+          {
+            "stringId": "1959035894106202116",
+            "femaleVariant": "Real go-getter, aren't ya?"
+          },
+          {
+            "stringId": "2235080910730043396",
+            "femaleVariant": "NCPD motherfuckers!"
+          },
+          {
+            "stringId": "2235080910830706692",
+            "femaleVariant": "Jesus Christ... keep your eyes peeled!"
+          },
+          {
+            "stringId": "2235080910864261124",
+            "femaleVariant": "C'mon, seriously...?"
+          },
+          {
+            "stringId": "2235080910981701636",
+            "femaleVariant": "Yeah? Something happen?"
+          },
+          {
+            "stringId": "2235080911350800388",
+            "femaleVariant": "Let's go! I'm right here!"
+          },
+          {
+            "stringId": "2235080911417909252",
+            "femaleVariant": "You piece of trash!"
+          },
+          {
+            "stringId": "2235080911585681412",
+            "femaleVariant": "Got a hit!"
+          },
+          {
+            "stringId": "2235080911652790276",
+            "femaleVariant": "You asked for it!"
+          },
+          {
+            "stringId": "2235080911870894084",
+            "femaleVariant": "She's almost down! C'mon, gotta boost our stats!",
+            "maleVariant": "He's almost down! C'mon, gotta boost our stats!"
+          },
+          {
+            "stringId": "2235080911938002948",
+            "femaleVariant": "Understood!"
+          },
+          {
+            "stringId": "2235080912021889028",
+            "femaleVariant": "Too late to hide! You fuckin' started it!"
+          },
+          {
+            "stringId": "2235080912072220676",
+            "femaleVariant": "Reloading!"
+          },
+          {
+            "stringId": "2235080912156106756",
+            "femaleVariant": "Fuck! The hell's happening?!"
+          },
+          {
+            "stringId": "2235080912273547268",
+            "femaleVariant": "Can't see nothin'! Shit!"
+          },
+          {
+            "stringId": "2235080912340656132",
+            "femaleVariant": "She's hackin' our chrome!",
+            "maleVariant": "He's hackin' our chrome!"
+          },
+          {
+            "stringId": "2235080912390987780",
+            "femaleVariant": "Ooh! I needed that!"
+          },
+          {
+            "stringId": "2235080912458096644",
+            "femaleVariant": "This is a fuckin' warzone! We need backup!"
+          },
+          {
+            "stringId": "2235080912508428292",
+            "femaleVariant": "You ain't goin' nowhere!"
+          },
+          {
+            "stringId": "2235080912575537152",
+            "femaleVariant": "'Bout to pump lead!"
+          },
+          {
+            "stringId": "2235080912625868804",
+            "femaleVariant": "Suppressive fire!"
+          },
+          {
+            "stringId": "2235080912676200452",
+            "femaleVariant": "Officer down! I repeat, officer down!"
+          },
+          {
+            "stringId": "2235080912860749828",
+            "femaleVariant": "Officer under attack!"
+          },
+          {
+            "stringId": "2235086001876901888",
+            "femaleVariant": "Fuck! Officers getting killed here!"
+          },
+          {
+            "stringId": "2235086003487514628",
+            "femaleVariant": "What now?"
+          }
+        ]
+      }
+
+
+

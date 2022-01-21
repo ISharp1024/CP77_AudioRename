@@ -1,0 +1,799 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1722898438891032576",
+            "femaleVariant": "Now, as that ol' Greek dawg says, life's a banquet – so don't go thirsty, but don't get drunk, either."
+          },
+          {
+            "stringId": "1722898438891032592",
+            "femaleVariant": "My cue to delta, too. Gotta prep to jack in, be there when you come on comms."
+          },
+          {
+            "stringId": "1722898438958141456",
+            "femaleVariant": "So, not to count chickens, but when'll we see our eddies?"
+          },
+          {
+            "stringId": "1722898438974918668",
+            "femaleVariant": "All depends how Ms. Parker avails herself of her role, but a week, two tops is my guess."
+          },
+          {
+            "stringId": "1722898438991695872",
+            "femaleVariant": "And whadda we do while waitin'? Sit around, suck air?"
+          },
+          {
+            "stringId": "1722898438991695888",
+            "femaleVariant": "You sit tight, heads down, 'cause ol' uncle Arasaka be watchin'."
+          },
+          {
+            "stringId": "1722898439545344008",
+            "femaleVariant": "DeShawn don't ever work with anyone but the best. I consider Delamain just that."
+          },
+          {
+            "stringId": "1722898439545344024",
+            "femaleVariant": "Yeah, who needs creepy, nosy cab drivers when you've got a clean AI to get you from point A to point B in style?"
+          },
+          {
+            "stringId": "1722898440702971904",
+            "femaleVariant": "Hello, Ramón Victorino."
+          },
+          {
+            "stringId": "1722898440702971920",
+            "femaleVariant": "And you're Hannah Conwell.",
+            "maleVariant": "And you're Harry Conwell."
+          },
+          {
+            "stringId": "1722898440719749132",
+            "femaleVariant": "Ramón – yeah, OK. What do we say we're there for?"
+          },
+          {
+            "stringId": "1724200577630261252",
+            "femaleVariant": "Got no questions, all clear."
+          },
+          {
+            "stringId": "1724204416878039040",
+            "femaleVariant": "Got no more questions."
+          },
+          {
+            "stringId": "1724204660047007744",
+            "femaleVariant": "Delamain's our ride there and back?"
+          },
+          {
+            "stringId": "1724204703013457920",
+            "femaleVariant": "What kind of cover you get us?"
+          },
+          {
+            "stringId": "1724204799868325888",
+            "femaleVariant": "All clear to me."
+          },
+          {
+            "stringId": "1724204845066145792",
+            "femaleVariant": "OK, feel brought up to speed."
+          },
+          {
+            "stringId": "1724207133193195520",
+            "femaleVariant": "Penthouse – how do we get in?"
+          },
+          {
+            "stringId": "1724207582738698240",
+            "femaleVariant": "Perfect."
+          },
+          {
+            "stringId": "1724208004719235072",
+            "femaleVariant": "It's fine, Jackie. Don't push it."
+          },
+          {
+            "stringId": "1724208004987670528",
+            "femaleVariant": "Hey, hold on, holmes – who got the Flathead? Who pulled the intel from the braindance?"
+          },
+          {
+            "stringId": "1724208005021224960",
+            "femaleVariant": "Jack, it's fine. Don't push it."
+          },
+          {
+            "stringId": "1724209704855195652",
+            "femaleVariant": "Eddies aren't ever most important."
+          },
+          {
+            "stringId": "1724209880026107904",
+            "femaleVariant": "Last thing, Konpeki's got a strict no-iron policy. Security gates, the works."
+          },
+          {
+            "stringId": "1724210353865019392",
+            "femaleVariant": "Fine. Made your point."
+          },
+          {
+            "stringId": "1724210473016807424",
+            "femaleVariant": "Eddies aren't ever most important, Jack."
+          },
+          {
+            "stringId": "1724210520731209728",
+            "femaleVariant": "Fine, Dex. Made your point."
+          },
+          {
+            "stringId": "1724254502169399296",
+            "femaleVariant": "Transport's a Delamain?"
+          },
+          {
+            "stringId": "1724272059744047104",
+            "femaleVariant": "These new identities – tell us more. What's our cover?"
+          },
+          {
+            "stringId": "1724272831680532480",
+            "femaleVariant": "Biz as usual. Corpo arms deal. Case anyone asks, you there for a bogus meetin' with Arasaka's defense rep – Hajime Taki."
+          },
+          {
+            "stringId": "1724285183855480832",
+            "femaleVariant": "If everythin' goes as planned, Delamain'll drop you back here."
+          },
+          {
+            "stringId": "1724285244790329344",
+            "femaleVariant": "Which is..."
+          },
+          {
+            "stringId": "1724285396154372096",
+            "femaleVariant": "The No-Tell Motel. Quiet, no questions asked. Make our next move from there. But I'm flat certain that won't be necessary."
+          },
+          {
+            "stringId": "1724301559693365248",
+            "femaleVariant": "How do we get in the penthouse?"
+          },
+          {
+            "stringId": "1724304051244158976",
+            "femaleVariant": "Me and Dex've already covered the fine detes. Ops wise, should be a stroll on the beach."
+          },
+          {
+            "stringId": "1724304566086586368",
+            "femaleVariant": "Elaborate, I wanna hear it."
+          },
+          {
+            "stringId": "1724304763101433856",
+            "femaleVariant": "A Delamain'll drop your asses at the front door of Konpeki Plaza. You'll stroll right in thanks to your false identities."
+          },
+          {
+            "stringId": "1724306932127027200",
+            "femaleVariant": "Anything else?"
+          },
+          {
+            "stringId": "1724309093082779648",
+            "femaleVariant": "Goes without sayin' we do this on the hush – ideally no bodies, not a one."
+          },
+          {
+            "stringId": "1724309884849934336",
+            "femaleVariant": "You'll have T-Bug on comms for the duration."
+          },
+          {
+            "stringId": "1724310178031783936",
+            "femaleVariant": "Time for your burnin' questions."
+          },
+          {
+            "stringId": "1724322454189166592",
+            "femaleVariant": "This is where the Flathead comes in."
+          },
+          {
+            "stringId": "1724322635399876608",
+            "femaleVariant": "You'll have to get him in the ventilation shafts, guide him to the dweller and force the dweller to... take a break."
+          },
+          {
+            "stringId": "1724324756157419520",
+            "femaleVariant": "I got a question. When do we get to the real reason we're all here?"
+          },
+          {
+            "stringId": "1724327409373466624",
+            "femaleVariant": "Jackie's right. We want more."
+          },
+          {
+            "stringId": "1724327655260344320",
+            "femaleVariant": "You for real?"
+          },
+          {
+            "stringId": "1724327721966555136",
+            "femaleVariant": "Drop it, I said. Cut's fair, trust me."
+          },
+          {
+            "stringId": "1724331941386047488",
+            "femaleVariant": "And we're goin' in a hotel full of 'Saka men to swipe some fuckin' toy from the boss' son. We ARE the job."
+          },
+          {
+            "stringId": "1724332125146894336",
+            "femaleVariant": "Hm, and who's providin' transport, a top-tier netrunner and a lead-proof plan and intel?"
+          },
+          {
+            "stringId": "1724332275302977536",
+            "femaleVariant": "Sure you wanna go down this road?"
+          },
+          {
+            "stringId": "1724333465512235008",
+            "femaleVariant": "Jack's right, Dex. We oughta get more than thirty, we deserve more."
+          },
+          {
+            "stringId": "1724333806710476800",
+            "femaleVariant": "The challenge."
+          },
+          {
+            "stringId": "1724333806710476816",
+            "femaleVariant": "Wanna be remembered for something."
+          },
+          {
+            "stringId": "1724333806710476832",
+            "femaleVariant": "Payback, maybe?"
+          },
+          {
+            "stringId": "1724334039410462720",
+            "femaleVariant": "It's about the challenge, always."
+          },
+          {
+            "stringId": "1724334039444017152",
+            "femaleVariant": "Want what everyone worth a damn wants – to be remembered."
+          },
+          {
+            "stringId": "1724334039477571584",
+            "femaleVariant": "Thinkin' Arasaka's due a little payback, overdue…"
+          },
+          {
+            "stringId": "1724334360459268096",
+            "femaleVariant": "Hm, respect. Cut you thirty-five for that alone."
+          },
+          {
+            "stringId": "1724344037993664512",
+            "femaleVariant": "Yeah, right. Are you outta your fuckin' mind, V?"
+          },
+          {
+            "stringId": "1724344348607041536",
+            "femaleVariant": "Interestin'. So what does qualify as most important?"
+          },
+          {
+            "stringId": "1724344890561449984",
+            "femaleVariant": "Wise choice."
+          },
+          {
+            "stringId": "1724345055548592128",
+            "femaleVariant": "Fine. Thirty-five and that's my final offer."
+          },
+          {
+            "stringId": "1724345551835418624",
+            "femaleVariant": "I can live with that… it's my final offer, too."
+          },
+          {
+            "stringId": "1724345729405472768",
+            "femaleVariant": "Hm, been a while since I got a run for my eddies. Actually kinda fun."
+          },
+          {
+            "stringId": "1724347721683095552",
+            "femaleVariant": "Look at you young 'uns makin' us ol' folk look bad."
+          },
+          {
+            "stringId": "1724347905292947456",
+            "femaleVariant": "You wanna build cred, your rep. With you a hundred on that."
+          },
+          {
+            "stringId": "1724348131080720384",
+            "femaleVariant": "Old wounds have yet to heal, huh...?"
+          },
+          {
+            "stringId": "1724376268401332224",
+            "femaleVariant": "So you dawgs'll leave your lead-spitters in the ride, take the Flathead inside in its case."
+          },
+          {
+            "stringId": "1724377841969975296",
+            "femaleVariant": "Got some deft suits, so you'll look the part, too."
+          },
+          {
+            "stringId": "1724387410603462656",
+            "femaleVariant": "Tha'ss right, \"Excelsior...\""
+          },
+          {
+            "stringId": "1724387410603462672",
+            "femaleVariant": "Cold, hard eddies as per usual. Gotta bounce."
+          },
+          {
+            "stringId": "1724387410653794304",
+            "femaleVariant": "Whole family in one place! Hah! Finally!"
+          },
+          {
+            "stringId": "1724387410754457600",
+            "femaleVariant": "Well, if it ain't Miss V.",
+            "maleVariant": "Well, if it ain't Mr. V."
+          },
+          {
+            "stringId": "1724404035398455296",
+            "femaleVariant": "[Sit]"
+          },
+          {
+            "stringId": "1724404035532673036",
+            "femaleVariant": "This."
+          },
+          {
+            "stringId": "1724404035599781888",
+            "femaleVariant": "[Take shard] Let's have a look."
+          },
+          {
+            "stringId": "1724409002511355904",
+            "femaleVariant": "Any thoughts on the plan?"
+          },
+          {
+            "stringId": "1724409002528133120",
+            "femaleVariant": "You and Dex – what's your story?"
+          },
+          {
+            "stringId": "1724409002612019200",
+            "femaleVariant": "Plan – what's your take?"
+          },
+          {
+            "stringId": "1724409002628796416",
+            "femaleVariant": "Enough, I hope, to put me in a luxury Cretan villa from which I'll never set foot in cyberspace again."
+          },
+          {
+            "stringId": "1724409002628796432",
+            "femaleVariant": "No offense, but I'm gonna burn any and all bridges – need a clean break."
+          },
+          {
+            "stringId": "1724409002712682496",
+            "femaleVariant": "You an' Dex known each other a while?"
+          },
+          {
+            "stringId": "1724409002729459724",
+            "femaleVariant": "Umm... why?"
+          },
+          {
+            "stringId": "1724409002729459740",
+            "femaleVariant": "Ah, y'know, peeps say all kinds of things…"
+          },
+          {
+            "stringId": "1724409002746236932",
+            "femaleVariant": "\"Everything we hear is an opinion not a fact\" – Marcus Aurelius, I think."
+          },
+          {
+            "stringId": "1724409003031449600",
+            "femaleVariant": "Let's get to work!"
+          },
+          {
+            "stringId": "1724421829095641088",
+            "femaleVariant": "Go on now, don't be shy!"
+          },
+          {
+            "stringId": "1724439376016756736",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡Chido!\" t=\"Sweet!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754990122054184960",
+            "femaleVariant": "C'mon, Dex, isn't that a little low?"
+          },
+          {
+            "stringId": "1756243230520504324",
+            "femaleVariant": "Isn't that a little low?"
+          },
+          {
+            "stringId": "1770783210117750784",
+            "femaleVariant": "Let's see this bad boy..."
+          },
+          {
+            "stringId": "1785209981909127168",
+            "femaleVariant": "Yorinobu's got barely any muscle. Hardest part'll be penthouse security."
+          },
+          {
+            "stringId": "1785212574727196672",
+            "femaleVariant": "Hold on, how you want us to get inside a room you can't get into?"
+          },
+          {
+            "stringId": "1786443766465032192",
+            "femaleVariant": "Any other issues, now's your chance."
+          },
+          {
+            "stringId": "1786444846548643840",
+            "femaleVariant": "No more questions. Clear on it all."
+          },
+          {
+            "stringId": "1786445722017329152",
+            "femaleVariant": "I'm good, no questions."
+          },
+          {
+            "stringId": "1790723717528866816",
+            "femaleVariant": "Thanks, T."
+          },
+          {
+            "stringId": "1790771748349464576",
+            "femaleVariant": "Welp, here goes nothin'."
+          },
+          {
+            "stringId": "1800975128058159104",
+            "femaleVariant": "Thanks for your help back at the scav haunt."
+          },
+          {
+            "stringId": "1800976505215934464",
+            "femaleVariant": "A few reapers less in the city – good thing."
+          },
+          {
+            "stringId": "1801145176869593088",
+            "femaleVariant": "Promise to send me a postcard?"
+          },
+          {
+            "stringId": "1852040796507467780",
+            "femaleVariant": "Thanks for your help with the scavs, Bug."
+          },
+          {
+            "stringId": "1866384261048578052",
+            "femaleVariant": "[Stand] Let's go."
+          },
+          {
+            "stringId": "1866385467464626176",
+            "femaleVariant": "So, you ready to get goin' or what?"
+          },
+          {
+            "stringId": "1866390322153402368",
+            "femaleVariant": "[Stand] Something I gotta take care of first."
+          },
+          {
+            "stringId": "1866391453860507648",
+            "femaleVariant": "Let's roll. No point in waitin'."
+          },
+          {
+            "stringId": "1866392246432968704",
+            "femaleVariant": "In gettin' rich, you mean!"
+          },
+          {
+            "stringId": "1866394191885381632",
+            "femaleVariant": "Somethin' I gotta take care of first."
+          },
+          {
+            "stringId": "1866394972076257280",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Sin problemas.\" b=\"\" a=\" Meet you by the Delamain.\"/>"
+          },
+          {
+            "stringId": "1894178268167008256",
+            "femaleVariant": "I'd rather not strain my neck when I talk."
+          },
+          {
+            "stringId": "1894332070996209664",
+            "femaleVariant": "Thanks for helping with the scavs, Bug."
+          },
+          {
+            "stringId": "1898125072844771328",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"Nada mal\" b=\"Preemest cab company in all Night City... \" a=\"…\"/>"
+          },
+          {
+            "stringId": "1898134698923446272",
+            "femaleVariant": "If things get sticky, he'll head for the safe house."
+          },
+          {
+            "stringId": "1898194527599775744",
+            "femaleVariant": "Huh, you and Dex – both philosophizin'… No wonder you get along."
+          },
+          {
+            "stringId": "1898199790011543552",
+            "femaleVariant": "A'ight, then…"
+          },
+          {
+            "stringId": "1902710645647618048",
+            "femaleVariant": "Just don't forget to suit up."
+          },
+          {
+            "stringId": "1927027160366522368",
+            "femaleVariant": "Another offer?"
+          },
+          {
+            "stringId": "1927027365568651264",
+            "femaleVariant": "Uh-huh. Kind where we ditch the middleman and split the pot an even fifty-fifty.",
+            "maleVariant": "Mhm. Kind where we ditch the middleman and split the pot an even fifty-fifty."
+          },
+          {
+            "stringId": "1927028281923411968",
+            "femaleVariant": "Well as I could've, I guess. Walked around Konpeki Plaza, inside, from that raw BD she scrolled."
+          },
+          {
+            "stringId": "1927030536076599296",
+            "femaleVariant": "Mhm, Bug already filled me in."
+          },
+          {
+            "stringId": "1927030741396168704",
+            "femaleVariant": "So, she just wanna see wha'ss good, or was there somethin' else?"
+          },
+          {
+            "stringId": "1927031733013520384",
+            "femaleVariant": "Ahem."
+          },
+          {
+            "stringId": "1927049764729069568",
+            "femaleVariant": "That's it. Let's go over the plan."
+          },
+          {
+            "stringId": "1927052855394246656",
+            "femaleVariant": "Yeah. Parker thinks we don't need you."
+          },
+          {
+            "stringId": "1927054158950375424",
+            "femaleVariant": "I do appreciate you sharin' this info, though, Miss V. You see, trust…",
+            "maleVariant": "I do appreciate you sharin' this info, though, Mr. V. You see, trust…"
+          },
+          {
+            "stringId": "1927055596271247360",
+            "femaleVariant": "…is essential in any partnership that's to be long-lasting and fruitful."
+          },
+          {
+            "stringId": "1927056812183199744",
+            "femaleVariant": "Ditch the middleman...?"
+          },
+          {
+            "stringId": "1927058431301984256",
+            "femaleVariant": "Think she just wanted to see what I was about."
+          },
+          {
+            "stringId": "1927059266807341056",
+            "femaleVariant": "Couldn't've gone better. In fact, she liked me so much, she made me another offer."
+          },
+          {
+            "stringId": "1927059809298620416",
+            "femaleVariant": "There was something else. Parker made me another offer."
+          },
+          {
+            "stringId": "1927115458233573376",
+            "femaleVariant": "Something's off about her."
+          },
+          {
+            "stringId": "1927115840183672832",
+            "femaleVariant": "Parker chick... I dunno – sent out mixed signals, so I got mixed feelings."
+          },
+          {
+            "stringId": "1927121786700111872",
+            "femaleVariant": "Hahaha, sheeit, now that's rich..."
+          },
+          {
+            "stringId": "1927123685394423808",
+            "femaleVariant": "Ahaha... AHAHAHAHA!"
+          },
+          {
+            "stringId": "1927125129979830272",
+            "femaleVariant": "Clients... never learn, do they?"
+          },
+          {
+            "stringId": "1927129305812115460",
+            "femaleVariant": "Let's go over the job."
+          },
+          {
+            "stringId": "1927131811069894656",
+            "femaleVariant": "Appreciation still falls short."
+          },
+          {
+            "stringId": "1927133979978047488",
+            "femaleVariant": "Thought you'd be pissed off."
+          },
+          {
+            "stringId": "1927135927242399744",
+            "femaleVariant": "Thought you'd be pissed, that you'd lose it."
+          },
+          {
+            "stringId": "1927151843686555648",
+            "femaleVariant": "Lived in NC too long to blow my top every time some amateur thinks they can take me for a ride."
+          },
+          {
+            "stringId": "1927156863597355008",
+            "femaleVariant": "Parker ain't the first and sure as hell won't be the last."
+          },
+          {
+            "stringId": "1927159531946450944",
+            "femaleVariant": "Appreciation don't convert to eddies, and Evelyn offered us a bunch."
+          },
+          {
+            "stringId": "1927160301081141248",
+            "femaleVariant": "Y'all need not worry, truly. We'll come to that."
+          },
+          {
+            "stringId": "1927185897391726592",
+            "femaleVariant": "One night – sippin' Champaradise with Yorinobu. Next night – chattin' it up with regulars at Lizzie's... Worlds don't match up."
+          },
+          {
+            "stringId": "1927186942410956800",
+            "femaleVariant": "You sayin' we puttin' two and two together and gettin' five? Some part of the equation's missin' then, clearly."
+          },
+          {
+            "stringId": "1927188300459483136",
+            "femaleVariant": "S'why y'all got a fixer. Anyone try to fuck you, they first gotta fuck their way through Dex DeShawn's three-hundred-pound ass."
+          },
+          {
+            "stringId": "1927192476006555648",
+            "femaleVariant": "Anythin' else?"
+          },
+          {
+            "stringId": "1927194654024736768",
+            "femaleVariant": "How 'bout we go over the plan? Whatcha got for us, Dex?"
+          },
+          {
+            "stringId": "1927215714161991680",
+            "femaleVariant": "So you know the target. Yorinobu Arasaka. The emperor's son and heir apparent."
+          },
+          {
+            "stringId": "1927216599931887616",
+            "femaleVariant": "Mhm. Man with the million-eddy name and no talent to back it up."
+          },
+          {
+            "stringId": "1927217683840704512",
+            "femaleVariant": "Evelyn Parker's \"special friend…\"?"
+          },
+          {
+            "stringId": "1927259174852173824",
+            "femaleVariant": "V's tellin' it like it is, Dex."
+          },
+          {
+            "stringId": "1927275889187168256",
+            "femaleVariant": "Wanted to see what you was about, huh…?"
+          },
+          {
+            "stringId": "1927289123524911104",
+            "femaleVariant": "Set your butts down comfy."
+          },
+          {
+            "stringId": "1927296417553784832",
+            "femaleVariant": "There's something... off about Evelyn."
+          },
+          {
+            "stringId": "1927301128914804736",
+            "femaleVariant": "Cut for fresh talent's always the same and non-negotiable – thirty percent."
+          },
+          {
+            "stringId": "1927303684084801536",
+            "femaleVariant": "Bro, thirty?!"
+          },
+          {
+            "stringId": "1927304003506216960",
+            "femaleVariant": "Every part in this drama carries its risks. That's the value of yours as determined by me."
+          },
+          {
+            "stringId": "1927309187363971072",
+            "femaleVariant": "Now's a good a time as any. Fresh talent gets thirty percent always, but I'm willin' to make an exception in your case."
+          },
+          {
+            "stringId": "1927325345081270272",
+            "femaleVariant": "I'ma cut you a nice, juicy forty as a bonus for your honesty, V."
+          },
+          {
+            "stringId": "1927330911140782084",
+            "femaleVariant": "Sounds about right."
+          },
+          {
+            "stringId": "1927331602898952192",
+            "femaleVariant": "Thanks, but the eddies aren't all-important."
+          },
+          {
+            "stringId": "1927332077727719424",
+            "femaleVariant": "That's more like it, Dex."
+          },
+          {
+            "stringId": "1927334456485289984",
+            "femaleVariant": "Appreciate it, Dex. Even though the eddies aren't most important to me."
+          },
+          {
+            "stringId": "1927336253241237504",
+            "femaleVariant": "Ka-ching, baby!"
+          },
+          {
+            "stringId": "1927482980564803584",
+            "femaleVariant": "Your chariot awaits outside."
+          },
+          {
+            "stringId": "1931350001111080960",
+            "femaleVariant": "What?!"
+          },
+          {
+            "stringId": "1931351249839267840",
+            "femaleVariant": "Struck me too…"
+          },
+          {
+            "stringId": "1931358590223589376",
+            "femaleVariant": "Struck me too…"
+          },
+          {
+            "stringId": "1965003135033090048",
+            "femaleVariant": "Siddown, le'ss be civilized here, eh?"
+          },
+          {
+            "stringId": "1965005342579171328",
+            "femaleVariant": "Sit yo ass down, V."
+          },
+          {
+            "stringId": "1984921049676718080",
+            "femaleVariant": "Evelyn Parker – how'd you fare?"
+          },
+          {
+            "stringId": "1984922770834530304",
+            "femaleVariant": "Pretty well. Saw Konpeki Plaza from the inside."
+          },
+          {
+            "stringId": "1984922770834530320",
+            "femaleVariant": "Not bad... But she wants to cut you loose."
+          },
+          {
+            "stringId": "1984924430755504128",
+            "femaleVariant": "First time in realspace."
+          },
+          {
+            "stringId": "1984986049527226368",
+            "femaleVariant": "And how he bags a permit to operate every year's still a mystery."
+          },
+          {
+            "stringId": "1985012506492215296",
+            "femaleVariant": "Trust me when I say whatever hitch you think up, T-Bug's solved it already."
+          },
+          {
+            "stringId": "1985019115440250880",
+            "femaleVariant": "Fine, whatever. Fuck it."
+          },
+          {
+            "stringId": "1986392731109105664",
+            "femaleVariant": "Then, with Bug's help, you'll breach the hotel's subnet…"
+          },
+          {
+            "stringId": "1986393973495504896",
+            "femaleVariant": "Mine and the Flathead's help."
+          },
+          {
+            "stringId": "1986395412544430080",
+            "femaleVariant": "Last but not least, you slip into Yorinobu's penthouse and klep the Relic."
+          },
+          {
+            "stringId": "1987896371896459264",
+            "femaleVariant": "Sweet booth. It soundproof?"
+          },
+          {
+            "stringId": "1987898808703197184",
+            "femaleVariant": "Jackie..."
+          },
+          {
+            "stringId": "1989660111004311552",
+            "femaleVariant": "Heh, City Hall should be fuckin' thankin' us!"
+          },
+          {
+            "stringId": "1989662341182857216",
+            "femaleVariant": "City Hall should be fuckin' thankin' us!"
+          },
+          {
+            "stringId": "1990997780732911616",
+            "femaleVariant": "Now, now, Mr. Welles is right. We gon' be goin' over some sensitive material."
+          },
+          {
+            "stringId": "1990999447163445248",
+            "femaleVariant": "But if it's all right with y'all, I'd like to start with a question for Ms. V…",
+            "maleVariant": "But if it's all right with y'all, I'd like to start with a question for Mr. V…"
+          },
+          {
+            "stringId": "1991015725106274304",
+            "femaleVariant": "If we wanna disable, we'll need to neutralize Konpeki's dweller – elite 'runner monitoring the hotel's subnet twenty-four seven."
+          },
+          {
+            "stringId": "1991020021633851392",
+            "femaleVariant": "Only catch is there's no way to get in the dweller's den from the outside."
+          },
+          {
+            "stringId": "1993748619994144768",
+            "femaleVariant": "Flathead'll stay there, jacked into the dweller, but thanks to that I'll be able to roll out your red carpet into the penthouse."
+          },
+          {
+            "stringId": "2001098384826245120",
+            "femaleVariant": "People, after hours, place like this, fifty years on, talking about what I pulled off."
+          },
+          {
+            "stringId": "2120155548725174276",
+            "femaleVariant": "[Put Flathead down]"
+          },
+          {
+            "stringId": "2433129598436679680",
+            "femaleVariant": "And the Flathead?"
+          }
+        ]
+      }
+
+
+

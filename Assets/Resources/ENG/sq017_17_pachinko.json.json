@@ -1,0 +1,47 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1339984088743809024",
+            "femaleVariant": "This elevator is out of order. Sorry."
+          },
+          {
+            "stringId": "1339986038541520916",
+            "femaleVariant": "Got a meet with Kerry."
+          },
+          {
+            "stringId": "1339994563900608512",
+            "femaleVariant": "Out of order for Kerry Eurodyne's guests, too? He's expecting me."
+          },
+          {
+            "stringId": "1339995028210061312",
+            "femaleVariant": "In that case, enjoy your evening."
+          },
+          {
+            "stringId": "1818663045486567424",
+            "femaleVariant": "So why're you here?"
+          },
+          {
+            "stringId": "1818664320353656832",
+            "femaleVariant": "It's out of order, why're you here?",
+            "maleVariant": "If it's out of order, why're you here?"
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,421 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1360357881718788112",
+            "femaleVariant": "Return to camp. Now."
+          },
+          {
+            "stringId": "1402699551926325248",
+            "femaleVariant": "Is everything--?"
+          },
+          {
+            "stringId": "1804367676521074688",
+            "femaleVariant": "Thank you, thanks. I need to cool down, I think."
+          },
+          {
+            "stringId": "1804367999516037120",
+            "femaleVariant": "Will you come with me?"
+          },
+          {
+            "stringId": "1807122718222782464",
+            "femaleVariant": "Yes. You turned them to dust, congratulations."
+          },
+          {
+            "stringId": "1807123154111631360",
+            "femaleVariant": "It's time to talk."
+          },
+          {
+            "stringId": "1807172676812607488",
+            "femaleVariant": "All of us, each on his or her own, must think first and foremost of what's good for the family…"
+          },
+          {
+            "stringId": "1807174123713269760",
+            "femaleVariant": "Come on, Saul. If I have to leave the clan, please just say so."
+          },
+          {
+            "stringId": "1807179626874998784",
+            "femaleVariant": "Spare me another speech of yours, at the very least."
+          },
+          {
+            "stringId": "1807185207748792320",
+            "femaleVariant": "I'm afraid you'll have to sit through a few more."
+          },
+          {
+            "stringId": "1807198217741602816",
+            "femaleVariant": "Because from this day forward, you will lead this family. By my side."
+          },
+          {
+            "stringId": "1807198851249278976",
+            "femaleVariant": "I wished to do this properly, but fine, have it your way."
+          },
+          {
+            "stringId": "1807199135673421824",
+            "femaleVariant": "I was wrong. You were right. That's the truth."
+          },
+          {
+            "stringId": "1807199767671148544",
+            "femaleVariant": "May it never happen again."
+          },
+          {
+            "stringId": "1807202533596532740",
+            "femaleVariant": "Whose decision was this?"
+          },
+          {
+            "stringId": "1807202839143190528",
+            "femaleVariant": "I will what?"
+          },
+          {
+            "stringId": "1807203979188572160",
+            "femaleVariant": "Panam saved all your asses."
+          },
+          {
+            "stringId": "1807204383435591680",
+            "femaleVariant": "Whose decision was this – yours or the family's?"
+          },
+          {
+            "stringId": "1807205022597189632",
+            "femaleVariant": "Don't ruin this for her."
+          },
+          {
+            "stringId": "1807206329861083136",
+            "femaleVariant": "Let her believe that she has my full support, at least at this moment."
+          },
+          {
+            "stringId": "1807208056672817152",
+            "femaleVariant": "Panam saved your asses today. All of you."
+          },
+          {
+            "stringId": "1807208889510596608",
+            "femaleVariant": "Bravo for that. Now it's time she did some real work."
+          },
+          {
+            "stringId": "1807210412210720768",
+            "femaleVariant": "OK. OK. Well, I... Many things will have to change."
+          },
+          {
+            "stringId": "1807211344503836672",
+            "femaleVariant": "Yes. And to start with, we need to leave this place. Quickly."
+          },
+          {
+            "stringId": "1807211950496878592",
+            "femaleVariant": "Of course. I will prepare our route."
+          },
+          {
+            "stringId": "1807216006556618752",
+            "femaleVariant": "We can't wait for Militech to find us."
+          },
+          {
+            "stringId": "1807228176447115264",
+            "femaleVariant": "[Drink] Think I'm gonna miss our escapades."
+          },
+          {
+            "stringId": "1807228630707015680",
+            "femaleVariant": "[Drink] Listen, what happened in the Basilisk..."
+          },
+          {
+            "stringId": "1807228963684421632",
+            "femaleVariant": "[Drink] Know where you're going now?"
+          },
+          {
+            "stringId": "1886628842700558336",
+            "femaleVariant": "Terrible choice. I voted nay."
+          },
+          {
+            "stringId": "1886629659952304128",
+            "femaleVariant": "Congratulations."
+          },
+          {
+            "stringId": "1894187775896080384",
+            "femaleVariant": "An... interesting day."
+          },
+          {
+            "stringId": "1894189366007058432",
+            "femaleVariant": "I feel as if I barely evaded a rapidly approaching train."
+          },
+          {
+            "stringId": "1894197344059805696",
+            "femaleVariant": "Back there, in the... Basilisk – hope you don't regret what happened.",
+            "maleVariant": "Back there, in the Basilisk, I... I hope you don't regret what happened."
+          },
+          {
+            "stringId": "1894199170259767296",
+            "femaleVariant": "What now, boss?"
+          },
+          {
+            "stringId": "1894199721978515456",
+            "femaleVariant": "I have no idea, I'm serious, not the faintest."
+          },
+          {
+            "stringId": "1894200965774200832",
+            "femaleVariant": "Turns out Saul's all right. So it's all wrong?"
+          },
+          {
+            "stringId": "1895053099902193664",
+            "femaleVariant": "I regret one thing only – that we had so little time."
+          },
+          {
+            "stringId": "1895093596544847872",
+            "femaleVariant": "I'll play it by ear."
+          },
+          {
+            "stringId": "1895100129039110144",
+            "femaleVariant": "No, I'm serious. We all owe you. So you can count on the Aldecaldos. Always."
+          },
+          {
+            "stringId": "1947299147600752640",
+            "femaleVariant": "Heh, good to know."
+          },
+          {
+            "stringId": "1947304251095642112",
+            "femaleVariant": "Nobody's behind the bar. That I like."
+          },
+          {
+            "stringId": "1947304713207279616",
+            "femaleVariant": "Beer? Lemonade?"
+          },
+          {
+            "stringId": "1947306557878956036",
+            "femaleVariant": "[Lean] Take a beer."
+          },
+          {
+            "stringId": "1947306644902375424",
+            "femaleVariant": "[Lean] Lemonade's fine."
+          },
+          {
+            "stringId": "1947308660215115776",
+            "femaleVariant": "Beer me."
+          },
+          {
+            "stringId": "1947308754788282368",
+            "femaleVariant": "All right with lemonade."
+          },
+          {
+            "stringId": "1947313141124296704",
+            "femaleVariant": "Suit yourself."
+          },
+          {
+            "stringId": "1947313530640920576",
+            "femaleVariant": "To happy endings."
+          },
+          {
+            "stringId": "1947315458057826304",
+            "femaleVariant": "Speaking of happy endings..."
+          },
+          {
+            "stringId": "1947317183779041280",
+            "femaleVariant": "Was pretty close."
+          },
+          {
+            "stringId": "1947331508585492480",
+            "femaleVariant": "I don't know if I could have done it without you."
+          },
+          {
+            "stringId": "1947332095687389184",
+            "femaleVariant": "Eh, come on.",
+            "maleVariant": "Hey, come on."
+          },
+          {
+            "stringId": "1947339401762304000",
+            "femaleVariant": "Gonna miss our little escapades."
+          },
+          {
+            "stringId": "1947360021078208512",
+            "femaleVariant": "Me too."
+          },
+          {
+            "stringId": "1947360586101288960",
+            "femaleVariant": "On the other hand, though – who said this one was our last?"
+          },
+          {
+            "stringId": "1947362075918069760",
+            "femaleVariant": "V, look around. Look at them."
+          },
+          {
+            "stringId": "1947363283357528064",
+            "femaleVariant": "Mhmmm."
+          },
+          {
+            "stringId": "1947363446029414400",
+            "femaleVariant": "Guess we'll have to do something about that."
+          },
+          {
+            "stringId": "1947364381258543104",
+            "femaleVariant": "You know... You know this... this could be us, every day?"
+          },
+          {
+            "stringId": "1947365387841171456",
+            "femaleVariant": "Stay in camp. Join us."
+          },
+          {
+            "stringId": "1947366248243916800",
+            "femaleVariant": "They could be your family."
+          },
+          {
+            "stringId": "1947366548052766720",
+            "femaleVariant": "Panam, what're you--"
+          },
+          {
+            "stringId": "1947367413706780676",
+            "femaleVariant": "I'd love to. But I can't."
+          },
+          {
+            "stringId": "1947369350015610880",
+            "femaleVariant": "This isn't for me, Panam."
+          },
+          {
+            "stringId": "1947370572755890176",
+            "femaleVariant": "It's not that simple."
+          },
+          {
+            "stringId": "1947371468826996736",
+            "femaleVariant": "I'd love to, Panam. I really would."
+          },
+          {
+            "stringId": "1947371532865630208",
+            "femaleVariant": "This life – it's not for me, Panam."
+          },
+          {
+            "stringId": "1947371624184016896",
+            "femaleVariant": "It's really not that simple."
+          },
+          {
+            "stringId": "1947374172475355136",
+            "femaleVariant": "Mhm. Here comes that damned \"but.\""
+          },
+          {
+            "stringId": "1947374404705579008",
+            "femaleVariant": "But I can't, not right now. Have to finish some things first."
+          },
+          {
+            "stringId": "1947376767474462720",
+            "femaleVariant": "I tried it once. Didn't work."
+          },
+          {
+            "stringId": "1947376841763975168",
+            "femaleVariant": "This life, I'm not cut out for it."
+          },
+          {
+            "stringId": "1947377484448788480",
+            "femaleVariant": "Bullshit. You don't know what it would be like this time."
+          },
+          {
+            "stringId": "1947378274454335488",
+            "femaleVariant": "Bullshit. You don't know that."
+          },
+          {
+            "stringId": "1947378582081368064",
+            "femaleVariant": "I do. I'm telling you now."
+          },
+          {
+            "stringId": "1947381196944699392",
+            "femaleVariant": "You either want to or not. What's so complicated?"
+          },
+          {
+            "stringId": "1947382060484784128",
+            "femaleVariant": "That's the problem. What I want right now – doesn't mean a thing."
+          },
+          {
+            "stringId": "1947382824871522304",
+            "femaleVariant": "All right, V. I shouldn't drop bombs like that on you right now."
+          },
+          {
+            "stringId": "1947383619004264448",
+            "femaleVariant": "I just thought... Eh, forget about it."
+          },
+          {
+            "stringId": "1947384405570482180",
+            "femaleVariant": "[Stand] I'll think it over. I promise."
+          },
+          {
+            "stringId": "1947392609192898560",
+            "femaleVariant": "[Stand] I gotta go. Take care."
+          },
+          {
+            "stringId": "1947394255121674240",
+            "femaleVariant": "I'll think it over, I pro--",
+            "maleVariant": "I'll think it all over, I pro--"
+          },
+          {
+            "stringId": "1947394329293746176",
+            "femaleVariant": "Take care of yourself, Panam. Soon--"
+          },
+          {
+            "stringId": "1947396178025508864",
+            "femaleVariant": "[Stand] Let me know when you move camp."
+          },
+          {
+            "stringId": "1947396602539405312",
+            "femaleVariant": "Maybe once you move camp, we'll--"
+          },
+          {
+            "stringId": "1979539369352777728",
+            "femaleVariant": "But I... I made a mess of so many things... You said..."
+          },
+          {
+            "stringId": "1979539972778905600",
+            "femaleVariant": "I know. But I changed my mind. You risked everything for this family, not even knowing whether you'd be welcome the next day."
+          },
+          {
+            "stringId": "2162488503826673668",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "2227211046882983936",
+            "femaleVariant": "V – drink. Choose please?"
+          },
+          {
+            "stringId": "2227218344938389504",
+            "femaleVariant": "Shit, did you see the Basilisk in action? It blasted them into bi-- arrgh!"
+          },
+          {
+            "stringId": "2227249210888634368",
+            "femaleVariant": "No squirming. Lie still, I need to examine this…"
+          },
+          {
+            "stringId": "2227258059142021120",
+            "femaleVariant": "They won't dare show their faces again! How many did we drop?"
+          },
+          {
+            "stringId": "2227277545844850688",
+            "femaleVariant": "Our losses – tha'ss what I wanna know."
+          },
+          {
+            "stringId": "2227278797425164288",
+            "femaleVariant": "They could have been lower… if that Basilisk had come around sooner."
+          },
+          {
+            "stringId": "2227284814288470016",
+            "femaleVariant": "Panam missing from camp at such a critical moment? She'll have some explaining to do."
+          },
+          {
+            "stringId": "2227286193912496128",
+            "femaleVariant": "What is she to you – a seer? Hell, leave her alone."
+          },
+          {
+            "stringId": "2227296339732545536",
+            "femaleVariant": "Are you about done? Musa's got a nasty-ass gash, too."
+          },
+          {
+            "stringId": "2412725381476151300",
+            "femaleVariant": "[Get out]"
+          }
+        ]
+      }
+
+
+

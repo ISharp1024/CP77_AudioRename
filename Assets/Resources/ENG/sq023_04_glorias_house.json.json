@@ -1,0 +1,668 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1561834548131422208",
+            "femaleVariant": "You're... late!"
+          },
+          {
+            "stringId": "1561845962845872128",
+            "femaleVariant": "I... found a companion along the way."
+          },
+          {
+            "stringId": "1561846529244684288",
+            "femaleVariant": "Someone from the studio?"
+          },
+          {
+            "stringId": "1561849602897764352",
+            "femaleVariant": "V, meet Zuleikha."
+          },
+          {
+            "stringId": "1561932080983465984",
+            "femaleVariant": "Zuleikha is the sister of the man I killed."
+          },
+          {
+            "stringId": "1561943568947240960",
+            "femaleVariant": "She wrote me letters while I was doing time."
+          },
+          {
+            "stringId": "1561961856397893632",
+            "femaleVariant": "Joshua Stephenson... we meet again. And who are you?"
+          },
+          {
+            "stringId": "1772039950399672324",
+            "femaleVariant": "[Stand] Let's go."
+          },
+          {
+            "stringId": "1772040432862072832",
+            "femaleVariant": "[Stand] Had enough of this, Josh. I'm out."
+          },
+          {
+            "stringId": "1772043282858086400",
+            "femaleVariant": "We should leave. Really."
+          },
+          {
+            "stringId": "1772043536814804992",
+            "femaleVariant": "Had enough of this, Josh."
+          },
+          {
+            "stringId": "1772044680601505792",
+            "femaleVariant": "Please, Mrs. El-Ahmar!"
+          },
+          {
+            "stringId": "1772045029550821376",
+            "femaleVariant": "Wait!"
+          },
+          {
+            "stringId": "1772176648135741440",
+            "femaleVariant": "Do you remember what you wrote me in your last letter? She is everything you spoke of.",
+            "maleVariant": "Do you remember what you wrote me in your last letter? He is everything you spoke of."
+          },
+          {
+            "stringId": "1773651305661698048",
+            "femaleVariant": "Fuck off."
+          },
+          {
+            "stringId": "1811138549722406912",
+            "femaleVariant": "V. Pleasure."
+          },
+          {
+            "stringId": "1811139031480164356",
+            "femaleVariant": "Nice to meet ya."
+          },
+          {
+            "stringId": "1811148222190084096",
+            "femaleVariant": "Wouldn't mind knowin' what's goin' on here. Anyone?"
+          },
+          {
+            "stringId": "1811155094926286848",
+            "femaleVariant": "Really wouldn't mind knowing what's going on."
+          },
+          {
+            "stringId": "1811156189337640960",
+            "femaleVariant": "You haven't told her anything?",
+            "maleVariant": "You haven't told him anything?"
+          },
+          {
+            "stringId": "1811156888880439296",
+            "femaleVariant": "We just met. There wasn't time."
+          },
+          {
+            "stringId": "1811157650431827968",
+            "femaleVariant": "Mama isn't... back yet. We can talk inside until she returns. Come in."
+          },
+          {
+            "stringId": "1811157890446680064",
+            "femaleVariant": "Mmm."
+          },
+          {
+            "stringId": "1811157976312471552",
+            "femaleVariant": "You are a friend of Joshua's?"
+          },
+          {
+            "stringId": "1811159385883828224",
+            "femaleVariant": "You really are insane…"
+          },
+          {
+            "stringId": "1811161631665184772",
+            "femaleVariant": "Recent acquaintance, more like."
+          },
+          {
+            "stringId": "1811162098726100992",
+            "femaleVariant": "It's complicated."
+          },
+          {
+            "stringId": "1811162537618071552",
+            "femaleVariant": "Nope, not friends."
+          },
+          {
+            "stringId": "1811162793973932032",
+            "femaleVariant": "Recent acquaintance, more like."
+          },
+          {
+            "stringId": "1811162857945456640",
+            "femaleVariant": "It's a long, strange story…"
+          },
+          {
+            "stringId": "1811162962501066752",
+            "femaleVariant": "Nope. We are not friends.",
+            "maleVariant": "No. We're not friends."
+          },
+          {
+            "stringId": "1811176682589544448",
+            "femaleVariant": "Hehh..."
+          },
+          {
+            "stringId": "1811179700106059776",
+            "femaleVariant": "Mama isn't... back yet. We can talk inside until she returns. Come in."
+          },
+          {
+            "stringId": "1811269762651021312",
+            "femaleVariant": "Don't know how you can forgive someone for that."
+          },
+          {
+            "stringId": "1811269951226929152",
+            "femaleVariant": "Why are we here?"
+          },
+          {
+            "stringId": "1811269990988931072",
+            "femaleVariant": "Joshua found redemption because of you?"
+          },
+          {
+            "stringId": "1811270692494663680",
+            "femaleVariant": "Mean to say you let the man who killed your brother off the hook?",
+            "maleVariant": "You mean to say, you let the man who killed your brother off the hook?"
+          },
+          {
+            "stringId": "1811270860988243968",
+            "femaleVariant": "You're the reason Joshua found redemption?"
+          },
+          {
+            "stringId": "1811271103570010112",
+            "femaleVariant": "Why're we here? And who're we waitin' for?"
+          },
+          {
+            "stringId": "1811439695431229440",
+            "femaleVariant": "That is how we two were united. Through forgiveness."
+          },
+          {
+            "stringId": "1811440619100856320",
+            "femaleVariant": "\"Judge not, and you will not be judged. Condemn not, and you will not be condemned. Forgive, and you will be forgiven.\""
+          },
+          {
+            "stringId": "1811442825942294528",
+            "femaleVariant": "It was her letter that started everything."
+          },
+          {
+            "stringId": "1811444224205807616",
+            "femaleVariant": "I lost a brother. God gave me another."
+          },
+          {
+            "stringId": "1811447492457816068",
+            "femaleVariant": "Your God allowed innocent people to die."
+          },
+          {
+            "stringId": "1811447936164847616",
+            "femaleVariant": "True believers – hard to come by these days."
+          },
+          {
+            "stringId": "1811448304441516032",
+            "femaleVariant": "Not buyin' it. Not at all.",
+            "maleVariant": "I'm not buyin' it, not at all."
+          },
+          {
+            "stringId": "1811448378596810752",
+            "femaleVariant": "Not every day you run into a true believer in Night City.",
+            "maleVariant": "It's not every day you run into a true believer in Night City."
+          },
+          {
+            "stringId": "1811454099476471808",
+            "femaleVariant": "You believe in a merciful God. Yet he allowed for your brother's murder. Let it happen."
+          },
+          {
+            "stringId": "1811459055650627584",
+            "femaleVariant": "Why are we here?"
+          },
+          {
+            "stringId": "1811485843697197056",
+            "femaleVariant": "I grieved for Ruben. You cannot know how much. I wanted him back... But then God showed me his plan, and I found peace."
+          },
+          {
+            "stringId": "1811487559301750784",
+            "femaleVariant": "The Lord knows I regret killing Ruben, but... if not for him, I never would have found the path to God."
+          },
+          {
+            "stringId": "1811489986914574340",
+            "femaleVariant": "Still not buyin' it."
+          },
+          {
+            "stringId": "1811490264359395328",
+            "femaleVariant": "So it was all Divine Providence?"
+          },
+          {
+            "stringId": "1811491176150753280",
+            "femaleVariant": "Yep, still not buyin' it.",
+            "maleVariant": "Yeah, still not buyin' it."
+          },
+          {
+            "stringId": "1811491257050488832",
+            "femaleVariant": "We can't know the paths of Divine Providence."
+          },
+          {
+            "stringId": "1811494094664916992",
+            "femaleVariant": "It was Providence that brought you under my roof. We met because of Him."
+          },
+          {
+            "stringId": "1811497254469001216",
+            "femaleVariant": "Do you believe in God, V?"
+          },
+          {
+            "stringId": "1811497641250938880",
+            "femaleVariant": "I guess, then... you don't believe in the Creator?"
+          },
+          {
+            "stringId": "1811497981828423684",
+            "femaleVariant": "Yes, I do."
+          },
+          {
+            "stringId": "1811498165773819904",
+            "femaleVariant": "Nope."
+          },
+          {
+            "stringId": "1811498617584246784",
+            "femaleVariant": "Could be some higher power."
+          },
+          {
+            "stringId": "1811499676612452352",
+            "femaleVariant": "Sure, I believe."
+          },
+          {
+            "stringId": "1811499757478633472",
+            "femaleVariant": "Can't say I do."
+          },
+          {
+            "stringId": "1811499828228153344",
+            "femaleVariant": "For all I know there could be a higher power out there, but nobody's been able to prove it. No one ever will."
+          },
+          {
+            "stringId": "1811500367246548992",
+            "femaleVariant": "Why're we even talking about this?"
+          },
+          {
+            "stringId": "1811501415302455296",
+            "femaleVariant": "Why're we even talking about this?"
+          },
+          {
+            "stringId": "1811507218289811456",
+            "femaleVariant": "Faith is something no one but you can prove."
+          },
+          {
+            "stringId": "1811508137177931776",
+            "femaleVariant": "Zuleikha and I have a... a running dispute. I was thinking you could help us resolve it."
+          },
+          {
+            "stringId": "1811509781345099776",
+            "femaleVariant": "Whether it finds enemies or neighbors, God's love knows no bounds on Earth, and neither should ours."
+          },
+          {
+            "stringId": "1811511187946889216",
+            "femaleVariant": "Tell me, V. Do you believe in God?"
+          },
+          {
+            "stringId": "1811512360724619264",
+            "femaleVariant": "No, no, I never agreed to anything like this!"
+          },
+          {
+            "stringId": "1811512786631024644",
+            "femaleVariant": "I'm all ears."
+          },
+          {
+            "stringId": "1811513129020448768",
+            "femaleVariant": "Religious debates – not really my thing."
+          },
+          {
+            "stringId": "1811513682937012224",
+            "femaleVariant": "I'm all ears."
+          },
+          {
+            "stringId": "1811513760464527360",
+            "femaleVariant": "Eh, religious debates – not my thing.",
+            "maleVariant": "Religious debates – not my thing."
+          },
+          {
+            "stringId": "1811514137784115200",
+            "femaleVariant": "Joshua, he... he thinks he's the Messiah and wants to end his own life."
+          },
+          {
+            "stringId": "1811517334867173376",
+            "femaleVariant": "That is not true – I never said I was any sort of messiah."
+          },
+          {
+            "stringId": "1811519190846693376",
+            "femaleVariant": "Suicide! Do you really think that's what the Lord could ever want from you?"
+          },
+          {
+            "stringId": "1811521289223430144",
+            "femaleVariant": "It won't be suicide."
+          },
+          {
+            "stringId": "1811522415494717440",
+            "femaleVariant": "Whoa. Insane, that's what this is."
+          },
+          {
+            "stringId": "1811528246265143296",
+            "femaleVariant": "Zuleikha, tell me what's going on."
+          },
+          {
+            "stringId": "1811531016921702400",
+            "femaleVariant": "What exactly's going on here, Joshua?",
+            "maleVariant": "What exactly's going on here, Josh?"
+          },
+          {
+            "stringId": "1811531101126549504",
+            "femaleVariant": "I still don't get what's happening here, Zuleikha."
+          },
+          {
+            "stringId": "1811532787136094208",
+            "femaleVariant": "When the media learned I'd found God in prison, the next day my face was on the cover of every screamsheet."
+          },
+          {
+            "stringId": "1811533748437016576",
+            "femaleVariant": "A braindance studio took notice. They sent representatives to make me an offer."
+          },
+          {
+            "stringId": "1811536365414277120",
+            "femaleVariant": "Egh, bloodsuckers..."
+          },
+          {
+            "stringId": "1811536696126758912",
+            "femaleVariant": "I was facing the electric chair. Now, with the studio's help, my death will be more than a state-sanctioned murder."
+          },
+          {
+            "stringId": "1811538281774997504",
+            "femaleVariant": "They want to scroll a braindance of Joshua being crucified – an execution like any other, just garbed in holy robes!"
+          },
+          {
+            "stringId": "1811542239067267072",
+            "femaleVariant": "Why the braindance? What do you hope to achieve?"
+          },
+          {
+            "stringId": "1811542324681400320",
+            "femaleVariant": "Law's got nothing to say about this?"
+          },
+          {
+            "stringId": "1811543037796966400",
+            "femaleVariant": "Hang on. A... a BD studio changed how a convict's going to be executed? Doesn't the law say something about that?",
+            "maleVariant": "Wha-- hang on. A BD studio changed how a convict's going to be executed? Doesn't the law say somethin' about that?"
+          },
+          {
+            "stringId": "1811544639719104512",
+            "femaleVariant": "Corps write the laws. Corps choose the judges. All it takes is a sit-down between the studio's CEO and a state's attorney."
+          },
+          {
+            "stringId": "1811545251198296064",
+            "femaleVariant": "Officially, I'm here on a supervised, one-day furlough. But no law can prevent me from spending that with new acquaintances."
+          },
+          {
+            "stringId": "1811551495007002624",
+            "femaleVariant": "When they put Joshua away, the screamsheets devoted space to him on page five."
+          },
+          {
+            "stringId": "1811552475333287936",
+            "femaleVariant": "But when they discovered he'd found God, suddenly he was on primetime TV."
+          },
+          {
+            "stringId": "1811553203632234496",
+            "femaleVariant": "What's wrong with using a platform to tell people about my faith, and God's grace, hm?"
+          },
+          {
+            "stringId": "1811553690540597248",
+            "femaleVariant": "We are way past that, Joshua! Instead of being executed in prison, he agreed to let braindance studio vultures record his agony as he's being crucified!"
+          },
+          {
+            "stringId": "1811561695805988864",
+            "femaleVariant": "Corruption's a sin, too, isn't it? And corruption got you here."
+          },
+          {
+            "stringId": "1811561871379554304",
+            "femaleVariant": "This is much bigger than the laws of man. With this braindance, I'll take God's message to billions."
+          },
+          {
+            "stringId": "1811566712260681728",
+            "femaleVariant": "This is insanity, pure and simple."
+          },
+          {
+            "stringId": "1811566786432753664",
+            "femaleVariant": "W-why the braindance? What's in it for you?",
+            "maleVariant": "Why the braindance? Wh-what's in it for you?"
+          },
+          {
+            "stringId": "1811567998704050176",
+            "femaleVariant": "It's the one thing worse than insanity – blasphemy."
+          },
+          {
+            "stringId": "1811577709037903872",
+            "femaleVariant": "Zuleikha transformed me into a child of God. It's time I repaid that debt."
+          },
+          {
+            "stringId": "1811578731273674752",
+            "femaleVariant": "Think of the millions jacked into their feeds like livestock, the children growing up in gang-infested streets. Do they know love?"
+          },
+          {
+            "stringId": "1811580596883316736",
+            "femaleVariant": "Think of the joytoys on Jig-Jig Street! Coked-out corpos in their offices, an' murderers who stalk the streets! I want to reach them. I will reach them!"
+          },
+          {
+            "stringId": "1811598778872389632",
+            "femaleVariant": "And think of paid killers like you, V. Have you known love? Do you know what it is?"
+          },
+          {
+            "stringId": "1811599568592723968",
+            "femaleVariant": "Uh, mother's home!"
+          },
+          {
+            "stringId": "1811600494409834496",
+            "femaleVariant": "Tell me, V. Do you believe in God?"
+          },
+          {
+            "stringId": "1811602284085796864",
+            "femaleVariant": "There's nothing to debate. Those BD studio hyenas convinced Joshua to trade one execution for another – his own crucifixion."
+          },
+          {
+            "stringId": "1811603067397234688",
+            "femaleVariant": "He wants everyone to experience his agony! Feel his pain and suffering!"
+          },
+          {
+            "stringId": "1811604787800072192",
+            "femaleVariant": "I want to bear witness to love's existence – in a manner that all the lost souls on this wretched earth can understand."
+          },
+          {
+            "stringId": "1811607145183469568",
+            "femaleVariant": "Why love?"
+          },
+          {
+            "stringId": "1811607228113248256",
+            "femaleVariant": "If unconditional love exists, then so must God! It's time the world was reminded of His divine presence."
+          },
+          {
+            "stringId": "1812391006913978368",
+            "femaleVariant": "Name's V."
+          },
+          {
+            "stringId": "1812391364671332352",
+            "femaleVariant": "She the one we've been waiting for?"
+          },
+          {
+            "stringId": "1812391461794635776",
+            "femaleVariant": "My name is V."
+          },
+          {
+            "stringId": "1812391529104826368",
+            "femaleVariant": "This who we've been waiting for?"
+          },
+          {
+            "stringId": "1812392991306309632",
+            "femaleVariant": "Go. You are not welcome here."
+          },
+          {
+            "stringId": "1812395297636638720",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "1812395582614429696",
+            "femaleVariant": "Mrs. El-Ahmar... I have come to beg you for forgiveness."
+          },
+          {
+            "stringId": "1812402402586288128",
+            "femaleVariant": "You... You murdered my son!"
+          },
+          {
+            "stringId": "1812402544857079808",
+            "femaleVariant": "That is something I can never forgive."
+          },
+          {
+            "stringId": "1812402743499317248",
+            "femaleVariant": "Out of my house, now!"
+          },
+          {
+            "stringId": "1812402916908621824",
+            "femaleVariant": "Out! All of you!"
+          },
+          {
+            "stringId": "1812403482518904832",
+            "femaleVariant": "I truly do regret the pain I have caused you…"
+          },
+          {
+            "stringId": "1812407937003970560",
+            "femaleVariant": "Nope, count me out.",
+            "maleVariant": "No, count me out."
+          },
+          {
+            "stringId": "1831726537145606144",
+            "femaleVariant": "Zuleikha..?"
+          },
+          {
+            "stringId": "1831812314202398724",
+            "femaleVariant": "[Sit] Water'd be fine."
+          },
+          {
+            "stringId": "1831812422063120384",
+            "femaleVariant": "Please, sit down."
+          },
+          {
+            "stringId": "1831812734270332928",
+            "femaleVariant": "Can I offer you anything, a drink?"
+          },
+          {
+            "stringId": "1831813890925158400",
+            "femaleVariant": "[Sit] Something... strong?"
+          },
+          {
+            "stringId": "1831814457072312320",
+            "femaleVariant": "[Sit] I'm good, thanks."
+          },
+          {
+            "stringId": "1831816429049503744",
+            "femaleVariant": "Uh, glass of water."
+          },
+          {
+            "stringId": "1831816506593796096",
+            "femaleVariant": "Think I could have something... stronger, maybe?",
+            "maleVariant": "Think I could have somethin'... stronger, maybe?"
+          },
+          {
+            "stringId": "1831816574038204416",
+            "femaleVariant": "I'm good, thanks."
+          },
+          {
+            "stringId": "1831823181526622208",
+            "femaleVariant": "Please."
+          },
+          {
+            "stringId": "1831823659056521216",
+            "femaleVariant": "We do not serve any alcohol under this roof. We have none."
+          },
+          {
+            "stringId": "1831857185755783168",
+            "femaleVariant": "You took my Ruben from me…"
+          },
+          {
+            "stringId": "1831857908367253504",
+            "femaleVariant": "My child, my son…"
+          },
+          {
+            "stringId": "1831858327680212992",
+            "femaleVariant": "You killed my child!"
+          },
+          {
+            "stringId": "1831858860256157696",
+            "femaleVariant": "My Ruben..."
+          },
+          {
+            "stringId": "1831892645978857472",
+            "femaleVariant": "In the name of Father, and of the Son, and of the Holy Spirit, One God. Amen."
+          },
+          {
+            "stringId": "1846398371870826496",
+            "femaleVariant": "Murderer!"
+          },
+          {
+            "stringId": "1846398920569675776",
+            "femaleVariant": "It's OK, just go."
+          },
+          {
+            "stringId": "1846399980621291520",
+            "femaleVariant": "Mrs. El-Ahmar! Please!"
+          },
+          {
+            "stringId": "1846400327708336128",
+            "femaleVariant": "Just go, please..."
+          },
+          {
+            "stringId": "1885205295892934660",
+            "femaleVariant": "Not a fan of waiting, huh?"
+          },
+          {
+            "stringId": "1885212122491793408",
+            "femaleVariant": "Looks like someone doesn't enjoy waiting patiently.",
+            "maleVariant": "Looks like someone doesn't enjoy waitin' patiently."
+          },
+          {
+            "stringId": "1943348215006859264",
+            "femaleVariant": "Vasquez, keep an eye on them. I'm gonna stay in the car."
+          },
+          {
+            "stringId": "1943348585162575872",
+            "femaleVariant": "Keep it short. We're on a tight schedule."
+          },
+          {
+            "stringId": "1957784562128203776",
+            "femaleVariant": "Hurry up. I'll be waitin' outside."
+          },
+          {
+            "stringId": "1983947927548407808",
+            "femaleVariant": "Joshua, care to explain?"
+          },
+          {
+            "stringId": "2008499214941184000",
+            "femaleVariant": "Let's go back to the car."
+          },
+          {
+            "stringId": "2095269084884447236",
+            "femaleVariant": "[Get out]"
+          },
+          {
+            "stringId": "2218693984013070336",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "2221575440561418240",
+            "femaleVariant": "[Get in]"
+          },
+          {
+            "stringId": "2230541593284538368",
+            "femaleVariant": "Is everything all right?"
+          },
+          {
+            "stringId": "2230541798855766016",
+            "femaleVariant": "Hello?"
+          }
+        ]
+      }
+
+
+

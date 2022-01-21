@@ -1,0 +1,486 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1750509373849559048",
+            "femaleVariant": "Maelstrom's got the docks covered, and you'll cover me."
+          },
+          {
+            "stringId": "1750509373849559056",
+            "femaleVariant": "C'mon. Let's go."
+          },
+          {
+            "stringId": "1751957451383201792",
+            "femaleVariant": "Weyland saw Grayson somewhere around the docks. He was with somebody."
+          },
+          {
+            "stringId": "1751958386327117824",
+            "femaleVariant": "Smasher."
+          },
+          {
+            "stringId": "1751973563986567168",
+            "femaleVariant": "So I hope. Gotta get to the Maelstrom dataterm first."
+          },
+          {
+            "stringId": "1752060664715370496",
+            "femaleVariant": "So what's our plan?"
+          },
+          {
+            "stringId": "1752952913720467456",
+            "femaleVariant": "Ready?"
+          },
+          {
+            "stringId": "1753741636431208448",
+            "femaleVariant": "There she is. The \"Ebunike.\""
+          },
+          {
+            "stringId": "1753742316982198272",
+            "femaleVariant": "Not lookin' so hot."
+          },
+          {
+            "stringId": "1753745583606816768",
+            "femaleVariant": "Kinda hard to believe he's got his hidey-hole here."
+          },
+          {
+            "stringId": "1753745583606816776",
+            "femaleVariant": "Did ya expect Smasher to put up a sign or something?"
+          },
+          {
+            "stringId": "1753761192021286912",
+            "femaleVariant": "Gotta search the deck."
+          },
+          {
+            "stringId": "1753761565549223936",
+            "femaleVariant": "OK."
+          },
+          {
+            "stringId": "1758078778762551296",
+            "femaleVariant": "That one's yours."
+          },
+          {
+            "stringId": "1758079373548412928",
+            "femaleVariant": "Watch it."
+          },
+          {
+            "stringId": "1758079394788368384",
+            "femaleVariant": "C'mon, look alive."
+          },
+          {
+            "stringId": "1758079415910883328",
+            "femaleVariant": "Let's finish this."
+          },
+          {
+            "stringId": "1779365959497900032",
+            "femaleVariant": "Fucker's gotta be around here somewhere."
+          },
+          {
+            "stringId": "1779371727420874752",
+            "femaleVariant": "We're goin' to Maelstrom's main storehouse."
+          },
+          {
+            "stringId": "1779372922478747648",
+            "femaleVariant": "Dataterm's there. Gotta check, see if they have anything on Smasher."
+          },
+          {
+            "stringId": "1779388340320821252",
+            "femaleVariant": "Was she always this curt with you, too?"
+          },
+          {
+            "stringId": "1790608732934856704",
+            "femaleVariant": "Main stash house. Dataterm's there."
+          },
+          {
+            "stringId": "1790619154236792832",
+            "femaleVariant": "Didn't know you worked for Maelstrom."
+          },
+          {
+            "stringId": "1790619330145902596",
+            "femaleVariant": "Know where their dataterm is – how, exactly?",
+            "maleVariant": "You know where their dataterm is? How, exactly?"
+          },
+          {
+            "stringId": "1790619351721402372",
+            "femaleVariant": "OK. We can start."
+          },
+          {
+            "stringId": "1790621711050956800",
+            "femaleVariant": "Work for anybody. Long as it's on my terms."
+          },
+          {
+            "stringId": "1790621919373647872",
+            "femaleVariant": "See I missed a lot these last fifty years."
+          },
+          {
+            "stringId": "1790622720385048576",
+            "femaleVariant": "Set up the buy myself."
+          },
+          {
+            "stringId": "1790628138519846912",
+            "femaleVariant": "Lemme lead. I know the place."
+          },
+          {
+            "stringId": "1790629297389264896",
+            "femaleVariant": "She's tense."
+          },
+          {
+            "stringId": "1790692867535757312",
+            "femaleVariant": "Come on."
+          },
+          {
+            "stringId": "1790730040242823168",
+            "femaleVariant": "See 'em all?"
+          },
+          {
+            "stringId": "1790787977690701828",
+            "femaleVariant": "Looks like they're hidin' out on the ship."
+          },
+          {
+            "stringId": "1790789883163009024",
+            "femaleVariant": "OK. Let's see what we turn up."
+          },
+          {
+            "stringId": "1791157074513321984",
+            "femaleVariant": "All right. We got it."
+          },
+          {
+            "stringId": "1791157840460341248",
+            "femaleVariant": "Scan it, see if there's anything we can use."
+          },
+          {
+            "stringId": "1791176008641765376",
+            "femaleVariant": "Nah, knows exactly where to find 'im."
+          },
+          {
+            "stringId": "1791421008340279296",
+            "femaleVariant": "Can you open it?"
+          },
+          {
+            "stringId": "1792091878675144704",
+            "femaleVariant": "Heh, execution, looks like to me."
+          },
+          {
+            "stringId": "1792092740956938240",
+            "femaleVariant": "Shot point-blank. Hollow-point ammo."
+          },
+          {
+            "stringId": "1792099513382166528",
+            "femaleVariant": "He's got a signature style, Smasher."
+          },
+          {
+            "stringId": "1792141059758448644",
+            "femaleVariant": "Recordings, seem like to me."
+          },
+          {
+            "stringId": "1792141059775225860",
+            "femaleVariant": "Think you can play 'em back?"
+          },
+          {
+            "stringId": "1792141059775225868",
+            "femaleVariant": "Eh, can give it a shot.",
+            "maleVariant": "Yeah, can give it a shot."
+          },
+          {
+            "stringId": "1792141060026884100",
+            "femaleVariant": "There a fuckin' point to this?"
+          },
+          {
+            "stringId": "1792266351822987264",
+            "femaleVariant": "No idea who's backing you, but if anything happens to Mallory…"
+          },
+          {
+            "stringId": "1792270501449261056",
+            "femaleVariant": "Fail to back out of the Night Corp deal by then, the girl dies."
+          },
+          {
+            "stringId": "1792270850650234880",
+            "femaleVariant": "Fuck, don't you understand? You can't blackmail the entire Militech board by kidnapping one--"
+          },
+          {
+            "stringId": "1792271201864474624",
+            "femaleVariant": "Twenty-four hours."
+          },
+          {
+            "stringId": "1792272104310923264",
+            "femaleVariant": "There's corpo life for you."
+          },
+          {
+            "stringId": "1792275223900020740",
+            "femaleVariant": "How much's left?"
+          },
+          {
+            "stringId": "1792275223900020748",
+            "femaleVariant": "An hour. It's not going to work. Like I said."
+          },
+          {
+            "stringId": "1792275223900020756",
+            "femaleVariant": "So why all this? The girl..."
+          },
+          {
+            "stringId": "1792275223900020764",
+            "femaleVariant": "She dies in an hour. As ordered."
+          },
+          {
+            "stringId": "1792275223950352388",
+            "femaleVariant": "Why'd he even record that?"
+          },
+          {
+            "stringId": "1792279675616845824",
+            "femaleVariant": "Body we found – could be this Mallory."
+          },
+          {
+            "stringId": "1792280478624735232",
+            "femaleVariant": "We got no idea when that happened.",
+            "maleVariant": "We got no idea when it happened."
+          },
+          {
+            "stringId": "1792501006958551044",
+            "femaleVariant": "Now I know who jumped Kang Tao last month."
+          },
+          {
+            "stringId": "1792501006975328260",
+            "femaleVariant": "Thoroughly pro work."
+          },
+          {
+            "stringId": "1792501006975328268",
+            "femaleVariant": "Sure it was this exact merch?",
+            "maleVariant": "Ya sure it was this exact merch?"
+          },
+          {
+            "stringId": "1792501007143100420",
+            "femaleVariant": "Yep, real fuckin' preem."
+          },
+          {
+            "stringId": "1796915671132868608",
+            "femaleVariant": "Even shittier on the inside."
+          },
+          {
+            "stringId": "1796915842361135104",
+            "femaleVariant": "Let's go."
+          },
+          {
+            "stringId": "1796916600724852736",
+            "femaleVariant": "Don't wander off."
+          },
+          {
+            "stringId": "1796922193829236736",
+            "femaleVariant": "Cover her, just in case."
+          },
+          {
+            "stringId": "1796924355405746176",
+            "femaleVariant": "Gotta get to the dataterm. Quietly."
+          },
+          {
+            "stringId": "1796925320699645952",
+            "femaleVariant": "Might be our lucky day – drop Grayson and Smasher in one go."
+          },
+          {
+            "stringId": "1796941254759878656",
+            "femaleVariant": "ATHENA D-III. External database."
+          },
+          {
+            "stringId": "1812872038536515584",
+            "femaleVariant": "I'll watch the door."
+          },
+          {
+            "stringId": "1814213857690062848",
+            "femaleVariant": "She's stallin'. Told ya – Rogue's still scared of the asshole."
+          },
+          {
+            "stringId": "1814318375987646464",
+            "femaleVariant": "Just find the motherfucker and do it."
+          },
+          {
+            "stringId": "1816931139113521152",
+            "femaleVariant": "You have twenty-four hours."
+          },
+          {
+            "stringId": "1816945094452121600",
+            "femaleVariant": "I know. I'm blackmailing you."
+          },
+          {
+            "stringId": "1817010448704540672",
+            "femaleVariant": "Upstairs – summits, handshakes, back-slapping, dick-waving."
+          },
+          {
+            "stringId": "1817010751751393280",
+            "femaleVariant": "Downstairs – Smasher's holdin' a gun to somebody's head."
+          },
+          {
+            "stringId": "1817012601808556032",
+            "femaleVariant": "Grayson might've. To have dirt on Smasher."
+          },
+          {
+            "stringId": "1817013630990094336",
+            "femaleVariant": "Think you're givin' Grayson too much credit."
+          },
+          {
+            "stringId": "1817014774541914112",
+            "femaleVariant": "True. Another day in the life for Smasher."
+          },
+          {
+            "stringId": "1817037794107002880",
+            "femaleVariant": "679275-PN1H. Sent three crews out myself to find it for the Chinese."
+          },
+          {
+            "stringId": "1817038599581143040",
+            "femaleVariant": "Whole city was after it. Gotta admit the bastard's good."
+          },
+          {
+            "stringId": "1817042427185532928",
+            "femaleVariant": "Now we find and kill the bad guy, OK?"
+          },
+          {
+            "stringId": "1817046671401750528",
+            "femaleVariant": "For a while."
+          },
+          {
+            "stringId": "1869862073709510656",
+            "femaleVariant": "Tri-Phet."
+          },
+          {
+            "stringId": "1869862334108680196",
+            "femaleVariant": "Look, even got a label! \"Supplements.\""
+          },
+          {
+            "stringId": "1894108944321499136",
+            "femaleVariant": "Just sittin' here before they cut it, repack it, unleash it on the street."
+          },
+          {
+            "stringId": "1897947614879174656",
+            "femaleVariant": "Why're you even doin' this?"
+          },
+          {
+            "stringId": "1897953148457996288",
+            "femaleVariant": "I'm settling a score."
+          },
+          {
+            "stringId": "1897954773683687424",
+            "femaleVariant": "Avengin' Johnny?"
+          },
+          {
+            "stringId": "1897959263115694080",
+            "femaleVariant": "That too."
+          },
+          {
+            "stringId": "1897959622701764608",
+            "femaleVariant": "Rogue's been terrified of him since the Tower."
+          },
+          {
+            "stringId": "1897970598608130048",
+            "femaleVariant": "High time she faced her fear."
+          },
+          {
+            "stringId": "1898025977564123136",
+            "femaleVariant": "D'ya see that?"
+          },
+          {
+            "stringId": "1898026287539965952",
+            "femaleVariant": "Got an idea."
+          },
+          {
+            "stringId": "1898035855301038080",
+            "femaleVariant": "Over there, to the right."
+          },
+          {
+            "stringId": "1898042369843679232",
+            "femaleVariant": "Somethin's burnin'."
+          },
+          {
+            "stringId": "1898042622592438272",
+            "femaleVariant": "Drop him – quietly."
+          },
+          {
+            "stringId": "1898042885474635776",
+            "femaleVariant": "Shhh, tryna wake 'em up?"
+          },
+          {
+            "stringId": "1898044829769420800",
+            "femaleVariant": "Whatever Rogue can do..."
+          },
+          {
+            "stringId": "1898046673736454144",
+            "femaleVariant": "Always loved watchin' her in action."
+          },
+          {
+            "stringId": "1898050120464486400",
+            "femaleVariant": "Wait a sec, then follow me."
+          },
+          {
+            "stringId": "1898055222264877056",
+            "femaleVariant": "Watch it, now."
+          },
+          {
+            "stringId": "1908683275202482176",
+            "femaleVariant": "OK. Won't touch that."
+          },
+          {
+            "stringId": "1908691953418784768",
+            "femaleVariant": "Looks like they tossed a bunch of stuff outta here."
+          },
+          {
+            "stringId": "1911495907236265984",
+            "femaleVariant": "Musta upped the huscle after my last visit."
+          },
+          {
+            "stringId": "1911497156987863040",
+            "femaleVariant": "We'll manage."
+          },
+          {
+            "stringId": "1916908206649241600",
+            "femaleVariant": "What's the plan?"
+          },
+          {
+            "stringId": "1916908206649241616",
+            "femaleVariant": "Had no idea you work with Maelstrom."
+          },
+          {
+            "stringId": "1916908206649241636",
+            "femaleVariant": "Know where their dataterm is – how?"
+          },
+          {
+            "stringId": "1916908206649241668",
+            "femaleVariant": "OK. We can start."
+          },
+          {
+            "stringId": "1960994083227713536",
+            "femaleVariant": "OK. Guns a-blazing, then."
+          },
+          {
+            "stringId": "1961039143893876740",
+            "femaleVariant": "Ooph. Execution, probably."
+          },
+          {
+            "stringId": "1961045412214095872",
+            "femaleVariant": "Interesting..."
+          },
+          {
+            "stringId": "1961046526925881344",
+            "femaleVariant": "Well, well, well..."
+          },
+          {
+            "stringId": "1979442188788715520",
+            "femaleVariant": "Should be some info on Smasher there."
+          },
+          {
+            "stringId": "2121470272725577732",
+            "femaleVariant": "[Get out]"
+          }
+        ]
+      }
+
+
+

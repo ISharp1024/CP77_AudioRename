@@ -1,0 +1,321 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1508117275859767296",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pral soti tankou li toujou fè.\" t=\"It'll turn out like it always does.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1508201649871540228",
+            "femaleVariant": "Placide?"
+          },
+          {
+            "stringId": "1508204917351796736",
+            "femaleVariant": "Wanna talk to your boss."
+          },
+          {
+            "stringId": "1508206618225954816",
+            "femaleVariant": "Wanna talk to your boss."
+          },
+          {
+            "stringId": "1508208368492236800",
+            "femaleVariant": "You Placide?"
+          },
+          {
+            "stringId": "1508244374478147588",
+            "femaleVariant": "Told me at the chapel you're the one to talk to."
+          },
+          {
+            "stringId": "1508271394721386496",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ki sa ou vle?\" t=\"What do you want?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1508273544084082688",
+            "femaleVariant": "Here I thought selling poultry was illegal."
+          },
+          {
+            "stringId": "1508273814197260288",
+            "femaleVariant": "Here I thought selling domesticated fowl was still illegal."
+          },
+          {
+            "stringId": "1508275019774447616",
+            "femaleVariant": "Told me at the chapel you're the one to talk to."
+          },
+          {
+            "stringId": "1508277270723186688",
+            "femaleVariant": "Mr. Hands sent me. Said you got mercwork needs doin'."
+          },
+          {
+            "stringId": "1521283979175546884",
+            "femaleVariant": "Looking for Placide."
+          },
+          {
+            "stringId": "1521284418436616192",
+            "femaleVariant": "You really sell meat outta this place?"
+          },
+          {
+            "stringId": "1521285461459357696",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Li pa fè okenn sans pousè li koulye a. Jis tann.\" t=\"Makes no sense to push him now. Just wait.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1521285837201887232",
+            "femaleVariant": "You actually sell meat outta here? Seriously?",
+            "maleVariant": "You actually sell meat outta here? Really?"
+          },
+          {
+            "stringId": "1521295541596606464",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Dodo, ti pitit manman.\" t=\"Sleep, mommy's little one.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532879420010074112",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou aktyèlman vle achte kèk?\" t=\"Do you actually want to buy some?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532880400118255616",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Kisa l'ap fè la a?\" t=\"What's she doing here?\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Kisa l'ap fè la a?\" t=\"What's he doing here?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532916316983595008",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Mwen pa konnen, li te sanble trè detèmine.\" t=\"I dunno, he seemed pretty insistent.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532916394880208896",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"O, li pral chanje lide li, tankou tout tan.\" t=\"Oh, he'll change his mind, like always.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532917831563546624",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Hmm ... Se pa tan sa.\" t=\"Hmm... not this time.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1532918387845697536",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou vle pou mwen pale ak li, pa vre?\" t=\"You want me to talk to him, right?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1533053482787213312",
+            "femaleVariant": "No here. Come with."
+          },
+          {
+            "stringId": "1562256222851502080",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Oke, pa gen chance.\" t=\"OK, not a chance.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1590934805174095872",
+            "femaleVariant": "Six years poultry's supposedly had the plague. Now all of a sudden – poof – it's clean?"
+          },
+          {
+            "stringId": "1590940504813801472",
+            "femaleVariant": "Dis not for sale."
+          },
+          {
+            "stringId": "1590940999020253184",
+            "femaleVariant": "What you want?"
+          },
+          {
+            "stringId": "1590956392837353472",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Ou ap eseye vin entelijan, li sanble.\" t=\"Trying to be clever, it looks like.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1602686949887643648",
+            "femaleVariant": "Lookin' for Placide."
+          },
+          {
+            "stringId": "1602686949887643660",
+            "femaleVariant": "Placide."
+          },
+          {
+            "stringId": "1602693016814161920",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Um byen?\" t=\"Well?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1618653025446653952",
+            "femaleVariant": "Placide?"
+          },
+          {
+            "stringId": "1618654193157664768",
+            "femaleVariant": "Placide?"
+          },
+          {
+            "stringId": "1618705571922046976",
+            "femaleVariant": "Huh?"
+          },
+          {
+            "stringId": "1618707926621089792",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"M’byen?\" t=\"Well?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1682415336037879808",
+            "femaleVariant": "Mhm."
+          },
+          {
+            "stringId": "1705627683454558208",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Gen yon pwoblèm? Ale non.\" t=\"There a problem? Go on in.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1715556659745853440",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Do-o-do, ti pitit manman.\" t=\"Sleep, mommy's little one.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1715557169940992000",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Si ou pa dodo krab la va mange'w. Si ou pa dodo krab la va mange'w.\" t=\"If you don't sleep, the crab will eat you. If you don't sleep, the crab will eat you.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1715557516893818880",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Manman ou pa la lalé nan maché.\" t=\"Your mama isn't here, she went to the market.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1715557850391318528",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Papa ou pa la l'alé larivyè.\" t=\"Your papa isn't here, he went to the river.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1715558191941881856",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Si ou pa dodo krab la va mange'w.\" t=\"If you don't sleep, the crab will eat you.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1741734015284563984",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Se ou menm. Kontinye.\" t=\"So, it's you. Go on.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1741734015301341184",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Placide. Gade la.\" t=\"Placide. Over there.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1741738439788744704",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Gade isit la.\" t=\"Look here.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1751725814349893632",
+            "femaleVariant": "I wanna talk to Brigitte."
+          },
+          {
+            "stringId": "1751726235239911424",
+            "femaleVariant": "I wanna talk to Brigitte."
+          },
+          {
+            "stringId": "1751729694164979712",
+            "femaleVariant": "But they send you to me."
+          },
+          {
+            "stringId": "1754511505794338816",
+            "femaleVariant": "And you'll tell me more about the job?"
+          },
+          {
+            "stringId": "1754512215017590784",
+            "femaleVariant": "Yes, but not here. Follow me."
+          },
+          {
+            "stringId": "1754629537806786560",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Isit! Gade!\" t=\"Here! Look!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754630355226304512",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Èske li avèg o li soud?\" t=\"Is she blind or deaf?\" b=\"\" a=\"\"/>",
+            "maleVariant": "<kiroshi l=\"creo\" o=\"Èske li avèg o li soud?\" t=\"Is he blind or deaf?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754692478186921984",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Estipid.\" t=\"Idiot.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1754692858174087168",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Vle antre? Gade nan kamera a.\" t=\"Want in? Look in the camera\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1755947206292119552",
+            "femaleVariant": "Where we headed?"
+          },
+          {
+            "stringId": "1755947400874270720",
+            "femaleVariant": "Where we headed?"
+          },
+          {
+            "stringId": "1792561123563999232",
+            "femaleVariant": "Heard a thing or two about your crew."
+          },
+          {
+            "stringId": "1792567456342282240",
+            "femaleVariant": "My creole isn't great..."
+          },
+          {
+            "stringId": "1966420196175138816",
+            "femaleVariant": "Y'know, heard a few things about you.",
+            "maleVariant": "Y'know, I heard a few things about you."
+          },
+          {
+            "stringId": "1966421885020033024",
+            "femaleVariant": "Hm?"
+          },
+          {
+            "stringId": "1966422199173402624",
+            "femaleVariant": "The Voodoo Boys... best 'runners in town.",
+            "maleVariant": "Voodoo Boys... best 'runners in town."
+          },
+          {
+            "stringId": "1966422684806696960",
+            "femaleVariant": "Least that's what they say. Though nobody really knows what you do on the Net."
+          },
+          {
+            "stringId": "1966423766735802368",
+            "femaleVariant": "Dis is good."
+          },
+          {
+            "stringId": "1966424353451823104",
+            "femaleVariant": "I mean, bleedin'-edge black soft, corporate data heists, wagin' war on NetWatch..."
+          },
+          {
+            "stringId": "1966426560746246144",
+            "femaleVariant": "No one mentions… chickens.",
+            "maleVariant": "But no one mentions… chickens."
+          },
+          {
+            "stringId": "1966436240495235072",
+            "femaleVariant": "Hm, my creole's a bit rusty…",
+            "maleVariant": "Well, my creole's a bit rusty…"
+          },
+          {
+            "stringId": "1966437064290095104",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Yo pale mil lang nan Night City.\" t=\"A thousand languages are spoken in Night City.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1966437960109543424",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Nou mem, nou pale yon sèl gwen.\" t=\"We speak only one.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1966438157728370688",
+            "femaleVariant": "Shit luck, right? All those, an' I don't know yours…"
+          },
+          {
+            "stringId": "1966438508959387648",
+            "femaleVariant": "<kiroshi l=\"creo\" o=\"Chrome translation. Ou pa maton.\" t=\"Chrome translation. You are not clever.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2251883800651448320",
+            "femaleVariant": "Why the hell you are here?"
+          },
+          {
+            "stringId": "2251884210183290880",
+            "femaleVariant": "This way come, I said."
+          },
+          {
+            "stringId": "2251903763810435080",
+            "femaleVariant": "Why you make me wait? Come."
+          }
+        ]
+      }
+
+
+

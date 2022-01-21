@@ -1,0 +1,265 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1660704640910368772",
+            "femaleVariant": "[Get in car]"
+          },
+          {
+            "stringId": "1661692110850367488",
+            "femaleVariant": "Get the fuck out."
+          },
+          {
+            "stringId": "1661736575489155072",
+            "femaleVariant": "Rayfield's mine."
+          },
+          {
+            "stringId": "1661989024120578048",
+            "femaleVariant": "NCPD! Drop your weapons!"
+          },
+          {
+            "stringId": "1664714892374843392",
+            "femaleVariant": "Hands where I can see 'em! Nice an' slow!"
+          },
+          {
+            "stringId": "1664763149268426752",
+            "femaleVariant": "Jackie Welles, my old pal from the 'hood. See you haven't grown an ounce wiser."
+          },
+          {
+            "stringId": "1665134998057787392",
+            "femaleVariant": "It's a waste of effort. I have no time to testify or play at an investigation."
+          },
+          {
+            "stringId": "1665136348053250048",
+            "femaleVariant": "I suggest you toss them in the sea. Cuffed legs broken so this trash doesn't float."
+          },
+          {
+            "stringId": "1675013408091414528",
+            "femaleVariant": "Hm... Looks like this'll be a cool breeze."
+          },
+          {
+            "stringId": "1720055862083330048",
+            "femaleVariant": "Suggestin' we let 'em go, sir?"
+          },
+          {
+            "stringId": "1809728861681623040",
+            "femaleVariant": "Kirk? I see the ride."
+          },
+          {
+            "stringId": "1809729277504921600",
+            "femaleVariant": "Your moment to shine, kiddo. Good luck."
+          },
+          {
+            "stringId": "1809801026460327936",
+            "femaleVariant": "Let's take this piece of wondertech for a whirl."
+          },
+          {
+            "stringId": "1809830926730797056",
+            "femaleVariant": "You're a woman of little faith.",
+            "maleVariant": "You're a man of little faith."
+          },
+          {
+            "stringId": "1809831201306714112",
+            "femaleVariant": "Now fire 'er up and call me when you're underway. Tell you where to go."
+          },
+          {
+            "stringId": "1832964489896456192",
+            "femaleVariant": "OK, easy."
+          },
+          {
+            "stringId": "1833058147513593856",
+            "femaleVariant": "What, man, never heard of thieves' honor? Finders keepers. I was first.",
+            "maleVariant": "What, man, never heard of thieves' honor? Finders keepers? I was first."
+          },
+          {
+            "stringId": "1833059554887135232",
+            "femaleVariant": "Listen, only one of two ways to do this – friendly or fucked up."
+          },
+          {
+            "stringId": "1833091660858191872",
+            "femaleVariant": "<kiroshi l=\"mex\" o=\"¡¿Qué chingados...?!\" t=\"The fuck...?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1833092910710452224",
+            "femaleVariant": "Either way, the ending's the same – I'm takin' the car."
+          },
+          {
+            "stringId": "1833094767881154560",
+            "femaleVariant": "Same shit."
+          },
+          {
+            "stringId": "1833096631460753408",
+            "femaleVariant": "Speakin' of… your mug's familiar, too."
+          },
+          {
+            "stringId": "1833099794418954240",
+            "femaleVariant": "Yeah? Yours ain't to me."
+          },
+          {
+            "stringId": "1833099870386188292",
+            "femaleVariant": "Not familiar with yours."
+          },
+          {
+            "stringId": "1833099878204370944",
+            "femaleVariant": "How about that – a pig that chatters.",
+            "maleVariant": "How about that, ugh – a pig that chatters."
+          },
+          {
+            "stringId": "1833100127648018432",
+            "femaleVariant": "Whaddaya know – a talkative pig."
+          },
+          {
+            "stringId": "1833100990198247424",
+            "femaleVariant": "Left for Atlanta, lookin' for a slice of happiness. Guess you didn't find it."
+          },
+          {
+            "stringId": "1833103298978050048",
+            "femaleVariant": "I've always maintained it's the same for all you termites in Heywood. Born here, live here, die here."
+          },
+          {
+            "stringId": "1833103977750654976",
+            "femaleVariant": "Looks like I was right."
+          },
+          {
+            "stringId": "1833109528727449600",
+            "femaleVariant": "Hey, c'mon, Stints, give us a break, huh? You lock us up, we'll just jerk off till trial, and then what?"
+          },
+          {
+            "stringId": "1833110145759899648",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"el bote\" b=\"Worst case, agh, we get some months. Hell, standin' room only nowadays in \" a=\", so... we'll prob'ly be out early.\"/>"
+          },
+          {
+            "stringId": "1833110574954639364",
+            "femaleVariant": "You know fuck all about me."
+          },
+          {
+            "stringId": "1833110593845784576",
+            "femaleVariant": "You know fuck all about me."
+          },
+          {
+            "stringId": "1833110599315156992",
+            "femaleVariant": "Enough of the chatter. What now?"
+          },
+          {
+            "stringId": "1833111201684320256",
+            "femaleVariant": "What now?"
+          },
+          {
+            "stringId": "1833111900069490688",
+            "femaleVariant": "Truth hurts, huh? Just watch your tone – I'm not a patient man."
+          },
+          {
+            "stringId": "1833112462475325440",
+            "femaleVariant": "Gettin' booked, gonna do a stint. Heh – get it?"
+          },
+          {
+            "stringId": "1833123735288082432",
+            "femaleVariant": "Are these the thieves? Ordinary street trash."
+          },
+          {
+            "stringId": "1833124041153507328",
+            "femaleVariant": "Got 'em in custody, Mr. Fujioka. We'll be takin' 'em now."
+          },
+          {
+            "stringId": "1834361465607221248",
+            "femaleVariant": "<mothertongue l=\"mex\" m=\"compa\" b=\"Nothin' personal, \" a=\". Just biz.\"/>"
+          },
+          {
+            "stringId": "1834365141562355712",
+            "femaleVariant": "Hey, argh... Detective Stints! Been a while, huh?"
+          },
+          {
+            "stringId": "1834365188370788352",
+            "femaleVariant": "Inspector Stints."
+          },
+          {
+            "stringId": "1837109250425286656",
+            "femaleVariant": "See? We're rich."
+          },
+          {
+            "stringId": "1902858219802628096",
+            "femaleVariant": "[Gun it]"
+          },
+          {
+            "stringId": "1998512004494823424",
+            "femaleVariant": "[Hack lock] Let's give it a shot."
+          },
+          {
+            "stringId": "2238997905535057920",
+            "femaleVariant": "Get-the-fuck-out."
+          },
+          {
+            "stringId": "2238997915299397632",
+            "femaleVariant": "Wow, you can drive. Now out."
+          },
+          {
+            "stringId": "2239005150809341952",
+            "femaleVariant": "Heh, fuuuck…"
+          },
+          {
+            "stringId": "2239178499564945408",
+            "femaleVariant": "C'mon, spit it out. I'm waitin'."
+          },
+          {
+            "stringId": "2239179720845606920",
+            "femaleVariant": "Rat got your tongue?"
+          },
+          {
+            "stringId": "2239183297345404928",
+            "femaleVariant": "You heard 'im."
+          },
+          {
+            "stringId": "2239189505737408512",
+            "femaleVariant": "Fuck, he's here."
+          },
+          {
+            "stringId": "2249096308658978816",
+            "femaleVariant": "Stay where you are!"
+          },
+          {
+            "stringId": "2249097353560768520",
+            "femaleVariant": "Don't move!"
+          },
+          {
+            "stringId": "2249099975118209032",
+            "femaleVariant": "On the ground, motherfuckers! Now!"
+          },
+          {
+            "stringId": "2249100488064811016",
+            "femaleVariant": "You're under arrest!"
+          },
+          {
+            "stringId": "2303734941410906112",
+            "femaleVariant": "Easy now..."
+          },
+          {
+            "stringId": "2415822679640514560",
+            "femaleVariant": "What the…?"
+          },
+          {
+            "stringId": "2415825834897973248",
+            "femaleVariant": "Fuck!"
+          },
+          {
+            "stringId": "2415827554730385408",
+            "femaleVariant": "Wha- What're you doin'?"
+          }
+        ]
+      }
+
+
+

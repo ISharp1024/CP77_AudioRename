@@ -1,0 +1,160 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1953227817398345732",
+            "femaleVariant": "What do you want?"
+          },
+          {
+            "stringId": "1953227817415122948",
+            "femaleVariant": "Are you looking for someone?"
+          },
+          {
+            "stringId": "1953227817515786244",
+            "femaleVariant": "Don't snoop around here!"
+          },
+          {
+            "stringId": "1953227817549340672",
+            "femaleVariant": "You can't-- Please go away!"
+          },
+          {
+            "stringId": "1953227817616449540",
+            "femaleVariant": "No! Don't do that!"
+          },
+          {
+            "stringId": "1953227817633226756",
+            "femaleVariant": "You'll only make it worse!"
+          },
+          {
+            "stringId": "1953227817700335620",
+            "femaleVariant": "You don't know what they can do to you!"
+          },
+          {
+            "stringId": "1953227817717112836",
+            "femaleVariant": "If they catch you, you're dead!"
+          },
+          {
+            "stringId": "1953227817784221700",
+            "femaleVariant": "Oh, good. Very good."
+          },
+          {
+            "stringId": "1953227817800998916",
+            "femaleVariant": "Much better."
+          },
+          {
+            "stringId": "1953227817851330564",
+            "femaleVariant": "What was that?"
+          },
+          {
+            "stringId": "1953227817884884996",
+            "femaleVariant": "Makes no sense!"
+          },
+          {
+            "stringId": "1953227817918439428",
+            "femaleVariant": "I guess there's no one here…"
+          },
+          {
+            "stringId": "1953227817951993860",
+            "femaleVariant": "Am I mistaken…?"
+          },
+          {
+            "stringId": "1953227818002325504",
+            "femaleVariant": "Somewhere here... if anywhere."
+          },
+          {
+            "stringId": "1953227818019102724",
+            "femaleVariant": "I heard you! Come out!"
+          },
+          {
+            "stringId": "1953227818069434372",
+            "femaleVariant": "Don't touch me!"
+          },
+          {
+            "stringId": "1953227818086211588",
+            "femaleVariant": "Filthy trash!"
+          },
+          {
+            "stringId": "1953227818119766020",
+            "femaleVariant": "What now?"
+          },
+          {
+            "stringId": "1953227818170097668",
+            "femaleVariant": "Of course… Mhm, I don't care how…! Then find them… ! Uh-huh... I need flowers! That's it!"
+          },
+          {
+            "stringId": "1953227818186874884",
+            "femaleVariant": "Her birthday… She wanted them… What…? A-are you suggesting it's my idea…? Heh... do you hear yourself?"
+          },
+          {
+            "stringId": "1953227818220429316",
+            "femaleVariant": "Just take care of it."
+          },
+          {
+            "stringId": "1953227818237206532",
+            "femaleVariant": "Definitely someone!"
+          },
+          {
+            "stringId": "1953227818589528068",
+            "femaleVariant": "She's here!",
+            "maleVariant": "He's here!"
+          },
+          {
+            "stringId": "1953227818606305284",
+            "femaleVariant": "Catch her!",
+            "maleVariant": "Catch him!"
+          },
+          {
+            "stringId": "1953227818706968580",
+            "femaleVariant": "Save me!"
+          },
+          {
+            "stringId": "1953227818723745796",
+            "femaleVariant": "Do something!"
+          },
+          {
+            "stringId": "1953227818807631876",
+            "femaleVariant": "Please…! I'm so scared!"
+          },
+          {
+            "stringId": "1953227818824409092",
+            "femaleVariant": "Why do you want to kill me!?"
+          },
+          {
+            "stringId": "1953227818908295172",
+            "femaleVariant": "Would you like me to call the police?"
+          },
+          {
+            "stringId": "1953227818925072388",
+            "femaleVariant": "I've had quite enough of this!"
+          },
+          {
+            "stringId": "1957765447274758148",
+            "femaleVariant": "[db_db]Voiceset Interrupt A"
+          },
+          {
+            "stringId": "1957765447341867012",
+            "femaleVariant": "[db_db]Voiceset Return A"
+          },
+          {
+            "stringId": "1957765447358644228",
+            "femaleVariant": "[db_db]Voiceset Urgent A"
+          }
+        ]
+      }
+
+
+

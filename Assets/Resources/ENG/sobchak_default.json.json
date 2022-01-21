@@ -1,0 +1,358 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1938771702101184512",
+            "femaleVariant": "What's it like to be a cop in Night City?"
+          },
+          {
+            "stringId": "1938771744094556160",
+            "femaleVariant": "Well, what's it like bein' a criminal?"
+          },
+          {
+            "stringId": "1938771774008332288",
+            "femaleVariant": "Excuse me? Was that an accusation?"
+          },
+          {
+            "stringId": "1938772639041589248",
+            "femaleVariant": "Any honest cops out there?"
+          },
+          {
+            "stringId": "1938840326736318468",
+            "femaleVariant": "You're asking me?"
+          },
+          {
+            "stringId": "1938841931292479488",
+            "femaleVariant": "No clue."
+          },
+          {
+            "stringId": "1938841975315894272",
+            "femaleVariant": "Right... Forget it."
+          },
+          {
+            "stringId": "1938842775538765824",
+            "femaleVariant": "What, don't consider yourself one?"
+          },
+          {
+            "stringId": "1938842906803703808",
+            "femaleVariant": "I, good sir, adhere to a code. It's not my fault it isn't always legal."
+          },
+          {
+            "stringId": "1938843197804515328",
+            "femaleVariant": "I wouldn't know. I'm no criminal."
+          },
+          {
+            "stringId": "1938843571567333376",
+            "femaleVariant": "Breaking the law is the literal definition of crime, V."
+          },
+          {
+            "stringId": "1938843686877138944",
+            "femaleVariant": "It's not my fault the law can't keep pace with reality."
+          },
+          {
+            "stringId": "1938845444542173184",
+            "femaleVariant": "You pluck one lowlife off the street two more sprout up in his place."
+          },
+          {
+            "stringId": "1938845751732998144",
+            "femaleVariant": "Plus, unless you're the rare idealist, you take bribes when you can get 'em."
+          },
+          {
+            "stringId": "1938845910462238720",
+            "femaleVariant": "And book-cooking? Amount of booze needed to drown your doubts gets pricey but, well... that's what the bribes're for."
+          },
+          {
+            "stringId": "1938846876662108164",
+            "femaleVariant": "Wow... exciting."
+          },
+          {
+            "stringId": "1938847007323066368",
+            "femaleVariant": "Pretty bleak."
+          },
+          {
+            "stringId": "1938847395531067392",
+            "femaleVariant": "Sounds... exhilarating."
+          },
+          {
+            "stringId": "1938850570401091584",
+            "femaleVariant": "So... a bleach caricature of life?"
+          },
+          {
+            "stringId": "1938853750253948928",
+            "femaleVariant": "Twenty thousand killed or gone missing every year. Not exactly boring."
+          },
+          {
+            "stringId": "1938891075012923392",
+            "femaleVariant": "What it like, bein' a cop in Night City?"
+          },
+          {
+            "stringId": "1938899768345497600",
+            "femaleVariant": "Which gang's the worst?"
+          },
+          {
+            "stringId": "1938900123686932480",
+            "femaleVariant": "There even a single clean badge in this city?"
+          },
+          {
+            "stringId": "1938902314489352192",
+            "femaleVariant": "Besides me?"
+          },
+          {
+            "stringId": "1938902450837786624",
+            "femaleVariant": "An honest cop in Night City's like a unicorn."
+          },
+          {
+            "stringId": "1938903723758718976",
+            "femaleVariant": "That what you see when you look in the mirror?"
+          },
+          {
+            "stringId": "1938905522561486848",
+            "femaleVariant": "But okay, I'd bet there's one or two more. Take Anna Hamill for example."
+          },
+          {
+            "stringId": "1938906703107067904",
+            "femaleVariant": "Wonder how she is now... It's been ages."
+          },
+          {
+            "stringId": "1938907497944453120",
+            "femaleVariant": "She won't take bribes?"
+          },
+          {
+            "stringId": "1938907600218361856",
+            "femaleVariant": "What makes her different?"
+          },
+          {
+            "stringId": "1938909696246288384",
+            "femaleVariant": "How, she won't pocket bribes?"
+          },
+          {
+            "stringId": "1938909743843250176",
+            "femaleVariant": "How's she stand out?"
+          },
+          {
+            "stringId": "1938911016244088832",
+            "femaleVariant": "She hounds down criminals on her own terms. Bit of a superhero complex."
+          },
+          {
+            "stringId": "1938911398613618688",
+            "femaleVariant": "She always places justice higher than the letter of the law. And won't follow her superiors blind."
+          },
+          {
+            "stringId": "1938916291520892928",
+            "femaleVariant": "Know someone just like that..."
+          },
+          {
+            "stringId": "1938948860761214976",
+            "femaleVariant": "Which gang's the city's biggest and baddest according to the NCPD?"
+          },
+          {
+            "stringId": "1938949990455054336",
+            "femaleVariant": "Scavs hold the body count title. Well, or Maelstrom – depending on the season."
+          },
+          {
+            "stringId": "1938995287830958080",
+            "femaleVariant": "How you getting along with Han?"
+          },
+          {
+            "stringId": "1938998681425547264",
+            "femaleVariant": "Let's talk about something else."
+          },
+          {
+            "stringId": "1938999883580182528",
+            "femaleVariant": "Let's change the subject."
+          },
+          {
+            "stringId": "1939026581583433728",
+            "femaleVariant": "How're things with you and Han workin' out?"
+          },
+          {
+            "stringId": "1939026716405141504",
+            "femaleVariant": "Didn't have any blowback? I mean for steppin' into the Peter Pan case."
+          },
+          {
+            "stringId": "1939027027790270464",
+            "femaleVariant": "How's the career switch? When's our new private detective startin' up?"
+          },
+          {
+            "stringId": "1939027458494959616",
+            "femaleVariant": "Any trouble after the Peter Pan case?"
+          },
+          {
+            "stringId": "1939027497317437440",
+            "femaleVariant": "How's the private detective career?"
+          },
+          {
+            "stringId": "1939028270243778560",
+            "femaleVariant": "Not angry I haven't had any time for you?"
+          },
+          {
+            "stringId": "1939029448977420288",
+            "femaleVariant": "Not too pissed I haven't had the time for you?",
+            "maleVariant": "Ya not too pissed I haven't had the time for ya?"
+          },
+          {
+            "stringId": "1940237512195837952",
+            "femaleVariant": "No, it's only 'cause of us Gonaghal closed the investigation."
+          },
+          {
+            "stringId": "1940237986940719104",
+            "femaleVariant": "They padded their stat books, we're in the clear."
+          },
+          {
+            "stringId": "1940238341476847616",
+            "femaleVariant": "And? How do you feel 'bout all this?"
+          },
+          {
+            "stringId": "1940238472842448896",
+            "femaleVariant": "I'll let you know once I know. For now I'm just helpin' out Joss, enjoyin' some time off..."
+          },
+          {
+            "stringId": "1940239336550305792",
+            "femaleVariant": "Life should be back on track before long."
+          },
+          {
+            "stringId": "1940244212026052608",
+            "femaleVariant": "Still findin' the means. Hasn't been easy, but the biggest hurdles are behind me."
+          },
+          {
+            "stringId": "1940245564756201472",
+            "femaleVariant": "License, equipment, software – it's all in order. Just haven't figured out how to market myself..."
+          },
+          {
+            "stringId": "1940249345552158720",
+            "femaleVariant": "Aimin' to specialize in anything?"
+          },
+          {
+            "stringId": "1940249846704377856",
+            "femaleVariant": "Kidnapping. Randy's ordeal put a lot in perspective."
+          },
+          {
+            "stringId": "1940250219947102208",
+            "femaleVariant": "Well... Guess that makes sense."
+          },
+          {
+            "stringId": "1940264474440241152",
+            "femaleVariant": "They're not."
+          },
+          {
+            "stringId": "1940264909154684928",
+            "femaleVariant": "He acts like nothing happened, like he didn't cover up the mayor's death."
+          },
+          {
+            "stringId": "1940266000479031296",
+            "femaleVariant": "Must be tough..."
+          },
+          {
+            "stringId": "1940266265038950400",
+            "femaleVariant": "I considered him a close partner. Maybe even a friend."
+          },
+          {
+            "stringId": "1940266525018689536",
+            "femaleVariant": "So yeah, you could say that."
+          },
+          {
+            "stringId": "1940268513219448832",
+            "femaleVariant": "I understand, let's change the subject."
+          },
+          {
+            "stringId": "1940298667278864384",
+            "femaleVariant": "You got your own stuff goin' on, I get that. We'll make up for it."
+          },
+          {
+            "stringId": "1940303157784612864",
+            "femaleVariant": "Yeah, promise. Soon as I cut some dead weight.",
+            "maleVariant": "As soon as I can cut some dead weight."
+          },
+          {
+            "stringId": "1940304534355185664",
+            "femaleVariant": "I'll hold you to it."
+          },
+          {
+            "stringId": "1940306564146663424",
+            "femaleVariant": "I don't feel things are right with us."
+          },
+          {
+            "stringId": "1940306967940698112",
+            "femaleVariant": "Been havin' this thought lately..."
+          },
+          {
+            "stringId": "1940313276408795136",
+            "femaleVariant": "About what?"
+          },
+          {
+            "stringId": "1940313682568417280",
+            "femaleVariant": "Us. Can't get it outta my head...",
+            "maleVariant": "Us. I can't get outta my head..."
+          },
+          {
+            "stringId": "1940313993517338624",
+            "femaleVariant": "That you don't see a happy ending?"
+          },
+          {
+            "stringId": "1940314167228633088",
+            "femaleVariant": "H-how'd you know?"
+          },
+          {
+            "stringId": "1940314307872034816",
+            "femaleVariant": "I didn't. Maybe I'm just startin' to get to know you better."
+          },
+          {
+            "stringId": "1940314679923576832",
+            "femaleVariant": "Anyway, I... It's stupid. Rambling. Just forget I said anything.",
+            "maleVariant": "Anyway, I... It's stupid. I'm ramblin'. Just forget I said anything."
+          },
+          {
+            "stringId": "1940315222448410624",
+            "femaleVariant": "Already forgotten."
+          },
+          {
+            "stringId": "1963623968138203136",
+            "femaleVariant": "But I gotta give style points to the Valentinos. They have a punishment for every occasion."
+          },
+          {
+            "stringId": "1963624844160536576",
+            "femaleVariant": "Example – they sit you in front of a mirror with a shaving razor and tell you to keep goin' until red and pink turns to white."
+          },
+          {
+            "stringId": "1976315387115692032",
+            "femaleVariant": "Looking for a girl."
+          },
+          {
+            "stringId": "1976316005406433280",
+            "femaleVariant": "Lookin' for someone. Woman, twenty something. Doll, disappeared from Clouds."
+          },
+          {
+            "stringId": "1976318338462867456",
+            "femaleVariant": "Could scan the system, but... You even know how many girls disappear in this city every day?"
+          },
+          {
+            "stringId": "1976325284867825664",
+            "femaleVariant": "'Specially the ones working in the sex biz. Don't get your hopes up."
+          },
+          {
+            "stringId": "2257692897095847936",
+            "femaleVariant": "What's on your mind, V?"
+          },
+          {
+            "stringId": "2430427304218996744",
+            "femaleVariant": "All right, take care now."
+          }
+        ]
+      }
+
+
+

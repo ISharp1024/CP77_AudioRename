@@ -1,0 +1,346 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1352763633273323520",
+            "femaleVariant": "Tony! C'mere!"
+          },
+          {
+            "stringId": "1352766586314997760",
+            "femaleVariant": "Yeah, Dad?"
+          },
+          {
+            "stringId": "1352767648698646528",
+            "femaleVariant": "You forget somethin'?"
+          },
+          {
+            "stringId": "1352774072325554176",
+            "femaleVariant": "Choline and methionine levels – see anything odd?"
+          },
+          {
+            "stringId": "1352774434478538752",
+            "femaleVariant": "You were supposed to check before school."
+          },
+          {
+            "stringId": "1352776015831810048",
+            "femaleVariant": "Whaddaya got to say for yourself?"
+          },
+          {
+            "stringId": "1352783808680869888",
+            "femaleVariant": "And where're you off to, Mike?"
+          },
+          {
+            "stringId": "1352785740896059392",
+            "femaleVariant": "C'mere, you rascal. You'll hurt yourself."
+          },
+          {
+            "stringId": "1352786247584759808",
+            "femaleVariant": "Tony'll take good care of you. Easy, now."
+          },
+          {
+            "stringId": "1352788804315037704",
+            "femaleVariant": "Coming!"
+          },
+          {
+            "stringId": "1354648838451937280",
+            "femaleVariant": "See that? Cow's sick – like the rest."
+          },
+          {
+            "stringId": "1561808596110589952",
+            "femaleVariant": "Looks like a cattle bioscanner, for checkin' vitals."
+          },
+          {
+            "stringId": "1563075211963842560",
+            "femaleVariant": "Looks like Peter Pan turned this farm into a goddamn final bastion."
+          },
+          {
+            "stringId": "1563079254215933952",
+            "femaleVariant": "Terminal controls the pens.",
+            "maleVariant": "The terminal controls the pens."
+          },
+          {
+            "stringId": "1563105902357299200",
+            "femaleVariant": "Machine controls an injection system for stimulants, hormones, somethin'..."
+          },
+          {
+            "stringId": "1563110187979685888",
+            "femaleVariant": "Fuel…? Musta been an auto shop or somethin' here at some point."
+          },
+          {
+            "stringId": "1563159874510176256",
+            "femaleVariant": "Agh…Got no way to ID 'im."
+          },
+          {
+            "stringId": "1679304028512555008",
+            "femaleVariant": "Hey! The illuminated towers... promoting the Us Cracks album that came out then.",
+            "maleVariant": "Hey, the illuminated towers... promoting the Us Cracks album that came out then."
+          },
+          {
+            "stringId": "1679383795836358656",
+            "femaleVariant": "Hearin' what I'm hearin'?",
+            "maleVariant": "Y'hearin' what I'm hearin'?"
+          },
+          {
+            "stringId": "1679386708713377792",
+            "femaleVariant": "Got a clock – an hour to midnight."
+          },
+          {
+            "stringId": "1679388915689033728",
+            "femaleVariant": "Got some cables."
+          },
+          {
+            "stringId": "1679391946291777536",
+            "femaleVariant": "Fire Department cert stamp right here – City South. Perfect."
+          },
+          {
+            "stringId": "1679395286937473024",
+            "femaleVariant": "Signage on the farm model points to Petrochem."
+          },
+          {
+            "stringId": "1702286727850201088",
+            "femaleVariant": "All these turrets and mines… They're controlled by some other tech, not the comp in the barn."
+          },
+          {
+            "stringId": "1702289137058418688",
+            "femaleVariant": "Gotta be another deck somewhere for the mines and turrets."
+          },
+          {
+            "stringId": "1702309759276781568",
+            "femaleVariant": "River? Gotta be solar panels on the barn roof.",
+            "maleVariant": "River? It's gotta be solar panels on the barn roof."
+          },
+          {
+            "stringId": "1724085847279505408",
+            "femaleVariant": "Colors changed every hour.",
+            "maleVariant": "The colors changed every hour."
+          },
+          {
+            "stringId": "1782118202476564480",
+            "femaleVariant": "Ah, that's our cartoon! Little Tony really seemed to love it..."
+          },
+          {
+            "stringId": "1782121969431318532",
+            "femaleVariant": "Tony! Where you gone, now? C'mere!"
+          },
+          {
+            "stringId": "1782196959358980096",
+            "femaleVariant": "Cattle injectors for hormones, antibiotics… People ate meat loaded with the shit."
+          },
+          {
+            "stringId": "1782198125107056640",
+            "femaleVariant": "Supplements in the feed for disease-free livestock."
+          },
+          {
+            "stringId": "1785118685234597888",
+            "femaleVariant": "I as'ed you a question!"
+          },
+          {
+            "stringId": "1785118870304067584",
+            "femaleVariant": "I-I don't know..."
+          },
+          {
+            "stringId": "1785124026580078592",
+            "femaleVariant": "Ummm... too low?"
+          },
+          {
+            "stringId": "1785158236044922880",
+            "femaleVariant": "Trash barge. That's the signal to dump. Has to be a landfill nearby…"
+          },
+          {
+            "stringId": "1825859190982152196",
+            "femaleVariant": "Kid's father was a real hardass."
+          },
+          {
+            "stringId": "1840391381991952384",
+            "femaleVariant": "Cow's gonna die 'cause of you. Gonna kill it like you killed your momma."
+          },
+          {
+            "stringId": "1840391797127385088",
+            "femaleVariant": "I-I'm sorry."
+          },
+          {
+            "stringId": "1840392426189099008",
+            "femaleVariant": "How many times I gotta tell you not to leave it like that, hm?"
+          },
+          {
+            "stringId": "1840393585964486656",
+            "femaleVariant": "Half the day I spent tryin' to turn that shit off!"
+          },
+          {
+            "stringId": "1840396720753741824",
+            "femaleVariant": "Don't apologize, just dial up her hormones."
+          },
+          {
+            "stringId": "1909756797298642944",
+            "femaleVariant": "Harris looks even younger here."
+          },
+          {
+            "stringId": "1909759527253676032",
+            "femaleVariant": "Think this might be the place, V. It's a recent memory... Gotta be his hideout."
+          },
+          {
+            "stringId": "1909803178835021824",
+            "femaleVariant": "River, I know this place!",
+            "maleVariant": "River, I know this place."
+          },
+          {
+            "stringId": "1909804524065755136",
+            "femaleVariant": "What? You've been to this farm?"
+          },
+          {
+            "stringId": "1909804779213656064",
+            "femaleVariant": "A while ago... I-I can see it now. I know how to get there.",
+            "maleVariant": "A while ago... I can see it now. I know how to get there."
+          },
+          {
+            "stringId": "1909805346333888512",
+            "femaleVariant": "Shit, V... Knew it was a good idea to bring you along."
+          },
+          {
+            "stringId": "1927283496566525952",
+            "femaleVariant": "Oh, fuck me... Treats the kidnapped boys like cattle…",
+            "maleVariant": "Fuck me... He treats the kidnapped boys like cattle…"
+          },
+          {
+            "stringId": "1927283520474058752",
+            "femaleVariant": "Look, another one."
+          },
+          {
+            "stringId": "1927283558323458048",
+            "femaleVariant": "Don't see Randy anywhere."
+          },
+          {
+            "stringId": "1983810862708822016",
+            "femaleVariant": "And shut off that goddamn cartoon!"
+          },
+          {
+            "stringId": "2105354685817786372",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105405474007388160",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105411613596028928",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105413948766392320",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105417133820186624",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105453911742582784",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105462486326022144",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105464666961448960",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105552770548338688",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105559727875264512",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105562342101061632",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105567976477396992",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105580403159961600",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105605177839947776",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105612788924649472",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105616708367519744",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105627871088185344",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105632673297829888",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105643752048529408",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105646031904411648",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105647579669696512",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2105657244486963200",
+            "femaleVariant": "[Examine]"
+          },
+          {
+            "stringId": "2172347545905238016",
+            "femaleVariant": "I think that might be it…"
+          },
+          {
+            "stringId": "2172353117367013376",
+            "femaleVariant": "Not so sure, River. Think we oughta explore a bit more."
+          },
+          {
+            "stringId": "2172353404760723456",
+            "femaleVariant": "OK, let's go with your gut."
+          },
+          {
+            "stringId": "2172353651419353088",
+            "femaleVariant": "That's gotta be all she wrote in this one, V…"
+          },
+          {
+            "stringId": "2172353938259415040",
+            "femaleVariant": "Prolly right, OK."
+          },
+          {
+            "stringId": "2248870008796975104",
+            "femaleVariant": "[Examine]"
+          }
+        ]
+      }
+
+
+

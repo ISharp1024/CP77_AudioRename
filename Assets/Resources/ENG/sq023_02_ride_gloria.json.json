@@ -1,0 +1,442 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1373339725379457040",
+            "femaleVariant": "Have you ever experienced anything that changed the meaning of existence? Changed your life?"
+          },
+          {
+            "stringId": "1373340545835651072",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "1373340960971083776",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "1374792601532420096",
+            "femaleVariant": "Don't feel like talking about it."
+          },
+          {
+            "stringId": "1374792717915967488",
+            "femaleVariant": "Can't correct murder."
+          },
+          {
+            "stringId": "1374792717932744716",
+            "femaleVariant": "Uh, any reason you're telling me this?"
+          },
+          {
+            "stringId": "1374792717932744732",
+            "femaleVariant": "A tale of repentance and rebirth? Gimme a break…"
+          },
+          {
+            "stringId": "1374793352900038656",
+            "femaleVariant": "Can't say I have, no."
+          },
+          {
+            "stringId": "1374793352916815872",
+            "femaleVariant": "Could say that, sure."
+          },
+          {
+            "stringId": "1374793442372931584",
+            "femaleVariant": "Don't feel like talkin' about it."
+          },
+          {
+            "stringId": "1374793687890710528",
+            "femaleVariant": "Twelve years ago I was sentenced to prison for armed robbery."
+          },
+          {
+            "stringId": "1374794501266919424",
+            "femaleVariant": "Then you will understand exactly what I'm trying to do."
+          },
+          {
+            "stringId": "1374794635232989184",
+            "femaleVariant": "Too bad. We should all have a moment like that. I've had mine."
+          },
+          {
+            "stringId": "1374794856390250496",
+            "femaleVariant": "Hm. Then let me speak."
+          },
+          {
+            "stringId": "1374795439700496384",
+            "femaleVariant": "And other sins. I shot and killed several people in cold blood, and it didn't mean anything to me at the time."
+          },
+          {
+            "stringId": "1374795530834333696",
+            "femaleVariant": "But behind bars, you get all the time in the world to think. And I thought to correct the errors of my ways."
+          },
+          {
+            "stringId": "1374796745018232832",
+            "femaleVariant": "Still don't get why you're tellin' me this.",
+            "maleVariant": "I still don't get why you're tellin' me this."
+          },
+          {
+            "stringId": "1374796745035010048",
+            "femaleVariant": "Spelling mistakes you can correct. But murder's murder.",
+            "maleVariant": "Spelling mistakes you can correct. But murder is murder."
+          },
+          {
+            "stringId": "1374796745051787264",
+            "femaleVariant": "A tale of repentance, redemption and rebirth? Been on TV thousands of times, probably. I'm usually asleep before it's half over."
+          },
+          {
+            "stringId": "1374797275983564800",
+            "femaleVariant": "Why'd you shoot 'em?"
+          },
+          {
+            "stringId": "1374797446591074304",
+            "femaleVariant": "Why'd you shoot 'em?"
+          },
+          {
+            "stringId": "1374798802961879040",
+            "femaleVariant": "I was holding a gun. I didn't like the way they looked at me, and I had the power to stop them."
+          },
+          {
+            "stringId": "1374799260996653056",
+            "femaleVariant": "I still see their faces just before I... Ahem. Frozen in time. God... give me strength to never forget."
+          },
+          {
+            "stringId": "1374800620806787072",
+            "femaleVariant": "You can make amends to the families…"
+          },
+          {
+            "stringId": "1374800743548899328",
+            "femaleVariant": "I want you to understand what I am about to do."
+          },
+          {
+            "stringId": "1374800956334329856",
+            "femaleVariant": "This won't be TV. This will be entirely different."
+          },
+          {
+            "stringId": "1374801127227052032",
+            "femaleVariant": "Spill already. What do you want from me?"
+          },
+          {
+            "stringId": "1374801457134227456",
+            "femaleVariant": "Stay with me for the day. And I'll pay you what you were promised to kill me."
+          },
+          {
+            "stringId": "1374801588600492032",
+            "femaleVariant": "Uh, excuse me – with what money?"
+          },
+          {
+            "stringId": "1374801803298525184",
+            "femaleVariant": "Not mine. The studio's. And the studio will pay."
+          },
+          {
+            "stringId": "1374802162096066560",
+            "femaleVariant": "Not likin' this one bit. Lemme out, I'll be on my way."
+          },
+          {
+            "stringId": "1374802162112843776",
+            "femaleVariant": "Sure, why not."
+          },
+          {
+            "stringId": "1374802162112843792",
+            "femaleVariant": "Drop me off at the next corner, will ya?"
+          },
+          {
+            "stringId": "1374802162129620992",
+            "femaleVariant": "Just till the end of the day?"
+          },
+          {
+            "stringId": "1374802162146398220",
+            "femaleVariant": "Still got no idea what it is you want from me.",
+            "maleVariant": "I still got no idea what it is you want from me."
+          },
+          {
+            "stringId": "1374802678230339584",
+            "femaleVariant": "Still have no idea what you want me to do."
+          },
+          {
+            "stringId": "1374803224110616576",
+            "femaleVariant": "We're almost at Gloria El-Ahmar's."
+          },
+          {
+            "stringId": "1374805886336028672",
+            "femaleVariant": "Till the end of the day."
+          },
+          {
+            "stringId": "1374806005471039488",
+            "femaleVariant": "No one will force you to stay."
+          },
+          {
+            "stringId": "1374806142490562560",
+            "femaleVariant": "It's easy money. Just, uh... give it a thought."
+          },
+          {
+            "stringId": "1374806377354809344",
+            "femaleVariant": "Remain by my side and talk to me. That's it."
+          },
+          {
+            "stringId": "1386324526545817600",
+            "femaleVariant": "I sense anything goin' wrong, I'm out."
+          },
+          {
+            "stringId": "1754758574545801216",
+            "femaleVariant": "Just wish I could've talked to Gloria, explained everything…"
+          },
+          {
+            "stringId": "1754759797185417216",
+            "femaleVariant": "If somehow I thought... I-I thought she'd find it in her heart to forgive me…"
+          },
+          {
+            "stringId": "1772143330161823744",
+            "femaleVariant": "Give me a moment, I need to prepare."
+          },
+          {
+            "stringId": "1805121511547756544",
+            "femaleVariant": "Fuck, here we go..."
+          },
+          {
+            "stringId": "1805121740103770112",
+            "femaleVariant": "Fuck... the hell possessed me to get in…"
+          },
+          {
+            "stringId": "1805236924935856128",
+            "femaleVariant": "You can lead others away from the path of darkness."
+          },
+          {
+            "stringId": "1805313140338483200",
+            "femaleVariant": "You know, still got that contract to kill you. What's to stop me from fulfilling?"
+          },
+          {
+            "stringId": "1805314352962101248",
+            "femaleVariant": "Me. One strange twitch, I kill you."
+          },
+          {
+            "stringId": "1805314734945755136",
+            "femaleVariant": "Hey, there's no reason to upset Vasquez. Your fixer will get what they want. I'll make sure of it."
+          },
+          {
+            "stringId": "1805317958083829760",
+            "femaleVariant": "How you figure that?"
+          },
+          {
+            "stringId": "1805318077822820352",
+            "femaleVariant": "Trust me. Everyone will be satisfied. I guarantee it."
+          },
+          {
+            "stringId": "1805410341890842624",
+            "femaleVariant": "Can't talk to Rachel?"
+          },
+          {
+            "stringId": "1805410686511636480",
+            "femaleVariant": "Could try taming Vasquez."
+          },
+          {
+            "stringId": "1805411707656888320",
+            "femaleVariant": "Are you lonely?"
+          },
+          {
+            "stringId": "1805411928864481280",
+            "femaleVariant": "You don't like Rachel? She's got the gift of the gab, surely.",
+            "maleVariant": "Don't like Rachel? She's got the gift of the gab, surely."
+          },
+          {
+            "stringId": "1805412002835226624",
+            "femaleVariant": "Try Vasquez. You can probably get him to speak if you dangle a dog treat in front of his nose."
+          },
+          {
+            "stringId": "1805412100596064256",
+            "femaleVariant": "Why? Are you lonely?"
+          },
+          {
+            "stringId": "1805415443187916800",
+            "femaleVariant": "I'm merely a springboard for her career. Heh, a high-value asset."
+          },
+          {
+            "stringId": "1805416469970313216",
+            "femaleVariant": "You're the one I want to talk to."
+          },
+          {
+            "stringId": "1805417130321534976",
+            "femaleVariant": "Go fuck yourself."
+          },
+          {
+            "stringId": "1805417863167107072",
+            "femaleVariant": "Vasquez sees me as nothing but a liar, scum that should've fried in the electric chair."
+          },
+          {
+            "stringId": "1805419384927707136",
+            "femaleVariant": "You're the one I want to talk to."
+          },
+          {
+            "stringId": "1805419849052610560",
+            "femaleVariant": "Yes, I am."
+          },
+          {
+            "stringId": "1805419905960927232",
+            "femaleVariant": "I truly need you."
+          },
+          {
+            "stringId": "1811090004730470400",
+            "femaleVariant": "Still on contract to kill you."
+          },
+          {
+            "stringId": "1812492135626727428",
+            "femaleVariant": "Who can blame her?"
+          },
+          {
+            "stringId": "1812496194135941120",
+            "femaleVariant": "Huh, time to grab a bite to eat."
+          },
+          {
+            "stringId": "1812508839962501120",
+            "femaleVariant": "Who could blame her? Not easy to forgive your son's murderer.",
+            "maleVariant": "Who can blame her? It's not easy to forgive your son's murderer."
+          },
+          {
+            "stringId": "1812508903984357376",
+            "femaleVariant": "Hey, probably would've forgiven you if that had been me."
+          },
+          {
+            "stringId": "1812508984900870144",
+            "femaleVariant": "Gloria should have forgiven you."
+          },
+          {
+            "stringId": "1812526066673672192",
+            "femaleVariant": "Where we gonna eat?"
+          },
+          {
+            "stringId": "1812529919594881024",
+            "femaleVariant": "Where're we eatin'?"
+          },
+          {
+            "stringId": "1812530472840355840",
+            "femaleVariant": "Uhh, PieZ."
+          },
+          {
+            "stringId": "1812531461219704832",
+            "femaleVariant": "They do a great cup of coffee."
+          },
+          {
+            "stringId": "1812532582743040000",
+            "femaleVariant": "Stephenson, we all knew how that would end."
+          },
+          {
+            "stringId": "1812551452816072704",
+            "femaleVariant": "\"If you forgive anyone their sins, they are forgiven. If you do not forgive them, they are not forgiven.\" Pff... ugh."
+          },
+          {
+            "stringId": "1812609010662662144",
+            "femaleVariant": "But you're not her, are you? Nobody killed your son."
+          },
+          {
+            "stringId": "1812609436887834624",
+            "femaleVariant": "Vasquez!"
+          },
+          {
+            "stringId": "1812610089655754756",
+            "femaleVariant": "Really gonna submit, let yourself get crucified?"
+          },
+          {
+            "stringId": "1812610929422524416",
+            "femaleVariant": "PieZ serves up a killer cheesecake."
+          },
+          {
+            "stringId": "1812611067364794368",
+            "femaleVariant": "Making a braindance of a crucifixion? Really?"
+          },
+          {
+            "stringId": "1812611555397230592",
+            "femaleVariant": "You really wanna do this? Get nailed to a cross?"
+          },
+          {
+            "stringId": "1812611622774530048",
+            "femaleVariant": "Really aim to spin a virtu of your crucifixion?",
+            "maleVariant": "You really aim to spin a virtu of your crucifixion?"
+          },
+          {
+            "stringId": "1812611690168606720",
+            "femaleVariant": "Got a killer cheesecake at PieZ…"
+          },
+          {
+            "stringId": "1812612215916224512",
+            "femaleVariant": "It is something I must do."
+          },
+          {
+            "stringId": "1812619046004744192",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "1812625832103403520",
+            "femaleVariant": "Ugh, yes, really."
+          },
+          {
+            "stringId": "1812625944309424128",
+            "femaleVariant": "You'll be kickin' up a shitstorm..."
+          },
+          {
+            "stringId": "1812626139747213312",
+            "femaleVariant": "Haters gonna hate."
+          },
+          {
+            "stringId": "1812628354406834176",
+            "femaleVariant": "For if this won't shake the world to its core, and wake us from our collective nightmare, then nothing will."
+          },
+          {
+            "stringId": "1812636581299249152",
+            "femaleVariant": "I'm lactose intolerant."
+          },
+          {
+            "stringId": "1812636780478357504",
+            "femaleVariant": "How 'bout vegan avocado ice cream, then?"
+          },
+          {
+            "stringId": "1833431425571381252",
+            "femaleVariant": "Can't ever truly know Night City."
+          },
+          {
+            "stringId": "1833432267233976320",
+            "femaleVariant": "How well do you know the city?"
+          },
+          {
+            "stringId": "1833433583926665216",
+            "femaleVariant": "Why's it matter?"
+          },
+          {
+            "stringId": "1833434232483504128",
+            "femaleVariant": "Why does it matter?",
+            "maleVariant": "Why's it matter?"
+          },
+          {
+            "stringId": "1833434516186226688",
+            "femaleVariant": "Ah, just curious. Happen to like it out here is all."
+          },
+          {
+            "stringId": "1833434680921710592",
+            "femaleVariant": "Can't know Night City well, ever. It's always changing... always surprising. Part of its charm.",
+            "maleVariant": "You can't know Night City well, ever. It's always changin', always surprisin'. Part of its charm."
+          },
+          {
+            "stringId": "1833436625266827264",
+            "femaleVariant": "Hm, true that."
+          },
+          {
+            "stringId": "1857678486558760960",
+            "femaleVariant": "Ehh, take Stephenson inside, grab us all a table."
+          },
+          {
+            "stringId": "1857680234023247872",
+            "femaleVariant": "Need a word with our stowaway here."
+          }
+        ]
+      }
+
+
+

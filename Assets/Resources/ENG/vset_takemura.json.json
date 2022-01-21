@@ -1,0 +1,370 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1796550020769497092",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"さあ、かかってこい！\" t=\"Let the festivities begin!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550020803051524",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ふん、無駄な努力を\" t=\"I do not know why they even try.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550020853383172",
+            "femaleVariant": "Careful, grenade!"
+          },
+          {
+            "stringId": "1796550020920492036",
+            "femaleVariant": "Oh, I missed this!"
+          },
+          {
+            "stringId": "1796550020937269252",
+            "femaleVariant": "Not much longer now!"
+          },
+          {
+            "stringId": "1796550021004378116",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ゴミの多い街だ！\" t=\"Fucking Night City!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550021037932548",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"後悔しても遅いぞ！\" t=\"You made a big mistake!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550021071486980",
+            "femaleVariant": "This will buy us some time!"
+          },
+          {
+            "stringId": "1796550021105041412",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"アラサカ様万歳！\" t=\"For Arasaka-sama!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550021155373060",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"くっ… 息が… できん…\" t=\"I... can't... breathe...\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550021390254084",
+            "femaleVariant": "I can wait. It is not me who is dying."
+          },
+          {
+            "stringId": "1796550021423808516",
+            "femaleVariant": "Do you have what they call \"ADD?\""
+          },
+          {
+            "stringId": "1796550021474140164",
+            "femaleVariant": "Ready to give your full attention?"
+          },
+          {
+            "stringId": "1796550021507694596",
+            "femaleVariant": "Shall we continue?"
+          },
+          {
+            "stringId": "1796550021541249028",
+            "femaleVariant": "There is no time to waste, V."
+          },
+          {
+            "stringId": "1796550021591580676",
+            "femaleVariant": "V?"
+          },
+          {
+            "stringId": "1796550021809684484",
+            "femaleVariant": "V."
+          },
+          {
+            "stringId": "1796550021826461700",
+            "femaleVariant": "It is good you are here."
+          },
+          {
+            "stringId": "1796550021977456644",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ちゃんと前を見て歩け！\" t=\"Like a blind man without canes!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "1796550022027788292",
+            "femaleVariant": "Argh, V! Control your movements!"
+          },
+          {
+            "stringId": "1966134070640254980",
+            "femaleVariant": "Are you still there?"
+          },
+          {
+            "stringId": "1966134070657032196",
+            "femaleVariant": "Let us be quick."
+          },
+          {
+            "stringId": "2238853762959908864",
+            "femaleVariant": "The time for doubts has passed."
+          },
+          {
+            "stringId": "2238859762962112520",
+            "femaleVariant": "Get out. Let's not waste time."
+          },
+          {
+            "stringId": "2238859883237974024",
+            "femaleVariant": "You aim to be found? Let's move."
+          },
+          {
+            "stringId": "2248174479292407816",
+            "femaleVariant": "Sharpen your mind."
+          },
+          {
+            "stringId": "2248174479376293896",
+            "femaleVariant": "I have eagerly awaited this!"
+          },
+          {
+            "stringId": "2248174479745392648",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"流れに身を任せよう！\" t=\"Feel the momentum!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174479795724296",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"すぐに終わらせてやる！\" t=\"This will be quick!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174480030605320",
+            "femaleVariant": "It had been too long."
+          },
+          {
+            "stringId": "2248174480080936968",
+            "femaleVariant": "I have nothing more to add."
+          },
+          {
+            "stringId": "2248174480114491400",
+            "femaleVariant": "Ahh… How hungry I was."
+          },
+          {
+            "stringId": "2248174480164823048",
+            "femaleVariant": "Do not charge recklessly!"
+          },
+          {
+            "stringId": "2248174480198377480",
+            "femaleVariant": "This ends poorly if you black out!"
+          },
+          {
+            "stringId": "2248174480231931912",
+            "femaleVariant": "Retreat! Gather your strength!"
+          },
+          {
+            "stringId": "2248174482798845960",
+            "femaleVariant": "V! I cannot manage alone!"
+          },
+          {
+            "stringId": "2248174482849177608",
+            "femaleVariant": "I require backup!"
+          },
+          {
+            "stringId": "2248174482899509256",
+            "femaleVariant": "Help! V!"
+          },
+          {
+            "stringId": "2248174482933063688",
+            "femaleVariant": "Reloading!"
+          },
+          {
+            "stringId": "2248174482966618120",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"弾切れだ！\" t=\"Clip's empty…\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483016949768",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"リロードしなければ\" t=\"Need to reload.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483117613064",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"手榴弾だ！\" t=\"Grenade!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483151167496",
+            "femaleVariant": "Incoming! Grenade!"
+          },
+          {
+            "stringId": "2248174483268608008",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"受け取れ！\" t=\"This is for you!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483318939656",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"とくと味わえ！\" t=\"You'll enjoy this!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483352494088",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ざまあみろ！\" t=\"One less!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483386048520",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"もらった！\" t=\"I have you!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483419602952",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"手加減無用だ！\" t=\"I hope that didn't hurt!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174483973251080",
+            "femaleVariant": "Stay alert – we may be in sniper crosshairs!"
+          },
+          {
+            "stringId": "2248174484006805512",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"頭出すな！ 狙撃手だ！\" t=\"Heads down! Sniper!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484073914376",
+            "femaleVariant": "Enemy turret!"
+          },
+          {
+            "stringId": "2248174484124246024",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"タレットに気をつけろ！\" t=\"Watch out for the turret!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484208132104",
+            "femaleVariant": "Careful, active netrunner!"
+          },
+          {
+            "stringId": "2248174484241686536",
+            "femaleVariant": "Hostile netrunner alert to you!"
+          },
+          {
+            "stringId": "2248174484342349828",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ドローンは好かん！\" t=\"I despise drones!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484392681480",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"空飛ぶゴミめ\" t=\"Flying vermin!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484493344768",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"気をつけろ、オクタントだ！\" t=\"Look out, an Octant!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484543676424",
+            "femaleVariant": "This does not bode well!"
+          },
+          {
+            "stringId": "2248174484627562504",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"ブリキを相手にせざるを得ないとは！\" t=\"I prefer a fight human on human!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484677894152",
+            "femaleVariant": "Do you see what I see?!"
+          },
+          {
+            "stringId": "2248174484761780232",
+            "femaleVariant": "Now comes the real test!"
+          },
+          {
+            "stringId": "2248174484795334664",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"面倒な奴が現れた\" t=\"We have a problem.\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174484895997960",
+            "femaleVariant": "And who is this wretch?!"
+          },
+          {
+            "stringId": "2248174484963106824",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"何だ、あれは…？\" t=\"What the hell…!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174485046992904",
+            "femaleVariant": "Now! We have the advantage!"
+          },
+          {
+            "stringId": "2248174485080547336",
+            "femaleVariant": "They are reloading! We attack now!"
+          },
+          {
+            "stringId": "2248174485164433416",
+            "femaleVariant": "Yes? Moving then?"
+          },
+          {
+            "stringId": "2248174485197987848",
+            "femaleVariant": "Well, let's go."
+          },
+          {
+            "stringId": "2248174485248319488",
+            "femaleVariant": "Biochip got your brain? Let's move."
+          },
+          {
+            "stringId": "2248174485281873928",
+            "femaleVariant": "This is not a good time to ponder life."
+          },
+          {
+            "stringId": "2248174485332205576",
+            "femaleVariant": "Quickly, V."
+          },
+          {
+            "stringId": "2248174485382537224",
+            "femaleVariant": "Keep a low profile this time, yes?"
+          },
+          {
+            "stringId": "2248174485416091656",
+            "femaleVariant": "Much better. But remember we do not want attention."
+          },
+          {
+            "stringId": "2248174485499977736",
+            "femaleVariant": "There."
+          },
+          {
+            "stringId": "2248174485550309384",
+            "femaleVariant": "We are not alone."
+          },
+          {
+            "stringId": "2248174485600641032",
+            "femaleVariant": "I see someone."
+          },
+          {
+            "stringId": "2248174485634195464",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"気づかれたか…？\" t=\"Did they notice…?\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174485701304320",
+            "femaleVariant": "Be careful!"
+          },
+          {
+            "stringId": "2248174485734858760",
+            "femaleVariant": "Did they notice us?"
+          },
+          {
+            "stringId": "2248174485768413192",
+            "femaleVariant": "Their security is comprehensive. Think before you step."
+          },
+          {
+            "stringId": "2248174485818744836",
+            "femaleVariant": "You must be vigilant in this area."
+          },
+          {
+            "stringId": "2248174485919408136",
+            "femaleVariant": "You plan to leave them exposed?"
+          },
+          {
+            "stringId": "2248174485952962568",
+            "femaleVariant": "It is in plain sight…"
+          },
+          {
+            "stringId": "2248174486036848648",
+            "femaleVariant": "<kiroshi l=\"jpn\" o=\"さあ来い！\" t=\"Come on!\" b=\"\" a=\"\"/>"
+          },
+          {
+            "stringId": "2248174486087180296",
+            "femaleVariant": "Hahaha!"
+          },
+          {
+            "stringId": "2248174486154289160",
+            "femaleVariant": "Quietly…!"
+          },
+          {
+            "stringId": "2248174486204620808",
+            "femaleVariant": "Exercise caution."
+          }
+        ]
+      }
+
+
+

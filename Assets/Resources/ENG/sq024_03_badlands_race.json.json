@@ -1,0 +1,280 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1395316292542537728",
+            "femaleVariant": "Ladies and gentlemen! Get your pants on right, strap in and fire up your engines!"
+          },
+          {
+            "stringId": "1397864879895400448",
+            "femaleVariant": "Three!"
+          },
+          {
+            "stringId": "1397866326594736128",
+            "femaleVariant": "Two!"
+          },
+          {
+            "stringId": "1397866444605673472",
+            "femaleVariant": "One!"
+          },
+          {
+            "stringId": "1397866521596317696",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1751898020796964864",
+            "femaleVariant": "Hey, Claire. Next race – you ready?"
+          },
+          {
+            "stringId": "1751899302358163456",
+            "femaleVariant": "Second of four, I hope. Ready to go off-road?"
+          },
+          {
+            "stringId": "1753410021805268992",
+            "femaleVariant": "Fucking sandstorm... Careful, V."
+          },
+          {
+            "stringId": "1783629146116595712",
+            "femaleVariant": "Bumpy up ahead."
+          },
+          {
+            "stringId": "1783629176986673152",
+            "femaleVariant": "They're gaining."
+          },
+          {
+            "stringId": "1783629208276180992",
+            "femaleVariant": "The guy in front, don't let him pull away."
+          },
+          {
+            "stringId": "1783629234113093632",
+            "femaleVariant": "Hold on, mag's empty, reloading..."
+          },
+          {
+            "stringId": "1783629270234439680",
+            "femaleVariant": "Good, one gunner down."
+          },
+          {
+            "stringId": "1783629300366319616",
+            "femaleVariant": "It's ours to lose now, V. Stay focused."
+          },
+          {
+            "stringId": "1832824050658844672",
+            "femaleVariant": "It'll be a tough one. Off-road, lots of lead flying."
+          },
+          {
+            "stringId": "1832824292452081664",
+            "femaleVariant": "We'll take Beast. Wanna try her out in the field."
+          },
+          {
+            "stringId": "1856281910533296128",
+            "femaleVariant": "Nova. FYI, I'm already here."
+          },
+          {
+            "stringId": "1856282299513049088",
+            "femaleVariant": "Perfect. Join you in a sec."
+          },
+          {
+            "stringId": "1856290053053091840",
+            "femaleVariant": "Sounds good, see ya."
+          },
+          {
+            "stringId": "1856291920441118724",
+            "femaleVariant": "Did you say it'll be tough?"
+          },
+          {
+            "stringId": "1856292026338906112",
+            "femaleVariant": "Think this one'll be tough?"
+          },
+          {
+            "stringId": "1856292045263605760",
+            "femaleVariant": "Looks like Aldecaldos fronted a solid team."
+          },
+          {
+            "stringId": "1856292068768485376",
+            "femaleVariant": "Not a fan-friendly event, is it?",
+            "maleVariant": "S'not a fan-friendly event, is it?"
+          },
+          {
+            "stringId": "1856292632164175872",
+            "femaleVariant": "Lotta nomads here."
+          },
+          {
+            "stringId": "1856292676858679296",
+            "femaleVariant": "Don't see many fans."
+          },
+          {
+            "stringId": "1856293799086657536",
+            "femaleVariant": "Badlands, so no fucking around. Anything goes in this race."
+          },
+          {
+            "stringId": "1856294628401221632",
+            "femaleVariant": "Who'd wanna bake in this sun?"
+          },
+          {
+            "stringId": "1856294932001722368",
+            "femaleVariant": "Speed, carnage, a crunching metal symphony? Yeah, dull stuff."
+          },
+          {
+            "stringId": "1856296728774447104",
+            "femaleVariant": "This is their race, or so they think."
+          },
+          {
+            "stringId": "1856297039337492480",
+            "femaleVariant": "Are they wrong?"
+          },
+          {
+            "stringId": "1856297156308242432",
+            "femaleVariant": "Nomad team usually wins this one, so no, guess not."
+          },
+          {
+            "stringId": "1856297800670777344",
+            "femaleVariant": "So you'll have your hands full."
+          },
+          {
+            "stringId": "1856298334555344896",
+            "femaleVariant": "You too. One mistake and we'll be a four-ton tumbleweed."
+          },
+          {
+            "stringId": "1856299040423153664",
+            "femaleVariant": "I can do this."
+          },
+          {
+            "stringId": "1856299347832082432",
+            "femaleVariant": "OK, I'm just gonna melt under that sun, sooo… gonna wait in the car."
+          },
+          {
+            "stringId": "1856299848833306624",
+            "femaleVariant": "Sure."
+          },
+          {
+            "stringId": "1856320349567848448",
+            "femaleVariant": "Hold tight, Claire."
+          },
+          {
+            "stringId": "1856320780272537600",
+            "femaleVariant": "Follow a race horse too tight ya might get kicked.",
+            "maleVariant": "Ya follow a race horse too tight ya might get kicked."
+          },
+          {
+            "stringId": "1856321858980417536",
+            "femaleVariant": "I am trying, you know."
+          },
+          {
+            "stringId": "1856323240869367808",
+            "femaleVariant": "The sand lie light on his gut."
+          },
+          {
+            "stringId": "1856324243643568128",
+            "femaleVariant": "Got it."
+          },
+          {
+            "stringId": "1935735591246315520",
+            "femaleVariant": "Thirty seconds and counting!"
+          },
+          {
+            "stringId": "1935737086012375040",
+            "femaleVariant": "Hey, you!"
+          },
+          {
+            "stringId": "1935739234720759808",
+            "femaleVariant": "You hear me?"
+          },
+          {
+            "stringId": "1935739433916645380",
+            "femaleVariant": "You there! Hey!"
+          },
+          {
+            "stringId": "1935842942427152384",
+            "femaleVariant": "Ignore him. Luigi tries to get in people's heads."
+          },
+          {
+            "stringId": "1935844450229108736",
+            "femaleVariant": "What's up?"
+          },
+          {
+            "stringId": "1935845019463270400",
+            "femaleVariant": "Yeah, what's up?"
+          },
+          {
+            "stringId": "1935845998950694912",
+            "femaleVariant": "Just wanted to wish you luck."
+          },
+          {
+            "stringId": "1935847870281367552",
+            "femaleVariant": "Thanks."
+          },
+          {
+            "stringId": "1938662150018043904",
+            "femaleVariant": "Got another race to run, huh."
+          },
+          {
+            "stringId": "1938662242728939520",
+            "femaleVariant": "Hey, V. Good to see you again."
+          },
+          {
+            "stringId": "2055025166241579012",
+            "femaleVariant": "[Stand]"
+          },
+          {
+            "stringId": "2056328576408567808",
+            "femaleVariant": "[Sit and wait]"
+          },
+          {
+            "stringId": "2237382175312973828",
+            "femaleVariant": "I really thought you'd stand me up again. I thought Bouli would have to ride shotgun."
+          },
+          {
+            "stringId": "2237382175413637120",
+            "femaleVariant": "Listen, kid. You're to shoot holes in those Aldecaldo rat bastards and not give a shit about the rest."
+          },
+          {
+            "stringId": "2237382175480745992",
+            "femaleVariant": "Out in the Badlands Luigi's the man!"
+          },
+          {
+            "stringId": "2237382175581409288",
+            "femaleVariant": "Hey, guys, remember! Maximum madness!"
+          },
+          {
+            "stringId": "2247736558789726208",
+            "femaleVariant": "Bouli is a fantastic shot."
+          },
+          {
+            "stringId": "2247737851675545600",
+            "femaleVariant": "He is, he is... but he's talking, always. Too much. His mouth never stops running. It's distracting – I take the turns too wide."
+          },
+          {
+            "stringId": "2247739784410828800",
+            "femaleVariant": "So next time I actually don't make it, there's duct tape in the trunk. Just sayin'."
+          },
+          {
+            "stringId": "2247759225815175168",
+            "femaleVariant": "Uh, yeah? It's obvious?"
+          },
+          {
+            "stringId": "2247759452357922816",
+            "femaleVariant": "This is your first time out, kid – nothing's fuckin' obvious. Fail to take them out along the first leg, there'll be no scratch at the finish line, guaranteed."
+          },
+          {
+            "stringId": "2247761661481062400",
+            "femaleVariant": "I know, I know... \"The Badlands – our lands,\" \"Us or them\" and so on... I've heard it, hundreds of times."
+          }
+        ]
+      }
+
+
+

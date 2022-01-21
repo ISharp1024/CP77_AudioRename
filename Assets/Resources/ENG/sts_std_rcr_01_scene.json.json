@@ -1,0 +1,103 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1418113421894770688",
+            "femaleVariant": "You'll have the rest in a second."
+          },
+          {
+            "stringId": "1780764228396167168",
+            "femaleVariant": "I'm sorry, do you have an appointment?"
+          },
+          {
+            "stringId": "1780765505863725056",
+            "femaleVariant": "Looking for Vic."
+          },
+          {
+            "stringId": "1780786660842582016",
+            "femaleVariant": "Lookin' for Vic. Vic Vega."
+          },
+          {
+            "stringId": "1780787099969433600",
+            "femaleVariant": "Never heard of him. You must have the wrong address."
+          },
+          {
+            "stringId": "1780828557493579776",
+            "femaleVariant": "What do you know about this building?"
+          },
+          {
+            "stringId": "1780828841414406144",
+            "femaleVariant": "Nice place. There any office space to rent?"
+          },
+          {
+            "stringId": "1783653320641392640",
+            "femaleVariant": "Broken. Something's up with the drain trap."
+          },
+          {
+            "stringId": "1783727540041854976",
+            "femaleVariant": "I'm afraid that won't be possible. All our spaces are currently in use."
+          },
+          {
+            "stringId": "1912719084156669952",
+            "femaleVariant": "Oh. By whom?"
+          },
+          {
+            "stringId": "1912723822243794944",
+            "femaleVariant": "I'm sorry, but I can't reveal that information."
+          },
+          {
+            "stringId": "1912726566878892032",
+            "femaleVariant": "I'm here to get rid of unwanted documents."
+          },
+          {
+            "stringId": "1912727948717510656",
+            "femaleVariant": "I'm here to get rid of some unwanted documents...?",
+            "maleVariant": "I'm here to get rid of some unwanted documents."
+          },
+          {
+            "stringId": "1912733665100877824",
+            "femaleVariant": "Beg pardon? Which documents?"
+          },
+          {
+            "stringId": "1912741328765374464",
+            "femaleVariant": "How am I s'posed to know? Job said come here, so here I am."
+          },
+          {
+            "stringId": "1912742302665986048",
+            "femaleVariant": "Nobody told me anything about any documents."
+          },
+          {
+            "stringId": "1912742634955526144",
+            "femaleVariant": "Hm. Looks like you've got a real mess in here. Little audit would be in order, don't ya think?"
+          },
+          {
+            "stringId": "1912743375971602432",
+            "femaleVariant": "OK, wait one moment, let me check in the back..."
+          },
+          {
+            "stringId": "1912744098952171520",
+            "femaleVariant": "No one knows anything about any document removal. It must be a mistake."
+          },
+          {
+            "stringId": "1912744874663530496",
+            "femaleVariant": "Guess someone in HQ had a short circ... Thanks anyway."
+          }
+        ]
+      }
+
+
+

@@ -1,0 +1,176 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1857631696514469888",
+            "femaleVariant": "Please provide your destination."
+          },
+          {
+            "stringId": "1857632815487668224",
+            "femaleVariant": "Bring up district analytics first."
+          },
+          {
+            "stringId": "1857633009952378880",
+            "femaleVariant": "Bring up district analytics."
+          },
+          {
+            "stringId": "1857633445388242944",
+            "femaleVariant": "Destination – Lizzie's Bar."
+          },
+          {
+            "stringId": "1857634072805789696",
+            "femaleVariant": "Noted, en route."
+          },
+          {
+            "stringId": "1857637583052361732",
+            "femaleVariant": "[Take drink]"
+          },
+          {
+            "stringId": "1857669146985123840",
+            "femaleVariant": "[Switch on news]"
+          },
+          {
+            "stringId": "1857669869764366336",
+            "femaleVariant": "[Switch off news]"
+          },
+          {
+            "stringId": "1861757367541059584",
+            "femaleVariant": "This is N54 News broadcasting with a breaking story for you."
+          },
+          {
+            "stringId": "1861759913315815424",
+            "femaleVariant": "A conference of the European Space Council screeched to a grisly halt following a failure in a neural stabilization system."
+          },
+          {
+            "stringId": "1861762178474856448",
+            "femaleVariant": "Five European Space Council members are dead, while three remain in critical condition."
+          },
+          {
+            "stringId": "1861794168632791040",
+            "femaleVariant": "Hello, V."
+          },
+          {
+            "stringId": "1861794609806462976",
+            "femaleVariant": "Yes? We weren't scheduled to connect until the end of the week.",
+            "maleVariant": "Yes? We weren't scheduled to connect till the end of the week."
+          },
+          {
+            "stringId": "1861798065845850112",
+            "femaleVariant": "Quantified Satori received notification of a somewhat troubling biometric reading – I felt I should call."
+          },
+          {
+            "stringId": "1861800049885859840",
+            "femaleVariant": "Is everything in order?"
+          },
+          {
+            "stringId": "1861845181821636608",
+            "femaleVariant": "The council members were all wearing Biotechnica provided devices. The corporation's representatives have, as yet, refused to comment."
+          },
+          {
+            "stringId": "1861845945033969664",
+            "femaleVariant": "Stay with N54 News for the latest."
+          },
+          {
+            "stringId": "1862006856285704192",
+            "femaleVariant": "Access granted."
+          },
+          {
+            "stringId": "1862007242732097540",
+            "femaleVariant": "Access denied."
+          },
+          {
+            "stringId": "1866201421606481920",
+            "femaleVariant": "Increased NCPD presence and activity has been reported in Heywood. No official statement has been forthcoming."
+          },
+          {
+            "stringId": "1866202560209022976",
+            "femaleVariant": "Intercepted radio communications suggest MaxTac has been sent to the area."
+          },
+          {
+            "stringId": "1866203016196976640",
+            "femaleVariant": "All other districts exhibit activity within expected parameters."
+          },
+          {
+            "stringId": "1866205848811794432",
+            "femaleVariant": "A widespread power failure has been reported in Santo Domingo."
+          },
+          {
+            "stringId": "1866231156520710144",
+            "femaleVariant": "Everything's dandy."
+          },
+          {
+            "stringId": "1866231161184776192",
+            "femaleVariant": "Dealin' with a temporary nuisance. Nothin' you should worry about.",
+            "maleVariant": "I'm dealin' with a temporary nuisance. Nothin' you should worry about."
+          },
+          {
+            "stringId": "1866231163248373760",
+            "femaleVariant": "Things're dandy, everything is."
+          },
+          {
+            "stringId": "1866231203614355456",
+            "femaleVariant": "Just think back to our last session."
+          },
+          {
+            "stringId": "1866232202110365696",
+            "femaleVariant": "Honestly? Things're only all right."
+          },
+          {
+            "stringId": "1866309294390964224",
+            "femaleVariant": "The neuromotor relaxation exercises, three times a day – they'll soothe and lift your spirit, I know this."
+          },
+          {
+            "stringId": "1866310044718395392",
+            "femaleVariant": "Sure, OK. See you later."
+          },
+          {
+            "stringId": "1879248799373742080",
+            "femaleVariant": "No designated landing site has been detected at the destination."
+          },
+          {
+            "stringId": "1879249393840836608",
+            "femaleVariant": "Find a spot close to the bar, as close as you can. Fuck procedures."
+          },
+          {
+            "stringId": "1966034147636867072",
+            "femaleVariant": "Initiating landing sequence based on new parameters."
+          },
+          {
+            "stringId": "1966124675397251072",
+            "femaleVariant": "Authorities are still looking into what might have caused this shocking incident."
+          },
+          {
+            "stringId": "1973309117342699524",
+            "femaleVariant": "[Get in]"
+          },
+          {
+            "stringId": "1985193020629118976",
+            "femaleVariant": "Our reporter is on the scene. We'll have updates on developments as they come to light."
+          },
+          {
+            "stringId": "2031741058951520256",
+            "femaleVariant": "[Drink]"
+          },
+          {
+            "stringId": "2057919070294089728",
+            "femaleVariant": "Lizzie's Bar."
+          }
+        ]
+      }
+
+
+

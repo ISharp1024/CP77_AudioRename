@@ -1,0 +1,224 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1722857444705574912",
+            "femaleVariant": "Did you prepare everything?"
+          },
+          {
+            "stringId": "1805351569475899392",
+            "femaleVariant": "Is it not too early for champagne?"
+          },
+          {
+            "stringId": "1805352240547762176",
+            "femaleVariant": "Ahem!"
+          },
+          {
+            "stringId": "1805355264976490496",
+            "femaleVariant": "But if it helps you calm down…"
+          },
+          {
+            "stringId": "1805365726107537412",
+            "femaleVariant": "No thanks. My hands are fine."
+          },
+          {
+            "stringId": "1805365991573426176",
+            "femaleVariant": "[Accept drink] Sure, might clear my head."
+          },
+          {
+            "stringId": "1805369893903536128",
+            "femaleVariant": "No need. My hands are fine."
+          },
+          {
+            "stringId": "1805370042147016704",
+            "femaleVariant": "Why not?"
+          },
+          {
+            "stringId": "1805370345344864256",
+            "femaleVariant": "Huh, weird…",
+            "maleVariant": "Ugh, weird…"
+          },
+          {
+            "stringId": "1805431184915566592",
+            "femaleVariant": "Your central nervous system."
+          },
+          {
+            "stringId": "1805432210859102208",
+            "femaleVariant": "Hmph, what is strange is that this has only happened now."
+          },
+          {
+            "stringId": "1805442880900042752",
+            "femaleVariant": "She asked you a question.",
+            "maleVariant": "He asked you a question."
+          },
+          {
+            "stringId": "1805442981294903296",
+            "femaleVariant": "And I have no answer for her.",
+            "maleVariant": "And I have no answer for him."
+          },
+          {
+            "stringId": "1805445333880016896",
+            "femaleVariant": "You will lose your hearing next. Then your sight."
+          },
+          {
+            "stringId": "1825600280806166528",
+            "femaleVariant": "Meaning what?"
+          },
+          {
+            "stringId": "1825600766640787456",
+            "femaleVariant": "It's a shambles."
+          },
+          {
+            "stringId": "1825611203411316740",
+            "femaleVariant": "[Finish champagne] Well, no time to lose, then."
+          },
+          {
+            "stringId": "1825612911348682752",
+            "femaleVariant": "[Set glass down] Not thirsty anymore."
+          },
+          {
+            "stringId": "1825613395589468160",
+            "femaleVariant": "Any of it reversible?"
+          },
+          {
+            "stringId": "1825615414224097280",
+            "femaleVariant": "Not here, not without proper equipment."
+          },
+          {
+            "stringId": "1825616735782178816",
+            "femaleVariant": "Well, no time to waste, then."
+          },
+          {
+            "stringId": "1825616917714309120",
+            "femaleVariant": "Not thirsty anymore."
+          },
+          {
+            "stringId": "1825618177230245888",
+            "femaleVariant": "Might help clear my head."
+          },
+          {
+            "stringId": "1825619202989232128",
+            "femaleVariant": "It's flavorless."
+          },
+          {
+            "stringId": "1825622151467503616",
+            "femaleVariant": "And the rest of you? I might beg to differ, V."
+          },
+          {
+            "stringId": "1825630904694738944",
+            "femaleVariant": "Does anyone else have trembling hands?"
+          },
+          {
+            "stringId": "1825694657226346500",
+            "femaleVariant": "Everything's fine."
+          },
+          {
+            "stringId": "1825695080834273280",
+            "femaleVariant": "Felt better."
+          },
+          {
+            "stringId": "1825695772575666176",
+            "femaleVariant": "Rest of me's up to scratch, too."
+          },
+          {
+            "stringId": "1825695843409072128",
+            "femaleVariant": "Ugh, felt better."
+          },
+          {
+            "stringId": "1825696273476227072",
+            "femaleVariant": "That is a lie."
+          },
+          {
+            "stringId": "1825696532533219328",
+            "femaleVariant": "She faded out in the car.",
+            "maleVariant": "He faded out in the car."
+          },
+          {
+            "stringId": "1825697572955492352",
+            "femaleVariant": "Just tired."
+          },
+          {
+            "stringId": "1825698140193165312",
+            "femaleVariant": "Your central nervous system is a shambles."
+          },
+          {
+            "stringId": "1825699208515948544",
+            "femaleVariant": "That is to be expected."
+          },
+          {
+            "stringId": "1825699578403229696",
+            "femaleVariant": "To be honest, it's a miracle you can still walk."
+          },
+          {
+            "stringId": "1825700135524241408",
+            "femaleVariant": "We must make haste."
+          },
+          {
+            "stringId": "1825701721021485056",
+            "femaleVariant": "How do you mean?"
+          },
+          {
+            "stringId": "1825701784640688128",
+            "femaleVariant": "Get these, uh... blackouts..."
+          },
+          {
+            "stringId": "1825703608626057216",
+            "femaleVariant": "Her central nervous system is a shambles.",
+            "maleVariant": "His central nervous system is a shambles."
+          },
+          {
+            "stringId": "1825704809069416448",
+            "femaleVariant": "Hellman?"
+          },
+          {
+            "stringId": "1825705492237651968",
+            "femaleVariant": "If I had to guess..."
+          },
+          {
+            "stringId": "1825706499642363904",
+            "femaleVariant": "Honestly, it's a miracle she can still walk.",
+            "maleVariant": "Honestly, it's a miracle he can still walk."
+          },
+          {
+            "stringId": "1825710758219878400",
+            "femaleVariant": "Watch your tone, or it is you who will find it hard to walk."
+          },
+          {
+            "stringId": "1825712984506109952",
+            "femaleVariant": "Enough."
+          },
+          {
+            "stringId": "1825742389429276672",
+            "femaleVariant": "Is your nervous system a shambles, too?"
+          },
+          {
+            "stringId": "1825742622548692992",
+            "femaleVariant": "Any of it reversible?"
+          },
+          {
+            "stringId": "1825746766420381696",
+            "femaleVariant": "Once Yorinobu has been dealt with, we shall attend to your needs."
+          },
+          {
+            "stringId": "1825820404490309632",
+            "femaleVariant": "Quite."
+          }
+        ]
+      }
+
+
+

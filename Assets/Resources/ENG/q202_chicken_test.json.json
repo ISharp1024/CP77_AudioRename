@@ -1,0 +1,49 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1193887821014765568",
+            "femaleVariant": "[db_db]1. Beginning.",
+            "maleVariant": "[db_db]1. Motel"
+          },
+          {
+            "stringId": "1193888156273872896",
+            "femaleVariant": "[db_db]2. Badlands drive.",
+            "maleVariant": "[db_db]2. Motel Fight"
+          },
+          {
+            "stringId": "1193888374948106240",
+            "femaleVariant": "[db_db]3. Staging Camp.",
+            "maleVariant": "[db_db]4. Convoy"
+          },
+          {
+            "stringId": "1508485869316198400",
+            "femaleVariant": "[db_db]What is your relationship status going in to the epilogue?"
+          },
+          {
+            "stringId": "1668944128065298432",
+            "femaleVariant": "[db_db]What is your gender?"
+          },
+          {
+            "stringId": "1744452729416081408",
+            "femaleVariant": "[db_db]4. Crossing the border."
+          }
+        ]
+      }
+
+
+

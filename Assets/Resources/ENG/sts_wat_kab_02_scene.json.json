@@ -1,0 +1,535 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1650575251846041600",
+            "femaleVariant": "Your friend's in real bad shape. Get in here – I need your help!"
+          },
+          {
+            "stringId": "1651697741867618308",
+            "femaleVariant": "He ain't my friend."
+          },
+          {
+            "stringId": "1651698850757709824",
+            "femaleVariant": "I'm here to get you out."
+          },
+          {
+            "stringId": "1651700706435239936",
+            "femaleVariant": "You Lucy? Lucy Thackery?"
+          },
+          {
+            "stringId": "1651701008207024128",
+            "femaleVariant": "Your brother sent me. I'm here to get you out."
+          },
+          {
+            "stringId": "1651701675101360128",
+            "femaleVariant": "He's no choom of mine. I'm V."
+          },
+          {
+            "stringId": "1651702587245039616",
+            "femaleVariant": "I'm not Maelstrom, Lucy."
+          },
+          {
+            "stringId": "1656581285777608704",
+            "femaleVariant": "You can't be serious."
+          },
+          {
+            "stringId": "1659145328153432064",
+            "femaleVariant": "Bertie...? OK... OK, just a moment."
+          },
+          {
+            "stringId": "1659149889240928256",
+            "femaleVariant": "What's with him?"
+          },
+          {
+            "stringId": "1659149889257705476",
+            "femaleVariant": "They shot him, almost got him sorted out, but the bleeding started again..."
+          },
+          {
+            "stringId": "1659149889291259904",
+            "femaleVariant": "That's enough risk for one day."
+          },
+          {
+            "stringId": "1659149889291259916",
+            "femaleVariant": "What have you done?!"
+          },
+          {
+            "stringId": "1659149889291259932",
+            "femaleVariant": "You're in MY clinic! That was MY patient!"
+          },
+          {
+            "stringId": "1659149889291259956",
+            "femaleVariant": "Just doing MY job. Which is to get you outta here."
+          },
+          {
+            "stringId": "1659149889291259968",
+            "femaleVariant": "Fine. Go ahead."
+          },
+          {
+            "stringId": "1659149889324814336",
+            "femaleVariant": "Just finish up, already."
+          },
+          {
+            "stringId": "1659149889375145984",
+            "femaleVariant": "Look, we don't have time for this."
+          },
+          {
+            "stringId": "1659149889375146020",
+            "femaleVariant": "Tech they've got in here belongs in a scrapyard!"
+          },
+          {
+            "stringId": "1659149893452009472",
+            "femaleVariant": "Why are you doing this?"
+          },
+          {
+            "stringId": "1659149893468786696",
+            "femaleVariant": "I'm a doctor."
+          },
+          {
+            "stringId": "1659149893468786708",
+            "femaleVariant": "He probably killed more people than you'll ever save."
+          },
+          {
+            "stringId": "1659149893468786720",
+            "femaleVariant": "This is an operation, not a court hearing."
+          },
+          {
+            "stringId": "1659149897897971712",
+            "femaleVariant": "No."
+          },
+          {
+            "stringId": "1659149897897971724",
+            "femaleVariant": "I'm sorry?"
+          },
+          {
+            "stringId": "1659149897897971736",
+            "femaleVariant": "Enough of this shit. We don't have time."
+          },
+          {
+            "stringId": "1659149897897971748",
+            "femaleVariant": "He's gone..."
+          },
+          {
+            "stringId": "1659170953304051712",
+            "femaleVariant": "We gotta delta. Now."
+          },
+          {
+            "stringId": "1659172665133731840",
+            "femaleVariant": "Pressure's falling, same with temperature..."
+          },
+          {
+            "stringId": "1659176610665172992",
+            "femaleVariant": "He's going into shock!"
+          },
+          {
+            "stringId": "1679442817410502656",
+            "femaleVariant": "Your brother sent me."
+          },
+          {
+            "stringId": "1679605973487292416",
+            "femaleVariant": "He's dead."
+          },
+          {
+            "stringId": "1679615632801632256",
+            "femaleVariant": "Tell me – do you feel anything at all when you kill someone?"
+          },
+          {
+            "stringId": "1680631591544918020",
+            "femaleVariant": "I'm sorry."
+          },
+          {
+            "stringId": "1680631711938220032",
+            "femaleVariant": "No. Not a thing."
+          },
+          {
+            "stringId": "1680631748596436992",
+            "femaleVariant": "I didn't kill him."
+          },
+          {
+            "stringId": "1680632211530158080",
+            "femaleVariant": "Sorry.  You gotta understand, I'm here to protect you."
+          },
+          {
+            "stringId": "1680632309458767872",
+            "femaleVariant": "I didn't kill him."
+          },
+          {
+            "stringId": "1680632363212967936",
+            "femaleVariant": "Not a damn thing."
+          },
+          {
+            "stringId": "1680633193584496640",
+            "femaleVariant": "You didn't? The man died because you did nothing. Even after I asked for your help."
+          },
+          {
+            "stringId": "1680635148851580928",
+            "femaleVariant": "That's murder."
+          },
+          {
+            "stringId": "1680635605225410560",
+            "femaleVariant": "Let's go."
+          },
+          {
+            "stringId": "1680637039694155776",
+            "femaleVariant": "And of course. Change the subject."
+          },
+          {
+            "stringId": "1680645814782103552",
+            "femaleVariant": "Oh, so you're a tough girl, huh?",
+            "maleVariant": "Oh, so you're a tough guy, huh?"
+          },
+          {
+            "stringId": "1680655205962977280",
+            "femaleVariant": "We don't have time for this."
+          },
+          {
+            "stringId": "1680657181765373952",
+            "femaleVariant": "You'll crack eventually. You'll see."
+          },
+          {
+            "stringId": "1680658293289488384",
+            "femaleVariant": "Protect me? Nobody's gonna pay you for killing him."
+          },
+          {
+            "stringId": "1680658360113139712",
+            "femaleVariant": "Think whatever you want about me. But come on. Please."
+          },
+          {
+            "stringId": "1680845654409891840",
+            "femaleVariant": "Lucy's safe. You can come pick her up."
+          },
+          {
+            "stringId": "1680848107138207744",
+            "femaleVariant": "OK. My guy'll be there in a few seconds."
+          },
+          {
+            "stringId": "1680936314777391108",
+            "femaleVariant": "Had to do it."
+          },
+          {
+            "stringId": "1683812967706808320",
+            "femaleVariant": "Your ride. Get in."
+          },
+          {
+            "stringId": "1683815158895104000",
+            "femaleVariant": "No need to thank me."
+          },
+          {
+            "stringId": "1683816573650620416",
+            "femaleVariant": "Had to do it. Couldn't risk it."
+          },
+          {
+            "stringId": "1683828692773261312",
+            "femaleVariant": "No need to thank me for saving your life."
+          },
+          {
+            "stringId": "1683828843214557184",
+            "femaleVariant": "Your brother sure cost you a lotta time."
+          },
+          {
+            "stringId": "1683828843264888832",
+            "femaleVariant": "Why'd your brother quit Maelstrom?"
+          },
+          {
+            "stringId": "1683832882564190208",
+            "femaleVariant": "Don't you even talk to me."
+          },
+          {
+            "stringId": "1683834018163609600",
+            "femaleVariant": "Don't you even talk to me."
+          },
+          {
+            "stringId": "1683835800004612096",
+            "femaleVariant": "..."
+          },
+          {
+            "stringId": "1683836920957521920",
+            "femaleVariant": "He... he just needed to figure stuff out."
+          },
+          {
+            "stringId": "1684161846725414912",
+            "femaleVariant": "Fine. After you."
+          },
+          {
+            "stringId": "1684182121537966080",
+            "femaleVariant": "All right... crisis averted, looks like. Rest he'll just have to sleep off..."
+          },
+          {
+            "stringId": "1684182672803729408",
+            "femaleVariant": "Thanks. Now we can go."
+          },
+          {
+            "stringId": "1684921075593744384",
+            "femaleVariant": "Got it. Waiting here."
+          },
+          {
+            "stringId": "1685127166345105452",
+            "femaleVariant": "Why'd your brother leave Maelstrom?"
+          },
+          {
+            "stringId": "1689453709468471296",
+            "femaleVariant": "Do the scan already!"
+          },
+          {
+            "stringId": "1689454518079950848",
+            "femaleVariant": "Just hope it's worth it in the end, hm?"
+          },
+          {
+            "stringId": "1689489375178887168",
+            "femaleVariant": "I'll try to stem the bleeding. You – give him a unit of synth-blood."
+          },
+          {
+            "stringId": "1689567318399881216",
+            "femaleVariant": "How'd Maelstrom treat you?"
+          },
+          {
+            "stringId": "1689567788061265920",
+            "femaleVariant": "How'd they treat you in there?"
+          },
+          {
+            "stringId": "1689569533411823616",
+            "femaleVariant": "How do you think?"
+          },
+          {
+            "stringId": "1689571989311033344",
+            "femaleVariant": "What does it matter now, anyway."
+          },
+          {
+            "stringId": "1689581113566400512",
+            "femaleVariant": "Didn't lay a finger."
+          },
+          {
+            "stringId": "1689583747807416320",
+            "femaleVariant": "You're not even mad?"
+          },
+          {
+            "stringId": "1689583877663068160",
+            "femaleVariant": "He's my brother."
+          },
+          {
+            "stringId": "1691083380433981440",
+            "femaleVariant": "You don't blame your brother for all the time you lost?"
+          },
+          {
+            "stringId": "1692192165936779264",
+            "femaleVariant": "Your ride's here."
+          },
+          {
+            "stringId": "1692192284769800192",
+            "femaleVariant": "Your ride's here."
+          },
+          {
+            "stringId": "1692648167093669888",
+            "femaleVariant": "C'mon. Just a little farther."
+          },
+          {
+            "stringId": "1692650420928090112",
+            "femaleVariant": "Keep close to me. Head down."
+          },
+          {
+            "stringId": "1692651502924304384",
+            "femaleVariant": "Cover! Now!"
+          },
+          {
+            "stringId": "1692652207483490304",
+            "femaleVariant": "That's that!"
+          },
+          {
+            "stringId": "1692655610959859712",
+            "femaleVariant": "Let's delta."
+          },
+          {
+            "stringId": "1699859144402898944",
+            "femaleVariant": "What? You're afraid the big, bad Maelstromers hurt me?"
+          },
+          {
+            "stringId": "1704181634721746944",
+            "femaleVariant": "Come on."
+          },
+          {
+            "stringId": "1704181788250050560",
+            "femaleVariant": "After you."
+          },
+          {
+            "stringId": "1753349015704276992",
+            "femaleVariant": "Don't shoot."
+          },
+          {
+            "stringId": "1753350242655637504",
+            "femaleVariant": "I'm a doctor. I'm not part of the gang."
+          },
+          {
+            "stringId": "1753366682683150340",
+            "femaleVariant": "I know. I'm here to get you out."
+          },
+          {
+            "stringId": "1753368376007561216",
+            "femaleVariant": "Leave him."
+          },
+          {
+            "stringId": "1753379467542499328",
+            "femaleVariant": "I know. You're Lucy Thackery."
+          },
+          {
+            "stringId": "1753379777115688960",
+            "femaleVariant": "Ditch him. We gotta go."
+          },
+          {
+            "stringId": "1753381213379596288",
+            "femaleVariant": "Tech's blacked out again! Piece of shit...!"
+          },
+          {
+            "stringId": "1753381621116276736",
+            "femaleVariant": "V. Your brother sent me to get you out of here."
+          },
+          {
+            "stringId": "1753407398721458176",
+            "femaleVariant": "Tech's blacked out again! Piece of shit...!"
+          },
+          {
+            "stringId": "1753496689749364736",
+            "femaleVariant": "Your brother hired me to get you out of here."
+          },
+          {
+            "stringId": "1754908853085245440",
+            "femaleVariant": "Bertie...? OK... OK, just a moment."
+          },
+          {
+            "stringId": "1754909442988937216",
+            "femaleVariant": "Any second now more of those borg freaks could show."
+          },
+          {
+            "stringId": "1754946628983558144",
+            "femaleVariant": "Your \"patient\" was a murderer."
+          },
+          {
+            "stringId": "1754947485930196992",
+            "femaleVariant": "Bet he killed more people than you'll ever save."
+          },
+          {
+            "stringId": "1754948038773018624",
+            "femaleVariant": "You bet? I bet you don't even know his name."
+          },
+          {
+            "stringId": "1754950853620764672",
+            "femaleVariant": "Gonk's Maelstrom. All I need to know."
+          },
+          {
+            "stringId": "1754950915847458816",
+            "femaleVariant": "And what about you?"
+          },
+          {
+            "stringId": "1754951498654388224",
+            "femaleVariant": "What about me?"
+          },
+          {
+            "stringId": "1754954358817394688",
+            "femaleVariant": "How are your stats? Kills to saves?"
+          },
+          {
+            "stringId": "1754968332476715008",
+            "femaleVariant": "Or do you even keep track?"
+          },
+          {
+            "stringId": "1756055898038833152",
+            "femaleVariant": "They're breathing... I thought you killed them."
+          },
+          {
+            "stringId": "1906958453970407424",
+            "femaleVariant": "Come on! It's on the table. First from the left."
+          },
+          {
+            "stringId": "1907003417546821632",
+            "femaleVariant": "What is up with this tech? I can't see shit!"
+          },
+          {
+            "stringId": "1907033929262927872",
+            "femaleVariant": "Come on, quick, he's bleeding out!"
+          },
+          {
+            "stringId": "1907034359397191684",
+            "femaleVariant": "Can't hold him much longer...!"
+          },
+          {
+            "stringId": "1907036042370060288",
+            "femaleVariant": "Just not in my hand!"
+          },
+          {
+            "stringId": "1907038222065963008",
+            "femaleVariant": "Phew, OK. Gotta wait a bit before it closes up."
+          },
+          {
+            "stringId": "1907040074992029696",
+            "femaleVariant": "As if I can remember all your names...."
+          },
+          {
+            "stringId": "1907048743225888768",
+            "femaleVariant": "Jesus, I see your implants. Scan him!"
+          },
+          {
+            "stringId": "1907051590755651584",
+            "femaleVariant": "Off we go. Just hope it's worth it in the end, hm?"
+          },
+          {
+            "stringId": "1908545640696483840",
+            "femaleVariant": "And you are...?"
+          },
+          {
+            "stringId": "1908559765233307648",
+            "femaleVariant": "Since you're still here, run a scan on him..."
+          },
+          {
+            "stringId": "1908591145086455808",
+            "femaleVariant": "No. Enough of this."
+          },
+          {
+            "stringId": "1909979240096698368",
+            "femaleVariant": "What do you mean, \"we have to go?\""
+          },
+          {
+            "stringId": "1932838626460536832",
+            "femaleVariant": "Of course. Shouldn't have expected anything from someone like you."
+          },
+          {
+            "stringId": "1934590641465298944",
+            "femaleVariant": "[Apply synth-blood]"
+          },
+          {
+            "stringId": "2289490574713094148",
+            "femaleVariant": "What's with him?"
+          },
+          {
+            "stringId": "2289503457836597248",
+            "femaleVariant": "We don't have time for this."
+          },
+          {
+            "stringId": "2289506937783517188",
+            "femaleVariant": "You can't be serious."
+          },
+          {
+            "stringId": "2289592020129349636",
+            "femaleVariant": "Why are you helping him?"
+          },
+          {
+            "stringId": "2289593056994852864",
+            "femaleVariant": "Just hurry up."
+          }
+        ]
+      }
+
+
+

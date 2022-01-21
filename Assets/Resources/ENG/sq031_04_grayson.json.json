@@ -1,0 +1,658 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        "entries": [
+          {
+            "stringId": "1566889953731502080",
+            "femaleVariant": "Grayson."
+          },
+          {
+            "stringId": "1567873954311004164",
+            "femaleVariant": "[Draw weapon] Don't want anything from you."
+          },
+          {
+            "stringId": "1567878610726641664",
+            "femaleVariant": "[Put weapon away] Got lucky today."
+          },
+          {
+            "stringId": "1567879379945218048",
+            "femaleVariant": "Ya got lucky today."
+          },
+          {
+            "stringId": "1567879692286648320",
+            "femaleVariant": "Don't want a damn thing from you."
+          },
+          {
+            "stringId": "1729067252705878016",
+            "femaleVariant": "Fuck, you hear that?"
+          },
+          {
+            "stringId": "1729069070970216448",
+            "femaleVariant": "No, not that! Fucker's shooting at me with my own gun!"
+          },
+          {
+            "stringId": "1756735917089579016",
+            "femaleVariant": "Where's Smasher?"
+          },
+          {
+            "stringId": "1756739551319777284",
+            "femaleVariant": "I'd start talkin' if I were you."
+          },
+          {
+            "stringId": "1757798755769999360",
+            "femaleVariant": "There it is."
+          },
+          {
+            "stringId": "1757799148038086656",
+            "femaleVariant": "Got that card of Grayson's?"
+          },
+          {
+            "stringId": "1757809800446173188",
+            "femaleVariant": "[Use key] OK."
+          },
+          {
+            "stringId": "1757810854206332936",
+            "femaleVariant": "OK."
+          },
+          {
+            "stringId": "1757835900844990464",
+            "femaleVariant": "Oh, fuck. Think I know what it is."
+          },
+          {
+            "stringId": "1757839878722904068",
+            "femaleVariant": "[Remove canvas] Let's see."
+          },
+          {
+            "stringId": "1757844125539590144",
+            "femaleVariant": "Let's see what we got here…"
+          },
+          {
+            "stringId": "1757852175986024472",
+            "femaleVariant": "Purrs like a dream."
+          },
+          {
+            "stringId": "1757852175986024480",
+            "femaleVariant": "All right, let's go see where they fuckin' planted my ass."
+          },
+          {
+            "stringId": "1757857679919505408",
+            "femaleVariant": "OK. Gotta be around here somewhere."
+          },
+          {
+            "stringId": "1757867324218236928",
+            "femaleVariant": "Never realized the thing between you and Rogue was that serious.",
+            "maleVariant": "I never realized the thing between you and Rogue was that serious."
+          },
+          {
+            "stringId": "1757867324218236936",
+            "femaleVariant": "Damn right it was serious. When we met up, someone always died."
+          },
+          {
+            "stringId": "1757868928875061248",
+            "femaleVariant": "Not far now."
+          },
+          {
+            "stringId": "1757868928875061260",
+            "femaleVariant": "Huh. Worse than I thought."
+          },
+          {
+            "stringId": "1758141524040441856",
+            "femaleVariant": "You're not gettin' out alive!"
+          },
+          {
+            "stringId": "1758142472691343360",
+            "femaleVariant": "C'mere, you!"
+          },
+          {
+            "stringId": "1779431313179893760",
+            "femaleVariant": "Grab the gun."
+          },
+          {
+            "stringId": "1779438021600043008",
+            "femaleVariant": "I gotta tell 'er, Rogue?",
+            "maleVariant": "I gotta tell 'im, Rogue?"
+          },
+          {
+            "stringId": "1779459709523943424",
+            "femaleVariant": "Gonk's tryna use me to lie his way out."
+          },
+          {
+            "stringId": "1779464435313369088",
+            "femaleVariant": "Good. One dickspurt less."
+          },
+          {
+            "stringId": "1779465666207375360",
+            "femaleVariant": "Turnin' soft on me, V."
+          },
+          {
+            "stringId": "1779527896592506880",
+            "femaleVariant": "Gotta get that container down somehow."
+          },
+          {
+            "stringId": "1779528478124367872",
+            "femaleVariant": "OK. Lookin' for the control panel."
+          },
+          {
+            "stringId": "1779552411728961540",
+            "femaleVariant": "Well?"
+          },
+          {
+            "stringId": "1779557811090055168",
+            "femaleVariant": "Take that rag off it."
+          },
+          {
+            "stringId": "1779558827453800452",
+            "femaleVariant": "My ride."
+          },
+          {
+            "stringId": "1821201369176281088",
+            "femaleVariant": "Grayson. Yeah."
+          },
+          {
+            "stringId": "1821205177855971328",
+            "femaleVariant": "Malorian thirty-five sixteen. Signature sound, I'd know it anywhere."
+          },
+          {
+            "stringId": "1821432908094967808",
+            "femaleVariant": "Must've been before her time.",
+            "maleVariant": "Must've been before his time."
+          },
+          {
+            "stringId": "1821520315913932800",
+            "femaleVariant": "Where's Smasher now?"
+          },
+          {
+            "stringId": "1821523945110966272",
+            "femaleVariant": "Silverhand's iron – you had it."
+          },
+          {
+            "stringId": "1821525790772498432",
+            "femaleVariant": "What, you a fan too?"
+          },
+          {
+            "stringId": "1821538782964682752",
+            "femaleVariant": "Ungh... With the Arasakas. But I think you know that already."
+          },
+          {
+            "stringId": "1821543299139571712",
+            "femaleVariant": "Never. Faithful old Adam's just been named head of security there. Ungh..."
+          },
+          {
+            "stringId": "1821551479760424960",
+            "femaleVariant": "Shit!"
+          },
+          {
+            "stringId": "1821551740327366656",
+            "femaleVariant": "Could say that again. You two'll never jump that high. Smasher's outta your reach."
+          },
+          {
+            "stringId": "1821552952414113792",
+            "femaleVariant": "But don't feel bad – he'll find you himself. Likes to resolve shit like this in person."
+          },
+          {
+            "stringId": "1821560781317410816",
+            "femaleVariant": "Smasher ever tell you what he did with Silverhand's body?"
+          },
+          {
+            "stringId": "1821561481363525632",
+            "femaleVariant": "That into him, huh? Plan to exhume that scop?"
+          },
+          {
+            "stringId": "1821567700492947456",
+            "femaleVariant": "What did they do with 'im?"
+          },
+          {
+            "stringId": "1821589134174916608",
+            "femaleVariant": "Or you just wanna hear how he died – soaked in his own piss, neurons scorched by Soulkiller?"
+          },
+          {
+            "stringId": "1821590583072067584",
+            "femaleVariant": "Badlands, near the oil fields – buried out there... Gngh.. One-O-one northbound, then head for the landfill."
+          },
+          {
+            "stringId": "1822677160019955712",
+            "femaleVariant": "Leave 'er alone, V."
+          },
+          {
+            "stringId": "1822681979208142848",
+            "femaleVariant": "Let's hit those oil fields. Wanna see what it looks like out there."
+          },
+          {
+            "stringId": "1822683952745615360",
+            "femaleVariant": "She'll get it together, but times like this she prefers to be alone."
+          },
+          {
+            "stringId": "1822684581018800128",
+            "femaleVariant": "OK, I get that."
+          },
+          {
+            "stringId": "1822702700445634560",
+            "femaleVariant": "Hop in. I'll even let you drive."
+          },
+          {
+            "stringId": "1822707828636585984",
+            "femaleVariant": "Oh, yeah."
+          },
+          {
+            "stringId": "1822721335755083776",
+            "femaleVariant": "How so very romantic. It's definitely your style."
+          },
+          {
+            "stringId": "1822724578052739072",
+            "femaleVariant": "There was always somethin' goin' on."
+          },
+          {
+            "stringId": "1822729440895242240",
+            "femaleVariant": "She had a gig, I had a gig – music, that is…"
+          },
+          {
+            "stringId": "1822734860204445696",
+            "femaleVariant": "Was never run-of-the-mill."
+          },
+          {
+            "stringId": "1822737913892638720",
+            "femaleVariant": "Although did try to take her to see a flick once."
+          },
+          {
+            "stringId": "1822738390785003520",
+            "femaleVariant": "And?"
+          },
+          {
+            "stringId": "1822738661686710272",
+            "femaleVariant": "And nothing came of it. As usual."
+          },
+          {
+            "stringId": "1879795933868081152",
+            "femaleVariant": "What I promised – in the container, on that goliath over there."
+          },
+          {
+            "stringId": "1879795933868081164",
+            "femaleVariant": "What's inside?",
+            "maleVariant": "Yeah, what's inside?"
+          },
+          {
+            "stringId": "1879795933901635584",
+            "femaleVariant": "You'll see. Got the access card right here – take it."
+          },
+          {
+            "stringId": "1879802279128612864",
+            "femaleVariant": "Smasher's got something that was Johnny's."
+          },
+          {
+            "stringId": "1879908082594496512",
+            "femaleVariant": "Y'know, could just smash your skull in."
+          },
+          {
+            "stringId": "1879910099836616704",
+            "femaleVariant": "Could crack your skull like an eggshell, know that?"
+          },
+          {
+            "stringId": "1879910974416109568",
+            "femaleVariant": "You'd still be able to talk. For a little while."
+          },
+          {
+            "stringId": "1880014622949261312",
+            "femaleVariant": "Ruby… Wait, THAT Ruby?"
+          },
+          {
+            "stringId": "1880017183940952064",
+            "femaleVariant": "Shouldn'ta let Grayson off."
+          },
+          {
+            "stringId": "1880017437830561792",
+            "femaleVariant": "Bastard must've guessed she was the one who sold 'im out."
+          },
+          {
+            "stringId": "1895233492588711936",
+            "femaleVariant": "Everybody knows Rogue. Livin' legend that she is. Ehh..."
+          },
+          {
+            "stringId": "1895234682697306112",
+            "femaleVariant": "He's tryin' to throw you off."
+          },
+          {
+            "stringId": "1895235231798808576",
+            "femaleVariant": "Gonk thinks he can still squirm outta this."
+          },
+          {
+            "stringId": "1895296732408598528",
+            "femaleVariant": "Not comin' back to this rathole, ever. I stayed behind just to tie off his loose ends."
+          },
+          {
+            "stringId": "1895299798629371904",
+            "femaleVariant": "Dig deep enough, might even find a shit-smeared silver arm."
+          },
+          {
+            "stringId": "1895303634303602688",
+            "femaleVariant": "Could be yours. Just gotta let me live."
+          },
+          {
+            "stringId": "1896649930893447168",
+            "femaleVariant": "No reason to stay. I'm out."
+          },
+          {
+            "stringId": "1896649932705386496",
+            "femaleVariant": "Not at all curious?",
+            "maleVariant": "You not at all curious?"
+          },
+          {
+            "stringId": "1896655804177338368",
+            "femaleVariant": "Let's delta."
+          },
+          {
+            "stringId": "1896752698404655104",
+            "femaleVariant": "If there's something of mine in there, I want it back."
+          },
+          {
+            "stringId": "1896759206085414912",
+            "femaleVariant": "How's Smasher got Johnny's stuff?"
+          },
+          {
+            "stringId": "1896760691892441088",
+            "femaleVariant": "How'd Smasher wind up with Johnny's stuff?"
+          },
+          {
+            "stringId": "1896805435251118080",
+            "femaleVariant": "Told me Saburo Arasaka ordered him to get rid of the body, any and all sundries..."
+          },
+          {
+            "stringId": "1896806628463497216",
+            "femaleVariant": "Sold most of it, 'cept the Malorian and... what I got."
+          },
+          {
+            "stringId": "1896809406753689600",
+            "femaleVariant": "V. End this."
+          },
+          {
+            "stringId": "1898180493408227328",
+            "femaleVariant": "Smasher give it to you?"
+          },
+          {
+            "stringId": "1898180847860469760",
+            "femaleVariant": "Uh-huh. Reward for a special job well done."
+          },
+          {
+            "stringId": "1908700260506292224",
+            "femaleVariant": "All right, all right, open it."
+          },
+          {
+            "stringId": "1924057208114139136",
+            "femaleVariant": "I'd start talkin' if I were you."
+          },
+          {
+            "stringId": "1924122554783256576",
+            "femaleVariant": "Wound looks pizza-wreck awful, an' I don't see no one around who could help.",
+            "maleVariant": "Your wound looks pizza-wreck awful, an' I don't see no one around who could help."
+          },
+          {
+            "stringId": "1924850239704809476",
+            "femaleVariant": "[Take gun] Not yours, I don't think."
+          },
+          {
+            "stringId": "1927159119129341952",
+            "femaleVariant": "[Take gun] Nice and easy…"
+          },
+          {
+            "stringId": "1928658304455430148",
+            "femaleVariant": "Do I end him?"
+          },
+          {
+            "stringId": "1928658924927209476",
+            "femaleVariant": "Grayson's a pawn."
+          },
+          {
+            "stringId": "1928660149630423040",
+            "femaleVariant": "He deserve extinction? Do I end him?"
+          },
+          {
+            "stringId": "1928662930051321860",
+            "femaleVariant": "Heard enough. Finish him. Fucker."
+          },
+          {
+            "stringId": "1928662930940514304",
+            "femaleVariant": "Let's go. Won't get any more out of 'im."
+          },
+          {
+            "stringId": "1928662932584681472",
+            "femaleVariant": "No, no, wait! I got somethin'... Silverhand, you're into him, right? Could give you somethin'."
+          },
+          {
+            "stringId": "1928664862434283520",
+            "femaleVariant": "Grayson's a minidrone. Smasher's the guy we want."
+          },
+          {
+            "stringId": "1928671862073348096",
+            "femaleVariant": "Should blow both their skullsponges out."
+          },
+          {
+            "stringId": "1928679300738600960",
+            "femaleVariant": "Do what you think is right."
+          },
+          {
+            "stringId": "1928707475170414592",
+            "femaleVariant": "When's he due back?"
+          },
+          {
+            "stringId": "1928781208904028160",
+            "femaleVariant": "Not yours, I don't think.",
+            "maleVariant": "It's not yours, I don't think."
+          },
+          {
+            "stringId": "1928782245417209860",
+            "femaleVariant": "Nice an' easy, or I'll pop another in you.",
+            "maleVariant": "Nice an' easy, or I'll pop another in ya."
+          },
+          {
+            "stringId": "1954566135209545728",
+            "femaleVariant": "Pointless, this whole thing. Still no leads, nowhere to go from here."
+          },
+          {
+            "stringId": "1954566845892415488",
+            "femaleVariant": "Fuck. V, tell her..."
+          },
+          {
+            "stringId": "1954568106515648512",
+            "femaleVariant": "Johnny says you'll get him yet."
+          },
+          {
+            "stringId": "1954568106515648528",
+            "femaleVariant": "Johnny wasn't just after revenge."
+          },
+          {
+            "stringId": "1954568107220291588",
+            "femaleVariant": "Johnny says you'll get him yet."
+          },
+          {
+            "stringId": "1954568107891380224",
+            "femaleVariant": "Oh, yeah? Well tell him--"
+          },
+          {
+            "stringId": "1954568108495360000",
+            "femaleVariant": "Fuck. Can't even have a normal convo with him."
+          },
+          {
+            "stringId": "1954568109837537284",
+            "femaleVariant": "To Johnny, this is more than a 50-year-old grudge."
+          },
+          {
+            "stringId": "1954568110525403136",
+            "femaleVariant": "Really – like, what is it?"
+          },
+          {
+            "stringId": "1954568111179714560",
+            "femaleVariant": "It's about you. He wanted to do this with you."
+          },
+          {
+            "stringId": "1954568111834025984",
+            "femaleVariant": "What, to cheer me up? Heh, didn't work."
+          },
+          {
+            "stringId": "1954571213018517504",
+            "femaleVariant": "Smasher--"
+          },
+          {
+            "stringId": "1954571692796563456",
+            "femaleVariant": "Fuck, you don't get it! This isn't about Smasher!"
+          },
+          {
+            "stringId": "1954578982614355968",
+            "femaleVariant": "He's just the goddamn tip of the iceberg!"
+          },
+          {
+            "stringId": "1954580118364770304",
+            "femaleVariant": "Even if we get him – what does that get us?"
+          },
+          {
+            "stringId": "1954595623834243076",
+            "femaleVariant": "Well, we learned something."
+          },
+          {
+            "stringId": "1954595624639549440",
+            "femaleVariant": "Mhm. That they tossed Johnny's body like so much trash."
+          },
+          {
+            "stringId": "1954595716176039936",
+            "femaleVariant": "Still learned something."
+          },
+          {
+            "stringId": "1961083473878728704",
+            "femaleVariant": "Later, V."
+          },
+          {
+            "stringId": "2078289521448579076",
+            "femaleVariant": "[Take card]"
+          },
+          {
+            "stringId": "2231633345463795712",
+            "femaleVariant": "Oh my, Rogue. You an' me not playin' for the same team anymore?"
+          },
+          {
+            "stringId": "2231637082504773632",
+            "femaleVariant": "Gnh. Guess I'm not at all surprised. Seems your specialty, slipping shivs in the backs of allies."
+          },
+          {
+            "stringId": "2231649882161627136",
+            "femaleVariant": "You two familiar?"
+          },
+          {
+            "stringId": "2231653167677390848",
+            "femaleVariant": "Huh, you two familiar?"
+          },
+          {
+            "stringId": "2231658234128187392",
+            "femaleVariant": "But I'm happy to talk."
+          },
+          {
+            "stringId": "2231659452355395584",
+            "femaleVariant": "Ever wonder how Rogue survived after the attack on the tower, how in hell no one ever hunted her down?"
+          },
+          {
+            "stringId": "2231660978058641408",
+            "femaleVariant": "Her alone... hrgh... out of all that Atlantis trash?"
+          },
+          {
+            "stringId": "2231667229031219200",
+            "femaleVariant": "'Cause I do, I truly wonder how far she had to go to set herself up so comfy…"
+          },
+          {
+            "stringId": "2231674240397557760",
+            "femaleVariant": "Who'd she fingerfuck? Whose crack did she have to lick to--? Ugh!"
+          },
+          {
+            "stringId": "2231677047997546496",
+            "femaleVariant": "What's he goin' on about?"
+          },
+          {
+            "stringId": "2231678791485833216",
+            "femaleVariant": "What's he talkin' about?"
+          },
+          {
+            "stringId": "2231703725901692932",
+            "femaleVariant": "You're useless."
+          },
+          {
+            "stringId": "2232141758878793728",
+            "femaleVariant": "Gonna lead us to Smasher."
+          },
+          {
+            "stringId": "2232144643821748224",
+            "femaleVariant": "You're fucking useless."
+          },
+          {
+            "stringId": "2232146564510990336",
+            "femaleVariant": "Gonna lead us to Smasher, assface."
+          },
+          {
+            "stringId": "2232149623735664640",
+            "femaleVariant": "Lemme do the honors, V."
+          },
+          {
+            "stringId": "2232151176752218112",
+            "femaleVariant": "Even if I wanted to, he don't trust me enough to…"
+          },
+          {
+            "stringId": "2232152804242833408",
+            "femaleVariant": "Hey, why you so interested in Smasher anyway?"
+          },
+          {
+            "stringId": "2232156201444524036",
+            "femaleVariant": "Where's Smasher?"
+          },
+          {
+            "stringId": "2232156395959566336",
+            "femaleVariant": "I'm not. Interested in Silverhand. And what happened to him."
+          },
+          {
+            "stringId": "2232156739087187968",
+            "femaleVariant": "Johnny Silverhand? What do you wanna know?"
+          },
+          {
+            "stringId": "2232158379496259588",
+            "femaleVariant": "What'd Smasher do with Silverhand's body?"
+          },
+          {
+            "stringId": "2232158859240751104",
+            "femaleVariant": "You had Silverhand's gun."
+          },
+          {
+            "stringId": "2238932689812537344",
+            "femaleVariant": "Yes."
+          },
+          {
+            "stringId": "2239061167601958912",
+            "femaleVariant": "Bastard's beggin' to be squeezed."
+          },
+          {
+            "stringId": "2239061541347999748",
+            "femaleVariant": "Youre' not wrigglin' out of this, you lyin' sack of shit."
+          },
+          {
+            "stringId": "2239069672845164544",
+            "femaleVariant": "Let's end this quickly. Wanna rip my eyes out just lookin' at 'im."
+          },
+          {
+            "stringId": "2239093225304965120",
+            "femaleVariant": "So?!"
+          },
+          {
+            "stringId": "2247682955382702080",
+            "femaleVariant": "Meanin'…"
+          }
+        ]
+      }
+
+
+
